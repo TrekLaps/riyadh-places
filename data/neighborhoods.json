@@ -1,805 +1,2158 @@
 [
   {
-    "id": "olaya",
-    "name_ar": "حي العليا",
-    "name_en": "Al Olaya",
-    "district": "وسط الرياض",
-    "description_ar": "قلب الرياض التجاري والمالي. يضم أبرز المطاعم والكافيهات والمولات الفاخرة وبرج المملكة وبرج الفيصلية.",
-    "lat": 24.6917,
-    "lng": 46.6842,
-    "place_count": 46,
-    "top_categories": [
-      "مطعم",
-      "كافيه",
-      "تسوق"
-    ]
+    "id": "al-rabee",
+    "name_ar": "حي الربيع",
+    "name_en": "Al Rabee",
+    "municipality": "بلدية الشمال",
+    "district": "شمال الرياض",
+    "description_ar": "حي راقٍ حديث يتميز بتخطيط عمراني منظم وفلل سكنية فاخرة وقربه من طريق الملك فهد",
+    "lat": 24.8233,
+    "lng": 46.6497,
+    "character": "سكني"
   },
   {
-    "id": "malqa",
-    "name_ar": "حي الملقا",
-    "name_en": "Al Malqa",
+    "id": "al-nada",
+    "name_ar": "حي الندى",
+    "name_en": "Al Nada",
+    "municipality": "بلدية الشمال",
     "district": "شمال الرياض",
-    "description_ar": "من أرقى أحياء شمال الرياض. يتميز بالفلل الفاخرة والمطاعم العائلية والكافيهات الراقية.",
-    "lat": 24.7818,
-    "lng": 46.6342,
-    "place_count": 34,
-    "top_categories": [
-      "كافيه",
-      "مطعم",
-      "ترفيه"
-    ]
+    "description_ar": "حي هادئ ومنظم يقع شمال الرياض مع حدائق ومرافق حديثة",
+    "lat": 24.835,
+    "lng": 46.67,
+    "character": "سكني"
+  },
+  {
+    "id": "al-sahafah",
+    "name_ar": "حي الصحافة",
+    "name_en": "Al Sahafah",
+    "municipality": "بلدية الشمال",
+    "district": "شمال الرياض",
+    "description_ar": "حي حيوي يضم مقرات صحفية وإعلامية ومراكز تجارية حديثة",
+    "lat": 24.8127,
+    "lng": 46.6842,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-narjis",
+    "name_ar": "حي النرجس",
+    "name_en": "Al Narjis",
+    "municipality": "بلدية الشمال",
+    "district": "شمال الرياض",
+    "description_ar": "حي سكني جديد سريع التطور يتميز بتصاميم حديثة وبنية تحتية متكاملة",
+    "lat": 24.852,
+    "lng": 46.66,
+    "character": "سكني"
+  },
+  {
+    "id": "al-arid",
+    "name_ar": "حي العارض",
+    "name_en": "Al Arid",
+    "municipality": "بلدية الشمال",
+    "district": "شمال الرياض",
+    "description_ar": "حي حديث في أقصى شمال الرياض يشهد توسعاً عمرانياً كبيراً",
+    "lat": 24.868,
+    "lng": 46.635,
+    "character": "سكني"
+  },
+  {
+    "id": "al-nafl",
+    "name_ar": "حي النفل",
+    "name_en": "Al Nafl",
+    "municipality": "بلدية الشمال",
+    "district": "شمال الرياض",
+    "description_ar": "حي راقٍ يقع على طريق الملك فهد ويتميز بالهدوء والتنظيم",
+    "lat": 24.796,
+    "lng": 46.662,
+    "character": "سكني"
+  },
+  {
+    "id": "al-aqiq",
+    "name_ar": "حي العقيق",
+    "name_en": "Al Aqiq",
+    "municipality": "بلدية الشمال",
+    "district": "شمال الرياض",
+    "description_ar": "حي فاخر يضم مجمعات سكنية راقية ومراكز أعمال حديثة",
+    "lat": 24.788,
+    "lng": 46.645,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-wadi",
+    "name_ar": "حي الوادي",
+    "name_en": "Al Wadi",
+    "municipality": "بلدية الشمال",
+    "district": "شمال الرياض",
+    "description_ar": "حي مميز يقع بين طريقي الملك فهد والعروبة ويتميز بالحيوية",
+    "lat": 24.782,
+    "lng": 46.668,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-ghadir",
+    "name_ar": "حي الغدير",
+    "name_en": "Al Ghadir",
+    "municipality": "بلدية الشمال",
+    "district": "شمال الرياض",
+    "description_ar": "حي سكني هادئ يتميز بالمساحات الخضراء والحدائق",
+    "lat": 24.797,
+    "lng": 46.681,
+    "character": "سكني"
+  },
+  {
+    "id": "al-yasmin",
+    "name_ar": "حي الياسمين",
+    "name_en": "Al Yasmin",
+    "municipality": "بلدية الشمال",
+    "district": "شمال الرياض",
+    "description_ar": "حي راقٍ حديث من أفضل أحياء شمال الرياض يتميز بتخطيط ممتاز وشوارع واسعة",
+    "lat": 24.825,
+    "lng": 46.638,
+    "character": "سكني"
+  },
+  {
+    "id": "al-falah",
+    "name_ar": "حي الفلاح",
+    "name_en": "Al Falah",
+    "municipality": "بلدية الشمال",
+    "district": "شمال الرياض",
+    "description_ar": "حي سكني يقع شمال الرياض قريب من جامعة الإمام محمد بن سعود",
+    "lat": 24.81,
+    "lng": 46.71,
+    "character": "سكني"
+  },
+  {
+    "id": "bunban",
+    "name_ar": "حي بنبان",
+    "name_en": "Bunban",
+    "municipality": "بلدية الشمال",
+    "district": "شمال الرياض",
+    "description_ar": "حي يقع في أقصى شمال الرياض قريب من مشروع الطاقة الشمسية الضخم",
+    "lat": 24.91,
+    "lng": 46.63,
+    "character": "سكني"
+  },
+  {
+    "id": "al-qairawan",
+    "name_ar": "حي القيروان",
+    "name_en": "Al Qairawan",
+    "municipality": "بلدية الشمال",
+    "district": "شمال الرياض",
+    "description_ar": "حي حديث سريع النمو يتميز بمشاريع سكنية جديدة ومتنوعة",
+    "lat": 24.84,
+    "lng": 46.62,
+    "character": "سكني"
   },
   {
     "id": "hittin",
     "name_ar": "حي حطين",
     "name_en": "Hittin",
-    "district": "غرب الرياض",
-    "description_ar": "حي راقي في غرب الرياض. يشتهر بالمطاعم الفاخرة والكافيهات المميزة وقربه من وادي حنيفة.",
-    "lat": 24.7448,
-    "lng": 46.615,
-    "place_count": 23,
-    "top_categories": [
-      "مطعم",
-      "كافيه",
-      "فعاليات"
-    ]
-  },
-  {
-    "id": "yasmin",
-    "name_ar": "حي الياسمين",
-    "name_en": "Al Yasmin",
+    "municipality": "بلدية الشمال",
     "district": "شمال الرياض",
-    "description_ar": "حي عصري في شمال الرياض. يضم مجموعة متنوعة من المطاعم والكافيهات ومراكز التسوق الحديثة.",
-    "lat": 24.8081,
-    "lng": 46.6272,
-    "place_count": 17,
-    "top_categories": [
-      "كافيه",
-      "مطعم",
-      "حلويات"
-    ]
+    "description_ar": "حي راقٍ يتميز بفلل فاخرة وقربه من المرافق التعليمية والصحية",
+    "lat": 24.798,
+    "lng": 46.62,
+    "character": "سكني"
   },
   {
-    "id": "kafd",
-    "name_ar": "حي الملك عبدالله المالي",
-    "name_en": "KAFD",
-    "district": "وسط الرياض",
-    "description_ar": "مركز الملك عبدالله المالي. أحدث معلم معماري في الرياض يضم مطاعم عالمية وفعاليات ثقافية ومسرح محمد العلي.",
-    "lat": 24.7644,
-    "lng": 46.6426,
-    "place_count": 16,
-    "top_categories": [
-      "مطعم",
-      "ترفيه",
-      "كافيه"
-    ]
-  },
-  {
-    "id": "narjis",
-    "name_ar": "حي النرجس",
-    "name_en": "Al Narjis",
+    "id": "al-malqa",
+    "name_ar": "حي الملقا",
+    "name_en": "Al Malqa",
+    "municipality": "بلدية الشمال",
     "district": "شمال الرياض",
-    "description_ar": "حي سكني هادئ في شمال الرياض. يتميز بالمساحات الخضراء والمطاعم العائلية والكافيهات المريحة.",
-    "lat": 24.8205,
-    "lng": 46.6208,
-    "place_count": 11,
-    "top_categories": [
-      "كافيه",
-      "مطعم",
-      "حلويات"
-    ]
+    "description_ar": "حي فاخر من أرقى أحياء الرياض يضم قصور وفلل كبيرة ومرافق متميزة",
+    "lat": 24.805,
+    "lng": 46.61,
+    "character": "سكني"
   },
   {
-    "id": "wurud",
-    "name_ar": "حي الورود",
-    "name_en": "Al Wurud",
-    "district": "وسط الرياض",
-    "description_ar": "حي مركزي قريب من العليا. يشتهر بالمطاعم المتنوعة والأسواق التجارية والموقع الاستراتيجي.",
-    "lat": 24.7193,
-    "lng": 46.6761,
-    "place_count": 11,
-    "top_categories": [
-      "كافيه",
-      "مطعم",
-      "حلويات"
-    ]
-  },
-  {
-    "id": "rabwa",
-    "name_ar": "حي الربوة",
-    "name_en": "Al Rabwah",
-    "district": "شرق الرياض",
-    "description_ar": "حي حيوي في شرق الرياض. يضم العثيم مول ومجموعة كبيرة من المطاعم والكافيهات الشعبية والعائلية.",
-    "lat": 24.6754,
-    "lng": 46.7311,
-    "place_count": 10,
-    "top_categories": [
-      "ترفيه",
-      "تسوق",
-      "كافيه"
-    ]
-  },
-  {
-    "id": "muruj",
-    "name_ar": "حي المروج",
-    "name_en": "Al Muruj",
-    "district": "غرب الرياض",
-    "description_ar": "حي هادئ في غرب الرياض. يتميز بالمطاعم الراقية والكافيهات المميزة والأجواء العائلية.",
-    "lat": 24.7346,
-    "lng": 46.6689,
-    "place_count": 6,
-    "top_categories": [
-      "كافيه",
-      "ترفيه",
-      "مطعم"
-    ]
-  },
-  {
-    "id": "safarat",
-    "name_ar": "حي السفارات",
-    "name_en": "Diplomatic Quarter",
-    "district": "غرب الرياض",
-    "description_ar": "الحي الدبلوماسي في الرياض. يتميز بالحدائق الجميلة والمطاعم العالمية والأجواء الهادئة والمسارات الرياضية.",
-    "lat": 24.6947,
-    "lng": 46.6287,
-    "place_count": 7,
-    "top_categories": [
-      "مطعم",
-      "طبيعة",
-      "كافيه"
-    ]
-  },
-  {
-    "id": "sahafa",
-    "name_ar": "حي الصحافة",
-    "name_en": "Al Sahafah",
+    "id": "al-khair",
+    "name_ar": "حي الخير",
+    "name_en": "Al Khair",
+    "municipality": "بلدية الشمال",
     "district": "شمال الرياض",
-    "description_ar": "حي نابض بالحياة في شمال الرياض. يشتهر بتنوع المطاعم والكافيهات وقربه من غرناطة مول.",
-    "lat": 24.8001,
-    "lng": 46.6694,
-    "place_count": 8,
-    "top_categories": [
-      "كافيه",
-      "مطعم",
-      "حلويات"
-    ]
+    "description_ar": "حي يقع في شمال الرياض يشهد تطوراً عمرانياً متسارعاً",
+    "lat": 24.86,
+    "lng": 46.65,
+    "character": "سكني"
   },
   {
-    "id": "arid",
-    "name_ar": "حي العارض",
-    "name_en": "Al Arid",
-    "district": "شمال الرياض",
-    "description_ar": "حي سكني واسع في أقصى شمال الرياض. يتميز بالمساحات المفتوحة والمزارع والمطاعم الشعبية.",
-    "lat": 24.8327,
-    "lng": 46.6395,
-    "place_count": 3,
-    "top_categories": [
-      "ترفيه",
-      "كافيه"
-    ]
-  },
-  {
-    "id": "rabi",
-    "name_ar": "حي الربيع",
-    "name_en": "Al Rabi",
-    "district": "شمال الرياض",
-    "description_ar": "حي عائلي مميز في شمال الرياض. يضم مطاعم وكافيهات متنوعة ومراكز تسوق حديثة.",
-    "lat": 24.7959,
-    "lng": 46.6488,
-    "place_count": 11,
-    "top_categories": [
-      "كافيه",
-      "ترفيه",
-      "مطعم"
-    ]
-  },
-  {
-    "id": "sulimaniyah",
-    "name_ar": "حي السليمانية",
-    "name_en": "Al Sulimaniyah",
-    "district": "وسط الرياض",
-    "description_ar": "حي تاريخي في وسط الرياض. يشتهر بالأسواق الشعبية والمطاعم التراثية وقربه من الملز.",
-    "lat": 24.678,
-    "lng": 46.7041,
-    "place_count": 5,
-    "top_categories": [
-      "حلويات",
-      "كافيه",
-      "تسوق"
-    ]
-  },
-  {
-    "id": "malaz",
-    "name_ar": "حي الملز",
-    "name_en": "Al Malaz",
-    "district": "وسط الرياض",
-    "description_ar": "من أقدم أحياء الرياض. يضم استاد الملز وحديقة الملز والعديد من المطاعم الشعبية والتراثية.",
-    "lat": 24.6676,
-    "lng": 46.7064,
-    "place_count": 8,
-    "top_categories": [
-      "طبيعة",
-      "ترفيه",
-      "فعاليات"
-    ]
-  },
-  {
-    "id": "murabba",
-    "name_ar": "حي المربع",
-    "name_en": "Al Murabba",
-    "district": "وسط الرياض",
-    "description_ar": "قلب الرياض التاريخي. يضم قصر المربع التاريخي والمتحف الوطني وميدان الملك عبدالعزيز.",
-    "lat": 24.6447,
-    "lng": 46.7098,
-    "place_count": 4,
-    "top_categories": [
-      "ترفيه",
-      "فعاليات"
-    ]
-  },
-  {
-    "id": "batha",
-    "name_ar": "حي البطحاء",
-    "name_en": "Al Batha",
-    "district": "وسط الرياض",
-    "description_ar": "من أقدم أحياء الرياض التجارية. يشتهر بالأسواق الشعبية والبضائع المتنوعة بأسعار منافسة.",
-    "lat": 24.6722,
-    "lng": 46.6892,
-    "place_count": 2,
-    "top_categories": [
-      "تسوق",
-      "حلويات"
-    ]
-  },
-  {
-    "id": "dira",
-    "name_ar": "حي الديرة",
-    "name_en": "Al Dira",
-    "district": "وسط الرياض",
-    "description_ar": "حي تراثي عريق. يضم قصر المصمك التاريخي وسوق الزل وأقدم الأسواق الشعبية في الرياض.",
-    "lat": 24.6359,
-    "lng": 46.7136,
-    "place_count": 3,
-    "top_categories": [
-      "تسوق",
-      "ترفيه"
-    ]
-  },
-  {
-    "id": "rawdah",
+    "id": "al-rawdah",
     "name_ar": "حي الروضة",
     "name_en": "Al Rawdah",
+    "municipality": "بلدية الروضة",
     "district": "شرق الرياض",
-    "description_ar": "حي سكني مميز في شرق الرياض. يتميز بالهدوء والمطاعم العائلية والقرب من المرافق الخدمية.",
-    "lat": 24.7139,
-    "lng": 46.673,
-    "place_count": 1,
-    "top_categories": [
-      "حلويات"
-    ]
+    "description_ar": "حي سكني عريق يتميز بموقعه المركزي وتوفر الخدمات والمرافق",
+    "lat": 24.712,
+    "lng": 46.748,
+    "character": "سكني"
   },
   {
-    "id": "gharnata",
-    "name_ar": "حي غرناطة",
-    "name_en": "Granada",
+    "id": "al-rimal",
+    "name_ar": "حي الرمال",
+    "name_en": "Al Rimal",
+    "municipality": "بلدية الروضة",
     "district": "شرق الرياض",
-    "description_ar": "حي حيوي في شرق الرياض. يشتهر بغرناطة مول والمطاعم والكافيهات المتنوعة.",
-    "lat": 24.7117,
-    "lng": 46.729,
-    "place_count": 2,
-    "top_categories": [
-      "تسوق",
-      "كافيه"
-    ]
+    "description_ar": "من أكبر أحياء شرق الرياض الحديثة يضم مشاريع عقارية متنوعة",
+    "lat": 24.735,
+    "lng": 46.83,
+    "character": "سكني"
   },
   {
-    "id": "nakheel",
-    "name_ar": "حي النخيل",
-    "name_en": "Al Nakheel",
-    "district": "شمال الرياض",
-    "description_ar": "حي راقي في شمال الرياض. يضم مطاعم فاخرة ومراكز تجارية ويتميز بالموقع الاستراتيجي.",
-    "lat": 24.7624,
-    "lng": 46.6454,
-    "place_count": 4,
-    "top_categories": [
-      "كافيه",
-      "تسوق"
-    ]
-  },
-  {
-    "id": "hamra",
-    "name_ar": "حي الحمراء",
-    "name_en": "Al Hamra",
-    "district": "شرق الرياض",
-    "description_ar": "حي سكني هادئ في شرق الرياض. يتميز بالمرافق الخدمية والمطاعم العائلية.",
-    "lat": 24.6864,
-    "lng": 46.7009,
-    "place_count": 3,
-    "top_categories": [
-      "تسوق",
-      "فعاليات"
-    ]
-  },
-  {
-    "id": "aqeeq",
-    "name_ar": "حي العقيق",
-    "name_en": "Al Aqeeq",
-    "district": "غرب الرياض",
-    "description_ar": "حي راقي في غرب الرياض. يشتهر بالأبراج التجارية والمطاعم الفاخرة والكافيهات العصرية.",
-    "lat": 24.7577,
-    "lng": 46.6311,
-    "place_count": 5,
-    "top_categories": [
-      "تسوق",
-      "كافيه",
-      "مطعم"
-    ]
-  },
-  {
-    "id": "ghadir",
-    "name_ar": "حي الغدير",
-    "name_en": "Al Ghadir",
-    "district": "غرب الرياض",
-    "description_ar": "حي هادئ في غرب الرياض. يتميز بالمساحات السكنية الواسعة والمطاعم العائلية.",
-    "lat": 24.7527,
-    "lng": 46.6605,
-    "place_count": 2,
-    "top_categories": [
-      "كافيه",
-      "ترفيه"
-    ]
-  },
-  {
-    "id": "raid",
-    "name_ar": "حي الرائد",
-    "name_en": "Al Raid",
-    "district": "غرب الرياض",
-    "description_ar": "حي سكني في غرب الرياض. يتميز بالقرب من المرافق الحيوية والأسواق التجارية.",
-    "lat": 24.7185,
-    "lng": 46.6525,
-    "place_count": 1,
-    "top_categories": [
-      "كافيه"
-    ]
-  },
-  {
-    "id": "taawun",
-    "name_ar": "حي التعاون",
-    "name_en": "Al Taawun",
-    "district": "غرب الرياض",
-    "description_ar": "حي مركزي في غرب الرياض. يضم مراكز تجارية ومطاعم متنوعة وقريب من المناطق الحيوية.",
-    "lat": 24.7105,
-    "lng": 46.6725,
-    "place_count": 1,
-    "top_categories": [
-      "مطعم"
-    ]
-  },
-  {
-    "id": "naseem",
-    "name_ar": "حي النسيم",
-    "name_en": "Al Naseem",
-    "district": "شرق الرياض",
-    "description_ar": "حي شعبي في شرق الرياض. يشتهر بالأسواق الشعبية والمطاعم التراثية والأجواء العائلية.",
-    "lat": 24.6567,
-    "lng": 46.7511,
-    "place_count": 1,
-    "top_categories": [
-      "ترفيه"
-    ]
-  },
-  {
-    "id": "sali",
-    "name_ar": "حي السلي",
-    "name_en": "Al Sali",
-    "district": "شرق الرياض",
-    "description_ar": "حي صناعي وتجاري في شرق الرياض. يضم أسواقاً ومعارض متنوعة.",
-    "lat": 24.6123,
-    "lng": 46.7347,
-    "place_count": 1,
-    "top_categories": [
-      "طبيعة"
-    ]
-  },
-  {
-    "id": "quds",
-    "name_ar": "حي القدس",
-    "name_en": "Al Quds",
-    "district": "شرق الرياض",
-    "description_ar": "حي سكني في شرق الرياض. يتميز بالمرافق الخدمية والأسواق القريبة.",
-    "lat": 24.7135,
-    "lng": 46.6945,
-    "place_count": 1,
-    "top_categories": [
-      "كافيه"
-    ]
-  },
-  {
-    "id": "shifa",
-    "name_ar": "حي الشفا",
-    "name_en": "Al Shifa",
-    "district": "جنوب الرياض",
-    "description_ar": "حي واسع في جنوب الرياض. يتميز بالمساحات السكنية والحدائق والمطاعم الشعبية.",
-    "lat": 24.574,
-    "lng": 46.6771,
-    "place_count": 1,
-    "top_categories": [
-      "تسوق"
-    ]
-  },
-  {
-    "id": "aziziyah",
-    "name_ar": "حي العزيزية",
-    "name_en": "Al Aziziyah",
-    "district": "جنوب الرياض",
-    "description_ar": "حي حيوي في جنوب الرياض. يشتهر بالمطاعم الشعبية والأسواق التجارية وقربه من الطرق الرئيسية.",
-    "lat": 24.6182,
-    "lng": 46.7184,
-    "place_count": 3,
-    "top_categories": [
-      "كافيه",
-      "تسوق",
-      "مطعم"
-    ]
-  },
-  {
-    "id": "suwaidi",
-    "name_ar": "حي السويدي",
-    "name_en": "Al Suwaidi",
-    "district": "جنوب الرياض",
-    "description_ar": "حي سكني كبير في جنوب غرب الرياض. يتميز بالأجواء العائلية والمطاعم الشعبية.",
-    "lat": 24.6142,
-    "lng": 46.6671,
-    "place_count": 1,
-    "top_categories": [
-      "تسوق"
-    ]
-  },
-  {
-    "id": "namar",
-    "name_ar": "نمار",
-    "name_en": "Namar",
-    "district": "جنوب الرياض",
-    "description_ar": "منطقة طبيعية جميلة جنوب الرياض. تشتهر بسد نمار والمتنزهات والأنشطة الخارجية.",
-    "lat": 24.5473,
-    "lng": 46.6172,
-    "place_count": 1,
-    "top_categories": [
-      "طبيعة"
-    ]
-  },
-  {
-    "id": "wadi-laban",
-    "name_ar": "وادي لبن",
-    "name_en": "Wadi Laban",
-    "district": "جنوب الرياض",
-    "description_ar": "منطقة طبيعية هادئة في جنوب غرب الرياض. تشتهر بالمزارع والمتنزهات والأنشطة الترفيهية.",
-    "lat": 24.5801,
-    "lng": 46.5884,
-    "place_count": 1,
-    "top_categories": [
-      "طبيعة"
-    ]
-  },
-  {
-    "id": "diriyah",
-    "name_ar": "الدرعية",
-    "name_en": "Diriyah",
-    "district": "الدرعية",
-    "description_ar": "موقع تراثي عالمي ومنطقة سياحية فاخرة. تضم البجيري والطريف ومشاريع الدرعية الجديدة.",
-    "lat": 24.7337,
-    "lng": 46.5718,
-    "place_count": 12,
-    "top_categories": [
-      "ترفيه",
-      "فعاليات",
-      "تسوق"
-    ]
-  },
-  {
-    "id": "diriyah-historical",
-    "name_ar": "الدرعية التاريخية",
-    "name_en": "Historical Diriyah",
-    "district": "الدرعية",
-    "description_ar": "حي الطريف التاريخي، أول عاصمة للدولة السعودية. موقع تراث عالمي لليونسكو.",
-    "lat": 24.7173,
-    "lng": 46.676,
-    "place_count": 1,
-    "top_categories": [
-      "فعاليات"
-    ]
-  },
-  {
-    "id": "boulevard-riyadh",
-    "name_ar": "بوليفارد الرياض",
-    "name_en": "Boulevard Riyadh",
-    "district": "شمال الرياض",
-    "description_ar": "أكبر مدينة ترفيهية في الرياض ضمن موسم الرياض. يضم مطاعم عالمية وفعاليات ترفيهية متنوعة.",
-    "lat": 24.7505,
-    "lng": 46.6224,
-    "place_count": 7,
-    "top_categories": [
-      "فعاليات"
-    ]
-  },
-  {
-    "id": "riyadh-front",
-    "name_ar": "الرياض فرونت",
-    "name_en": "Riyadh Front",
-    "district": "شمال الرياض",
-    "description_ar": "وجهة ترفيهية وتجارية في شمال الرياض. يضم معارض ومطاعم وفعاليات موسمية.",
-    "lat": 24.5821,
-    "lng": 46.6038,
-    "place_count": 2,
-    "top_categories": [
-      "فعاليات"
-    ]
-  },
-  {
-    "id": "thumama",
-    "name_ar": "الثمامة",
-    "name_en": "Al Thumamah",
-    "district": "شمال شرق الرياض",
-    "description_ar": "منطقة برية شمال شرق الرياض. تشتهر بالأنشطة الصحراوية والتخييم والمزارع.",
-    "lat": 24.8477,
-    "lng": 46.7231,
-    "place_count": 1,
-    "top_categories": [
-      "طبيعة"
-    ]
-  },
-  {
-    "id": "banban",
-    "name_ar": "بانبان",
-    "name_en": "Banban",
-    "district": "شمال شرق الرياض",
-    "description_ar": "منطقة طبيعية شمال شرق الرياض. وجهة للرحلات البرية والتخييم.",
-    "lat": 24.8664,
-    "lng": 46.7519,
-    "place_count": 2,
-    "top_categories": [
-      "فعاليات"
-    ]
-  },
-  {
-    "id": "king-fahd",
-    "name_ar": "حي الملك فهد",
-    "name_en": "King Fahd",
-    "district": "وسط الرياض",
-    "description_ar": "حي مركزي على طريق الملك فهد. يضم أبراجاً تجارية ومطاعم ومراكز أعمال.",
-    "lat": 24.7291,
-    "lng": 46.6604,
-    "place_count": 1,
-    "top_categories": [
-      "كافيه"
-    ]
-  },
-  {
-    "id": "sahab",
-    "name_ar": "حي السحاب",
-    "name_en": "Al Sahab",
-    "district": "شمال الرياض",
-    "description_ar": "حي سكني حديث في شمال الرياض. يتميز بالتخطيط العمراني الجيد والمرافق الحديثة.",
-    "lat": 24.6308,
-    "lng": 46.6597,
-    "place_count": 1,
-    "top_categories": [
-      "تسوق"
-    ]
-  },
-  {
-    "id": "muaiqiliyah",
-    "name_ar": "حي المعيقلية",
-    "name_en": "Al Muaiqiliyah",
-    "district": "وسط الرياض",
-    "description_ar": "حي تجاري في وسط الرياض. يشتهر بسوق المعيقلية للإلكترونيات والبضائع المتنوعة.",
-    "lat": 24.6352,
-    "lng": 46.7145,
-    "place_count": 2,
-    "top_categories": [
-      "فعاليات"
-    ]
-  },
-  {
-    "id": "salam",
-    "name_ar": "حي السلام",
-    "name_en": "Al Salam",
-    "district": "شمال الرياض",
-    "description_ar": "حي سكني في شمال الرياض. يتميز بالهدوء والمرافق الخدمية المتكاملة.",
-    "lat": 24.6871,
-    "lng": 46.7363,
-    "place_count": 1,
-    "top_categories": [
-      "طبيعة"
-    ]
-  },
-  {
-    "id": "diriyah-hai",
-    "name_ar": "حي الدرعية",
-    "name_en": "Diriyah District",
-    "district": "الدرعية",
-    "description_ar": "الحي السكني الجديد في الدرعية. يضم مشاريع سكنية حديثة ومرافق متكاملة.",
-    "lat": 24.7292,
-    "lng": 46.5734,
-    "place_count": 1,
-    "top_categories": [
-      "ترفيه"
-    ]
-  },
-  {
-    "id": "khuzama",
-    "name_ar": "حي الخزامى",
-    "name_en": "Al Khuzama",
-    "district": "غرب الرياض",
-    "description_ar": "حي راقي وهادئ في غرب الرياض. يتميز بالفلل الفاخرة والقصور وقربه من الحي الدبلوماسي.",
-    "lat": 24.685,
-    "lng": 46.61,
-    "place_count": 0,
-    "top_categories": []
-  },
-  {
-    "id": "izdihar",
-    "name_ar": "حي الإزدهار",
-    "name_en": "Al Izdihar",
-    "district": "شرق الرياض",
-    "description_ar": "حي سكني نشط في شرق الرياض. يضم مرافق تجارية ومطاعم متنوعة.",
-    "lat": 24.72,
-    "lng": 46.74,
-    "place_count": 0,
-    "top_categories": []
-  },
-  {
-    "id": "nadwa",
-    "name_ar": "حي الندوة",
-    "name_en": "Al Nadwa",
-    "district": "شرق الرياض",
-    "description_ar": "حي سكني في شرق الرياض. يتميز بالتخطيط الحديث والمرافق الخدمية.",
-    "lat": 24.68,
-    "lng": 46.78,
-    "place_count": 0,
-    "top_categories": []
-  },
-  {
-    "id": "munisiyah",
+    "id": "al-munisiyah",
     "name_ar": "حي المونسية",
     "name_en": "Al Munisiyah",
+    "municipality": "بلدية الروضة",
     "district": "شرق الرياض",
-    "description_ar": "حي سكني كبير في شرق الرياض. يضم أسواقاً ومراكز تجارية ومطاعم متنوعة.",
-    "lat": 24.7,
+    "description_ar": "حي سكني واسع يتميز بأسعار معقولة وخدمات متكاملة",
+    "lat": 24.735,
     "lng": 46.79,
-    "place_count": 0,
-    "top_categories": []
+    "character": "سكني"
   },
   {
-    "id": "badr",
-    "name_ar": "حي بدر",
-    "name_en": "Badr",
+    "id": "qurtubah",
+    "name_ar": "حي قرطبة",
+    "name_en": "Qurtubah",
+    "municipality": "بلدية الروضة",
     "district": "شرق الرياض",
-    "description_ar": "حي سكني في شرق الرياض. يتميز بالمساحات الواسعة والمرافق الخدمية.",
-    "lat": 24.65,
+    "description_ar": "حي سكني راقٍ يتميز بفلل فاخرة وشوارع منظمة وحدائق عامة",
+    "lat": 24.728,
+    "lng": 46.76,
+    "character": "سكني"
+  },
+  {
+    "id": "al-janadriyah",
+    "name_ar": "حي الجنادرية",
+    "name_en": "Al Janadriyah",
+    "municipality": "بلدية الروضة",
+    "district": "شرق الرياض",
+    "description_ar": "حي يقع شرق الرياض مشهور بالمهرجان الوطني للتراث والثقافة",
+    "lat": 24.75,
+    "lng": 46.85,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-qadisiyah",
+    "name_ar": "حي القادسية",
+    "name_en": "Al Qadisiyah",
+    "municipality": "بلدية الروضة",
+    "district": "شرق الرياض",
+    "description_ar": "حي سكني يتميز بالهدوء وقربه من طريق خريص",
+    "lat": 24.73,
+    "lng": 46.75,
+    "character": "سكني"
+  },
+  {
+    "id": "al-yarmuk",
+    "name_ar": "حي اليرموك",
+    "name_en": "Al Yarmuk",
+    "municipality": "بلدية الروضة",
+    "district": "شرق الرياض",
+    "description_ar": "حي قديم ومشهور يتميز بالحيوية وتنوع الخدمات التجارية",
+    "lat": 24.72,
+    "lng": 46.735,
+    "character": "مختلط"
+  },
+  {
+    "id": "ghirnatah",
+    "name_ar": "حي غرناطة",
+    "name_en": "Ghirnatah",
+    "municipality": "بلدية الروضة",
+    "district": "شرق الرياض",
+    "description_ar": "حي حيوي يضم مراكز تجارية كبرى ومطاعم ومقاهي متنوعة",
+    "lat": 24.725,
+    "lng": 46.725,
+    "character": "مختلط"
+  },
+  {
+    "id": "ishbiliyah",
+    "name_ar": "حي أشبيلية",
+    "name_en": "Ishbiliyah",
+    "municipality": "بلدية الروضة",
+    "district": "شرق الرياض",
+    "description_ar": "حي سكني راقٍ يتميز بالهدوء والتنظيم وتوفر المدارس والمرافق",
+    "lat": 24.718,
+    "lng": 46.745,
+    "character": "سكني"
+  },
+  {
+    "id": "al-hamra",
+    "name_ar": "حي الحمراء",
+    "name_en": "Al Hamra",
+    "municipality": "بلدية الروضة",
+    "district": "شرق الرياض",
+    "description_ar": "حي سكني يقع شرق الرياض يتميز بتخطيط جيد وأسعار مناسبة",
+    "lat": 24.715,
+    "lng": 46.762,
+    "character": "سكني"
+  },
+  {
+    "id": "al-muayzilah",
+    "name_ar": "حي المعيزلية",
+    "name_en": "Al Muayzilah",
+    "municipality": "بلدية الروضة",
+    "district": "شرق الرياض",
+    "description_ar": "حي يقع شرق الرياض ويتميز بالطابع السكني الهادئ",
+    "lat": 24.705,
+    "lng": 46.78,
+    "character": "سكني"
+  },
+  {
+    "id": "al-khalij",
+    "name_ar": "حي الخليج",
+    "name_en": "Al Khalij",
+    "municipality": "بلدية الروضة",
+    "district": "شرق الرياض",
+    "description_ar": "حي سكني حيوي يقع على طريق خريص ويتميز بالأسواق والمطاعم",
+    "lat": 24.71,
+    "lng": 46.75,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-malik-faisal",
+    "name_ar": "حي الملك فيصل",
+    "name_en": "King Faisal",
+    "municipality": "بلدية الروضة",
+    "district": "شرق الرياض",
+    "description_ar": "حي يحمل اسم الملك فيصل يضم منشآت حكومية ومرافق خدمية",
+    "lat": 24.7,
+    "lng": 46.76,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-quds",
+    "name_ar": "حي القدس",
+    "name_en": "Al Quds",
+    "municipality": "بلدية الروضة",
+    "district": "شرق الرياض",
+    "description_ar": "حي سكني هادئ يتميز بقربه من المرافق الأساسية والطرق الرئيسية",
+    "lat": 24.708,
     "lng": 46.77,
-    "place_count": 0,
-    "top_categories": []
+    "character": "سكني"
+  },
+  {
+    "id": "al-nahdah",
+    "name_ar": "حي النهضة",
+    "name_en": "Al Nahdah",
+    "municipality": "بلدية الروضة",
+    "district": "شرق الرياض",
+    "description_ar": "حي سكني يتميز بالتنظيم وتوفر الخدمات التعليمية والصحية",
+    "lat": 24.72,
+    "lng": 46.77,
+    "character": "سكني"
+  },
+  {
+    "id": "al-andalus",
+    "name_ar": "حي الأندلس",
+    "name_en": "Al Andalus",
+    "municipality": "بلدية الروضة",
+    "district": "شرق الرياض",
+    "description_ar": "حي سكني يقع شرق الرياض يتميز بالهدوء والبنية التحتية الجيدة",
+    "lat": 24.715,
+    "lng": 46.785,
+    "character": "سكني"
+  },
+  {
+    "id": "al-olaya",
+    "name_ar": "حي العليا",
+    "name_en": "Al Olaya",
+    "municipality": "بلدية العليا",
+    "district": "وسط الرياض",
+    "description_ar": "المركز التجاري والمالي الرئيسي في الرياض يضم ناطحات سحاب وأبراج ومراكز أعمال",
+    "lat": 24.695,
+    "lng": 46.685,
+    "character": "تجاري"
+  },
+  {
+    "id": "al-sulaymaniyah",
+    "name_ar": "حي السليمانية",
+    "name_en": "Al Sulaymaniyah",
+    "municipality": "بلدية العليا",
+    "district": "وسط الرياض",
+    "description_ar": "حي مركزي عريق يضم جامعة الملك سعود ومستشفى الملك فيصل التخصصي",
+    "lat": 24.69,
+    "lng": 46.675,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-malik-abdulaziz",
+    "name_ar": "حي الملك عبد العزيز",
+    "name_en": "King Abdulaziz",
+    "municipality": "بلدية العليا",
+    "district": "وسط الرياض",
+    "description_ar": "حي سكني راقٍ يحمل اسم المؤسس يتميز بفلل فاخرة ومرافق حديثة",
+    "lat": 24.71,
+    "lng": 46.68,
+    "character": "سكني"
+  },
+  {
+    "id": "al-malik-abdullah",
+    "name_ar": "حي الملك عبد الله",
+    "name_en": "King Abdullah",
+    "municipality": "بلدية العليا",
+    "district": "وسط الرياض",
+    "description_ar": "حي حيوي يقع على طريق الملك عبد الله يتميز بالنشاط التجاري والسكني",
+    "lat": 24.72,
+    "lng": 46.69,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-wurud",
+    "name_ar": "حي الورود",
+    "name_en": "Al Wurud",
+    "municipality": "بلدية العليا",
+    "district": "وسط الرياض",
+    "description_ar": "حي تجاري وسكني مزدهر يقع قرب تقاطع طريق العروبة مع الملك فهد",
+    "lat": 24.705,
+    "lng": 46.69,
+    "character": "مختلط"
+  },
+  {
+    "id": "salah-al-din",
+    "name_ar": "حي صلاح الدين",
+    "name_en": "Salah Al Din",
+    "municipality": "بلدية العليا",
+    "district": "وسط الرياض",
+    "description_ar": "حي سكني يقع وسط الرياض قريب من المرافق الحكومية والتعليمية",
+    "lat": 24.715,
+    "lng": 46.7,
+    "character": "سكني"
+  },
+  {
+    "id": "al-malik-fahd",
+    "name_ar": "حي الملك فهد",
+    "name_en": "King Fahd",
+    "municipality": "بلدية العليا",
+    "district": "وسط الرياض",
+    "description_ar": "حي يقع على طريق الملك فهد يتميز بالأبراج التجارية والمكاتب",
+    "lat": 24.725,
+    "lng": 46.685,
+    "character": "تجاري"
+  },
+  {
+    "id": "al-mursalat",
+    "name_ar": "حي المرسلات",
+    "name_en": "Al Mursalat",
+    "municipality": "بلدية العليا",
+    "district": "وسط الرياض",
+    "description_ar": "حي سكني هادئ يتميز بقربه من طريق الملك عبد الله والمرافق الخدمية",
+    "lat": 24.73,
+    "lng": 46.675,
+    "character": "سكني"
+  },
+  {
+    "id": "al-nuzhah",
+    "name_ar": "حي النزهة",
+    "name_en": "Al Nuzhah",
+    "municipality": "بلدية العليا",
+    "district": "وسط الرياض",
+    "description_ar": "حي مركزي يتميز بقربه من حديقة الملك عبد الله والمرافق الترفيهية",
+    "lat": 24.735,
+    "lng": 46.69,
+    "character": "سكني"
+  },
+  {
+    "id": "al-mughrizat",
+    "name_ar": "حي المغرزات",
+    "name_en": "Al Mughrizat",
+    "municipality": "بلدية العليا",
+    "district": "وسط الرياض",
+    "description_ar": "حي سكني يتميز بالهدوء وقربه من المنشآت الحكومية والتعليمية",
+    "lat": 24.74,
+    "lng": 46.705,
+    "character": "سكني"
+  },
+  {
+    "id": "al-muruj",
+    "name_ar": "حي المروج",
+    "name_en": "Al Muruj",
+    "municipality": "بلدية العليا",
+    "district": "وسط الرياض",
+    "description_ar": "حي سكني راقٍ يتميز بالمساحات الخضراء والتخطيط العمراني الممتاز",
+    "lat": 24.732,
+    "lng": 46.67,
+    "character": "سكني"
+  },
+  {
+    "id": "al-masif",
+    "name_ar": "حي المصيف",
+    "name_en": "Al Masif",
+    "municipality": "بلدية العليا",
+    "district": "وسط الرياض",
+    "description_ar": "حي تجاري وسكني يتميز بوجود مراكز تسوق ومطاعم ومكاتب",
+    "lat": 24.738,
+    "lng": 46.665,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-taawun",
+    "name_ar": "حي التعاون",
+    "name_en": "Al Taawun",
+    "municipality": "بلدية العليا",
+    "district": "وسط الرياض",
+    "description_ar": "حي سكني وتجاري يقع قرب تقاطع طريق العروبة مع طريق الملك عبد الله",
+    "lat": 24.745,
+    "lng": 46.68,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-izdihar",
+    "name_ar": "حي الازدهار",
+    "name_en": "Al Izdihar",
+    "municipality": "بلدية العليا",
+    "district": "وسط الرياض",
+    "description_ar": "حي سكني يتميز بالهدوء والتنظيم وتوفر المدارس والمرافق",
+    "lat": 24.75,
+    "lng": 46.695,
+    "character": "سكني"
+  },
+  {
+    "id": "al-wahah",
+    "name_ar": "حي الواحة",
+    "name_en": "Al Wahah",
+    "municipality": "بلدية العليا",
+    "district": "وسط الرياض",
+    "description_ar": "حي سكني حديث يتميز بالتخطيط المنظم والشوارع الواسعة",
+    "lat": 24.755,
+    "lng": 46.675,
+    "character": "سكني"
+  },
+  {
+    "id": "al-muathar",
+    "name_ar": "حي المعذر",
+    "name_en": "Al Muathar",
+    "municipality": "بلدية المعذر",
+    "district": "وسط الرياض",
+    "description_ar": "حي مركزي عريق يضم مباني حكومية ومستشفيات ومرافق تعليمية",
+    "lat": 24.688,
+    "lng": 46.665,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-muhammadiyah",
+    "name_ar": "حي المحمدية",
+    "name_en": "Al Muhammadiyah",
+    "municipality": "بلدية المعذر",
+    "district": "وسط الرياض",
+    "description_ar": "حي سكني راقٍ يتميز بفلل واسعة وحدائق ومرافق متكاملة",
+    "lat": 24.695,
+    "lng": 46.65,
+    "character": "سكني"
+  },
+  {
+    "id": "al-rahmaniyah",
+    "name_ar": "حي الرحمانية",
+    "name_en": "Al Rahmaniyah",
+    "municipality": "بلدية المعذر",
+    "district": "وسط الرياض",
+    "description_ar": "حي سكني هادئ يقع غرب طريق الملك فهد ويتميز بالتنظيم",
+    "lat": 24.71,
+    "lng": 46.64,
+    "character": "سكني"
+  },
+  {
+    "id": "al-raid",
+    "name_ar": "حي الرائد",
+    "name_en": "Al Raid",
+    "municipality": "بلدية المعذر",
+    "district": "وسط الرياض",
+    "description_ar": "حي سكني يتميز بالتخطيط الجيد وقربه من جامعة الملك سعود",
+    "lat": 24.715,
+    "lng": 46.635,
+    "character": "سكني"
+  },
+  {
+    "id": "al-nakhil",
+    "name_ar": "حي النخيل",
+    "name_en": "Al Nakhil",
+    "municipality": "بلدية المعذر",
+    "district": "وسط الرياض",
+    "description_ar": "حي راقٍ يتميز بالمساحات الخضراء الكبيرة والفلل الفاخرة",
+    "lat": 24.725,
+    "lng": 46.63,
+    "character": "سكني"
+  },
+  {
+    "id": "umm-al-hamam-east",
+    "name_ar": "حي أم الحمام الشرقي",
+    "name_en": "Umm Al Hamam East",
+    "municipality": "بلدية المعذر",
+    "district": "وسط الرياض",
+    "description_ar": "حي سكني عريق يقع وسط الرياض بالقرب من المنشآت الحكومية",
+    "lat": 24.68,
+    "lng": 46.66,
+    "character": "سكني"
+  },
+  {
+    "id": "umm-al-hamam-west",
+    "name_ar": "حي أم الحمام الغربي",
+    "name_en": "Umm Al Hamam West",
+    "municipality": "بلدية المعذر",
+    "district": "غرب الرياض",
+    "description_ar": "حي سكني يتميز بالهدوء وقربه من وادي حنيفة والمنتزهات",
+    "lat": 24.678,
+    "lng": 46.645,
+    "character": "سكني"
+  },
+  {
+    "id": "al-safarat",
+    "name_ar": "حي السفارات",
+    "name_en": "Diplomatic Quarter",
+    "municipality": "بلدية عرقة",
+    "district": "غرب الرياض",
+    "description_ar": "الحي الدبلوماسي يضم سفارات الدول ومقرات المنظمات الدولية ويتميز بالجمال والتنظيم",
+    "lat": 24.69,
+    "lng": 46.62,
+    "character": "دبلوماسي"
+  },
+  {
+    "id": "al-mahdiyah",
+    "name_ar": "حي المهدية",
+    "name_en": "Al Mahdiyah",
+    "municipality": "بلدية عرقة",
+    "district": "غرب الرياض",
+    "description_ar": "حي يقع غرب الرياض بالقرب من وادي حنيفة ويتميز بطبيعة جميلة",
+    "lat": 24.67,
+    "lng": 46.61,
+    "character": "سكني"
+  },
+  {
+    "id": "irqah",
+    "name_ar": "حي عرقة",
+    "name_en": "Irqah",
+    "municipality": "بلدية عرقة",
+    "district": "غرب الرياض",
+    "description_ar": "حي راقٍ تاريخي يتميز بمزارع النخيل وقربه من وادي حنيفة",
+    "lat": 24.675,
+    "lng": 46.59,
+    "character": "سكني"
+  },
+  {
+    "id": "dhahrat-laban",
+    "name_ar": "حي ظهرة لبن",
+    "name_en": "Dhahrat Laban",
+    "municipality": "بلدية عرقة",
+    "district": "غرب الرياض",
+    "description_ar": "حي سكني يقع غرب الرياض يتميز بالهدوء وأسعار مناسبة",
+    "lat": 24.66,
+    "lng": 46.6,
+    "character": "سكني"
+  },
+  {
+    "id": "al-khuzama",
+    "name_ar": "حي الخزامى",
+    "name_en": "Al Khuzama",
+    "municipality": "بلدية عرقة",
+    "district": "غرب الرياض",
+    "description_ar": "حي فاخر يقع غرب الرياض يتميز بقصور ومنتجعات ومرافق ترفيهية راقية",
+    "lat": 24.685,
+    "lng": 46.63,
+    "character": "سكني"
   },
   {
     "id": "laban",
     "name_ar": "حي لبن",
     "name_en": "Laban",
-    "district": "جنوب الرياض",
-    "description_ar": "حي سكني في جنوب غرب الرياض. يتميز بالقرب من وادي لبن والمناطق الطبيعية.",
-    "lat": 24.57,
+    "municipality": "بلدية عرقة",
+    "district": "غرب الرياض",
+    "description_ar": "حي سكني حديث غرب الرياض يشهد نمواً عمرانياً سريعاً",
+    "lat": 24.65,
+    "lng": 46.585,
+    "character": "سكني"
+  },
+  {
+    "id": "al-awali",
+    "name_ar": "حي العوالي",
+    "name_en": "Al Awali",
+    "municipality": "بلدية عرقة",
+    "district": "غرب الرياض",
+    "description_ar": "حي يقع في غرب الرياض يتميز بموقع هادئ وطبيعة جميلة",
+    "lat": 24.655,
+    "lng": 46.575,
+    "character": "سكني"
+  },
+  {
+    "id": "al-naseem-east",
+    "name_ar": "حي النسيم الشرقي",
+    "name_en": "Al Naseem East",
+    "municipality": "بلدية النسيم",
+    "district": "شرق الرياض",
+    "description_ar": "حي شعبي قديم يتميز بالأسواق الشعبية والحياة التجارية النشطة",
+    "lat": 24.69,
+    "lng": 46.76,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-naseem-west",
+    "name_ar": "حي النسيم الغربي",
+    "name_en": "Al Naseem West",
+    "municipality": "بلدية النسيم",
+    "district": "شرق الرياض",
+    "description_ar": "حي سكني شعبي يتميز بكثافة سكانية عالية وأسواق تجارية",
+    "lat": 24.692,
+    "lng": 46.745,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-salam",
+    "name_ar": "حي السلام",
+    "name_en": "Al Salam",
+    "municipality": "بلدية النسيم",
+    "district": "شرق الرياض",
+    "description_ar": "حي سكني يقع شرق الرياض يتميز بالهدوء وتوفر المساجد والمدارس",
+    "lat": 24.705,
+    "lng": 46.77,
+    "character": "سكني"
+  },
+  {
+    "id": "al-rayyan",
+    "name_ar": "حي الريان",
+    "name_en": "Al Rayyan",
+    "municipality": "بلدية النسيم",
+    "district": "شرق الرياض",
+    "description_ar": "حي سكني يتميز بالتنظيم وأسعار السكن المعتدلة",
+    "lat": 24.698,
+    "lng": 46.78,
+    "character": "سكني"
+  },
+  {
+    "id": "al-rawabi",
+    "name_ar": "حي الروابي",
+    "name_en": "Al Rawabi",
+    "municipality": "بلدية النسيم",
+    "district": "شرق الرياض",
+    "description_ar": "حي سكني يقع شرق الرياض يتميز بالبنية التحتية المتطورة",
+    "lat": 24.685,
+    "lng": 46.79,
+    "character": "سكني"
+  },
+  {
+    "id": "al-nadheem",
+    "name_ar": "حي النظيم",
+    "name_en": "Al Nadheem",
+    "municipality": "بلدية النسيم",
+    "district": "شرق الرياض",
+    "description_ar": "حي يقع شرق الرياض يضم مناطق سكنية ومشاريع تطويرية",
+    "lat": 24.7,
+    "lng": 46.81,
+    "character": "سكني"
+  },
+  {
+    "id": "al-manar",
+    "name_ar": "حي المنار",
+    "name_en": "Al Manar",
+    "municipality": "بلدية النسيم",
+    "district": "شرق الرياض",
+    "description_ar": "حي سكني يتميز بقربه من الطرق الرئيسية والمرافق الخدمية",
+    "lat": 24.695,
+    "lng": 46.8,
+    "character": "سكني"
+  },
+  {
+    "id": "al-nadwah",
+    "name_ar": "حي الندوة",
+    "name_en": "Al Nadwah",
+    "municipality": "بلدية النسيم",
+    "district": "شرق الرياض",
+    "description_ar": "حي يقع في شرق الرياض يتميز بالطابع السكني والهدوء",
+    "lat": 24.71,
+    "lng": 46.82,
+    "character": "سكني"
+  },
+  {
+    "id": "jarir",
+    "name_ar": "حي جرير",
+    "name_en": "Jarir",
+    "municipality": "بلدية الملز",
+    "district": "وسط الرياض",
+    "description_ar": "حي تجاري مشهور يضم مكتبة جرير ومحلات تجارية متنوعة",
+    "lat": 24.68,
+    "lng": 46.71,
+    "character": "تجاري"
+  },
+  {
+    "id": "al-rabwah",
+    "name_ar": "حي الربوة",
+    "name_en": "Al Rabwah",
+    "municipality": "بلدية الملز",
+    "district": "وسط الرياض",
+    "description_ar": "حي حيوي يتميز بالمراكز التجارية والمطاعم والحياة الليلية",
+    "lat": 24.685,
+    "lng": 46.72,
+    "character": "تجاري"
+  },
+  {
+    "id": "al-zahra",
+    "name_ar": "حي الزهراء",
+    "name_en": "Al Zahra",
+    "municipality": "بلدية الملز",
+    "district": "وسط الرياض",
+    "description_ar": "حي سكني وتجاري يقع وسط الرياض بالقرب من المنشآت الحكومية",
+    "lat": 24.675,
+    "lng": 46.705,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-safa",
+    "name_ar": "حي الصفا",
+    "name_en": "Al Safa",
+    "municipality": "بلدية الملز",
+    "district": "وسط الرياض",
+    "description_ar": "حي سكني يقع بالقرب من منطقة الملز ويتميز بالهدوء",
+    "lat": 24.67,
+    "lng": 46.715,
+    "character": "سكني"
+  },
+  {
+    "id": "al-dubbat",
+    "name_ar": "حي الضباط",
+    "name_en": "Al Dubbat",
+    "municipality": "بلدية الملز",
+    "district": "وسط الرياض",
+    "description_ar": "حي سكني تاريخي مخصص لسكن الضباط العسكريين والحكوميين",
+    "lat": 24.678,
+    "lng": 46.7,
+    "character": "سكني"
+  },
+  {
+    "id": "al-malaz",
+    "name_ar": "حي الملز",
+    "name_en": "Al Malaz",
+    "municipality": "بلدية الملز",
+    "district": "وسط الرياض",
+    "description_ar": "من أقدم أحياء الرياض يضم استاد الملز والحديقة ومرافق ترفيهية متنوعة",
+    "lat": 24.672,
+    "lng": 46.71,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-wizarat",
+    "name_ar": "حي الوزارات",
+    "name_en": "Al Wizarat",
+    "municipality": "بلدية الملز",
+    "district": "وسط الرياض",
+    "description_ar": "الحي الحكومي الرئيسي يضم وزارات ومؤسسات حكومية كبرى",
+    "lat": 24.665,
+    "lng": 46.705,
+    "character": "حكومي"
+  },
+  {
+    "id": "al-faruq",
+    "name_ar": "حي الفاروق",
+    "name_en": "Al Faruq",
+    "municipality": "بلدية الملز",
+    "district": "وسط الرياض",
+    "description_ar": "حي سكني يقع بالقرب من حي الملز ويتميز بالهدوء النسبي",
+    "lat": 24.668,
+    "lng": 46.72,
+    "character": "سكني"
+  },
+  {
+    "id": "al-amal",
+    "name_ar": "حي العمل",
+    "name_en": "Al Amal",
+    "municipality": "بلدية الملز",
+    "district": "وسط الرياض",
+    "description_ar": "حي يقع بالقرب من المنطقة الصناعية ويتميز بالنشاط التجاري",
+    "lat": 24.66,
+    "lng": 46.725,
+    "character": "مختلط"
+  },
+  {
+    "id": "thulaim",
+    "name_ar": "حي ثليم",
+    "name_en": "Thulaim",
+    "municipality": "بلدية الملز",
+    "district": "وسط الرياض",
+    "description_ar": "حي سكني قديم يقع وسط الرياض بالقرب من المراكز التجارية",
+    "lat": 24.662,
+    "lng": 46.71,
+    "character": "سكني"
+  },
+  {
+    "id": "al-murabba",
+    "name_ar": "حي المربع",
+    "name_en": "Al Murabba",
+    "municipality": "بلدية الملز",
+    "district": "وسط الرياض",
+    "description_ar": "حي تاريخي يضم قصر المربع (قصر الملك عبد العزيز) والمتحف الوطني",
+    "lat": 24.655,
+    "lng": 46.71,
+    "character": "تراثي"
+  },
+  {
+    "id": "al-futah",
+    "name_ar": "حي الفوطة",
+    "name_en": "Al Futah",
+    "municipality": "بلدية الملز",
+    "district": "وسط الرياض",
+    "description_ar": "حي سكني قديم يقع بالقرب من وسط المدينة",
+    "lat": 24.65,
+    "lng": 46.705,
+    "character": "سكني"
+  },
+  {
+    "id": "al-rafiah",
+    "name_ar": "حي الرفيعة",
+    "name_en": "Al Rafiah",
+    "municipality": "بلدية الشميسي",
+    "district": "غرب الرياض",
+    "description_ar": "حي يقع غرب وسط الرياض ويتميز بالطابع السكني",
+    "lat": 24.658,
+    "lng": 46.68,
+    "character": "سكني"
+  },
+  {
+    "id": "al-hada",
+    "name_ar": "حي الهدا",
+    "name_en": "Al Hada",
+    "municipality": "بلدية الشميسي",
+    "district": "غرب الرياض",
+    "description_ar": "حي سكني يقع غرب الرياض يتميز بالهدوء وقربه من المرافق الأساسية",
+    "lat": 24.662,
+    "lng": 46.67,
+    "character": "سكني"
+  },
+  {
+    "id": "al-sharqiyah",
+    "name_ar": "حي الشرقية",
+    "name_en": "Al Sharqiyah",
+    "municipality": "بلدية الشميسي",
+    "district": "غرب الرياض",
+    "description_ar": "حي قديم يقع بالقرب من وسط الرياض التاريخي",
+    "lat": 24.655,
+    "lng": 46.69,
+    "character": "سكني"
+  },
+  {
+    "id": "al-nasiriyah",
+    "name_ar": "حي الناصرية",
+    "name_en": "Al Nasiriyah",
+    "municipality": "بلدية الشميسي",
+    "district": "غرب الرياض",
+    "description_ar": "حي تاريخي يقع غرب وسط الرياض ويضم معالم تراثية",
+    "lat": 24.65,
+    "lng": 46.685,
+    "character": "تراثي"
+  },
+  {
+    "id": "siyah",
+    "name_ar": "حي صياح",
+    "name_en": "Siyah",
+    "municipality": "بلدية الشميسي",
+    "district": "غرب الرياض",
+    "description_ar": "حي قديم يقع غرب وسط الرياض",
+    "lat": 24.648,
+    "lng": 46.675,
+    "character": "سكني"
+  },
+  {
+    "id": "al-wisham",
+    "name_ar": "حي الوشام",
+    "name_en": "Al Wisham",
+    "municipality": "بلدية الشميسي",
+    "district": "غرب الرياض",
+    "description_ar": "حي قديم يقع بالقرب من مناطق الرياض التاريخية",
+    "lat": 24.652,
+    "lng": 46.67,
+    "character": "سكني"
+  },
+  {
+    "id": "al-namudhajiyah",
+    "name_ar": "حي النموذجية",
+    "name_en": "Al Namudhajiyah",
+    "municipality": "بلدية الشميسي",
+    "district": "غرب الرياض",
+    "description_ar": "حي سكني يتميز بتخطيط نموذجي ومرافق خدمية جيدة",
+    "lat": 24.645,
+    "lng": 46.665,
+    "character": "سكني"
+  },
+  {
+    "id": "al-muathar-shimisi",
+    "name_ar": "حي المعذر (الشميسي)",
+    "name_en": "Al Muathar (Shimisi)",
+    "municipality": "بلدية الشميسي",
+    "district": "غرب الرياض",
+    "description_ar": "حي يتبع بلدية الشميسي يتميز بالطابع السكني والتجاري",
+    "lat": 24.66,
+    "lng": 46.66,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-mutamarat",
+    "name_ar": "حي المؤتمرات",
+    "name_en": "Al Mutamarat",
+    "municipality": "بلدية الشميسي",
+    "district": "غرب الرياض",
+    "description_ar": "حي يضم مراكز مؤتمرات ومنشآت حكومية مهمة",
+    "lat": 24.64,
+    "lng": 46.655,
+    "character": "حكومي"
+  },
+  {
+    "id": "al-badiah",
+    "name_ar": "حي البديعة",
+    "name_en": "Al Badiah",
+    "municipality": "بلدية الشميسي",
+    "district": "غرب الرياض",
+    "description_ar": "حي سكني يقع غرب الرياض يتميز بالهدوء والسكن المتوسط",
+    "lat": 24.635,
+    "lng": 46.65,
+    "character": "سكني"
+  },
+  {
+    "id": "umm-salim",
+    "name_ar": "حي أم سليم",
+    "name_en": "Umm Salim",
+    "municipality": "بلدية الشميسي",
+    "district": "غرب الرياض",
+    "description_ar": "حي سكني يقع غرب الرياض بالقرب من منطقة الشميسي",
+    "lat": 24.63,
+    "lng": 46.645,
+    "character": "سكني"
+  },
+  {
+    "id": "al-shimisi",
+    "name_ar": "حي الشميسي",
+    "name_en": "Al Shimisi",
+    "municipality": "بلدية الشميسي",
+    "district": "غرب الرياض",
+    "description_ar": "حي قديم يقع غرب وسط الرياض يتميز بالطابع الشعبي والأسواق",
+    "lat": 24.638,
+    "lng": 46.67,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-jaradiyah",
+    "name_ar": "حي الجرادية",
+    "name_en": "Al Jaradiyah",
+    "municipality": "بلدية الشميسي",
+    "district": "غرب الرياض",
+    "description_ar": "حي سكني يقع غرب الرياض بالقرب من وادي حنيفة",
+    "lat": 24.625,
+    "lng": 46.64,
+    "character": "سكني"
+  },
+  {
+    "id": "al-fakhriyah",
+    "name_ar": "حي الفاخرية",
+    "name_en": "Al Fakhriyah",
+    "municipality": "بلدية الشميسي",
+    "district": "غرب الرياض",
+    "description_ar": "حي سكني يقع في غرب الرياض ويتميز بالطابع السكني البسيط",
+    "lat": 24.632,
+    "lng": 46.635,
+    "character": "سكني"
+  },
+  {
+    "id": "ulayshah",
+    "name_ar": "حي عليشة",
+    "name_en": "Ulayshah",
+    "municipality": "بلدية الشميسي",
+    "district": "غرب الرياض",
+    "description_ar": "حي قديم يقع غرب وسط الرياض",
+    "lat": 24.64,
+    "lng": 46.68,
+    "character": "سكني"
+  },
+  {
+    "id": "al-sharfiyah",
+    "name_ar": "حي الشرفية",
+    "name_en": "Al Sharfiyah",
+    "municipality": "بلدية الشميسي",
+    "district": "غرب الرياض",
+    "description_ar": "حي سكني يقع في منطقة الشميسي",
+    "lat": 24.646,
+    "lng": 46.675,
+    "character": "سكني"
+  },
+  {
+    "id": "wadi-laban",
+    "name_ar": "حي وادي لبن",
+    "name_en": "Wadi Laban",
+    "municipality": "بلدية العريجاء",
+    "district": "غرب الرياض",
+    "description_ar": "حي يقع على وادي لبن غرب الرياض يتميز بالطبيعة والمزارع",
+    "lat": 24.62,
     "lng": 46.59,
-    "place_count": 0,
-    "top_categories": []
+    "character": "سكني"
+  },
+  {
+    "id": "al-uraija",
+    "name_ar": "حي العريجاء",
+    "name_en": "Al Uraija",
+    "municipality": "بلدية العريجاء",
+    "district": "غرب الرياض",
+    "description_ar": "حي شعبي واسع يقع غرب الرياض يتميز بالأسواق والحياة الشعبية",
+    "lat": 24.635,
+    "lng": 46.63,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-uraija-wusta",
+    "name_ar": "حي العريجاء الوسطى",
+    "name_en": "Al Uraija Central",
+    "municipality": "بلدية العريجاء",
+    "district": "غرب الرياض",
+    "description_ar": "الجزء الأوسط من حي العريجاء يضم أسواق ومرافق خدمية",
+    "lat": 24.628,
+    "lng": 46.625,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-uraija-west",
+    "name_ar": "حي العريجاء الغربية",
+    "name_en": "Al Uraija West",
+    "municipality": "بلدية العريجاء",
+    "district": "غرب الرياض",
+    "description_ar": "الجزء الغربي من العريجاء يمتد نحو الأطراف الغربية للرياض",
+    "lat": 24.625,
+    "lng": 46.61,
+    "character": "سكني"
+  },
+  {
+    "id": "al-duraihimiyah",
+    "name_ar": "حي الدريهمية",
+    "name_en": "Al Duraihimiyah",
+    "municipality": "بلدية العريجاء",
+    "district": "غرب الرياض",
+    "description_ar": "حي قديم يقع غرب الرياض يتميز بالطابع الشعبي",
+    "lat": 24.63,
+    "lng": 46.64,
+    "character": "سكني"
+  },
+  {
+    "id": "shubra",
+    "name_ar": "حي شبرا",
+    "name_en": "Shubra",
+    "municipality": "بلدية العريجاء",
+    "district": "غرب الرياض",
+    "description_ar": "حي شعبي يقع غرب الرياض يتميز بالكثافة السكانية والأسواق",
+    "lat": 24.615,
+    "lng": 46.635,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-suwaidi",
+    "name_ar": "حي السويدي",
+    "name_en": "Al Suwaidi",
+    "municipality": "بلدية العريجاء",
+    "district": "غرب الرياض",
+    "description_ar": "حي شعبي كبير ومشهور يتميز بالأسواق الشعبية والمطاعم والنشاط التجاري",
+    "lat": 24.61,
+    "lng": 46.65,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-suwaidi-west",
+    "name_ar": "حي السويدي الغربي",
+    "name_en": "Al Suwaidi West",
+    "municipality": "بلدية العريجاء",
+    "district": "غرب الرياض",
+    "description_ar": "الجزء الغربي من حي السويدي يتميز بالسكن المتوسط",
+    "lat": 24.605,
+    "lng": 46.64,
+    "character": "سكني"
+  },
+  {
+    "id": "dhahrat-al-badiah",
+    "name_ar": "حي ظهرة البديعة",
+    "name_en": "Dhahrat Al Badiah",
+    "municipality": "بلدية العريجاء",
+    "district": "غرب الرياض",
+    "description_ar": "حي سكني يقع غرب الرياض بمنطقة مرتفعة",
+    "lat": 24.62,
+    "lng": 46.62,
+    "character": "سكني"
+  },
+  {
+    "id": "sultanah",
+    "name_ar": "حي سلطانة",
+    "name_en": "Sultanah",
+    "municipality": "بلدية العريجاء",
+    "district": "غرب الرياض",
+    "description_ar": "حي سكني يقع في غرب الرياض ويتميز بالهدوء",
+    "lat": 24.618,
+    "lng": 46.615,
+    "character": "سكني"
+  },
+  {
+    "id": "al-zahrah",
+    "name_ar": "حي الزهرة",
+    "name_en": "Al Zahrah",
+    "municipality": "بلدية العريجاء",
+    "district": "غرب الرياض",
+    "description_ar": "حي سكني في منطقة العريجاء يتميز بأسعار مناسبة",
+    "lat": 24.61,
+    "lng": 46.61,
+    "character": "سكني"
   },
   {
     "id": "tuwaiq",
     "name_ar": "حي طويق",
     "name_en": "Tuwaiq",
-    "district": "جنوب الرياض",
-    "description_ar": "حي سكني واسع في جنوب غرب الرياض. سمي نسبة لجبال طويق القريبة.",
+    "municipality": "بلدية العريجاء",
+    "district": "غرب الرياض",
+    "description_ar": "حي سكني يسمى بجبال طويق يشهد تطوراً عمرانياً",
+    "lat": 24.6,
+    "lng": 46.595,
+    "character": "سكني"
+  },
+  {
+    "id": "hajrat-wadi-laban",
+    "name_ar": "هجرة وادي لبن",
+    "name_en": "Hijrat Wadi Laban",
+    "municipality": "بلدية نمار",
+    "district": "جنوب غرب الرياض",
+    "description_ar": "منطقة تقع على وادي لبن جنوب غرب الرياض",
     "lat": 24.58,
-    "lng": 46.61,
-    "place_count": 0,
-    "top_categories": []
+    "lng": 46.57,
+    "character": "سكني"
   },
   {
-    "id": "faiha",
-    "name_ar": "حي الفيحاء",
-    "name_en": "Al Faiha",
-    "district": "شرق الرياض",
-    "description_ar": "حي سكني هادئ في شرق الرياض. يتميز بالحدائق والمساحات الخضراء.",
-    "lat": 24.66,
-    "lng": 46.74,
-    "place_count": 0,
-    "top_categories": []
+    "id": "dhahrat-namar",
+    "name_ar": "حي ظهرة نمار",
+    "name_en": "Dhahrat Namar",
+    "municipality": "بلدية نمار",
+    "district": "جنوب غرب الرياض",
+    "description_ar": "حي حديث يقع جنوب غرب الرياض يشهد توسعاً عمرانياً كبيراً",
+    "lat": 24.57,
+    "lng": 46.58,
+    "character": "سكني"
   },
   {
-    "id": "masif",
-    "name_ar": "حي المصيف",
-    "name_en": "Al Masif",
-    "district": "وسط الرياض",
-    "description_ar": "حي سكني مركزي في الرياض. يتميز بالقرب من المناطق التجارية والخدمية.",
-    "lat": 24.71,
+    "id": "dirab",
+    "name_ar": "حي ديراب",
+    "name_en": "Dirab",
+    "municipality": "بلدية نمار",
+    "district": "جنوب غرب الرياض",
+    "description_ar": "منطقة تقع جنوب غرب الرياض تضم نادي ديراب للقولف ومزارع",
+    "lat": 24.55,
+    "lng": 46.55,
+    "character": "مختلط"
+  },
+  {
+    "id": "namar",
+    "name_ar": "حي نمار",
+    "name_en": "Namar",
+    "municipality": "بلدية نمار",
+    "district": "جنوب غرب الرياض",
+    "description_ar": "حي يقع جنوب غرب الرياض يضم منتزه نمار ومناطق ترفيهية",
+    "lat": 24.56,
+    "lng": 46.56,
+    "character": "سكني"
+  },
+  {
+    "id": "al-hazm",
+    "name_ar": "حي الحزم",
+    "name_en": "Al Hazm",
+    "municipality": "بلدية نمار",
+    "district": "جنوب غرب الرياض",
+    "description_ar": "حي سكني يقع جنوب غرب الرياض يتميز بأسعار معقولة",
+    "lat": 24.575,
+    "lng": 46.59,
+    "character": "سكني"
+  },
+  {
+    "id": "uhud",
+    "name_ar": "حي أحد",
+    "name_en": "Uhud",
+    "municipality": "بلدية الشفا",
+    "district": "جنوب الرياض",
+    "description_ar": "حي سكني يقع جنوب الرياض يتميز بالطابع السكني الهادئ",
+    "lat": 24.58,
     "lng": 46.65,
-    "place_count": 0,
-    "top_categories": []
+    "character": "سكني"
   },
   {
-    "id": "muathar",
-    "name_ar": "حي المعذر",
-    "name_en": "Al Muathar",
-    "district": "وسط الرياض",
-    "description_ar": "حي مركزي في الرياض. يضم مراكز تجارية ومطاعم وقريب من طريق الملك فهد.",
-    "lat": 24.7,
+    "id": "okaz",
+    "name_ar": "حي عكاظ",
+    "name_en": "Okaz",
+    "municipality": "بلدية الشفا",
+    "district": "جنوب الرياض",
+    "description_ar": "حي سكني يسمى بسوق عكاظ التاريخي ويتميز بالنشاط التجاري",
+    "lat": 24.57,
     "lng": 46.66,
-    "place_count": 0,
-    "top_categories": []
+    "character": "مختلط"
   },
   {
-    "id": "umm-al-hamam",
-    "name_ar": "حي أم الحمام",
-    "name_en": "Umm Al Hamam",
-    "district": "وسط الرياض",
-    "description_ar": "حي سكني هادئ في وسط الرياض. يتميز بالحدائق والمرافق الخدمية.",
-    "lat": 24.67,
-    "lng": 46.65,
-    "place_count": 0,
-    "top_categories": []
-  },
-  {
-    "id": "wadi",
-    "name_ar": "حي الوادي",
-    "name_en": "Al Wadi",
-    "district": "شمال الرياض",
-    "description_ar": "حي سكني مميز في شمال الرياض. يتميز بالموقع الاستراتيجي والقرب من المرافق الحيوية.",
-    "lat": 24.77,
+    "id": "al-shifa",
+    "name_ar": "حي الشفاء",
+    "name_en": "Al Shifa",
+    "municipality": "بلدية الشفا",
+    "district": "جنوب الرياض",
+    "description_ar": "حي كبير جنوب الرياض يتميز بالخدمات المتكاملة والبنية التحتية الجيدة",
+    "lat": 24.565,
     "lng": 46.67,
-    "place_count": 0,
-    "top_categories": []
+    "character": "سكني"
   },
   {
-    "id": "iskan",
+    "id": "al-marwah",
+    "name_ar": "حي المروة",
+    "name_en": "Al Marwah",
+    "municipality": "بلدية الشفا",
+    "district": "جنوب الرياض",
+    "description_ar": "حي سكني يقع جنوب الرياض يتميز بالهدوء وتوفر المرافق",
+    "lat": 24.56,
+    "lng": 46.68,
+    "character": "سكني"
+  },
+  {
+    "id": "badr",
+    "name_ar": "حي بدر",
+    "name_en": "Badr",
+    "municipality": "بلدية الشفا",
+    "district": "جنوب الرياض",
+    "description_ar": "حي سكني يقع جنوب الرياض يتميز بالتنظيم العمراني",
+    "lat": 24.555,
+    "lng": 46.69,
+    "character": "سكني"
+  },
+  {
+    "id": "al-masani-shifa",
+    "name_ar": "حي المصانع (الشفا)",
+    "name_en": "Al Masani (Shifa)",
+    "municipality": "بلدية الشفا",
+    "district": "جنوب الرياض",
+    "description_ar": "حي يقع جنوب الرياض بالقرب من المنطقة الصناعية",
+    "lat": 24.55,
+    "lng": 46.7,
+    "character": "صناعي"
+  },
+  {
+    "id": "al-mansuriyah-shifa",
+    "name_ar": "حي المنصورية",
+    "name_en": "Al Mansuriyah",
+    "municipality": "بلدية الشفا",
+    "district": "جنوب الرياض",
+    "description_ar": "حي سكني يقع جنوب الرياض ويتميز بالطابع السكني",
+    "lat": 24.545,
+    "lng": 46.675,
+    "character": "سكني"
+  },
+  {
+    "id": "uraid",
+    "name_ar": "حي عريض",
+    "name_en": "Uraid",
+    "municipality": "بلدية الشفا",
+    "district": "جنوب الرياض",
+    "description_ar": "حي يقع جنوب الرياض يتميز بمساحته الواسعة",
+    "lat": 24.535,
+    "lng": 46.685,
+    "character": "سكني"
+  },
+  {
+    "id": "al-umajiyah",
+    "name_ar": "حي العماجية",
+    "name_en": "Al Umajiyah",
+    "municipality": "بلدية الشفا",
+    "district": "جنوب الرياض",
+    "description_ar": "حي يقع في أطراف جنوب الرياض",
+    "lat": 24.53,
+    "lng": 46.66,
+    "character": "سكني"
+  },
+  {
+    "id": "al-fawaz",
+    "name_ar": "حي الفواز",
+    "name_en": "Al Fawaz",
+    "municipality": "بلدية الشفا",
+    "district": "جنوب الرياض",
+    "description_ar": "حي سكني حديث جنوب الرياض يتميز بمشاريع إسكان جديدة",
+    "lat": 24.54,
+    "lng": 46.655,
+    "character": "سكني"
+  },
+  {
+    "id": "khashm-al-aan",
+    "name_ar": "حي خشم العان",
+    "name_en": "Khashm Al Aan",
+    "municipality": "بلدية السلي",
+    "district": "جنوب شرق الرياض",
+    "description_ar": "حي يقع جنوب شرق الرياض على أطراف المدينة",
+    "lat": 24.6,
+    "lng": 46.77,
+    "character": "سكني"
+  },
+  {
+    "id": "al-difa",
+    "name_ar": "حي الدفاع",
+    "name_en": "Al Difa",
+    "municipality": "بلدية السلي",
+    "district": "جنوب شرق الرياض",
+    "description_ar": "حي يضم منشآت عسكرية ودفاعية جنوب شرق الرياض",
+    "lat": 24.62,
+    "lng": 46.75,
+    "character": "عسكري"
+  },
+  {
+    "id": "al-manakh",
+    "name_ar": "حي المناخ",
+    "name_en": "Al Manakh",
+    "municipality": "بلدية السلي",
+    "district": "جنوب شرق الرياض",
+    "description_ar": "حي تجاري يضم أسواق ومستودعات ونشاط تجاري كبير",
+    "lat": 24.615,
+    "lng": 46.74,
+    "character": "تجاري"
+  },
+  {
+    "id": "al-suli",
+    "name_ar": "حي السلي",
+    "name_en": "Al Suli",
+    "municipality": "بلدية السلي",
+    "district": "جنوب شرق الرياض",
+    "description_ar": "حي سكني وتجاري يقع على طريق الخرج ويتميز بالنشاط التجاري",
+    "lat": 24.61,
+    "lng": 46.73,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-noor",
+    "name_ar": "حي النور",
+    "name_en": "Al Noor",
+    "municipality": "بلدية السلي",
+    "district": "جنوب شرق الرياض",
+    "description_ar": "حي سكني يقع جنوب شرق الرياض يتميز بالهدوء",
+    "lat": 24.605,
+    "lng": 46.72,
+    "character": "سكني"
+  },
+  {
+    "id": "al-iskan",
     "name_ar": "حي الإسكان",
     "name_en": "Al Iskan",
-    "district": "شرق الرياض",
-    "description_ar": "حي سكني في شرق الرياض. يضم مجمعات سكنية ومرافق خدمية متنوعة.",
-    "lat": 24.64,
+    "municipality": "بلدية السلي",
+    "district": "جنوب شرق الرياض",
+    "description_ar": "حي إسكان حكومي يضم وحدات سكنية مدعومة من الدولة",
+    "lat": 24.6,
+    "lng": 46.71,
+    "character": "سكني"
+  },
+  {
+    "id": "al-sinaiyah-jadidah",
+    "name_ar": "حي الصناعية الجديدة",
+    "name_en": "New Industrial Area",
+    "municipality": "بلدية السلي",
+    "district": "جنوب شرق الرياض",
+    "description_ar": "منطقة صناعية حديثة تضم مصانع وورش ومستودعات",
+    "lat": 24.59,
     "lng": 46.75,
-    "place_count": 0,
-    "top_categories": []
+    "character": "صناعي"
   },
   {
-    "id": "falah",
-    "name_ar": "حي الفلاح",
-    "name_en": "Al Falah",
-    "district": "شمال الرياض",
-    "description_ar": "حي سكني في شمال الرياض. يتميز بالتخطيط الجيد والمرافق الخدمية.",
-    "lat": 24.78,
-    "lng": 46.66,
-    "place_count": 0,
-    "top_categories": []
+    "id": "al-fayha",
+    "name_ar": "حي الفيحاء",
+    "name_en": "Al Fayha",
+    "municipality": "بلدية السلي",
+    "district": "جنوب شرق الرياض",
+    "description_ar": "حي سكني يقع جنوب شرق الرياض يتميز بأسعار مناسبة",
+    "lat": 24.605,
+    "lng": 46.735,
+    "character": "سكني"
   },
   {
-    "id": "nadhim",
-    "name_ar": "حي النظيم",
-    "name_en": "Al Nadhim",
-    "district": "شرق الرياض",
-    "description_ar": "حي سكني في شرق الرياض. يتميز بالمساحات الواسعة والأسعار المعقولة.",
+    "id": "al-jazirah",
+    "name_ar": "حي الجزيرة",
+    "name_en": "Al Jazirah",
+    "municipality": "بلدية السلي",
+    "district": "جنوب شرق الرياض",
+    "description_ar": "حي سكني يقع جنوب شرق الرياض",
+    "lat": 24.595,
+    "lng": 46.725,
+    "character": "سكني"
+  },
+  {
+    "id": "al-saadah",
+    "name_ar": "حي السعادة",
+    "name_en": "Al Saadah",
+    "municipality": "بلدية السلي",
+    "district": "جنوب شرق الرياض",
+    "description_ar": "حي سكني يتميز بالطابع الشعبي البسيط",
+    "lat": 24.59,
+    "lng": 46.715,
+    "character": "سكني"
+  },
+  {
+    "id": "heet",
+    "name_ar": "حي هيت",
+    "name_en": "Heet",
+    "municipality": "بلدية السلي",
+    "district": "جنوب شرق الرياض",
+    "description_ar": "حي قديم يقع جنوب شرق الرياض",
+    "lat": 24.585,
+    "lng": 46.73,
+    "character": "سكني"
+  },
+  {
+    "id": "al-bariyah",
+    "name_ar": "حي البرية",
+    "name_en": "Al Bariyah",
+    "municipality": "بلدية السلي",
+    "district": "جنوب شرق الرياض",
+    "description_ar": "حي يقع في أطراف جنوب شرق الرياض",
+    "lat": 24.58,
+    "lng": 46.74,
+    "character": "سكني"
+  },
+  {
+    "id": "al-mashail",
+    "name_ar": "حي المشاعل",
+    "name_en": "Al Mashail",
+    "municipality": "بلدية السلي",
+    "district": "جنوب شرق الرياض",
+    "description_ar": "حي سكني يقع جنوب شرق الرياض",
+    "lat": 24.575,
+    "lng": 46.735,
+    "character": "سكني"
+  },
+  {
+    "id": "al-dubiyah",
+    "name_ar": "حي الدوبية",
+    "name_en": "Al Dubiyah",
+    "municipality": "بلدية البطحاء",
+    "district": "وسط الرياض",
+    "description_ar": "حي قديم يقع بالقرب من البطحاء وسط الرياض التجاري",
+    "lat": 24.64,
+    "lng": 46.71,
+    "character": "تجاري"
+  },
+  {
+    "id": "al-qura",
+    "name_ar": "حي القرى",
+    "name_en": "Al Qura",
+    "municipality": "بلدية البطحاء",
+    "district": "وسط الرياض",
+    "description_ar": "حي قديم يقع بالقرب من منطقة البطحاء التجارية",
+    "lat": 24.638,
+    "lng": 46.715,
+    "character": "تجاري"
+  },
+  {
+    "id": "al-sinaiyah",
+    "name_ar": "حي الصناعية",
+    "name_en": "Industrial Area",
+    "municipality": "بلدية البطحاء",
+    "district": "وسط الرياض",
+    "description_ar": "المنطقة الصناعية القديمة وسط الرياض تضم ورش ومصانع صغيرة",
+    "lat": 24.635,
+    "lng": 46.725,
+    "character": "صناعي"
+  },
+  {
+    "id": "al-wusayta",
+    "name_ar": "حي الوسيطاء",
+    "name_en": "Al Wusayta",
+    "municipality": "بلدية البطحاء",
+    "district": "وسط الرياض",
+    "description_ar": "حي قديم يقع وسط الرياض بالقرب من منطقة البطحاء",
+    "lat": 24.632,
+    "lng": 46.71,
+    "character": "مختلط"
+  },
+  {
+    "id": "maakal",
+    "name_ar": "حي معكال",
+    "name_en": "Maakal",
+    "municipality": "بلدية البطحاء",
+    "district": "وسط الرياض",
+    "description_ar": "حي تاريخي قديم من أقدم أحياء الرياض يحمل طابعاً تراثياً",
     "lat": 24.63,
-    "lng": 46.79,
-    "place_count": 0,
-    "top_categories": []
+    "lng": 46.705,
+    "character": "تراثي"
   },
   {
-    "id": "janadriyah",
-    "name_ar": "حي الجنادرية",
-    "name_en": "Al Janadriyah",
+    "id": "al-faysaliyah",
+    "name_ar": "حي الفيصلية",
+    "name_en": "Al Faysaliyah",
+    "municipality": "بلدية البطحاء",
+    "district": "وسط الرياض",
+    "description_ar": "حي يقع وسط الرياض يتميز بالنشاط التجاري",
+    "lat": 24.628,
+    "lng": 46.7,
+    "character": "تجاري"
+  },
+  {
+    "id": "manfuhah",
+    "name_ar": "حي منفوحة",
+    "name_en": "Manfuhah",
+    "municipality": "بلدية البطحاء",
+    "district": "جنوب وسط الرياض",
+    "description_ar": "حي شعبي كبير وقديم يتميز بكثافة سكانية عالية وأسواق شعبية",
+    "lat": 24.62,
+    "lng": 46.705,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-mansurah",
+    "name_ar": "حي المنصورة",
+    "name_en": "Al Mansurah",
+    "municipality": "بلدية البطحاء",
+    "district": "جنوب وسط الرياض",
+    "description_ar": "حي سكني يقع بالقرب من حي منفوحة",
+    "lat": 24.615,
+    "lng": 46.71,
+    "character": "سكني"
+  },
+  {
+    "id": "al-yamamah",
+    "name_ar": "حي اليمامة",
+    "name_en": "Al Yamamah",
+    "municipality": "بلدية البطحاء",
+    "district": "جنوب وسط الرياض",
+    "description_ar": "حي سكني يقع جنوب وسط الرياض يتميز بالطابع الشعبي",
+    "lat": 24.61,
+    "lng": 46.7,
+    "character": "سكني"
+  },
+  {
+    "id": "salam-batha",
+    "name_ar": "حي سلام",
+    "name_en": "Salam",
+    "municipality": "بلدية البطحاء",
+    "district": "جنوب وسط الرياض",
+    "description_ar": "حي سكني يقع في منطقة البطحاء",
+    "lat": 24.605,
+    "lng": 46.695,
+    "character": "سكني"
+  },
+  {
+    "id": "jabrah",
+    "name_ar": "حي جبرة",
+    "name_en": "Jabrah",
+    "municipality": "بلدية البطحاء",
+    "district": "جنوب وسط الرياض",
+    "description_ar": "حي قديم يقع جنوب وسط الرياض",
+    "lat": 24.6,
+    "lng": 46.705,
+    "character": "سكني"
+  },
+  {
+    "id": "utayqah",
+    "name_ar": "حي عتيقة",
+    "name_en": "Utayqah",
+    "municipality": "بلدية البطحاء",
+    "district": "وسط الرياض",
+    "description_ar": "حي تاريخي من أقدم أحياء الرياض يضم معالم تراثية قديمة",
+    "lat": 24.635,
+    "lng": 46.695,
+    "character": "تراثي"
+  },
+  {
+    "id": "ghubayra",
+    "name_ar": "حي غبيراء",
+    "name_en": "Ghubayra",
+    "municipality": "بلدية البطحاء",
+    "district": "وسط الرياض",
+    "description_ar": "حي قديم يقع وسط الرياض بالقرب من المناطق التجارية",
+    "lat": 24.625,
+    "lng": 46.69,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-batiha",
+    "name_ar": "حي البطيحا",
+    "name_en": "Al Batiha",
+    "municipality": "بلدية البطحاء",
+    "district": "وسط الرياض",
+    "description_ar": "قلب منطقة البطحاء التجارية أكبر سوق شعبي في الرياض",
+    "lat": 24.633,
+    "lng": 46.708,
+    "character": "تجاري"
+  },
+  {
+    "id": "al-khalidiyah",
+    "name_ar": "حي الخالدية",
+    "name_en": "Al Khalidiyah",
+    "municipality": "بلدية البطحاء",
+    "district": "وسط الرياض",
+    "description_ar": "حي يقع وسط الرياض بالقرب من المنشآت الحكومية",
+    "lat": 24.64,
+    "lng": 46.695,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-dirah",
+    "name_ar": "حي الديرة",
+    "name_en": "Al Dirah",
+    "municipality": "بلدية البطحاء",
+    "district": "وسط الرياض",
+    "description_ar": "قلب الرياض التاريخي يضم قصر المصمك وسوق الزل والمعالم التراثية",
+    "lat": 24.631,
+    "lng": 46.713,
+    "character": "تراثي"
+  },
+  {
+    "id": "al-oud",
+    "name_ar": "حي العود",
+    "name_en": "Al Oud",
+    "municipality": "بلدية البطحاء",
+    "district": "وسط الرياض",
+    "description_ar": "حي قديم يقع وسط الرياض يتميز بالطابع التراثي الشعبي",
+    "lat": 24.628,
+    "lng": 46.705,
+    "character": "تراثي"
+  },
+  {
+    "id": "al-muraqab",
+    "name_ar": "حي المرقب",
+    "name_en": "Al Muraqab",
+    "municipality": "بلدية البطحاء",
+    "district": "وسط الرياض",
+    "description_ar": "حي تاريخي يقع وسط الرياض القديمة بالقرب من حي الديرة",
+    "lat": 24.635,
+    "lng": 46.715,
+    "character": "تراثي"
+  },
+  {
+    "id": "manfuhah-jadidah",
+    "name_ar": "حي منفوحة الجديدة",
+    "name_en": "Manfuhah Jadidah",
+    "municipality": "بلدية البطحاء",
+    "district": "جنوب وسط الرياض",
+    "description_ar": "الجزء الحديث من منفوحة يتميز بتخطيط أفضل وخدمات محسنة",
+    "lat": 24.613,
+    "lng": 46.71,
+    "character": "سكني"
+  },
+  {
+    "id": "al-aziziyah",
+    "name_ar": "حي العزيزية",
+    "name_en": "Al Aziziyah",
+    "municipality": "بلدية العزيزية",
+    "district": "جنوب الرياض",
+    "description_ar": "حي كبير جنوب الرياض يتميز بالأسواق الشعبية والنشاط التجاري المتنوع",
+    "lat": 24.59,
+    "lng": 46.68,
+    "character": "مختلط"
+  },
+  {
+    "id": "taybah",
+    "name_ar": "حي طيبة",
+    "name_en": "Taybah",
+    "municipality": "بلدية العزيزية",
+    "district": "جنوب الرياض",
+    "description_ar": "حي سكني جنوب الرياض يتميز بأسعار سكن مناسبة",
+    "lat": 24.585,
+    "lng": 46.69,
+    "character": "سكني"
+  },
+  {
+    "id": "al-musaffah",
+    "name_ar": "حي المصفاة",
+    "name_en": "Al Musaffah",
+    "municipality": "بلدية العزيزية",
+    "district": "جنوب الرياض",
+    "description_ar": "حي يقع جنوب الرياض بالقرب من المنشآت الصناعية",
+    "lat": 24.58,
+    "lng": 46.7,
+    "character": "صناعي"
+  },
+  {
+    "id": "al-dar-albayda",
+    "name_ar": "حي الدار البيضاء",
+    "name_en": "Al Dar Al Bayda",
+    "municipality": "بلدية العزيزية",
+    "district": "جنوب الرياض",
+    "description_ar": "حي سكني واسع جنوب الرياض يضم مجمعات سكنية ومرافق",
+    "lat": 24.57,
+    "lng": 46.71,
+    "character": "سكني"
+  },
+  {
+    "id": "al-masani-aziziyah",
+    "name_ar": "حي المصانع (العزيزية)",
+    "name_en": "Al Masani (Aziziyah)",
+    "municipality": "بلدية العزيزية",
+    "district": "جنوب الرياض",
+    "description_ar": "منطقة صناعية تقع جنوب الرياض تضم مصانع ومستودعات",
+    "lat": 24.575,
+    "lng": 46.72,
+    "character": "صناعي"
+  },
+  {
+    "id": "al-mansurah-aziziyah",
+    "name_ar": "حي المنصورة (العزيزية)",
+    "name_en": "Al Mansurah (Aziziyah)",
+    "municipality": "بلدية العزيزية",
+    "district": "جنوب الرياض",
+    "description_ar": "حي سكني تابع لبلدية العزيزية جنوب الرياض",
+    "lat": 24.565,
+    "lng": 46.695,
+    "character": "سكني"
+  },
+  {
+    "id": "al-hair",
+    "name_ar": "حي الحاير",
+    "name_en": "Al Hair",
+    "municipality": "بلدية الحائر",
+    "district": "جنوب الرياض",
+    "description_ar": "حي يقع في أقصى جنوب الرياض يضم سجن الحاير ومناطق زراعية",
+    "lat": 24.42,
+    "lng": 46.75,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-ghanamiyah",
+    "name_ar": "حي الغنامية",
+    "name_en": "Al Ghanamiyah",
+    "municipality": "بلدية الحائر",
+    "district": "جنوب الرياض",
+    "description_ar": "حي يقع جنوب الرياض بالقرب من منطقة الحائر",
+    "lat": 24.45,
+    "lng": 46.73,
+    "character": "سكني"
+  },
+  {
+    "id": "al-ruwwad",
+    "name_ar": "حي الرواد",
+    "name_en": "Al Ruwwad",
+    "municipality": "بلدية الروضة",
     "district": "شرق الرياض",
-    "description_ar": "منطقة تاريخية شرق الرياض. تشتهر بمهرجان الجنادرية التراثي والثقافي.",
-    "lat": 24.76,
-    "lng": 46.84,
-    "place_count": 0,
-    "top_categories": []
+    "description_ar": "حي سكني حديث يقع شرق الرياض يتميز بالتنظيم والبنية التحتية",
+    "lat": 24.74,
+    "lng": 46.77,
+    "character": "سكني"
+  },
+  {
+    "id": "al-shuhada",
+    "name_ar": "حي الشهداء",
+    "name_en": "Al Shuhada",
+    "municipality": "بلدية الروضة",
+    "district": "شرق الرياض",
+    "description_ar": "حي سكني يقع شرق الرياض يتميز بالمرافق والخدمات المتكاملة",
+    "lat": 24.745,
+    "lng": 46.76,
+    "character": "سكني"
+  },
+  {
+    "id": "al-murjan",
+    "name_ar": "حي المرجان",
+    "name_en": "Al Murjan",
+    "municipality": "بلدية الروضة",
+    "district": "شرق الرياض",
+    "description_ar": "حي سكني حديث شرق الرياض يشهد نمواً عمرانياً",
+    "lat": 24.75,
+    "lng": 46.8,
+    "character": "سكني"
+  },
+  {
+    "id": "al-mashriq",
+    "name_ar": "حي المشرق",
+    "name_en": "Al Mashriq",
+    "municipality": "بلدية الروضة",
+    "district": "شرق الرياض",
+    "description_ar": "حي يقع في شرق الرياض يتميز بموقعه الاستراتيجي",
+    "lat": 24.72,
+    "lng": 46.81,
+    "character": "سكني"
+  },
+  {
+    "id": "al-zuhur",
+    "name_ar": "حي الزهور",
+    "name_en": "Al Zuhur",
+    "municipality": "بلدية الروضة",
+    "district": "شرق الرياض",
+    "description_ar": "حي سكني يتميز بالحدائق والمساحات الخضراء",
+    "lat": 24.715,
+    "lng": 46.795,
+    "character": "سكني"
+  },
+  {
+    "id": "al-rayah",
+    "name_ar": "حي الراية",
+    "name_en": "Al Rayah",
+    "municipality": "بلدية الروضة",
+    "district": "شرق الرياض",
+    "description_ar": "حي سكني حديث في شرق الرياض",
+    "lat": 24.71,
+    "lng": 46.805,
+    "character": "سكني"
+  },
+  {
+    "id": "al-muathar-shamali",
+    "name_ar": "حي المعذر الشمالي",
+    "name_en": "Al Muathar North",
+    "municipality": "بلدية المعذر",
+    "district": "وسط الرياض",
+    "description_ar": "الجزء الشمالي من حي المعذر يتميز بالفلل والمباني الحديثة",
+    "lat": 24.7,
+    "lng": 46.655,
+    "character": "سكني"
+  },
+  {
+    "id": "al-fayah",
+    "name_ar": "حي الفيعة",
+    "name_en": "Al Fayah",
+    "municipality": "بلدية الشميسي",
+    "district": "غرب الرياض",
+    "description_ar": "حي يقع في منطقة الشميسي غرب الرياض",
+    "lat": 24.642,
+    "lng": 46.66,
+    "character": "سكني"
+  },
+  {
+    "id": "bin-turki",
+    "name_ar": "حي بن تركي",
+    "name_en": "Bin Turki",
+    "municipality": "بلدية الشفا",
+    "district": "جنوب الرياض",
+    "description_ar": "حي سكني يقع جنوب الرياض",
+    "lat": 24.548,
+    "lng": 46.67,
+    "character": "سكني"
+  },
+  {
+    "id": "al-shalan",
+    "name_ar": "حي الشعلان",
+    "name_en": "Al Shalan",
+    "municipality": "بلدية الشفا",
+    "district": "جنوب الرياض",
+    "description_ar": "حي يقع جنوب الرياض",
+    "lat": 24.552,
+    "lng": 46.665,
+    "character": "سكني"
+  },
+  {
+    "id": "al-diriyyah",
+    "name_ar": "حي الدرعية",
+    "name_en": "Al Diriyyah",
+    "municipality": "بلدية الدرعية",
+    "district": "شمال غرب الرياض",
+    "description_ar": "حي تاريخي يضم منطقة الطريف التراثية المسجلة في اليونسكو وبوابة الدرعية",
+    "lat": 24.734,
+    "lng": 46.572,
+    "character": "تراثي"
+  },
+  {
+    "id": "al-bujairi",
+    "name_ar": "حي البجيري",
+    "name_en": "Al Bujairi",
+    "municipality": "بلدية الدرعية",
+    "district": "شمال غرب الرياض",
+    "description_ar": "حي تراثي يقع مقابل حي الطريف يضم مطاعم ومقاهي ومتاجر تراثية",
+    "lat": 24.735,
+    "lng": 46.575,
+    "character": "تراثي"
+  },
+  {
+    "id": "al-turaif",
+    "name_ar": "حي الطريف",
+    "name_en": "Al Turaif",
+    "municipality": "بلدية الدرعية",
+    "district": "شمال غرب الرياض",
+    "description_ar": "موقع تراث عالمي لليونسكو يضم قصور آل سعود التاريخية",
+    "lat": 24.736,
+    "lng": 46.571,
+    "character": "تراثي"
+  },
+  {
+    "id": "al-jubailah",
+    "name_ar": "حي الجبيلة",
+    "name_en": "Al Jubailah",
+    "municipality": "بلدية الدرعية",
+    "district": "شمال غرب الرياض",
+    "description_ar": "حي تاريخي يقع شرق الدرعية يضم معالم تراثية",
+    "lat": 24.74,
+    "lng": 46.59,
+    "character": "تراثي"
+  },
+  {
+    "id": "al-uyaynah",
+    "name_ar": "حي العيينة",
+    "name_en": "Al Uyaynah",
+    "municipality": "بلدية الدرعية",
+    "district": "شمال غرب الرياض",
+    "description_ar": "منطقة تاريخية شمال غرب الدرعية يُنسب إليها الشيخ محمد بن عبد الوهاب",
+    "lat": 24.78,
+    "lng": 46.52,
+    "character": "تراثي"
+  },
+  {
+    "id": "al-ammariyah",
+    "name_ar": "حي العمارية",
+    "name_en": "Al Ammariyah",
+    "municipality": "بلدية الدرعية",
+    "district": "شمال غرب الرياض",
+    "description_ar": "حي يقع في منطقة الدرعية يتميز بالطابع السكني",
+    "lat": 24.75,
+    "lng": 46.56,
+    "character": "سكني"
+  },
+  {
+    "id": "al-washlah",
+    "name_ar": "حي الوصلة",
+    "name_en": "Al Washlah",
+    "municipality": "بلدية الدرعية",
+    "district": "شمال غرب الرياض",
+    "description_ar": "حي سكني في منطقة الدرعية",
+    "lat": 24.745,
+    "lng": 46.565,
+    "character": "سكني"
+  },
+  {
+    "id": "al-ghisolah",
+    "name_ar": "حي الغصيلة",
+    "name_en": "Al Ghisolah",
+    "municipality": "بلدية الدرعية",
+    "district": "شمال غرب الرياض",
+    "description_ar": "حي في منطقة الدرعية يتميز بقربه من وادي حنيفة",
+    "lat": 24.738,
+    "lng": 46.568,
+    "character": "سكني"
+  },
+  {
+    "id": "al-marqab-shamali",
+    "name_ar": "حي المرقب الشمالي",
+    "name_en": "Al Marqab North",
+    "municipality": "بلدية البطحاء",
+    "district": "وسط الرياض",
+    "description_ar": "الجزء الشمالي من حي المرقب يقع بالقرب من طريق الملك فيصل",
+    "lat": 24.638,
+    "lng": 46.715,
+    "character": "مختلط"
+  },
+  {
+    "id": "al-rawdah-dariyyah",
+    "name_ar": "حي الروضة (الدرعية)",
+    "name_en": "Al Rawdah (Diriyyah)",
+    "municipality": "بلدية الدرعية",
+    "district": "شمال غرب الرياض",
+    "description_ar": "حي سكني تابع لمنطقة الدرعية",
+    "lat": 24.742,
+    "lng": 46.58,
+    "character": "سكني"
+  },
+  {
+    "id": "al-sahil",
+    "name_ar": "حي الساحل",
+    "name_en": "Al Sahil",
+    "municipality": "بلدية الحائر",
+    "district": "جنوب الرياض",
+    "description_ar": "حي يقع في منطقة الحائر جنوب الرياض",
+    "lat": 24.43,
+    "lng": 46.74,
+    "character": "سكني"
+  },
+  {
+    "id": "al-qirawan-hair",
+    "name_ar": "حي القيروان (الحائر)",
+    "name_en": "Al Qirawan (Hair)",
+    "municipality": "بلدية الحائر",
+    "district": "جنوب الرياض",
+    "description_ar": "حي سكني في منطقة الحائر",
+    "lat": 24.44,
+    "lng": 46.735,
+    "character": "سكني"
+  },
+  {
+    "id": "al-sulay",
+    "name_ar": "حي الصالحية",
+    "name_en": "Al Salihiyah",
+    "municipality": "بلدية السلي",
+    "district": "جنوب شرق الرياض",
+    "description_ar": "حي سكني في منطقة السلي جنوب شرق الرياض",
+    "lat": 24.61,
+    "lng": 46.745,
+    "character": "سكني"
+  },
+  {
+    "id": "al-shimaisi-jadid",
+    "name_ar": "حي الشميسي الجديد",
+    "name_en": "Al Shimisi New",
+    "municipality": "بلدية الشميسي",
+    "district": "غرب الرياض",
+    "description_ar": "الجزء الحديث من منطقة الشميسي",
+    "lat": 24.635,
+    "lng": 46.66,
+    "character": "سكني"
+  },
+  {
+    "id": "al-mansuriyah-hair",
+    "name_ar": "حي المنصورية (الحائر)",
+    "name_en": "Al Mansuriyah (Hair)",
+    "municipality": "بلدية الحائر",
+    "district": "جنوب الرياض",
+    "description_ar": "حي سكني في منطقة الحائر جنوب الرياض",
+    "lat": 24.435,
+    "lng": 46.745,
+    "character": "سكني"
+  },
+  {
+    "id": "king-saud-university",
+    "name_ar": "منطقة جامعة الملك سعود",
+    "name_en": "King Saud University Area",
+    "municipality": "بلدية المعذر",
+    "district": "وسط الرياض",
+    "description_ar": "منطقة جامعة الملك سعود تضم الحرم الجامعي والمستشفيات الجامعية",
+    "lat": 24.7136,
+    "lng": 46.6196,
+    "character": "تعليمي"
+  },
+  {
+    "id": "imam-university",
+    "name_ar": "منطقة جامعة الإمام",
+    "name_en": "Imam University Area",
+    "municipality": "بلدية الشمال",
+    "district": "شمال الرياض",
+    "description_ar": "منطقة جامعة الإمام محمد بن سعود الإسلامية شمال الرياض",
+    "lat": 24.81,
+    "lng": 46.72,
+    "character": "تعليمي"
+  },
+  {
+    "id": "al-hamra-namar",
+    "name_ar": "حي الحمراء (نمار)",
+    "name_en": "Al Hamra (Namar)",
+    "municipality": "بلدية نمار",
+    "district": "جنوب غرب الرياض",
+    "description_ar": "حي سكني في منطقة نمار جنوب غرب الرياض",
+    "lat": 24.565,
+    "lng": 46.57,
+    "character": "سكني"
+  },
+  {
+    "id": "al-munsiyat",
+    "name_ar": "حي المنسيات",
+    "name_en": "Al Munsiyat",
+    "municipality": "بلدية نمار",
+    "district": "جنوب غرب الرياض",
+    "description_ar": "حي يقع في منطقة نمار",
+    "lat": 24.555,
+    "lng": 46.565,
+    "character": "سكني"
+  },
+  {
+    "id": "al-rabi-hair",
+    "name_ar": "حي الربيع (الحائر)",
+    "name_en": "Al Rabi (Hair)",
+    "municipality": "بلدية الحائر",
+    "district": "جنوب الرياض",
+    "description_ar": "حي سكني في منطقة الحائر",
+    "lat": 24.445,
+    "lng": 46.72,
+    "character": "سكني"
+  },
+  {
+    "id": "al-khaleej-sharqi",
+    "name_ar": "حي الخليج الشرقي",
+    "name_en": "Al Khalij East",
+    "municipality": "بلدية الروضة",
+    "district": "شرق الرياض",
+    "description_ar": "الجزء الشرقي من حي الخليج",
+    "lat": 24.705,
+    "lng": 46.76,
+    "character": "سكني"
+  },
+  {
+    "id": "al-nuzhah-sharqiyah",
+    "name_ar": "حي النزهة الشرقية",
+    "name_en": "Al Nuzhah East",
+    "municipality": "بلدية العليا",
+    "district": "وسط الرياض",
+    "description_ar": "الجزء الشرقي من حي النزهة",
+    "lat": 24.737,
+    "lng": 46.695,
+    "character": "سكني"
   }
 ]
