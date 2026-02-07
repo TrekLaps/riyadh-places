@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>هابّ الحين 🔥 - الأماكن الأكثر ازدحاماً الآن | وين نروح بالرياض؟</title>
+  <meta name="description" content="اكتشف الأماكن الأكثر ازدحاماً في الرياض الحين! تابع مستوى الازدحام في الكافيهات والمطاعم والأماكن الترفيهية لحظة بلحظة.">
+  <meta name="keywords" content="أماكن مزدحمة الرياض, الأماكن الرائجة الرياض, ازدحام كافيهات الرياض, popular times riyadh">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://wain-nrooh.com/trending.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="هابّ الحين 🔥 - أماكن الرياض الرائجة الآن">
+  <meta property="og:description" content="شوف وش الأماكن اللي هابّة الحين بالرياض! ازدحام لحظي لكل مكان.">
+  <meta property="og:url" content="https://wain-nrooh.com/trending.html">
+  <meta property="og:locale" content="ar_SA">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><span>🏙️</span><h1>وين نروح بالرياض؟</h1></a>
+      <button class="menu-toggle" aria-label="القائمة">☰</button>
+      <nav class="nav">
+        <a href="index.html">الرئيسية</a>
+        <a href="cafes.html">كافيهات</a>
+        <a href="restaurants.html">مطاعم</a>
+        <a href="activities.html">ترفيه</a>
+        <a href="shopping.html">تسوق</a>
+        <a href="nature.html">طبيعة</a>
+        <a href="desserts.html">حلويات</a>
+        <a href="events.html">فعاليات</a>
+        <a href="trending.html" class="active">هابّ الحين 🔥</a>
+        <a href="new-places.html">أماكن جديدة</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="page-header">
+    <h2>🔥 هابّ <span>الحين</span></h2>
+    <p>الأماكن الأكثر ازدحاماً في الرياض هذي اللحظة — محدث تلقائياً حسب الوقت</p>
+  </section>
+
+  <div class="breadcrumb">
+    <a href="index.html">الرئيسية</a> <span>›</span> هابّ الحين 🔥
+  </div>
+
+  <div style="max-width: var(--max-width, 1200px); margin: 20px auto; padding: 0 20px;">
+    <!-- Live Status Banner -->
+    <div id="live-status" class="live-status-banner">
+      <div class="live-dot"></div>
+      <span id="live-time">جاري التحميل...</span>
+    </div>
+
+    <!-- Category Filter -->
+    <div class="filter-tabs" id="category-filters">
+      <button class="filter-tab active" data-cat="all">🏙️ الكل</button>
+      <button class="filter-tab" data-cat="cafe">☕ كافيهات</button>
+      <button class="filter-tab" data-cat="restaurant">🍽️ مطاعم</button>
+      <button class="filter-tab" data-cat="activity">🎭 ترفيه</button>
+      <button class="filter-tab" data-cat="shopping">🛍️ تسوق</button>
+      <button class="filter-tab" data-cat="entertainment">🎮 ألعاب</button>
+      <button class="filter-tab" data-cat="nature">🏞️ طبيعة</button>
+      <button class="filter-tab" data-cat="desserts">🍰 حلويات</button>
+      <button class="filter-tab" data-cat="events">🎪 فعاليات</button>
+    </div>
+
+    <!-- Results Count -->
+    <div class="sort-filter-bar" style="margin-bottom: 20px;">
+      <div class="results-count" id="results-count">جاري التحميل...</div>
+      <div class="sort-filter-controls">
+        <select class="sort-select" id="busyness-filter">
+          <option value="all">كل المستويات</option>
+          <option value="very_busy">🔴 مزدحم جداً</option>
+          <option value="busy">🔴 مزدحم</option>
+          <option value="moderate">🟡 معتدل</option>
+          <option value="quiet">🟢 هادي</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Trending Grid -->
+    <div id="trending-container" class="cards-grid"></div>
+  </div>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div>
+        <h3>وين نروح بالرياض؟</h3>
+        <p>دليلك الشامل لأفضل الأماكن في الرياض مع تقييمات قوقل الحقيقية. محدث يومياً بأحدث الأماكن والتقييمات.</p>
+      </div>
+      <div>
+        <h3>الأقسام</h3>
+        <ul>
+          <li><a href="cafes.html">كافيهات الرياض</a></li>
+          <li><a href="restaurants.html">مطاعم الرياض</a></li>
+          <li><a href="activities.html">ترفيه وأنشطة</a></li>
+          <li><a href="shopping.html">تسوق بالرياض</a></li>
+          <li><a href="nature.html">طبيعة ورحلات</a></li>
+          <li><a href="desserts.html">حلويات الرياض</a></li>
+          <li><a href="events.html">فعاليات الرياض</a></li>
+          <li><a href="trending.html">هابّ الحين 🔥</a></li>
+          <li><a href="top-rated.html">الأعلى تقييماً</a></li>
+          <li><a href="new-places.html">أماكن جديدة</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>روابط مفيدة</h3>
+        <ul>
+          <li><a href="sitemap.xml">خريطة الموقع</a></li>
+          <li><a href="#">سياسة الخصوصية</a></li>
+          <li><a href="#">تواصل معنا</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-heart">صنع بـ <span>❤️</span> في الرياض</div>
+    <div class="footer-bottom"><p>© 2025-2026 وين نروح بالرياض؟ جميع الحقوق محفوظة.</p></div>
+  </footer>
+
+  <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
+
+  <style>
+    .live-status-banner {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 14px 20px;
+      background: linear-gradient(135deg, var(--primary), var(--primary-light));
+      color: white;
+      border-radius: var(--radius);
+      margin-bottom: 20px;
+      font-size: 15px;
+      font-weight: 600;
+    }
+    .live-dot {
+      width: 10px;
+      height: 10px;
+      background: #2ecc71;
+      border-radius: 50%;
+      animation: pulse 1.5s infinite;
+      flex-shrink: 0;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(46,204,113,0.4); }
+      50% { opacity: 0.7; box-shadow: 0 0 0 8px rgba(46,204,113,0); }
+    }
+
+    .trending-card-image {
+      width: 100%;
+      height: 160px;
+      background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+      position: relative;
+      overflow: hidden;
+    }
+    .trending-card-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .trending-card-image .rank-overlay {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      width: 36px;
+      height: 36px;
+      background: linear-gradient(135deg, var(--gold), var(--gold-dark));
+      color: var(--primary);
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 16px;
+      font-weight: 900;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    }
+    .trending-card-image .rank-overlay.rank-1 { background: linear-gradient(135deg, #FFD700, #FFA500); }
+    .trending-card-image .rank-overlay.rank-2 { background: linear-gradient(135deg, #C0C0C0, #A0A0A0); }
+    .trending-card-image .rank-overlay.rank-3 { background: linear-gradient(135deg, #CD7F32, #A0522D); color: #fff; }
+    .trending-card-image .busyness-overlay {
+      position: absolute;
+      bottom: 10px;
+      left: 10px;
+      padding: 5px 12px;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 700;
+      backdrop-filter: blur(6px);
+    }
+    .busyness-bg-quiet { background: rgba(46,204,113,0.85); color: #fff; }
+    .busyness-bg-moderate { background: rgba(243,156,18,0.85); color: #fff; }
+    .busyness-bg-busy { background: rgba(231,76,60,0.85); color: #fff; }
+    .busyness-bg-very_busy { background: rgba(192,57,43,0.9); color: #fff; }
+    .busyness-bg-closed { background: rgba(100,100,100,0.85); color: #fff; }
+
+    .trending-card-content {
+      padding: 14px 16px 16px;
+    }
+    .trending-card-content .category-badge {
+      display: inline-block;
+      background: rgba(10,22,40,0.06);
+      color: var(--primary);
+      padding: 3px 10px;
+      border-radius: 6px;
+      font-size: 12px;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+    .trending-card-content h3 {
+      font-size: 17px;
+      font-weight: 700;
+      color: var(--primary);
+      margin: 4px 0;
+    }
+    .trending-card-content .neighborhood {
+      color: var(--text-muted);
+      font-size: 13px;
+      margin-bottom: 6px;
+    }
+    .trending-card-content .neighborhood::before { content: "📍 "; }
+
+    .busyness-progress {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin: 10px 0;
+    }
+    .busyness-progress .bar-track {
+      flex: 1;
+      height: 8px;
+      background: var(--border);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+    .busyness-progress .bar-fill {
+      height: 100%;
+      border-radius: 4px;
+      transition: width 0.6s ease;
+    }
+    .busyness-progress .bar-pct {
+      font-size: 14px;
+      font-weight: 800;
+      min-width: 40px;
+      text-align: center;
+    }
+
+    .trending-card-content .card-actions {
+      display: flex;
+      gap: 8px;
+      margin-top: 12px;
+    }
+
+    .trending-card-content .rating-line {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 13px;
+      color: var(--text-light);
+      margin-bottom: 4px;
+    }
+    .trending-card-content .rating-line .stars { color: var(--gold); }
+
+    /* No results */
+    .trending-empty {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-muted);
+    }
+    .trending-empty .emoji { font-size: 64px; margin-bottom: 16px; }
+    .trending-empty h3 { font-size: 20px; color: var(--text); margin-bottom: 8px; }
+  </style>
+
+  <script src="js/main.js"></script>
+  <script src="js/crowd.js"></script>
+  <script>
+    const catIconMap = {
+      'cafe': '☕', 'restaurant': '🍽️', 'activity': '🎭',
+      'shopping': '🛍️', 'nature': '🏞️', 'entertainment': '🎮',
+      'desserts': '🍰', 'events': '🎪'
+    };
+    const catNameMap = {
+      'cafe': 'كافيه', 'restaurant': 'مطعم', 'activity': 'ترفيه',
+      'shopping': 'تسوق', 'nature': 'طبيعة', 'entertainment': 'ألعاب',
+      'desserts': 'حلويات', 'events': 'فعاليات'
+    };
+
+    let allPlaces = [];
+    let currentCategory = 'all';
+    let currentBusynessFilter = 'all';
+
+    function updateLiveTime() {
+      const now = new Date();
+      const riyadh = new Date(now.getTime() + (3 * 60 * 60 * 1000));
+      const h = riyadh.getUTCHours();
+      const m = riyadh.getUTCMinutes();
+      const ampm = h >= 12 ? 'م' : 'ص';
+      const dh = h > 12 ? h - 12 : (h === 0 ? 12 : h);
+      const dayNames = ['الأحد', 'الاثنين', 'الثلاثاء', 'الأربعاء', 'الخميس', 'الجمعة', 'السبت'];
+      const dayName = dayNames[riyadh.getUTCDay()];
+      document.getElementById('live-time').textContent =
+        `مباشر · ${dayName} ${dh}:${String(m).padStart(2, '0')} ${ampm} بتوقيت الرياض`;
+    }
+
+    function renderTrendingCard(place, rank) {
+      const info = getBusynessLevel(place.currentBusyness);
+      const rankClass = rank <= 3 ? `rank-${rank}` : '';
+      const cat = place.category_en || place.category;
+
+      return `
+        <article class="trending-now-card" data-id="${place.id}">
+          <div class="trending-card-image">
+            ${place.image_url ? `<img src="${place.image_url}" alt="${place.name_ar}" loading="lazy" onerror="this.style.display='none'">` : ''}
+            <div class="rank-overlay ${rankClass}">${rank}</div>
+            <div class="busyness-overlay busyness-bg-${info.level}">${info.icon} ${info.label}</div>
+          </div>
+          <div class="trending-card-content">
+            <span class="category-badge">${catIconMap[cat] || '📍'} ${catNameMap[cat] || place.category}</span>
+            <h3>${place.name_ar}</h3>
+            <div class="neighborhood">${place.neighborhood}</div>
+            <div class="rating-line">
+              <span class="stars">${generateStars(place.google_rating)}</span>
+              <span>${place.google_rating} · ${formatNumber(place.review_count)} تقييم</span>
+            </div>
+            <div class="busyness-progress">
+              <div class="bar-track">
+                <div class="bar-fill" style="width: ${place.currentBusyness}%; background: ${info.color};"></div>
+              </div>
+              <span class="bar-pct" style="color: ${info.color}">${place.currentBusyness}%</span>
+            </div>
+            ${renderMiniChart(place)}
+            <div class="card-actions">
+              <a href="place.html?id=${place.id}" class="btn-primary">اعرف أكثر</a>
+              <a href="${place.google_maps_url}" target="_blank" class="btn-outline">📍 الموقع</a>
+            </div>
+          </div>
+        </article>
+      `;
+    }
+
+    function renderTrending() {
+      const container = document.getElementById('trending-container');
+      const day = getCurrentDay();
+      const hour = getCurrentHour();
+
+      let filtered = allPlaces
+        .filter(p => p.popular_times && p.popular_times[day])
+        .map(p => {
+          const value = p.popular_times[day][hour] || 0;
+          return { ...p, currentBusyness: value, busynessInfo: getBusynessLevel(value) };
+        })
+        .filter(p => p.currentBusyness > 0);
+
+      // Category filter
+      if (currentCategory !== 'all') {
+        filtered = filtered.filter(p => {
+          const cat = p.category_en || p.category;
+          return cat === currentCategory;
+        });
+      }
+
+      // Busyness filter
+      if (currentBusynessFilter !== 'all') {
+        filtered = filtered.filter(p => p.busynessInfo.level === currentBusynessFilter);
+      }
+
+      // Sort by busyness
+      filtered.sort((a, b) => b.currentBusyness - a.currentBusyness);
+
+      // Update count
+      document.getElementById('results-count').innerHTML = 
+        `عرض <strong>${formatNumber(filtered.length)}</strong> مكان مرتب حسب الازدحام`;
+
+      if (filtered.length === 0) {
+        container.innerHTML = `
+          <div class="trending-empty" style="grid-column: 1 / -1;">
+            <div class="emoji">😴</div>
+            <h3>ما في أماكن مزدحمة الحين</h3>
+            <p>جرب تغيير الفلتر أو تعال وقت ثاني</p>
+          </div>
+        `;
+        return;
+      }
+
+      container.innerHTML = filtered.map((p, i) => renderTrendingCard(p, i + 1)).join('');
+    }
+
+    document.addEventListener('DOMContentLoaded', async () => {
+      allPlaces = await loadPlaces();
+      
+      updateLiveTime();
+      setInterval(updateLiveTime, 30000);
+
+      renderTrending();
+
+      // Category filter tabs
+      document.querySelectorAll('#category-filters .filter-tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+          document.querySelectorAll('#category-filters .filter-tab').forEach(t => t.classList.remove('active'));
+          tab.classList.add('active');
+          currentCategory = tab.dataset.cat;
+          renderTrending();
+        });
+      });
+
+      // Busyness filter
+      document.getElementById('busyness-filter').addEventListener('change', (e) => {
+        currentBusynessFilter = e.target.value;
+        renderTrending();
+      });
+
+      // Auto-refresh every 5 minutes
+      setInterval(renderTrending, 5 * 60 * 1000);
+    });
+  </script>
+  <script src="js/analytics.js"></script>
+</body>
+</html>

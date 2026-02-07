@@ -30,6 +30,7 @@
         <a href="nature.html">طبيعة</a>
         <a href="desserts.html">حلويات</a>
         <a href="events.html">فعاليات</a>
+        <a href="trending.html">هابّ الحين 🔥</a>
         <a href="new-places.html">أماكن جديدة</a>
       </nav>
     </div>
@@ -42,6 +43,8 @@
   <div class="place-detail" id="place-detail-container"></div>
 
   <div style="max-width:1200px;margin:0 auto;padding:0 20px;" id="rating-analysis-container"></div>
+
+  <div style="max-width:1200px;margin:0 auto;padding:0 20px;" id="popular-times-container"></div>
 
   <div style="max-width:1200px;margin:24px auto;padding:0 20px;">
     <div class="section-title"><div><h2>أماكن مشابهة</h2></div></div>
@@ -65,7 +68,8 @@
           <li><a href="desserts.html">حلويات الرياض</a></li>
           <li><a href="events.html">فعاليات الرياض</a></li>
           <li><a href="top-rated.html">الأعلى تقييماً</a></li>
-          <li><a href="new-places.html">أماكن جديدة</a></li>
+          <li><a href="trending.html">هابّ الحين 🔥</a>
+        <a href="new-places.html">أماكن جديدة</a></li>
         </ul>
       </div>
       <div>
@@ -84,6 +88,7 @@
   <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
 
   <script src="js/main.js"></script>
+  <script src="js/crowd.js"></script>
   <script>
     const categoryPages = { 'cafe': 'cafes.html', 'restaurant': 'restaurants.html', 'activity': 'activities.html', 'تسوق': 'shopping.html', 'طبيعة': 'nature.html', 'كافيه': 'cafes.html', 'مطعم': 'restaurants.html', 'ترفيه': 'activities.html', 'حلويات': 'desserts.html', 'فعاليات': 'events.html' };
 
@@ -182,6 +187,12 @@
 
       // Rating Analysis
       document.getElementById('rating-analysis-container').innerHTML = generateRatingAnalysis(place);
+
+      // Popular Times
+      if (place.popular_times) {
+        document.getElementById('popular-times-container').innerHTML = renderPopularTimes(place);
+        initPopularTimesTabs();
+      }
 
       // Related places
       const related = allPlaces.filter(p => p.category === place.category && p.id !== place.id).slice(0, 3);

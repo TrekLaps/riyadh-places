@@ -1,0 +1,50 @@
+{
+  "name": "وين نروح بالرياض؟",
+  "short_name": "وين نروح",
+  "description": "دليلك الشامل لأفضل أماكن الرياض — كافيهات، مطاعم، ترفيه مع تقييمات قوقل الحقيقية",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#0a1628",
+  "theme_color": "#0a1628",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["travel", "lifestyle", "food"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "الخريطة",
+      "url": "/map.html",
+      "description": "خريطة تفاعلية لأماكن الرياض"
+    },
+    {
+      "name": "المفضلة",
+      "url": "/favorites.html",
+      "description": "أماكنك المفضلة"
+    },
+    {
+      "name": "كافيهات",
+      "url": "/cafes.html",
+      "description": "أفضل كافيهات الرياض"
+    },
+    {
+      "name": "مطاعم",
+      "url": "/restaurants.html",
+      "description": "أفضل مطاعم الرياض"
+    }
+  ]
+}

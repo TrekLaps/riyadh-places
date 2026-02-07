@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>خريطة أماكن الرياض التفاعلية | وين نروح بالرياض؟</title>
+  <meta name="description" content="خريطة تفاعلية لأفضل أماكن الرياض. اكتشف الكافيهات والمطاعم والأماكن الترفيهية القريبة منك على الخريطة.">
+  <link rel="canonical" href="https://wain-nrooh.com/map.html">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0a1628">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+  <style>
+    #map-container {
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: 20px;
+    }
+    #map {
+      width: 100%;
+      height: 70vh;
+      min-height: 400px;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      z-index: 1;
+    }
+    .map-controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 16px;
+      align-items: center;
+    }
+    .map-filter-chip {
+      padding: 8px 16px;
+      border: 2px solid var(--border);
+      border-radius: 50px;
+      background: var(--card-bg);
+      cursor: pointer;
+      font-family: 'Tajawal', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      transition: var(--transition);
+      color: var(--text);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      min-height: 40px;
+      white-space: nowrap;
+    }
+    .map-filter-chip:hover {
+      border-color: var(--gold);
+      color: var(--gold-dark);
+    }
+    .map-filter-chip.active {
+      background: var(--gold);
+      border-color: var(--gold);
+      color: var(--primary);
+    }
+    .map-locate-btn {
+      padding: 8px 18px;
+      background: var(--primary);
+      color: var(--gold);
+      border: 2px solid var(--primary);
+      border-radius: 50px;
+      cursor: pointer;
+      font-family: 'Tajawal', sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      transition: var(--transition);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      min-height: 40px;
+      margin-right: auto;
+    }
+    .map-locate-btn:hover {
+      background: var(--primary-light);
+      transform: translateY(-1px);
+    }
+    .map-locate-btn.locating {
+      opacity: 0.7;
+      pointer-events: none;
+    }
+    .map-stats {
+      display: flex;
+      gap: 16px;
+      margin-top: 16px;
+      flex-wrap: wrap;
+    }
+    .map-stat {
+      background: var(--card-bg);
+      padding: 12px 20px;
+      border-radius: var(--radius-sm);
+      box-shadow: var(--shadow);
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text);
+      border-top: 3px solid var(--gold);
+    }
+    .map-stat strong {
+      color: var(--gold-dark);
+      font-size: 18px;
+    }
+    /* Leaflet popup styling */
+    .leaflet-popup-content-wrapper {
+      border-radius: var(--radius-sm) !important;
+      font-family: 'Tajawal', sans-serif !important;
+      direction: rtl;
+    }
+    .leaflet-popup-content {
+      margin: 12px 16px !important;
+      font-size: 14px;
+      line-height: 1.6;
+      min-width: 220px;
+    }
+    .popup-name {
+      font-size: 16px;
+      font-weight: 800;
+      color: var(--primary);
+      margin-bottom: 4px;
+    }
+    .popup-category {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-bottom: 6px;
+    }
+    .popup-rating {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      margin-bottom: 6px;
+    }
+    .popup-rating .stars {
+      color: var(--gold);
+      font-size: 13px;
+    }
+    .popup-rating .score {
+      font-weight: 800;
+      color: var(--primary);
+    }
+    .popup-desc {
+      font-size: 13px;
+      color: var(--text-light);
+      margin-bottom: 8px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .popup-actions {
+      display: flex;
+      gap: 8px;
+    }
+    .popup-actions a {
+      padding: 6px 12px;
+      border-radius: var(--radius-sm);
+      font-size: 12px;
+      font-weight: 700;
+      text-decoration: none;
+      transition: var(--transition);
+    }
+    .popup-link {
+      background: var(--gold);
+      color: var(--primary);
+    }
+    .popup-map-link {
+      background: rgba(10,22,40,0.06);
+      color: var(--primary);
+    }
+    .popup-trending {
+      display: inline-block;
+      background: var(--gold);
+      color: var(--primary);
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+    @media (max-width: 768px) {
+      #map-container { padding: 12px; }
+      #map { height: 60vh; min-height: 350px; }
+      .map-controls { gap: 6px; }
+      .map-filter-chip { padding: 6px 12px; font-size: 12px; min-height: 36px; }
+      .map-locate-btn { padding: 6px 14px; font-size: 12px; min-height: 36px; }
+      .map-stats { gap: 8px; }
+      .map-stat { padding: 8px 14px; font-size: 13px; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><span>🏙️</span><h1>وين نروح بالرياض؟</h1></a>
+      <button class="menu-toggle" aria-label="القائمة">☰</button>
+      <nav class="nav">
+        <a href="index.html">الرئيسية</a>
+        <a href="cafes.html">كافيهات</a>
+        <a href="restaurants.html">مطاعم</a>
+        <a href="activities.html">ترفيه</a>
+        <a href="shopping.html">تسوق</a>
+        <a href="nature.html">طبيعة</a>
+        <a href="map.html" class="active">🗺️ الخريطة</a>
+        <a href="favorites.html">❤️ المفضلة</a>
+      <a href="trending.html">هابّ الحين 🔥</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="page-header">
+    <h2>🗺️ خريطة أماكن <span>الرياض</span></h2>
+    <p>اكتشف أقرب الأماكن المميزة إليك على الخريطة التفاعلية</p>
+  </section>
+
+  <div id="map-container">
+    <div class="map-controls" id="map-controls">
+      <button class="map-filter-chip active" data-category="all">📍 الكل</button>
+      <button class="map-filter-chip" data-category="كافيه">☕ كافيهات</button>
+      <button class="map-filter-chip" data-category="مطعم">🍽️ مطاعم</button>
+      <button class="map-filter-chip" data-category="ترفيه">🎭 ترفيه</button>
+      <button class="map-filter-chip" data-category="تسوق">🛍️ تسوق</button>
+      <button class="map-filter-chip" data-category="طبيعة">🏞️ طبيعة</button>
+      <button class="map-filter-chip" data-category="حلويات">🍰 حلويات</button>
+      <button class="map-filter-chip" data-category="فعاليات">🎪 فعاليات</button>
+      <button class="map-locate-btn" id="locate-btn">📍 موقعي</button>
+    </div>
+
+    <div id="map"></div>
+
+    <div class="map-stats" id="map-stats"></div>
+  </div>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div>
+        <h3>وين نروح بالرياض؟</h3>
+        <p>دليلك الشامل لأفضل الأماكن في الرياض. محدث يومياً.</p>
+      </div>
+      <div>
+        <h3>الأقسام</h3>
+        <ul>
+          <li><a href="cafes.html">كافيهات الرياض</a></li>
+          <li><a href="restaurants.html">مطاعم الرياض</a></li>
+          <li><a href="activities.html">ترفيه وأنشطة</a></li>
+          <li><a href="map.html">🗺️ الخريطة</a></li>
+          <li><a href="favorites.html">❤️ المفضلة</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>روابط مفيدة</h3>
+        <ul>
+          <li><a href="sitemap.xml">خريطة الموقع</a></li>
+          <li><a href="#">سياسة الخصوصية</a></li>
+          <li><a href="#">تواصل معنا</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-heart">صنع بـ <span>❤️</span> في الرياض</div>
+    <div class="footer-bottom"><p>© 2025-2026 وين نروح بالرياض؟ جميع الحقوق محفوظة.</p></div>
+  </footer>
+
+  <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
+
+  <script src="js/main.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script>
+    const CATEGORY_COLORS = {
+      'كافيه':   { color: '#8B4513', icon: '☕', bg: '#F5DEB3' },
+      'مطعم':    { color: '#DC143C', icon: '🍽️', bg: '#FFE4E1' },
+      'ترفيه':   { color: '#4B0082', icon: '🎭', bg: '#E6E6FA' },
+      'تسوق':    { color: '#FF69B4', icon: '🛍️', bg: '#FFF0F5' },
+      'طبيعة':   { color: '#228B22', icon: '🏞️', bg: '#F0FFF0' },
+      'حلويات':  { color: '#FF8C00', icon: '🍰', bg: '#FFF8DC' },
+      'فعاليات': { color: '#4169E1', icon: '🎪', bg: '#F0F8FF' },
+    };
+
+    function createCategoryIcon(category) {
+      const cat = CATEGORY_COLORS[category] || { color: '#c9a84c', icon: '📍', bg: '#fff' };
+      return L.divIcon({
+        html: `<div style="
+          background:${cat.bg};
+          border:3px solid ${cat.color};
+          border-radius:50%;
+          width:36px;height:36px;
+          display:flex;align-items:center;justify-content:center;
+          font-size:18px;
+          box-shadow:0 2px 8px rgba(0,0,0,0.25);
+        ">${cat.icon}</div>`,
+        className: 'custom-marker',
+        iconSize: [36, 36],
+        iconAnchor: [18, 18],
+        popupAnchor: [0, -20],
+      });
+    }
+
+    function createPopupContent(place) {
+      const stars = '★'.repeat(Math.floor(place.google_rating)) + (place.google_rating % 1 >= 0.3 ? '★' : '') + '☆'.repeat(5 - Math.floor(place.google_rating) - (place.google_rating % 1 >= 0.3 ? 1 : 0));
+      const catNames = { 'كافيه': 'كافيه', 'مطعم': 'مطعم', 'ترفيه': 'ترفيه', 'تسوق': 'تسوق', 'طبيعة': 'طبيعة', 'حلويات': 'حلويات', 'فعاليات': 'فعاليات' };
+      return `
+        <div>
+          ${place.trending ? '<span class="popup-trending">🔥 رائج</span>' : ''}
+          <div class="popup-name">${place.name_ar}</div>
+          <div class="popup-category">${CATEGORY_COLORS[place.category]?.icon || '📍'} ${catNames[place.category] || place.category} · ${place.neighborhood}</div>
+          <div class="popup-rating">
+            <span class="score">${place.google_rating}</span>
+            <span class="stars">${stars}</span>
+            <span style="font-size:12px;color:#888;">(${place.review_count.toLocaleString('ar-SA')})</span>
+          </div>
+          <div class="popup-desc">${place.description_ar}</div>
+          <div style="font-size:13px;color:var(--gold-dark);font-weight:700;margin-bottom:8px;">${place.price_level}</div>
+          <div class="popup-actions">
+            <a href="place.html?id=${place.id}" class="popup-link">اعرف أكثر</a>
+            <a href="${place.google_maps_url}" target="_blank" class="popup-map-link">📍 خرائط قوقل</a>
+          </div>
+        </div>
+      `;
+    }
+
+    document.addEventListener('DOMContentLoaded', async () => {
+      const places = await loadPlaces();
+
+      // Initialize map centered on Riyadh
+      const map = L.map('map', {
+        zoomControl: true,
+      }).setView([24.7136, 46.6753], 11);
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap',
+        maxZoom: 18,
+      }).addTo(map);
+
+      // Create marker cluster group
+      const clusterGroup = L.markerClusterGroup({
+        maxClusterRadius: 50,
+        spiderfyOnMaxZoom: true,
+        showCoverageOnHover: false,
+        chunkedLoading: true,
+        iconCreateFunction: function(cluster) {
+          const count = cluster.getChildCount();
+          let size = 'small';
+          if (count > 10) size = 'medium';
+          if (count > 50) size = 'large';
+          const sizes = { small: 36, medium: 44, large: 52 };
+          return L.divIcon({
+            html: `<div style="
+              background:linear-gradient(135deg, #c9a84c, #b08d3a);
+              color:#0a1628;
+              border-radius:50%;
+              width:${sizes[size]}px;height:${sizes[size]}px;
+              display:flex;align-items:center;justify-content:center;
+              font-size:${size === 'large' ? 16 : 14}px;
+              font-weight:900;
+              font-family:'Tajawal',sans-serif;
+              box-shadow:0 3px 12px rgba(201,168,76,0.4);
+              border:3px solid #0a1628;
+            ">${count}</div>`,
+            className: 'custom-cluster',
+            iconSize: [sizes[size], sizes[size]],
+          });
+        }
+      });
+
+      // Create markers
+      const allMarkers = {};
+      places.forEach(place => {
+        if (!place.lat || !place.lng) return;
+        const marker = L.marker([place.lat, place.lng], {
+          icon: createCategoryIcon(place.category),
+        });
+        marker.bindPopup(createPopupContent(place), { maxWidth: 300 });
+        marker.placeData = place;
+        if (!allMarkers[place.category]) allMarkers[place.category] = [];
+        allMarkers[place.category].push(marker);
+      });
+
+      // Add all markers initially
+      Object.values(allMarkers).flat().forEach(m => clusterGroup.addLayer(m));
+      map.addLayer(clusterGroup);
+
+      // Category filter
+      let activeCategory = 'all';
+      document.querySelectorAll('.map-filter-chip').forEach(chip => {
+        chip.addEventListener('click', () => {
+          document.querySelectorAll('.map-filter-chip').forEach(c => c.classList.remove('active'));
+          chip.classList.add('active');
+          activeCategory = chip.dataset.category;
+
+          clusterGroup.clearLayers();
+          if (activeCategory === 'all') {
+            Object.values(allMarkers).flat().forEach(m => clusterGroup.addLayer(m));
+          } else {
+            (allMarkers[activeCategory] || []).forEach(m => clusterGroup.addLayer(m));
+          }
+
+          updateStats(activeCategory);
+        });
+      });
+
+      // Location button
+      const locateBtn = document.getElementById('locate-btn');
+      let userMarker = null;
+
+      locateBtn.addEventListener('click', () => {
+        if (!navigator.geolocation) {
+          alert('المتصفح لا يدعم تحديد الموقع');
+          return;
+        }
+        locateBtn.classList.add('locating');
+        locateBtn.innerHTML = '⏳ جاري التحديد...';
+
+        navigator.geolocation.getCurrentPosition(
+          (pos) => {
+            const { latitude, longitude } = pos.coords;
+            if (userMarker) map.removeLayer(userMarker);
+
+            userMarker = L.marker([latitude, longitude], {
+              icon: L.divIcon({
+                html: `<div style="
+                  width:20px;height:20px;
+                  background:#4285F4;
+                  border:4px solid white;
+                  border-radius:50%;
+                  box-shadow:0 2px 8px rgba(66,133,244,0.5);
+                "></div>`,
+                className: 'user-marker',
+                iconSize: [20, 20],
+                iconAnchor: [10, 10],
+              })
+            }).addTo(map);
+
+            userMarker.bindPopup('<div style="text-align:center;font-family:Tajawal,sans-serif;"><strong>📍 موقعك الحالي</strong></div>').openPopup();
+            map.setView([latitude, longitude], 14);
+
+            locateBtn.classList.remove('locating');
+            locateBtn.innerHTML = '📍 موقعي';
+          },
+          (err) => {
+            locateBtn.classList.remove('locating');
+            locateBtn.innerHTML = '📍 موقعي';
+            alert('تعذر تحديد موقعك. تأكد من تفعيل خدمة الموقع.');
+          },
+          { enableHighAccuracy: true, timeout: 10000 }
+        );
+      });
+
+      // Stats
+      function updateStats(category) {
+        const filtered = category === 'all' ? places : places.filter(p => p.category === category);
+        const avgRating = (filtered.reduce((s, p) => s + p.google_rating, 0) / filtered.length).toFixed(1);
+        const trending = filtered.filter(p => p.trending).length;
+        document.getElementById('map-stats').innerHTML = `
+          <div class="map-stat">📍 <strong>${filtered.length}</strong> مكان على الخريطة</div>
+          <div class="map-stat">⭐ متوسط التقييم <strong>${avgRating}</strong></div>
+          <div class="map-stat">🔥 <strong>${trending}</strong> رائج الآن</div>
+        `;
+      }
+      updateStats('all');
+    });
+  </script>
+  <script src="js/analytics.js"></script>
+</body>
+</html>
