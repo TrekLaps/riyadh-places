@@ -5,23 +5,39 @@
     "name_en": "Elixir Bunn",
     "category": "cafe",
     "category_ar": "كافيه",
+    "category_en": "Cafe",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "من أفضل كافيهات الرياض المتخصصة بالقهوة المختصة. أجواء هادئة وتصميم عصري مع قهوة محمصة محلياً بعناية فائقة. يقدم مجموعة متنوعة من المشروبات الساخنة والباردة مع حلويات مميزة.",
-    "rating": 4.7,
     "google_rating": 4.6,
     "review_count": 3842,
     "price_level": "$$",
-    "price_range": "$$",
     "trending": true,
     "is_new": false,
-    "image_placeholder": "elixir-bunn.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Elixir+Bunn+Riyadh",
+    "review_quote_ar": "قهوة مختصة على مستوى عالمي، من أفضل الكافيهات اللي زرتها",
     "review_quote": "قهوة مختصة على مستوى عالمي، من أفضل الكافيهات اللي زرتها",
+    "pros_ar": [
+      "جودة القهوة المختصة ممتازة جداً",
+      "التصميم الداخلي عصري ومريح",
+      "الباريستا محترفين ويشرحون لك"
+    ],
+    "pros": [
+      "جودة القهوة المختصة ممتازة جداً",
+      "التصميم الداخلي عصري ومريح",
+      "الباريستا محترفين ويشرحون لك"
+    ],
+    "cons_ar": [
+      "المكان صغير ويزدحم بسرعة",
+      "الأسعار أعلى من المتوسط"
+    ],
+    "cons": [
+      "المكان صغير ويزدحم بسرعة",
+      "الأسعار أعلى من المتوسط"
+    ],
     "best_time": "أيام الأسبوع الصباح (٨-١١ ص) — أقل ازدحاماً",
     "avg_spend": "٤٥-٧٥ ريال للشخص",
-    "pros": ["جودة القهوة المختصة ممتازة جداً", "التصميم الداخلي عصري ومريح", "الباريستا محترفين ويشرحون لك"],
-    "cons": ["المكان صغير ويزدحم بسرعة", "الأسعار أعلى من المتوسط"]
+    "google_maps_url": "https://maps.google.com/?q=Elixir+Bunn+Riyadh",
+    "image_placeholder": "elixir-bunn.jpg"
   },
   {
     "id": "barns",
@@ -29,23 +45,39 @@
     "name_en": "Barn's",
     "category": "cafe",
     "category_ar": "كافيه",
+    "category_en": "Cafe",
     "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "سلسلة كافيهات سعودية رائدة في مجال القهوة المختصة. تتميز بتنوع قائمة المشروبات وجودة التحضير العالية. فروع متعددة في أنحاء الرياض مع أجواء مريحة للعمل والاسترخاء.",
-    "rating": 4.5,
     "google_rating": 4.4,
     "review_count": 8921,
     "price_level": "$$",
-    "price_range": "$$",
     "trending": true,
     "is_new": false,
-    "image_placeholder": "barns.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Barns+Coffee+Riyadh",
+    "review_quote_ar": "أفضل سلسلة كافيهات سعودية، دايم ثابتين بالجودة",
     "review_quote": "أفضل سلسلة كافيهات سعودية، دايم ثابتين بالجودة",
+    "pros_ar": [
+      "جودة ثابتة في كل الفروع",
+      "قائمة متنوعة وخيارات كثيرة",
+      "أماكن جلوس مريحة للعمل"
+    ],
+    "pros": [
+      "جودة ثابتة في كل الفروع",
+      "قائمة متنوعة وخيارات كثيرة",
+      "أماكن جلوس مريحة للعمل"
+    ],
+    "cons_ar": [
+      "بعض الفروع تزدحم وقت الذروة",
+      "الانتظار يطول أحياناً"
+    ],
+    "cons": [
+      "بعض الفروع تزدحم وقت الذروة",
+      "الانتظار يطول أحياناً"
+    ],
     "best_time": "بعد العصر (٤-٦ م) — أجواء حلوة",
     "avg_spend": "٣٥-٦٠ ريال للشخص",
-    "pros": ["جودة ثابتة في كل الفروع", "قائمة متنوعة وخيارات كثيرة", "أماكن جلوس مريحة للعمل"],
-    "cons": ["بعض الفروع تزدحم وقت الذروة", "الانتظار يطول أحياناً"]
+    "google_maps_url": "https://maps.google.com/?q=Barns+Coffee+Riyadh",
+    "image_placeholder": "barns.jpg"
   },
   {
     "id": "dose",
@@ -53,23 +85,39 @@
     "name_en": "Dose",
     "category": "cafe",
     "category_ar": "كافيه",
+    "category_en": "Cafe",
     "neighborhood": "حي الورود",
     "neighborhood_en": "Al Worood",
     "description_ar": "كافيه عصري يقدم تجربة قهوة فريدة مع أجواء شبابية مميزة. يتميز بتصميمه الداخلي الجذاب وقائمة طعام متنوعة تشمل الفطور والغداء بالإضافة للمشروبات.",
-    "rating": 4.4,
     "google_rating": 4.3,
     "review_count": 5467,
     "price_level": "$$",
-    "price_range": "$$",
     "trending": false,
     "is_new": false,
-    "image_placeholder": "dose.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Dose+Cafe+Riyadh",
+    "review_quote_ar": "المكان حلو والأكل لذيذ، فطورهم من أفضل فطور الرياض",
     "review_quote": "المكان حلو والأكل لذيذ، فطورهم من أفضل فطور الرياض",
+    "pros_ar": [
+      "فطور ممتاز ومتنوع",
+      "تصميم داخلي جذاب وانستقرامي",
+      "خدمة سريعة"
+    ],
+    "pros": [
+      "فطور ممتاز ومتنوع",
+      "تصميم داخلي جذاب وانستقرامي",
+      "خدمة سريعة"
+    ],
+    "cons_ar": [
+      "يزدحم كثير وقت الويكند",
+      "المواقف محدودة"
+    ],
+    "cons": [
+      "يزدحم كثير وقت الويكند",
+      "المواقف محدودة"
+    ],
     "best_time": "وقت الفطور (٨-١١ ص) — لازم تجرب",
     "avg_spend": "٥٠-٨٥ ريال للشخص",
-    "pros": ["فطور ممتاز ومتنوع", "تصميم داخلي جذاب وانستقرامي", "خدمة سريعة"],
-    "cons": ["يزدحم كثير وقت الويكند", "المواقف محدودة"]
+    "google_maps_url": "https://maps.google.com/?q=Dose+Cafe+Riyadh",
+    "image_placeholder": "dose.jpg"
   },
   {
     "id": "volume",
@@ -77,23 +125,39 @@
     "name_en": "Volume",
     "category": "cafe",
     "category_ar": "كافيه",
+    "category_en": "Cafe",
     "neighborhood": "حي الياسمين",
     "neighborhood_en": "Al Yasmin",
     "description_ar": "كافيه أنيق يجمع بين القهوة المختصة والكتب. مكان مثالي للقراءة والعمل عن بعد مع أجواء هادئة وإضاءة مريحة. يقدم مشروبات مبتكرة وحلويات طازجة يومياً.",
-    "rating": 4.6,
     "google_rating": 4.5,
     "review_count": 2156,
     "price_level": "$$",
-    "price_range": "$$",
     "trending": true,
     "is_new": false,
-    "image_placeholder": "volume.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Volume+Cafe+Riyadh",
+    "review_quote_ar": "مكان هادئ ومثالي للقراءة، القهوة ممتازة والأجواء ١٠/١٠",
     "review_quote": "مكان هادئ ومثالي للقراءة، القهوة ممتازة والأجواء ١٠/١٠",
+    "pros_ar": [
+      "أجواء هادئة ومثالية للعمل",
+      "قهوة مختصة بجودة عالية",
+      "تصميم مريح مع إضاءة ممتازة"
+    ],
+    "pros": [
+      "أجواء هادئة ومثالية للعمل",
+      "قهوة مختصة بجودة عالية",
+      "تصميم مريح مع إضاءة ممتازة"
+    ],
+    "cons_ar": [
+      "المكان صغير نسبياً",
+      "قائمة الطعام محدودة"
+    ],
+    "cons": [
+      "المكان صغير نسبياً",
+      "قائمة الطعام محدودة"
+    ],
     "best_time": "أيام الأسبوع المسائية — هدوء تام",
     "avg_spend": "٤٠-٦٥ ريال للشخص",
-    "pros": ["أجواء هادئة ومثالية للعمل", "قهوة مختصة بجودة عالية", "تصميم مريح مع إضاءة ممتازة"],
-    "cons": ["المكان صغير نسبياً", "قائمة الطعام محدودة"]
+    "google_maps_url": "https://maps.google.com/?q=Volume+Cafe+Riyadh",
+    "image_placeholder": "volume.jpg"
   },
   {
     "id": "cup-and-couch",
@@ -101,23 +165,39 @@
     "name_en": "Cup & Couch",
     "category": "cafe",
     "category_ar": "كافيه",
+    "category_en": "Cafe",
     "neighborhood": "حي النخيل",
     "neighborhood_en": "Al Nakheel",
     "description_ar": "كافيه دافئ ومريح بتصميم يشبه غرفة المعيشة. مثالي للجلسات العائلية والأصدقاء مع قائمة متنوعة من المشروبات الساخنة والباردة والمأكولات الخفيفة.",
-    "rating": 4.3,
     "google_rating": 4.2,
     "review_count": 1893,
     "price_level": "$$",
-    "price_range": "$$",
     "trending": false,
     "is_new": false,
-    "image_placeholder": "cup-and-couch.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Cup+and+Couch+Riyadh",
+    "review_quote_ar": "كأنك بالبيت، أجواء عائلية مريحة وقهوة حلوة",
     "review_quote": "كأنك بالبيت، أجواء عائلية مريحة وقهوة حلوة",
+    "pros_ar": [
+      "أجواء عائلية دافئة ومريحة",
+      "مناسب للجلسات الطويلة",
+      "أسعار معقولة"
+    ],
+    "pros": [
+      "أجواء عائلية دافئة ومريحة",
+      "مناسب للجلسات الطويلة",
+      "أسعار معقولة"
+    ],
+    "cons_ar": [
+      "القهوة عادية مقارنة بالمختصة",
+      "يحتاج تجديد بالديكور"
+    ],
+    "cons": [
+      "القهوة عادية مقارنة بالمختصة",
+      "يحتاج تجديد بالديكور"
+    ],
     "best_time": "بعد الظهر (٢-٥ م) — مناسب للعائلات",
     "avg_spend": "٣٥-٥٥ ريال للشخص",
-    "pros": ["أجواء عائلية دافئة ومريحة", "مناسب للجلسات الطويلة", "أسعار معقولة"],
-    "cons": ["القهوة عادية مقارنة بالمختصة", "يحتاج تجديد بالديكور"]
+    "google_maps_url": "https://maps.google.com/?q=Cup+and+Couch+Riyadh",
+    "image_placeholder": "cup-and-couch.jpg"
   },
   {
     "id": "five-elephants",
@@ -125,23 +205,39 @@
     "name_en": "Five Elephants",
     "category": "cafe",
     "category_ar": "كافيه",
+    "category_en": "Cafe",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "كافيه ألماني الأصل وصل الرياض بتجربة قهوة عالمية. يشتهر بالتشيز كيك الخاص وحبوب القهوة المحمصة بعناية. أجواء أوروبية مميزة في قلب الرياض.",
-    "rating": 4.5,
     "google_rating": 4.5,
     "review_count": 1247,
     "price_level": "$$$",
-    "price_range": "$$$",
     "trending": true,
     "is_new": true,
-    "image_placeholder": "five-elephants.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Five+Elephants+Riyadh",
+    "review_quote_ar": "التشيز كيك أسطوري! والقهوة من أفضل اللي ذقتها بالرياض",
     "review_quote": "التشيز كيك أسطوري! والقهوة من أفضل اللي ذقتها بالرياض",
+    "pros_ar": [
+      "تشيز كيك خرافي ولازم تجربه",
+      "قهوة بمعايير ألمانية عالمية",
+      "أجواء أوروبية مميزة"
+    ],
+    "pros": [
+      "تشيز كيك خرافي ولازم تجربه",
+      "قهوة بمعايير ألمانية عالمية",
+      "أجواء أوروبية مميزة"
+    ],
+    "cons_ar": [
+      "الأسعار مرتفعة شوي",
+      "المكان صغير جداً"
+    ],
+    "cons": [
+      "الأسعار مرتفعة شوي",
+      "المكان صغير جداً"
+    ],
     "best_time": "الصباح الباكر (٧-٩ ص) — قبل الزحمة",
     "avg_spend": "٥٥-٩٠ ريال للشخص",
-    "pros": ["تشيز كيك خرافي ولازم تجربه", "قهوة بمعايير ألمانية عالمية", "أجواء أوروبية مميزة"],
-    "cons": ["الأسعار مرتفعة شوي", "المكان صغير جداً"]
+    "google_maps_url": "https://maps.google.com/?q=Five+Elephants+Riyadh",
+    "image_placeholder": "five-elephants.jpg"
   },
   {
     "id": "kava-and-chai",
@@ -149,23 +245,39 @@
     "name_en": "Kava & Chai",
     "category": "cafe",
     "category_ar": "كافيه",
+    "category_en": "Cafe",
     "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "تجربة شاي فريدة من نوعها في الرياض. يقدم مجموعة واسعة من أنواع الشاي العالمية مع لمسات محلية. أجواء شرقية أنيقة مع خيارات طعام متنوعة.",
-    "rating": 4.4,
     "google_rating": 4.3,
     "review_count": 2678,
     "price_level": "$$",
-    "price_range": "$$",
     "trending": false,
     "is_new": false,
-    "image_placeholder": "kava-and-chai.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Kava+and+Chai+Riyadh",
+    "review_quote_ar": "لمحبي الشاي، هذا مكانكم! تنوع كبير وجودة عالية",
     "review_quote": "لمحبي الشاي، هذا مكانكم! تنوع كبير وجودة عالية",
+    "pros_ar": [
+      "تنوع كبير بأنواع الشاي",
+      "أجواء شرقية جميلة",
+      "خيارات طعام لذيذة"
+    ],
+    "pros": [
+      "تنوع كبير بأنواع الشاي",
+      "أجواء شرقية جميلة",
+      "خيارات طعام لذيذة"
+    ],
+    "cons_ar": [
+      "مواقف السيارات صعبة",
+      "الخدمة بطيئة وقت الزحمة"
+    ],
+    "cons": [
+      "مواقف السيارات صعبة",
+      "الخدمة بطيئة وقت الزحمة"
+    ],
     "best_time": "العصر (٤-٧ م) — وقت الشاي المثالي",
     "avg_spend": "٤٠-٦٥ ريال للشخص",
-    "pros": ["تنوع كبير بأنواع الشاي", "أجواء شرقية جميلة", "خيارات طعام لذيذة"],
-    "cons": ["مواقف السيارات صعبة", "الخدمة بطيئة وقت الزحمة"]
+    "google_maps_url": "https://maps.google.com/?q=Kava+and+Chai+Riyadh",
+    "image_placeholder": "kava-and-chai.jpg"
   },
   {
     "id": "flat-white",
@@ -173,23 +285,39 @@
     "name_en": "Flat White",
     "category": "cafe",
     "category_ar": "كافيه",
+    "category_en": "Cafe",
     "neighborhood": "حي الربيع",
     "neighborhood_en": "Al Rabee",
     "description_ar": "من أقدم كافيهات القهوة المختصة في الرياض. يتميز بخبرة طويلة في تحميص وتحضير القهوة مع فريق باريستا محترف. مكان مثالي لعشاق القهوة الحقيقيين.",
-    "rating": 4.6,
     "google_rating": 4.5,
     "review_count": 4123,
     "price_level": "$$",
-    "price_range": "$$",
     "trending": false,
     "is_new": false,
-    "image_placeholder": "flat-white.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Flat+White+Specialty+Coffee+Riyadh",
+    "review_quote_ar": "من الكافيهات الأصلية بالرياض، جودة ثابتة من سنين",
     "review_quote": "من الكافيهات الأصلية بالرياض، جودة ثابتة من سنين",
+    "pros_ar": [
+      "خبرة طويلة وجودة ثابتة",
+      "باريستا محترفين",
+      "أسعار معقولة للقهوة المختصة"
+    ],
+    "pros": [
+      "خبرة طويلة وجودة ثابتة",
+      "باريستا محترفين",
+      "أسعار معقولة للقهوة المختصة"
+    ],
+    "cons_ar": [
+      "الديكور بسيط ويحتاج تحديث",
+      "المكان مزدحم أحياناً"
+    ],
+    "cons": [
+      "الديكور بسيط ويحتاج تحديث",
+      "المكان مزدحم أحياناً"
+    ],
     "best_time": "الصباح (٨-١٠ ص) — هدوء وقهوة",
     "avg_spend": "٣٥-٥٥ ريال للشخص",
-    "pros": ["خبرة طويلة وجودة ثابتة", "باريستا محترفين", "أسعار معقولة للقهوة المختصة"],
-    "cons": ["الديكور بسيط ويحتاج تحديث", "المكان مزدحم أحياناً"]
+    "google_maps_url": "https://maps.google.com/?q=Flat+White+Specialty+Coffee+Riyadh",
+    "image_placeholder": "flat-white.jpg"
   },
   {
     "id": "the-roasting-house",
@@ -197,23 +325,39 @@
     "name_en": "The Roasting House",
     "category": "cafe",
     "category_ar": "كافيه",
+    "category_en": "Cafe",
     "neighborhood": "حي الصحافة",
     "neighborhood_en": "As Sahafah",
     "description_ar": "محمصة ومقهى في آن واحد. تقدم قهوة طازجة محمصة في الموقع مع شفافية كاملة في عملية التحميص. تجربة تعليمية وذوقية فريدة لمحبي القهوة.",
-    "rating": 4.5,
     "google_rating": 4.4,
     "review_count": 3215,
     "price_level": "$$",
-    "price_range": "$$",
     "trending": true,
     "is_new": false,
-    "image_placeholder": "the-roasting-house.jpg",
-    "google_maps_url": "https://maps.google.com/?q=The+Roasting+House+Riyadh",
+    "review_quote_ar": "تشوف القهوة وهي تنحمص قدامك، تجربة فريدة!",
     "review_quote": "تشوف القهوة وهي تنحمص قدامك، تجربة فريدة!",
+    "pros_ar": [
+      "تحميص طازج قدامك",
+      "تجربة تعليمية ممتعة",
+      "حبوب قهوة للبيع بجودة عالية"
+    ],
+    "pros": [
+      "تحميص طازج قدامك",
+      "تجربة تعليمية ممتعة",
+      "حبوب قهوة للبيع بجودة عالية"
+    ],
+    "cons_ar": [
+      "المكان بعيد شوي",
+      "جلسات محدودة"
+    ],
+    "cons": [
+      "المكان بعيد شوي",
+      "جلسات محدودة"
+    ],
     "best_time": "الصباح (٩-١١ ص) — تشوف عملية التحميص",
     "avg_spend": "٤٠-٦٥ ريال للشخص",
-    "pros": ["تحميص طازج قدامك", "تجربة تعليمية ممتعة", "حبوب قهوة للبيع بجودة عالية"],
-    "cons": ["المكان بعيد شوي", "جلسات محدودة"]
+    "google_maps_url": "https://maps.google.com/?q=The+Roasting+House+Riyadh",
+    "image_placeholder": "the-roasting-house.jpg"
   },
   {
     "id": "camel-step",
@@ -221,23 +365,624 @@
     "name_en": "Camel Step",
     "category": "cafe",
     "category_ar": "كافيه",
+    "category_en": "Cafe",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "كافيه سعودي بهوية محلية أصيلة. يقدم القهوة السعودية التقليدية بأسلوب عصري مع مشروبات مبتكرة مستوحاة من التراث. تصميم يعكس الثقافة السعودية بلمسة حديثة.",
-    "rating": 4.7,
     "google_rating": 4.7,
     "review_count": 1568,
     "price_level": "$$",
-    "price_range": "$$",
     "trending": true,
     "is_new": true,
-    "image_placeholder": "camel-step.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Camel+Step+Coffee+Riyadh",
+    "review_quote_ar": "هوية سعودية أصيلة مع قهوة عالمية، فخر إنه سعودي!",
     "review_quote": "هوية سعودية أصيلة مع قهوة عالمية، فخر إنه سعودي!",
+    "pros_ar": [
+      "هوية سعودية أصيلة ومميزة",
+      "مشروبات مبتكرة من التراث",
+      "تصميم جميل يعكس الثقافة المحلية"
+    ],
+    "pros": [
+      "هوية سعودية أصيلة ومميزة",
+      "مشروبات مبتكرة من التراث",
+      "تصميم جميل يعكس الثقافة المحلية"
+    ],
+    "cons_ar": [
+      "جديد وقد يكون مزدحم",
+      "بعض المشروبات التراثية ما تناسب الكل"
+    ],
+    "cons": [
+      "جديد وقد يكون مزدحم",
+      "بعض المشروبات التراثية ما تناسب الكل"
+    ],
     "best_time": "العصر والمساء (٤-٩ م)",
     "avg_spend": "٤٠-٧٠ ريال للشخص",
-    "pros": ["هوية سعودية أصيلة ومميزة", "مشروبات مبتكرة من التراث", "تصميم جميل يعكس الثقافة المحلية"],
-    "cons": ["جديد وقد يكون مزدحم", "بعض المشروبات التراثية ما تناسب الكل"]
+    "google_maps_url": "https://maps.google.com/?q=Camel+Step+Coffee+Riyadh",
+    "image_placeholder": "camel-step.jpg"
+  },
+  {
+    "id": "urth-caffe",
+    "name_ar": "أورث كافيه",
+    "name_en": "Urth Caffe",
+    "category": "cafe",
+    "category_ar": "كافيه",
+    "category_en": "Cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "كافيه أمريكي فاخر معروف بقهوته العضوية ومخبوزاته الطازجة. أجواء كاليفورنية مميزة مع قائمة فطور وغداء متنوعة. من أفضل تجارب البرانش في الرياض.",
+    "google_rating": 4.4,
+    "review_count": 3120,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "بوبا تي والتشيز كيك خرافي! أجواء كاليفورنية حلوة",
+    "pros_ar": [
+      "قهوة عضوية عالية الجودة",
+      "مخبوزات وحلويات طازجة يومياً",
+      "أجواء مريحة ومناسبة للبرانش"
+    ],
+    "cons_ar": [
+      "الأسعار مرتفعة",
+      "الانتظار طويل في الويكند"
+    ],
+    "review_quote": "بوبا تي والتشيز كيك خرافي! أجواء كاليفورنية حلوة",
+    "pros": [
+      "قهوة عضوية عالية الجودة",
+      "مخبوزات وحلويات طازجة يومياً",
+      "أجواء مريحة ومناسبة للبرانش"
+    ],
+    "cons": [
+      "الأسعار مرتفعة",
+      "الانتظار طويل في الويكند"
+    ],
+    "best_time": "الفطور والبرانش (٩-١٢ ص)",
+    "avg_spend": "٦٠-١٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Urth+Caffe+Riyadh"
+  },
+  {
+    "id": "percent-arabica",
+    "name_ar": "% أرابيكا",
+    "name_en": "% Arabica",
+    "category": "cafe",
+    "category_ar": "كافيه",
+    "category_en": "Cafe",
+    "neighborhood": "حي الملك عبدالله المالي",
+    "neighborhood_en": "KAFD",
+    "description_ar": "علامة تجارية يابانية عالمية للقهوة المختصة وصلت الرياض. تتميز بتصميم مينيمالي أنيق وجودة قهوة استثنائية. تجربة بسيطة وراقية لمحبي القهوة.",
+    "google_rating": 4.5,
+    "review_count": 2450,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "تصميم ياباني مينيمالي مع قهوة ممتازة، تجربة فريدة",
+    "pros_ar": [
+      "تصميم مينيمالي أنيق وجذاب",
+      "قهوة بمعايير يابانية عالمية",
+      "موقع مميز في KAFD"
+    ],
+    "cons_ar": [
+      "القائمة محدودة جداً",
+      "المكان صغير ويزدحم"
+    ],
+    "review_quote": "تصميم ياباني مينيمالي مع قهوة ممتازة، تجربة فريدة",
+    "pros": [
+      "تصميم مينيمالي أنيق وجذاب",
+      "قهوة بمعايير يابانية عالمية",
+      "موقع مميز في KAFD"
+    ],
+    "cons": [
+      "القائمة محدودة جداً",
+      "المكان صغير ويزدحم"
+    ],
+    "best_time": "الصباح (٨-١٠ ص) — أقل ازدحاماً",
+    "avg_spend": "٣٥-٦٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=%25+Arabica+Riyadh+KAFD"
+  },
+  {
+    "id": "mokha-1450",
+    "name_ar": "موخا ١٤٥٠",
+    "name_en": "Mokha 1450",
+    "category": "cafe",
+    "category_ar": "كافيه",
+    "category_en": "Cafe",
+    "neighborhood": "حي الورود",
+    "neighborhood_en": "Al Worood",
+    "description_ar": "كافيه يمني متخصص بالقهوة اليمنية الأصيلة. يقدم أصناف نادرة من حبوب البن اليمني المحمص بعناية. تجربة ثقافية وتاريخية لعشاق القهوة الأصيلة.",
+    "google_rating": 4.6,
+    "review_count": 1890,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "قهوة يمنية أصيلة بجودة عالية، تجربة فريدة لمحبي القهوة",
+    "pros_ar": [
+      "حبوب يمنية نادرة وعالية الجودة",
+      "تجربة ثقافية مميزة",
+      "باريستا خبراء بالقهوة اليمنية"
+    ],
+    "cons_ar": [
+      "الأسعار مرتفعة نسبياً",
+      "خيارات الطعام محدودة"
+    ],
+    "review_quote": "قهوة يمنية أصيلة بجودة عالية، تجربة فريدة لمحبي القهوة",
+    "pros": [
+      "حبوب يمنية نادرة وعالية الجودة",
+      "تجربة ثقافية مميزة",
+      "باريستا خبراء بالقهوة اليمنية"
+    ],
+    "cons": [
+      "الأسعار مرتفعة نسبياً",
+      "خيارات الطعام محدودة"
+    ],
+    "best_time": "العصر (٣-٦ م) — أجواء هادئة",
+    "avg_spend": "٥٠-٨٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Mokha+1450+Riyadh"
+  },
+  {
+    "id": "blue-muze",
+    "name_ar": "بلو ميوز",
+    "name_en": "Blue Muze",
+    "category": "cafe",
+    "category_ar": "كافيه",
+    "category_en": "Cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه فني بأجواء إبداعية يجمع بين القهوة والفن والموسيقى. تصميم داخلي مستوحى من الغاليريهات الفنية مع قائمة مشروبات مبتكرة وحلويات مميزة.",
+    "google_rating": 4.3,
+    "review_count": 1540,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "review_quote_ar": "مكان فني مميز، الأجواء إبداعية والقهوة ممتازة",
+    "pros_ar": [
+      "أجواء فنية وإبداعية فريدة",
+      "تصميم داخلي مبهر",
+      "مشروبات مبتكرة ومميزة"
+    ],
+    "cons_ar": [
+      "أسعار أعلى من المتوسط",
+      "المكان بعيد نسبياً"
+    ],
+    "review_quote": "مكان فني مميز، الأجواء إبداعية والقهوة ممتازة",
+    "pros": [
+      "أجواء فنية وإبداعية فريدة",
+      "تصميم داخلي مبهر",
+      "مشروبات مبتكرة ومميزة"
+    ],
+    "cons": [
+      "أسعار أعلى من المتوسط",
+      "المكان بعيد نسبياً"
+    ],
+    "best_time": "المساء (٦-١٠ م) — الإضاءة المسائية أحلى",
+    "avg_spend": "٤٥-٧٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Blue+Muze+Cafe+Riyadh"
+  },
+  {
+    "id": "nabt",
+    "name_ar": "نبت",
+    "name_en": "Nabt",
+    "category": "cafe",
+    "category_ar": "كافيه",
+    "category_en": "Cafe",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "Al Nakheel",
+    "description_ar": "كافيه سعودي متخصص بالقهوة المختصة مع اهتمام بالاستدامة والمصادر المحلية. يقدم تجربة قهوة واعية بيئياً مع أجواء حديثة ومريحة.",
+    "google_rating": 4.4,
+    "review_count": 980,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "review_quote_ar": "قهوة مختصة مع وعي بيئي، تجربة حلوة ومختلفة",
+    "pros_ar": [
+      "اهتمام بالاستدامة والبيئة",
+      "قهوة مختصة بجودة عالية",
+      "أجواء مريحة وهادئة"
+    ],
+    "cons_ar": [
+      "المكان صغير",
+      "خيارات الأكل محدودة"
+    ],
+    "review_quote": "قهوة مختصة مع وعي بيئي، تجربة حلوة ومختلفة",
+    "pros": [
+      "اهتمام بالاستدامة والبيئة",
+      "قهوة مختصة بجودة عالية",
+      "أجواء مريحة وهادئة"
+    ],
+    "cons": [
+      "المكان صغير",
+      "خيارات الأكل محدودة"
+    ],
+    "best_time": "الصباح (٨-١١ ص)",
+    "avg_spend": "٣٥-٥٥ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Nabt+Coffee+Riyadh"
+  },
+  {
+    "id": "specialty-batch",
+    "name_ar": "سبشلتي باتش",
+    "name_en": "Specialty Batch",
+    "category": "cafe",
+    "category_ar": "كافيه",
+    "category_en": "Cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "محمصة ومقهى متخصص بالدفعات الصغيرة من القهوة المختصة. يقدم أصناف موسمية متجددة من أفضل مزارع القهوة حول العالم مع شرح تفصيلي لكل صنف.",
+    "google_rating": 4.6,
+    "review_count": 1320,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "أفضل محمصة بالرياض! الأصناف الموسمية دايم مميزة",
+    "pros_ar": [
+      "أصناف موسمية متجددة ونادرة",
+      "تحميص بدفعات صغيرة للجودة",
+      "شرح تفصيلي لكل صنف"
+    ],
+    "cons_ar": [
+      "الأسعار مرتفعة",
+      "الكمية محدودة للأصناف النادرة"
+    ],
+    "review_quote": "أفضل محمصة بالرياض! الأصناف الموسمية دايم مميزة",
+    "pros": [
+      "أصناف موسمية متجددة ونادرة",
+      "تحميص بدفعات صغيرة للجودة",
+      "شرح تفصيلي لكل صنف"
+    ],
+    "cons": [
+      "الأسعار مرتفعة",
+      "الكمية محدودة للأصناف النادرة"
+    ],
+    "best_time": "الصباح (٩-١٢ ص) — تذوق الأصناف الجديدة",
+    "avg_spend": "٥٠-٨٥ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Specialty+Batch+Coffee+Riyadh"
+  },
+  {
+    "id": "saddle",
+    "name_ar": "سادل",
+    "name_en": "Saddle",
+    "category": "cafe",
+    "category_ar": "كافيه",
+    "category_en": "Cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "كافيه فاخر بتصميم مستوحى من عالم الفروسية. يقدم تجربة قهوة راقية مع أجواء أنيقة ومميزة. قائمة متنوعة تشمل القهوة المختصة والحلويات الفاخرة.",
+    "google_rating": 4.3,
+    "review_count": 2100,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "تصميم فخم مستوحى من الفروسية، تجربة راقية",
+    "pros_ar": [
+      "تصميم داخلي فاخر وفريد",
+      "قهوة وحلويات بجودة عالية",
+      "أجواء هادئة وراقية"
+    ],
+    "cons_ar": [
+      "الأسعار مرتفعة جداً",
+      "المكان صغير نسبياً"
+    ],
+    "review_quote": "تصميم فخم مستوحى من الفروسية، تجربة راقية",
+    "pros": [
+      "تصميم داخلي فاخر وفريد",
+      "قهوة وحلويات بجودة عالية",
+      "أجواء هادئة وراقية"
+    ],
+    "cons": [
+      "الأسعار مرتفعة جداً",
+      "المكان صغير نسبياً"
+    ],
+    "best_time": "العصر (٣-٦ م)",
+    "avg_spend": "٦٠-١٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Saddle+Cafe+Riyadh"
+  },
+  {
+    "id": "12-cups",
+    "name_ar": "١٢ كبس",
+    "name_en": "12 Cups",
+    "category": "cafe",
+    "category_ar": "كافيه",
+    "category_en": "Cafe",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "As Sahafah",
+    "description_ar": "كافيه سعودي أصيل يركز على جودة القهوة المختصة بأسعار معقولة. يتميز ببساطة المكان وتركيزه الكامل على تجربة القهوة. مكان مثالي لعشاق القهوة الحقيقيين.",
+    "google_rating": 4.5,
+    "review_count": 2890,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "قهوة ممتازة بسعر معقول، بساطة المكان جزء من سحره",
+    "pros_ar": [
+      "قهوة مختصة ممتازة بسعر معقول",
+      "تركيز كامل على جودة القهوة",
+      "بيئة بسيطة ومريحة"
+    ],
+    "cons_ar": [
+      "المكان بسيط جداً",
+      "لا يوجد خيارات طعام كثيرة"
+    ],
+    "review_quote": "قهوة ممتازة بسعر معقول، بساطة المكان جزء من سحره",
+    "pros": [
+      "قهوة مختصة ممتازة بسعر معقول",
+      "تركيز كامل على جودة القهوة",
+      "بيئة بسيطة ومريحة"
+    ],
+    "cons": [
+      "المكان بسيط جداً",
+      "لا يوجد خيارات طعام كثيرة"
+    ],
+    "best_time": "الصباح (٧-١٠ ص)",
+    "avg_spend": "٢٥-٤٥ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=12+Cups+Coffee+Riyadh"
+  },
+  {
+    "id": "kyan",
+    "name_ar": "كيان",
+    "name_en": "Kyan",
+    "category": "cafe",
+    "category_ar": "كافيه",
+    "category_en": "Cafe",
+    "neighborhood": "حي العارض",
+    "neighborhood_en": "Al Arid",
+    "description_ar": "كافيه عصري يقدم مزيجاً من القهوة المختصة والمأكولات الصحية. تصميم حديث مع مساحة عمل مشتركة مناسبة للعمل عن بعد والاجتماعات غير الرسمية.",
+    "google_rating": 4.2,
+    "review_count": 1650,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مكان مثالي للعمل عن بعد مع قهوة ممتازة",
+    "pros_ar": [
+      "مساحة عمل مشتركة مريحة",
+      "خيارات صحية متنوعة",
+      "إنترنت سريع وثابت"
+    ],
+    "cons_ar": [
+      "بعيد عن وسط المدينة",
+      "المواقف محدودة"
+    ],
+    "review_quote": "مكان مثالي للعمل عن بعد مع قهوة ممتازة",
+    "pros": [
+      "مساحة عمل مشتركة مريحة",
+      "خيارات صحية متنوعة",
+      "إنترنت سريع وثابت"
+    ],
+    "cons": [
+      "بعيد عن وسط المدينة",
+      "المواقف محدودة"
+    ],
+    "best_time": "أيام الأسبوع (٩ ص - ٣ م)",
+    "avg_spend": "٣٥-٦٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Kyan+Cafe+Riyadh"
+  },
+  {
+    "id": "bricks",
+    "name_ar": "بريكس",
+    "name_en": "Bricks",
+    "category": "cafe",
+    "category_ar": "كافيه",
+    "category_en": "Cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabee",
+    "description_ar": "كافيه بتصميم صناعي مميز مع جدران من الطوب الظاهر. يقدم قهوة مختصة ومأكولات خفيفة مع أجواء شبابية وحيوية. مكان مناسب للتجمعات والجلسات.",
+    "google_rating": 4.1,
+    "review_count": 1980,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "تصميم صناعي حلو والقهوة جيدة، مناسب للجلسات",
+    "pros_ar": [
+      "تصميم صناعي مميز وجذاب",
+      "أجواء شبابية وحيوية",
+      "أسعار معقولة"
+    ],
+    "cons_ar": [
+      "يزدحم بسرعة",
+      "مستوى الضوضاء عالي"
+    ],
+    "review_quote": "تصميم صناعي حلو والقهوة جيدة، مناسب للجلسات",
+    "pros": [
+      "تصميم صناعي مميز وجذاب",
+      "أجواء شبابية وحيوية",
+      "أسعار معقولة"
+    ],
+    "cons": [
+      "يزدحم بسرعة",
+      "مستوى الضوضاء عالي"
+    ],
+    "best_time": "العصر (٤-٧ م)",
+    "avg_spend": "٣٠-٥٥ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Bricks+Cafe+Riyadh"
+  },
+  {
+    "id": "stories-cafe",
+    "name_ar": "ستوريز كافيه",
+    "name_en": "Stories Cafe",
+    "category": "cafe",
+    "category_ar": "كافيه",
+    "category_en": "Cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه يجمع بين القهوة والقصص والكتب. مكتبة صغيرة داخل الكافيه مع أجواء أدبية مميزة. مثالي لمحبي القراءة والكتابة مع مشروبات مميزة وحلويات لذيذة.",
+    "google_rating": 4.3,
+    "review_count": 1120,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أجواء أدبية ساحرة مع قهوة ممتازة، مكان لمحبي الكتب",
+    "pros_ar": [
+      "أجواء أدبية فريدة ومميزة",
+      "مكتبة صغيرة داخل الكافيه",
+      "مثالي للقراءة والكتابة"
+    ],
+    "cons_ar": [
+      "المكان صغير",
+      "خيارات الطعام محدودة"
+    ],
+    "review_quote": "أجواء أدبية ساحرة مع قهوة ممتازة، مكان لمحبي الكتب",
+    "pros": [
+      "أجواء أدبية فريدة ومميزة",
+      "مكتبة صغيرة داخل الكافيه",
+      "مثالي للقراءة والكتابة"
+    ],
+    "cons": [
+      "المكان صغير",
+      "خيارات الطعام محدودة"
+    ],
+    "best_time": "أيام الأسبوع المساء (٥-٩ م)",
+    "avg_spend": "٣٥-٦٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Stories+Cafe+Riyadh"
+  },
+  {
+    "id": "tala",
+    "name_ar": "تالا",
+    "name_en": "Tala",
+    "category": "cafe",
+    "category_ar": "كافيه",
+    "category_en": "Cafe",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "Al Narjis",
+    "description_ar": "كافيه نسائي راقي بتصميم أنثوي أنيق. يقدم مشروبات مبتكرة وحلويات فرنسية فاخرة. مكان مثالي للسيدات والعائلات مع أجواء هادئة ومريحة.",
+    "google_rating": 4.4,
+    "review_count": 890,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "review_quote_ar": "تصميم أنيق وحلويات فرنسية لذيذة، مكان راقي",
+    "pros_ar": [
+      "تصميم أنثوي أنيق ومميز",
+      "حلويات فرنسية فاخرة",
+      "أجواء هادئة ومريحة"
+    ],
+    "cons_ar": [
+      "الأسعار مرتفعة",
+      "المواقف محدودة"
+    ],
+    "review_quote": "تصميم أنيق وحلويات فرنسية لذيذة، مكان راقي",
+    "pros": [
+      "تصميم أنثوي أنيق ومميز",
+      "حلويات فرنسية فاخرة",
+      "أجواء هادئة ومريحة"
+    ],
+    "cons": [
+      "الأسعار مرتفعة",
+      "المواقف محدودة"
+    ],
+    "best_time": "بعد الظهر (٢-٥ م)",
+    "avg_spend": "٥٠-٩٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Tala+Cafe+Riyadh"
+  },
+  {
+    "id": "bafarat",
+    "name_ar": "بافرت",
+    "name_en": "Bafarat",
+    "category": "cafe",
+    "category_ar": "كافيه",
+    "category_en": "Cafe",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "كافيه سعودي شهير بالشوكولاتة الساخنة والحلويات المميزة. يقدم تجربة مميزة لمحبي الشوكولاتة مع أجواء دافئة وقائمة متنوعة من المشروبات الساخنة والباردة.",
+    "google_rating": 4.2,
+    "review_count": 4560,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "شوكولاتة ساخنة من أفضل اللي ذقتها بالرياض!",
+    "pros_ar": [
+      "شوكولاتة ساخنة استثنائية",
+      "حلويات متنوعة ولذيذة",
+      "أجواء دافئة ومريحة"
+    ],
+    "cons_ar": [
+      "الفروع القديمة تحتاج تجديد",
+      "الانتظار يطول أحياناً"
+    ],
+    "review_quote": "شوكولاتة ساخنة من أفضل اللي ذقتها بالرياض!",
+    "pros": [
+      "شوكولاتة ساخنة استثنائية",
+      "حلويات متنوعة ولذيذة",
+      "أجواء دافئة ومريحة"
+    ],
+    "cons": [
+      "الفروع القديمة تحتاج تجديد",
+      "الانتظار يطول أحياناً"
+    ],
+    "best_time": "المساء (٧-١٠ م) — الشوكولاتة الساخنة ألذ",
+    "avg_spend": "٣٠-٥٥ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Bafarat+Riyadh"
+  },
+  {
+    "id": "harvest",
+    "name_ar": "هارفست",
+    "name_en": "Harvest",
+    "category": "cafe",
+    "category_ar": "كافيه",
+    "category_en": "Cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه يركز على الأكل الصحي والعضوي مع قهوة مختصة. يقدم عصائر طازجة وسموثي وأطباق صحية. مكان مثالي لمحبي الحياة الصحية مع أجواء طبيعية مريحة.",
+    "google_rating": 4.3,
+    "review_count": 1750,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أفضل مكان للأكل الصحي مع قهوة ممتازة",
+    "pros_ar": [
+      "خيارات صحية وعضوية متنوعة",
+      "عصائر طازجة ممتازة",
+      "أجواء طبيعية مريحة"
+    ],
+    "cons_ar": [
+      "الأسعار مرتفعة للخيارات الصحية",
+      "الكميات صغيرة نسبياً"
+    ],
+    "review_quote": "أفضل مكان للأكل الصحي مع قهوة ممتازة",
+    "pros": [
+      "خيارات صحية وعضوية متنوعة",
+      "عصائر طازجة ممتازة",
+      "أجواء طبيعية مريحة"
+    ],
+    "cons": [
+      "الأسعار مرتفعة للخيارات الصحية",
+      "الكميات صغيرة نسبياً"
+    ],
+    "best_time": "الفطور (٨-١١ ص)",
+    "avg_spend": "٥٥-٩٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Harvest+Cafe+Riyadh"
+  },
+  {
+    "id": "cacao",
+    "name_ar": "كاكاو",
+    "name_en": "Cacao",
+    "category": "cafe",
+    "category_ar": "كافيه",
+    "category_en": "Cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabee",
+    "description_ar": "كافيه متخصص بالشوكولاتة والكاكاو الفاخر. يقدم تشكيلة واسعة من مشروبات الشوكولاتة والحلويات الفاخرة. تجربة مميزة لعشاق الشوكولاتة بأجواء أنيقة ودافئة.",
+    "google_rating": 4.4,
+    "review_count": 2340,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "جنة لعشاق الشوكولاتة! كل شي شوكولاتة ولذيذ",
+    "pros_ar": [
+      "تشكيلة واسعة من الشوكولاتة",
+      "جودة عالية للكاكاو والمكونات",
+      "أجواء دافئة ومميزة"
+    ],
+    "cons_ar": [
+      "غير مناسب لمن لا يحب الشوكولاتة",
+      "القائمة غير متنوعة بغير الشوكولاتة"
+    ],
+    "review_quote": "جنة لعشاق الشوكولاتة! كل شي شوكولاتة ولذيذ",
+    "pros": [
+      "تشكيلة واسعة من الشوكولاتة",
+      "جودة عالية للكاكاو والمكونات",
+      "أجواء دافئة ومميزة"
+    ],
+    "cons": [
+      "غير مناسب لمن لا يحب الشوكولاتة",
+      "القائمة غير متنوعة بغير الشوكولاتة"
+    ],
+    "best_time": "المساء (٥-٩ م)",
+    "avg_spend": "٤٠-٧٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Cacao+Cafe+Riyadh"
   },
   {
     "id": "takya",
@@ -245,23 +990,38 @@
     "name_en": "Takya",
     "category": "restaurant",
     "category_ar": "مطعم",
+    "category_en": "Restaurant",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم تركي فاخر يقدم أشهى الأطباق التركية التقليدية بلمسة عصرية. يتميز بأجواء أنيقة وخدمة ممتازة مع قائمة طعام غنية تشمل المشويات والمقبلات التركية الأصيلة.",
-    "rating": 4.6,
     "google_rating": 4.5,
     "review_count": 6234,
     "price_level": "$$$",
-    "price_range": "$$$",
     "trending": true,
     "is_new": false,
-    "image_placeholder": "takya.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Takya+Restaurant+Riyadh",
+    "review_quote_ar": "أفضل أكل تركي بالرياض بدون منافس، المشويات خيال",
     "review_quote": "أفضل أكل تركي بالرياض بدون منافس، المشويات خيال",
+    "pros_ar": [
+      "مشويات تركية لا مثيل لها",
+      "خدمة ممتازة واحترافية",
+      "أجواء أنيقة ومناسبة للعزايم"
+    ],
+    "pros": [
+      "مشويات تركية لا مثيل لها",
+      "خدمة ممتازة واحترافية",
+      "أجواء أنيقة ومناسبة للعزايم"
+    ],
+    "cons_ar": [
+      "الأسعار مرتفعة",
+      "يحتاج حجز مسبق خصوصاً الويكند"
+    ],
+    "cons": [
+      "الأسعار مرتفعة",
+      "يحتاج حجز مسبق خصوصاً الويكند"
+    ],
     "best_time": "العشاء (٧-١٠ م) — احجز مسبقاً",
     "avg_spend": "١٢٠-٢٠٠ ريال للشخص",
-    "pros": ["مشويات تركية لا مثيل لها", "خدمة ممتازة واحترافية", "أجواء أنيقة ومناسبة للعزايم"],
-    "cons": ["الأسعار مرتفعة", "يحتاج حجز مسبق خصوصاً الويكند"]
+    "google_maps_url": "https://maps.google.com/?q=Takya+Restaurant+Riyadh"
   },
   {
     "id": "lpm",
@@ -269,23 +1029,38 @@
     "name_en": "LPM",
     "category": "restaurant",
     "category_ar": "مطعم",
+    "category_en": "Restaurant",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم فرنسي إيطالي راقي يقدم تجربة طعام فاخرة مستوحاة من مطبخ الريفييرا الفرنسية. أجواء أنيقة وتصميم داخلي فخم مع قائمة طعام متميزة.",
-    "rating": 4.8,
     "google_rating": 4.7,
     "review_count": 4567,
     "price_level": "$$$$",
-    "price_range": "$$$$",
     "trending": true,
     "is_new": false,
-    "image_placeholder": "lpm.jpg",
-    "google_maps_url": "https://maps.google.com/?q=LPM+Restaurant+Riyadh",
+    "review_quote_ar": "تجربة أكل فاخرة من الطراز الأول، يستاهل كل ريال",
     "review_quote": "تجربة أكل فاخرة من الطراز الأول، يستاهل كل ريال",
+    "pros_ar": [
+      "أكل فرنسي إيطالي بجودة عالمية",
+      "أجواء فاخرة وتصميم مبهر",
+      "خدمة من الطراز الأول"
+    ],
+    "pros": [
+      "أكل فرنسي إيطالي بجودة عالمية",
+      "أجواء فاخرة وتصميم مبهر",
+      "خدمة من الطراز الأول"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة جداً",
+      "لازم حجز مسبق بأيام"
+    ],
+    "cons": [
+      "أسعار مرتفعة جداً",
+      "لازم حجز مسبق بأيام"
+    ],
     "best_time": "العشاء (٨-١١ م) — الأجواء ممتازة بالليل",
     "avg_spend": "٢٥٠-٤٥٠ ريال للشخص",
-    "pros": ["أكل فرنسي إيطالي بجودة عالمية", "أجواء فاخرة وتصميم مبهر", "خدمة من الطراز الأول"],
-    "cons": ["أسعار مرتفعة جداً", "لازم حجز مسبق بأيام"]
+    "google_maps_url": "https://maps.google.com/?q=LPM+Restaurant+Riyadh"
   },
   {
     "id": "sushi-samba",
@@ -293,23 +1068,38 @@
     "name_en": "Sushi Samba",
     "category": "restaurant",
     "category_ar": "مطعم",
+    "category_en": "Restaurant",
     "neighborhood": "حي الملك عبدالله المالي",
     "neighborhood_en": "KAFD",
     "description_ar": "مطعم عالمي يجمع بين المطبخ الياباني والبرازيلي والبيروفي. تجربة طعام فريدة في أحد أفخم مواقع الرياض مع إطلالات خلابة وأطباق مبتكرة.",
-    "rating": 4.5,
     "google_rating": 4.4,
     "review_count": 2891,
     "price_level": "$$$$",
-    "price_range": "$$$$",
     "trending": true,
     "is_new": true,
-    "image_placeholder": "sushi-samba.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Sushi+Samba+Riyadh",
+    "review_quote_ar": "مزيج مطابخ غريب بس ناجح! الإطلالة على KAFD خيالية",
     "review_quote": "مزيج مطابخ غريب بس ناجح! الإطلالة على KAFD خيالية",
+    "pros_ar": [
+      "مزيج فريد من ثلاث مطابخ عالمية",
+      "إطلالة خلابة على KAFD",
+      "أطباق مبتكرة وتقديم مبهر"
+    ],
+    "pros": [
+      "مزيج فريد من ثلاث مطابخ عالمية",
+      "إطلالة خلابة على KAFD",
+      "أطباق مبتكرة وتقديم مبهر"
+    ],
+    "cons_ar": [
+      "من أغلى مطاعم الرياض",
+      "الحجز صعب وقت الذروة"
+    ],
+    "cons": [
+      "من أغلى مطاعم الرياض",
+      "الحجز صعب وقت الذروة"
+    ],
     "best_time": "العشاء (٨-١١ م) — الإطلالة بالليل خرافية",
     "avg_spend": "٣٠٠-٥٠٠ ريال للشخص",
-    "pros": ["مزيج فريد من ثلاث مطابخ عالمية", "إطلالة خلابة على KAFD", "أطباق مبتكرة وتقديم مبهر"],
-    "cons": ["من أغلى مطاعم الرياض", "الحجز صعب وقت الذروة"]
+    "google_maps_url": "https://maps.google.com/?q=Sushi+Samba+Riyadh"
   },
   {
     "id": "nusr-et",
@@ -317,23 +1107,38 @@
     "name_en": "Nusr-Et",
     "category": "restaurant",
     "category_ar": "مطعم",
+    "category_en": "Restaurant",
     "neighborhood": "حي الملك عبدالله المالي",
     "neighborhood_en": "KAFD",
     "description_ar": "مطعم الشيف الشهير نصرت قوكشي (سولت بي). يقدم أفضل قطع اللحوم المشوية بأسلوبه المميز. تجربة لا تُنسى لعشاق اللحوم مع أجواء فاخرة وخدمة استثنائية.",
-    "rating": 4.4,
     "google_rating": 4.3,
     "review_count": 7823,
     "price_level": "$$$$",
-    "price_range": "$$$$",
     "trending": true,
     "is_new": false,
-    "image_placeholder": "nusr-et.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Nusr-Et+Riyadh",
+    "review_quote_ar": "اللحم ذايب! التجربة حلوة بس الفاتورة تخلع 😅",
     "review_quote": "اللحم ذايب! التجربة حلوة بس الفاتورة تخلع 😅",
+    "pros_ar": [
+      "لحوم بجودة استثنائية",
+      "تجربة العرض المسرحي ممتعة",
+      "الأجواء فاخرة"
+    ],
+    "pros": [
+      "لحوم بجودة استثنائية",
+      "تجربة العرض المسرحي ممتعة",
+      "الأجواء فاخرة"
+    ],
+    "cons_ar": [
+      "أسعار مبالغ فيها جداً",
+      "الشهرة أكثر من الجودة أحياناً"
+    ],
+    "cons": [
+      "أسعار مبالغ فيها جداً",
+      "الشهرة أكثر من الجودة أحياناً"
+    ],
     "best_time": "العشاء (٧-١٠ م) — الجو حلو",
     "avg_spend": "٤٠٠-٨٠٠ ريال للشخص",
-    "pros": ["لحوم بجودة استثنائية", "تجربة العرض المسرحي ممتعة", "الأجواء فاخرة"],
-    "cons": ["أسعار مبالغ فيها جداً", "الشهرة أكثر من الجودة أحياناً"]
+    "google_maps_url": "https://maps.google.com/?q=Nusr-Et+Riyadh"
   },
   {
     "id": "the-globe",
@@ -341,23 +1146,38 @@
     "name_en": "The Globe",
     "category": "restaurant",
     "category_ar": "مطعم",
+    "category_en": "Restaurant",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم في الكرة الشهيرة أعلى برج الفيصلية. يقدم مأكولات عالمية فاخرة مع إطلالة بانورامية ٣٦٠ درجة على مدينة الرياض. تجربة طعام لا مثيل لها.",
-    "rating": 4.3,
     "google_rating": 4.1,
     "review_count": 5432,
     "price_level": "$$$$",
-    "price_range": "$$$$",
     "trending": false,
     "is_new": false,
-    "image_placeholder": "the-globe.jpg",
-    "google_maps_url": "https://maps.google.com/?q=The+Globe+Faisaliah+Tower+Riyadh",
+    "review_quote_ar": "الإطلالة ٣٦٠ درجة خيالية! الأكل جيد بس الإطلالة هي البطل",
     "review_quote": "الإطلالة ٣٦٠ درجة خيالية! الأكل جيد بس الإطلالة هي البطل",
+    "pros_ar": [
+      "إطلالة بانورامية ٣٦٠ درجة مذهلة",
+      "موقع أيقوني في الفيصلية",
+      "تجربة فريدة لا تتكرر"
+    ],
+    "pros": [
+      "إطلالة بانورامية ٣٦٠ درجة مذهلة",
+      "موقع أيقوني في الفيصلية",
+      "تجربة فريدة لا تتكرر"
+    ],
+    "cons_ar": [
+      "الأكل عادي مقارنة بالسعر",
+      "الخدمة ممكن تكون بطيئة"
+    ],
+    "cons": [
+      "الأكل عادي مقارنة بالسعر",
+      "الخدمة ممكن تكون بطيئة"
+    ],
     "best_time": "العشاء وقت الغروب (٥-٧ م) — منظر لا يُنسى",
     "avg_spend": "٢٠٠-٤٠٠ ريال للشخص",
-    "pros": ["إطلالة بانورامية ٣٦٠ درجة مذهلة", "موقع أيقوني في الفيصلية", "تجربة فريدة لا تتكرر"],
-    "cons": ["الأكل عادي مقارنة بالسعر", "الخدمة ممكن تكون بطيئة"]
+    "google_maps_url": "https://maps.google.com/?q=The+Globe+Faisaliah+Tower+Riyadh"
   },
   {
     "id": "mama-noura",
@@ -365,23 +1185,38 @@
     "name_en": "Mama Noura",
     "category": "restaurant",
     "category_ar": "مطعم",
+    "category_en": "Restaurant",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم سعودي شعبي أسطوري في الرياض. يشتهر بالشاورما والمشويات والأطباق الشعبية. وجهة لا غنى عنها لكل زائر للرياض مع فروع متعددة في أنحاء المدينة.",
-    "rating": 4.2,
     "google_rating": 4.0,
     "review_count": 18234,
     "price_level": "$",
-    "price_range": "$",
     "trending": false,
     "is_new": false,
-    "image_placeholder": "mama-noura.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Mama+Noura+Riyadh",
+    "review_quote_ar": "شاورما ماما نورة أسطورة! من أساسيات الرياض",
     "review_quote": "شاورما ماما نورة أسطورة! من أساسيات الرياض",
+    "pros_ar": [
+      "شاورما لذيذة وحجم كبير",
+      "أسعار شعبية ومناسبة للجميع",
+      "فروع كثيرة ومنتشرة"
+    ],
+    "pros": [
+      "شاورما لذيذة وحجم كبير",
+      "أسعار شعبية ومناسبة للجميع",
+      "فروع كثيرة ومنتشرة"
+    ],
+    "cons_ar": [
+      "المكان بسيط وما يناسب الجلسات",
+      "الجودة تتفاوت بين الفروع"
+    ],
+    "cons": [
+      "المكان بسيط وما يناسب الجلسات",
+      "الجودة تتفاوت بين الفروع"
+    ],
     "best_time": "أي وقت — مفتوح لساعات طويلة",
     "avg_spend": "٢٠-٤٥ ريال للشخص",
-    "pros": ["شاورما لذيذة وحجم كبير", "أسعار شعبية ومناسبة للجميع", "فروع كثيرة ومنتشرة"],
-    "cons": ["المكان بسيط وما يناسب الجلسات", "الجودة تتفاوت بين الفروع"]
+    "google_maps_url": "https://maps.google.com/?q=Mama+Noura+Riyadh"
   },
   {
     "id": "al-baik",
@@ -389,23 +1224,38 @@
     "name_en": "Al Baik",
     "category": "restaurant",
     "category_ar": "مطعم",
+    "category_en": "Restaurant",
     "neighborhood": "فروع متعددة",
     "neighborhood_en": "Multiple Locations",
     "description_ar": "سلسلة المطاعم السعودية الأشهر على الإطلاق. يشتهر بالدجاج المقلي والناجتس وأسعاره المناسبة. ظاهرة سعودية حقيقية مع طوابير انتظار دائمة تدل على جودة الطعم.",
-    "rating": 4.6,
     "google_rating": 4.5,
     "review_count": 52341,
     "price_level": "$",
-    "price_range": "$",
     "trending": true,
     "is_new": false,
-    "image_placeholder": "al-baik.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Al+Baik+Riyadh",
+    "review_quote_ar": "البيك ما يحتاج تعريف! أفضل دجاج مقلي بالعالم 🍗",
     "review_quote": "البيك ما يحتاج تعريف! أفضل دجاج مقلي بالعالم 🍗",
+    "pros_ar": [
+      "طعم لذيذ وثابت من سنين",
+      "أسعار رخيصة جداً",
+      "كميات كبيرة ومشبعة"
+    ],
+    "pros": [
+      "طعم لذيذ وثابت من سنين",
+      "أسعار رخيصة جداً",
+      "كميات كبيرة ومشبعة"
+    ],
+    "cons_ar": [
+      "طوابير الانتظار طويلة",
+      "قائمة الطعام محدودة"
+    ],
+    "cons": [
+      "طوابير الانتظار طويلة",
+      "قائمة الطعام محدودة"
+    ],
     "best_time": "تجنب وقت الذروة (١٢-٢ م) — الطابور يطول",
     "avg_spend": "١٥-٣٥ ريال للشخص",
-    "pros": ["طعم لذيذ وثابت من سنين", "أسعار رخيصة جداً", "كميات كبيرة ومشبعة"],
-    "cons": ["طوابير الانتظار طويلة", "قائمة الطعام محدودة"]
+    "google_maps_url": "https://maps.google.com/?q=Al+Baik+Riyadh"
   },
   {
     "id": "lusin",
@@ -413,23 +1263,38 @@
     "name_en": "Lusin",
     "category": "restaurant",
     "category_ar": "مطعم",
+    "category_en": "Restaurant",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم أرمني فاخر يقدم أشهى الأطباق الأرمنية والمتوسطية. يتميز بالمقبلات الباردة والساخنة المتنوعة والمشويات اللذيذة. من أقدم وأفخم مطاعم الرياض.",
-    "rating": 4.7,
     "google_rating": 4.6,
     "review_count": 9876,
     "price_level": "$$$",
-    "price_range": "$$$",
     "trending": false,
     "is_new": false,
-    "image_placeholder": "lusin.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Lusin+Restaurant+Riyadh",
+    "review_quote_ar": "المقبلات الباردة شي ثاني! من أفضل مطاعم الرياض على الإطلاق",
     "review_quote": "المقبلات الباردة شي ثاني! من أفضل مطاعم الرياض على الإطلاق",
+    "pros_ar": [
+      "مقبلات باردة وساخنة استثنائية",
+      "مشويات أرمنية لذيذة جداً",
+      "خبرة عقود في المطبخ الأرمني"
+    ],
+    "pros": [
+      "مقبلات باردة وساخنة استثنائية",
+      "مشويات أرمنية لذيذة جداً",
+      "خبرة عقود في المطبخ الأرمني"
+    ],
+    "cons_ar": [
+      "الأسعار ارتفعت مؤخراً",
+      "الانتظار يطول حتى مع الحجز"
+    ],
+    "cons": [
+      "الأسعار ارتفعت مؤخراً",
+      "الانتظار يطول حتى مع الحجز"
+    ],
     "best_time": "الغداء أو العشاء — احجز مسبقاً دائماً",
     "avg_spend": "١٥٠-٢٥٠ ريال للشخص",
-    "pros": ["مقبلات باردة وساخنة استثنائية", "مشويات أرمنية لذيذة جداً", "خبرة عقود في المطبخ الأرمني"],
-    "cons": ["الأسعار ارتفعت مؤخراً", "الانتظار يطول حتى مع الحجز"]
+    "google_maps_url": "https://maps.google.com/?q=Lusin+Restaurant+Riyadh"
   },
   {
     "id": "nozomi",
@@ -437,23 +1302,38 @@
     "name_en": "Nozomi",
     "category": "restaurant",
     "category_ar": "مطعم",
+    "category_en": "Restaurant",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم ياباني فاخر يقدم السوشي والساشيمي بجودة عالية. أجواء يابانية أنيقة مع لمسات عصرية وقائمة طعام إبداعية تجمع بين التقاليد والابتكار.",
-    "rating": 4.5,
     "google_rating": 4.4,
     "review_count": 3456,
     "price_level": "$$$$",
-    "price_range": "$$$$",
     "trending": false,
     "is_new": false,
-    "image_placeholder": "nozomi.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Nozomi+Riyadh",
+    "review_quote_ar": "سوشي بجودة عالية وتقديم فني، من أفضل اليابانيين بالرياض",
     "review_quote": "سوشي بجودة عالية وتقديم فني، من أفضل اليابانيين بالرياض",
+    "pros_ar": [
+      "سوشي وساشيمي بجودة ممتازة",
+      "تقديم فني مبهر",
+      "أجواء يابانية أنيقة"
+    ],
+    "pros": [
+      "سوشي وساشيمي بجودة ممتازة",
+      "تقديم فني مبهر",
+      "أجواء يابانية أنيقة"
+    ],
+    "cons_ar": [
+      "غالي جداً",
+      "الأجزاء صغيرة مقارنة بالسعر"
+    ],
+    "cons": [
+      "غالي جداً",
+      "الأجزاء صغيرة مقارنة بالسعر"
+    ],
     "best_time": "العشاء (٨-١٠ م) — أجواء يابانية أصيلة",
     "avg_spend": "٢٥٠-٤٥٠ ريال للشخص",
-    "pros": ["سوشي وساشيمي بجودة ممتازة", "تقديم فني مبهر", "أجواء يابانية أنيقة"],
-    "cons": ["غالي جداً", "الأجزاء صغيرة مقارنة بالسعر"]
+    "google_maps_url": "https://maps.google.com/?q=Nozomi+Riyadh"
   },
   {
     "id": "centro",
@@ -461,23 +1341,623 @@
     "name_en": "Centro",
     "category": "restaurant",
     "category_ar": "مطعم",
+    "category_en": "Restaurant",
     "neighborhood": "حي الياسمين",
     "neighborhood_en": "Al Yasmin",
     "description_ar": "مطعم إيطالي مميز يقدم البيتزا والباستا بأسلوب إيطالي أصيل. أجواء عائلية دافئة مع مكونات طازجة ووصفات إيطالية تقليدية محضرة بعناية.",
-    "rating": 4.4,
     "google_rating": 4.3,
     "review_count": 4567,
     "price_level": "$$$",
-    "price_range": "$$$",
     "trending": true,
     "is_new": true,
-    "image_placeholder": "centro.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Centro+Restaurant+Riyadh",
+    "review_quote_ar": "بيتزا إيطالية أصلية! العجينة رهيبة والطعم أصيل",
     "review_quote": "بيتزا إيطالية أصلية! العجينة رهيبة والطعم أصيل",
+    "pros_ar": [
+      "بيتزا وباستا بطعم إيطالي أصيل",
+      "أجواء عائلية دافئة",
+      "مكونات طازجة يومياً"
+    ],
+    "pros": [
+      "بيتزا وباستا بطعم إيطالي أصيل",
+      "أجواء عائلية دافئة",
+      "مكونات طازجة يومياً"
+    ],
+    "cons_ar": [
+      "الانتظار يطول الويكند",
+      "الموقف ضيق"
+    ],
+    "cons": [
+      "الانتظار يطول الويكند",
+      "الموقف ضيق"
+    ],
     "best_time": "الغداء أو العشاء المبكر (٦-٨ م)",
     "avg_spend": "١٠٠-١٨٠ ريال للشخص",
-    "pros": ["بيتزا وباستا بطعم إيطالي أصيل", "أجواء عائلية دافئة", "مكونات طازجة يومياً"],
-    "cons": ["الانتظار يطول الويكند", "الموقف ضيق"]
+    "google_maps_url": "https://maps.google.com/?q=Centro+Restaurant+Riyadh"
+  },
+  {
+    "id": "zuma",
+    "name_ar": "زوما",
+    "name_en": "Zuma",
+    "category": "restaurant",
+    "category_ar": "مطعم",
+    "category_en": "Restaurant",
+    "neighborhood": "حي الملك عبدالله المالي",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مطعم ياباني عالمي فاخر من لندن. يقدم إزاكايا يابانية معاصرة بجودة استثنائية. من أفخم المطاعم في الرياض مع أجواء أنيقة وتجربة طعام لا تُنسى.",
+    "google_rating": 4.6,
+    "review_count": 3200,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "تجربة يابانية فاخرة من الطراز الأول، يستاهل الزيارة",
+    "pros_ar": [
+      "طعام ياباني بمعايير عالمية",
+      "أجواء فاخرة واستثنائية",
+      "خدمة احترافية من الدرجة الأولى"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة جداً",
+      "يحتاج حجز مسبق بأيام"
+    ],
+    "review_quote": "تجربة يابانية فاخرة من الطراز الأول، يستاهل الزيارة",
+    "pros": [
+      "طعام ياباني بمعايير عالمية",
+      "أجواء فاخرة واستثنائية",
+      "خدمة احترافية من الدرجة الأولى"
+    ],
+    "cons": [
+      "أسعار مرتفعة جداً",
+      "يحتاج حجز مسبق بأيام"
+    ],
+    "best_time": "العشاء (٨-١١ م)",
+    "avg_spend": "٣٥٠-٦٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Zuma+Riyadh+KAFD"
+  },
+  {
+    "id": "nobu",
+    "name_ar": "نوبو",
+    "name_en": "Nobu",
+    "category": "restaurant",
+    "category_ar": "مطعم",
+    "category_en": "Restaurant",
+    "neighborhood": "حي الملك عبدالله المالي",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مطعم الشيف نوبو ماتسوهيسا الشهير عالمياً. يقدم مزيجاً فريداً من المطبخ الياباني مع لمسات بيروفية. من أشهر المطاعم الفاخرة في العالم.",
+    "google_rating": 4.5,
+    "review_count": 2780,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "بلاك كود ميسو من أفضل أطباق الرياض! تجربة عالمية",
+    "pros_ar": [
+      "أطباق مميزة وفريدة عالمياً",
+      "جودة مكونات استثنائية",
+      "اسم عالمي وسمعة راقية"
+    ],
+    "cons_ar": [
+      "من أغلى المطاعم بالرياض",
+      "الكميات صغيرة مقارنة بالسعر"
+    ],
+    "review_quote": "بلاك كود ميسو من أفضل أطباق الرياض! تجربة عالمية",
+    "pros": [
+      "أطباق مميزة وفريدة عالمياً",
+      "جودة مكونات استثنائية",
+      "اسم عالمي وسمعة راقية"
+    ],
+    "cons": [
+      "من أغلى المطاعم بالرياض",
+      "الكميات صغيرة مقارنة بالسعر"
+    ],
+    "best_time": "العشاء (٨-١١ م)",
+    "avg_spend": "٤٠٠-٧٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Nobu+Riyadh"
+  },
+  {
+    "id": "cipriani",
+    "name_ar": "سيبرياني",
+    "name_en": "Cipriani",
+    "category": "restaurant",
+    "category_ar": "مطعم",
+    "category_en": "Restaurant",
+    "neighborhood": "حي الملك عبدالله المالي",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مطعم إيطالي فاخر من البندقية بتاريخ عريق. يقدم المطبخ الإيطالي الكلاسيكي بأجواء أنيقة وخدمة راقية. من أرقى تجارب الأكل الإيطالي في الرياض.",
+    "google_rating": 4.4,
+    "review_count": 1950,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "إيطالي كلاسيكي فاخر، الباستا والريزوتو خيال",
+    "pros_ar": [
+      "مطبخ إيطالي كلاسيكي أصيل",
+      "أجواء فاخرة وراقية",
+      "تاريخ عريق من البندقية"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة جداً",
+      "القائمة محدودة نسبياً"
+    ],
+    "review_quote": "إيطالي كلاسيكي فاخر، الباستا والريزوتو خيال",
+    "pros": [
+      "مطبخ إيطالي كلاسيكي أصيل",
+      "أجواء فاخرة وراقية",
+      "تاريخ عريق من البندقية"
+    ],
+    "cons": [
+      "أسعار مرتفعة جداً",
+      "القائمة محدودة نسبياً"
+    ],
+    "best_time": "العشاء (٧-١٠ م)",
+    "avg_spend": "٣٠٠-٥٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Cipriani+Riyadh"
+  },
+  {
+    "id": "beefbar",
+    "name_ar": "بيف بار",
+    "name_en": "Beefbar",
+    "category": "restaurant",
+    "category_ar": "مطعم",
+    "category_en": "Restaurant",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "مطعم لحوم فاخر من موناكو متخصص بأجود قطع اللحم من حول العالم. يقدم تجربة لحوم استثنائية مع أجواء عصرية وراقية وقائمة نبيذ مميزة.",
+    "google_rating": 4.5,
+    "review_count": 1680,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "لحوم واقيو من أفضل اللي ذقتها! تجربة فاخرة",
+    "pros_ar": [
+      "لحوم واقيو بجودة عالمية",
+      "تجربة فاخرة وراقية",
+      "قائمة متنوعة من أفضل اللحوم"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة جداً",
+      "الحجز ضروري مسبقاً"
+    ],
+    "review_quote": "لحوم واقيو من أفضل اللي ذقتها! تجربة فاخرة",
+    "pros": [
+      "لحوم واقيو بجودة عالمية",
+      "تجربة فاخرة وراقية",
+      "قائمة متنوعة من أفضل اللحوم"
+    ],
+    "cons": [
+      "أسعار مرتفعة جداً",
+      "الحجز ضروري مسبقاً"
+    ],
+    "best_time": "العشاء (٨-١١ م)",
+    "avg_spend": "٣٥٠-٦٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Beefbar+Riyadh"
+  },
+  {
+    "id": "stk",
+    "name_ar": "إس تي كي",
+    "name_en": "STK",
+    "category": "restaurant",
+    "category_ar": "مطعم",
+    "category_en": "Restaurant",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "مطعم ستيك عصري يجمع بين اللحوم الفاخرة والأجواء الحيوية. يقدم قطع ستيك مميزة مع لمسات عصرية وقائمة كوكتيلات إبداعية. تجربة عشاء مميزة.",
+    "google_rating": 4.2,
+    "review_count": 2340,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "ستيك لذيذ والأجواء حيوية، مكان حلو للعشاء",
+    "pros_ar": [
+      "ستيك بجودة عالية",
+      "أجواء حيوية وعصرية",
+      "تقديم مبتكر ومميز"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "مستوى الضوضاء عالي"
+    ],
+    "review_quote": "ستيك لذيذ والأجواء حيوية، مكان حلو للعشاء",
+    "pros": [
+      "ستيك بجودة عالية",
+      "أجواء حيوية وعصرية",
+      "تقديم مبتكر ومميز"
+    ],
+    "cons": [
+      "أسعار مرتفعة",
+      "مستوى الضوضاء عالي"
+    ],
+    "best_time": "العشاء (٨-١١ م)",
+    "avg_spend": "٢٥٠-٤٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=STK+Riyadh"
+  },
+  {
+    "id": "hashi",
+    "name_ar": "هاشي",
+    "name_en": "Hashi",
+    "category": "restaurant",
+    "category_ar": "مطعم",
+    "category_en": "Restaurant",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "مطعم ياباني راقي يقدم تجربة تيبانياكي حية أمام الضيوف. يتميز بطهاة محترفين يقدمون عروض طبخ مبهرة مع أجود المكونات اليابانية والعالمية.",
+    "google_rating": 4.3,
+    "review_count": 1890,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "عرض التيبانياكي ممتع جداً والأكل لذيذ!",
+    "pros_ar": [
+      "عرض تيبانياكي حي ومبهر",
+      "مكونات يابانية طازجة",
+      "تجربة تفاعلية ممتعة"
+    ],
+    "cons_ar": [
+      "الأسعار مرتفعة",
+      "يحتاج حجز مسبق"
+    ],
+    "review_quote": "عرض التيبانياكي ممتع جداً والأكل لذيذ!",
+    "pros": [
+      "عرض تيبانياكي حي ومبهر",
+      "مكونات يابانية طازجة",
+      "تجربة تفاعلية ممتعة"
+    ],
+    "cons": [
+      "الأسعار مرتفعة",
+      "يحتاج حجز مسبق"
+    ],
+    "best_time": "العشاء (٧-١٠ م)",
+    "avg_spend": "٢٠٠-٣٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Hashi+Restaurant+Riyadh"
+  },
+  {
+    "id": "wakame",
+    "name_ar": "واكامي",
+    "name_en": "Wakame",
+    "category": "restaurant",
+    "category_ar": "مطعم",
+    "category_en": "Restaurant",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مطعم آسيوي فيوجن يجمع بين المطبخ الياباني والتايلاندي والصيني. يقدم أطباق مبتكرة بنكهات آسيوية متنوعة مع أجواء عصرية وتصميم أنيق.",
+    "google_rating": 4.3,
+    "review_count": 2560,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مزيج آسيوي ممتاز! الأطباق التايلاندية واليابانية لذيذة",
+    "pros_ar": [
+      "تنوع كبير بالنكهات الآسيوية",
+      "تقديم أنيق وجذاب",
+      "خيارات متعددة تناسب الجميع"
+    ],
+    "cons_ar": [
+      "بعض الأطباق عادية",
+      "الانتظار يطول الويكند"
+    ],
+    "review_quote": "مزيج آسيوي ممتاز! الأطباق التايلاندية واليابانية لذيذة",
+    "pros": [
+      "تنوع كبير بالنكهات الآسيوية",
+      "تقديم أنيق وجذاب",
+      "خيارات متعددة تناسب الجميع"
+    ],
+    "cons": [
+      "بعض الأطباق عادية",
+      "الانتظار يطول الويكند"
+    ],
+    "best_time": "العشاء (٧-١٠ م)",
+    "avg_spend": "١٥٠-٢٨٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Wakame+Restaurant+Riyadh"
+  },
+  {
+    "id": "myazu",
+    "name_ar": "ميازو",
+    "name_en": "Myazu",
+    "category": "restaurant",
+    "category_ar": "مطعم",
+    "category_en": "Restaurant",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "مطعم ياباني مميز يقدم سوشي وساشيمي بأسلوب عصري. يتميز بقائمة أوماكاسي مميزة وأطباق يابانية إبداعية. أجواء يابانية حديثة مع خدمة مميزة.",
+    "google_rating": 4.4,
+    "review_count": 1340,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "review_quote_ar": "أوماكاسي ممتاز والشيف مبدع! تجربة يابانية مميزة",
+    "pros_ar": [
+      "قائمة أوماكاسي مبتكرة",
+      "شيف ياباني محترف",
+      "مكونات طازجة يومياً"
+    ],
+    "cons_ar": [
+      "الأسعار مرتفعة",
+      "المكان صغير"
+    ],
+    "review_quote": "أوماكاسي ممتاز والشيف مبدع! تجربة يابانية مميزة",
+    "pros": [
+      "قائمة أوماكاسي مبتكرة",
+      "شيف ياباني محترف",
+      "مكونات طازجة يومياً"
+    ],
+    "cons": [
+      "الأسعار مرتفعة",
+      "المكان صغير"
+    ],
+    "best_time": "العشاء (٧-١٠ م)",
+    "avg_spend": "٢٠٠-٤٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Myazu+Restaurant+Riyadh"
+  },
+  {
+    "id": "san-carlo",
+    "name_ar": "سان كارلو",
+    "name_en": "San Carlo",
+    "category": "restaurant",
+    "category_ar": "مطعم",
+    "category_en": "Restaurant",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "مطعم إيطالي فاخر من مانشستر. يقدم المطبخ الإيطالي الكلاسيكي مع مأكولات بحرية طازجة وباستا مصنوعة يدوياً. أجواء إيطالية أصيلة في قلب الرياض.",
+    "google_rating": 4.3,
+    "review_count": 2100,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "باستا مصنوعة يدوياً ومأكولات بحرية طازجة، إيطالي حقيقي",
+    "pros_ar": [
+      "باستا مصنوعة يدوياً طازجة",
+      "مأكولات بحرية ممتازة",
+      "أجواء إيطالية كلاسيكية"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "يحتاج حجز مسبق"
+    ],
+    "review_quote": "باستا مصنوعة يدوياً ومأكولات بحرية طازجة، إيطالي حقيقي",
+    "pros": [
+      "باستا مصنوعة يدوياً طازجة",
+      "مأكولات بحرية ممتازة",
+      "أجواء إيطالية كلاسيكية"
+    ],
+    "cons": [
+      "أسعار مرتفعة",
+      "يحتاج حجز مسبق"
+    ],
+    "best_time": "العشاء (٧-١٠ م)",
+    "avg_spend": "١٨٠-٣٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=San+Carlo+Riyadh"
+  },
+  {
+    "id": "cut-by-wolfgang",
+    "name_ar": "كَت باي وولفغانغ باك",
+    "name_en": "Cut by Wolfgang Puck",
+    "category": "restaurant",
+    "category_ar": "مطعم",
+    "category_en": "Restaurant",
+    "neighborhood": "حي الملك عبدالله المالي",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مطعم ستيك فاخر من الشيف العالمي وولفغانغ باك. يقدم أجود قطع اللحم مع أطباق جانبية مبتكرة. تجربة طعام فاخرة بمعايير هوليوودية في الرياض.",
+    "google_rating": 4.5,
+    "review_count": 1560,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "ستيك بمعايير هوليوود! من أفضل اللحوم بالرياض",
+    "pros_ar": [
+      "لحوم بمعايير عالمية فاخرة",
+      "شيف عالمي مشهور",
+      "أجواء راقية واستثنائية"
+    ],
+    "cons_ar": [
+      "من أغلى المطاعم",
+      "الحجز صعب"
+    ],
+    "review_quote": "ستيك بمعايير هوليوود! من أفضل اللحوم بالرياض",
+    "pros": [
+      "لحوم بمعايير عالمية فاخرة",
+      "شيف عالمي مشهور",
+      "أجواء راقية واستثنائية"
+    ],
+    "cons": [
+      "من أغلى المطاعم",
+      "الحجز صعب"
+    ],
+    "best_time": "العشاء (٨-١١ م)",
+    "avg_spend": "٤٠٠-٧٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=CUT+by+Wolfgang+Puck+Riyadh"
+  },
+  {
+    "id": "em-sherif",
+    "name_ar": "إم شريف",
+    "name_en": "Em Sherif",
+    "category": "restaurant",
+    "category_ar": "مطعم",
+    "category_en": "Restaurant",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "مطعم لبناني فاخر يقدم المطبخ اللبناني التقليدي بأسلوب راقي. يشتهر بالمازة اللبنانية والمشويات مع أجواء شرقية أنيقة وخدمة استثنائية.",
+    "google_rating": 4.5,
+    "review_count": 3450,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أفضل مازة لبنانية بالرياض! الأجواء شرقية وراقية",
+    "pros_ar": [
+      "مازة لبنانية استثنائية",
+      "أجواء شرقية فاخرة",
+      "خدمة ممتازة ومتميزة"
+    ],
+    "cons_ar": [
+      "الأسعار مرتفعة",
+      "الانتظار قد يطول"
+    ],
+    "review_quote": "أفضل مازة لبنانية بالرياض! الأجواء شرقية وراقية",
+    "pros": [
+      "مازة لبنانية استثنائية",
+      "أجواء شرقية فاخرة",
+      "خدمة ممتازة ومتميزة"
+    ],
+    "cons": [
+      "الأسعار مرتفعة",
+      "الانتظار قد يطول"
+    ],
+    "best_time": "العشاء (٧-١٠ م)",
+    "avg_spend": "١٨٠-٣٢٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Em+Sherif+Riyadh"
+  },
+  {
+    "id": "long-chim",
+    "name_ar": "لونق تشيم",
+    "name_en": "Long Chim",
+    "category": "restaurant",
+    "category_ar": "مطعم",
+    "category_en": "Restaurant",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مطعم تايلاندي أصيل من الشيف ديفيد طومسون. يقدم أطباق تايلاندية تقليدية بمكونات طازجة ونكهات أصيلة. من أفضل المطاعم التايلاندية في المنطقة.",
+    "google_rating": 4.4,
+    "review_count": 2100,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أكل تايلاندي أصيل بنكهات قوية ولذيذة!",
+    "pros_ar": [
+      "نكهات تايلاندية أصيلة",
+      "مكونات طازجة عالية الجودة",
+      "أجواء تايلاندية مميزة"
+    ],
+    "cons_ar": [
+      "بعض الأطباق حارة جداً",
+      "الأسعار مرتفعة نسبياً"
+    ],
+    "review_quote": "أكل تايلاندي أصيل بنكهات قوية ولذيذة!",
+    "pros": [
+      "نكهات تايلاندية أصيلة",
+      "مكونات طازجة عالية الجودة",
+      "أجواء تايلاندية مميزة"
+    ],
+    "cons": [
+      "بعض الأطباق حارة جداً",
+      "الأسعار مرتفعة نسبياً"
+    ],
+    "best_time": "العشاء (٧-١٠ م)",
+    "avg_spend": "١٥٠-٢٨٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Long+Chim+Riyadh"
+  },
+  {
+    "id": "la-petite-maison",
+    "name_ar": "لا بتيت ميزون",
+    "name_en": "La Petite Maison",
+    "category": "restaurant",
+    "category_ar": "مطعم",
+    "category_en": "Restaurant",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "مطعم فرنسي راقي من نيس يقدم المطبخ الفرنسي المتوسطي. يتميز بالسلطات الطازجة والأسماك والأطباق الفرنسية الكلاسيكية مع أجواء أنيقة وخدمة متميزة.",
+    "google_rating": 4.6,
+    "review_count": 2890,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "فرنسي راقي بامتياز! السلطات والأسماك خيالية",
+    "pros_ar": [
+      "مطبخ فرنسي متوسطي أصيل",
+      "مكونات طازجة بجودة عالية",
+      "أجواء أنيقة وراقية"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة جداً",
+      "الكميات صغيرة"
+    ],
+    "review_quote": "فرنسي راقي بامتياز! السلطات والأسماك خيالية",
+    "pros": [
+      "مطبخ فرنسي متوسطي أصيل",
+      "مكونات طازجة بجودة عالية",
+      "أجواء أنيقة وراقية"
+    ],
+    "cons": [
+      "أسعار مرتفعة جداً",
+      "الكميات صغيرة"
+    ],
+    "best_time": "الغداء أو العشاء — احجز مسبقاً",
+    "avg_spend": "٣٠٠-٥٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=La+Petite+Maison+Riyadh"
+  },
+  {
+    "id": "scalini",
+    "name_ar": "سكاليني",
+    "name_en": "Scalini",
+    "category": "restaurant",
+    "category_ar": "مطعم",
+    "category_en": "Restaurant",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "مطعم إيطالي كلاسيكي يقدم أطباق إيطالية تقليدية بمكونات مستوردة من إيطاليا. يشتهر بالباستا والريزوتو والتيراميسو مع أجواء إيطالية دافئة.",
+    "google_rating": 4.2,
+    "review_count": 3780,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "إيطالي كلاسيكي بمكونات أصلية، التيراميسو لازم تجربه",
+    "pros_ar": [
+      "مكونات مستوردة من إيطاليا",
+      "وصفات كلاسيكية أصيلة",
+      "التيراميسو من أفضل الرياض"
+    ],
+    "cons_ar": [
+      "التصميم يحتاج تجديد",
+      "الخدمة أحياناً بطيئة"
+    ],
+    "review_quote": "إيطالي كلاسيكي بمكونات أصلية، التيراميسو لازم تجربه",
+    "pros": [
+      "مكونات مستوردة من إيطاليا",
+      "وصفات كلاسيكية أصيلة",
+      "التيراميسو من أفضل الرياض"
+    ],
+    "cons": [
+      "التصميم يحتاج تجديد",
+      "الخدمة أحياناً بطيئة"
+    ],
+    "best_time": "العشاء (٧-١٠ م)",
+    "avg_spend": "١٥٠-٢٨٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Scalini+Riyadh"
+  },
+  {
+    "id": "white-robata",
+    "name_ar": "وايت روباتا",
+    "name_en": "White Robata",
+    "category": "restaurant",
+    "category_ar": "مطعم",
+    "category_en": "Restaurant",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مطعم ياباني عصري متخصص بالروباتا والسوشي. يقدم أطباق يابانية بلمسة حديثة مع أجواء أنيقة وبار سوشي تفاعلي. من المطاعم اليابانية المميزة بالرياض.",
+    "google_rating": 4.3,
+    "review_count": 1450,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "review_quote_ar": "روباتا ممتازة وسوشي طازج، مطعم ياباني مميز",
+    "pros_ar": [
+      "روباتا يابانية مميزة",
+      "سوشي طازج وعالي الجودة",
+      "أجواء عصرية وأنيقة"
+    ],
+    "cons_ar": [
+      "الأسعار مرتفعة",
+      "المكان يزدحم بسرعة"
+    ],
+    "review_quote": "روباتا ممتازة وسوشي طازج، مطعم ياباني مميز",
+    "pros": [
+      "روباتا يابانية مميزة",
+      "سوشي طازج وعالي الجودة",
+      "أجواء عصرية وأنيقة"
+    ],
+    "cons": [
+      "الأسعار مرتفعة",
+      "المكان يزدحم بسرعة"
+    ],
+    "best_time": "العشاء (٨-١١ م)",
+    "avg_spend": "١٨٠-٣٢٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=White+Robata+Riyadh"
   },
   {
     "id": "boulevard-riyadh",
@@ -485,23 +1965,38 @@
     "name_en": "Boulevard Riyadh",
     "category": "activity",
     "category_ar": "ترفيه",
+    "category_en": "Activity",
     "neighborhood": "حي حطين",
     "neighborhood_en": "Hittin",
     "description_ar": "أكبر وجهة ترفيهية في موسم الرياض. يضم مناطق ترفيهية متنوعة ومطاعم عالمية وعروض حية ومسارح وفعاليات متجددة طوال الموسم. تجربة لا تُفوّت.",
-    "rating": 4.7,
     "google_rating": 4.5,
     "review_count": 34567,
     "price_level": "$$$",
-    "price_range": "$$$",
     "trending": true,
     "is_new": false,
-    "image_placeholder": "boulevard-riyadh.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Boulevard+Riyadh+City",
+    "review_quote_ar": "أكبر وأفضل وجهة ترفيهية بالرياض، كل مرة فيه شي جديد!",
     "review_quote": "أكبر وأفضل وجهة ترفيهية بالرياض، كل مرة فيه شي جديد!",
+    "pros_ar": [
+      "تنوع كبير بالفعاليات والمطاعم",
+      "عروض حية ومسارح عالمية",
+      "مساحة ضخمة ومنظمة"
+    ],
+    "pros": [
+      "تنوع كبير بالفعاليات والمطاعم",
+      "عروض حية ومسارح عالمية",
+      "مساحة ضخمة ومنظمة"
+    ],
+    "cons_ar": [
+      "مزدحم جداً الويكند",
+      "أسعار الأكل والأنشطة مرتفعة"
+    ],
+    "cons": [
+      "مزدحم جداً الويكند",
+      "أسعار الأكل والأنشطة مرتفعة"
+    ],
     "best_time": "أيام الأسبوع (أحد-أربعاء) — أقل ازدحاماً",
     "avg_spend": "١٠٠-٣٠٠ ريال للشخص",
-    "pros": ["تنوع كبير بالفعاليات والمطاعم", "عروض حية ومسارح عالمية", "مساحة ضخمة ومنظمة"],
-    "cons": ["مزدحم جداً الويكند", "أسعار الأكل والأنشطة مرتفعة"]
+    "google_maps_url": "https://maps.google.com/?q=Boulevard+Riyadh+City"
   },
   {
     "id": "winter-wonderland",
@@ -509,47 +2004,38 @@
     "name_en": "Winter Wonderland",
     "category": "activity",
     "category_ar": "ترفيه",
+    "category_en": "Activity",
     "neighborhood": "حي حطين",
     "neighborhood_en": "Hittin",
     "description_ar": "نسخة الرياض من وينتر وندرلاند لندن الشهيرة. ألعاب ومرافق ترفيهية ضخمة مع أجواء شتوية ساحرة. مثالي للعائلات والأطفال مع عروض وفعاليات متنوعة.",
-    "rating": 4.5,
     "google_rating": 4.3,
     "review_count": 21345,
     "price_level": "$$$",
-    "price_range": "$$$",
     "trending": true,
     "is_new": false,
-    "image_placeholder": "winter-wonderland.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Winter+Wonderland+Riyadh",
+    "review_quote_ar": "عالم ثاني! الأطفال انبسطوا كثير والألعاب ممتازة",
     "review_quote": "عالم ثاني! الأطفال انبسطوا كثير والألعاب ممتازة",
+    "pros_ar": [
+      "ألعاب ضخمة ومتنوعة",
+      "أجواء شتوية ساحرة",
+      "مناسب للعائلات والأطفال"
+    ],
+    "pros": [
+      "ألعاب ضخمة ومتنوعة",
+      "أجواء شتوية ساحرة",
+      "مناسب للعائلات والأطفال"
+    ],
+    "cons_ar": [
+      "أسعار التذاكر والألعاب مرتفعة",
+      "الزحمة شديدة نهاية الأسبوع"
+    ],
+    "cons": [
+      "أسعار التذاكر والألعاب مرتفعة",
+      "الزحمة شديدة نهاية الأسبوع"
+    ],
     "best_time": "أيام الأسبوع — أقل زحمة وأكثر متعة",
     "avg_spend": "١٥٠-٤٠٠ ريال للعائلة",
-    "pros": ["ألعاب ضخمة ومتنوعة", "أجواء شتوية ساحرة", "مناسب للعائلات والأطفال"],
-    "cons": ["أسعار التذاكر والألعاب مرتفعة", "الزحمة شديدة نهاية الأسبوع"]
-  },
-  {
-    "id": "murabba-palace",
-    "name_ar": "قصر المربع",
-    "name_en": "Murabba Palace",
-    "category": "activity",
-    "category_ar": "ترفيه",
-    "neighborhood": "حي المربع",
-    "neighborhood_en": "Al Murabba",
-    "description_ar": "قصر تاريخي بناه الملك عبدالعزيز آل سعود. يعكس العمارة النجدية التقليدية ويحكي قصة تأسيس المملكة. معلم ثقافي وتاريخي مهم في قلب الرياض.",
-    "rating": 4.3,
-    "google_rating": 4.2,
-    "review_count": 6789,
-    "price_level": "$",
-    "price_range": "$",
-    "trending": false,
-    "is_new": false,
-    "image_placeholder": "murabba-palace.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Murabba+Palace+Riyadh",
-    "review_quote": "تاريخ المملكة بين يديك، مكان يستحق الزيارة لكل سعودي",
-    "best_time": "الصباح (٩-١٢ ص) — أفضل إضاءة للتصوير",
-    "avg_spend": "مجاني - ٢٠ ريال",
-    "pros": ["تجربة تاريخية وثقافية غنية", "عمارة نجدية أصيلة", "مجاني أو رسوم رمزية"],
-    "cons": ["يحتاج مرشد للاستفادة الكاملة", "أوقات الزيارة محدودة"]
+    "google_maps_url": "https://maps.google.com/?q=Winter+Wonderland+Riyadh"
   },
   {
     "id": "national-museum",
@@ -557,47 +2043,38 @@
     "name_en": "National Museum",
     "category": "activity",
     "category_ar": "ترفيه",
+    "category_en": "Activity",
     "neighborhood": "حي المربع",
     "neighborhood_en": "Al Murabba",
     "description_ar": "أكبر متحف في المملكة العربية السعودية. يضم ٨ قاعات عرض تروي تاريخ الجزيرة العربية من عصور ما قبل التاريخ حتى العصر الحديث. تجربة تعليمية وثقافية غنية.",
-    "rating": 4.6,
     "google_rating": 4.5,
     "review_count": 11234,
     "price_level": "$",
-    "price_range": "$",
     "trending": false,
     "is_new": false,
-    "image_placeholder": "national-museum.jpg",
-    "google_maps_url": "https://maps.google.com/?q=National+Museum+Saudi+Arabia+Riyadh",
+    "review_quote_ar": "٨ قاعات تاخذك عبر التاريخ، مكان لازم كل سعودي يزوره",
     "review_quote": "٨ قاعات تاخذك عبر التاريخ، مكان لازم كل سعودي يزوره",
+    "pros_ar": [
+      "محتوى تاريخي غني ومتنوع",
+      "٨ قاعات عرض ضخمة",
+      "رسوم دخول رمزية"
+    ],
+    "pros": [
+      "محتوى تاريخي غني ومتنوع",
+      "٨ قاعات عرض ضخمة",
+      "رسوم دخول رمزية"
+    ],
+    "cons_ar": [
+      "يحتاج وقت طويل لزيارة كاملة",
+      "بعض القاعات تحتاج تحديث"
+    ],
+    "cons": [
+      "يحتاج وقت طويل لزيارة كاملة",
+      "بعض القاعات تحتاج تحديث"
+    ],
     "best_time": "أيام الأسبوع الصباح — هدوء أكثر",
     "avg_spend": "١٠-٢٥ ريال",
-    "pros": ["محتوى تاريخي غني ومتنوع", "٨ قاعات عرض ضخمة", "رسوم دخول رمزية"],
-    "cons": ["يحتاج وقت طويل لزيارة كاملة", "بعض القاعات تحتاج تحديث"]
-  },
-  {
-    "id": "edge-of-the-world",
-    "name_ar": "حافة العالم",
-    "name_en": "Edge of the World",
-    "category": "activity",
-    "category_ar": "ترفيه",
-    "neighborhood": "شمال غرب الرياض",
-    "neighborhood_en": "Northwest Riyadh",
-    "description_ar": "منحدرات صخرية مذهلة تطل على سهول لا نهائية تبدو وكأنها حافة العالم. من أجمل المعالم الطبيعية قرب الرياض. مثالي للمغامرة والتصوير وتسلق الصخور.",
-    "rating": 4.8,
-    "google_rating": 4.7,
-    "review_count": 15678,
-    "price_level": "$",
-    "price_range": "$",
-    "trending": true,
-    "is_new": false,
-    "image_placeholder": "edge-of-the-world.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Edge+of+the+World+Riyadh",
-    "review_quote": "من أجمل المناظر الطبيعية بحياتي! حرفياً حافة العالم 🌄",
-    "best_time": "الشتاء والربيع — الجو معتدل ومثالي",
-    "avg_spend": "مجاني (تكلفة النقل فقط)",
-    "pros": ["منظر طبيعي خلاب لا يوصف", "مجاني بالكامل", "مثالي للتصوير والمغامرة"],
-    "cons": ["بعيد عن المدينة (ساعة+)", "يحتاج سيارة دفع رباعي"]
+    "google_maps_url": "https://maps.google.com/?q=National+Museum+Saudi+Arabia+Riyadh"
   },
   {
     "id": "riyadh-zoo",
@@ -605,23 +2082,38 @@
     "name_en": "Riyadh Zoo",
     "category": "activity",
     "category_ar": "ترفيه",
+    "category_en": "Activity",
     "neighborhood": "حي الملز",
     "neighborhood_en": "Al Malaz",
     "description_ar": "حديقة حيوانات الرياض تضم مئات الأنواع من الحيوانات والطيور. وجهة مثالية للعائلات والأطفال مع مساحات خضراء واسعة ومرافق ترفيهية متنوعة.",
-    "rating": 4.0,
     "google_rating": 3.9,
     "review_count": 23456,
     "price_level": "$",
-    "price_range": "$",
     "trending": false,
     "is_new": false,
-    "image_placeholder": "riyadh-zoo.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Riyadh+Zoo",
+    "review_quote_ar": "مكان حلو للأطفال وأسعاره مناسبة، بس يحتاج تطوير",
     "review_quote": "مكان حلو للأطفال وأسعاره مناسبة، بس يحتاج تطوير",
+    "pros_ar": [
+      "مناسب جداً للأطفال",
+      "أسعار رمزية",
+      "مساحات خضراء واسعة"
+    ],
+    "pros": [
+      "مناسب جداً للأطفال",
+      "أسعار رمزية",
+      "مساحات خضراء واسعة"
+    ],
+    "cons_ar": [
+      "يحتاج صيانة وتطوير",
+      "حار جداً بالصيف"
+    ],
+    "cons": [
+      "يحتاج صيانة وتطوير",
+      "حار جداً بالصيف"
+    ],
     "best_time": "الشتاء والربيع — الجو مناسب للمشي",
     "avg_spend": "١٠-٣٠ ريال للعائلة",
-    "pros": ["مناسب جداً للأطفال", "أسعار رمزية", "مساحات خضراء واسعة"],
-    "cons": ["يحتاج صيانة وتطوير", "حار جداً بالصيف"]
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Zoo"
   },
   {
     "id": "via-riyadh",
@@ -629,23 +2121,38 @@
     "name_en": "Via Riyadh",
     "category": "activity",
     "category_ar": "ترفيه",
+    "category_en": "Activity",
     "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "وجهة تسوق وترفيه فاخرة تضم أرقى الماركات العالمية والمطاعم الراقية. تصميم معماري أنيق مع تجربة تسوق فريدة ومرافق ترفيهية متنوعة.",
-    "rating": 4.4,
     "google_rating": 4.3,
     "review_count": 5678,
     "price_level": "$$$",
-    "price_range": "$$$",
     "trending": true,
     "is_new": true,
-    "image_placeholder": "via-riyadh.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Via+Riyadh",
+    "review_quote_ar": "وجهة تسوق فاخرة بتصميم معماري مبهر، تجربة راقية",
     "review_quote": "وجهة تسوق فاخرة بتصميم معماري مبهر، تجربة راقية",
+    "pros_ar": [
+      "ماركات عالمية فاخرة",
+      "تصميم معماري أنيق",
+      "مطاعم راقية متنوعة"
+    ],
+    "pros": [
+      "ماركات عالمية فاخرة",
+      "تصميم معماري أنيق",
+      "مطاعم راقية متنوعة"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة جداً",
+      "مواقف محدودة أحياناً"
+    ],
+    "cons": [
+      "أسعار مرتفعة جداً",
+      "مواقف محدودة أحياناً"
+    ],
     "best_time": "أيام الأسبوع المساء (٥-٩ م)",
     "avg_spend": "حسب التسوق والمطاعم",
-    "pros": ["ماركات عالمية فاخرة", "تصميم معماري أنيق", "مطاعم راقية متنوعة"],
-    "cons": ["أسعار مرتفعة جداً", "مواقف محدودة أحياناً"]
+    "google_maps_url": "https://maps.google.com/?q=Via+Riyadh"
   },
   {
     "id": "kingdom-tower",
@@ -653,23 +2160,38 @@
     "name_en": "Kingdom Tower",
     "category": "activity",
     "category_ar": "ترفيه",
+    "category_en": "Activity",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "أيقونة الرياض المعمارية وأشهر معالمها. يضم جسر المشاهدة في الأعلى مع إطلالة خلابة على المدينة. يحتوي على مركز تسوق فاخر وفندق فورسيزونز.",
-    "rating": 4.7,
     "google_rating": 4.6,
     "review_count": 28934,
     "price_level": "$$",
-    "price_range": "$$",
     "trending": true,
     "is_new": false,
-    "image_placeholder": "kingdom-tower.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Kingdom+Centre+Tower+Riyadh",
+    "review_quote_ar": "جسر المشاهدة تجربة لازم تعيشها! إطلالة على كل الرياض",
     "review_quote": "جسر المشاهدة تجربة لازم تعيشها! إطلالة على كل الرياض",
+    "pros_ar": [
+      "جسر المشاهدة تجربة فريدة",
+      "إطلالة خلابة على الرياض",
+      "مركز تسوق فاخر"
+    ],
+    "pros": [
+      "جسر المشاهدة تجربة فريدة",
+      "إطلالة خلابة على الرياض",
+      "مركز تسوق فاخر"
+    ],
+    "cons_ar": [
+      "تذكرة الجسر مرتفعة السعر",
+      "مزدحم وقت الذروة"
+    ],
+    "cons": [
+      "تذكرة الجسر مرتفعة السعر",
+      "مزدحم وقت الذروة"
+    ],
     "best_time": "وقت الغروب (٤:٣٠-٦ م) — أفضل وقت للتصوير",
     "avg_spend": "٧٠-١٥٠ ريال (تذكرة الجسر + تسوق)",
-    "pros": ["جسر المشاهدة تجربة فريدة", "إطلالة خلابة على الرياض", "مركز تسوق فاخر"],
-    "cons": ["تذكرة الجسر مرتفعة السعر", "مزدحم وقت الذروة"]
+    "google_maps_url": "https://maps.google.com/?q=Kingdom+Centre+Tower+Riyadh"
   },
   {
     "id": "diriyah",
@@ -677,46 +2199,889 @@
     "name_en": "Diriyah",
     "category": "activity",
     "category_ar": "ترفيه",
+    "category_en": "Activity",
     "neighborhood": "الدرعية",
     "neighborhood_en": "Diriyah",
     "description_ar": "موقع تراث عالمي لليونسكو ومهد الدولة السعودية الأولى. حي الطريف التاريخي يعكس العمارة النجدية الأصيلة. يشهد تطويراً ضخماً ليصبح وجهة سياحية عالمية.",
-    "rating": 4.8,
     "google_rating": 4.7,
     "review_count": 12345,
     "price_level": "$",
-    "price_range": "$",
     "trending": true,
     "is_new": false,
-    "image_placeholder": "diriyah.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Diriyah+Riyadh",
+    "review_quote_ar": "تراث وتاريخ عريق مع تطوير عصري، فخر الرياض!",
     "review_quote": "تراث وتاريخ عريق مع تطوير عصري، فخر الرياض!",
+    "pros_ar": [
+      "موقع تراث عالمي لليونسكو",
+      "عمارة نجدية تاريخية مذهلة",
+      "تطوير ضخم وجديد"
+    ],
+    "pros": [
+      "موقع تراث عالمي لليونسكو",
+      "عمارة نجدية تاريخية مذهلة",
+      "تطوير ضخم وجديد"
+    ],
+    "cons_ar": [
+      "بعض المناطق تحت التطوير",
+      "يحتاج وقت للتجول الكامل"
+    ],
+    "cons": [
+      "بعض المناطق تحت التطوير",
+      "يحتاج وقت للتجول الكامل"
+    ],
     "best_time": "الشتاء والربيع — المشي ممتع بالجو المعتدل",
     "avg_spend": "مجاني - ٥٠ ريال",
-    "pros": ["موقع تراث عالمي لليونسكو", "عمارة نجدية تاريخية مذهلة", "تطوير ضخم وجديد"],
-    "cons": ["بعض المناطق تحت التطوير", "يحتاج وقت للتجول الكامل"]
+    "google_maps_url": "https://maps.google.com/?q=Diriyah+Riyadh"
+  },
+  {
+    "id": "riyadh-season",
+    "name_ar": "موسم الرياض",
+    "name_en": "Riyadh Season",
+    "category": "activity",
+    "category_ar": "ترفيه",
+    "category_en": "Activity",
+    "neighborhood": "مواقع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "أكبر حدث ترفيهي في المملكة يضم مناطق متعددة بفعاليات عالمية. حفلات موسيقية وعروض مسرحية ورياضية ومطاعم ومعارض. يستقطب ملايين الزوار سنوياً.",
+    "google_rating": 4.4,
+    "review_count": 45000,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "موسم الرياض غيّر شكل الترفيه بالمملكة! كل سنة أحسن",
+    "pros_ar": [
+      "فعاليات عالمية متنوعة",
+      "حفلات ونجوم عالميين",
+      "مناطق ترفيهية متعددة"
+    ],
+    "cons_ar": [
+      "الازدحام الشديد",
+      "أسعار التذاكر والأنشطة مرتفعة"
+    ],
+    "review_quote": "موسم الرياض غيّر شكل الترفيه بالمملكة! كل سنة أحسن",
+    "pros": [
+      "فعاليات عالمية متنوعة",
+      "حفلات ونجوم عالميين",
+      "مناطق ترفيهية متعددة"
+    ],
+    "cons": [
+      "الازدحام الشديد",
+      "أسعار التذاكر والأنشطة مرتفعة"
+    ],
+    "best_time": "أيام الأسبوع — أقل ازدحاماً",
+    "avg_spend": "١٠٠-٥٠٠ ريال حسب الفعالية",
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Season"
+  },
+  {
+    "id": "the-groves",
+    "name_ar": "ذا قروفز",
+    "name_en": "The Groves",
+    "category": "activity",
+    "category_ar": "ترفيه",
+    "category_en": "Activity",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "وجهة ترفيهية فاخرة في الدرعية تضم مطاعم عالمية ومتاجر فاخرة وفعاليات ثقافية. تصميم يجمع بين التراث والحداثة مع مساحات خضراء جميلة.",
+    "google_rating": 4.4,
+    "review_count": 3200,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "وجهة راقية بالدرعية، مطاعم فاخرة وأجواء مميزة",
+    "pros_ar": [
+      "مطاعم عالمية فاخرة",
+      "تصميم يجمع التراث والحداثة",
+      "مساحات خضراء جميلة"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة جداً",
+      "المواقف محدودة"
+    ],
+    "review_quote": "وجهة راقية بالدرعية، مطاعم فاخرة وأجواء مميزة",
+    "pros": [
+      "مطاعم عالمية فاخرة",
+      "تصميم يجمع التراث والحداثة",
+      "مساحات خضراء جميلة"
+    ],
+    "cons": [
+      "أسعار مرتفعة جداً",
+      "المواقف محدودة"
+    ],
+    "best_time": "المساء (٥-١٠ م)",
+    "avg_spend": "١٥٠-٤٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=The+Groves+Diriyah"
+  },
+  {
+    "id": "bujairi-terrace",
+    "name_ar": "بوجيري تيراس",
+    "name_en": "Bujairi Terrace",
+    "category": "activity",
+    "category_ar": "ترفيه",
+    "category_en": "Activity",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "منطقة مطاعم فاخرة في قلب الدرعية التاريخية تطل على حي الطريف. تضم مجموعة من أشهر المطاعم العالمية مع إطلالات خلابة على التراث النجدي.",
+    "google_rating": 4.5,
+    "review_count": 4500,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "مطاعم عالمية بإطلالة على التراث، تجربة فريدة من نوعها",
+    "pros_ar": [
+      "إطلالة خلابة على حي الطريف",
+      "مطاعم عالمية متنوعة",
+      "أجواء تراثية فريدة"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة جداً",
+      "الحجز ضروري مسبقاً"
+    ],
+    "review_quote": "مطاعم عالمية بإطلالة على التراث، تجربة فريدة من نوعها",
+    "pros": [
+      "إطلالة خلابة على حي الطريف",
+      "مطاعم عالمية متنوعة",
+      "أجواء تراثية فريدة"
+    ],
+    "cons": [
+      "أسعار مرتفعة جداً",
+      "الحجز ضروري مسبقاً"
+    ],
+    "best_time": "العشاء وقت الغروب",
+    "avg_spend": "٢٠٠-٥٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Bujairi+Terrace+Diriyah"
+  },
+  {
+    "id": "combat-field",
+    "name_ar": "كومبات فيلد",
+    "name_en": "Combat Field",
+    "category": "activity",
+    "category_ar": "ترفيه",
+    "category_en": "Activity",
+    "neighborhood": "حي العارض",
+    "neighborhood_en": "Al Arid",
+    "description_ar": "ساحة ألعاب حربية ومغامرات تكتيكية. يقدم تجارب بينتبول وإيرسوفت ومحاكاة قتالية مثيرة. مثالي لمحبي المغامرة والتحدي مع معدات احترافية.",
+    "google_rating": 4.2,
+    "review_count": 1800,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "تجربة مغامرة حماسية! البينتبول والإيرسوفت ممتعين",
+    "pros_ar": [
+      "تجربة مغامرة مثيرة",
+      "معدات احترافية وآمنة",
+      "مناسب للمجموعات والفرق"
+    ],
+    "cons_ar": [
+      "المكان بعيد نسبياً",
+      "الأسعار مرتفعة للجلسات الطويلة"
+    ],
+    "review_quote": "تجربة مغامرة حماسية! البينتبول والإيرسوفت ممتعين",
+    "pros": [
+      "تجربة مغامرة مثيرة",
+      "معدات احترافية وآمنة",
+      "مناسب للمجموعات والفرق"
+    ],
+    "cons": [
+      "المكان بعيد نسبياً",
+      "الأسعار مرتفعة للجلسات الطويلة"
+    ],
+    "best_time": "العصر والمساء — الجو أبرد",
+    "avg_spend": "١٠٠-٢٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Combat+Field+Riyadh"
+  },
+  {
+    "id": "trampo",
+    "name_ar": "ترامبو",
+    "name_en": "Trampo",
+    "category": "activity",
+    "category_ar": "ترفيه",
+    "category_en": "Activity",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "مركز ترامبولين ومغامرات داخلية ضخم. يضم مناطق قفز متنوعة وجدار تسلق ومنطقة نينجا واريور. مثالي للأطفال والكبار لممارسة الرياضة بطريقة ممتعة.",
+    "google_rating": 4.1,
+    "review_count": 5600,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مكان ممتع للكبار والصغار! القفز على الترامبولين حماس",
+    "pros_ar": [
+      "ممتع للأطفال والكبار",
+      "أنشطة متنوعة ومثيرة",
+      "رياضة بطريقة ممتعة"
+    ],
+    "cons_ar": [
+      "مزدحم جداً الويكند",
+      "الجلسات قصيرة مقارنة بالسعر"
+    ],
+    "review_quote": "مكان ممتع للكبار والصغار! القفز على الترامبولين حماس",
+    "pros": [
+      "ممتع للأطفال والكبار",
+      "أنشطة متنوعة ومثيرة",
+      "رياضة بطريقة ممتعة"
+    ],
+    "cons": [
+      "مزدحم جداً الويكند",
+      "الجلسات قصيرة مقارنة بالسعر"
+    ],
+    "best_time": "أيام الأسبوع — أقل ازدحاماً",
+    "avg_spend": "٨٠-١٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Trampo+Riyadh"
+  },
+  {
+    "id": "ifly",
+    "name_ar": "آي فلاي",
+    "name_en": "iFly",
+    "category": "activity",
+    "category_ar": "ترفيه",
+    "category_en": "Activity",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "محاكاة القفز بالمظلة الداخلية. تجربة طيران حر في نفق هوائي آمن ومثير. مناسب لجميع الأعمار مع مدربين محترفين. من أكثر التجارب إثارة بالرياض.",
+    "google_rating": 4.4,
+    "review_count": 3400,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "تجربة الطيران الحر خرافية! إحساس ما يوصف",
+    "pros_ar": [
+      "تجربة طيران حر مثيرة",
+      "آمن مع مدربين محترفين",
+      "مناسب لجميع الأعمار"
+    ],
+    "cons_ar": [
+      "الجلسة قصيرة جداً",
+      "السعر مرتفع للدقائق القليلة"
+    ],
+    "review_quote": "تجربة الطيران الحر خرافية! إحساس ما يوصف",
+    "pros": [
+      "تجربة طيران حر مثيرة",
+      "آمن مع مدربين محترفين",
+      "مناسب لجميع الأعمار"
+    ],
+    "cons": [
+      "الجلسة قصيرة جداً",
+      "السعر مرتفع للدقائق القليلة"
+    ],
+    "best_time": "أيام الأسبوع — حجز أسهل",
+    "avg_spend": "١٥٠-٣٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=iFly+Riyadh"
+  },
+  {
+    "id": "kafd",
+    "name_ar": "مركز الملك عبدالله المالي",
+    "name_en": "King Abdullah Financial District",
+    "category": "activity",
+    "category_ar": "ترفيه",
+    "category_en": "Activity",
+    "neighborhood": "حي الملك عبدالله المالي",
+    "neighborhood_en": "KAFD",
+    "description_ar": "حي أعمال ومعلم معماري حديث يضم ناطحات سحاب مبهرة ومطاعم عالمية ومتاجر فاخرة. يتحول مساءً لوجهة ترفيهية بإضاءة مذهلة وفعاليات متنوعة.",
+    "google_rating": 4.5,
+    "review_count": 8900,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "KAFD تحفة معمارية! الإضاءة بالليل خيالية",
+    "pros_ar": [
+      "عمارة حديثة مبهرة",
+      "مطاعم عالمية فاخرة",
+      "إضاءة ليلية مذهلة"
+    ],
+    "cons_ar": [
+      "المواقف محدودة وغالية",
+      "بعض المناطق لا تزال تحت التطوير"
+    ],
+    "review_quote": "KAFD تحفة معمارية! الإضاءة بالليل خيالية",
+    "pros": [
+      "عمارة حديثة مبهرة",
+      "مطاعم عالمية فاخرة",
+      "إضاءة ليلية مذهلة"
+    ],
+    "cons": [
+      "المواقف محدودة وغالية",
+      "بعض المناطق لا تزال تحت التطوير"
+    ],
+    "best_time": "المساء (٦-١١ م) — الإضاءة مبهرة",
+    "avg_spend": "حسب المطاعم والأنشطة",
+    "google_maps_url": "https://maps.google.com/?q=King+Abdullah+Financial+District+Riyadh"
+  },
+  {
+    "id": "riyadh-art",
+    "name_ar": "فن الرياض",
+    "name_en": "Riyadh Art",
+    "category": "activity",
+    "category_ar": "ترفيه",
+    "category_en": "Activity",
+    "neighborhood": "مواقع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "مشروع فني ضخم يحول الرياض لمعرض فني مفتوح. أعمال فنية منتشرة في أرجاء المدينة من فنانين محليين وعالميين. تجربة ثقافية فريدة ومجانية.",
+    "google_rating": 4.3,
+    "review_count": 2100,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أعمال فنية مذهلة منتشرة بالمدينة، الرياض تتحول!",
+    "pros_ar": [
+      "أعمال فنية عالمية مجانية",
+      "منتشرة في أرجاء المدينة",
+      "تجربة ثقافية فريدة"
+    ],
+    "cons_ar": [
+      "يحتاج بحث عن المواقع",
+      "بعض الأعمال مؤقتة"
+    ],
+    "review_quote": "أعمال فنية مذهلة منتشرة بالمدينة، الرياض تتحول!",
+    "pros": [
+      "أعمال فنية عالمية مجانية",
+      "منتشرة في أرجاء المدينة",
+      "تجربة ثقافية فريدة"
+    ],
+    "cons": [
+      "يحتاج بحث عن المواقع",
+      "بعض الأعمال مؤقتة"
+    ],
+    "best_time": "أي وقت — الأعمال دائمة ومؤقتة",
+    "avg_spend": "مجاني",
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Art"
+  },
+  {
+    "id": "kingdom-centre",
+    "name_ar": "برج المملكة",
+    "name_en": "Kingdom Centre",
+    "category": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "أيقونة الرياض ومعلمها الأبرز. مول فاخر يضم أشهر الماركات العالمية مع جسر السماء الشهير في القمة.",
+    "google_rating": 4.6,
+    "review_count": 45230,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "تجربة تسوق لا تُنسى مع إطلالة خرافية من الجسر",
+    "pros_ar": [
+      "إطلالة جسر السماء",
+      "ماركات عالمية",
+      "موقع مركزي"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "زحمة نهاية الأسبوع"
+    ],
+    "best_time": "المساء",
+    "google_maps_url": "https://maps.google.com/?q=Kingdom+Centre+Riyadh"
+  },
+  {
+    "id": "al-faisaliah",
+    "name_ar": "برج الفيصلية",
+    "name_en": "Al Faisaliah Tower",
+    "category": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "من أوائل ناطحات السحاب بالرياض. مول راقي مع مطاعم فاخرة والكرة الكريستالية الشهيرة في القمة.",
+    "google_rating": 4.5,
+    "review_count": 32100,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مكان راقي والمطاعم فيه من أفضل مطاعم الرياض",
+    "pros_ar": [
+      "تصميم معماري مميز",
+      "مطاعم راقية",
+      "هدوء"
+    ],
+    "cons_ar": [
+      "خيارات محدودة مقارنة بالمولات الكبيرة",
+      "مواقف صعبة"
+    ],
+    "best_time": "المساء",
+    "google_maps_url": "https://maps.google.com/?q=Al+Faisaliah+Tower+Riyadh"
+  },
+  {
+    "id": "riyadh-park",
+    "name_ar": "الرياض بارك",
+    "name_en": "Riyadh Park",
+    "category": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "من أكبر مولات الرياض بتصميم عصري مفتوح. يضم مئات المحلات والمطاعم وصالات السينما.",
+    "google_rating": 4.4,
+    "review_count": 28500,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "مول كبير ومتنوع، فيه كل شي تحتاجه",
+    "pros_ar": [
+      "مساحة واسعة",
+      "تنوع محلات",
+      "منطقة أطفال ممتازة"
+    ],
+    "cons_ar": [
+      "بعيد عن وسط المدينة",
+      "يحتاج وقت طويل"
+    ],
+    "best_time": "العصر",
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Park+Mall"
+  },
+  {
+    "id": "nakheel-mall",
+    "name_ar": "النخيل مول",
+    "name_en": "Nakheel Mall",
+    "category": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "النخيل",
+    "neighborhood_en": "Nakheel",
+    "description_ar": "مول عائلي محبوب بشمال الرياض. تنوع كبير بالمحلات والمطاعم مع أجواء مريحة.",
+    "google_rating": 4.3,
+    "review_count": 19800,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مول عائلي ممتاز ومريح للتسوق",
+    "pros_ar": [
+      "أجواء عائلية",
+      "أسعار متنوعة",
+      "مطاعم كثيرة"
+    ],
+    "cons_ar": [
+      "تصميم قديم شوي",
+      "زحمة الويكند"
+    ],
+    "best_time": "الظهر",
+    "google_maps_url": "https://maps.google.com/?q=Nakheel+Mall+Riyadh"
+  },
+  {
+    "id": "panorama-mall",
+    "name_ar": "بانوراما مول",
+    "name_en": "Panorama Mall",
+    "category": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "الربيع",
+    "neighborhood_en": "Al Rabee",
+    "description_ar": "وجهة تسوق وترفيه متكاملة شمال الرياض. يضم سينما ومنطقة ألعاب ومحلات متنوعة.",
+    "google_rating": 4.2,
+    "review_count": 22300,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مول شامل وممتع للعائلة",
+    "pros_ar": [
+      "ترفيه متكامل",
+      "موقع ممتاز",
+      "مواقف واسعة"
+    ],
+    "cons_ar": [
+      "محلات متكررة",
+      "فود كورت مزدحم"
+    ],
+    "best_time": "المساء",
+    "google_maps_url": "https://maps.google.com/?q=Panorama+Mall+Riyadh"
+  },
+  {
+    "id": "granada-centre",
+    "name_ar": "غرناطة مول",
+    "name_en": "Granada Centre",
+    "category": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "غرناطة",
+    "neighborhood_en": "Granada",
+    "description_ar": "مول راقي شرق الرياض بتصميم أندلسي مميز. يجمع بين التسوق والمطاعم الفاخرة.",
+    "google_rating": 4.3,
+    "review_count": 15600,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "تصميم جميل والمحلات فيه راقية",
+    "pros_ar": [
+      "تصميم أندلسي فريد",
+      "هدوء نسبي",
+      "مطاعم ممتازة"
+    ],
+    "cons_ar": [
+      "صغير نسبياً",
+      "خيارات محدودة"
+    ],
+    "best_time": "المساء",
+    "google_maps_url": "https://maps.google.com/?q=Granada+Centre+Riyadh"
+  },
+  {
+    "id": "riyadh-gallery",
+    "name_ar": "الرياض جاليري",
+    "name_en": "Riyadh Gallery",
+    "category": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "السليمانية",
+    "neighborhood_en": "Sulaimaniah",
+    "description_ar": "مول عصري وسط الرياض على طريق الملك فهد. موقع مركزي مع تنوع كبير بالماركات.",
+    "google_rating": 4.1,
+    "review_count": 18200,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "موقعه ممتاز على طريق الملك فهد",
+    "pros_ar": [
+      "موقع مركزي",
+      "سهولة الوصول",
+      "تنوع"
+    ],
+    "cons_ar": [
+      "مواقف محدودة",
+      "يحتاج تجديد"
+    ],
+    "best_time": "العصر",
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Gallery+Mall"
+  },
+  {
+    "id": "hayat-mall",
+    "name_ar": "حياة مول",
+    "name_en": "Hayat Mall",
+    "category": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "السويدي",
+    "neighborhood_en": "Suwaidi",
+    "description_ar": "من أكبر مولات جنوب الرياض. وجهة عائلية شاملة بأسعار مناسبة للجميع.",
+    "google_rating": 4.0,
+    "review_count": 25100,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مول عائلي بأسعار معقولة",
+    "pros_ar": [
+      "أسعار مناسبة",
+      "حجم كبير",
+      "خيارات كثيرة"
+    ],
+    "cons_ar": [
+      "بعيد",
+      "تصميم عادي"
+    ],
+    "best_time": "المساء",
+    "google_maps_url": "https://maps.google.com/?q=Hayat+Mall+Riyadh"
+  },
+  {
+    "id": "the-avenues-riyadh",
+    "name_ar": "ذا أفنيوز الرياض",
+    "name_en": "The Avenues Riyadh",
+    "category": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "مشروع ضخم جديد شمال الرياض. تجربة تسوق فاخرة بمعايير عالمية مع ماركات حصرية.",
+    "google_rating": 4.5,
+    "review_count": 3200,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "أخيراً مول بمستوى عالمي حقيقي بالرياض",
+    "pros_ar": [
+      "تصميم فخم جداً",
+      "ماركات حصرية",
+      "تجربة جديدة"
+    ],
+    "cons_ar": [
+      "أسعار عالية",
+      "لسا جديد"
+    ],
+    "best_time": "المساء",
+    "google_maps_url": "https://maps.google.com/?q=The+Avenues+Riyadh"
+  },
+  {
+    "id": "diriyah-square",
+    "name_ar": "ساحة الدرعية",
+    "name_en": "Diriyah Square",
+    "category": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "جزء من مشروع الدرعية التاريخي. تسوق فاخر بأجواء تراثية سعودية أصيلة مع ماركات عالمية.",
+    "google_rating": 4.7,
+    "review_count": 5600,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "دمج مذهل بين التراث والفخامة",
+    "pros_ar": [
+      "تراث + حداثة",
+      "أجواء فريدة",
+      "مطاعم عالمية"
+    ],
+    "cons_ar": [
+      "بعيد عن وسط المدينة",
+      "أسعار مرتفعة جداً"
+    ],
+    "best_time": "المساء",
+    "google_maps_url": "https://maps.google.com/?q=Diriyah+Square+Riyadh"
   },
   {
     "id": "wadi-hanifah",
     "name_ar": "وادي حنيفة",
     "name_en": "Wadi Hanifah",
-    "category": "activity",
-    "category_ar": "ترفيه",
+    "category": "طبيعة",
+    "category_en": "nature",
     "neighborhood": "غرب الرياض",
     "neighborhood_en": "West Riyadh",
-    "description_ar": "وادي طبيعي خلاب يمتد ١٢٠ كم عبر الرياض. تم تأهيله ليصبح متنزهاً بيئياً رائعاً مع مسارات للمشي وركوب الدراجات ومناطق جلوس ومطاعم على ضفاف الوادي.",
-    "rating": 4.5,
-    "google_rating": 4.4,
-    "review_count": 19876,
+    "description_ar": "متنفس الرياض الطبيعي. وادي أخضر ممتد 120 كم مع ممشى ومناطق جلسات وحدائق على طول المسار.",
+    "google_rating": 4.5,
+    "review_count": 35200,
     "price_level": "$",
-    "price_range": "$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "أجمل مكان طبيعي بالرياض، لازم تزوره",
+    "pros_ar": [
+      "مجاني",
+      "طبيعة خلابة",
+      "ممشى طويل"
+    ],
+    "cons_ar": [
+      "حر بالصيف",
+      "ازدحام الويكند"
+    ],
+    "best_time": "الصباح الباكر أو المغرب",
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Hanifah+Riyadh"
+  },
+  {
+    "id": "edge-of-the-world",
+    "name_ar": "حافة العالم",
+    "name_en": "Edge of the World",
+    "category": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "شمال غرب الرياض",
+    "neighborhood_en": "Northwest Riyadh",
+    "description_ar": "منحدرات صخرية مذهلة تطل على سهول لا نهائية. من أشهر الوجهات السياحية بالمنطقة، تحتاج سيارة دفع رباعي.",
+    "google_rating": 4.7,
+    "review_count": 18900,
+    "price_level": "$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "منظر يخطف الأنفاس، من أجمل الأماكن اللي زرتها",
+    "pros_ar": [
+      "مناظر خرافية",
+      "مجاني",
+      "مغامرة حقيقية"
+    ],
+    "cons_ar": [
+      "يحتاج 4x4",
+      "بعيد ساعتين عن الرياض"
+    ],
+    "best_time": "الشتاء - الصباح",
+    "google_maps_url": "https://maps.google.com/?q=Edge+of+the+World+Riyadh"
+  },
+  {
+    "id": "red-sand-dunes",
+    "name_ar": "رمال الديراب الحمراء",
+    "name_en": "Red Sand Dunes",
+    "category": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "كثبان رملية حمراء ساحرة مثالية للتطعيس والتخييم. وجهة مفضلة لعشاق المغامرة والتصوير.",
+    "google_rating": 4.4,
+    "review_count": 12300,
+    "price_level": "$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "أفضل مكان تطعيس بالرياض، الرمال لونها خرافي",
+    "pros_ar": [
+      "تطعيس ممتع",
+      "ألوان الغروب",
+      "قريب من الرياض"
+    ],
+    "cons_ar": [
+      "يحتاج سيارة دفع رباعي",
+      "لا توجد خدمات"
+    ],
+    "best_time": "قبل الغروب",
+    "google_maps_url": "https://maps.google.com/?q=Red+Sand+Dunes+Riyadh"
+  },
+  {
+    "id": "thumamah-park",
+    "name_ar": "منتزه الثمامة",
+    "name_en": "Thumamah National Park",
+    "category": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "محمية طبيعية شمال الرياض مثالية للتخييم والنزهات العائلية. أجواء برية أصيلة قريبة من المدينة.",
+    "google_rating": 4.2,
+    "review_count": 8700,
+    "price_level": "$",
     "trending": false,
     "is_new": false,
-    "image_placeholder": "wadi-hanifah.jpg",
-    "google_maps_url": "https://maps.google.com/?q=Wadi+Hanifah+Riyadh",
-    "review_quote": "أفضل مكان للمشي والدراجات بالرياض، طبيعة وسط المدينة",
-    "best_time": "العصر والمغرب — جو رائع ومنظر حلو",
-    "avg_spend": "مجاني (+ مطاعم اختيارية)",
-    "pros": ["طبيعة خلابة وسط المدينة", "مسارات مشي ودراجات ممتازة", "مجاني بالكامل"],
-    "cons": ["حار جداً بالصيف", "بعض المناطق غير مظللة"]
+    "review_quote_ar": "مكان هادي وجميل للتخييم العائلي",
+    "pros_ar": [
+      "قريب من الرياض",
+      "مساحات واسعة",
+      "هدوء"
+    ],
+    "cons_ar": [
+      "خدمات محدودة",
+      "يحتاج تجهيزاتك"
+    ],
+    "best_time": "الشتاء",
+    "google_maps_url": "https://maps.google.com/?q=Thumamah+National+Park+Riyadh"
+  },
+  {
+    "id": "wadi-namar",
+    "name_ar": "وادي نمار",
+    "name_en": "Wadi Namar",
+    "category": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "نمار",
+    "neighborhood_en": "Namar",
+    "description_ar": "بحيرة وسد جميل جنوب الرياض. ممشى حول البحيرة مع حدائق ومناطق جلوس وإطلالات رائعة.",
+    "google_rating": 4.3,
+    "review_count": 15400,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "بحيرة جميلة والممشى حولها ممتاز",
+    "pros_ar": [
+      "بحيرة طبيعية",
+      "ممشى مهيأ",
+      "مجاني"
+    ],
+    "cons_ar": [
+      "مزدحم الويكند",
+      "مواقف محدودة"
+    ],
+    "best_time": "المغرب",
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Namar+Riyadh"
+  },
+  {
+    "id": "dq-parks",
+    "name_ar": "حدائق الحي الدبلوماسي",
+    "name_en": "Diplomatic Quarter Parks",
+    "category": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "أجمل حدائق الرياض المهيأة. مسارات مشي بين أشجار ونباتات صحراوية مع تصميم landscape عالمي.",
+    "google_rating": 4.6,
+    "review_count": 21000,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أفضل مكان مشي بالرياض، نظيف ومرتب",
+    "pros_ar": [
+      "تنسيق عالمي",
+      "نظافة",
+      "أمان"
+    ],
+    "cons_ar": [
+      "بعيد عن بعض الأحياء",
+      "حر بالصيف"
+    ],
+    "best_time": "الصباح أو المغرب",
+    "google_maps_url": "https://maps.google.com/?q=Diplomatic+Quarter+Parks+Riyadh"
+  },
+  {
+    "id": "king-salman-park",
+    "name_ar": "حديقة الملك سلمان",
+    "name_en": "King Salman Park",
+    "category": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "وسط الرياض",
+    "neighborhood_en": "Central Riyadh",
+    "description_ar": "أكبر حديقة مدينة بالعالم قيد الإنشاء. مشروع ضخم يحول قاعدة الرياض الجوية لمساحة خضراء عملاقة.",
+    "google_rating": 4.8,
+    "review_count": 2100,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "مشروع سيغير وجه الرياض بالكامل",
+    "pros_ar": [
+      "مشروع تاريخي",
+      "مساحة هائلة",
+      "رؤية 2030"
+    ],
+    "cons_ar": [
+      "لم يكتمل بعد",
+      "المرحلة الأولى فقط"
+    ],
+    "best_time": "المساء",
+    "google_maps_url": "https://maps.google.com/?q=King+Salman+Park+Riyadh"
+  },
+  {
+    "id": "green-riyadh",
+    "name_ar": "الرياض الخضراء",
+    "name_en": "Green Riyadh",
+    "category": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "متعدد",
+    "neighborhood_en": "Multiple",
+    "description_ar": "مبادرة تشجير ضخمة تغطي الرياض بالأشجار والحدائق. ممرات خضراء ومتنزهات جديدة بكل حي.",
+    "google_rating": 4.4,
+    "review_count": 5600,
+    "price_level": "$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "الرياض تتحول لمدينة خضراء فعلاً",
+    "pros_ar": [
+      "تغطية واسعة",
+      "تحسين البيئة",
+      "مجاني"
+    ],
+    "cons_ar": [
+      "بعض المناطق لم تكتمل",
+      "يحتاج وقت"
+    ],
+    "best_time": "الصباح",
+    "google_maps_url": "https://maps.google.com/?q=Green+Riyadh+Project"
+  },
+  {
+    "id": "al-kharj-farms",
+    "name_ar": "مزارع الخرج",
+    "name_en": "Al Kharj Farms",
+    "category": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الخرج",
+    "neighborhood_en": "Al Kharj",
+    "description_ar": "منطقة زراعية خضراء جنوب الرياض. عيون مائية وبساتين نخيل ومزارع مفتوحة للزيارة.",
+    "google_rating": 4.1,
+    "review_count": 6800,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مكان جميل للهروب من صخب المدينة",
+    "pros_ar": [
+      "طبيعة خضراء",
+      "عيون مائية",
+      "هدوء"
+    ],
+    "cons_ar": [
+      "بعيد ساعة عن الرياض",
+      "خدمات محدودة"
+    ],
+    "best_time": "الشتاء",
+    "google_maps_url": "https://maps.google.com/?q=Al+Kharj+Farms+Saudi"
+  },
+  {
+    "id": "hail-park",
+    "name_ar": "منتزه سلام",
+    "name_en": "Salam Park",
+    "category": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "السلام",
+    "neighborhood_en": "Salam",
+    "description_ar": "حديقة كبيرة ببحيرة اصطناعية وممشى طويل. وجهة عائلية مثالية مع ألعاب أطفال ومناطق شواء.",
+    "google_rating": 4.3,
+    "review_count": 19500,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "حديقة ممتازة للعائلات والأطفال",
+    "pros_ar": [
+      "بحيرة جميلة",
+      "ألعاب أطفال",
+      "ممشى طويل"
+    ],
+    "cons_ar": [
+      "مزدحم جداً الويكند",
+      "مواقف صعبة"
+    ],
+    "best_time": "أيام الأسبوع - المغرب",
+    "google_maps_url": "https://maps.google.com/?q=Salam+Park+Riyadh"
   }
 ]
