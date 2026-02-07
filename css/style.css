@@ -922,6 +922,7 @@ img {
   font-size: 72px;
   margin-bottom: 24px;
   position: relative;
+  overflow: hidden;
 }
 
 .place-detail-content {
