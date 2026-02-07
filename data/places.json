@@ -3,9 +3,9 @@
     "id": "elixir-bunn",
     "name_ar": "إلكسير بن",
     "name_en": "Elixir Bunn",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "من أفضل كافيهات الرياض المتخصصة بالقهوة المختصة. أجواء هادئة وتصميم عصري مع قهوة محمصة محلياً بعناية فائقة. يقدم مجموعة متنوعة من المشروبات الساخنة والباردة مع حلويات مميزة.",
@@ -44,9 +44,9 @@
     "id": "barns",
     "name_ar": "بارنز",
     "name_en": "Barn's",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "سلسلة كافيهات سعودية رائدة في مجال القهوة المختصة. تتميز بتنوع قائمة المشروبات وجودة التحضير العالية. فروع متعددة في أنحاء الرياض مع أجواء مريحة للعمل والاسترخاء.",
@@ -85,9 +85,9 @@
     "id": "dose",
     "name_ar": "دوز",
     "name_en": "Dose",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي الورود",
     "neighborhood_en": "Al Worood",
     "description_ar": "كافيه عصري يقدم تجربة قهوة فريدة مع أجواء شبابية مميزة. يتميز بتصميمه الداخلي الجذاب وقائمة طعام متنوعة تشمل الفطور والغداء بالإضافة للمشروبات.",
@@ -126,9 +126,9 @@
     "id": "volume",
     "name_ar": "فوليوم",
     "name_en": "Volume",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي الياسمين",
     "neighborhood_en": "Al Yasmin",
     "description_ar": "كافيه أنيق يجمع بين القهوة المختصة والكتب. مكان مثالي للقراءة والعمل عن بعد مع أجواء هادئة وإضاءة مريحة. يقدم مشروبات مبتكرة وحلويات طازجة يومياً.",
@@ -167,9 +167,9 @@
     "id": "cup-and-couch",
     "name_ar": "كب اند كاوتش",
     "name_en": "Cup & Couch",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي النخيل",
     "neighborhood_en": "Al Nakheel",
     "description_ar": "كافيه دافئ ومريح بتصميم يشبه غرفة المعيشة. مثالي للجلسات العائلية والأصدقاء مع قائمة متنوعة من المشروبات الساخنة والباردة والمأكولات الخفيفة.",
@@ -208,9 +208,9 @@
     "id": "five-elephants",
     "name_ar": "فايف إلفنتس",
     "name_en": "Five Elephants",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "كافيه ألماني الأصل وصل الرياض بتجربة قهوة عالمية. يشتهر بالتشيز كيك الخاص وحبوب القهوة المحمصة بعناية. أجواء أوروبية مميزة في قلب الرياض.",
@@ -249,9 +249,9 @@
     "id": "kava-and-chai",
     "name_ar": "كافا اند تشاي",
     "name_en": "Kava & Chai",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "تجربة شاي فريدة من نوعها في الرياض. يقدم مجموعة واسعة من أنواع الشاي العالمية مع لمسات محلية. أجواء شرقية أنيقة مع خيارات طعام متنوعة.",
@@ -290,9 +290,9 @@
     "id": "flat-white",
     "name_ar": "فلات وايت",
     "name_en": "Flat White",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي الربيع",
     "neighborhood_en": "Al Rabee",
     "description_ar": "من أقدم كافيهات القهوة المختصة في الرياض. يتميز بخبرة طويلة في تحميص وتحضير القهوة مع فريق باريستا محترف. مكان مثالي لعشاق القهوة الحقيقيين.",
@@ -331,9 +331,9 @@
     "id": "the-roasting-house",
     "name_ar": "ذا روستنق هاوس",
     "name_en": "The Roasting House",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي الصحافة",
     "neighborhood_en": "As Sahafah",
     "description_ar": "محمصة ومقهى في آن واحد. تقدم قهوة طازجة محمصة في الموقع مع شفافية كاملة في عملية التحميص. تجربة تعليمية وذوقية فريدة لمحبي القهوة.",
@@ -372,9 +372,9 @@
     "id": "camel-step",
     "name_ar": "كامل ستيب",
     "name_en": "Camel Step",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "كافيه سعودي بهوية محلية أصيلة. يقدم القهوة السعودية التقليدية بأسلوب عصري مع مشروبات مبتكرة مستوحاة من التراث. تصميم يعكس الثقافة السعودية بلمسة حديثة.",
@@ -413,9 +413,9 @@
     "id": "urth-caffe",
     "name_ar": "أورث كافيه",
     "name_en": "Urth Caffe",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "كافيه أمريكي فاخر معروف بقهوته العضوية ومخبوزاته الطازجة. أجواء كاليفورنية مميزة مع قائمة فطور وغداء متنوعة. من أفضل تجارب البرانش في الرياض.",
@@ -453,9 +453,9 @@
     "id": "percent-arabica",
     "name_ar": "% أرابيكا",
     "name_en": "% Arabica",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي الملك عبدالله المالي",
     "neighborhood_en": "KAFD",
     "description_ar": "علامة تجارية يابانية عالمية للقهوة المختصة وصلت الرياض. تتميز بتصميم مينيمالي أنيق وجودة قهوة استثنائية. تجربة بسيطة وراقية لمحبي القهوة.",
@@ -493,9 +493,9 @@
     "id": "mokha-1450",
     "name_ar": "موخا ١٤٥٠",
     "name_en": "Mokha 1450",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي الورود",
     "neighborhood_en": "Al Worood",
     "description_ar": "كافيه يمني متخصص بالقهوة اليمنية الأصيلة. يقدم أصناف نادرة من حبوب البن اليمني المحمص بعناية. تجربة ثقافية وتاريخية لعشاق القهوة الأصيلة.",
@@ -533,9 +533,9 @@
     "id": "blue-muze",
     "name_ar": "بلو ميوز",
     "name_en": "Blue Muze",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي الياسمين",
     "neighborhood_en": "Al Yasmin",
     "description_ar": "كافيه فني بأجواء إبداعية يجمع بين القهوة والفن والموسيقى. تصميم داخلي مستوحى من الغاليريهات الفنية مع قائمة مشروبات مبتكرة وحلويات مميزة.",
@@ -573,9 +573,9 @@
     "id": "nabt",
     "name_ar": "نبت",
     "name_en": "Nabt",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي النخيل",
     "neighborhood_en": "Al Nakheel",
     "description_ar": "كافيه سعودي متخصص بالقهوة المختصة مع اهتمام بالاستدامة والمصادر المحلية. يقدم تجربة قهوة واعية بيئياً مع أجواء حديثة ومريحة.",
@@ -613,9 +613,9 @@
     "id": "specialty-batch",
     "name_ar": "سبشلتي باتش",
     "name_en": "Specialty Batch",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "محمصة ومقهى متخصص بالدفعات الصغيرة من القهوة المختصة. يقدم أصناف موسمية متجددة من أفضل مزارع القهوة حول العالم مع شرح تفصيلي لكل صنف.",
@@ -653,9 +653,9 @@
     "id": "saddle",
     "name_ar": "سادل",
     "name_en": "Saddle",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي حطين",
     "neighborhood_en": "Hittin",
     "description_ar": "كافيه فاخر بتصميم مستوحى من عالم الفروسية. يقدم تجربة قهوة راقية مع أجواء أنيقة ومميزة. قائمة متنوعة تشمل القهوة المختصة والحلويات الفاخرة.",
@@ -693,9 +693,9 @@
     "id": "12-cups",
     "name_ar": "١٢ كبس",
     "name_en": "12 Cups",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي الصحافة",
     "neighborhood_en": "As Sahafah",
     "description_ar": "كافيه سعودي أصيل يركز على جودة القهوة المختصة بأسعار معقولة. يتميز ببساطة المكان وتركيزه الكامل على تجربة القهوة. مكان مثالي لعشاق القهوة الحقيقيين.",
@@ -733,9 +733,9 @@
     "id": "kyan",
     "name_ar": "كيان",
     "name_en": "Kyan",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي العارض",
     "neighborhood_en": "Al Arid",
     "description_ar": "كافيه عصري يقدم مزيجاً من القهوة المختصة والمأكولات الصحية. تصميم حديث مع مساحة عمل مشتركة مناسبة للعمل عن بعد والاجتماعات غير الرسمية.",
@@ -773,9 +773,9 @@
     "id": "bricks",
     "name_ar": "بريكس",
     "name_en": "Bricks",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي الربيع",
     "neighborhood_en": "Al Rabee",
     "description_ar": "كافيه بتصميم صناعي مميز مع جدران من الطوب الظاهر. يقدم قهوة مختصة ومأكولات خفيفة مع أجواء شبابية وحيوية. مكان مناسب للتجمعات والجلسات.",
@@ -813,9 +813,9 @@
     "id": "stories-cafe",
     "name_ar": "ستوريز كافيه",
     "name_en": "Stories Cafe",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "كافيه يجمع بين القهوة والقصص والكتب. مكتبة صغيرة داخل الكافيه مع أجواء أدبية مميزة. مثالي لمحبي القراءة والكتابة مع مشروبات مميزة وحلويات لذيذة.",
@@ -853,9 +853,9 @@
     "id": "tala",
     "name_ar": "تالا",
     "name_en": "Tala",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي النرجس",
     "neighborhood_en": "Al Narjis",
     "description_ar": "كافيه نسائي راقي بتصميم أنثوي أنيق. يقدم مشروبات مبتكرة وحلويات فرنسية فاخرة. مكان مثالي للسيدات والعائلات مع أجواء هادئة ومريحة.",
@@ -893,9 +893,9 @@
     "id": "bafarat",
     "name_ar": "بافرت",
     "name_en": "Bafarat",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي السليمانية",
     "neighborhood_en": "As Sulimaniyah",
     "description_ar": "كافيه سعودي شهير بالشوكولاتة الساخنة والحلويات المميزة. يقدم تجربة مميزة لمحبي الشوكولاتة مع أجواء دافئة وقائمة متنوعة من المشروبات الساخنة والباردة.",
@@ -933,9 +933,9 @@
     "id": "harvest",
     "name_ar": "هارفست",
     "name_en": "Harvest",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي الياسمين",
     "neighborhood_en": "Al Yasmin",
     "description_ar": "كافيه يركز على الأكل الصحي والعضوي مع قهوة مختصة. يقدم عصائر طازجة وسموثي وأطباق صحية. مكان مثالي لمحبي الحياة الصحية مع أجواء طبيعية مريحة.",
@@ -973,9 +973,9 @@
     "id": "cacao",
     "name_ar": "كاكاو",
     "name_en": "Cacao",
-    "category": "cafe",
+    "category": "كافيه",
     "category_ar": "كافيه",
-    "category_en": "Cafe",
+    "category_en": "cafe",
     "neighborhood": "حي الربيع",
     "neighborhood_en": "Al Rabee",
     "description_ar": "كافيه متخصص بالشوكولاتة والكاكاو الفاخر. يقدم تشكيلة واسعة من مشروبات الشوكولاتة والحلويات الفاخرة. تجربة مميزة لعشاق الشوكولاتة بأجواء أنيقة ودافئة.",
@@ -1013,9 +1013,9 @@
     "id": "takya",
     "name_ar": "تكية",
     "name_en": "Takya",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم تركي فاخر يقدم أشهى الأطباق التركية التقليدية بلمسة عصرية. يتميز بأجواء أنيقة وخدمة ممتازة مع قائمة طعام غنية تشمل المشويات والمقبلات التركية الأصيلة.",
@@ -1053,9 +1053,9 @@
     "id": "lpm",
     "name_ar": "إل بي إم",
     "name_en": "LPM",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم فرنسي إيطالي راقي يقدم تجربة طعام فاخرة مستوحاة من مطبخ الريفييرا الفرنسية. أجواء أنيقة وتصميم داخلي فخم مع قائمة طعام متميزة.",
@@ -1093,9 +1093,9 @@
     "id": "sushi-samba",
     "name_ar": "سوشي سامبا",
     "name_en": "Sushi Samba",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي الملك عبدالله المالي",
     "neighborhood_en": "KAFD",
     "description_ar": "مطعم عالمي يجمع بين المطبخ الياباني والبرازيلي والبيروفي. تجربة طعام فريدة في أحد أفخم مواقع الرياض مع إطلالات خلابة وأطباق مبتكرة.",
@@ -1133,9 +1133,9 @@
     "id": "nusr-et",
     "name_ar": "نصرت",
     "name_en": "Nusr-Et",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي الملك عبدالله المالي",
     "neighborhood_en": "KAFD",
     "description_ar": "مطعم الشيف الشهير نصرت قوكشي (سولت بي). يقدم أفضل قطع اللحوم المشوية بأسلوبه المميز. تجربة لا تُنسى لعشاق اللحوم مع أجواء فاخرة وخدمة استثنائية.",
@@ -1173,9 +1173,9 @@
     "id": "the-globe",
     "name_ar": "ذا قلوب",
     "name_en": "The Globe",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم في الكرة الشهيرة أعلى برج الفيصلية. يقدم مأكولات عالمية فاخرة مع إطلالة بانورامية ٣٦٠ درجة على مدينة الرياض. تجربة طعام لا مثيل لها.",
@@ -1213,9 +1213,9 @@
     "id": "mama-noura",
     "name_ar": "ماما نورة",
     "name_en": "Mama Noura",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم سعودي شعبي أسطوري في الرياض. يشتهر بالشاورما والمشويات والأطباق الشعبية. وجهة لا غنى عنها لكل زائر للرياض مع فروع متعددة في أنحاء المدينة.",
@@ -1253,9 +1253,9 @@
     "id": "al-baik",
     "name_ar": "البيك",
     "name_en": "Al Baik",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "فروع متعددة",
     "neighborhood_en": "Multiple Locations",
     "description_ar": "سلسلة المطاعم السعودية الأشهر على الإطلاق. يشتهر بالدجاج المقلي والناجتس وأسعاره المناسبة. ظاهرة سعودية حقيقية مع طوابير انتظار دائمة تدل على جودة الطعم.",
@@ -1293,9 +1293,9 @@
     "id": "lusin",
     "name_ar": "لوسين",
     "name_en": "Lusin",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم أرمني فاخر يقدم أشهى الأطباق الأرمنية والمتوسطية. يتميز بالمقبلات الباردة والساخنة المتنوعة والمشويات اللذيذة. من أقدم وأفخم مطاعم الرياض.",
@@ -1333,9 +1333,9 @@
     "id": "nozomi",
     "name_ar": "نوزومي",
     "name_en": "Nozomi",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم ياباني فاخر يقدم السوشي والساشيمي بجودة عالية. أجواء يابانية أنيقة مع لمسات عصرية وقائمة طعام إبداعية تجمع بين التقاليد والابتكار.",
@@ -1373,9 +1373,9 @@
     "id": "centro",
     "name_ar": "سنترو",
     "name_en": "Centro",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي الياسمين",
     "neighborhood_en": "Al Yasmin",
     "description_ar": "مطعم إيطالي مميز يقدم البيتزا والباستا بأسلوب إيطالي أصيل. أجواء عائلية دافئة مع مكونات طازجة ووصفات إيطالية تقليدية محضرة بعناية.",
@@ -1413,9 +1413,9 @@
     "id": "zuma",
     "name_ar": "زوما",
     "name_en": "Zuma",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي الملك عبدالله المالي",
     "neighborhood_en": "KAFD",
     "description_ar": "مطعم ياباني عالمي فاخر من لندن. يقدم إزاكايا يابانية معاصرة بجودة استثنائية. من أفخم المطاعم في الرياض مع أجواء أنيقة وتجربة طعام لا تُنسى.",
@@ -1453,9 +1453,9 @@
     "id": "nobu",
     "name_ar": "نوبو",
     "name_en": "Nobu",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي الملك عبدالله المالي",
     "neighborhood_en": "KAFD",
     "description_ar": "مطعم الشيف نوبو ماتسوهيسا الشهير عالمياً. يقدم مزيجاً فريداً من المطبخ الياباني مع لمسات بيروفية. من أشهر المطاعم الفاخرة في العالم.",
@@ -1493,9 +1493,9 @@
     "id": "cipriani",
     "name_ar": "سيبرياني",
     "name_en": "Cipriani",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي الملك عبدالله المالي",
     "neighborhood_en": "KAFD",
     "description_ar": "مطعم إيطالي فاخر من البندقية بتاريخ عريق. يقدم المطبخ الإيطالي الكلاسيكي بأجواء أنيقة وخدمة راقية. من أرقى تجارب الأكل الإيطالي في الرياض.",
@@ -1533,9 +1533,9 @@
     "id": "beefbar",
     "name_ar": "بيف بار",
     "name_en": "Beefbar",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم لحوم فاخر من موناكو متخصص بأجود قطع اللحم من حول العالم. يقدم تجربة لحوم استثنائية مع أجواء عصرية وراقية وقائمة نبيذ مميزة.",
@@ -1573,9 +1573,9 @@
     "id": "stk",
     "name_ar": "إس تي كي",
     "name_en": "STK",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي حطين",
     "neighborhood_en": "Hittin",
     "description_ar": "مطعم ستيك عصري يجمع بين اللحوم الفاخرة والأجواء الحيوية. يقدم قطع ستيك مميزة مع لمسات عصرية وقائمة كوكتيلات إبداعية. تجربة عشاء مميزة.",
@@ -1613,9 +1613,9 @@
     "id": "hashi",
     "name_ar": "هاشي",
     "name_en": "Hashi",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم ياباني راقي يقدم تجربة تيبانياكي حية أمام الضيوف. يتميز بطهاة محترفين يقدمون عروض طبخ مبهرة مع أجود المكونات اليابانية والعالمية.",
@@ -1653,9 +1653,9 @@
     "id": "wakame",
     "name_ar": "واكامي",
     "name_en": "Wakame",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "مطعم آسيوي فيوجن يجمع بين المطبخ الياباني والتايلاندي والصيني. يقدم أطباق مبتكرة بنكهات آسيوية متنوعة مع أجواء عصرية وتصميم أنيق.",
@@ -1693,9 +1693,9 @@
     "id": "myazu",
     "name_ar": "ميازو",
     "name_en": "Myazu",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم ياباني مميز يقدم سوشي وساشيمي بأسلوب عصري. يتميز بقائمة أوماكاسي مميزة وأطباق يابانية إبداعية. أجواء يابانية حديثة مع خدمة مميزة.",
@@ -1733,9 +1733,9 @@
     "id": "san-carlo",
     "name_ar": "سان كارلو",
     "name_en": "San Carlo",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي حطين",
     "neighborhood_en": "Hittin",
     "description_ar": "مطعم إيطالي فاخر من مانشستر. يقدم المطبخ الإيطالي الكلاسيكي مع مأكولات بحرية طازجة وباستا مصنوعة يدوياً. أجواء إيطالية أصيلة في قلب الرياض.",
@@ -1773,9 +1773,9 @@
     "id": "cut-by-wolfgang",
     "name_ar": "كَت باي وولفغانغ باك",
     "name_en": "Cut by Wolfgang Puck",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي الملك عبدالله المالي",
     "neighborhood_en": "KAFD",
     "description_ar": "مطعم ستيك فاخر من الشيف العالمي وولفغانغ باك. يقدم أجود قطع اللحم مع أطباق جانبية مبتكرة. تجربة طعام فاخرة بمعايير هوليوودية في الرياض.",
@@ -1813,9 +1813,9 @@
     "id": "em-sherif",
     "name_ar": "إم شريف",
     "name_en": "Em Sherif",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم لبناني فاخر يقدم المطبخ اللبناني التقليدي بأسلوب راقي. يشتهر بالمازة اللبنانية والمشويات مع أجواء شرقية أنيقة وخدمة استثنائية.",
@@ -1853,9 +1853,9 @@
     "id": "long-chim",
     "name_ar": "لونق تشيم",
     "name_en": "Long Chim",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "مطعم تايلاندي أصيل من الشيف ديفيد طومسون. يقدم أطباق تايلاندية تقليدية بمكونات طازجة ونكهات أصيلة. من أفضل المطاعم التايلاندية في المنطقة.",
@@ -1893,9 +1893,9 @@
     "id": "la-petite-maison",
     "name_ar": "لا بتيت ميزون",
     "name_en": "La Petite Maison",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم فرنسي راقي من نيس يقدم المطبخ الفرنسي المتوسطي. يتميز بالسلطات الطازجة والأسماك والأطباق الفرنسية الكلاسيكية مع أجواء أنيقة وخدمة متميزة.",
@@ -1933,9 +1933,9 @@
     "id": "scalini",
     "name_ar": "سكاليني",
     "name_en": "Scalini",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم إيطالي كلاسيكي يقدم أطباق إيطالية تقليدية بمكونات مستوردة من إيطاليا. يشتهر بالباستا والريزوتو والتيراميسو مع أجواء إيطالية دافئة.",
@@ -1973,9 +1973,9 @@
     "id": "white-robata",
     "name_ar": "وايت روباتا",
     "name_en": "White Robata",
-    "category": "restaurant",
+    "category": "مطعم",
     "category_ar": "مطعم",
-    "category_en": "Restaurant",
+    "category_en": "restaurant",
     "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "مطعم ياباني عصري متخصص بالروباتا والسوشي. يقدم أطباق يابانية بلمسة حديثة مع أجواء أنيقة وبار سوشي تفاعلي. من المطاعم اليابانية المميزة بالرياض.",
@@ -2013,9 +2013,9 @@
     "id": "boulevard-riyadh",
     "name_ar": "بوليفارد الرياض",
     "name_en": "Boulevard Riyadh",
-    "category": "activity",
+    "category": "ترفيه",
     "category_ar": "ترفيه",
-    "category_en": "Activity",
+    "category_en": "activity",
     "neighborhood": "حي حطين",
     "neighborhood_en": "Hittin",
     "description_ar": "أكبر وجهة ترفيهية في موسم الرياض. يضم مناطق ترفيهية متنوعة ومطاعم عالمية وعروض حية ومسارح وفعاليات متجددة طوال الموسم. تجربة لا تُفوّت.",
@@ -2053,9 +2053,9 @@
     "id": "winter-wonderland",
     "name_ar": "وينتر وندرلاند",
     "name_en": "Winter Wonderland",
-    "category": "activity",
+    "category": "ترفيه",
     "category_ar": "ترفيه",
-    "category_en": "Activity",
+    "category_en": "activity",
     "neighborhood": "حي حطين",
     "neighborhood_en": "Hittin",
     "description_ar": "نسخة الرياض من وينتر وندرلاند لندن الشهيرة. ألعاب ومرافق ترفيهية ضخمة مع أجواء شتوية ساحرة. مثالي للعائلات والأطفال مع عروض وفعاليات متنوعة.",
@@ -2093,9 +2093,9 @@
     "id": "national-museum",
     "name_ar": "المتحف الوطني السعودي",
     "name_en": "National Museum",
-    "category": "activity",
+    "category": "ترفيه",
     "category_ar": "ترفيه",
-    "category_en": "Activity",
+    "category_en": "activity",
     "neighborhood": "حي المربع",
     "neighborhood_en": "Al Murabba",
     "description_ar": "أكبر متحف في المملكة العربية السعودية. يضم ٨ قاعات عرض تروي تاريخ الجزيرة العربية من عصور ما قبل التاريخ حتى العصر الحديث. تجربة تعليمية وثقافية غنية.",
@@ -2133,9 +2133,9 @@
     "id": "riyadh-zoo",
     "name_ar": "حديقة حيوانات الرياض",
     "name_en": "Riyadh Zoo",
-    "category": "activity",
+    "category": "ترفيه",
     "category_ar": "ترفيه",
-    "category_en": "Activity",
+    "category_en": "activity",
     "neighborhood": "حي الملز",
     "neighborhood_en": "Al Malaz",
     "description_ar": "حديقة حيوانات الرياض تضم مئات الأنواع من الحيوانات والطيور. وجهة مثالية للعائلات والأطفال مع مساحات خضراء واسعة ومرافق ترفيهية متنوعة.",
@@ -2173,9 +2173,9 @@
     "id": "via-riyadh",
     "name_ar": "فيا رياض",
     "name_en": "Via Riyadh",
-    "category": "activity",
+    "category": "ترفيه",
     "category_ar": "ترفيه",
-    "category_en": "Activity",
+    "category_en": "activity",
     "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "وجهة تسوق وترفيه فاخرة تضم أرقى الماركات العالمية والمطاعم الراقية. تصميم معماري أنيق مع تجربة تسوق فريدة ومرافق ترفيهية متنوعة.",
@@ -2213,9 +2213,9 @@
     "id": "kingdom-tower",
     "name_ar": "برج المملكة",
     "name_en": "Kingdom Tower",
-    "category": "activity",
+    "category": "ترفيه",
     "category_ar": "ترفيه",
-    "category_en": "Activity",
+    "category_en": "activity",
     "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "أيقونة الرياض المعمارية وأشهر معالمها. يضم جسر المشاهدة في الأعلى مع إطلالة خلابة على المدينة. يحتوي على مركز تسوق فاخر وفندق فورسيزونز.",
@@ -2253,9 +2253,9 @@
     "id": "diriyah",
     "name_ar": "الدرعية",
     "name_en": "Diriyah",
-    "category": "activity",
+    "category": "ترفيه",
     "category_ar": "ترفيه",
-    "category_en": "Activity",
+    "category_en": "activity",
     "neighborhood": "الدرعية",
     "neighborhood_en": "Diriyah",
     "description_ar": "موقع تراث عالمي لليونسكو ومهد الدولة السعودية الأولى. حي الطريف التاريخي يعكس العمارة النجدية الأصيلة. يشهد تطويراً ضخماً ليصبح وجهة سياحية عالمية.",
@@ -2293,9 +2293,9 @@
     "id": "riyadh-season",
     "name_ar": "موسم الرياض",
     "name_en": "Riyadh Season",
-    "category": "activity",
+    "category": "ترفيه",
     "category_ar": "ترفيه",
-    "category_en": "Activity",
+    "category_en": "activity",
     "neighborhood": "مواقع متعددة",
     "neighborhood_en": "Multiple Locations",
     "description_ar": "أكبر حدث ترفيهي في المملكة يضم مناطق متعددة بفعاليات عالمية. حفلات موسيقية وعروض مسرحية ورياضية ومطاعم ومعارض. يستقطب ملايين الزوار سنوياً.",
@@ -2333,9 +2333,9 @@
     "id": "the-groves",
     "name_ar": "ذا قروفز",
     "name_en": "The Groves",
-    "category": "activity",
+    "category": "ترفيه",
     "category_ar": "ترفيه",
-    "category_en": "Activity",
+    "category_en": "activity",
     "neighborhood": "الدرعية",
     "neighborhood_en": "Diriyah",
     "description_ar": "وجهة ترفيهية فاخرة في الدرعية تضم مطاعم عالمية ومتاجر فاخرة وفعاليات ثقافية. تصميم يجمع بين التراث والحداثة مع مساحات خضراء جميلة.",
@@ -2373,9 +2373,9 @@
     "id": "bujairi-terrace",
     "name_ar": "بوجيري تيراس",
     "name_en": "Bujairi Terrace",
-    "category": "activity",
+    "category": "ترفيه",
     "category_ar": "ترفيه",
-    "category_en": "Activity",
+    "category_en": "activity",
     "neighborhood": "الدرعية",
     "neighborhood_en": "Diriyah",
     "description_ar": "منطقة مطاعم فاخرة في قلب الدرعية التاريخية تطل على حي الطريف. تضم مجموعة من أشهر المطاعم العالمية مع إطلالات خلابة على التراث النجدي.",
@@ -2413,9 +2413,9 @@
     "id": "combat-field",
     "name_ar": "كومبات فيلد",
     "name_en": "Combat Field",
-    "category": "activity",
+    "category": "ترفيه",
     "category_ar": "ترفيه",
-    "category_en": "Activity",
+    "category_en": "activity",
     "neighborhood": "حي العارض",
     "neighborhood_en": "Al Arid",
     "description_ar": "ساحة ألعاب حربية ومغامرات تكتيكية. يقدم تجارب بينتبول وإيرسوفت ومحاكاة قتالية مثيرة. مثالي لمحبي المغامرة والتحدي مع معدات احترافية.",
@@ -2453,9 +2453,9 @@
     "id": "trampo",
     "name_ar": "ترامبو",
     "name_en": "Trampo",
-    "category": "activity",
+    "category": "ترفيه",
     "category_ar": "ترفيه",
-    "category_en": "Activity",
+    "category_en": "activity",
     "neighborhood": "حي الياسمين",
     "neighborhood_en": "Al Yasmin",
     "description_ar": "مركز ترامبولين ومغامرات داخلية ضخم. يضم مناطق قفز متنوعة وجدار تسلق ومنطقة نينجا واريور. مثالي للأطفال والكبار لممارسة الرياضة بطريقة ممتعة.",
@@ -2493,9 +2493,9 @@
     "id": "ifly",
     "name_ar": "آي فلاي",
     "name_en": "iFly",
-    "category": "activity",
+    "category": "ترفيه",
     "category_ar": "ترفيه",
-    "category_en": "Activity",
+    "category_en": "activity",
     "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "محاكاة القفز بالمظلة الداخلية. تجربة طيران حر في نفق هوائي آمن ومثير. مناسب لجميع الأعمار مع مدربين محترفين. من أكثر التجارب إثارة بالرياض.",
@@ -2533,9 +2533,9 @@
     "id": "kafd",
     "name_ar": "مركز الملك عبدالله المالي",
     "name_en": "King Abdullah Financial District",
-    "category": "activity",
+    "category": "ترفيه",
     "category_ar": "ترفيه",
-    "category_en": "Activity",
+    "category_en": "activity",
     "neighborhood": "حي الملك عبدالله المالي",
     "neighborhood_en": "KAFD",
     "description_ar": "حي أعمال ومعلم معماري حديث يضم ناطحات سحاب مبهرة ومطاعم عالمية ومتاجر فاخرة. يتحول مساءً لوجهة ترفيهية بإضاءة مذهلة وفعاليات متنوعة.",
@@ -2573,9 +2573,9 @@
     "id": "riyadh-art",
     "name_ar": "فن الرياض",
     "name_en": "Riyadh Art",
-    "category": "activity",
+    "category": "ترفيه",
     "category_ar": "ترفيه",
-    "category_en": "Activity",
+    "category_en": "activity",
     "neighborhood": "مواقع متعددة",
     "neighborhood_en": "Multiple Locations",
     "description_ar": "مشروع فني ضخم يحول الرياض لمعرض فني مفتوح. أعمال فنية منتشرة في أرجاء المدينة من فنانين محليين وعالميين. تجربة ثقافية فريدة ومجانية.",
@@ -2635,7 +2635,8 @@
     ],
     "best_time": "المساء",
     "google_maps_url": "https://maps.google.com/?q=Kingdom+Centre+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "al-faisaliah",
@@ -2663,7 +2664,8 @@
     ],
     "best_time": "المساء",
     "google_maps_url": "https://maps.google.com/?q=Al+Faisaliah+Tower+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "riyadh-park",
@@ -2691,7 +2693,8 @@
     ],
     "best_time": "العصر",
     "google_maps_url": "https://maps.google.com/?q=Riyadh+Park+Mall",
-    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55acc?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55acc?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "nakheel-mall",
@@ -2719,7 +2722,8 @@
     ],
     "best_time": "الظهر",
     "google_maps_url": "https://maps.google.com/?q=Nakheel+Mall+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1519567241046-7f570764ea29?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1519567241046-7f570764ea29?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "panorama-mall",
@@ -2747,7 +2751,8 @@
     ],
     "best_time": "المساء",
     "google_maps_url": "https://maps.google.com/?q=Panorama+Mall+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "granada-centre",
@@ -2775,7 +2780,8 @@
     ],
     "best_time": "المساء",
     "google_maps_url": "https://maps.google.com/?q=Granada+Centre+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "riyadh-gallery",
@@ -2803,7 +2809,8 @@
     ],
     "best_time": "العصر",
     "google_maps_url": "https://maps.google.com/?q=Riyadh+Gallery+Mall",
-    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55acc?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55acc?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "hayat-mall",
@@ -2831,7 +2838,8 @@
     ],
     "best_time": "المساء",
     "google_maps_url": "https://maps.google.com/?q=Hayat+Mall+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1519567241046-7f570764ea29?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1519567241046-7f570764ea29?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "the-avenues-riyadh",
@@ -2859,7 +2867,8 @@
     ],
     "best_time": "المساء",
     "google_maps_url": "https://maps.google.com/?q=The+Avenues+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "diriyah-square",
@@ -2887,7 +2896,8 @@
     ],
     "best_time": "المساء",
     "google_maps_url": "https://maps.google.com/?q=Diriyah+Square+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "wadi-hanifah",
@@ -2915,7 +2925,8 @@
     ],
     "best_time": "الصباح الباكر أو المغرب",
     "google_maps_url": "https://maps.google.com/?q=Wadi+Hanifah+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "edge-of-the-world",
@@ -2943,7 +2954,8 @@
     ],
     "best_time": "الشتاء - الصباح",
     "google_maps_url": "https://maps.google.com/?q=Edge+of+the+World+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "red-sand-dunes",
@@ -2971,7 +2983,8 @@
     ],
     "best_time": "قبل الغروب",
     "google_maps_url": "https://maps.google.com/?q=Red+Sand+Dunes+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "thumamah-park",
@@ -2999,7 +3012,8 @@
     ],
     "best_time": "الشتاء",
     "google_maps_url": "https://maps.google.com/?q=Thumamah+National+Park+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "wadi-namar",
@@ -3027,7 +3041,8 @@
     ],
     "best_time": "المغرب",
     "google_maps_url": "https://maps.google.com/?q=Wadi+Namar+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "dq-parks",
@@ -3055,7 +3070,8 @@
     ],
     "best_time": "الصباح أو المغرب",
     "google_maps_url": "https://maps.google.com/?q=Diplomatic+Quarter+Parks+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "king-salman-park",
@@ -3083,7 +3099,8 @@
     ],
     "best_time": "المساء",
     "google_maps_url": "https://maps.google.com/?q=King+Salman+Park+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "green-riyadh",
@@ -3111,7 +3128,8 @@
     ],
     "best_time": "الصباح",
     "google_maps_url": "https://maps.google.com/?q=Green+Riyadh+Project",
-    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "al-kharj-farms",
@@ -3139,7 +3157,8 @@
     ],
     "best_time": "الشتاء",
     "google_maps_url": "https://maps.google.com/?q=Al+Kharj+Farms+Saudi",
-    "image_url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "hail-park",
@@ -3167,7 +3186,8 @@
     ],
     "best_time": "أيام الأسبوع - المغرب",
     "google_maps_url": "https://maps.google.com/?q=Salam+Park+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "brew92",
@@ -3195,7 +3215,8 @@
     ],
     "best_time": "الصباح (٨-١١ ص)",
     "google_maps_url": "https://maps.google.com/?q=Brew92+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "sulalat-coffee",
@@ -3223,7 +3244,8 @@
     ],
     "best_time": "الصباح (٩-١٢ ص)",
     "google_maps_url": "https://maps.google.com/?q=Sulalat+Coffee+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "waken-cafe",
@@ -3251,7 +3273,8 @@
     ],
     "best_time": "أيام الأسبوع (٩ ص-٣ م)",
     "google_maps_url": "https://maps.google.com/?q=Waken+Cafe+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "tobys-estate",
@@ -3279,7 +3302,8 @@
     ],
     "best_time": "الفطور (٨-١١ ص)",
     "google_maps_url": "https://maps.google.com/?q=Tobys+Estate+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "overdose-coffee",
@@ -3307,7 +3331,8 @@
     ],
     "best_time": "العصر (٤-٧ م)",
     "google_maps_url": "https://maps.google.com/?q=Overdose+Coffee+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "kofuku-cafe",
@@ -3335,7 +3360,8 @@
     ],
     "best_time": "الصباح (٩-١٢ ص)",
     "google_maps_url": "https://maps.google.com/?q=Kofuku+Cafe+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "mugs-cafe",
@@ -3363,7 +3389,8 @@
     ],
     "best_time": "أي وقت",
     "google_maps_url": "https://maps.google.com/?q=Mugs+Cafe+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "origin-coffee",
@@ -3391,7 +3418,8 @@
     ],
     "best_time": "الصباح (٨-١١ ص)",
     "google_maps_url": "https://maps.google.com/?q=Origin+Coffee+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1498804103079-a6351b050096?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1498804103079-a6351b050096?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "boot-cafe",
@@ -3419,7 +3447,8 @@
     ],
     "best_time": "بعد الظهر (٢-٥ م)",
     "google_maps_url": "https://maps.google.com/?q=Boot+Cafe+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "seven-cups",
@@ -3447,7 +3476,8 @@
     ],
     "best_time": "العصر (٤-٧ م)",
     "google_maps_url": "https://maps.google.com/?q=Seven+Cups+Coffee+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "sidr-cafe",
@@ -3475,7 +3505,8 @@
     ],
     "best_time": "المساء (٥-٩ م)",
     "google_maps_url": "https://maps.google.com/?q=Sidr+Cafe+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "dallah-cafe",
@@ -3503,7 +3534,8 @@
     ],
     "best_time": "العصر (٣-٦ م)",
     "google_maps_url": "https://maps.google.com/?q=Dallah+Cafe+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "alfulk-cafe",
@@ -3531,7 +3563,8 @@
     ],
     "best_time": "المساء (٦-١٠ م)",
     "google_maps_url": "https://maps.google.com/?q=AlFulk+Cafe+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "public-cafe",
@@ -3559,7 +3592,8 @@
     ],
     "best_time": "الفطور (٨-١١ ص)",
     "google_maps_url": "https://maps.google.com/?q=Public+Cafe+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "square-cafe",
@@ -3587,7 +3621,8 @@
     ],
     "best_time": "الصباح (٩-١٢ ص)",
     "google_maps_url": "https://maps.google.com/?q=Square+Cafe+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "boxer-coffee",
@@ -3615,7 +3650,8 @@
     ],
     "best_time": "الصباح (٧-١٠ ص)",
     "google_maps_url": "https://maps.google.com/?q=Boxer+Coffee+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1498804103079-a6351b050096?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1498804103079-a6351b050096?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "paper-cup",
@@ -3643,7 +3679,8 @@
     ],
     "best_time": "الصباح (٦-٩ ص)",
     "google_maps_url": "https://maps.google.com/?q=Paper+Cup+Coffee+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "balance-cafe",
@@ -3671,7 +3708,8 @@
     ],
     "best_time": "الفطور (٨-١١ ص)",
     "google_maps_url": "https://maps.google.com/?q=Balance+Cafe+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "dara-cafe",
@@ -3699,7 +3737,8 @@
     ],
     "best_time": "المساء (٦-١٠ م)",
     "google_maps_url": "https://maps.google.com/?q=Dara+Cafe+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "drip-coffee",
@@ -3727,7 +3766,8 @@
     ],
     "best_time": "الصباح (٨-١١ ص)",
     "google_maps_url": "https://maps.google.com/?q=Drip+Coffee+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "kaffa-cafe",
@@ -3755,7 +3795,8 @@
     ],
     "best_time": "الصباح (٩-١٢ ص)",
     "google_maps_url": "https://maps.google.com/?q=Kaffa+Cafe+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "tim-hortons-riyadh",
@@ -3783,7 +3824,8 @@
     ],
     "best_time": "أي وقت",
     "google_maps_url": "https://maps.google.com/?q=Tim+Hortons+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "starbucks-reserve-riyadh",
@@ -3811,7 +3853,8 @@
     ],
     "best_time": "الصباح (٧-١٠ ص)",
     "google_maps_url": "https://maps.google.com/?q=Starbucks+Reserve+KAFD+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "punjab-grill",
@@ -3839,7 +3882,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م)",
     "google_maps_url": "https://maps.google.com/?q=Punjab+Grill+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "the-butcher-shop",
@@ -3867,7 +3911,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م)",
     "google_maps_url": "https://maps.google.com/?q=The+Butcher+Shop+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "firegrill",
@@ -3895,7 +3940,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م)",
     "google_maps_url": "https://maps.google.com/?q=Firegrill+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "la-griglia",
@@ -3923,7 +3969,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م)",
     "google_maps_url": "https://maps.google.com/?q=La+Griglia+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "hot-n-juicy",
@@ -3951,7 +3998,8 @@
     ],
     "best_time": "العشاء (٦-١٠ م)",
     "google_maps_url": "https://maps.google.com/?q=Hot+N+Juicy+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "burger-boutique",
@@ -3979,7 +4027,8 @@
     ],
     "best_time": "الغداء أو العشاء",
     "google_maps_url": "https://maps.google.com/?q=Burger+Boutique+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "shrimpy",
@@ -4007,7 +4056,8 @@
     ],
     "best_time": "الغداء (١٢-٣ م)",
     "google_maps_url": "https://maps.google.com/?q=Shrimpy+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "jan-restaurant",
@@ -4035,7 +4085,8 @@
     ],
     "best_time": "العشاء (٨-١١ م)",
     "google_maps_url": "https://maps.google.com/?q=Jan+Restaurant+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "eataly-riyadh",
@@ -4063,7 +4114,8 @@
     ],
     "best_time": "الغداء (١٢-٣ م)",
     "google_maps_url": "https://maps.google.com/?q=Eataly+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "piatto",
@@ -4091,7 +4143,8 @@
     ],
     "best_time": "الغداء أو العشاء",
     "google_maps_url": "https://maps.google.com/?q=Piatto+Restaurant+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "saltwater-riyadh",
@@ -4119,7 +4172,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م)",
     "google_maps_url": "https://maps.google.com/?q=Saltwater+Restaurant+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "pf-changs-riyadh",
@@ -4147,7 +4201,8 @@
     ],
     "best_time": "الغداء أو العشاء",
     "google_maps_url": "https://maps.google.com/?q=PF+Changs+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "al-nafourah",
@@ -4175,7 +4230,8 @@
     ],
     "best_time": "الغداء أو العشاء",
     "google_maps_url": "https://maps.google.com/?q=AlNafourah+Restaurant+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "spazio-riyadh",
@@ -4203,7 +4259,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م)",
     "google_maps_url": "https://maps.google.com/?q=Spazio+Restaurant+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "texas-roadhouse-riyadh",
@@ -4231,7 +4288,8 @@
     ],
     "best_time": "الغداء (١٢-٣ م) أقل زحمة",
     "google_maps_url": "https://maps.google.com/?q=Texas+Roadhouse+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "ihop-riyadh",
@@ -4259,7 +4317,8 @@
     ],
     "best_time": "الفطور (٨-١١ ص)",
     "google_maps_url": "https://maps.google.com/?q=IHOP+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "cheesecake-factory-riyadh",
@@ -4287,7 +4346,8 @@
     ],
     "best_time": "الغداء (١-٣ م)",
     "google_maps_url": "https://maps.google.com/?q=Cheesecake+Factory+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "wagamama-riyadh",
@@ -4315,7 +4375,8 @@
     ],
     "best_time": "الغداء أو العشاء",
     "google_maps_url": "https://maps.google.com/?q=Wagamama+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "carinos-riyadh",
@@ -4343,7 +4404,8 @@
     ],
     "best_time": "العشاء (٦-٩ م)",
     "google_maps_url": "https://maps.google.com/?q=Carinos+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "tokyo-riyadh",
@@ -4371,7 +4433,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م)",
     "google_maps_url": "https://maps.google.com/?q=Tokyo+Restaurant+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "sushi-art",
@@ -4399,7 +4462,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م)",
     "google_maps_url": "https://maps.google.com/?q=Sushi+Art+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "shogun-riyadh",
@@ -4427,7 +4491,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م)",
     "google_maps_url": "https://maps.google.com/?q=Shogun+Restaurant+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "maharaja-palace",
@@ -4455,7 +4520,8 @@
     ],
     "best_time": "الغداء (١٢-٣ م)",
     "google_maps_url": "https://maps.google.com/?q=Maharaja+Palace+Restaurant+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "mydo-riyadh",
@@ -4483,7 +4549,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م)",
     "google_maps_url": "https://maps.google.com/?q=Mydo+Korean+Restaurant+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "al-tazaj",
@@ -4511,7 +4578,8 @@
     ],
     "best_time": "أي وقت",
     "google_maps_url": "https://maps.google.com/?q=Al+Tazaj+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "kudu",
@@ -4539,7 +4607,8 @@
     ],
     "best_time": "الفطور (٦-١٠ ص)",
     "google_maps_url": "https://maps.google.com/?q=Kudu+Restaurant+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "herfy",
@@ -4567,7 +4636,8 @@
     ],
     "best_time": "أي وقت",
     "google_maps_url": "https://maps.google.com/?q=Herfy+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "murabba-palace",
@@ -4595,7 +4665,8 @@
     ],
     "best_time": "الصباح (٩-١٢ ص)",
     "google_maps_url": "https://maps.google.com/?q=Murabba+Palace+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "tuwaiq-palace",
@@ -4623,7 +4694,8 @@
     ],
     "best_time": "العصر للتصوير",
     "google_maps_url": "https://maps.google.com/?q=Tuwaiq+Palace+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "jax-riyadh",
@@ -4651,7 +4723,8 @@
     ],
     "best_time": "المساء (٥-١٠ م)",
     "google_maps_url": "https://maps.google.com/?q=Jax+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "gravity-riyadh",
@@ -4679,7 +4752,8 @@
     ],
     "best_time": "أيام الأسبوع (٢-٦ م)",
     "google_maps_url": "https://maps.google.com/?q=Gravity+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "topgolf-riyadh",
@@ -4707,7 +4781,8 @@
     ],
     "best_time": "المساء (٦-١١ م)",
     "google_maps_url": "https://maps.google.com/?q=TopGolf+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1472457897821-70d138470871?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1472457897821-70d138470871?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "karting-966",
@@ -4735,7 +4810,8 @@
     ],
     "best_time": "أيام الأسبوع المساء",
     "google_maps_url": "https://maps.google.com/?q=Karting+966+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "skyzone-riyadh",
@@ -4763,7 +4839,8 @@
     ],
     "best_time": "أيام الأسبوع",
     "google_maps_url": "https://maps.google.com/?q=SkyZone+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "ice-land-riyadh",
@@ -4791,7 +4868,8 @@
     ],
     "best_time": "الصيف - أيام الأسبوع",
     "google_maps_url": "https://maps.google.com/?q=Ice+Land+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "al-hokair-land",
@@ -4819,7 +4897,8 @@
     ],
     "best_time": "أيام الأسبوع",
     "google_maps_url": "https://maps.google.com/?q=Al+Hokair+Land+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "sparkys-riyadh",
@@ -4847,7 +4926,8 @@
     ],
     "best_time": "أيام الأسبوع",
     "google_maps_url": "https://maps.google.com/?q=Sparkys+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1472457897821-70d138470871?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1472457897821-70d138470871?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "fun-city-riyadh",
@@ -4875,7 +4955,8 @@
     ],
     "best_time": "أيام الأسبوع",
     "google_maps_url": "https://maps.google.com/?q=Fun+City+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "kafd-conference-center",
@@ -4903,7 +4984,8 @@
     ],
     "best_time": "حسب الفعالية",
     "google_maps_url": "https://maps.google.com/?q=KAFD+Conference+Center+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "rush-trampoline",
@@ -4931,7 +5013,8 @@
     ],
     "best_time": "أيام الأسبوع",
     "google_maps_url": "https://maps.google.com/?q=Rush+Trampoline+Park+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "salaam-mall",
@@ -4959,7 +5042,8 @@
     ],
     "best_time": "المساء",
     "google_maps_url": "https://maps.google.com/?q=Salaam+Mall+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55acc?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55acc?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "othaim-mall",
@@ -4987,7 +5071,8 @@
     ],
     "best_time": "أيام الأسبوع",
     "google_maps_url": "https://maps.google.com/?q=Othaim+Mall+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1519567241046-7f570764ea29?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1519567241046-7f570764ea29?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "u-walk",
@@ -5015,7 +5100,8 @@
     ],
     "best_time": "المساء (٦-١١ م)",
     "google_maps_url": "https://maps.google.com/?q=U+Walk+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "rubeen-plaza",
@@ -5043,7 +5129,8 @@
     ],
     "best_time": "المساء",
     "google_maps_url": "https://maps.google.com/?q=Rubeen+Plaza+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "localizer-mall",
@@ -5071,7 +5158,8 @@
     ],
     "best_time": "المساء",
     "google_maps_url": "https://maps.google.com/?q=Localizer+Mall+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55acc?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55acc?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "city-centre-riyadh",
@@ -5099,7 +5187,8 @@
     ],
     "best_time": "أيام الأسبوع",
     "google_maps_url": "https://maps.google.com/?q=City+Centre+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1519567241046-7f570764ea29?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1519567241046-7f570764ea29?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "hamra-mall",
@@ -5127,7 +5216,8 @@
     ],
     "best_time": "المساء",
     "google_maps_url": "https://maps.google.com/?q=Hamra+Mall+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "exit-15",
@@ -5155,7 +5245,8 @@
     ],
     "best_time": "العشاء",
     "google_maps_url": "https://maps.google.com/?q=Exit+15+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "qasr-mall",
@@ -5183,7 +5274,8 @@
     ],
     "best_time": "المساء",
     "google_maps_url": "https://maps.google.com/?q=Qasr+Mall+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55acc?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55acc?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "rawdhat-khoraim",
@@ -5211,7 +5303,8 @@
     ],
     "best_time": "الربيع بعد الأمطار",
     "google_maps_url": "https://maps.google.com/?q=Rawdhat+Khoraim+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "ain-heet-cave",
@@ -5239,7 +5332,8 @@
     ],
     "best_time": "الشتاء - الصباح",
     "google_maps_url": "https://maps.google.com/?q=Ain+Heet+Cave+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "tuwaiq-escarpment",
@@ -5267,7 +5361,8 @@
     ],
     "best_time": "الشتاء والربيع",
     "google_maps_url": "https://maps.google.com/?q=Tuwaiq+Escarpment+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "al-thumama-desert",
@@ -5295,7 +5390,8 @@
     ],
     "best_time": "الشتاء",
     "google_maps_url": "https://maps.google.com/?q=Al+Thumama+Desert+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "lake-duraz",
@@ -5323,7 +5419,8 @@
     ],
     "best_time": "بعد الأمطار الغزيرة",
     "google_maps_url": "https://maps.google.com/?q=Lake+Duraz+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "shaqra-heritage",
@@ -5351,7 +5448,8 @@
     ],
     "best_time": "الشتاء - الصباح",
     "google_maps_url": "https://maps.google.com/?q=Shaqra+Heritage+Village",
-    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "ushaiger-heritage",
@@ -5379,7 +5477,8 @@
     ],
     "best_time": "الشتاء والربيع",
     "google_maps_url": "https://maps.google.com/?q=Ushaiger+Heritage+Village",
-    "image_url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "al-uyaynah",
@@ -5407,7 +5506,8 @@
     ],
     "best_time": "الشتاء والربيع",
     "google_maps_url": "https://maps.google.com/?q=Al+Uyaynah+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "muzahimiyah",
@@ -5435,7 +5535,8 @@
     ],
     "best_time": "الشتاء والربيع",
     "google_maps_url": "https://maps.google.com/?q=Muzahimiyah+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "heet-cave",
@@ -5463,7 +5564,8 @@
     ],
     "best_time": "الشتاء",
     "google_maps_url": "https://maps.google.com/?q=Heet+Cave+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "dolce-riyadh",
@@ -5491,7 +5593,8 @@
     ],
     "best_time": "المساء (٦-١٠ م)",
     "google_maps_url": "https://maps.google.com/?q=Dolce+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop",
+    "category_ar": "حلويات"
   },
   {
     "id": "aani-and-dani",
@@ -5519,7 +5622,8 @@
     ],
     "best_time": "أي وقت",
     "google_maps_url": "https://maps.google.com/?q=Aani+and+Dani+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&h=300&fit=crop",
+    "category_ar": "حلويات"
   },
   {
     "id": "batis",
@@ -5547,7 +5651,8 @@
     ],
     "best_time": "الصباح (٨-١١ ص)",
     "google_maps_url": "https://maps.google.com/?q=Batis+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=400&h=300&fit=crop",
+    "category_ar": "حلويات"
   },
   {
     "id": "crumbs-riyadh",
@@ -5575,7 +5680,8 @@
     ],
     "best_time": "بعد الظهر (٢-٦ م)",
     "google_maps_url": "https://maps.google.com/?q=Crumbs+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=400&h=300&fit=crop",
+    "category_ar": "حلويات"
   },
   {
     "id": "scoopi-cafe",
@@ -5603,7 +5709,8 @@
     ],
     "best_time": "المساء (٦-١١ م)",
     "google_maps_url": "https://maps.google.com/?q=Scoopi+Cafe+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop",
+    "category_ar": "حلويات"
   },
   {
     "id": "baskin-robbins-riyadh",
@@ -5631,7 +5738,8 @@
     ],
     "best_time": "المساء",
     "google_maps_url": "https://maps.google.com/?q=Baskin+Robbins+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&h=300&fit=crop",
+    "category_ar": "حلويات"
   },
   {
     "id": "cinnabon-riyadh",
@@ -5659,7 +5767,8 @@
     ],
     "best_time": "أي وقت",
     "google_maps_url": "https://maps.google.com/?q=Cinnabon+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=400&h=300&fit=crop",
+    "category_ar": "حلويات"
   },
   {
     "id": "nothing-bundt-cakes",
@@ -5687,7 +5796,8 @@
     ],
     "best_time": "أي وقت",
     "google_maps_url": "https://maps.google.com/?q=Nothing+Bundt+Cakes+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=400&h=300&fit=crop",
+    "category_ar": "حلويات"
   },
   {
     "id": "dots-riyadh",
@@ -5715,7 +5825,8 @@
     ],
     "best_time": "الصباح (٨-١١ ص)",
     "google_maps_url": "https://maps.google.com/?q=Dots+Donuts+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop",
+    "category_ar": "حلويات"
   },
   {
     "id": "saadeddin",
@@ -5743,7 +5854,8 @@
     ],
     "best_time": "أي وقت",
     "google_maps_url": "https://maps.google.com/?q=Saadeddin+Pastry+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&h=300&fit=crop",
+    "category_ar": "حلويات"
   },
   {
     "id": "alromansiah-sweets",
@@ -5771,7 +5883,8 @@
     ],
     "best_time": "بعد الغداء أو العشاء",
     "google_maps_url": "https://maps.google.com/?q=AlRomansiah+Sweets+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=400&h=300&fit=crop",
+    "category_ar": "حلويات"
   },
   {
     "id": "holland-house",
@@ -5799,7 +5912,8 @@
     ],
     "best_time": "العصر (٣-٦ م)",
     "google_maps_url": "https://maps.google.com/?q=Holland+House+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=400&h=300&fit=crop",
+    "category_ar": "حلويات"
   },
   {
     "id": "baked-riyadh",
@@ -5827,7 +5941,8 @@
     ],
     "best_time": "الصباح (٨-١١ ص)",
     "google_maps_url": "https://maps.google.com/?q=Baked+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop",
+    "category_ar": "حلويات"
   },
   {
     "id": "dara-ice-cream",
@@ -5855,7 +5970,8 @@
     ],
     "best_time": "المساء (٦-١٠ م)",
     "google_maps_url": "https://maps.google.com/?q=Dara+Ice+Cream+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&h=300&fit=crop",
+    "category_ar": "حلويات"
   },
   {
     "id": "maestro-desserts",
@@ -5883,7 +5999,8 @@
     ],
     "best_time": "أي وقت",
     "google_maps_url": "https://maps.google.com/?q=Maestro+Pizza+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=400&h=300&fit=crop",
+    "category_ar": "حلويات"
   },
   {
     "id": "tala-v2",
@@ -5911,7 +6028,8 @@
     ],
     "best_time": "العصر (٣-٦ م)",
     "google_maps_url": "https://maps.google.com/?q=Tala+Cafe+Muruj+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1498804103079-a6351b050096?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1498804103079-a6351b050096?w=400&h=300&fit=crop",
+    "category_ar": "كافيه"
   },
   {
     "id": "al-baik-exit5",
@@ -5939,7 +6057,8 @@
     ],
     "best_time": "تجنب الذروة (١-٣ م)",
     "google_maps_url": "https://maps.google.com/?q=AlBaik+Exit+5+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "al-baik-kafd",
@@ -5967,7 +6086,8 @@
     ],
     "best_time": "أيام الأسبوع",
     "google_maps_url": "https://maps.google.com/?q=AlBaik+KAFD+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "riyadh-front",
@@ -5995,7 +6115,8 @@
     ],
     "best_time": "أيام الأسبوع المساء",
     "google_maps_url": "https://maps.google.com/?q=Riyadh+Front",
-    "image_url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "al-musmak-fort",
@@ -6023,7 +6144,8 @@
     ],
     "best_time": "الصباح",
     "google_maps_url": "https://maps.google.com/?q=Al+Masmak+Fort+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1472457897821-70d138470871?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1472457897821-70d138470871?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "souq-al-zal",
@@ -6051,7 +6173,8 @@
     ],
     "best_time": "الجمعة صباحاً",
     "google_maps_url": "https://maps.google.com/?q=Souq+Al+Zal+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1519567241046-7f570764ea29?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1519567241046-7f570764ea29?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "souq-al-thumairi",
@@ -6079,7 +6202,8 @@
     ],
     "best_time": "الصباح أو العصر",
     "google_maps_url": "https://maps.google.com/?q=Souq+Al+Thumairi+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "al-ahsa-road",
@@ -6107,7 +6231,8 @@
     ],
     "best_time": "الغداء (١٢-٣ م)",
     "google_maps_url": "https://maps.google.com/?q=Al+Ahsa+Road+Restaurants+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop",
+    "category_ar": "مطعم"
   },
   {
     "id": "olaya-street",
@@ -6135,7 +6260,8 @@
     ],
     "best_time": "المساء",
     "google_maps_url": "https://maps.google.com/?q=Olaya+Street+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "tahlia-street",
@@ -6163,7 +6289,8 @@
     ],
     "best_time": "المساء (٦-١١ م)",
     "google_maps_url": "https://maps.google.com/?q=Tahlia+Street+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55acc?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55acc?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "batha-market",
@@ -6191,7 +6318,8 @@
     ],
     "best_time": "الصباح",
     "google_maps_url": "https://maps.google.com/?q=Batha+Market+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1519567241046-7f570764ea29?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1519567241046-7f570764ea29?w=400&h=300&fit=crop",
+    "category_ar": "تسوق"
   },
   {
     "id": "king-fahd-library",
@@ -6219,7 +6347,8 @@
     ],
     "best_time": "الصباح",
     "google_maps_url": "https://maps.google.com/?q=King+Fahd+National+Library+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "ad-diriyah-gate",
@@ -6247,7 +6376,8 @@
     ],
     "best_time": "المساء",
     "google_maps_url": "https://maps.google.com/?q=Diriyah+Gate+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "ithra-art-gallery",
@@ -6275,7 +6405,8 @@
     ],
     "best_time": "أي وقت خلال ساعات العمل",
     "google_maps_url": "https://maps.google.com/?q=Art+Gallery+KAFD+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "nojoom-al-riyadh",
@@ -6303,7 +6434,8 @@
     ],
     "best_time": "أيام الأسبوع",
     "google_maps_url": "https://maps.google.com/?q=Nojoom+Al+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "boulevard-world",
@@ -6331,7 +6463,8 @@
     ],
     "best_time": "أيام الأسبوع",
     "google_maps_url": "https://maps.google.com/?q=Boulevard+World+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1472457897821-70d138470871?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1472457897821-70d138470871?w=400&h=300&fit=crop",
+    "category_ar": "ترفيه"
   },
   {
     "id": "wadi-hanifah-dam",
@@ -6359,7 +6492,8 @@
     ],
     "best_time": "المغرب",
     "google_maps_url": "https://maps.google.com/?q=Wadi+Hanifah+Dam+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   },
   {
     "id": "prince-sultan-park",
@@ -6387,6 +6521,7 @@
     ],
     "best_time": "المغرب",
     "google_maps_url": "https://maps.google.com/?q=Prince+Sultan+Park+Riyadh",
-    "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop"
+    "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop",
+    "category_ar": "طبيعة"
   }
 ]

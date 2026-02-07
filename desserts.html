@@ -4,15 +4,15 @@
   <meta charset="UTF-8">
   <meta name="google-site-verification" content="fsoLYFcBn1bK30V4OvI0U5U78wsZx4LcBG8ADB28QXU" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>أنشطة وأماكن ترفيه بالرياض 2025-2026 | تقييمات قوقل | وين نروح</title>
-  <meta name="description" content="اكتشف أفضل الأماكن الترفيهية والسياحية في الرياض 2025-2026 مع تقييمات قوقل الحقيقية. بوليفارد الرياض، حافة العالم، الدرعية والمزيد.">
-  <meta name="keywords" content="أنشطة الرياض, ترفيه الرياض, أماكن سياحية الرياض, تقييمات أماكن الرياض, بوليفارد, حافة العالم, 2025, 2026">
+  <title>أفضل حلويات الرياض 2025-2026 | تقييمات قوقل وآراء حقيقية | وين نروح</title>
+  <meta name="description" content="اكتشف أفضل محلات الحلويات في الرياض 2025-2026 مع تقييمات قوقل الحقيقية. كيك، دونات، آيسكريم وحلويات شرقية وغربية مع آراء الزوار.">
+  <meta name="keywords" content="حلويات الرياض, أفضل حلويات الرياض, كيك الرياض, دونات الرياض, آيسكريم الرياض, تقييمات حلويات الرياض, 2025, 2026">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://wain-nrooh.com/activities.html">
+  <link rel="canonical" href="https://wain-nrooh.com/desserts.html">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="أنشطة وأماكن ترفيه بالرياض 2025-2026 مع تقييمات قوقل | وين نروح">
-  <meta property="og:description" content="اكتشف أفضل الأماكن الترفيهية والسياحية في الرياض مع تقييمات وآراء حقيقية.">
-  <meta property="og:url" content="https://wain-nrooh.com/activities.html">
+  <meta property="og:title" content="أفضل حلويات الرياض 2025-2026 مع تقييمات قوقل | وين نروح بالرياض؟">
+  <meta property="og:description" content="اكتشف أفضل محلات الحلويات في الرياض مع تقييمات وآراء حقيقية من قوقل.">
+  <meta property="og:url" content="https://wain-nrooh.com/desserts.html">
   <meta property="og:locale" content="ar_SA">
   <link rel="stylesheet" href="css/style.css">
 </head>
@@ -26,10 +26,10 @@
         <a href="index.html">الرئيسية</a>
         <a href="cafes.html">كافيهات</a>
         <a href="restaurants.html">مطاعم</a>
-        <a href="activities.html" class="active">ترفيه</a>
+        <a href="activities.html">ترفيه</a>
         <a href="shopping.html">تسوق</a>
         <a href="nature.html">طبيعة</a>
-        <a href="desserts.html">حلويات</a>
+        <a href="desserts.html" class="active">حلويات</a>
         <a href="events.html">فعاليات</a>
         <a href="new-places.html">أماكن جديدة</a>
       </nav>
@@ -37,31 +37,31 @@
   </header>
 
   <section class="page-header">
-    <h2>أنشطة وترفيه في <span>الرياض</span> 2025-2026</h2>
-    <p>معالم سياحية وأماكن ترفيهية مع تقييمات قوقل وآراء الزوار الحقيقية</p>
+    <h2>أفضل حلويات <span>الرياض</span> 2025-2026</h2>
+    <p>🍰 اكتشف أفضل محلات الحلويات مع تقييمات قوقل وآراء الزوار الحقيقية</p>
   </section>
 
   <div class="breadcrumb">
-    <a href="index.html">الرئيسية</a><span>›</span><strong>ترفيه وأنشطة</strong>
+    <a href="index.html">الرئيسية</a><span>›</span><strong>حلويات الرياض</strong>
   </div>
 
   <div class="main-layout">
     <main class="main-content">
       <div class="section-title">
         <div>
-          <h2>ترفيه وأنشطة</h2>
-          <span class="subtitle">أفضل 15 مكان ترفيهي وسياحي مع تقييمات قوقل</span>
+          <h2>🍰 حلويات الرياض</h2>
+          <span class="subtitle">أفضل الحلويات مع تقييمات قوقل وآراء حقيقية</span>
         </div>
       </div>
 
       <div id="sort-filter-container"></div>
-      <div id="activities-container"></div>
+      <div id="desserts-container"></div>
     </main>
 
     <aside class="sidebar">
       <div class="widget">
-        <h3>أعلى الأنشطة تقييماً</h3>
-        <div id="top-activities-sidebar"></div>
+        <h3>أفضل الحلويات</h3>
+        <div id="top-desserts-sidebar"></div>
       </div>
     </aside>
   </div>
@@ -105,25 +105,25 @@
   <script>
     document.addEventListener('DOMContentLoaded', async () => {
       const allPlaces = await loadPlaces();
-      const activities = allPlaces.filter(p => p.category === 'activity');
-      const container = document.getElementById('activities-container');
+      const desserts = allPlaces.filter(p => p.category === 'حلويات');
+      const container = document.getElementById('desserts-container');
       const sortFilterContainer = document.getElementById('sort-filter-container');
-      const topSidebar = document.getElementById('top-activities-sidebar');
+      const topSidebar = document.getElementById('top-desserts-sidebar');
 
-      const neighborhoods = getNeighborhoods(activities);
-      sortFilterContainer.innerHTML = generateSortFilterBar(activities.length, neighborhoods, { showCategory: false });
-      renderCardsWithAds(sortPlaces(activities, 'rating-desc'), container);
-      initSortFilter(activities, container, sortFilterContainer.querySelector('.results-count'));
+      const neighborhoods = getNeighborhoods(desserts);
+      sortFilterContainer.innerHTML = generateSortFilterBar(desserts.length, neighborhoods, { showCategory: false });
+      renderCardsWithAds(sortPlaces(desserts, 'rating-desc'), container);
+      initSortFilter(desserts, container, sortFilterContainer.querySelector('.results-count'));
 
-      const topA = [...activities].sort((a, b) => b.google_rating - a.google_rating).slice(0, 5);
+      const topD = [...desserts].sort((a, b) => b.google_rating - a.google_rating).slice(0, 5);
       let html = '<ul class="trending-list">';
-      topA.forEach((a, i) => {
-        html += `<li><span class="rank">${i+1}</span><div style="flex:1;min-width:0;"><a href="place.html?id=${a.id}" style="font-weight:600;">${a.name_ar}</a><div style="font-size:12px;color:var(--text-muted);">⭐ ${a.google_rating} · ${formatNumber(a.review_count)} تقييم</div></div></li>`;
+      topD.forEach((c, i) => {
+        html += `<li><span class="rank">${i+1}</span><div style="flex:1;min-width:0;"><a href="place.html?id=${c.id}" style="font-weight:600;">${c.name_ar}</a><div style="font-size:12px;color:var(--text-muted);">⭐ ${c.google_rating} · ${formatNumber(c.review_count)} تقييم</div></div></li>`;
       });
       html += '</ul>';
       topSidebar.innerHTML = html;
 
-      activities.forEach(a => addSchemaToPage(generateSchemaMarkup(a)));
+      desserts.forEach(c => addSchemaToPage(generateSchemaMarkup(c)));
     });
   </script>
 <script src="js/analytics.js"></script>
