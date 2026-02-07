@@ -14,6 +14,8 @@
   <meta property="og:description" content="اكتشف أفضل 25 كافيه في الرياض مع تقييمات وآراء حقيقية من قوقل.">
   <meta property="og:url" content="https://wain-nrooh.com/cafes.html">
   <meta property="og:locale" content="ar_SA">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0a1628">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -33,6 +35,8 @@
         <a href="events.html">فعاليات</a>
         <a href="trending.html">هابّ الحين 🔥</a>
         <a href="new-places.html">أماكن جديدة</a>
+        <a href="map.html">🗺️ الخريطة</a>
+        <a href="favorites.html">❤️ المفضلة</a>
       </nav>
     </div>
   </header>
@@ -108,7 +112,7 @@
   <script>
     document.addEventListener('DOMContentLoaded', async () => {
       const allPlaces = await loadPlaces();
-      const cafes = allPlaces.filter(p => p.category === 'cafe');
+      const cafes = allPlaces.filter(p => p.category === 'كافيه');
       const container = document.getElementById('cafes-container');
       const sortFilterContainer = document.getElementById('sort-filter-container');
       const topCafesSidebar = document.getElementById('top-cafes-sidebar');

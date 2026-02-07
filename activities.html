@@ -14,6 +14,8 @@
   <meta property="og:description" content="اكتشف أفضل الأماكن الترفيهية والسياحية في الرياض مع تقييمات وآراء حقيقية.">
   <meta property="og:url" content="https://wain-nrooh.com/activities.html">
   <meta property="og:locale" content="ar_SA">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0a1628">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -33,6 +35,8 @@
         <a href="events.html">فعاليات</a>
         <a href="trending.html">هابّ الحين 🔥</a>
         <a href="new-places.html">أماكن جديدة</a>
+        <a href="map.html">🗺️ الخريطة</a>
+        <a href="favorites.html">❤️ المفضلة</a>
       </nav>
     </div>
   </header>
@@ -108,7 +112,7 @@
   <script>
     document.addEventListener('DOMContentLoaded', async () => {
       const allPlaces = await loadPlaces();
-      const activities = allPlaces.filter(p => p.category === 'activity');
+      const activities = allPlaces.filter(p => p.category === 'ترفيه');
       const container = document.getElementById('activities-container');
       const sortFilterContainer = document.getElementById('sort-filter-container');
       const topSidebar = document.getElementById('top-activities-sidebar');

@@ -18,6 +18,8 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="وين نروح بالرياض؟ - أفضل أماكن الرياض 2025-2026">
   <meta name="twitter:description" content="دليلك الشامل لأفضل الكافيهات والمطاعم والأماكن الترفيهية في الرياض.">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0a1628">
   <link rel="stylesheet" href="css/style.css">
   <script type="application/ld+json">
   {
@@ -53,6 +55,8 @@
         <a href="events.html">فعاليات</a>
         <a href="trending.html">هابّ الحين 🔥</a>
         <a href="new-places.html">أماكن جديدة</a>
+        <a href="map.html">🗺️ الخريطة</a>
+        <a href="favorites.html">❤️ المفضلة</a>
       </nav>
     </div>
   </header>
@@ -193,7 +197,11 @@
       const trendingSidebar = document.getElementById('trending-sidebar');
 
       const neighborhoods = getNeighborhoods(places);
-      sortFilterContainer.innerHTML = generateSortFilterBar(places.length, neighborhoods);
+      const cuisines = getCuisines(places);
+      sortFilterContainer.innerHTML = generateSortFilterBar(places.length, neighborhoods, {
+        showCuisine: true,
+        cuisines: cuisines,
+      });
 
       renderCardsWithAds(sortPlaces(places, 'rating-desc'), container);
       initSortFilter(places, container, sortFilterContainer.querySelector('.results-count'));
