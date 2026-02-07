@@ -1,7 +1,7 @@
 // ===== وين نروح الرياض - Main JavaScript =====
 
-const categoryIcons = { cafe: '☕', restaurant: '🍽️', activity: '🎭', 'تسوق': '🛍️', 'طبيعة': '🏞️' };
-const categoryNames = { cafe: 'كافيه', restaurant: 'مطعم', activity: 'ترفيه', 'تسوق': 'تسوق', 'طبيعة': 'طبيعة' };
+const categoryIcons = { 'cafe': '☕', 'restaurant': '🍽️', 'activity': '🎭', 'تسوق': '🛍️', 'طبيعة': '🏞️', 'كافيه': '☕', 'مطعم': '🍽️', 'ترفيه': '🎭', 'حلويات': '🍰', 'فعاليات': '🎪' };
+const categoryNames = { 'cafe': 'كافيه', 'restaurant': 'مطعم', 'activity': 'ترفيه', 'تسوق': 'تسوق', 'طبيعة': 'طبيعة', 'كافيه': 'كافيه', 'مطعم': 'مطعم', 'ترفيه': 'ترفيه', 'حلويات': 'حلويات', 'فعاليات': 'فعاليات' };
 
 let placesData = [];
 
@@ -34,12 +34,12 @@ function generatePlaceCard(place) {
   return `
     <article class="place-card" data-category="${place.category}" data-id="${place.id}" data-neighborhood="${place.neighborhood}" data-price="${place.price_level}">
       <div class="place-card-image">
-        ${categoryIcons[place.category] || '📍'}
+        ${place.image_url ? `<img src="${place.image_url}" alt="${place.name_ar}" class="card-image" loading="lazy" onerror="this.style.display='none'">` : (categoryIcons[place.category] || '📍')}
         ${place.trending ? '<span class="trending-badge">🔥 رائج</span>' : ''}
         ${place.is_new ? '<span class="new-badge">جديد</span>' : ''}
       </div>
       <div class="place-card-body">
-        <span class="category-badge">${place.category_ar}</span>
+        <span class="category-badge">${categoryNames[place.category] || place.category}</span>
         <h3>${place.name_ar}</h3>
         <div class="neighborhood">${place.neighborhood}</div>
 
@@ -54,7 +54,7 @@ function generatePlaceCard(place) {
           </div>
         </div>
 
-        <div class="review-quote-line">${place.review_quote}</div>
+        <div class="review-quote-line">${place.review_quote_ar || place.review_quote || ''}</div>
 
         <span class="price-range">${place.price_level}</span>
         <div class="card-actions">
@@ -205,7 +205,7 @@ function searchPlaces(query) {
   return placesData.filter(p =>
     p.name_ar.includes(q) || p.name_en.toLowerCase().includes(q) ||
     p.description_ar.includes(q) || p.neighborhood.includes(q) ||
-    p.category_ar.includes(q) || (p.review_quote && p.review_quote.includes(q))
+    (categoryNames[p.category] || p.category || '').includes(q) || (p.review_quote_ar || p.review_quote || '').includes(q)
   );
 }
 

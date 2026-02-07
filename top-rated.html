@@ -134,7 +134,7 @@
               <span class="top-rated-rank ${rankClasses[i]}">${i + 1}</span>
             </div>
             <div class="place-card-image">
-              ${categoryIcons[place.category] || '📍'}
+              ${place.image_url ? `<img src="${place.image_url}" alt="${place.name_ar}" class="card-image" loading="lazy" onerror="this.style.display='none'">` : (categoryIcons[place.category] || '📍')}
               <span class="trending-badge">${rankEmojis[i]} #${i + 1}</span>
             </div>
             <div class="place-card-body">

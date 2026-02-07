@@ -81,7 +81,7 @@
 
   <script src="js/main.js"></script>
   <script>
-    const categoryPages = { cafe: 'cafes.html', restaurant: 'restaurants.html', activity: 'activities.html', 'تسوق': 'shopping.html', 'طبيعة': 'nature.html' };
+    const categoryPages = { 'cafe': 'cafes.html', 'restaurant': 'restaurants.html', 'activity': 'activities.html', 'تسوق': 'shopping.html', 'طبيعة': 'nature.html', 'كافيه': 'cafes.html', 'مطعم': 'restaurants.html', 'ترفيه': 'activities.html', 'حلويات': 'shopping.html', 'فعاليات': 'activities.html' };
 
     document.addEventListener('DOMContentLoaded', async () => {
       const allPlaces = await loadPlaces();
@@ -103,7 +103,7 @@
       document.getElementById('og-url').content = `https://wain-nrooh.com/place.html?id=${place.id}`;
 
       // Breadcrumb
-      document.getElementById('breadcrumb-category').innerHTML = `<a href="${categoryPages[place.category] || 'index.html'}">${place.category_ar || place.category}</a>`;
+      document.getElementById('breadcrumb-category').innerHTML = `<a href="${categoryPages[place.category] || 'index.html'}">${categoryNames[place.category] || place.category || place.category}</a>`;
       document.getElementById('breadcrumb-place').textContent = place.name_ar;
 
       // Main detail
@@ -122,7 +122,7 @@
             <div class="meta">
               <span>📍 ${place.neighborhood}</span>
               <span>💰 ${place.price_level}</span>
-              <span>📂 ${place.category_ar || place.category}</span>
+              <span>📂 ${categoryNames[place.category] || place.category || place.category}</span>
             </div>
 
             <div class="card-rating-block" style="margin:14px 0 18px;padding:14px 16px;">
@@ -136,7 +136,7 @@
               </div>
             </div>
 
-            <div class="review-quote-line" style="font-size:15px;padding:10px 14px;margin-bottom:18px;">${place.review_quote}</div>
+            <div class="review-quote-line" style="font-size:15px;padding:10px 14px;margin-bottom:18px;">${place.review_quote_ar || place.review_quote || ""}</div>
 
             <p class="full-description">${place.description_ar}</p>
 
@@ -145,7 +145,7 @@
               <p style="line-height:2;color:var(--text-light);">
                 ${place.name_ar} (${place.name_en}) يقع في ${place.neighborhood} بمدينة الرياض.
                 حاصل على تقييم ${place.google_rating} من 5 على قوقل من ${formatNumber(place.review_count)} تقييم حقيقي.
-                يعتبر من أفضل الأماكن في تصنيف "${place.category_ar || place.category}" بالرياض.
+                يعتبر من أفضل الأماكن في تصنيف "${categoryNames[place.category] || place.category || place.category}" بالرياض.
                 ${place.trending ? 'يعد حالياً من الأماكن الأكثر رواجاً وبحثاً في الرياض.' : ''}
                 ${place.is_new ? 'تم إضافته مؤخراً كمكان جديد في الرياض.' : ''}
                 ننصح بزيارته والاستمتاع بالتجربة الفريدة التي يقدمها.
@@ -157,13 +157,13 @@
             <div class="info-box">
               <h3>معلومات سريعة</h3>
               <div class="info-item"><span>الاسم</span><strong>${place.name_ar}</strong></div>
-              <div class="info-item"><span>التصنيف</span><strong>${place.category_ar || place.category}</strong></div>
+              <div class="info-item"><span>التصنيف</span><strong>${categoryNames[place.category] || place.category || place.category}</strong></div>
               <div class="info-item"><span>الحي</span><strong>${place.neighborhood}</strong></div>
               <div class="info-item"><span>تقييم قوقل</span><strong>⭐ ${place.google_rating} / 5</strong></div>
               <div class="info-item"><span>عدد التقييمات</span><strong>${formatNumber(place.review_count)}</strong></div>
               <div class="info-item"><span>مستوى الأسعار</span><strong>${place.price_level}</strong></div>
               <div class="info-item"><span>متوسط الإنفاق</span><strong>${place.avg_spend}</strong></div>
-              <div class="info-item"><span>أفضل وقت</span><strong>${place.best_time.split('—')[0]}</strong></div>
+              <div class="info-item"><span>أفضل وقت</span><strong>${(place.best_time || '').split('—')[0]}</strong></div>
               <div class="info-item"><span>الحالة</span><strong>${place.trending ? '🔥 رائج' : '✅ نشط'}</strong></div>
             </div>
 

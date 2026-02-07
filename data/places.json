@@ -37,7 +37,8 @@
     "best_time": "أيام الأسبوع الصباح (٨-١١ ص) — أقل ازدحاماً",
     "avg_spend": "٤٥-٧٥ ريال للشخص",
     "google_maps_url": "https://maps.google.com/?q=Elixir+Bunn+Riyadh",
-    "image_placeholder": "elixir-bunn.jpg"
+    "image_placeholder": "elixir-bunn.jpg",
+    "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop"
   },
   {
     "id": "barns",
@@ -77,7 +78,8 @@
     "best_time": "بعد العصر (٤-٦ م) — أجواء حلوة",
     "avg_spend": "٣٥-٦٠ ريال للشخص",
     "google_maps_url": "https://maps.google.com/?q=Barns+Coffee+Riyadh",
-    "image_placeholder": "barns.jpg"
+    "image_placeholder": "barns.jpg",
+    "image_url": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=400&h=300&fit=crop"
   },
   {
     "id": "dose",
@@ -117,7 +119,8 @@
     "best_time": "وقت الفطور (٨-١١ ص) — لازم تجرب",
     "avg_spend": "٥٠-٨٥ ريال للشخص",
     "google_maps_url": "https://maps.google.com/?q=Dose+Cafe+Riyadh",
-    "image_placeholder": "dose.jpg"
+    "image_placeholder": "dose.jpg",
+    "image_url": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?w=400&h=300&fit=crop"
   },
   {
     "id": "volume",
@@ -157,7 +160,8 @@
     "best_time": "أيام الأسبوع المسائية — هدوء تام",
     "avg_spend": "٤٠-٦٥ ريال للشخص",
     "google_maps_url": "https://maps.google.com/?q=Volume+Cafe+Riyadh",
-    "image_placeholder": "volume.jpg"
+    "image_placeholder": "volume.jpg",
+    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=300&fit=crop"
   },
   {
     "id": "cup-and-couch",
@@ -197,7 +201,8 @@
     "best_time": "بعد الظهر (٢-٥ م) — مناسب للعائلات",
     "avg_spend": "٣٥-٥٥ ريال للشخص",
     "google_maps_url": "https://maps.google.com/?q=Cup+and+Couch+Riyadh",
-    "image_placeholder": "cup-and-couch.jpg"
+    "image_placeholder": "cup-and-couch.jpg",
+    "image_url": "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?w=400&h=300&fit=crop"
   },
   {
     "id": "five-elephants",
@@ -237,7 +242,8 @@
     "best_time": "الصباح الباكر (٧-٩ ص) — قبل الزحمة",
     "avg_spend": "٥٥-٩٠ ريال للشخص",
     "google_maps_url": "https://maps.google.com/?q=Five+Elephants+Riyadh",
-    "image_placeholder": "five-elephants.jpg"
+    "image_placeholder": "five-elephants.jpg",
+    "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=400&h=300&fit=crop"
   },
   {
     "id": "kava-and-chai",
@@ -277,7 +283,8 @@
     "best_time": "العصر (٤-٧ م) — وقت الشاي المثالي",
     "avg_spend": "٤٠-٦٥ ريال للشخص",
     "google_maps_url": "https://maps.google.com/?q=Kava+and+Chai+Riyadh",
-    "image_placeholder": "kava-and-chai.jpg"
+    "image_placeholder": "kava-and-chai.jpg",
+    "image_url": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=400&h=300&fit=crop"
   },
   {
     "id": "flat-white",
@@ -317,7 +324,8 @@
     "best_time": "الصباح (٨-١٠ ص) — هدوء وقهوة",
     "avg_spend": "٣٥-٥٥ ريال للشخص",
     "google_maps_url": "https://maps.google.com/?q=Flat+White+Specialty+Coffee+Riyadh",
-    "image_placeholder": "flat-white.jpg"
+    "image_placeholder": "flat-white.jpg",
+    "image_url": "https://images.unsplash.com/photo-1498804103079-a6351b050096?w=400&h=300&fit=crop"
   },
   {
     "id": "the-roasting-house",
@@ -357,7 +365,8 @@
     "best_time": "الصباح (٩-١١ ص) — تشوف عملية التحميص",
     "avg_spend": "٤٠-٦٥ ريال للشخص",
     "google_maps_url": "https://maps.google.com/?q=The+Roasting+House+Riyadh",
-    "image_placeholder": "the-roasting-house.jpg"
+    "image_placeholder": "the-roasting-house.jpg",
+    "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop"
   },
   {
     "id": "camel-step",
@@ -397,7 +406,8 @@
     "best_time": "العصر والمساء (٤-٩ م)",
     "avg_spend": "٤٠-٧٠ ريال للشخص",
     "google_maps_url": "https://maps.google.com/?q=Camel+Step+Coffee+Riyadh",
-    "image_placeholder": "camel-step.jpg"
+    "image_placeholder": "camel-step.jpg",
+    "image_url": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=400&h=300&fit=crop"
   },
   {
     "id": "urth-caffe",
@@ -436,7 +446,8 @@
     ],
     "best_time": "الفطور والبرانش (٩-١٢ ص)",
     "avg_spend": "٦٠-١٠٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Urth+Caffe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Urth+Caffe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?w=400&h=300&fit=crop"
   },
   {
     "id": "percent-arabica",
@@ -475,7 +486,8 @@
     ],
     "best_time": "الصباح (٨-١٠ ص) — أقل ازدحاماً",
     "avg_spend": "٣٥-٦٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=%25+Arabica+Riyadh+KAFD"
+    "google_maps_url": "https://maps.google.com/?q=%25+Arabica+Riyadh+KAFD",
+    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=300&fit=crop"
   },
   {
     "id": "mokha-1450",
@@ -514,7 +526,8 @@
     ],
     "best_time": "العصر (٣-٦ م) — أجواء هادئة",
     "avg_spend": "٥٠-٨٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Mokha+1450+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Mokha+1450+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?w=400&h=300&fit=crop"
   },
   {
     "id": "blue-muze",
@@ -553,7 +566,8 @@
     ],
     "best_time": "المساء (٦-١٠ م) — الإضاءة المسائية أحلى",
     "avg_spend": "٤٥-٧٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Blue+Muze+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Blue+Muze+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=400&h=300&fit=crop"
   },
   {
     "id": "nabt",
@@ -592,7 +606,8 @@
     ],
     "best_time": "الصباح (٨-١١ ص)",
     "avg_spend": "٣٥-٥٥ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Nabt+Coffee+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Nabt+Coffee+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=400&h=300&fit=crop"
   },
   {
     "id": "specialty-batch",
@@ -631,7 +646,8 @@
     ],
     "best_time": "الصباح (٩-١٢ ص) — تذوق الأصناف الجديدة",
     "avg_spend": "٥٠-٨٥ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Specialty+Batch+Coffee+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Specialty+Batch+Coffee+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1498804103079-a6351b050096?w=400&h=300&fit=crop"
   },
   {
     "id": "saddle",
@@ -670,7 +686,8 @@
     ],
     "best_time": "العصر (٣-٦ م)",
     "avg_spend": "٦٠-١٠٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Saddle+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Saddle+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop"
   },
   {
     "id": "12-cups",
@@ -709,7 +726,8 @@
     ],
     "best_time": "الصباح (٧-١٠ ص)",
     "avg_spend": "٢٥-٤٥ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=12+Cups+Coffee+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=12+Cups+Coffee+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=400&h=300&fit=crop"
   },
   {
     "id": "kyan",
@@ -748,7 +766,8 @@
     ],
     "best_time": "أيام الأسبوع (٩ ص - ٣ م)",
     "avg_spend": "٣٥-٦٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Kyan+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Kyan+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?w=400&h=300&fit=crop"
   },
   {
     "id": "bricks",
@@ -787,7 +806,8 @@
     ],
     "best_time": "العصر (٤-٧ م)",
     "avg_spend": "٣٠-٥٥ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Bricks+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Bricks+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=300&fit=crop"
   },
   {
     "id": "stories-cafe",
@@ -826,7 +846,8 @@
     ],
     "best_time": "أيام الأسبوع المساء (٥-٩ م)",
     "avg_spend": "٣٥-٦٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Stories+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Stories+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?w=400&h=300&fit=crop"
   },
   {
     "id": "tala",
@@ -865,7 +886,8 @@
     ],
     "best_time": "بعد الظهر (٢-٥ م)",
     "avg_spend": "٥٠-٩٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Tala+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Tala+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=400&h=300&fit=crop"
   },
   {
     "id": "bafarat",
@@ -904,7 +926,8 @@
     ],
     "best_time": "المساء (٧-١٠ م) — الشوكولاتة الساخنة ألذ",
     "avg_spend": "٣٠-٥٥ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Bafarat+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Bafarat+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=400&h=300&fit=crop"
   },
   {
     "id": "harvest",
@@ -943,7 +966,8 @@
     ],
     "best_time": "الفطور (٨-١١ ص)",
     "avg_spend": "٥٥-٩٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Harvest+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Harvest+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1498804103079-a6351b050096?w=400&h=300&fit=crop"
   },
   {
     "id": "cacao",
@@ -982,7 +1006,8 @@
     ],
     "best_time": "المساء (٥-٩ م)",
     "avg_spend": "٤٠-٧٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Cacao+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Cacao+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop"
   },
   {
     "id": "takya",
@@ -1021,7 +1046,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م) — احجز مسبقاً",
     "avg_spend": "١٢٠-٢٠٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Takya+Restaurant+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Takya+Restaurant+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop"
   },
   {
     "id": "lpm",
@@ -1060,7 +1086,8 @@
     ],
     "best_time": "العشاء (٨-١١ م) — الأجواء ممتازة بالليل",
     "avg_spend": "٢٥٠-٤٥٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=LPM+Restaurant+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=LPM+Restaurant+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=400&h=300&fit=crop"
   },
   {
     "id": "sushi-samba",
@@ -1099,7 +1126,8 @@
     ],
     "best_time": "العشاء (٨-١١ م) — الإطلالة بالليل خرافية",
     "avg_spend": "٣٠٠-٥٠٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Sushi+Samba+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Sushi+Samba+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop"
   },
   {
     "id": "nusr-et",
@@ -1138,7 +1166,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م) — الجو حلو",
     "avg_spend": "٤٠٠-٨٠٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Nusr-Et+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Nusr-Et+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=300&fit=crop"
   },
   {
     "id": "the-globe",
@@ -1177,7 +1206,8 @@
     ],
     "best_time": "العشاء وقت الغروب (٥-٧ م) — منظر لا يُنسى",
     "avg_spend": "٢٠٠-٤٠٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=The+Globe+Faisaliah+Tower+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=The+Globe+Faisaliah+Tower+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=400&h=300&fit=crop"
   },
   {
     "id": "mama-noura",
@@ -1216,7 +1246,8 @@
     ],
     "best_time": "أي وقت — مفتوح لساعات طويلة",
     "avg_spend": "٢٠-٤٥ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Mama+Noura+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Mama+Noura+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop"
   },
   {
     "id": "al-baik",
@@ -1255,7 +1286,8 @@
     ],
     "best_time": "تجنب وقت الذروة (١٢-٢ م) — الطابور يطول",
     "avg_spend": "١٥-٣٥ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Al+Baik+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Al+Baik+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400&h=300&fit=crop"
   },
   {
     "id": "lusin",
@@ -1294,7 +1326,8 @@
     ],
     "best_time": "الغداء أو العشاء — احجز مسبقاً دائماً",
     "avg_spend": "١٥٠-٢٥٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Lusin+Restaurant+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Lusin+Restaurant+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=300&fit=crop"
   },
   {
     "id": "nozomi",
@@ -1333,7 +1366,8 @@
     ],
     "best_time": "العشاء (٨-١٠ م) — أجواء يابانية أصيلة",
     "avg_spend": "٢٥٠-٤٥٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Nozomi+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Nozomi+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop"
   },
   {
     "id": "centro",
@@ -1372,7 +1406,8 @@
     ],
     "best_time": "الغداء أو العشاء المبكر (٦-٨ م)",
     "avg_spend": "١٠٠-١٨٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Centro+Restaurant+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Centro+Restaurant+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=400&h=300&fit=crop"
   },
   {
     "id": "zuma",
@@ -1411,7 +1446,8 @@
     ],
     "best_time": "العشاء (٨-١١ م)",
     "avg_spend": "٣٥٠-٦٠٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Zuma+Riyadh+KAFD"
+    "google_maps_url": "https://maps.google.com/?q=Zuma+Riyadh+KAFD",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop"
   },
   {
     "id": "nobu",
@@ -1450,7 +1486,8 @@
     ],
     "best_time": "العشاء (٨-١١ م)",
     "avg_spend": "٤٠٠-٧٠٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Nobu+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Nobu+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=300&fit=crop"
   },
   {
     "id": "cipriani",
@@ -1489,7 +1526,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م)",
     "avg_spend": "٣٠٠-٥٥٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Cipriani+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Cipriani+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=400&h=300&fit=crop"
   },
   {
     "id": "beefbar",
@@ -1528,7 +1566,8 @@
     ],
     "best_time": "العشاء (٨-١١ م)",
     "avg_spend": "٣٥٠-٦٥٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Beefbar+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Beefbar+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop"
   },
   {
     "id": "stk",
@@ -1567,7 +1606,8 @@
     ],
     "best_time": "العشاء (٨-١١ م)",
     "avg_spend": "٢٥٠-٤٥٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=STK+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=STK+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400&h=300&fit=crop"
   },
   {
     "id": "hashi",
@@ -1606,7 +1646,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م)",
     "avg_spend": "٢٠٠-٣٥٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Hashi+Restaurant+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Hashi+Restaurant+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=300&fit=crop"
   },
   {
     "id": "wakame",
@@ -1645,7 +1686,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م)",
     "avg_spend": "١٥٠-٢٨٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Wakame+Restaurant+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Wakame+Restaurant+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop"
   },
   {
     "id": "myazu",
@@ -1684,7 +1726,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م)",
     "avg_spend": "٢٠٠-٤٠٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Myazu+Restaurant+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Myazu+Restaurant+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=400&h=300&fit=crop"
   },
   {
     "id": "san-carlo",
@@ -1723,7 +1766,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م)",
     "avg_spend": "١٨٠-٣٥٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=San+Carlo+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=San+Carlo+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop"
   },
   {
     "id": "cut-by-wolfgang",
@@ -1762,7 +1806,8 @@
     ],
     "best_time": "العشاء (٨-١١ م)",
     "avg_spend": "٤٠٠-٧٠٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=CUT+by+Wolfgang+Puck+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=CUT+by+Wolfgang+Puck+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=300&fit=crop"
   },
   {
     "id": "em-sherif",
@@ -1801,7 +1846,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م)",
     "avg_spend": "١٨٠-٣٢٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Em+Sherif+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Em+Sherif+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=400&h=300&fit=crop"
   },
   {
     "id": "long-chim",
@@ -1840,7 +1886,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م)",
     "avg_spend": "١٥٠-٢٨٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Long+Chim+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Long+Chim+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop"
   },
   {
     "id": "la-petite-maison",
@@ -1879,7 +1926,8 @@
     ],
     "best_time": "الغداء أو العشاء — احجز مسبقاً",
     "avg_spend": "٣٠٠-٥٥٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=La+Petite+Maison+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=La+Petite+Maison+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400&h=300&fit=crop"
   },
   {
     "id": "scalini",
@@ -1918,7 +1966,8 @@
     ],
     "best_time": "العشاء (٧-١٠ م)",
     "avg_spend": "١٥٠-٢٨٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Scalini+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Scalini+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=300&fit=crop"
   },
   {
     "id": "white-robata",
@@ -1957,7 +2006,8 @@
     ],
     "best_time": "العشاء (٨-١١ م)",
     "avg_spend": "١٨٠-٣٢٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=White+Robata+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=White+Robata+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop"
   },
   {
     "id": "boulevard-riyadh",
@@ -1996,7 +2046,8 @@
     ],
     "best_time": "أيام الأسبوع (أحد-أربعاء) — أقل ازدحاماً",
     "avg_spend": "١٠٠-٣٠٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Boulevard+Riyadh+City"
+    "google_maps_url": "https://maps.google.com/?q=Boulevard+Riyadh+City",
+    "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&h=300&fit=crop"
   },
   {
     "id": "winter-wonderland",
@@ -2035,7 +2086,8 @@
     ],
     "best_time": "أيام الأسبوع — أقل زحمة وأكثر متعة",
     "avg_spend": "١٥٠-٤٠٠ ريال للعائلة",
-    "google_maps_url": "https://maps.google.com/?q=Winter+Wonderland+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Winter+Wonderland+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=400&h=300&fit=crop"
   },
   {
     "id": "national-museum",
@@ -2074,7 +2126,8 @@
     ],
     "best_time": "أيام الأسبوع الصباح — هدوء أكثر",
     "avg_spend": "١٠-٢٥ ريال",
-    "google_maps_url": "https://maps.google.com/?q=National+Museum+Saudi+Arabia+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=National+Museum+Saudi+Arabia+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop"
   },
   {
     "id": "riyadh-zoo",
@@ -2113,7 +2166,8 @@
     ],
     "best_time": "الشتاء والربيع — الجو مناسب للمشي",
     "avg_spend": "١٠-٣٠ ريال للعائلة",
-    "google_maps_url": "https://maps.google.com/?q=Riyadh+Zoo"
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Zoo",
+    "image_url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=400&h=300&fit=crop"
   },
   {
     "id": "via-riyadh",
@@ -2152,7 +2206,8 @@
     ],
     "best_time": "أيام الأسبوع المساء (٥-٩ م)",
     "avg_spend": "حسب التسوق والمطاعم",
-    "google_maps_url": "https://maps.google.com/?q=Via+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Via+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1472457897821-70d138470871?w=400&h=300&fit=crop"
   },
   {
     "id": "kingdom-tower",
@@ -2191,7 +2246,8 @@
     ],
     "best_time": "وقت الغروب (٤:٣٠-٦ م) — أفضل وقت للتصوير",
     "avg_spend": "٧٠-١٥٠ ريال (تذكرة الجسر + تسوق)",
-    "google_maps_url": "https://maps.google.com/?q=Kingdom+Centre+Tower+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Kingdom+Centre+Tower+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&h=300&fit=crop"
   },
   {
     "id": "diriyah",
@@ -2230,7 +2286,8 @@
     ],
     "best_time": "الشتاء والربيع — المشي ممتع بالجو المعتدل",
     "avg_spend": "مجاني - ٥٠ ريال",
-    "google_maps_url": "https://maps.google.com/?q=Diriyah+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Diriyah+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=400&h=300&fit=crop"
   },
   {
     "id": "riyadh-season",
@@ -2269,7 +2326,8 @@
     ],
     "best_time": "أيام الأسبوع — أقل ازدحاماً",
     "avg_spend": "١٠٠-٥٠٠ ريال حسب الفعالية",
-    "google_maps_url": "https://maps.google.com/?q=Riyadh+Season"
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Season",
+    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop"
   },
   {
     "id": "the-groves",
@@ -2308,7 +2366,8 @@
     ],
     "best_time": "المساء (٥-١٠ م)",
     "avg_spend": "١٥٠-٤٠٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=The+Groves+Diriyah"
+    "google_maps_url": "https://maps.google.com/?q=The+Groves+Diriyah",
+    "image_url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=400&h=300&fit=crop"
   },
   {
     "id": "bujairi-terrace",
@@ -2347,7 +2406,8 @@
     ],
     "best_time": "العشاء وقت الغروب",
     "avg_spend": "٢٠٠-٥٠٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Bujairi+Terrace+Diriyah"
+    "google_maps_url": "https://maps.google.com/?q=Bujairi+Terrace+Diriyah",
+    "image_url": "https://images.unsplash.com/photo-1472457897821-70d138470871?w=400&h=300&fit=crop"
   },
   {
     "id": "combat-field",
@@ -2386,7 +2446,8 @@
     ],
     "best_time": "العصر والمساء — الجو أبرد",
     "avg_spend": "١٠٠-٢٠٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Combat+Field+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Combat+Field+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&h=300&fit=crop"
   },
   {
     "id": "trampo",
@@ -2425,7 +2486,8 @@
     ],
     "best_time": "أيام الأسبوع — أقل ازدحاماً",
     "avg_spend": "٨٠-١٥٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=Trampo+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Trampo+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=400&h=300&fit=crop"
   },
   {
     "id": "ifly",
@@ -2464,7 +2526,8 @@
     ],
     "best_time": "أيام الأسبوع — حجز أسهل",
     "avg_spend": "١٥٠-٣٠٠ ريال للشخص",
-    "google_maps_url": "https://maps.google.com/?q=iFly+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=iFly+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop"
   },
   {
     "id": "kafd",
@@ -2503,7 +2566,8 @@
     ],
     "best_time": "المساء (٦-١١ م) — الإضاءة مبهرة",
     "avg_spend": "حسب المطاعم والأنشطة",
-    "google_maps_url": "https://maps.google.com/?q=King+Abdullah+Financial+District+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=King+Abdullah+Financial+District+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=400&h=300&fit=crop"
   },
   {
     "id": "riyadh-art",
@@ -2542,7 +2606,8 @@
     ],
     "best_time": "أي وقت — الأعمال دائمة ومؤقتة",
     "avg_spend": "مجاني",
-    "google_maps_url": "https://maps.google.com/?q=Riyadh+Art"
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Art",
+    "image_url": "https://images.unsplash.com/photo-1472457897821-70d138470871?w=400&h=300&fit=crop"
   },
   {
     "id": "kingdom-centre",
@@ -2569,7 +2634,8 @@
       "زحمة نهاية الأسبوع"
     ],
     "best_time": "المساء",
-    "google_maps_url": "https://maps.google.com/?q=Kingdom+Centre+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Kingdom+Centre+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop"
   },
   {
     "id": "al-faisaliah",
@@ -2596,7 +2662,8 @@
       "مواقف صعبة"
     ],
     "best_time": "المساء",
-    "google_maps_url": "https://maps.google.com/?q=Al+Faisaliah+Tower+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Al+Faisaliah+Tower+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=300&fit=crop"
   },
   {
     "id": "riyadh-park",
@@ -2623,7 +2690,8 @@
       "يحتاج وقت طويل"
     ],
     "best_time": "العصر",
-    "google_maps_url": "https://maps.google.com/?q=Riyadh+Park+Mall"
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Park+Mall",
+    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55acc?w=400&h=300&fit=crop"
   },
   {
     "id": "nakheel-mall",
@@ -2650,7 +2718,8 @@
       "زحمة الويكند"
     ],
     "best_time": "الظهر",
-    "google_maps_url": "https://maps.google.com/?q=Nakheel+Mall+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Nakheel+Mall+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1519567241046-7f570764ea29?w=400&h=300&fit=crop"
   },
   {
     "id": "panorama-mall",
@@ -2677,7 +2746,8 @@
       "فود كورت مزدحم"
     ],
     "best_time": "المساء",
-    "google_maps_url": "https://maps.google.com/?q=Panorama+Mall+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Panorama+Mall+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop"
   },
   {
     "id": "granada-centre",
@@ -2704,7 +2774,8 @@
       "خيارات محدودة"
     ],
     "best_time": "المساء",
-    "google_maps_url": "https://maps.google.com/?q=Granada+Centre+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Granada+Centre+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=300&fit=crop"
   },
   {
     "id": "riyadh-gallery",
@@ -2731,7 +2802,8 @@
       "يحتاج تجديد"
     ],
     "best_time": "العصر",
-    "google_maps_url": "https://maps.google.com/?q=Riyadh+Gallery+Mall"
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Gallery+Mall",
+    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55acc?w=400&h=300&fit=crop"
   },
   {
     "id": "hayat-mall",
@@ -2758,7 +2830,8 @@
       "تصميم عادي"
     ],
     "best_time": "المساء",
-    "google_maps_url": "https://maps.google.com/?q=Hayat+Mall+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Hayat+Mall+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1519567241046-7f570764ea29?w=400&h=300&fit=crop"
   },
   {
     "id": "the-avenues-riyadh",
@@ -2785,7 +2858,8 @@
       "لسا جديد"
     ],
     "best_time": "المساء",
-    "google_maps_url": "https://maps.google.com/?q=The+Avenues+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=The+Avenues+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop"
   },
   {
     "id": "diriyah-square",
@@ -2812,7 +2886,8 @@
       "أسعار مرتفعة جداً"
     ],
     "best_time": "المساء",
-    "google_maps_url": "https://maps.google.com/?q=Diriyah+Square+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Diriyah+Square+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=300&fit=crop"
   },
   {
     "id": "wadi-hanifah",
@@ -2839,7 +2914,8 @@
       "ازدحام الويكند"
     ],
     "best_time": "الصباح الباكر أو المغرب",
-    "google_maps_url": "https://maps.google.com/?q=Wadi+Hanifah+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Hanifah+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop"
   },
   {
     "id": "edge-of-the-world",
@@ -2866,7 +2942,8 @@
       "بعيد ساعتين عن الرياض"
     ],
     "best_time": "الشتاء - الصباح",
-    "google_maps_url": "https://maps.google.com/?q=Edge+of+the+World+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Edge+of+the+World+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop"
   },
   {
     "id": "red-sand-dunes",
@@ -2893,7 +2970,8 @@
       "لا توجد خدمات"
     ],
     "best_time": "قبل الغروب",
-    "google_maps_url": "https://maps.google.com/?q=Red+Sand+Dunes+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Red+Sand+Dunes+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=400&h=300&fit=crop"
   },
   {
     "id": "thumamah-park",
@@ -2920,7 +2998,8 @@
       "يحتاج تجهيزاتك"
     ],
     "best_time": "الشتاء",
-    "google_maps_url": "https://maps.google.com/?q=Thumamah+National+Park+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Thumamah+National+Park+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
   },
   {
     "id": "wadi-namar",
@@ -2947,7 +3026,8 @@
       "مواقف محدودة"
     ],
     "best_time": "المغرب",
-    "google_maps_url": "https://maps.google.com/?q=Wadi+Namar+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Namar+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop"
   },
   {
     "id": "dq-parks",
@@ -2974,7 +3054,8 @@
       "حر بالصيف"
     ],
     "best_time": "الصباح أو المغرب",
-    "google_maps_url": "https://maps.google.com/?q=Diplomatic+Quarter+Parks+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Diplomatic+Quarter+Parks+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop"
   },
   {
     "id": "king-salman-park",
@@ -3001,7 +3082,8 @@
       "المرحلة الأولى فقط"
     ],
     "best_time": "المساء",
-    "google_maps_url": "https://maps.google.com/?q=King+Salman+Park+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=King+Salman+Park+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=400&h=300&fit=crop"
   },
   {
     "id": "green-riyadh",
@@ -3028,7 +3110,8 @@
       "يحتاج وقت"
     ],
     "best_time": "الصباح",
-    "google_maps_url": "https://maps.google.com/?q=Green+Riyadh+Project"
+    "google_maps_url": "https://maps.google.com/?q=Green+Riyadh+Project",
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
   },
   {
     "id": "al-kharj-farms",
@@ -3055,7 +3138,8 @@
       "خدمات محدودة"
     ],
     "best_time": "الشتاء",
-    "google_maps_url": "https://maps.google.com/?q=Al+Kharj+Farms+Saudi"
+    "google_maps_url": "https://maps.google.com/?q=Al+Kharj+Farms+Saudi",
+    "image_url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop"
   },
   {
     "id": "hail-park",
@@ -3082,7 +3166,8 @@
       "مواقف صعبة"
     ],
     "best_time": "أيام الأسبوع - المغرب",
-    "google_maps_url": "https://maps.google.com/?q=Salam+Park+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Salam+Park+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop"
   },
   {
     "id": "brew92",
@@ -3109,7 +3194,8 @@
       "المواقف محدودة"
     ],
     "best_time": "الصباح (٨-١١ ص)",
-    "google_maps_url": "https://maps.google.com/?q=Brew92+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Brew92+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop"
   },
   {
     "id": "sulalat-coffee",
@@ -3136,7 +3222,8 @@
       "المكان صغير"
     ],
     "best_time": "الصباح (٩-١٢ ص)",
-    "google_maps_url": "https://maps.google.com/?q=Sulalat+Coffee+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Sulalat+Coffee+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=400&h=300&fit=crop"
   },
   {
     "id": "waken-cafe",
@@ -3163,7 +3250,8 @@
       "بارد من المكيف"
     ],
     "best_time": "أيام الأسبوع (٩ ص-٣ م)",
-    "google_maps_url": "https://maps.google.com/?q=Waken+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Waken+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?w=400&h=300&fit=crop"
   },
   {
     "id": "tobys-estate",
@@ -3190,7 +3278,8 @@
       "انتظار طويل الويكند"
     ],
     "best_time": "الفطور (٨-١١ ص)",
-    "google_maps_url": "https://maps.google.com/?q=Tobys+Estate+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Tobys+Estate+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=300&fit=crop"
   },
   {
     "id": "overdose-coffee",
@@ -3217,7 +3306,8 @@
       "المكان صغير"
     ],
     "best_time": "العصر (٤-٧ م)",
-    "google_maps_url": "https://maps.google.com/?q=Overdose+Coffee+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Overdose+Coffee+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?w=400&h=300&fit=crop"
   },
   {
     "id": "kofuku-cafe",
@@ -3244,7 +3334,8 @@
       "أسعار مرتفعة"
     ],
     "best_time": "الصباح (٩-١٢ ص)",
-    "google_maps_url": "https://maps.google.com/?q=Kofuku+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Kofuku+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=400&h=300&fit=crop"
   },
   {
     "id": "mugs-cafe",
@@ -3271,7 +3362,8 @@
       "جلسات محدودة"
     ],
     "best_time": "أي وقت",
-    "google_maps_url": "https://maps.google.com/?q=Mugs+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Mugs+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=400&h=300&fit=crop"
   },
   {
     "id": "origin-coffee",
@@ -3298,7 +3390,8 @@
       "المكان صغير"
     ],
     "best_time": "الصباح (٨-١١ ص)",
-    "google_maps_url": "https://maps.google.com/?q=Origin+Coffee+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Origin+Coffee+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1498804103079-a6351b050096?w=400&h=300&fit=crop"
   },
   {
     "id": "boot-cafe",
@@ -3325,7 +3418,8 @@
       "المواقف صعبة"
     ],
     "best_time": "بعد الظهر (٢-٥ م)",
-    "google_maps_url": "https://maps.google.com/?q=Boot+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Boot+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop"
   },
   {
     "id": "seven-cups",
@@ -3352,7 +3446,8 @@
       "يزدحم المساء"
     ],
     "best_time": "العصر (٤-٧ م)",
-    "google_maps_url": "https://maps.google.com/?q=Seven+Cups+Coffee+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Seven+Cups+Coffee+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=400&h=300&fit=crop"
   },
   {
     "id": "sidr-cafe",
@@ -3379,7 +3474,8 @@
       "بعيد عن وسط المدينة"
     ],
     "best_time": "المساء (٥-٩ م)",
-    "google_maps_url": "https://maps.google.com/?q=Sidr+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Sidr+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?w=400&h=300&fit=crop"
   },
   {
     "id": "dallah-cafe",
@@ -3406,7 +3502,8 @@
       "المكان يزدحم"
     ],
     "best_time": "العصر (٣-٦ م)",
-    "google_maps_url": "https://maps.google.com/?q=Dallah+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Dallah+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=300&fit=crop"
   },
   {
     "id": "alfulk-cafe",
@@ -3433,7 +3530,8 @@
       "بعيد"
     ],
     "best_time": "المساء (٦-١٠ م)",
-    "google_maps_url": "https://maps.google.com/?q=AlFulk+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=AlFulk+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?w=400&h=300&fit=crop"
   },
   {
     "id": "public-cafe",
@@ -3460,7 +3558,8 @@
       "الانتظار يطول"
     ],
     "best_time": "الفطور (٨-١١ ص)",
-    "google_maps_url": "https://maps.google.com/?q=Public+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Public+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=400&h=300&fit=crop"
   },
   {
     "id": "square-cafe",
@@ -3487,7 +3586,8 @@
       "خيارات أكل قليلة"
     ],
     "best_time": "الصباح (٩-١٢ ص)",
-    "google_maps_url": "https://maps.google.com/?q=Square+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Square+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=400&h=300&fit=crop"
   },
   {
     "id": "boxer-coffee",
@@ -3514,7 +3614,8 @@
       "موقع بعيد"
     ],
     "best_time": "الصباح (٧-١٠ ص)",
-    "google_maps_url": "https://maps.google.com/?q=Boxer+Coffee+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Boxer+Coffee+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1498804103079-a6351b050096?w=400&h=300&fit=crop"
   },
   {
     "id": "paper-cup",
@@ -3541,7 +3642,8 @@
       "القائمة بسيطة"
     ],
     "best_time": "الصباح (٦-٩ ص)",
-    "google_maps_url": "https://maps.google.com/?q=Paper+Cup+Coffee+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Paper+Cup+Coffee+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop"
   },
   {
     "id": "balance-cafe",
@@ -3568,7 +3670,8 @@
       "أسعار فوق المتوسط"
     ],
     "best_time": "الفطور (٨-١١ ص)",
-    "google_maps_url": "https://maps.google.com/?q=Balance+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Balance+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=400&h=300&fit=crop"
   },
   {
     "id": "dara-cafe",
@@ -3595,7 +3698,8 @@
       "خدمة بطيئة أحياناً"
     ],
     "best_time": "المساء (٦-١٠ م)",
-    "google_maps_url": "https://maps.google.com/?q=Dara+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Dara+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?w=400&h=300&fit=crop"
   },
   {
     "id": "drip-coffee",
@@ -3622,7 +3726,8 @@
       "بدون أكل"
     ],
     "best_time": "الصباح (٨-١١ ص)",
-    "google_maps_url": "https://maps.google.com/?q=Drip+Coffee+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Drip+Coffee+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=300&fit=crop"
   },
   {
     "id": "kaffa-cafe",
@@ -3649,7 +3754,8 @@
       "ساعات عمل محدودة"
     ],
     "best_time": "الصباح (٩-١٢ ص)",
-    "google_maps_url": "https://maps.google.com/?q=Kaffa+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Kaffa+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?w=400&h=300&fit=crop"
   },
   {
     "id": "tim-hortons-riyadh",
@@ -3676,7 +3782,8 @@
       "المكان مزدحم"
     ],
     "best_time": "أي وقت",
-    "google_maps_url": "https://maps.google.com/?q=Tim+Hortons+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Tim+Hortons+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=400&h=300&fit=crop"
   },
   {
     "id": "starbucks-reserve-riyadh",
@@ -3703,7 +3810,8 @@
       "زحمة دائمة"
     ],
     "best_time": "الصباح (٧-١٠ ص)",
-    "google_maps_url": "https://maps.google.com/?q=Starbucks+Reserve+KAFD+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Starbucks+Reserve+KAFD+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=400&h=300&fit=crop"
   },
   {
     "id": "punjab-grill",
@@ -3730,7 +3838,8 @@
       "بعض الأطباق حارة جداً"
     ],
     "best_time": "العشاء (٧-١٠ م)",
-    "google_maps_url": "https://maps.google.com/?q=Punjab+Grill+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Punjab+Grill+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop"
   },
   {
     "id": "the-butcher-shop",
@@ -3757,7 +3866,8 @@
       "الانتظار يطول"
     ],
     "best_time": "العشاء (٧-١٠ م)",
-    "google_maps_url": "https://maps.google.com/?q=The+Butcher+Shop+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=The+Butcher+Shop+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=400&h=300&fit=crop"
   },
   {
     "id": "firegrill",
@@ -3784,7 +3894,8 @@
       "رائحة الفحم تعلق بالملابس"
     ],
     "best_time": "العشاء (٧-١٠ م)",
-    "google_maps_url": "https://maps.google.com/?q=Firegrill+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Firegrill+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop"
   },
   {
     "id": "la-griglia",
@@ -3811,7 +3922,8 @@
       "الخدمة بطيئة أحياناً"
     ],
     "best_time": "العشاء (٧-١٠ م)",
-    "google_maps_url": "https://maps.google.com/?q=La+Griglia+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=La+Griglia+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=300&fit=crop"
   },
   {
     "id": "hot-n-juicy",
@@ -3838,7 +3950,8 @@
       "أسعار متوسطة-مرتفعة"
     ],
     "best_time": "العشاء (٦-١٠ م)",
-    "google_maps_url": "https://maps.google.com/?q=Hot+N+Juicy+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Hot+N+Juicy+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=400&h=300&fit=crop"
   },
   {
     "id": "burger-boutique",
@@ -3865,7 +3978,8 @@
       "الانتظار يطول"
     ],
     "best_time": "الغداء أو العشاء",
-    "google_maps_url": "https://maps.google.com/?q=Burger+Boutique+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Burger+Boutique+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop"
   },
   {
     "id": "shrimpy",
@@ -3892,7 +4006,8 @@
       "المكان صغير"
     ],
     "best_time": "الغداء (١٢-٣ م)",
-    "google_maps_url": "https://maps.google.com/?q=Shrimpy+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Shrimpy+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400&h=300&fit=crop"
   },
   {
     "id": "jan-restaurant",
@@ -3919,7 +4034,8 @@
       "الحجز صعب"
     ],
     "best_time": "العشاء (٨-١١ م)",
-    "google_maps_url": "https://maps.google.com/?q=Jan+Restaurant+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Jan+Restaurant+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=300&fit=crop"
   },
   {
     "id": "eataly-riyadh",
@@ -3946,7 +4062,8 @@
       "مزدحم دائماً"
     ],
     "best_time": "الغداء (١٢-٣ م)",
-    "google_maps_url": "https://maps.google.com/?q=Eataly+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Eataly+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop"
   },
   {
     "id": "piatto",
@@ -3973,7 +4090,8 @@
       "يزدحم بسرعة"
     ],
     "best_time": "الغداء أو العشاء",
-    "google_maps_url": "https://maps.google.com/?q=Piatto+Restaurant+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Piatto+Restaurant+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=400&h=300&fit=crop"
   },
   {
     "id": "saltwater-riyadh",
@@ -4000,7 +4118,8 @@
       "الحجز ضروري"
     ],
     "best_time": "العشاء (٧-١٠ م)",
-    "google_maps_url": "https://maps.google.com/?q=Saltwater+Restaurant+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Saltwater+Restaurant+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop"
   },
   {
     "id": "pf-changs-riyadh",
@@ -4027,7 +4146,8 @@
       "أسعار متوسطة-مرتفعة"
     ],
     "best_time": "الغداء أو العشاء",
-    "google_maps_url": "https://maps.google.com/?q=PF+Changs+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=PF+Changs+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=300&fit=crop"
   },
   {
     "id": "al-nafourah",
@@ -4054,7 +4174,8 @@
       "التصميم قديم"
     ],
     "best_time": "الغداء أو العشاء",
-    "google_maps_url": "https://maps.google.com/?q=AlNafourah+Restaurant+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=AlNafourah+Restaurant+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=400&h=300&fit=crop"
   },
   {
     "id": "spazio-riyadh",
@@ -4081,7 +4202,8 @@
       "الكميات صغيرة"
     ],
     "best_time": "العشاء (٧-١٠ م)",
-    "google_maps_url": "https://maps.google.com/?q=Spazio+Restaurant+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Spazio+Restaurant+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop"
   },
   {
     "id": "texas-roadhouse-riyadh",
@@ -4108,7 +4230,8 @@
       "انتظار طويل"
     ],
     "best_time": "الغداء (١٢-٣ م) أقل زحمة",
-    "google_maps_url": "https://maps.google.com/?q=Texas+Roadhouse+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Texas+Roadhouse+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400&h=300&fit=crop"
   },
   {
     "id": "ihop-riyadh",
@@ -4135,7 +4258,8 @@
       "المكان عادي"
     ],
     "best_time": "الفطور (٨-١١ ص)",
-    "google_maps_url": "https://maps.google.com/?q=IHOP+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=IHOP+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=300&fit=crop"
   },
   {
     "id": "cheesecake-factory-riyadh",
@@ -4162,7 +4286,8 @@
       "أكل ثقيل"
     ],
     "best_time": "الغداء (١-٣ م)",
-    "google_maps_url": "https://maps.google.com/?q=Cheesecake+Factory+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Cheesecake+Factory+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop"
   },
   {
     "id": "wagamama-riyadh",
@@ -4189,7 +4314,8 @@
       "الكراسي المشتركة مزعجة"
     ],
     "best_time": "الغداء أو العشاء",
-    "google_maps_url": "https://maps.google.com/?q=Wagamama+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Wagamama+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=400&h=300&fit=crop"
   },
   {
     "id": "carinos-riyadh",
@@ -4216,7 +4342,8 @@
       "جودة متفاوتة"
     ],
     "best_time": "العشاء (٦-٩ م)",
-    "google_maps_url": "https://maps.google.com/?q=Carinos+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Carinos+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop"
   },
   {
     "id": "tokyo-riyadh",
@@ -4243,7 +4370,8 @@
       "الخدمة بطيئة أحياناً"
     ],
     "best_time": "العشاء (٧-١٠ م)",
-    "google_maps_url": "https://maps.google.com/?q=Tokyo+Restaurant+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Tokyo+Restaurant+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=300&fit=crop"
   },
   {
     "id": "sushi-art",
@@ -4270,7 +4398,8 @@
       "أسعار فوق المتوسط"
     ],
     "best_time": "العشاء (٧-١٠ م)",
-    "google_maps_url": "https://maps.google.com/?q=Sushi+Art+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Sushi+Art+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=400&h=300&fit=crop"
   },
   {
     "id": "shogun-riyadh",
@@ -4297,7 +4426,8 @@
       "أسعار مرتفعة"
     ],
     "best_time": "العشاء (٧-١٠ م)",
-    "google_maps_url": "https://maps.google.com/?q=Shogun+Restaurant+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Shogun+Restaurant+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop"
   },
   {
     "id": "maharaja-palace",
@@ -4324,7 +4454,8 @@
       "خدمة بطيئة"
     ],
     "best_time": "الغداء (١٢-٣ م)",
-    "google_maps_url": "https://maps.google.com/?q=Maharaja+Palace+Restaurant+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Maharaja+Palace+Restaurant+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400&h=300&fit=crop"
   },
   {
     "id": "mydo-riyadh",
@@ -4351,7 +4482,8 @@
       "رائحة الشوي"
     ],
     "best_time": "العشاء (٧-١٠ م)",
-    "google_maps_url": "https://maps.google.com/?q=Mydo+Korean+Restaurant+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Mydo+Korean+Restaurant+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=300&fit=crop"
   },
   {
     "id": "al-tazaj",
@@ -4378,7 +4510,8 @@
       "المكان بسيط"
     ],
     "best_time": "أي وقت",
-    "google_maps_url": "https://maps.google.com/?q=Al+Tazaj+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Al+Tazaj+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop"
   },
   {
     "id": "kudu",
@@ -4405,7 +4538,8 @@
       "المكان بسيط"
     ],
     "best_time": "الفطور (٦-١٠ ص)",
-    "google_maps_url": "https://maps.google.com/?q=Kudu+Restaurant+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Kudu+Restaurant+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=400&h=300&fit=crop"
   },
   {
     "id": "herfy",
@@ -4432,7 +4566,8 @@
       "يحتاج تطوير"
     ],
     "best_time": "أي وقت",
-    "google_maps_url": "https://maps.google.com/?q=Herfy+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Herfy+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop"
   },
   {
     "id": "murabba-palace",
@@ -4459,7 +4594,8 @@
       "صغير نسبياً"
     ],
     "best_time": "الصباح (٩-١٢ ص)",
-    "google_maps_url": "https://maps.google.com/?q=Murabba+Palace+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Murabba+Palace+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&h=300&fit=crop"
   },
   {
     "id": "tuwaiq-palace",
@@ -4486,7 +4622,8 @@
       "فعاليات فقط"
     ],
     "best_time": "العصر للتصوير",
-    "google_maps_url": "https://maps.google.com/?q=Tuwaiq+Palace+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Tuwaiq+Palace+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=400&h=300&fit=crop"
   },
   {
     "id": "jax-riyadh",
@@ -4513,7 +4650,8 @@
       "مواقف محدودة"
     ],
     "best_time": "المساء (٥-١٠ م)",
-    "google_maps_url": "https://maps.google.com/?q=Jax+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Jax+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop"
   },
   {
     "id": "gravity-riyadh",
@@ -4540,7 +4678,8 @@
       "الأسعار تتراكم"
     ],
     "best_time": "أيام الأسبوع (٢-٦ م)",
-    "google_maps_url": "https://maps.google.com/?q=Gravity+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Gravity+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=400&h=300&fit=crop"
   },
   {
     "id": "topgolf-riyadh",
@@ -4567,7 +4706,8 @@
       "حجز ضروري الويكند"
     ],
     "best_time": "المساء (٦-١١ م)",
-    "google_maps_url": "https://maps.google.com/?q=TopGolf+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=TopGolf+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1472457897821-70d138470871?w=400&h=300&fit=crop"
   },
   {
     "id": "karting-966",
@@ -4594,7 +4734,8 @@
       "الانتظار يطول"
     ],
     "best_time": "أيام الأسبوع المساء",
-    "google_maps_url": "https://maps.google.com/?q=Karting+966+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Karting+966+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&h=300&fit=crop"
   },
   {
     "id": "skyzone-riyadh",
@@ -4621,7 +4762,8 @@
       "جلسات قصيرة"
     ],
     "best_time": "أيام الأسبوع",
-    "google_maps_url": "https://maps.google.com/?q=SkyZone+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=SkyZone+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=400&h=300&fit=crop"
   },
   {
     "id": "ice-land-riyadh",
@@ -4648,7 +4790,8 @@
       "مزدحم جداً"
     ],
     "best_time": "الصيف - أيام الأسبوع",
-    "google_maps_url": "https://maps.google.com/?q=Ice+Land+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Ice+Land+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop"
   },
   {
     "id": "al-hokair-land",
@@ -4675,7 +4818,8 @@
       "نظافة متفاوتة"
     ],
     "best_time": "أيام الأسبوع",
-    "google_maps_url": "https://maps.google.com/?q=Al+Hokair+Land+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Al+Hokair+Land+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=400&h=300&fit=crop"
   },
   {
     "id": "sparkys-riyadh",
@@ -4702,7 +4846,8 @@
       "أسعار الألعاب تتراكم"
     ],
     "best_time": "أيام الأسبوع",
-    "google_maps_url": "https://maps.google.com/?q=Sparkys+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Sparkys+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1472457897821-70d138470871?w=400&h=300&fit=crop"
   },
   {
     "id": "fun-city-riyadh",
@@ -4729,7 +4874,8 @@
       "نظافة متوسطة"
     ],
     "best_time": "أيام الأسبوع",
-    "google_maps_url": "https://maps.google.com/?q=Fun+City+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Fun+City+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&h=300&fit=crop"
   },
   {
     "id": "kafd-conference-center",
@@ -4756,7 +4902,8 @@
       "المواقف بعيدة"
     ],
     "best_time": "حسب الفعالية",
-    "google_maps_url": "https://maps.google.com/?q=KAFD+Conference+Center+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=KAFD+Conference+Center+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=400&h=300&fit=crop"
   },
   {
     "id": "rush-trampoline",
@@ -4783,7 +4930,8 @@
       "أسعار متراكمة"
     ],
     "best_time": "أيام الأسبوع",
-    "google_maps_url": "https://maps.google.com/?q=Rush+Trampoline+Park+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Rush+Trampoline+Park+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop"
   },
   {
     "id": "salaam-mall",
@@ -4810,7 +4958,8 @@
       "زحمة"
     ],
     "best_time": "المساء",
-    "google_maps_url": "https://maps.google.com/?q=Salaam+Mall+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Salaam+Mall+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55acc?w=400&h=300&fit=crop"
   },
   {
     "id": "othaim-mall",
@@ -4837,7 +4986,8 @@
       "مواقف صعبة"
     ],
     "best_time": "أيام الأسبوع",
-    "google_maps_url": "https://maps.google.com/?q=Othaim+Mall+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Othaim+Mall+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1519567241046-7f570764ea29?w=400&h=300&fit=crop"
   },
   {
     "id": "u-walk",
@@ -4864,7 +5014,8 @@
       "مواقف صعبة"
     ],
     "best_time": "المساء (٦-١١ م)",
-    "google_maps_url": "https://maps.google.com/?q=U+Walk+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=U+Walk+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop"
   },
   {
     "id": "rubeen-plaza",
@@ -4891,7 +5042,8 @@
       "صغير نسبياً"
     ],
     "best_time": "المساء",
-    "google_maps_url": "https://maps.google.com/?q=Rubeen+Plaza+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Rubeen+Plaza+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=300&fit=crop"
   },
   {
     "id": "localizer-mall",
@@ -4918,7 +5070,8 @@
       "خيارات محدودة"
     ],
     "best_time": "المساء",
-    "google_maps_url": "https://maps.google.com/?q=Localizer+Mall+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Localizer+Mall+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55acc?w=400&h=300&fit=crop"
   },
   {
     "id": "city-centre-riyadh",
@@ -4945,7 +5098,8 @@
       "زحمة الويكند"
     ],
     "best_time": "أيام الأسبوع",
-    "google_maps_url": "https://maps.google.com/?q=City+Centre+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=City+Centre+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1519567241046-7f570764ea29?w=400&h=300&fit=crop"
   },
   {
     "id": "hamra-mall",
@@ -4972,7 +5126,8 @@
       "محلات محدودة"
     ],
     "best_time": "المساء",
-    "google_maps_url": "https://maps.google.com/?q=Hamra+Mall+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Hamra+Mall+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop"
   },
   {
     "id": "exit-15",
@@ -4999,7 +5154,8 @@
       "مواقف صعبة"
     ],
     "best_time": "العشاء",
-    "google_maps_url": "https://maps.google.com/?q=Exit+15+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Exit+15+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=300&fit=crop"
   },
   {
     "id": "qasr-mall",
@@ -5026,7 +5182,8 @@
       "محلات محدودة"
     ],
     "best_time": "المساء",
-    "google_maps_url": "https://maps.google.com/?q=Qasr+Mall+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Qasr+Mall+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55acc?w=400&h=300&fit=crop"
   },
   {
     "id": "rawdhat-khoraim",
@@ -5053,7 +5210,8 @@
       "بعيد ساعة ونص"
     ],
     "best_time": "الربيع بعد الأمطار",
-    "google_maps_url": "https://maps.google.com/?q=Rawdhat+Khoraim+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Rawdhat+Khoraim+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=400&h=300&fit=crop"
   },
   {
     "id": "ain-heet-cave",
@@ -5080,7 +5238,8 @@
       "لا توجد خدمات"
     ],
     "best_time": "الشتاء - الصباح",
-    "google_maps_url": "https://maps.google.com/?q=Ain+Heet+Cave+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Ain+Heet+Cave+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
   },
   {
     "id": "tuwaiq-escarpment",
@@ -5107,7 +5266,8 @@
       "لا خدمات"
     ],
     "best_time": "الشتاء والربيع",
-    "google_maps_url": "https://maps.google.com/?q=Tuwaiq+Escarpment+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Tuwaiq+Escarpment+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop"
   },
   {
     "id": "al-thumama-desert",
@@ -5134,7 +5294,8 @@
       "يحتاج تجهيزاتك"
     ],
     "best_time": "الشتاء",
-    "google_maps_url": "https://maps.google.com/?q=Al+Thumama+Desert+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Al+Thumama+Desert+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop"
   },
   {
     "id": "lake-duraz",
@@ -5161,7 +5322,8 @@
       "بعيد ولا خدمات"
     ],
     "best_time": "بعد الأمطار الغزيرة",
-    "google_maps_url": "https://maps.google.com/?q=Lake+Duraz+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Lake+Duraz+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=400&h=300&fit=crop"
   },
   {
     "id": "shaqra-heritage",
@@ -5188,7 +5350,8 @@
       "خدمات محدودة"
     ],
     "best_time": "الشتاء - الصباح",
-    "google_maps_url": "https://maps.google.com/?q=Shaqra+Heritage+Village"
+    "google_maps_url": "https://maps.google.com/?q=Shaqra+Heritage+Village",
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
   },
   {
     "id": "ushaiger-heritage",
@@ -5215,7 +5378,8 @@
       "يحتاج مرشد"
     ],
     "best_time": "الشتاء والربيع",
-    "google_maps_url": "https://maps.google.com/?q=Ushaiger+Heritage+Village"
+    "google_maps_url": "https://maps.google.com/?q=Ushaiger+Heritage+Village",
+    "image_url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop"
   },
   {
     "id": "al-uyaynah",
@@ -5242,7 +5406,8 @@
       "يحتاج سيارة"
     ],
     "best_time": "الشتاء والربيع",
-    "google_maps_url": "https://maps.google.com/?q=Al+Uyaynah+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Al+Uyaynah+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop"
   },
   {
     "id": "muzahimiyah",
@@ -5269,7 +5434,8 @@
       "خدمات محدودة"
     ],
     "best_time": "الشتاء والربيع",
-    "google_maps_url": "https://maps.google.com/?q=Muzahimiyah+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Muzahimiyah+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=400&h=300&fit=crop"
   },
   {
     "id": "heet-cave",
@@ -5296,7 +5462,8 @@
       "يحتاج حذر"
     ],
     "best_time": "الشتاء",
-    "google_maps_url": "https://maps.google.com/?q=Heet+Cave+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Heet+Cave+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
   },
   {
     "id": "dolce-riyadh",
@@ -5323,7 +5490,8 @@
       "المكان صغير"
     ],
     "best_time": "المساء (٦-١٠ م)",
-    "google_maps_url": "https://maps.google.com/?q=Dolce+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Dolce+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop"
   },
   {
     "id": "aani-and-dani",
@@ -5350,7 +5518,8 @@
       "فروع محدودة"
     ],
     "best_time": "أي وقت",
-    "google_maps_url": "https://maps.google.com/?q=Aani+and+Dani+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Aani+and+Dani+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&h=300&fit=crop"
   },
   {
     "id": "batis",
@@ -5377,7 +5546,8 @@
       "ينتهي المخزون بدري"
     ],
     "best_time": "الصباح (٨-١١ ص)",
-    "google_maps_url": "https://maps.google.com/?q=Batis+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Batis+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=400&h=300&fit=crop"
   },
   {
     "id": "crumbs-riyadh",
@@ -5404,7 +5574,8 @@
       "ينتهي بسرعة"
     ],
     "best_time": "بعد الظهر (٢-٦ م)",
-    "google_maps_url": "https://maps.google.com/?q=Crumbs+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Crumbs+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=400&h=300&fit=crop"
   },
   {
     "id": "scoopi-cafe",
@@ -5431,7 +5602,8 @@
       "الانتظار يطول"
     ],
     "best_time": "المساء (٦-١١ م)",
-    "google_maps_url": "https://maps.google.com/?q=Scoopi+Cafe+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Scoopi+Cafe+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop"
   },
   {
     "id": "baskin-robbins-riyadh",
@@ -5458,7 +5630,8 @@
       "أسعار ارتفعت"
     ],
     "best_time": "المساء",
-    "google_maps_url": "https://maps.google.com/?q=Baskin+Robbins+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Baskin+Robbins+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&h=300&fit=crop"
   },
   {
     "id": "cinnabon-riyadh",
@@ -5485,7 +5658,8 @@
       "حجم صغر"
     ],
     "best_time": "أي وقت",
-    "google_maps_url": "https://maps.google.com/?q=Cinnabon+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Cinnabon+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=400&h=300&fit=crop"
   },
   {
     "id": "nothing-bundt-cakes",
@@ -5512,7 +5686,8 @@
       "أسعار فوق المتوسط"
     ],
     "best_time": "أي وقت",
-    "google_maps_url": "https://maps.google.com/?q=Nothing+Bundt+Cakes+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Nothing+Bundt+Cakes+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=400&h=300&fit=crop"
   },
   {
     "id": "dots-riyadh",
@@ -5539,7 +5714,8 @@
       "أسعار فوق المتوسط"
     ],
     "best_time": "الصباح (٨-١١ ص)",
-    "google_maps_url": "https://maps.google.com/?q=Dots+Donuts+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Dots+Donuts+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop"
   },
   {
     "id": "saadeddin",
@@ -5566,7 +5742,8 @@
       "أسعار ارتفعت"
     ],
     "best_time": "أي وقت",
-    "google_maps_url": "https://maps.google.com/?q=Saadeddin+Pastry+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Saadeddin+Pastry+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&h=300&fit=crop"
   },
   {
     "id": "alromansiah-sweets",
@@ -5593,7 +5770,8 @@
       "المكان بسيط"
     ],
     "best_time": "بعد الغداء أو العشاء",
-    "google_maps_url": "https://maps.google.com/?q=AlRomansiah+Sweets+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=AlRomansiah+Sweets+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=400&h=300&fit=crop"
   },
   {
     "id": "holland-house",
@@ -5620,7 +5798,8 @@
       "المكان صغير"
     ],
     "best_time": "العصر (٣-٦ م)",
-    "google_maps_url": "https://maps.google.com/?q=Holland+House+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Holland+House+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=400&h=300&fit=crop"
   },
   {
     "id": "baked-riyadh",
@@ -5647,7 +5826,8 @@
       "ينتهي بدري"
     ],
     "best_time": "الصباح (٨-١١ ص)",
-    "google_maps_url": "https://maps.google.com/?q=Baked+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Baked+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop"
   },
   {
     "id": "dara-ice-cream",
@@ -5674,7 +5854,8 @@
       "ينتهي بسرعة"
     ],
     "best_time": "المساء (٦-١٠ م)",
-    "google_maps_url": "https://maps.google.com/?q=Dara+Ice+Cream+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Dara+Ice+Cream+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&h=300&fit=crop"
   },
   {
     "id": "maestro-desserts",
@@ -5701,7 +5882,8 @@
       "ليس حرفي"
     ],
     "best_time": "أي وقت",
-    "google_maps_url": "https://maps.google.com/?q=Maestro+Pizza+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Maestro+Pizza+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=400&h=300&fit=crop"
   },
   {
     "id": "tala-v2",
@@ -5728,7 +5910,8 @@
       "صغير"
     ],
     "best_time": "العصر (٣-٦ م)",
-    "google_maps_url": "https://maps.google.com/?q=Tala+Cafe+Muruj+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Tala+Cafe+Muruj+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1498804103079-a6351b050096?w=400&h=300&fit=crop"
   },
   {
     "id": "al-baik-exit5",
@@ -5755,7 +5938,8 @@
       "لا يوجد جلسات مريحة"
     ],
     "best_time": "تجنب الذروة (١-٣ م)",
-    "google_maps_url": "https://maps.google.com/?q=AlBaik+Exit+5+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=AlBaik+Exit+5+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=300&fit=crop"
   },
   {
     "id": "al-baik-kafd",
@@ -5782,7 +5966,8 @@
       "موقف بعيد"
     ],
     "best_time": "أيام الأسبوع",
-    "google_maps_url": "https://maps.google.com/?q=AlBaik+KAFD+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=AlBaik+KAFD+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=400&h=300&fit=crop"
   },
   {
     "id": "riyadh-front",
@@ -5809,7 +5994,8 @@
       "أسعار مرتفعة"
     ],
     "best_time": "أيام الأسبوع المساء",
-    "google_maps_url": "https://maps.google.com/?q=Riyadh+Front"
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Front",
+    "image_url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=400&h=300&fit=crop"
   },
   {
     "id": "al-musmak-fort",
@@ -5836,7 +6022,8 @@
       "موقف صعب"
     ],
     "best_time": "الصباح",
-    "google_maps_url": "https://maps.google.com/?q=Al+Masmak+Fort+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Al+Masmak+Fort+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1472457897821-70d138470871?w=400&h=300&fit=crop"
   },
   {
     "id": "souq-al-zal",
@@ -5863,7 +6050,8 @@
       "مزدحم الجمعة"
     ],
     "best_time": "الجمعة صباحاً",
-    "google_maps_url": "https://maps.google.com/?q=Souq+Al+Zal+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Souq+Al+Zal+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1519567241046-7f570764ea29?w=400&h=300&fit=crop"
   },
   {
     "id": "souq-al-thumairi",
@@ -5890,7 +6078,8 @@
       "المواقف صعبة"
     ],
     "best_time": "الصباح أو العصر",
-    "google_maps_url": "https://maps.google.com/?q=Souq+Al+Thumairi+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Souq+Al+Thumairi+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop"
   },
   {
     "id": "al-ahsa-road",
@@ -5917,7 +6106,8 @@
       "نظافة متفاوتة"
     ],
     "best_time": "الغداء (١٢-٣ م)",
-    "google_maps_url": "https://maps.google.com/?q=Al+Ahsa+Road+Restaurants+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Al+Ahsa+Road+Restaurants+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop"
   },
   {
     "id": "olaya-street",
@@ -5944,7 +6134,8 @@
       "مواقف صعبة"
     ],
     "best_time": "المساء",
-    "google_maps_url": "https://maps.google.com/?q=Olaya+Street+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Olaya+Street+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=300&fit=crop"
   },
   {
     "id": "tahlia-street",
@@ -5971,7 +6162,8 @@
       "زحمة مرور"
     ],
     "best_time": "المساء (٦-١١ م)",
-    "google_maps_url": "https://maps.google.com/?q=Tahlia+Street+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Tahlia+Street+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55acc?w=400&h=300&fit=crop"
   },
   {
     "id": "batha-market",
@@ -5998,7 +6190,8 @@
       "نظافة ضعيفة"
     ],
     "best_time": "الصباح",
-    "google_maps_url": "https://maps.google.com/?q=Batha+Market+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Batha+Market+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1519567241046-7f570764ea29?w=400&h=300&fit=crop"
   },
   {
     "id": "king-fahd-library",
@@ -6025,7 +6218,8 @@
       "هادئ جداً"
     ],
     "best_time": "الصباح",
-    "google_maps_url": "https://maps.google.com/?q=King+Fahd+National+Library+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=King+Fahd+National+Library+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&h=300&fit=crop"
   },
   {
     "id": "ad-diriyah-gate",
@@ -6052,7 +6246,8 @@
       "أسعار المطاعم عالية"
     ],
     "best_time": "المساء",
-    "google_maps_url": "https://maps.google.com/?q=Diriyah+Gate+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Diriyah+Gate+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=400&h=300&fit=crop"
   },
   {
     "id": "ithra-art-gallery",
@@ -6079,7 +6274,8 @@
       "فعاليات محدودة"
     ],
     "best_time": "أي وقت خلال ساعات العمل",
-    "google_maps_url": "https://maps.google.com/?q=Art+Gallery+KAFD+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Art+Gallery+KAFD+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop"
   },
   {
     "id": "nojoom-al-riyadh",
@@ -6106,7 +6302,8 @@
       "خدمات متوسطة"
     ],
     "best_time": "أيام الأسبوع",
-    "google_maps_url": "https://maps.google.com/?q=Nojoom+Al+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Nojoom+Al+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=400&h=300&fit=crop"
   },
   {
     "id": "boulevard-world",
@@ -6133,7 +6330,8 @@
       "أسعار مرتفعة"
     ],
     "best_time": "أيام الأسبوع",
-    "google_maps_url": "https://maps.google.com/?q=Boulevard+World+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Boulevard+World+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1472457897821-70d138470871?w=400&h=300&fit=crop"
   },
   {
     "id": "wadi-hanifah-dam",
@@ -6160,7 +6358,8 @@
       "حر بالصيف"
     ],
     "best_time": "المغرب",
-    "google_maps_url": "https://maps.google.com/?q=Wadi+Hanifah+Dam+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Hanifah+Dam+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop"
   },
   {
     "id": "prince-sultan-park",
@@ -6187,6 +6386,7 @@
       "مزدحم الويكند"
     ],
     "best_time": "المغرب",
-    "google_maps_url": "https://maps.google.com/?q=Prince+Sultan+Park+Riyadh"
+    "google_maps_url": "https://maps.google.com/?q=Prince+Sultan+Park+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop"
   }
 ]
