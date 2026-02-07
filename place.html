@@ -162,7 +162,7 @@
               <div class="info-item"><span>تقييم قوقل</span><strong>⭐ ${place.google_rating} / 5</strong></div>
               <div class="info-item"><span>عدد التقييمات</span><strong>${formatNumber(place.review_count)}</strong></div>
               <div class="info-item"><span>مستوى الأسعار</span><strong>${place.price_level}</strong></div>
-              <div class="info-item"><span>متوسط الإنفاق</span><strong>${place.avg_spend}</strong></div>
+              <div class="info-item"><span>متوسط الإنفاق</span><strong>${place.avg_spend || place.price_level || 'غير محدد'}</strong></div>
               <div class="info-item"><span>أفضل وقت</span><strong>${(place.best_time || '').split('—')[0]}</strong></div>
               <div class="info-item"><span>الحالة</span><strong>${place.trending ? '🔥 رائج' : '✅ نشط'}</strong></div>
             </div>

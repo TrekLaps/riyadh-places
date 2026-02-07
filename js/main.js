@@ -308,14 +308,14 @@ function generateRatingAnalysis(place) {
             <span class="detail-icon">🕐</span>
             <div class="detail-content">
               <div class="detail-label">أفضل وقت للزيارة</div>
-              <div class="detail-value">${place.best_time}</div>
+              <div class="detail-value">${place.best_time || 'غير محدد'}</div>
             </div>
           </div>
           <div class="rating-detail-item">
             <span class="detail-icon">💰</span>
             <div class="detail-content">
               <div class="detail-label">متوسط الإنفاق</div>
-              <div class="detail-value">${place.avg_spend}</div>
+              <div class="detail-value">${place.avg_spend || place.price_level || 'غير محدد'}</div>
             </div>
           </div>
           <div class="rating-detail-item">
@@ -332,13 +332,13 @@ function generateRatingAnalysis(place) {
         <div class="pros-section">
           <h3>👍 الناس تمدح:</h3>
           <ul>
-            ${place.pros.map(p => `<li>${p}</li>`).join('')}
+            ${(place.pros_ar || place.pros || []).map(p => `<li>${p}</li>`).join('')}
           </ul>
         </div>
         <div class="cons-section">
           <h3>👎 الناس تنتقد:</h3>
           <ul>
-            ${place.cons.map(c => `<li>${c}</li>`).join('')}
+            ${(place.cons_ar || place.cons || []).map(c => `<li>${c}</li>`).join('')}
           </ul>
         </div>
       </div>
@@ -346,11 +346,11 @@ function generateRatingAnalysis(place) {
       <div class="visit-info">
         <div class="visit-info-card">
           <div class="info-label">🕐 أفضل وقت للزيارة</div>
-          <div class="info-value">${place.best_time}</div>
+          <div class="info-value">${place.best_time || 'غير محدد'}</div>
         </div>
         <div class="visit-info-card">
           <div class="info-label">💰 متوسط الإنفاق</div>
-          <div class="info-value">${place.avg_spend}</div>
+          <div class="info-value">${place.avg_spend || place.price_level || 'غير محدد'}</div>
         </div>
         <div class="visit-info-card">
           <div class="info-label">💬 عدد التقييمات</div>
