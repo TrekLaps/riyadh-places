@@ -8,6 +8,9 @@
   <url><loc>https://treklaps.github.io/riyadh-places/nature.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/new-places.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/top-rated.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/about.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/guide-cafes.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/guide-restaurants.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/guide-events.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/desserts.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/events.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
 </urlset>
