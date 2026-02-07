@@ -231,7 +231,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "وسط الرياض"
   },
   {
     "id": "barns",
@@ -465,7 +466,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "dose",
@@ -699,7 +701,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "وسط الرياض"
   },
   {
     "id": "volume",
@@ -933,7 +936,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "cup-and-couch",
@@ -1169,7 +1173,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "five-elephants",
@@ -1403,7 +1408,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "وسط الرياض"
   },
   {
     "id": "kava-and-chai",
@@ -1637,7 +1643,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "flat-white",
@@ -1871,7 +1878,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "the-roasting-house",
@@ -2105,7 +2113,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "camel-step",
@@ -2339,7 +2348,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "وسط الرياض"
   },
   {
     "id": "urth-caffe",
@@ -2572,7 +2582,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "وسط الرياض"
   },
   {
     "id": "percent-arabica",
@@ -2805,7 +2816,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "وسط الرياض"
   },
   {
     "id": "mokha-1450",
@@ -3038,7 +3050,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "وسط الرياض"
   },
   {
     "id": "blue-muze",
@@ -3271,7 +3284,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "nabt",
@@ -3504,7 +3518,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "specialty-batch",
@@ -3737,7 +3752,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "saddle",
@@ -3970,7 +3986,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "غرب الرياض"
   },
   {
     "id": "12-cups",
@@ -4203,7 +4220,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "kyan",
@@ -4436,7 +4454,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "bricks",
@@ -4669,7 +4688,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "stories-cafe",
@@ -4902,7 +4922,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "tala",
@@ -5137,7 +5158,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "bafarat",
@@ -5370,7 +5392,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "وسط الرياض"
   },
   {
     "id": "harvest",
@@ -5603,7 +5626,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "cacao",
@@ -5836,7 +5860,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "takya",
@@ -6070,7 +6095,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "lpm",
@@ -6304,7 +6330,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "sushi-samba",
@@ -6538,7 +6565,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "nusr-et",
@@ -6772,7 +6800,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "the-globe",
@@ -7006,7 +7035,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "mama-noura",
@@ -7240,7 +7270,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 19:00-22:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "al-baik",
@@ -7474,7 +7505,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 19:00-22:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "متعدد"
   },
   {
     "id": "lusin",
@@ -7708,7 +7740,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "nozomi",
@@ -7942,7 +7975,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "centro",
@@ -8177,7 +8211,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "zuma",
@@ -8411,7 +8446,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "nobu",
@@ -8645,7 +8681,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "cipriani",
@@ -8879,7 +8916,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "beefbar",
@@ -9113,7 +9151,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "stk",
@@ -9347,7 +9386,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "غرب الرياض"
   },
   {
     "id": "hashi",
@@ -9581,7 +9621,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "wakame",
@@ -9815,7 +9856,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "myazu",
@@ -10049,7 +10091,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "san-carlo",
@@ -10283,7 +10326,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "غرب الرياض"
   },
   {
     "id": "cut-by-wolfgang",
@@ -10517,7 +10561,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "em-sherif",
@@ -10751,7 +10796,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "long-chim",
@@ -10985,7 +11031,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "la-petite-maison",
@@ -11219,7 +11266,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "scalini",
@@ -11453,7 +11501,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "white-robata",
@@ -11687,7 +11736,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "boulevard-riyadh",
@@ -11921,7 +11971,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "غرب الرياض"
   },
   {
     "id": "winter-wonderland",
@@ -12155,7 +12206,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "غرب الرياض"
   },
   {
     "id": "national-museum",
@@ -12389,7 +12441,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "وسط الرياض"
   },
   {
     "id": "riyadh-zoo",
@@ -12623,7 +12676,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "وسط الرياض"
   },
   {
     "id": "via-riyadh",
@@ -12858,7 +12912,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "شمال الرياض"
   },
   {
     "id": "kingdom-tower",
@@ -13093,7 +13148,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "وسط الرياض"
   },
   {
     "id": "diriyah",
@@ -13327,7 +13383,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "الدرعية"
   },
   {
     "id": "riyadh-season",
@@ -13561,7 +13618,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "متعدد"
   },
   {
     "id": "the-groves",
@@ -13796,7 +13854,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "الدرعية"
   },
   {
     "id": "bujairi-terrace",
@@ -14031,7 +14090,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "الدرعية"
   },
   {
     "id": "combat-field",
@@ -14265,7 +14325,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "شمال الرياض"
   },
   {
     "id": "trampo",
@@ -14499,7 +14560,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "شمال الرياض"
   },
   {
     "id": "ifly",
@@ -14733,7 +14795,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "شمال الرياض"
   },
   {
     "id": "kafd",
@@ -14968,7 +15031,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "وسط الرياض"
   },
   {
     "id": "riyadh-art",
@@ -15202,7 +15266,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "متعدد"
   },
   {
     "id": "kingdom-centre",
@@ -15210,7 +15275,7 @@
     "name_en": "Kingdom Centre",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "العليا",
+    "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "أيقونة الرياض ومعلمها الأبرز. مول فاخر يضم أشهر الماركات العالمية مع جسر السماء الشهير في القمة.",
     "google_rating": 4.6,
@@ -15425,7 +15490,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "وسط الرياض"
   },
   {
     "id": "al-faisaliah",
@@ -15433,7 +15499,7 @@
     "name_en": "Al Faisaliah Tower",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "العليا",
+    "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "من أوائل ناطحات السحاب بالرياض. مول راقي مع مطاعم فاخرة والكرة الكريستالية الشهيرة في القمة.",
     "google_rating": 4.5,
@@ -15648,7 +15714,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "وسط الرياض"
   },
   {
     "id": "riyadh-park",
@@ -15656,7 +15723,7 @@
     "name_en": "Riyadh Park",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "حطين",
+    "neighborhood": "حي حطين",
     "neighborhood_en": "Hittin",
     "description_ar": "من أكبر مولات الرياض بتصميم عصري مفتوح. يضم مئات المحلات والمطاعم وصالات السينما.",
     "google_rating": 4.4,
@@ -15870,7 +15937,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "غرب الرياض"
   },
   {
     "id": "nakheel-mall",
@@ -15878,7 +15946,7 @@
     "name_en": "Nakheel Mall",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "النخيل",
+    "neighborhood": "حي النخيل",
     "neighborhood_en": "Nakheel",
     "description_ar": "مول عائلي محبوب بشمال الرياض. تنوع كبير بالمحلات والمطاعم مع أجواء مريحة.",
     "google_rating": 4.3,
@@ -16093,7 +16161,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "شمال الرياض"
   },
   {
     "id": "panorama-mall",
@@ -16101,7 +16170,7 @@
     "name_en": "Panorama Mall",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "الربيع",
+    "neighborhood": "حي الربيع",
     "neighborhood_en": "Al Rabee",
     "description_ar": "وجهة تسوق وترفيه متكاملة شمال الرياض. يضم سينما ومنطقة ألعاب ومحلات متنوعة.",
     "google_rating": 4.2,
@@ -16316,7 +16385,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "شمال الرياض"
   },
   {
     "id": "granada-centre",
@@ -16324,7 +16394,7 @@
     "name_en": "Granada Centre",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "غرناطة",
+    "neighborhood": "حي غرناطة",
     "neighborhood_en": "Granada",
     "description_ar": "مول راقي شرق الرياض بتصميم أندلسي مميز. يجمع بين التسوق والمطاعم الفاخرة.",
     "google_rating": 4.3,
@@ -16539,7 +16609,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "شرق الرياض"
   },
   {
     "id": "riyadh-gallery",
@@ -16547,7 +16618,7 @@
     "name_en": "Riyadh Gallery",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "السليمانية",
+    "neighborhood": "حي السليمانية",
     "neighborhood_en": "Sulaimaniah",
     "description_ar": "مول عصري وسط الرياض على طريق الملك فهد. موقع مركزي مع تنوع كبير بالماركات.",
     "google_rating": 4.1,
@@ -16761,7 +16832,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "وسط الرياض"
   },
   {
     "id": "hayat-mall",
@@ -16769,7 +16841,7 @@
     "name_en": "Hayat Mall",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "السويدي",
+    "neighborhood": "حي السويدي",
     "neighborhood_en": "Suwaidi",
     "description_ar": "من أكبر مولات جنوب الرياض. وجهة عائلية شاملة بأسعار مناسبة للجميع.",
     "google_rating": 4.0,
@@ -16984,7 +17056,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "جنوب الرياض"
   },
   {
     "id": "the-avenues-riyadh",
@@ -16992,7 +17065,7 @@
     "name_en": "The Avenues Riyadh",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "حطين",
+    "neighborhood": "حي حطين",
     "neighborhood_en": "Hittin",
     "description_ar": "مشروع ضخم جديد شمال الرياض. تجربة تسوق فاخرة بمعايير عالمية مع ماركات حصرية.",
     "google_rating": 4.5,
@@ -17207,7 +17280,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "غرب الرياض"
   },
   {
     "id": "diriyah-square",
@@ -17430,7 +17504,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "الدرعية"
   },
   {
     "id": "wadi-hanifah",
@@ -17653,7 +17728,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "غرب الرياض"
   },
   {
     "id": "edge-of-the-world",
@@ -17876,7 +17952,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "شمال غرب الرياض"
   },
   {
     "id": "red-sand-dunes",
@@ -18099,7 +18176,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "جنوب الرياض"
   },
   {
     "id": "thumamah-park",
@@ -18322,7 +18400,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "شمال الرياض"
   },
   {
     "id": "wadi-namar",
@@ -18545,7 +18624,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "جنوب الرياض"
   },
   {
     "id": "dq-parks",
@@ -18553,7 +18633,7 @@
     "name_en": "Diplomatic Quarter Parks",
     "category": "طبيعة",
     "category_en": "nature",
-    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood": "حي السفارات",
     "neighborhood_en": "Diplomatic Quarter",
     "description_ar": "أجمل حدائق الرياض المهيأة. مسارات مشي بين أشجار ونباتات صحراوية مع تصميم landscape عالمي.",
     "google_rating": 4.6,
@@ -18768,7 +18848,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "غرب الرياض"
   },
   {
     "id": "king-salman-park",
@@ -18991,7 +19072,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "وسط الرياض"
   },
   {
     "id": "green-riyadh",
@@ -19214,7 +19296,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "متعدد"
   },
   {
     "id": "al-kharj-farms",
@@ -19437,7 +19520,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "خارج الرياض"
   },
   {
     "id": "hail-park",
@@ -19445,7 +19529,7 @@
     "name_en": "Salam Park",
     "category": "طبيعة",
     "category_en": "nature",
-    "neighborhood": "السلام",
+    "neighborhood": "حي السلام",
     "neighborhood_en": "Salam",
     "description_ar": "حديقة كبيرة ببحيرة اصطناعية وممشى طويل. وجهة عائلية مثالية مع ألعاب أطفال ومناطق شواء.",
     "google_rating": 4.3,
@@ -19660,7 +19744,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "شمال الرياض"
   },
   {
     "id": "brew92",
@@ -19668,7 +19753,7 @@
     "name_en": "Brew92",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "حطين",
+    "neighborhood": "حي حطين",
     "neighborhood_en": "Hittin",
     "description_ar": "كافيه ومحمصة سعودية متميزة بتصميم صناعي جريء. يقدم قهوة مختصة محمصة محلياً مع مخبوزات طازجة يومياً. من أبرز كافيهات الموجة الثالثة في الرياض.",
     "google_rating": 4.5,
@@ -19882,7 +19967,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "غرب الرياض"
   },
   {
     "id": "sulalat-coffee",
@@ -19890,7 +19976,7 @@
     "name_en": "Sulalat Coffee",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "النرجس",
+    "neighborhood": "حي النرجس",
     "neighborhood_en": "Al Narjis",
     "description_ar": "كافيه سعودي متخصص بأصناف القهوة النادرة من مختلف السلالات حول العالم. يقدم تجربة تذوق مميزة مع شرح تفصيلي لكل نوع.",
     "google_rating": 4.6,
@@ -20104,7 +20190,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "waken-cafe",
@@ -20112,7 +20199,7 @@
     "name_en": "Waken",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "الملقا",
+    "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "كافيه عصري بتصميم مينيمالي وقهوة مختصة عالية الجودة. مكان مثالي للعمل عن بعد مع إنترنت سريع وأجواء هادئة.",
     "google_rating": 4.3,
@@ -20326,7 +20413,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "tobys-estate",
@@ -20334,7 +20422,7 @@
     "name_en": "Toby's Estate",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "العليا",
+    "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "كافيه أسترالي عالمي وصل الرياض بتجربة قهوة استثنائية. يتميز بحبوب محمصة بعناية وأساليب تحضير متنوعة مع فطور وبرانش ممتاز.",
     "google_rating": 4.4,
@@ -20548,7 +20636,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "وسط الرياض"
   },
   {
     "id": "overdose-coffee",
@@ -20556,7 +20645,7 @@
     "name_en": "Overdose Coffee",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "الياسمين",
+    "neighborhood": "حي الياسمين",
     "neighborhood_en": "Al Yasmin",
     "description_ar": "كافيه بتصميم جريء ومختلف يقدم قهوة مختصة قوية ومركزة. مشهور بمشروباته الإبداعية غير التقليدية وأجوائه الشبابية.",
     "google_rating": 4.2,
@@ -20770,7 +20859,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "kofuku-cafe",
@@ -20778,7 +20868,7 @@
     "name_en": "Kofuku",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "الورود",
+    "neighborhood": "حي الورود",
     "neighborhood_en": "Al Worood",
     "description_ar": "كافيه ياباني الطابع يقدم قهوة مختصة مع حلويات يابانية. تصميم مستوحى من الثقافة اليابانية مع أجواء هادئة ومريحة.",
     "google_rating": 4.4,
@@ -20992,7 +21082,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "وسط الرياض"
   },
   {
     "id": "mugs-cafe",
@@ -21000,7 +21091,7 @@
     "name_en": "Mugs",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "الصحافة",
+    "neighborhood": "حي الصحافة",
     "neighborhood_en": "As Sahafah",
     "description_ar": "كافيه بسيط ومريح يركز على جودة القهوة بأسعار معقولة. مكان محبوب عند السكان المحليين مع أجواء ودية وخدمة سريعة.",
     "google_rating": 4.1,
@@ -21214,7 +21305,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "origin-coffee",
@@ -21222,7 +21314,7 @@
     "name_en": "Origin",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "المروج",
+    "neighborhood": "حي المروج",
     "neighborhood_en": "Al Muruj",
     "description_ar": "كافيه متخصص بالقهوة أحادية المصدر من مزارع محددة حول العالم. يقدم تجربة قهوة نقية مع معلومات عن المصدر والمزارع.",
     "google_rating": 4.5,
@@ -21436,7 +21528,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "غرب الرياض"
   },
   {
     "id": "boot-cafe",
@@ -21444,7 +21537,7 @@
     "name_en": "Boot Cafe",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "غرناطة",
+    "neighborhood": "حي غرناطة",
     "neighborhood_en": "Granada",
     "description_ar": "كافيه بتصميم كلاسيكي ريفي يقدم قهوة مختصة مع مخبوزات منزلية. أجواء دافئة ومريحة مناسبة للقراءة والجلسات الهادئة.",
     "google_rating": 4.2,
@@ -21658,7 +21751,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شرق الرياض"
   },
   {
     "id": "seven-cups",
@@ -21666,7 +21760,7 @@
     "name_en": "Seven Cups",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "حطين",
+    "neighborhood": "حي حطين",
     "neighborhood_en": "Hittin",
     "description_ar": "كافيه شبابي يقدم ٧ أنواع مميزة من القهوة المختصة كتخصص رئيسي. تصميم عصري مع مساحة خارجية جميلة.",
     "google_rating": 4.3,
@@ -21880,7 +21974,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "غرب الرياض"
   },
   {
     "id": "sidr-cafe",
@@ -22102,7 +22197,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "الدرعية"
   },
   {
     "id": "dallah-cafe",
@@ -22110,7 +22206,7 @@
     "name_en": "Dallah Cafe",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "العليا",
+    "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "كافيه يحتفي بثقافة القهوة العربية التقليدية. يقدم القهوة السعودية والتمر مع مشروبات عصرية. تصميم يجمع بين الأصالة والحداثة.",
     "google_rating": 4.1,
@@ -22324,7 +22420,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "وسط الرياض"
   },
   {
     "id": "alfulk-cafe",
@@ -22332,7 +22429,7 @@
     "name_en": "AlFulk",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "الربوة",
+    "neighborhood": "حي الربوة",
     "neighborhood_en": "Al Rabwa",
     "description_ar": "كافيه بتصميم بحري مميز يقدم قهوة مختصة ومشروبات إبداعية. أجواء مختلفة وتجربة بصرية جميلة مع قائمة طعام خفيفة.",
     "google_rating": 4.0,
@@ -22546,7 +22643,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شرق الرياض"
   },
   {
     "id": "public-cafe",
@@ -22554,7 +22652,7 @@
     "name_en": "Public Cafe",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "الياسمين",
+    "neighborhood": "حي الياسمين",
     "neighborhood_en": "Al Yasmin",
     "description_ar": "كافيه اجتماعي بتصميم مفتوح يشجع على التواصل. يقدم قهوة مختصة مع أطباق فطور وغداء متنوعة. مساحة مشتركة مناسبة للعمل والاجتماعات.",
     "google_rating": 4.2,
@@ -22768,7 +22866,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "square-cafe",
@@ -22776,7 +22875,7 @@
     "name_en": "Square",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "السفارات",
+    "neighborhood": "حي السفارات",
     "neighborhood_en": "Embassies",
     "description_ar": "كافيه بتصميم هندسي معاصر يقدم قهوة مختصة وحلويات مميزة. مكان هادئ وأنيق مناسب للاجتماعات غير الرسمية.",
     "google_rating": 4.3,
@@ -22990,7 +23089,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "غرب الرياض"
   },
   {
     "id": "boxer-coffee",
@@ -22998,7 +23098,7 @@
     "name_en": "Boxer Coffee",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "النرجس",
+    "neighborhood": "حي النرجس",
     "neighborhood_en": "Al Narjis",
     "description_ar": "كافيه رياضي بطابع حيوي يقدم قهوة مختصة مع خيارات صحية. مستوحى من عالم الملاكمة واللياقة مع بروتين شيك ومشروبات طاقة طبيعية.",
     "google_rating": 4.1,
@@ -23212,7 +23312,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "paper-cup",
@@ -23220,7 +23321,7 @@
     "name_en": "Paper Cup",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "الملقا",
+    "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "كافيه بسيط متخصص بالقهوة السريعة للذهاب. خيار مثالي لمن يبحث عن قهوة مختصة سريعة بدون انتظار طويل.",
     "google_rating": 4.0,
@@ -23434,7 +23535,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "balance-cafe",
@@ -23442,7 +23544,7 @@
     "name_en": "Balance Cafe",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "المروج",
+    "neighborhood": "حي المروج",
     "neighborhood_en": "Al Muruj",
     "description_ar": "كافيه صحي يجمع بين القهوة المختصة والأكل الصحي والعصائر الطبيعية. مكان مثالي لمحبي الحياة الصحية.",
     "google_rating": 4.3,
@@ -23656,7 +23758,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "غرب الرياض"
   },
   {
     "id": "dara-cafe",
@@ -23664,7 +23767,7 @@
     "name_en": "Dara",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "العزيزية",
+    "neighborhood": "حي العزيزية",
     "neighborhood_en": "Al Aziziyah",
     "description_ar": "كافيه بتصميم شرقي معاصر يقدم مشروبات عربية وعالمية. أجواء دافئة مع ديكور مستوحى من البيوت العربية التقليدية.",
     "google_rating": 4.2,
@@ -23878,7 +23981,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "جنوب الرياض"
   },
   {
     "id": "drip-coffee",
@@ -23886,7 +23990,7 @@
     "name_en": "Drip",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "الصحافة",
+    "neighborhood": "حي الصحافة",
     "neighborhood_en": "As Sahafah",
     "description_ar": "كافيه متخصص بطرق التقطير المختلفة للقهوة. يقدم V60 وكيمكس وإيروبرس مع شرح لكل طريقة. مكان تعليمي لعشاق القهوة.",
     "google_rating": 4.4,
@@ -24100,7 +24204,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "kaffa-cafe",
@@ -24108,7 +24213,7 @@
     "name_en": "Kaffa",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "الورود",
+    "neighborhood": "حي الورود",
     "neighborhood_en": "Al Worood",
     "description_ar": "كافيه يحتفي بأصل القهوة من إثيوبيا. يقدم حبوب إثيوبية نادرة محمصة محلياً مع تجربة القهوة الإثيوبية التقليدية (جبنا).",
     "google_rating": 4.5,
@@ -24322,7 +24427,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "وسط الرياض"
   },
   {
     "id": "tim-hortons-riyadh",
@@ -24544,7 +24650,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "متعدد"
   },
   {
     "id": "starbucks-reserve-riyadh",
@@ -24552,7 +24659,7 @@
     "name_en": "Starbucks Reserve",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "KAFD",
+    "neighborhood": "حي الملك عبدالله المالي",
     "neighborhood_en": "KAFD",
     "description_ar": "فرع ستاربكس الفاخر بتصميم استثنائي يقدم قهوة ريزيرف نادرة وطرق تحضير خاصة. تجربة قهوة مختلفة عن ستاربكس العادي.",
     "google_rating": 4.3,
@@ -24766,7 +24873,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "وسط الرياض"
   },
   {
     "id": "punjab-grill",
@@ -24774,7 +24882,7 @@
     "name_en": "Punjab Grill",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "حطين",
+    "neighborhood": "حي حطين",
     "neighborhood_en": "Hittin",
     "description_ar": "مطعم هندي فاخر يقدم المطبخ البنجابي التقليدي بلمسة عصرية. يتميز بالتندوري والكاري الأصيل مع أجواء هندية أنيقة.",
     "google_rating": 4.4,
@@ -24989,7 +25097,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "غرب الرياض"
   },
   {
     "id": "the-butcher-shop",
@@ -24997,7 +25106,7 @@
     "name_en": "The Butcher Shop",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "العليا",
+    "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم لحوم متميز تختار قطعتك من الثلاجة ويطبخونها قدامك. تجربة لحوم فريدة مع أجواء عصرية وقائمة جانبية ممتازة.",
     "google_rating": 4.3,
@@ -25212,7 +25321,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "firegrill",
@@ -25220,7 +25330,7 @@
     "name_en": "Firegrill",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "الملقا",
+    "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "مطعم مشويات على الفحم بأسلوب أمريكي. يقدم ستيك وبرغر وأضلاع مشوية مع صوصات خاصة. أجواء حميمية مع رائحة المشويات.",
     "google_rating": 4.2,
@@ -25435,7 +25545,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "la-griglia",
@@ -25443,7 +25554,7 @@
     "name_en": "La Griglia",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "العليا",
+    "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم إيطالي كلاسيكي يقدم أطباق إيطالية أصيلة مع تركيز على المشويات والمعكرونة الطازجة. من المطاعم الإيطالية المحبوبة بالرياض.",
     "google_rating": 4.1,
@@ -25658,7 +25769,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "hot-n-juicy",
@@ -25666,7 +25778,7 @@
     "name_en": "Hot N Juicy",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "العليا",
+    "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم مأكولات بحرية أمريكي مشهور بطريقة تقديم الأكل بالأكياس مع الصوصات الحارة. تجربة أكل ممتعة وفوضوية بشكل مقصود.",
     "google_rating": 4.0,
@@ -25881,7 +25993,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "burger-boutique",
@@ -25889,7 +26002,7 @@
     "name_en": "Burger Boutique",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "النرجس",
+    "neighborhood": "حي النرجس",
     "neighborhood_en": "Al Narjis",
     "description_ar": "مطعم برغر فاخر يقدم برغر غورميه بلحم أنغوس طازج ومكونات عالية الجودة. من أفضل مطاعم البرغر الفاخرة في الرياض.",
     "google_rating": 4.3,
@@ -26104,7 +26217,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "shrimpy",
@@ -26112,7 +26226,7 @@
     "name_en": "Shrimpy",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "الياسمين",
+    "neighborhood": "حي الياسمين",
     "neighborhood_en": "Al Yasmin",
     "description_ar": "مطعم متخصص بالروبيان والمأكولات البحرية. يقدم أطباق روبيان متنوعة بطرق طبخ مختلفة مع صوصات خاصة.",
     "google_rating": 4.1,
@@ -26327,7 +26441,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "jan-restaurant",
@@ -26335,7 +26450,7 @@
     "name_en": "Jan",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "KAFD",
+    "neighborhood": "حي الملك عبدالله المالي",
     "neighborhood_en": "KAFD",
     "description_ar": "مطعم فرنسي نيس فاخر من الشيف جان ليفيك. يقدم مطبخ جنوب فرنسا بمكونات طازجة وتقديم فني مبهر. من أرقى تجارب الأكل الفرنسي.",
     "google_rating": 4.7,
@@ -26550,7 +26665,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "eataly-riyadh",
@@ -26558,7 +26674,7 @@
     "name_en": "Eataly",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "KAFD",
+    "neighborhood": "حي الملك عبدالله المالي",
     "neighborhood_en": "KAFD",
     "description_ar": "سوق ومطعم إيطالي عالمي يجمع بين التسوق والأكل. يقدم منتجات إيطالية أصيلة مع مطاعم متعددة داخل المكان لتجربة إيطالية متكاملة.",
     "google_rating": 4.4,
@@ -26773,7 +26889,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "piatto",
@@ -26781,7 +26898,7 @@
     "name_en": "Piatto",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "الملقا",
+    "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "مطعم إيطالي عائلي يقدم بيتزا وباستا بأسلوب إيطالي تقليدي. أجواء دافئة ومريحة مع أسعار معقولة وكميات سخية.",
     "google_rating": 4.2,
@@ -26997,7 +27114,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "saltwater-riyadh",
@@ -27005,7 +27123,7 @@
     "name_en": "Saltwater",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "حطين",
+    "neighborhood": "حي حطين",
     "neighborhood_en": "Hittin",
     "description_ar": "مطعم مأكولات بحرية فاخر يقدم أسماك طازجة وفواكه بحرية بأساليب طبخ متنوعة. تصميم بحري أنيق مع أسماك طازجة يومياً.",
     "google_rating": 4.5,
@@ -27220,7 +27338,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "غرب الرياض"
   },
   {
     "id": "pf-changs-riyadh",
@@ -27443,7 +27562,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "متعدد"
   },
   {
     "id": "al-nafourah",
@@ -27451,7 +27571,7 @@
     "name_en": "AlNafourah",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "العليا",
+    "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم لبناني تقليدي يقدم المازة والمشويات اللبنانية الأصيلة. من المطاعم اللبنانية العريقة بالرياض مع خدمة مميزة وأجواء شرقية.",
     "google_rating": 4.3,
@@ -27666,7 +27786,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "spazio-riyadh",
@@ -27674,7 +27795,7 @@
     "name_en": "Spazio",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "الياسمين",
+    "neighborhood": "حي الياسمين",
     "neighborhood_en": "Al Yasmin",
     "description_ar": "مطعم إيطالي عصري يقدم أطباق إيطالية مع لمسة ابتكارية. يتميز بالتصميم الأنيق والأجواء الرومانسية مع قائمة متنوعة.",
     "google_rating": 4.2,
@@ -27889,7 +28010,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "texas-roadhouse-riyadh",
@@ -28112,7 +28234,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "متعدد"
   },
   {
     "id": "ihop-riyadh",
@@ -28335,7 +28458,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 19:00-22:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "متعدد"
   },
   {
     "id": "cheesecake-factory-riyadh",
@@ -28343,7 +28467,7 @@
     "name_en": "Cheesecake Factory",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "حطين",
+    "neighborhood": "حي حطين",
     "neighborhood_en": "Hittin",
     "description_ar": "سلسلة مطاعم أمريكية شهيرة بقائمتها الضخمة وتشيز كيك بأكثر من ٣٠ نكهة. أطباق أمريكية متنوعة بكميات سخية.",
     "google_rating": 4.2,
@@ -28558,7 +28682,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "غرب الرياض"
   },
   {
     "id": "wagamama-riyadh",
@@ -28781,7 +28906,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "متعدد"
   },
   {
     "id": "carinos-riyadh",
@@ -29005,7 +29131,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "متعدد"
   },
   {
     "id": "tokyo-riyadh",
@@ -29013,7 +29140,7 @@
     "name_en": "Tokyo",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "الورود",
+    "neighborhood": "حي الورود",
     "neighborhood_en": "Al Worood",
     "description_ar": "مطعم ياباني يقدم سوشي ورامن وأطباق يابانية بأسعار متوسطة. خيار جيد للأكل الياباني بدون أسعار المطاعم الفاخرة.",
     "google_rating": 4.0,
@@ -29228,7 +29355,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "sushi-art",
@@ -29236,7 +29364,7 @@
     "name_en": "Sushi Art",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "النرجس",
+    "neighborhood": "حي النرجس",
     "neighborhood_en": "Al Narjis",
     "description_ar": "مطعم سوشي بتصميم فني يقدم رولات مبتكرة وإبداعية. يتميز بالابتكار في السوشي مع إضافات غير تقليدية.",
     "google_rating": 4.1,
@@ -29451,7 +29579,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "shogun-riyadh",
@@ -29459,7 +29588,7 @@
     "name_en": "Shogun",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "العليا",
+    "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "مطعم ياباني تيبانياكي كلاسيكي من المطاعم اليابانية القديمة بالرياض. يقدم عروض طبخ أمام الضيوف مع أطباق يابانية تقليدية.",
     "google_rating": 4.0,
@@ -29674,7 +29803,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "maharaja-palace",
@@ -29682,7 +29812,7 @@
     "name_en": "Maharaja Palace",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "السفارات",
+    "neighborhood": "حي السفارات",
     "neighborhood_en": "Embassies",
     "description_ar": "مطعم هندي تقليدي يقدم أطباق هندية أصيلة من مختلف المناطق. يتميز بالتندوري والبرياني والكاري مع أجواء هندية كلاسيكية.",
     "google_rating": 4.2,
@@ -29897,7 +30027,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "غرب الرياض"
   },
   {
     "id": "mydo-riyadh",
@@ -29905,7 +30036,7 @@
     "name_en": "Mydo",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "حطين",
+    "neighborhood": "حي حطين",
     "neighborhood_en": "Hittin",
     "description_ar": "مطعم مأكولات كورية يقدم الباربيكيو الكوري الأصيل مع أطباق كورية متنوعة. تجربة شوي على الطاولة مع أجواء كورية مميزة.",
     "google_rating": 4.3,
@@ -30120,7 +30251,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "غرب الرياض"
   },
   {
     "id": "al-tazaj",
@@ -30343,7 +30475,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 19:00-22:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "متعدد"
   },
   {
     "id": "kudu",
@@ -30566,7 +30699,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 19:00-22:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "متعدد"
   },
   {
     "id": "herfy",
@@ -30789,7 +30923,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 19:00-22:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "متعدد"
   },
   {
     "id": "murabba-palace",
@@ -30797,7 +30932,7 @@
     "name_en": "Murabba Palace",
     "category": "ترفيه",
     "category_en": "activity",
-    "neighborhood": "المربع",
+    "neighborhood": "حي المربع",
     "neighborhood_en": "Al Murabba",
     "description_ar": "قصر الملك عبدالعزيز التاريخي بُني عام ١٩٣٧. معلم تاريخي يروي قصة توحيد المملكة. يضم متحفاً ومعروضات تاريخية نادرة.",
     "google_rating": 4.4,
@@ -31012,7 +31147,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "وسط الرياض"
   },
   {
     "id": "tuwaiq-palace",
@@ -31020,7 +31156,7 @@
     "name_en": "Tuwaiq Palace",
     "category": "ترفيه",
     "category_en": "activity",
-    "neighborhood": "السفارات",
+    "neighborhood": "حي السفارات",
     "neighborhood_en": "Embassies",
     "description_ar": "تحفة معمارية صممها المعماري الدنماركي هينينغ لارسن. يستضيف فعاليات دولية وقمم حكومية. يمكن زيارته من الخارج والتصوير.",
     "google_rating": 4.6,
@@ -31235,7 +31371,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "غرب الرياض"
   },
   {
     "id": "jax-riyadh",
@@ -31458,7 +31595,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "الدرعية"
   },
   {
     "id": "gravity-riyadh",
@@ -31466,7 +31604,7 @@
     "name_en": "Gravity",
     "category": "ترفيه",
     "category_en": "activity",
-    "neighborhood": "الملقا",
+    "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "مركز ترفيهي رياضي يضم ترامبولين وتسلق وكارتينغ وأنشطة مغامرة. مكان شامل للمغامرة والرياضة الترفيهية.",
     "google_rating": 4.1,
@@ -31681,7 +31819,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "شمال الرياض"
   },
   {
     "id": "topgolf-riyadh",
@@ -31689,7 +31828,7 @@
     "name_en": "TopGolf Riyadh",
     "category": "ترفيه",
     "category_en": "activity",
-    "neighborhood": "الملقا",
+    "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "مركز ترفيه يجمع بين الغولف والأكل والتجمعات. ضرب كرات غولف على أهداف مضيئة مع مطعم وبار عصائر. ممتع حتى لو ما تعرف غولف.",
     "google_rating": 4.4,
@@ -31904,7 +32043,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "شمال الرياض"
   },
   {
     "id": "karting-966",
@@ -31912,7 +32052,7 @@
     "name_en": "Karting 966",
     "category": "ترفيه",
     "category_en": "activity",
-    "neighborhood": "العارض",
+    "neighborhood": "حي العارض",
     "neighborhood_en": "Al Arid",
     "description_ar": "حلبة كارتينغ احترافية للسباقات. يقدم تجربة سباق حقيقية بكارتات سريعة على حلبة مصممة باحتراف. مناسب للمبتدئين والمحترفين.",
     "google_rating": 4.2,
@@ -32127,7 +32267,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "شمال الرياض"
   },
   {
     "id": "skyzone-riyadh",
@@ -32135,7 +32276,7 @@
     "name_en": "SkyZone",
     "category": "ترفيه",
     "category_en": "activity",
-    "neighborhood": "الربيع",
+    "neighborhood": "حي الربيع",
     "neighborhood_en": "Al Rabee",
     "description_ar": "مركز ترامبولين عالمي يضم مناطق قفز متنوعة وكرة سلة وملعب دودج بول. ممتع للأطفال والكبار مع برامج لياقة.",
     "google_rating": 4.0,
@@ -32350,7 +32491,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "شمال الرياض"
   },
   {
     "id": "ice-land-riyadh",
@@ -32358,7 +32500,7 @@
     "name_en": "Ice Land",
     "category": "ترفيه",
     "category_en": "activity",
-    "neighborhood": "الربوة",
+    "neighborhood": "حي الربوة",
     "neighborhood_en": "Al Rabwa",
     "description_ar": "مدينة ثلجية ومائية ضخمة تجمع بين الألعاب المائية والثلجية. وجهة عائلية مثالية خصوصاً في الصيف مع زحاليق وبرك سباحة.",
     "google_rating": 3.8,
@@ -32573,7 +32715,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "شرق الرياض"
   },
   {
     "id": "al-hokair-land",
@@ -32581,7 +32724,7 @@
     "name_en": "Al Hokair Land",
     "category": "ترفيه",
     "category_en": "activity",
-    "neighborhood": "الربوة",
+    "neighborhood": "حي الربوة",
     "neighborhood_en": "Al Rabwa",
     "description_ar": "مدينة ألعاب عائلية من أقدم المراكز الترفيهية بالرياض. تضم ألعاب داخلية وخارجية متنوعة مناسبة لجميع الأعمار.",
     "google_rating": 3.7,
@@ -32796,7 +32939,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "شرق الرياض"
   },
   {
     "id": "sparkys-riyadh",
@@ -33019,7 +33163,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "متعدد"
   },
   {
     "id": "fun-city-riyadh",
@@ -33242,7 +33387,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "متعدد"
   },
   {
     "id": "kafd-conference-center",
@@ -33250,7 +33396,7 @@
     "name_en": "KAFD Conference Center",
     "category": "ترفيه",
     "category_en": "activity",
-    "neighborhood": "KAFD",
+    "neighborhood": "حي الملك عبدالله المالي",
     "neighborhood_en": "KAFD",
     "description_ar": "مركز مؤتمرات ضخم بتصميم معماري مبهر يستضيف فعاليات ومعارض ومؤتمرات دولية. من أحدث المراكز في المنطقة.",
     "google_rating": 4.5,
@@ -33465,7 +33611,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "وسط الرياض"
   },
   {
     "id": "rush-trampoline",
@@ -33473,7 +33620,7 @@
     "name_en": "Rush Trampoline",
     "category": "ترفيه",
     "category_en": "activity",
-    "neighborhood": "النرجس",
+    "neighborhood": "حي النرجس",
     "neighborhood_en": "Al Narjis",
     "description_ar": "مركز ترامبولين ومغامرات يضم أكثر من ٢٠ نشاط مختلف. من القفز للتسلق لسباق النينجا. مناسب لكل الأعمار.",
     "google_rating": 4.0,
@@ -33688,7 +33835,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "شمال الرياض"
   },
   {
     "id": "salaam-mall",
@@ -33696,7 +33844,7 @@
     "name_en": "Salaam Mall",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "الربوة",
+    "neighborhood": "حي الربوة",
     "neighborhood_en": "Al Rabwa",
     "description_ar": "مول عائلي جنوب الرياض يضم محلات متنوعة ومطاعم ومنطقة ترفيهية. وجهة تسوق شاملة بأسعار متوسطة.",
     "google_rating": 3.9,
@@ -33911,7 +34059,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "شرق الرياض"
   },
   {
     "id": "othaim-mall",
@@ -33919,7 +34068,7 @@
     "name_en": "Othaim Mall",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "الربوة",
+    "neighborhood": "حي الربوة",
     "neighborhood_en": "Al Rabwa",
     "description_ar": "سلسلة مولات سعودية كبيرة بفروع متعددة. يجمع بين التسوق والترفيه والمطاعم. من أكثر المولات زيارة في الرياض.",
     "google_rating": 4.0,
@@ -34133,7 +34282,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "شرق الرياض"
   },
   {
     "id": "u-walk",
@@ -34141,7 +34291,7 @@
     "name_en": "U-Walk",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "النرجس",
+    "neighborhood": "حي النرجس",
     "neighborhood_en": "Al Narjis",
     "description_ar": "شارع تسوق مفتوح بتصميم عصري يضم محلات ومطاعم وكافيهات. تجربة تسوق في الهواء الطلق مع أجواء حيوية مسائية.",
     "google_rating": 4.2,
@@ -34355,7 +34505,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "شمال الرياض"
   },
   {
     "id": "rubeen-plaza",
@@ -34363,7 +34514,7 @@
     "name_en": "Rubeen Plaza",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "الملقا",
+    "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "مركز تسوق فاخر يضم ماركات عالمية ومطاعم راقية. تصميم حديث مع تجربة تسوق مريحة وهادئة.",
     "google_rating": 4.3,
@@ -34578,7 +34729,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "شمال الرياض"
   },
   {
     "id": "localizer-mall",
@@ -34586,7 +34738,7 @@
     "name_en": "Localizer Mall",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "حطين",
+    "neighborhood": "حي حطين",
     "neighborhood_en": "Hittin",
     "description_ar": "مول يركز على الماركات المحلية والسعودية. يدعم المصممين والعلامات التجارية المحلية مع مطاعم ومقاهي سعودية.",
     "google_rating": 4.1,
@@ -34800,7 +34952,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "غرب الرياض"
   },
   {
     "id": "city-centre-riyadh",
@@ -34808,7 +34961,7 @@
     "name_en": "City Centre",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "الحمراء",
+    "neighborhood": "حي الحمراء",
     "neighborhood_en": "Al Hamra",
     "description_ar": "مول من مجموعة ماجد الفطيم يضم محلات متنوعة ومطاعم وسينما. وجهة تسوق عائلية بموقع مركزي.",
     "google_rating": 3.9,
@@ -35023,7 +35176,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "شرق الرياض"
   },
   {
     "id": "hamra-mall",
@@ -35031,7 +35185,7 @@
     "name_en": "Hamra Mall",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "الحمراء",
+    "neighborhood": "حي الحمراء",
     "neighborhood_en": "Al Hamra",
     "description_ar": "مول حي الحمراء يضم محلات وسوبرماركت ومطاعم. وجهة تسوق يومية لسكان المنطقة بأسعار مناسبة.",
     "google_rating": 3.7,
@@ -35245,7 +35399,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "شرق الرياض"
   },
   {
     "id": "exit-15",
@@ -35253,7 +35408,7 @@
     "name_en": "Exit 15",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "الشفا",
+    "neighborhood": "حي الشفا",
     "neighborhood_en": "Al Shifa",
     "description_ar": "منطقة تجارية شعبية مشهورة بالمطاعم الشعبية والأسواق. وجهة مميزة للأكل الشعبي وتجربة الحياة اليومية بالرياض.",
     "google_rating": 3.8,
@@ -35467,7 +35622,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "جنوب الرياض"
   },
   {
     "id": "qasr-mall",
@@ -35475,7 +35631,7 @@
     "name_en": "Qasr Mall",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "العزيزية",
+    "neighborhood": "حي العزيزية",
     "neighborhood_en": "Al Aziziyah",
     "description_ar": "مول شرق الرياض يضم محلات وهايبر ماركت ومطاعم. وجهة تسوق لسكان شرق الرياض مع أسعار مناسبة.",
     "google_rating": 3.8,
@@ -35689,7 +35845,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "جنوب الرياض"
   },
   {
     "id": "rawdhat-khoraim",
@@ -35912,7 +36069,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "شمال شرق الرياض"
   },
   {
     "id": "ain-heet-cave",
@@ -36135,7 +36293,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "جنوب الرياض"
   },
   {
     "id": "tuwaiq-escarpment",
@@ -36358,7 +36517,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "غرب الرياض"
   },
   {
     "id": "al-thumama-desert",
@@ -36581,7 +36741,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "شمال الرياض"
   },
   {
     "id": "lake-duraz",
@@ -36804,7 +36965,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "جنوب غرب الرياض"
   },
   {
     "id": "shaqra-heritage",
@@ -37027,7 +37189,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "خارج الرياض"
   },
   {
     "id": "ushaiger-heritage",
@@ -37250,7 +37413,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "خارج الرياض"
   },
   {
     "id": "al-uyaynah",
@@ -37473,7 +37637,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "شمال غرب الرياض"
   },
   {
     "id": "muzahimiyah",
@@ -37696,7 +37861,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "غرب الرياض"
   },
   {
     "id": "heet-cave",
@@ -37919,7 +38085,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "جنوب الرياض"
   },
   {
     "id": "dolce-riyadh",
@@ -37927,7 +38094,7 @@
     "name_en": "Dolce",
     "category": "حلويات",
     "category_en": "desserts",
-    "neighborhood": "حطين",
+    "neighborhood": "حي حطين",
     "neighborhood_en": "Hittin",
     "description_ar": "محل حلويات إيطالية فاخرة يقدم جيلاتو وتيراميسو وكيك بمعايير إيطالية. من أفضل محلات الحلويات الراقية بالرياض.",
     "google_rating": 4.5,
@@ -38142,7 +38309,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "غرب الرياض"
   },
   {
     "id": "aani-and-dani",
@@ -38150,7 +38318,7 @@
     "name_en": "Aani & Dani",
     "category": "حلويات",
     "category_en": "desserts",
-    "neighborhood": "العليا",
+    "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "محل شوكولاتة وحلويات سعودي فاخر يقدم شوكولاتة يدوية وكيكات وهدايا. من أشهر محلات الشوكولاتة المحلية بالرياض.",
     "google_rating": 4.4,
@@ -38365,7 +38533,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "وسط الرياض"
   },
   {
     "id": "batis",
@@ -38373,7 +38542,7 @@
     "name_en": "Batis",
     "category": "حلويات",
     "category_en": "desserts",
-    "neighborhood": "الياسمين",
+    "neighborhood": "حي الياسمين",
     "neighborhood_en": "Al Yasmin",
     "description_ar": "محل حلويات فرنسية يقدم باتيسري فاخرة وكرواسون ومعجنات. كل شي طازج ومخبوز يومياً بمعايير فرنسية عالية.",
     "google_rating": 4.6,
@@ -38588,7 +38757,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "شمال الرياض"
   },
   {
     "id": "crumbs-riyadh",
@@ -38596,7 +38766,7 @@
     "name_en": "Crumbs",
     "category": "حلويات",
     "category_en": "desserts",
-    "neighborhood": "النرجس",
+    "neighborhood": "حي النرجس",
     "neighborhood_en": "Al Narjis",
     "description_ar": "محل كوكيز وبراونيز طازجة بنكهات مبتكرة. كوكيز عملاقة محشوة ومخبوزة يومياً مع خيارات شوكولاتة فاخرة.",
     "google_rating": 4.3,
@@ -38811,7 +38981,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "شمال الرياض"
   },
   {
     "id": "scoopi-cafe",
@@ -38819,7 +38990,7 @@
     "name_en": "Scoopi Cafe",
     "category": "حلويات",
     "category_en": "desserts",
-    "neighborhood": "الملقا",
+    "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "كافيه آيس كريم سعودي مشهور بالنيتروجين آيس كريم المحضر أمامك. نكهات مبتكرة وتقديم مبهر مع عروض دخان النيتروجين.",
     "google_rating": 4.2,
@@ -39033,7 +39204,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "شمال الرياض"
   },
   {
     "id": "baskin-robbins-riyadh",
@@ -39255,7 +39427,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "متعدد"
   },
   {
     "id": "cinnabon-riyadh",
@@ -39477,7 +39650,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "متعدد"
   },
   {
     "id": "nothing-bundt-cakes",
@@ -39485,7 +39659,7 @@
     "name_en": "Nothing Bundt Cakes",
     "category": "حلويات",
     "category_en": "desserts",
-    "neighborhood": "الملقا",
+    "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "محل كيك أمريكي متخصص بكيكات البندت بنكهات متعددة. كيك رطب ولذيذ مع تغليف أنيق مثالي للهدايا والمناسبات.",
     "google_rating": 4.4,
@@ -39699,7 +39873,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "شمال الرياض"
   },
   {
     "id": "dots-riyadh",
@@ -39707,7 +39882,7 @@
     "name_en": "Dots",
     "category": "حلويات",
     "category_en": "desserts",
-    "neighborhood": "الياسمين",
+    "neighborhood": "حي الياسمين",
     "neighborhood_en": "Al Yasmin",
     "description_ar": "محل دونات حرفية بنكهات مبتكرة ومختلفة. دونات طازجة يومياً بحشوات إبداعية وتزيين فني مميز.",
     "google_rating": 4.3,
@@ -39921,7 +40096,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "شمال الرياض"
   },
   {
     "id": "saadeddin",
@@ -40143,7 +40319,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "متعدد"
   },
   {
     "id": "alromansiah-sweets",
@@ -40366,7 +40543,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "متعدد"
   },
   {
     "id": "holland-house",
@@ -40374,7 +40552,7 @@
     "name_en": "Holland House",
     "category": "حلويات",
     "category_en": "desserts",
-    "neighborhood": "الورود",
+    "neighborhood": "حي الورود",
     "neighborhood_en": "Al Worood",
     "description_ar": "محل وافل وبانكيك هولندي يقدم وافل بلجيكي أصيل مع إضافات متنوعة. من أفضل أماكن الوافل بالرياض مع أجواء مريحة.",
     "google_rating": 4.2,
@@ -40588,7 +40766,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "وسط الرياض"
   },
   {
     "id": "baked-riyadh",
@@ -40596,7 +40775,7 @@
     "name_en": "Baked",
     "category": "حلويات",
     "category_en": "desserts",
-    "neighborhood": "الملقا",
+    "neighborhood": "حي الملقا",
     "neighborhood_en": "Al Malqa",
     "description_ar": "محل مخبوزات وحلويات حرفية يقدم كيك وكوكيز ومافن طازجة يومياً. كل شي مخبوز بمكونات طبيعية بدون مواد حافظة.",
     "google_rating": 4.4,
@@ -40810,7 +40989,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "شمال الرياض"
   },
   {
     "id": "dara-ice-cream",
@@ -40818,7 +40998,7 @@
     "name_en": "Dara Ice Cream",
     "category": "حلويات",
     "category_en": "desserts",
-    "neighborhood": "الصحافة",
+    "neighborhood": "حي الصحافة",
     "neighborhood_en": "As Sahafah",
     "description_ar": "محل آيس كريم محلي يقدم نكهات عربية مبتكرة مثل الهيل والزعفران والتمر. تجربة آيس كريم سعودية بامتياز.",
     "google_rating": 4.3,
@@ -41032,7 +41212,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "شمال الرياض"
   },
   {
     "id": "maestro-desserts",
@@ -41254,7 +41435,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "متعدد"
   },
   {
     "id": "tala-v2",
@@ -41262,7 +41444,7 @@
     "name_en": "Tala Cafe",
     "category": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "المروج",
+    "neighborhood": "حي المروج",
     "neighborhood_en": "Al Muruj",
     "description_ar": "فرع آخر من كافيه تالا بتصميم مختلف وقائمة موسعة. يقدم حلويات فرنسية ومشروبات إبداعية مع أجواء أنثوية راقية.",
     "google_rating": 4.3,
@@ -41476,7 +41658,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "غرب الرياض"
   },
   {
     "id": "al-baik-exit5",
@@ -41484,7 +41667,7 @@
     "name_en": "Al Baik - Exit 5",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "العليا",
+    "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "من أشهر فروع البيك بالرياض على مخرج ٥. طوابير انتظار دائمة تدل على شعبية المكان الكبيرة. نفس القائمة الأسطورية.",
     "google_rating": 4.4,
@@ -41699,7 +41882,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 19:00-22:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "al-baik-kafd",
@@ -41707,7 +41891,7 @@
     "name_en": "Al Baik - KAFD",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "KAFD",
+    "neighborhood": "حي الملك عبدالله المالي",
     "neighborhood_en": "KAFD",
     "description_ar": "فرع البيك الجديد في كافد بتصميم عصري مختلف عن الفروع التقليدية. نفس القائمة المحبوبة مع تجربة جلوس أفضل.",
     "google_rating": 4.3,
@@ -41922,7 +42106,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 19:00-22:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "riyadh-front",
@@ -42145,7 +42330,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "شمال الرياض"
   },
   {
     "id": "al-musmak-fort",
@@ -42153,7 +42339,7 @@
     "name_en": "Al Masmak Fort",
     "category": "ترفيه",
     "category_en": "activity",
-    "neighborhood": "الديرة",
+    "neighborhood": "حي الديرة",
     "neighborhood_en": "Ad Dirah",
     "description_ar": "قلعة تاريخية شهدت معركة فتح الرياض عام ١٩٠٢. معلم وطني يروي قصة توحيد المملكة. تضم متحفاً بمعروضات تاريخية.",
     "google_rating": 4.5,
@@ -42368,7 +42554,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "وسط الرياض"
   },
   {
     "id": "souq-al-zal",
@@ -42376,7 +42563,7 @@
     "name_en": "Souq Al Zal",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "الديرة",
+    "neighborhood": "حي الديرة",
     "neighborhood_en": "Ad Dirah",
     "description_ar": "سوق شعبي تاريخي بقلب الرياض القديمة. يبيع التحف والمقتنيات القديمة والعملات والسجاد. تجربة تسوق تراثية أصيلة.",
     "google_rating": 4.3,
@@ -42590,7 +42777,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "وسط الرياض"
   },
   {
     "id": "souq-al-thumairi",
@@ -42598,7 +42786,7 @@
     "name_en": "Souq Al Thumairi",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "الديرة",
+    "neighborhood": "حي الديرة",
     "neighborhood_en": "Ad Dirah",
     "description_ar": "سوق شعبي تقليدي يبيع البخور والعود والعطور والتوابل. من أقدم الأسواق بالرياض مع تجربة حسية فريدة.",
     "google_rating": 4.1,
@@ -42812,7 +43000,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "وسط الرياض"
   },
   {
     "id": "al-ahsa-road",
@@ -42820,7 +43009,7 @@
     "name_en": "Al Ahsa Road",
     "category": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "العزيزية",
+    "neighborhood": "حي العزيزية",
     "neighborhood_en": "Al Aziziyah",
     "description_ar": "شارع مطاعم شعبية مشهور شرق الرياض. يضم مطاعم يمنية وبخارية ومندي متنوعة. وجهة لمحبي الأكل الشعبي الأصيل.",
     "google_rating": 4.0,
@@ -43035,7 +43224,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 19:00-22:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "جنوب الرياض"
   },
   {
     "id": "olaya-street",
@@ -43043,7 +43233,7 @@
     "name_en": "Olaya Street",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "العليا",
+    "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "الشارع التجاري الرئيسي بالرياض يضم محلات ومطاعم ومقاهي على طول الطريق. من أشهر شوارع المملكة التجارية.",
     "google_rating": 4.2,
@@ -43257,7 +43447,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "وسط الرياض"
   },
   {
     "id": "tahlia-street",
@@ -43265,7 +43456,7 @@
     "name_en": "Tahlia Street",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "العليا",
+    "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "شارع التسوق والمطاعم الراقية بالرياض. يضم ماركات عالمية ومطاعم فاخرة وكافيهات. من أرقى شوارع المدينة.",
     "google_rating": 4.4,
@@ -43480,7 +43671,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "وسط الرياض"
   },
   {
     "id": "batha-market",
@@ -43488,7 +43680,7 @@
     "name_en": "Batha Market",
     "category": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "البطحاء",
+    "neighborhood": "حي البطحاء",
     "neighborhood_en": "Batha",
     "description_ar": "سوق شعبي ضخم يبيع إلكترونيات وملابس وأقمشة بأسعار رخيصة. تجربة تسوق شعبية حقيقية بأجواء مزدحمة وحيوية.",
     "google_rating": 3.5,
@@ -43702,7 +43894,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "وسط الرياض"
   },
   {
     "id": "king-fahd-library",
@@ -43710,7 +43903,7 @@
     "name_en": "King Fahd National Library",
     "category": "ترفيه",
     "category_en": "activity",
-    "neighborhood": "العليا",
+    "neighborhood": "حي العليا",
     "neighborhood_en": "Olaya",
     "description_ar": "المكتبة الوطنية للمملكة بتصميم معماري مميز. تضم ملايين الكتب والمخطوطات النادرة. تجربة ثقافية وتعليمية فريدة.",
     "google_rating": 4.4,
@@ -43925,7 +44118,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "وسط الرياض"
   },
   {
     "id": "ad-diriyah-gate",
@@ -44149,7 +44343,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "الدرعية"
   },
   {
     "id": "ithra-art-gallery",
@@ -44157,7 +44352,7 @@
     "name_en": "Ithra Art Gallery",
     "category": "ترفيه",
     "category_en": "activity",
-    "neighborhood": "KAFD",
+    "neighborhood": "حي الملك عبدالله المالي",
     "neighborhood_en": "KAFD",
     "description_ar": "معرض فني معاصر يستضيف معارض محلية وعالمية. يقدم برامج تعليمية وورش عمل فنية مع مساحات عرض حديثة.",
     "google_rating": 4.3,
@@ -44372,7 +44567,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "وسط الرياض"
   },
   {
     "id": "nojoom-al-riyadh",
@@ -44595,7 +44791,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "شمال الرياض"
   },
   {
     "id": "boulevard-world",
@@ -44818,7 +45015,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "الصباح أو بداية العصر للهدوء"
+    "best_visit_time": "الصباح أو بداية العصر للهدوء",
+    "district": "شمال الرياض"
   },
   {
     "id": "wadi-hanifah-dam",
@@ -45041,7 +45239,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "غرب الرياض"
   },
   {
     "id": "prince-sultan-park",
@@ -45049,7 +45248,7 @@
     "name_en": "Prince Sultan Park",
     "category": "طبيعة",
     "category_en": "nature",
-    "neighborhood": "الربوة",
+    "neighborhood": "حي الربوة",
     "neighborhood_en": "Al Rabwa",
     "description_ar": "حديقة كبيرة ومهيأة جنوب الرياض مع ممشى ومناطق لعب أطفال وحدائق منسقة. وجهة عائلية مثالية.",
     "google_rating": 4.1,
@@ -45264,7 +45463,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "شرق الرياض"
   },
   {
     "id": "boulevard-world",
@@ -45499,7 +45699,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "غرب الرياض"
   },
   {
     "id": "boulevard-city",
@@ -45734,7 +45935,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "غرب الرياض"
   },
   {
     "id": "the-zone-riyadh-season",
@@ -45969,7 +46171,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "غرب الرياض"
   },
   {
     "id": "winter-wonderland-riyadh",
@@ -46204,13 +46407,14 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "غرب الرياض"
   },
   {
     "id": "samn-ala-asal",
     "name_ar": "مسرحية سمن على عسل",
     "name_en": "Samn Ala Asal Play",
-    "neighborhood": "مسرح محمد العلي",
+    "neighborhood": "حي الملك عبدالله المالي",
     "neighborhood_en": "Mohammed Al-Ali Theater",
     "description_ar": "مسرحية كوميدية سعودية شهيرة تقدم على مسرح محمد العلي. عمل فني مميز يجمع بين الكوميديا والدراما بأسلوب سعودي أصيل مع نجوم المسرح السعودي.",
     "google_rating": 4.6,
@@ -46438,13 +46642,14 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "وسط الرياض"
   },
   {
     "id": "layali-aldeira-comedy",
     "name_ar": "ليالي الديرة الكوميدية",
     "name_en": "Layali Al-Dira Comedy Nights",
-    "neighborhood": "المعيقلية",
+    "neighborhood": "حي المعيقلية",
     "neighborhood_en": "Muaiqliya",
     "description_ar": "أمسيات كوميدية في قلب الديرة التاريخية بالمعيقلية. عروض ستاند أب كوميدي لنجوم الكوميديا السعودية والعربية في أجواء تراثية مميزة.",
     "google_rating": 4.4,
@@ -46672,13 +46877,14 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "وسط الرياض"
   },
   {
     "id": "premier-padel-p1",
     "name_ar": "بطولة بريميير بادل P1",
     "name_en": "Premier Padel P1 Championship",
-    "neighborhood": "بوليفارد سيتي",
+    "neighborhood": "بوليفارد الرياض",
     "neighborhood_en": "Boulevard City",
     "description_ar": "بطولة عالمية لرياضة البادل تستضيفها الرياض بمشاركة أفضل اللاعبين العالميين. أجواء رياضية حماسية مع تجربة مشاهدة مباشرة مثيرة.",
     "google_rating": 4.5,
@@ -46906,13 +47112,14 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "شمال الرياض"
   },
   {
     "id": "saudi-cup-horse-racing",
     "name_ar": "كأس السعودية للخيل",
     "name_en": "Saudi Cup Horse Racing",
-    "neighborhood": "ميدان الملك عبدالعزيز",
+    "neighborhood": "حي المربع",
     "neighborhood_en": "King Abdulaziz Racecourse",
     "description_ar": "أغلى سباق خيل في العالم بجوائز تتجاوز ٣٥ مليون دولار. حدث عالمي يجمع أفضل الخيول والفرسان من حول العالم في أجواء فاخرة واستثنائية.",
     "google_rating": 4.7,
@@ -47141,13 +47348,14 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "وسط الرياض"
   },
   {
     "id": "wwe-super-show",
     "name_ar": "WWE سوبر شو — موسم الرياض",
     "name_en": "WWE Super Show — Riyadh Season",
-    "neighborhood": "بوليفارد سيتي",
+    "neighborhood": "بوليفارد الرياض",
     "neighborhood_en": "Boulevard City",
     "description_ar": "عرض مصارعة محترفة عالمي ضمن فعاليات موسم الرياض. نجوم WWE الكبار في عروض مثيرة ومواجهات حصرية لا تُعرض إلا في الرياض.",
     "google_rating": 4.6,
@@ -47375,7 +47583,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "شمال الرياض"
   },
   {
     "id": "via-riyadh",
@@ -47609,7 +47818,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "الدرعية"
   },
   {
     "id": "jax-riyadh",
@@ -47844,7 +48054,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "شمال الرياض"
   },
   {
     "id": "diriyah-heritage",
@@ -48078,7 +48289,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "الدرعية"
   },
   {
     "id": "formula-e-diriyah",
@@ -48312,13 +48524,14 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "الدرعية"
   },
   {
     "id": "leap-tech-conference",
     "name_ar": "معرض LEAP التقني",
     "name_en": "LEAP Tech Conference",
-    "neighborhood": "KAFD — المركز المالي",
+    "neighborhood": "حي الملك عبدالله المالي",
     "neighborhood_en": "KAFD",
     "description_ar": "أكبر معرض تقني في الشرق الأوسط يُقام سنوياً في الرياض. يجمع شركات التقنية العالمية والناشئة مع فرص تواصل وإطلاق منتجات وابتكارات.",
     "google_rating": 4.6,
@@ -48546,7 +48759,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "وسط الرياض"
   },
   {
     "id": "comic-con-arabia",
@@ -48781,7 +48995,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "شمال الرياض"
   },
   {
     "id": "soundstorm-festival",
@@ -49015,7 +49230,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "شمال شرق الرياض"
   },
   {
     "id": "mdlbeast",
@@ -49249,13 +49465,14 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "شمال شرق الرياض"
   },
   {
     "id": "riyadh-book-fair",
     "name_ar": "معرض الرياض الدولي للكتاب",
     "name_en": "Riyadh International Book Fair",
-    "neighborhood": "جامعة الملك سعود",
+    "neighborhood": "حي الملز",
     "neighborhood_en": "King Saud University Area",
     "description_ar": "أكبر معرض كتاب في المنطقة يجمع دور نشر عربية وعالمية. فعاليات ثقافية وندوات وتوقيع كتب مع أسعار مخفضة على آلاف العناوين.",
     "google_rating": 4.5,
@@ -49483,7 +49700,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "وسط الرياض"
   },
   {
     "id": "janadriyah-festival",
@@ -49717,7 +49935,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "شرق الرياض"
   },
   {
     "id": "riyadh-carnival",
@@ -49952,7 +50171,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "شمال الرياض"
   },
   {
     "id": "restatex-exhibition",
@@ -50186,13 +50406,14 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "شمال الرياض"
   },
   {
     "id": "camel-racing-riyadh",
     "name_ar": "سباق الهجن — ميدان الملك عبدالعزيز",
     "name_en": "Camel Racing — King Abdulaziz Racecourse",
-    "neighborhood": "ميدان الملك عبدالعزيز",
+    "neighborhood": "حي المربع",
     "neighborhood_en": "King Abdulaziz Racecourse",
     "description_ar": "سباقات الهجن التقليدية في ميدان الملك عبدالعزيز. رياضة سعودية أصيلة بتقنيات حديثة مع أجواء تراثية حماسية وجوائز مالية كبيرة.",
     "google_rating": 4.4,
@@ -50420,13 +50641,14 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "وسط الرياض"
   },
   {
     "id": "rock-in-riyadh",
     "name_ar": "Rock in Riyadh",
     "name_en": "Rock in Riyadh",
-    "neighborhood": "بوليفارد سيتي",
+    "neighborhood": "بوليفارد الرياض",
     "neighborhood_en": "Boulevard City",
     "description_ar": "حفل روك عالمي يستضيف فرق ونجوم الروك العالميين في الرياض. تجربة موسيقية مختلفة مع عروض إضاءة مبهرة وأجواء حماسية لمحبي الروك.",
     "google_rating": 4.5,
@@ -50654,7 +50876,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "شمال الرياض"
   },
   {
     "id": "via-riyadh-concerts",
@@ -50889,13 +51112,14 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "الدرعية"
   },
   {
     "id": "layali-muaiqliya",
     "name_ar": "ليالي المعيقلية — فعاليات ثقافية",
     "name_en": "Muaiqliya Nights — Cultural Events",
-    "neighborhood": "المعيقلية",
+    "neighborhood": "حي المعيقلية",
     "neighborhood_en": "Muaiqliya",
     "description_ar": "فعاليات ثقافية وفنية في حي المعيقلية التاريخي. أمسيات شعرية وعروض فنية ومعارض في أزقة الديرة القديمة مع أجواء تراثية ساحرة.",
     "google_rating": 4.4,
@@ -51123,7 +51347,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "وسط الرياض"
   },
   {
     "id": "the-groves-boulevard",
@@ -51358,13 +51583,14 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "شمال الرياض"
   },
   {
     "id": "anime-village-riyadh",
     "name_ar": "Anime Village — موسم الرياض",
     "name_en": "Anime Village — Riyadh Season",
-    "neighborhood": "بوليفارد سيتي",
+    "neighborhood": "بوليفارد الرياض",
     "neighborhood_en": "Boulevard City",
     "description_ar": "قرية مخصصة لعشاق الأنيمي ضمن موسم الرياض. تجارب تفاعلية مع شخصيات أنيمي مشهورة ومتاجر حصرية ومعارض فنية يابانية.",
     "google_rating": 4.4,
@@ -51592,7 +51818,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "شمال الرياض"
   },
   {
     "id": "riyadh-safari",
@@ -51827,13 +52054,14 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "الدرعية"
   },
   {
     "id": "snow-city-riyadh",
     "name_ar": "Snow City الرياض",
     "name_en": "Snow City Riyadh",
-    "neighborhood": "العثيم مول",
+    "neighborhood": "حي الربوة",
     "neighborhood_en": "Othaim Mall",
     "description_ar": "مدينة ثلجية داخلية في قلب الرياض. تجربة فريدة للتزلج والألعاب الثلجية في أجواء باردة وسط الصحراء. مناسبة للعائلات والأطفال.",
     "google_rating": 4.2,
@@ -52062,13 +52290,14 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "شرق الرياض"
   },
   {
     "id": "starcity-riyadh",
     "name_ar": "StarCity — ألعاب ومغامرات",
     "name_en": "StarCity — Games & Adventures",
-    "neighborhood": "طريق الملك فهد",
+    "neighborhood": "حي العليا",
     "neighborhood_en": "King Fahd Road",
     "description_ar": "مدينة ألعاب داخلية ضخمة تجمع بين ألعاب الفيديو والواقع الافتراضي وألعاب الملاهي. تجربة ترفيهية متكاملة للعائلات والشباب مع أحدث التقنيات.",
     "google_rating": 4.3,
@@ -52297,7 +52526,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الفعالية أو أيام الأسبوع"
+    "best_visit_time": "بداية الفعالية أو أيام الأسبوع",
+    "district": "وسط الرياض"
   },
   {
     "id": "crave",
@@ -52531,7 +52761,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "medd-cafe",
@@ -52765,7 +52996,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "saa-cafe",
@@ -52999,7 +53231,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "moai-coffee",
@@ -53233,7 +53466,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "وسط الرياض"
   },
   {
     "id": "kana-cafe",
@@ -53467,7 +53701,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "3rd-wave-coffee",
@@ -53701,7 +53936,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "وسط الرياض"
   },
   {
     "id": "barns-coffee",
@@ -53935,7 +54171,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "غرب الرياض"
   },
   {
     "id": "cup8",
@@ -54169,7 +54406,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شرق الرياض"
   },
   {
     "id": "the-coffee-club",
@@ -54403,7 +54641,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "غرب الرياض"
   },
   {
     "id": "qahwa-house",
@@ -54637,7 +54876,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "غرب الرياض"
   },
   {
     "id": "ratio-specialty-coffee",
@@ -54871,7 +55111,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "غرب الرياض"
   },
   {
     "id": "revolver-coffee",
@@ -55105,7 +55346,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "غرب الرياض"
   },
   {
     "id": "mazaq-coffee",
@@ -55339,7 +55581,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شرق الرياض"
   },
   {
     "id": "nabt-fenjan",
@@ -55573,7 +55816,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "hakkasan",
@@ -55808,7 +56052,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "raising-canes",
@@ -56043,7 +56288,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 19:00-22:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "shake-shack",
@@ -56278,7 +56524,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "five-guys",
@@ -56513,7 +56760,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "nandos",
@@ -56749,7 +56997,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "shawarmer",
@@ -56984,7 +57233,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 19:00-22:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "maestro-pizza",
@@ -57219,7 +57469,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 19:00-22:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "panda-express",
@@ -57454,7 +57705,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 19:00-22:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "غرب الرياض"
   },
   {
     "id": "stk-steakhouse",
@@ -57689,7 +57941,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "coya",
@@ -57924,7 +58177,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "amazonico",
@@ -58159,7 +58413,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "غرب الرياض"
   },
   {
     "id": "tatel",
@@ -58394,7 +58649,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "غرب الرياض"
   },
   {
     "id": "karaki-lounge",
@@ -58629,7 +58885,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 19:00-22:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "salt",
@@ -58864,7 +59121,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "din-tai-fung",
@@ -59099,7 +59357,8 @@
       ]
     },
     "peak_hours": "20:00-23:00",
-    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م"
+    "best_visit_time": "احجز مسبقاً، أفضل وقت 7:30-8:00 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "the-warehouse",
@@ -59334,7 +59593,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الأسبوع أو الصباح"
+    "best_visit_time": "بداية الأسبوع أو الصباح",
+    "district": "الدرعية"
   },
   {
     "id": "vr-land",
@@ -59569,7 +59829,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الأسبوع أو الصباح"
+    "best_visit_time": "بداية الأسبوع أو الصباح",
+    "district": "شمال الرياض"
   },
   {
     "id": "k1-speed",
@@ -59804,7 +60065,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الأسبوع أو الصباح"
+    "best_visit_time": "بداية الأسبوع أو الصباح",
+    "district": "شمال الرياض"
   },
   {
     "id": "escape-hunt",
@@ -60039,7 +60301,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الأسبوع أو الصباح"
+    "best_visit_time": "بداية الأسبوع أو الصباح",
+    "district": "وسط الرياض"
   },
   {
     "id": "kidzania",
@@ -60274,7 +60537,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الأسبوع أو الصباح"
+    "best_visit_time": "بداية الأسبوع أو الصباح",
+    "district": "شمال الرياض"
   },
   {
     "id": "chuck-e-cheese",
@@ -60509,7 +60773,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الأسبوع أو الصباح"
+    "best_visit_time": "بداية الأسبوع أو الصباح",
+    "district": "شرق الرياض"
   },
   {
     "id": "gamenation",
@@ -60744,7 +61009,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الأسبوع أو الصباح"
+    "best_visit_time": "بداية الأسبوع أو الصباح",
+    "district": "وسط الرياض"
   },
   {
     "id": "al-hokair-time",
@@ -60979,7 +61245,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الأسبوع أو الصباح"
+    "best_visit_time": "بداية الأسبوع أو الصباح",
+    "district": "غرب الرياض"
   },
   {
     "id": "pitfire",
@@ -61214,7 +61481,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الأسبوع أو الصباح"
+    "best_visit_time": "بداية الأسبوع أو الصباح",
+    "district": "شمال الرياض"
   },
   {
     "id": "fun-land",
@@ -61449,7 +61717,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الأسبوع أو الصباح"
+    "best_visit_time": "بداية الأسبوع أو الصباح",
+    "district": "شرق الرياض"
   },
   {
     "id": "muvi-cinemas",
@@ -61685,7 +61954,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الأسبوع أو الصباح"
+    "best_visit_time": "بداية الأسبوع أو الصباح",
+    "district": "شمال الرياض"
   },
   {
     "id": "boulevard-riyadh-city",
@@ -61920,7 +62190,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الأسبوع أو الصباح"
+    "best_visit_time": "بداية الأسبوع أو الصباح",
+    "district": "غرب الرياض"
   },
   {
     "id": "topgolf",
@@ -62155,7 +62426,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الأسبوع أو الصباح"
+    "best_visit_time": "بداية الأسبوع أو الصباح",
+    "district": "شمال الرياض"
   },
   {
     "id": "sky-zone",
@@ -62390,7 +62662,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الأسبوع أو الصباح"
+    "best_visit_time": "بداية الأسبوع أو الصباح",
+    "district": "شمال الرياض"
   },
   {
     "id": "padel-in",
@@ -62625,7 +62898,8 @@
       ]
     },
     "peak_hours": "18:00-22:00",
-    "best_visit_time": "بداية الأسبوع أو الصباح"
+    "best_visit_time": "بداية الأسبوع أو الصباح",
+    "district": "غرب الرياض"
   },
   {
     "id": "hyper-panda",
@@ -62859,7 +63133,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "وسط الرياض"
   },
   {
     "id": "danube",
@@ -63094,7 +63369,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "وسط الرياض"
   },
   {
     "id": "extra",
@@ -63328,7 +63604,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "شمال الرياض"
   },
   {
     "id": "jarir-bookstore",
@@ -63337,7 +63614,7 @@
     "category": "تسوق",
     "category_ar": "تسوق",
     "category_en": "shopping",
-    "neighborhood": "طريق الملك فهد",
+    "neighborhood": "حي العليا",
     "neighborhood_en": "King Fahd Road",
     "description_ar": "أشهر مكتبة بالسعودية تبيع كتب وإلكترونيات وقرطاسية. وجهة أساسية للطلاب والمثقفين مع أحدث الكتب العربية والإنجليزية.",
     "google_rating": 4.4,
@@ -63562,7 +63839,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "وسط الرياض"
   },
   {
     "id": "the-zone-mall",
@@ -63797,7 +64075,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "غرب الرياض"
   },
   {
     "id": "al-othaim-mall",
@@ -64032,7 +64311,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "شرق الرياض"
   },
   {
     "id": "u-walk-2",
@@ -64266,7 +64546,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "غرب الرياض"
   },
   {
     "id": "wadi-laban-park",
@@ -64501,7 +64782,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "جنوب الرياض"
   },
   {
     "id": "dq-park",
@@ -64736,7 +65018,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "غرب الرياض"
   },
   {
     "id": "king-fahd-park",
@@ -64971,7 +65254,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "وسط الرياض"
   },
   {
     "id": "al-yamama-park",
@@ -65206,7 +65490,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "وسط الرياض"
   },
   {
     "id": "prince-faisal-bin-fahd-park",
@@ -65441,7 +65726,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "وسط الرياض"
   },
   {
     "id": "al-sulay-garden",
@@ -65676,7 +65962,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "شرق الرياض"
   },
   {
     "id": "al-thumama-nature-park",
@@ -65911,7 +66198,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "شمال شرق الرياض"
   },
   {
     "id": "hanouf-park",
@@ -66146,7 +66434,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "شمال الرياض"
   },
   {
     "id": "rawabi-hills",
@@ -66381,7 +66670,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "شمال الرياض"
   },
   {
     "id": "krispy-kreme",
@@ -66615,7 +66905,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "وسط الرياض"
   },
   {
     "id": "jadore",
@@ -66850,7 +67141,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "شمال الرياض"
   },
   {
     "id": "le-pain-quotidien",
@@ -67084,7 +67376,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "وسط الرياض"
   },
   {
     "id": "magnolia-bakery",
@@ -67318,7 +67611,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "شمال الرياض"
   },
   {
     "id": "paris-baguette",
@@ -67552,7 +67846,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "شمال الرياض"
   },
   {
     "id": "chez-le-n-tre",
@@ -67787,7 +68082,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "وسط الرياض"
   },
   {
     "id": "leto",
@@ -68022,7 +68318,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "غرب الرياض"
   },
   {
     "id": "delizia",
@@ -68256,7 +68553,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "شمال الرياض"
   },
   {
     "id": "al-baba-sweets",
@@ -68490,7 +68788,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "وسط الرياض"
   },
   {
     "id": "biscuiterie-de-provence",
@@ -68725,7 +69024,8 @@
       ]
     },
     "peak_hours": "19:00-23:00",
-    "best_visit_time": "بعد الظهر 2-5 أو الصباح"
+    "best_visit_time": "بعد الظهر 2-5 أو الصباح",
+    "district": "غرب الرياض"
   },
   {
     "id": "wafflizer",
@@ -68959,7 +69259,8 @@
       ]
     },
     "peak_hours": "8:00-11:00, 16:00-18:00",
-    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6"
+    "best_visit_time": "صباحاً من 8-10 أو بعد العصر 4-6",
+    "district": "شمال الرياض"
   },
   {
     "id": "jan-burger",
@@ -69194,7 +69495,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "takya-riyadh",
@@ -69429,7 +69731,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "وسط الرياض"
   },
   {
     "id": "soy-kitchen",
@@ -69664,7 +69967,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "kabana",
@@ -69899,7 +70203,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "غرب الرياض"
   },
   {
     "id": "buffalo-wild-wings",
@@ -70134,7 +70439,8 @@
       ]
     },
     "peak_hours": "12:00-14:00, 20:00-23:00",
-    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م"
+    "best_visit_time": "قبل وقت الذروة: 11:30 ص أو 7:30 م",
+    "district": "شمال الرياض"
   },
   {
     "id": "sahara-mall",
@@ -70369,7 +70675,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "شمال الرياض"
   },
   {
     "id": "granada-center",
@@ -70603,7 +70910,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "شمال الرياض"
   },
   {
     "id": "kingdom-centre-mall",
@@ -70838,7 +71146,8 @@
       ]
     },
     "peak_hours": "17:00-22:00",
-    "best_visit_time": "أيام الأسبوع الصباح 10-12"
+    "best_visit_time": "أيام الأسبوع الصباح 10-12",
+    "district": "وسط الرياض"
   },
   {
     "id": "king-abdullah-park",
@@ -71073,7 +71382,8 @@
       ]
     },
     "peak_hours": "7:00-10:00, 16:00-19:00",
-    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب"
+    "best_visit_time": "الصباح الباكر 6-9 أو قبل المغرب",
+    "district": "وسط الرياض"
   },
   {
     "id": "ramadan-tent-ritz",
@@ -71082,7 +71392,7 @@
     "category": "مطعم",
     "category_ar": "مطعم",
     "category_en": "restaurant",
-    "neighborhood": "حي الدبلوماسي",
+    "neighborhood": "حي السفارات",
     "neighborhood_en": "Diplomatic Quarter",
     "description_ar": "خيمة رمضانية فاخرة في فندق الريتز كارلتون تقدم بوفيه إفطار وسحور بمستوى عالمي. أجواء تراثية أنيقة مع أطباق عربية وعالمية متنوعة. تجربة رمضانية لا تُنسى للعوائل والمجموعات.",
     "google_rating": 4.7,
@@ -71311,7 +71621,8 @@
       "أطفال"
     ],
     "is_free": false,
-    "cuisine": "عالمي"
+    "cuisine": "عالمي",
+    "district": "غرب الرياض"
   },
   {
     "id": "ramadan-tent-four-seasons",
@@ -71548,7 +71859,8 @@
       "أزواج"
     ],
     "is_free": false,
-    "cuisine": "عالمي"
+    "cuisine": "عالمي",
+    "district": "شمال الرياض"
   },
   {
     "id": "ramadan-tent-hilton",
@@ -71786,7 +72098,8 @@
       "أطفال"
     ],
     "is_free": false,
-    "cuisine": "عالمي"
+    "cuisine": "عالمي",
+    "district": "وسط الرياض"
   },
   {
     "id": "najd-village-ramadan",
@@ -72023,7 +72336,8 @@
       "أزواج"
     ],
     "is_free": false,
-    "cuisine": "سعودي"
+    "cuisine": "سعودي",
+    "district": "غرب الرياض"
   },
   {
     "id": "takiya-ramadan",
@@ -72260,7 +72574,8 @@
       "أزواج"
     ],
     "is_free": false,
-    "cuisine": "تركي"
+    "cuisine": "تركي",
+    "district": "شمال الرياض"
   },
   {
     "id": "suhoor-barns",
@@ -72496,7 +72811,8 @@
       "شباب",
       "أزواج"
     ],
-    "is_free": false
+    "is_free": false,
+    "district": "شمال الرياض"
   },
   {
     "id": "suhoor-dose",
@@ -72734,7 +73050,8 @@
       "عوائل",
       "أطفال"
     ],
-    "is_free": false
+    "is_free": false,
+    "district": "وسط الرياض"
   },
   {
     "id": "suhoor-mama-noura",
@@ -72971,7 +73288,8 @@
       "أزواج"
     ],
     "is_free": false,
-    "cuisine": "سعودي"
+    "cuisine": "سعودي",
+    "district": "وسط الرياض"
   },
   {
     "id": "kunafa-habiba",
@@ -73207,7 +73525,8 @@
       "عوائل",
       "أطفال"
     ],
-    "is_free": false
+    "is_free": false,
+    "district": "وسط الرياض"
   },
   {
     "id": "luqaimat-um-ali",
@@ -73443,7 +73762,8 @@
       "عوائل",
       "أطفال"
     ],
-    "is_free": false
+    "is_free": false,
+    "district": "شرق الرياض"
   },
   {
     "id": "qatayef-al-sham",
@@ -73679,7 +73999,8 @@
       "عوائل",
       "أطفال"
     ],
-    "is_free": false
+    "is_free": false,
+    "district": "وسط الرياض"
   },
   {
     "id": "tahliya-after-taraweeh",
@@ -73688,7 +74009,7 @@
     "category": "كافيه",
     "category_ar": "كافيه",
     "category_en": "cafe",
-    "neighborhood": "شارع التحلية",
+    "neighborhood": "حي العليا",
     "neighborhood_en": "Tahlia Street",
     "description_ar": "شارع التحلية يتحول في رمضان لوجهة مثالية بعد صلاة التراويح. كافيهات ومحلات آيسكريم ومطاعم تفتح حتى الفجر. أجواء رمضانية حيوية وممشى مميز.",
     "google_rating": 4.5,
@@ -73915,7 +74236,8 @@
       "شباب",
       "أزواج"
     ],
-    "is_free": false
+    "is_free": false,
+    "district": "وسط الرياض"
   },
   {
     "id": "baskin-robbins-ramadan",
@@ -74151,7 +74473,8 @@
       "عوائل",
       "أطفال"
     ],
-    "is_free": false
+    "is_free": false,
+    "district": "متعدد"
   },
   {
     "id": "majlis-ramadan-diriyah",
@@ -74387,7 +74710,8 @@
       "عوائل",
       "شباب"
     ],
-    "is_free": false
+    "is_free": false,
+    "district": "الدرعية"
   },
   {
     "id": "majlis-kingdom-tower",
@@ -74624,7 +74948,8 @@
       "شباب",
       "أزواج"
     ],
-    "is_free": false
+    "is_free": false,
+    "district": "وسط الرياض"
   },
   {
     "id": "ramadan-nights-boulevard",
@@ -74861,7 +75186,8 @@
       "شباب",
       "أطفال"
     ],
-    "is_free": false
+    "is_free": false,
+    "district": "شمال الرياض"
   },
   {
     "id": "ramadan-bazaar",
@@ -75097,7 +75423,8 @@
       "عوائل",
       "شباب"
     ],
-    "is_free": true
+    "is_free": true,
+    "district": "شرق الرياض"
   },
   {
     "id": "iftar-al-baik-ramadan",
@@ -75335,7 +75662,8 @@
       "أطفال"
     ],
     "is_free": false,
-    "cuisine": "عالمي"
+    "cuisine": "عالمي",
+    "district": "متعدد"
   },
   {
     "id": "lucin-ramadan-iftar",
@@ -75572,6 +75900,7 @@
       "أزواج"
     ],
     "is_free": false,
-    "cuisine": "أرمني"
+    "cuisine": "أرمني",
+    "district": "وسط الرياض"
   }
 ]
