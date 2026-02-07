@@ -1,6 +1,3 @@
 User-agent: *
 Allow: /
-Disallow: /scripts/
-Disallow: /data/
-
-Sitemap: https://wain-nrooh.com/sitemap.xml
+Sitemap: https://treklaps.github.io/riyadh-places/sitemap.xml
