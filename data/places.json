@@ -6523,5 +6523,1235 @@
     "google_maps_url": "https://maps.google.com/?q=Prince+Sultan+Park+Riyadh",
     "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?w=400&h=300&fit=crop",
     "category_ar": "طبيعة"
+  },
+  {
+    "id": "boulevard-world",
+    "name_ar": "موسم الرياض — بوليفارد وورلد",
+    "name_en": "Riyadh Season — Boulevard World",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "أكبر مدينة ترفيهية في موسم الرياض تضم مناطق مستوحاة من حول العالم. تجربة فريدة تجمع بين الترفيه والمطاعم والعروض الحية والألعاب المتنوعة لجميع الأعمار.",
+    "google_rating": 4.4,
+    "review_count": 52000,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "تجربة خيالية! كل منطقة فيها عالم مختلف، تحس إنك سافرت حول العالم",
+    "pros_ar": [
+      "تنوع المناطق والتجارب العالمية",
+      "عروض حية ومسرحيات مبهرة",
+      "مطاعم عالمية ومتنوعة"
+    ],
+    "cons_ar": [
+      "ازدحام شديد في عطلة نهاية الأسبوع",
+      "الأسعار مرتفعة نسبياً"
+    ],
+    "best_time": "أيام الأسبوع المساء",
+    "google_maps_url": "https://maps.google.com/?q=Boulevard+World+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=400&h=300&fit=crop",
+    "image_placeholder": "boulevard-world.jpg",
+    "review_quote": "تجربة خيالية! كل منطقة فيها عالم مختلف، تحس إنك سافرت حول العالم",
+    "pros": [
+      "تنوع المناطق والتجارب العالمية",
+      "عروض حية ومسرحيات مبهرة",
+      "مطاعم عالمية ومتنوعة"
+    ],
+    "cons": [
+      "ازدحام شديد في عطلة نهاية الأسبوع",
+      "الأسعار مرتفعة نسبياً"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "boulevard-city",
+    "name_ar": "بوليفارد سيتي — موسم الرياض",
+    "name_en": "Boulevard City — Riyadh Season",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "منطقة ترفيهية نابضة بالحياة في قلب موسم الرياض. تضم مطاعم فاخرة ومقاهي عالمية وفعاليات موسيقية وعروض مباشرة مع أجواء ليلية ساحرة.",
+    "google_rating": 4.5,
+    "review_count": 45000,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "أجواء رهيبة بالليل، المطاعم والكافيهات كلها فخمة",
+    "pros_ar": [
+      "أجواء ليلية مميزة ونابضة بالحياة",
+      "تنوع المطاعم والكافيهات",
+      "فعاليات وحفلات مستمرة"
+    ],
+    "cons_ar": [
+      "صعوبة المواقف في أوقات الذروة",
+      "الأسعار مرتفعة"
+    ],
+    "best_time": "المساء بعد ٨",
+    "google_maps_url": "https://maps.google.com/?q=Boulevard+City+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1540575467063-178a50e2fd60?w=400&h=300&fit=crop",
+    "image_placeholder": "boulevard-city.jpg",
+    "review_quote": "أجواء رهيبة بالليل، المطاعم والكافيهات كلها فخمة",
+    "pros": [
+      "أجواء ليلية مميزة ونابضة بالحياة",
+      "تنوع المطاعم والكافيهات",
+      "فعاليات وحفلات مستمرة"
+    ],
+    "cons": [
+      "صعوبة المواقف في أوقات الذروة",
+      "الأسعار مرتفعة"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "the-zone-riyadh-season",
+    "name_ar": "ذا زون — موسم الرياض",
+    "name_en": "The Zone — Riyadh Season",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "منطقة ترفيهية مفتوحة تجمع بين الألعاب والمغامرات والمطاعم. تضم ألعاب الواقع الافتراضي وتجارب تفاعلية مثيرة مناسبة للعائلات والشباب.",
+    "google_rating": 4.3,
+    "review_count": 18000,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مكان ممتع للعائلة، الأطفال استانسوا كثير",
+    "pros_ar": [
+      "ألعاب تفاعلية ممتعة",
+      "مناسب للعائلات والأطفال",
+      "تنوع الأنشطة"
+    ],
+    "cons_ar": [
+      "بعض الألعاب تحتاج انتظار طويل",
+      "المساحة محدودة أوقات الذروة"
+    ],
+    "best_time": "أيام الأسبوع بعد العصر",
+    "google_maps_url": "https://maps.google.com/?q=The+Zone+Riyadh+Season",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=400&h=300&fit=crop",
+    "image_placeholder": "the-zone-riyadh-season.jpg",
+    "review_quote": "مكان ممتع للعائلة، الأطفال استانسوا كثير",
+    "pros": [
+      "ألعاب تفاعلية ممتعة",
+      "مناسب للعائلات والأطفال",
+      "تنوع الأنشطة"
+    ],
+    "cons": [
+      "بعض الألعاب تحتاج انتظار طويل",
+      "المساحة محدودة أوقات الذروة"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "winter-wonderland-riyadh",
+    "name_ar": "وينتر وندرلاند — موسم الرياض",
+    "name_en": "Winter Wonderland — Riyadh Season",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "تجربة شتوية ساحرة مستوحاة من وينتر وندرلاند لندن. ألعاب ملاهي كلاسيكية وأكشاك طعام وعروض ثلجية وأجواء احتفالية مميزة.",
+    "google_rating": 4.2,
+    "review_count": 22000,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "جو شتوي جميل والألعاب حماسية، يستاهل الزيارة",
+    "pros_ar": [
+      "أجواء شتوية مميزة",
+      "ألعاب ملاهي متنوعة",
+      "أكشاك طعام لذيذة"
+    ],
+    "cons_ar": [
+      "الجو ممكن يكون حار برا المناطق المكيفة",
+      "ازدحام في العطل"
+    ],
+    "best_time": "المساء",
+    "google_maps_url": "https://maps.google.com/?q=Winter+Wonderland+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=400&h=300&fit=crop",
+    "image_placeholder": "winter-wonderland-riyadh.jpg",
+    "review_quote": "جو شتوي جميل والألعاب حماسية، يستاهل الزيارة",
+    "pros": [
+      "أجواء شتوية مميزة",
+      "ألعاب ملاهي متنوعة",
+      "أكشاك طعام لذيذة"
+    ],
+    "cons": [
+      "الجو ممكن يكون حار برا المناطق المكيفة",
+      "ازدحام في العطل"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "samn-ala-asal",
+    "name_ar": "مسرحية سمن على عسل",
+    "name_en": "Samn Ala Asal Play",
+    "neighborhood": "مسرح محمد العلي",
+    "neighborhood_en": "Mohammed Al-Ali Theater",
+    "description_ar": "مسرحية كوميدية سعودية شهيرة تقدم على مسرح محمد العلي. عمل فني مميز يجمع بين الكوميديا والدراما بأسلوب سعودي أصيل مع نجوم المسرح السعودي.",
+    "google_rating": 4.6,
+    "review_count": 8500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "ضحك من أول المسرحية لآخرها! تمثيل رهيب",
+    "pros_ar": [
+      "كوميديا سعودية أصيلة وممتعة",
+      "تمثيل احترافي عالي المستوى",
+      "قصة مشوقة ومؤثرة"
+    ],
+    "cons_ar": [
+      "التذاكر تنفد بسرعة",
+      "مواقف السيارات محدودة"
+    ],
+    "best_time": "المساء ٨-١٠",
+    "google_maps_url": "https://maps.google.com/?q=Mohammed+Al+Ali+Theater+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop",
+    "image_placeholder": "samn-ala-asal.jpg",
+    "review_quote": "ضحك من أول المسرحية لآخرها! تمثيل رهيب",
+    "pros": [
+      "كوميديا سعودية أصيلة وممتعة",
+      "تمثيل احترافي عالي المستوى",
+      "قصة مشوقة ومؤثرة"
+    ],
+    "cons": [
+      "التذاكر تنفد بسرعة",
+      "مواقف السيارات محدودة"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "layali-aldeira-comedy",
+    "name_ar": "ليالي الديرة الكوميدية",
+    "name_en": "Layali Al-Dira Comedy Nights",
+    "neighborhood": "المعيقلية",
+    "neighborhood_en": "Muaiqliya",
+    "description_ar": "أمسيات كوميدية في قلب الديرة التاريخية بالمعيقلية. عروض ستاند أب كوميدي لنجوم الكوميديا السعودية والعربية في أجواء تراثية مميزة.",
+    "google_rating": 4.4,
+    "review_count": 5200,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أجواء تراثية مع كوميديا عصرية، مزيج جميل!",
+    "pros_ar": [
+      "أجواء تراثية فريدة",
+      "كوميديانز سعوديين مبدعين",
+      "موقع تاريخي مميز"
+    ],
+    "cons_ar": [
+      "المقاعد محدودة",
+      "التذاكر تنفد سريعاً"
+    ],
+    "best_time": "المساء بعد ٩",
+    "google_maps_url": "https://maps.google.com/?q=Muaiqliya+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=400&h=300&fit=crop",
+    "image_placeholder": "layali-aldeira-comedy.jpg",
+    "review_quote": "أجواء تراثية مع كوميديا عصرية، مزيج جميل!",
+    "pros": [
+      "أجواء تراثية فريدة",
+      "كوميديانز سعوديين مبدعين",
+      "موقع تاريخي مميز"
+    ],
+    "cons": [
+      "المقاعد محدودة",
+      "التذاكر تنفد سريعاً"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "premier-padel-p1",
+    "name_ar": "بطولة بريميير بادل P1",
+    "name_en": "Premier Padel P1 Championship",
+    "neighborhood": "بوليفارد سيتي",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "بطولة عالمية لرياضة البادل تستضيفها الرياض بمشاركة أفضل اللاعبين العالميين. أجواء رياضية حماسية مع تجربة مشاهدة مباشرة مثيرة.",
+    "google_rating": 4.5,
+    "review_count": 6800,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "تنظيم عالمي ومباريات قوية، الرياض تستاهل",
+    "pros_ar": [
+      "مستوى عالمي في التنظيم",
+      "مشاهدة أفضل اللاعبين مباشرة",
+      "أجواء رياضية حماسية"
+    ],
+    "cons_ar": [
+      "تذاكر الصفوف الأمامية غالية",
+      "الحدث لفترة محدودة"
+    ],
+    "best_time": "المساء",
+    "google_maps_url": "https://maps.google.com/?q=Premier+Padel+Boulevard+City+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1540575467063-178a50e2fd60?w=400&h=300&fit=crop",
+    "image_placeholder": "premier-padel-p1.jpg",
+    "review_quote": "تنظيم عالمي ومباريات قوية، الرياض تستاهل",
+    "pros": [
+      "مستوى عالمي في التنظيم",
+      "مشاهدة أفضل اللاعبين مباشرة",
+      "أجواء رياضية حماسية"
+    ],
+    "cons": [
+      "تذاكر الصفوف الأمامية غالية",
+      "الحدث لفترة محدودة"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "saudi-cup-horse-racing",
+    "name_ar": "كأس السعودية للخيل",
+    "name_en": "Saudi Cup Horse Racing",
+    "neighborhood": "ميدان الملك عبدالعزيز",
+    "neighborhood_en": "King Abdulaziz Racecourse",
+    "description_ar": "أغلى سباق خيل في العالم بجوائز تتجاوز ٣٥ مليون دولار. حدث عالمي يجمع أفضل الخيول والفرسان من حول العالم في أجواء فاخرة واستثنائية.",
+    "google_rating": 4.7,
+    "review_count": 12000,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "حدث عالمي بامتياز! التنظيم والأجواء شيء ثاني",
+    "pros_ar": [
+      "حدث عالمي فريد من نوعه",
+      "تنظيم فاخر واستثنائي",
+      "تجربة لا تتكرر"
+    ],
+    "cons_ar": [
+      "يقام مرة واحدة في السنة",
+      "التذاكر VIP باهظة الثمن"
+    ],
+    "best_time": "فبراير — بعد الظهر",
+    "google_maps_url": "https://maps.google.com/?q=King+Abdulaziz+Racecourse+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=400&h=300&fit=crop",
+    "image_placeholder": "saudi-cup-horse-racing.jpg",
+    "review_quote": "حدث عالمي بامتياز! التنظيم والأجواء شيء ثاني",
+    "pros": [
+      "حدث عالمي فريد من نوعه",
+      "تنظيم فاخر واستثنائي",
+      "تجربة لا تتكرر"
+    ],
+    "cons": [
+      "يقام مرة واحدة في السنة",
+      "التذاكر VIP باهظة الثمن"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "wwe-super-show",
+    "name_ar": "WWE سوبر شو — موسم الرياض",
+    "name_en": "WWE Super Show — Riyadh Season",
+    "neighborhood": "بوليفارد سيتي",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "عرض مصارعة محترفة عالمي ضمن فعاليات موسم الرياض. نجوم WWE الكبار في عروض مثيرة ومواجهات حصرية لا تُعرض إلا في الرياض.",
+    "google_rating": 4.6,
+    "review_count": 35000,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "شفنا نجومنا المفضلين لايف! تجربة ما تتكرر",
+    "pros_ar": [
+      "نجوم WWE الكبار مباشرة",
+      "أجواء جماهيرية حماسية جداً",
+      "عروض حصرية للرياض"
+    ],
+    "cons_ar": [
+      "تذاكر الفئات الأولى غالية جداً",
+      "ازدحام شديد عند الخروج"
+    ],
+    "best_time": "المساء",
+    "google_maps_url": "https://maps.google.com/?q=WWE+Super+Show+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=400&h=300&fit=crop",
+    "image_placeholder": "wwe-super-show.jpg",
+    "review_quote": "شفنا نجومنا المفضلين لايف! تجربة ما تتكرر",
+    "pros": [
+      "نجوم WWE الكبار مباشرة",
+      "أجواء جماهيرية حماسية جداً",
+      "عروض حصرية للرياض"
+    ],
+    "cons": [
+      "تذاكر الفئات الأولى غالية جداً",
+      "ازدحام شديد عند الخروج"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "via-riyadh",
+    "name_ar": "VIA Riyadh",
+    "name_en": "VIA Riyadh",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "وجهة ترفيهية وثقافية في الدرعية تجمع بين الفعاليات والمعارض والحفلات الموسيقية. تقدم تجربة متكاملة من الترفيه والمطاعم الراقية والفن.",
+    "google_rating": 4.5,
+    "review_count": 15000,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مكان راقي وفعاليات متنوعة، الأجواء فخمة",
+    "pros_ar": [
+      "فعاليات ثقافية وفنية متنوعة",
+      "موقع تاريخي ساحر",
+      "مطاعم ومقاهي راقية"
+    ],
+    "cons_ar": [
+      "الأسعار مرتفعة",
+      "يحتاج حجز مسبق غالباً"
+    ],
+    "best_time": "المساء",
+    "google_maps_url": "https://maps.google.com/?q=VIA+Riyadh+Diriyah",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop",
+    "image_placeholder": "via-riyadh.jpg",
+    "review_quote": "مكان راقي وفعاليات متنوعة، الأجواء فخمة",
+    "pros": [
+      "فعاليات ثقافية وفنية متنوعة",
+      "موقع تاريخي ساحر",
+      "مطاعم ومقاهي راقية"
+    ],
+    "cons": [
+      "الأسعار مرتفعة",
+      "يحتاج حجز مسبق غالباً"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "jax-riyadh",
+    "name_ar": "جاكس الرياض",
+    "name_en": "JAX Riyadh",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Malqa",
+    "description_ar": "مجمع ترفيهي يجمع بين الحفلات الموسيقية والمطاعم الفاخرة والبارات. أجواء عصرية نابضة بالحياة مع فعاليات أسبوعية متنوعة وتجارب طعام فريدة.",
+    "google_rating": 4.3,
+    "review_count": 9500,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مكان يجمع الأكل والحفلات والأجواء، كل شي في مكان واحد",
+    "pros_ar": [
+      "حفلات موسيقية حية متنوعة",
+      "مطاعم فاخرة ومتنوعة",
+      "أجواء ليلية مميزة"
+    ],
+    "cons_ar": [
+      "يزدحم بسرعة في العطل",
+      "الأسعار فوق المتوسط"
+    ],
+    "best_time": "الخميس والجمعة مساءً",
+    "google_maps_url": "https://maps.google.com/?q=JAX+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=400&h=300&fit=crop",
+    "image_placeholder": "jax-riyadh.jpg",
+    "review_quote": "مكان يجمع الأكل والحفلات والأجواء، كل شي في مكان واحد",
+    "pros": [
+      "حفلات موسيقية حية متنوعة",
+      "مطاعم فاخرة ومتنوعة",
+      "أجواء ليلية مميزة"
+    ],
+    "cons": [
+      "يزدحم بسرعة في العطل",
+      "الأسعار فوق المتوسط"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "diriyah-heritage",
+    "name_ar": "درعية التاريخية — جولات تراثية",
+    "name_en": "Historic Diriyah — Heritage Tours",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "جولات تراثية في حي الطريف التاريخي، موقع اليونسكو للتراث العالمي. اكتشف تاريخ الدولة السعودية الأولى مع مرشدين محترفين في أجواء تراثية أصيلة.",
+    "google_rating": 4.7,
+    "review_count": 20000,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "رحلة في التاريخ! المكان يحكي قصة السعودية من البداية",
+    "pros_ar": [
+      "موقع تراث عالمي لليونسكو",
+      "مرشدين محترفين ومعلومات غنية",
+      "تجربة تاريخية فريدة"
+    ],
+    "cons_ar": [
+      "يحتاج وقت كافي للاستمتاع",
+      "الجو حار في الصيف"
+    ],
+    "best_time": "الصباح الباكر أو المساء",
+    "google_maps_url": "https://maps.google.com/?q=Diriyah+Historic+District+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1540575467063-178a50e2fd60?w=400&h=300&fit=crop",
+    "image_placeholder": "diriyah-heritage.jpg",
+    "review_quote": "رحلة في التاريخ! المكان يحكي قصة السعودية من البداية",
+    "pros": [
+      "موقع تراث عالمي لليونسكو",
+      "مرشدين محترفين ومعلومات غنية",
+      "تجربة تاريخية فريدة"
+    ],
+    "cons": [
+      "يحتاج وقت كافي للاستمتاع",
+      "الجو حار في الصيف"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "formula-e-diriyah",
+    "name_ar": "فورمولا إي الدرعية",
+    "name_en": "Formula E Diriyah E-Prix",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "سباق فورمولا إي العالمي للسيارات الكهربائية على حلبة الدرعية. تجربة رياضية مثيرة مع سرعات عالية وتقنيات متقدمة في أجواء تاريخية فريدة.",
+    "google_rating": 4.5,
+    "review_count": 14000,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "سباق سيارات كهربائية في قلب الدرعية! تجربة ما لها مثيل",
+    "pros_ar": [
+      "سباق عالمي مثير",
+      "حلبة فريدة في موقع تاريخي",
+      "تقنيات سيارات كهربائية متقدمة"
+    ],
+    "cons_ar": [
+      "يقام مرة واحدة بالسنة",
+      "تذاكر VIP مرتفعة"
+    ],
+    "best_time": "يناير-فبراير",
+    "google_maps_url": "https://maps.google.com/?q=Formula+E+Diriyah+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=400&h=300&fit=crop",
+    "image_placeholder": "formula-e-diriyah.jpg",
+    "review_quote": "سباق سيارات كهربائية في قلب الدرعية! تجربة ما لها مثيل",
+    "pros": [
+      "سباق عالمي مثير",
+      "حلبة فريدة في موقع تاريخي",
+      "تقنيات سيارات كهربائية متقدمة"
+    ],
+    "cons": [
+      "يقام مرة واحدة بالسنة",
+      "تذاكر VIP مرتفعة"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "leap-tech-conference",
+    "name_ar": "معرض LEAP التقني",
+    "name_en": "LEAP Tech Conference",
+    "neighborhood": "KAFD — المركز المالي",
+    "neighborhood_en": "KAFD",
+    "description_ar": "أكبر معرض تقني في الشرق الأوسط يُقام سنوياً في الرياض. يجمع شركات التقنية العالمية والناشئة مع فرص تواصل وإطلاق منتجات وابتكارات.",
+    "google_rating": 4.6,
+    "review_count": 25000,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أكبر تجمع تقني شفته! شركات عالمية وابتكارات مذهلة",
+    "pros_ar": [
+      "شركات تقنية عالمية كبرى",
+      "فرص تواصل وتعلم ممتازة",
+      "إطلاقات ومنتجات جديدة حصرية"
+    ],
+    "cons_ar": [
+      "ازدحام شديد أول يومين",
+      "يحتاج تسجيل مسبق"
+    ],
+    "best_time": "فبراير — أيام الأسبوع",
+    "google_maps_url": "https://maps.google.com/?q=LEAP+Conference+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=400&h=300&fit=crop",
+    "image_placeholder": "leap-tech-conference.jpg",
+    "review_quote": "أكبر تجمع تقني شفته! شركات عالمية وابتكارات مذهلة",
+    "pros": [
+      "شركات تقنية عالمية كبرى",
+      "فرص تواصل وتعلم ممتازة",
+      "إطلاقات ومنتجات جديدة حصرية"
+    ],
+    "cons": [
+      "ازدحام شديد أول يومين",
+      "يحتاج تسجيل مسبق"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "comic-con-arabia",
+    "name_ar": "Comic Con Arabia",
+    "name_en": "Comic Con Arabia",
+    "neighborhood": "الرياض فرونت",
+    "neighborhood_en": "Riyadh Front",
+    "description_ar": "مهرجان الكوميك كون العربي للقصص المصورة والأنيمي والألعاب. كوسبلاي وضيوف دوليين ومسابقات وتجارب تفاعلية لعشاق الثقافة الشعبية.",
+    "google_rating": 4.4,
+    "review_count": 18000,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "جنة لمحبي الأنيمي والكوميكس! الكوسبلاي كان خرافي",
+    "pros_ar": [
+      "تجمع لعشاق الثقافة الشعبية",
+      "ضيوف دوليين ونجوم",
+      "مسابقات كوسبلاي ممتعة"
+    ],
+    "cons_ar": [
+      "مرة واحدة بالسنة",
+      "بعض البضائع غالية"
+    ],
+    "best_time": "عطلة نهاية الأسبوع",
+    "google_maps_url": "https://maps.google.com/?q=Comic+Con+Arabia+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop",
+    "image_placeholder": "comic-con-arabia.jpg",
+    "review_quote": "جنة لمحبي الأنيمي والكوميكس! الكوسبلاي كان خرافي",
+    "pros": [
+      "تجمع لعشاق الثقافة الشعبية",
+      "ضيوف دوليين ونجوم",
+      "مسابقات كوسبلاي ممتعة"
+    ],
+    "cons": [
+      "مرة واحدة بالسنة",
+      "بعض البضائع غالية"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "soundstorm-festival",
+    "name_ar": "Soundstorm — مهرجان موسيقي",
+    "name_en": "Soundstorm Music Festival",
+    "neighborhood": "بانبان",
+    "neighborhood_en": "Banban",
+    "description_ar": "أضخم مهرجان موسيقي في الشرق الأوسط يقام في بانبان الرياض. نجوم الموسيقى العالميين على عدة مسارح مع تجربة صوتية ومرئية لا تُنسى.",
+    "google_rating": 4.7,
+    "review_count": 60000,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أفضل مهرجان موسيقي حضرته! الأجواء ما توصف",
+    "pros_ar": [
+      "نجوم موسيقى عالميين كبار",
+      "عدة مسارح وتجارب صوتية",
+      "أجواء جماهيرية لا تُنسى"
+    ],
+    "cons_ar": [
+      "ازدحام شديد جداً",
+      "الوصول والخروج يحتاج صبر"
+    ],
+    "best_time": "ديسمبر",
+    "google_maps_url": "https://maps.google.com/?q=Soundstorm+Festival+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=400&h=300&fit=crop",
+    "image_placeholder": "soundstorm-festival.jpg",
+    "review_quote": "أفضل مهرجان موسيقي حضرته! الأجواء ما توصف",
+    "pros": [
+      "نجوم موسيقى عالميين كبار",
+      "عدة مسارح وتجارب صوتية",
+      "أجواء جماهيرية لا تُنسى"
+    ],
+    "cons": [
+      "ازدحام شديد جداً",
+      "الوصول والخروج يحتاج صبر"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "mdlbeast",
+    "name_ar": "MDLBeast",
+    "name_en": "MDLBeast",
+    "neighborhood": "بانبان",
+    "neighborhood_en": "Banban",
+    "description_ar": "علامة ترفيهية سعودية تقدم فعاليات موسيقية عالمية في بانبان. تجمع بين الموسيقى الإلكترونية والهيب هوب والبوب مع تجارب فنية وبصرية مبتكرة.",
+    "google_rating": 4.5,
+    "review_count": 40000,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "MDLBeast غيرت مفهوم الترفيه بالسعودية! تجربة عالمية",
+    "pros_ar": [
+      "فعاليات موسيقية عالمية المستوى",
+      "تجارب فنية وبصرية مبتكرة",
+      "تنظيم محترف"
+    ],
+    "cons_ar": [
+      "الأسعار مرتفعة",
+      "يحتاج تخطيط مسبق"
+    ],
+    "best_time": "ديسمبر",
+    "google_maps_url": "https://maps.google.com/?q=MDLBeast+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1540575467063-178a50e2fd60?w=400&h=300&fit=crop",
+    "image_placeholder": "mdlbeast.jpg",
+    "review_quote": "MDLBeast غيرت مفهوم الترفيه بالسعودية! تجربة عالمية",
+    "pros": [
+      "فعاليات موسيقية عالمية المستوى",
+      "تجارب فنية وبصرية مبتكرة",
+      "تنظيم محترف"
+    ],
+    "cons": [
+      "الأسعار مرتفعة",
+      "يحتاج تخطيط مسبق"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "riyadh-book-fair",
+    "name_ar": "معرض الرياض الدولي للكتاب",
+    "name_en": "Riyadh International Book Fair",
+    "neighborhood": "جامعة الملك سعود",
+    "neighborhood_en": "King Saud University Area",
+    "description_ar": "أكبر معرض كتاب في المنطقة يجمع دور نشر عربية وعالمية. فعاليات ثقافية وندوات وتوقيع كتب مع أسعار مخفضة على آلاف العناوين.",
+    "google_rating": 4.5,
+    "review_count": 30000,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "جنة لعشاق القراءة! كتب من كل مكان بأسعار حلوة",
+    "pros_ar": [
+      "تنوع هائل في الكتب والإصدارات",
+      "أسعار مخفضة وعروض",
+      "فعاليات ثقافية مصاحبة"
+    ],
+    "cons_ar": [
+      "ازدحام كبير خاصة في العطل",
+      "المواقف بعيدة أحياناً"
+    ],
+    "best_time": "أيام الأسبوع صباحاً",
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+International+Book+Fair",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=400&h=300&fit=crop",
+    "image_placeholder": "riyadh-book-fair.jpg",
+    "review_quote": "جنة لعشاق القراءة! كتب من كل مكان بأسعار حلوة",
+    "pros": [
+      "تنوع هائل في الكتب والإصدارات",
+      "أسعار مخفضة وعروض",
+      "فعاليات ثقافية مصاحبة"
+    ],
+    "cons": [
+      "ازدحام كبير خاصة في العطل",
+      "المواقف بعيدة أحياناً"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "janadriyah-festival",
+    "name_ar": "مهرجان الجنادرية التراثي",
+    "name_en": "Janadriyah Heritage Festival",
+    "neighborhood": "الجنادرية",
+    "neighborhood_en": "Janadriyah",
+    "description_ar": "مهرجان تراثي وطني يحتفي بالثقافة السعودية. عروض شعبية وسوق تراثي وسباق الهجن وفنون أدائية تمثل مناطق المملكة المختلفة.",
+    "google_rating": 4.6,
+    "review_count": 28000,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "المهرجان يعرفك على تراث السعودية الحقيقي، تجربة وطنية جميلة",
+    "pros_ar": [
+      "تراث سعودي أصيل من كل المناطق",
+      "سباق الهجن التقليدي",
+      "أسعار معقولة ودخول مجاني أحياناً"
+    ],
+    "cons_ar": [
+      "يقام مرة بالسنة لفترة محدودة",
+      "الموقع بعيد عن وسط المدينة"
+    ],
+    "best_time": "فبراير-مارس",
+    "google_maps_url": "https://maps.google.com/?q=Janadriyah+Festival+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=400&h=300&fit=crop",
+    "image_placeholder": "janadriyah-festival.jpg",
+    "review_quote": "المهرجان يعرفك على تراث السعودية الحقيقي، تجربة وطنية جميلة",
+    "pros": [
+      "تراث سعودي أصيل من كل المناطق",
+      "سباق الهجن التقليدي",
+      "أسعار معقولة ودخول مجاني أحياناً"
+    ],
+    "cons": [
+      "يقام مرة بالسنة لفترة محدودة",
+      "الموقع بعيد عن وسط المدينة"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "riyadh-carnival",
+    "name_ar": "كرنفال الرياض — بوليفارد",
+    "name_en": "Riyadh Carnival — Boulevard",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Riyadh Boulevard",
+    "description_ar": "كرنفال ضخم بألعاب ملاهي واستعراضات وعروض حية في بوليفارد الرياض. فعاليات مناسبة لجميع الأعمار مع أكشاك طعام ومنتجات متنوعة.",
+    "google_rating": 4.3,
+    "review_count": 16000,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "كرنفال حلو للعائلة، الأطفال انبسطوا كثير",
+    "pros_ar": [
+      "ألعاب ملاهي متنوعة وممتعة",
+      "عروض واستعراضات حية",
+      "مناسب لجميع الأعمار"
+    ],
+    "cons_ar": [
+      "الطوابير طويلة على الألعاب الشهيرة",
+      "أسعار الطعام مرتفعة"
+    ],
+    "best_time": "أيام الأسبوع مساءً",
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Carnival+Boulevard",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop",
+    "image_placeholder": "riyadh-carnival.jpg",
+    "review_quote": "كرنفال حلو للعائلة، الأطفال انبسطوا كثير",
+    "pros": [
+      "ألعاب ملاهي متنوعة وممتعة",
+      "عروض واستعراضات حية",
+      "مناسب لجميع الأعمار"
+    ],
+    "cons": [
+      "الطوابير طويلة على الألعاب الشهيرة",
+      "أسعار الطعام مرتفعة"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "restatex-exhibition",
+    "name_ar": "معرض ريستاتكس العقاري",
+    "name_en": "Restatex Real Estate Exhibition",
+    "neighborhood": "الرياض فرونت",
+    "neighborhood_en": "Riyadh Front",
+    "description_ar": "أكبر معرض عقاري في السعودية يجمع المطورين العقاريين والبنوك وشركات التمويل. فرصة لاستعراض المشاريع السكنية والتجارية والحصول على عروض حصرية.",
+    "google_rating": 4.2,
+    "review_count": 8000,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "معرض شامل لكل اللي يبحث عن عقار، عروض وتسهيلات ممتازة",
+    "pros_ar": [
+      "عروض عقارية حصرية",
+      "مقارنة بين المطورين والمشاريع",
+      "دخول مجاني"
+    ],
+    "cons_ar": [
+      "ازدحام في الأيام الأخيرة",
+      "بعض العروض مبالغ فيها"
+    ],
+    "best_time": "أول أيام المعرض",
+    "google_maps_url": "https://maps.google.com/?q=Restatex+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=400&h=300&fit=crop",
+    "image_placeholder": "restatex-exhibition.jpg",
+    "review_quote": "معرض شامل لكل اللي يبحث عن عقار، عروض وتسهيلات ممتازة",
+    "pros": [
+      "عروض عقارية حصرية",
+      "مقارنة بين المطورين والمشاريع",
+      "دخول مجاني"
+    ],
+    "cons": [
+      "ازدحام في الأيام الأخيرة",
+      "بعض العروض مبالغ فيها"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "camel-racing-riyadh",
+    "name_ar": "سباق الهجن — ميدان الملك عبدالعزيز",
+    "name_en": "Camel Racing — King Abdulaziz Racecourse",
+    "neighborhood": "ميدان الملك عبدالعزيز",
+    "neighborhood_en": "King Abdulaziz Racecourse",
+    "description_ar": "سباقات الهجن التقليدية في ميدان الملك عبدالعزيز. رياضة سعودية أصيلة بتقنيات حديثة مع أجواء تراثية حماسية وجوائز مالية كبيرة.",
+    "google_rating": 4.4,
+    "review_count": 7500,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "تجربة سعودية أصيلة! سباق الهجن شيء ثاني",
+    "pros_ar": [
+      "رياضة تراثية سعودية أصيلة",
+      "دخول مجاني غالباً",
+      "أجواء حماسية"
+    ],
+    "cons_ar": [
+      "الموقع بعيد عن وسط المدينة",
+      "يحتاج سيارة للوصول"
+    ],
+    "best_time": "الصباح الباكر — الشتاء",
+    "google_maps_url": "https://maps.google.com/?q=King+Abdulaziz+Racecourse+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1540575467063-178a50e2fd60?w=400&h=300&fit=crop",
+    "image_placeholder": "camel-racing-riyadh.jpg",
+    "review_quote": "تجربة سعودية أصيلة! سباق الهجن شيء ثاني",
+    "pros": [
+      "رياضة تراثية سعودية أصيلة",
+      "دخول مجاني غالباً",
+      "أجواء حماسية"
+    ],
+    "cons": [
+      "الموقع بعيد عن وسط المدينة",
+      "يحتاج سيارة للوصول"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "rock-in-riyadh",
+    "name_ar": "Rock in Riyadh",
+    "name_en": "Rock in Riyadh",
+    "neighborhood": "بوليفارد سيتي",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "حفل روك عالمي يستضيف فرق ونجوم الروك العالميين في الرياض. تجربة موسيقية مختلفة مع عروض إضاءة مبهرة وأجواء حماسية لمحبي الروك.",
+    "google_rating": 4.5,
+    "review_count": 11000,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أخيراً حفل روك حقيقي بالرياض! التجربة كانت أسطورية",
+    "pros_ar": [
+      "فرق روك عالمية مشهورة",
+      "صوت وإضاءة عالمية",
+      "أجواء حماسية لا تُنسى"
+    ],
+    "cons_ar": [
+      "التذاكر تنفد بسرعة كبيرة",
+      "الازدحام عند البوابات"
+    ],
+    "best_time": "المساء",
+    "google_maps_url": "https://maps.google.com/?q=Rock+in+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=400&h=300&fit=crop",
+    "image_placeholder": "rock-in-riyadh.jpg",
+    "review_quote": "أخيراً حفل روك حقيقي بالرياض! التجربة كانت أسطورية",
+    "pros": [
+      "فرق روك عالمية مشهورة",
+      "صوت وإضاءة عالمية",
+      "أجواء حماسية لا تُنسى"
+    ],
+    "cons": [
+      "التذاكر تنفد بسرعة كبيرة",
+      "الازدحام عند البوابات"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "via-riyadh-concerts",
+    "name_ar": "حفلات Via Riyadh الموسيقية",
+    "name_en": "Via Riyadh Music Concerts",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "سلسلة حفلات موسيقية راقية في Via Riyadh بالدرعية. نجوم عرب وعالميون في أجواء أنيقة مع تجربة صوتية فاخرة وموقع تاريخي ساحر.",
+    "google_rating": 4.6,
+    "review_count": 13000,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "حفلة فخمة في مكان تاريخي، مزيج ساحر!",
+    "pros_ar": [
+      "نجوم عرب وعالميون",
+      "موقع تاريخي فاخر",
+      "تنظيم وصوت عالي الجودة"
+    ],
+    "cons_ar": [
+      "الأسعار مرتفعة",
+      "المواقف محدودة"
+    ],
+    "best_time": "المساء",
+    "google_maps_url": "https://maps.google.com/?q=Via+Riyadh+Concerts+Diriyah",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=400&h=300&fit=crop",
+    "image_placeholder": "via-riyadh-concerts.jpg",
+    "review_quote": "حفلة فخمة في مكان تاريخي، مزيج ساحر!",
+    "pros": [
+      "نجوم عرب وعالميون",
+      "موقع تاريخي فاخر",
+      "تنظيم وصوت عالي الجودة"
+    ],
+    "cons": [
+      "الأسعار مرتفعة",
+      "المواقف محدودة"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "layali-muaiqliya",
+    "name_ar": "ليالي المعيقلية — فعاليات ثقافية",
+    "name_en": "Muaiqliya Nights — Cultural Events",
+    "neighborhood": "المعيقلية",
+    "neighborhood_en": "Muaiqliya",
+    "description_ar": "فعاليات ثقافية وفنية في حي المعيقلية التاريخي. أمسيات شعرية وعروض فنية ومعارض في أزقة الديرة القديمة مع أجواء تراثية ساحرة.",
+    "google_rating": 4.4,
+    "review_count": 6000,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "المعيقلية بالليل لها سحر خاص، فعاليات ثقافية جميلة",
+    "pros_ar": [
+      "أجواء تراثية أصيلة",
+      "فعاليات ثقافية متنوعة",
+      "أسعار معقولة"
+    ],
+    "cons_ar": [
+      "المواقف محدودة في المنطقة",
+      "الفعاليات موسمية"
+    ],
+    "best_time": "المساء بعد ٨",
+    "google_maps_url": "https://maps.google.com/?q=Muaiqliya+Cultural+Events+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop",
+    "image_placeholder": "layali-muaiqliya.jpg",
+    "review_quote": "المعيقلية بالليل لها سحر خاص، فعاليات ثقافية جميلة",
+    "pros": [
+      "أجواء تراثية أصيلة",
+      "فعاليات ثقافية متنوعة",
+      "أسعار معقولة"
+    ],
+    "cons": [
+      "المواقف محدودة في المنطقة",
+      "الفعاليات موسمية"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "the-groves-boulevard",
+    "name_ar": "The Groves — بوليفارد",
+    "name_en": "The Groves — Boulevard",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Riyadh Boulevard",
+    "description_ar": "منطقة خضراء مفتوحة في بوليفارد الرياض مع مطاعم ومقاهي وفعاليات عائلية. أجواء طبيعية مريحة وسط المدينة مع أنشطة متنوعة للأطفال.",
+    "google_rating": 4.3,
+    "review_count": 10000,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مكان جميل ومريح للعائلات، الأطفال يحبونه",
+    "pros_ar": [
+      "مساحات خضراء مريحة",
+      "أنشطة عائلية متنوعة",
+      "مطاعم ومقاهي لطيفة"
+    ],
+    "cons_ar": [
+      "يزدحم في العطل",
+      "بعض المطاعم غالية"
+    ],
+    "best_time": "العصر والمساء",
+    "google_maps_url": "https://maps.google.com/?q=The+Groves+Boulevard+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=400&h=300&fit=crop",
+    "image_placeholder": "the-groves-boulevard.jpg",
+    "review_quote": "مكان جميل ومريح للعائلات، الأطفال يحبونه",
+    "pros": [
+      "مساحات خضراء مريحة",
+      "أنشطة عائلية متنوعة",
+      "مطاعم ومقاهي لطيفة"
+    ],
+    "cons": [
+      "يزدحم في العطل",
+      "بعض المطاعم غالية"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "anime-village-riyadh",
+    "name_ar": "Anime Village — موسم الرياض",
+    "name_en": "Anime Village — Riyadh Season",
+    "neighborhood": "بوليفارد سيتي",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "قرية مخصصة لعشاق الأنيمي ضمن موسم الرياض. تجارب تفاعلية مع شخصيات أنيمي مشهورة ومتاجر حصرية ومعارض فنية يابانية.",
+    "google_rating": 4.4,
+    "review_count": 15000,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "حلم لكل محب أنيمي! شخصياتنا المفضلة قدامنا",
+    "pros_ar": [
+      "تجارب تفاعلية مع شخصيات أنيمي",
+      "متاجر حصرية ومنتجات نادرة",
+      "معارض فنية يابانية"
+    ],
+    "cons_ar": [
+      "الطوابير طويلة على التجارب",
+      "بعض المنتجات غالية"
+    ],
+    "best_time": "أيام الأسبوع",
+    "google_maps_url": "https://maps.google.com/?q=Anime+Village+Riyadh+Season",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1540575467063-178a50e2fd60?w=400&h=300&fit=crop",
+    "image_placeholder": "anime-village-riyadh.jpg",
+    "review_quote": "حلم لكل محب أنيمي! شخصياتنا المفضلة قدامنا",
+    "pros": [
+      "تجارب تفاعلية مع شخصيات أنيمي",
+      "متاجر حصرية ومنتجات نادرة",
+      "معارض فنية يابانية"
+    ],
+    "cons": [
+      "الطوابير طويلة على التجارب",
+      "بعض المنتجات غالية"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "riyadh-safari",
+    "name_ar": "سفاري الرياض",
+    "name_en": "Riyadh Safari",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "حديقة حيوانات سفاري ضخمة تضم أكثر من ١٥٠٠ حيوان من ٢٥٠ نوع. جولات سفاري مفتوحة وعروض حيوانات وتجارب تعليمية للأطفال والعائلات.",
+    "google_rating": 4.5,
+    "review_count": 32000,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "سفاري مذهلة! الحيوانات قريبة منك والتجربة حية",
+    "pros_ar": [
+      "تنوع كبير في الحيوانات",
+      "جولات سفاري مفتوحة",
+      "تجربة تعليمية ممتعة للأطفال"
+    ],
+    "cons_ar": [
+      "الأسعار مرتفعة نسبياً",
+      "يحتاج وقت طويل لزيارة كاملة"
+    ],
+    "best_time": "الصباح الباكر",
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Safari+Zoo",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=400&h=300&fit=crop",
+    "image_placeholder": "riyadh-safari.jpg",
+    "review_quote": "سفاري مذهلة! الحيوانات قريبة منك والتجربة حية",
+    "pros": [
+      "تنوع كبير في الحيوانات",
+      "جولات سفاري مفتوحة",
+      "تجربة تعليمية ممتعة للأطفال"
+    ],
+    "cons": [
+      "الأسعار مرتفعة نسبياً",
+      "يحتاج وقت طويل لزيارة كاملة"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "snow-city-riyadh",
+    "name_ar": "Snow City الرياض",
+    "name_en": "Snow City Riyadh",
+    "neighborhood": "العثيم مول",
+    "neighborhood_en": "Othaim Mall",
+    "description_ar": "مدينة ثلجية داخلية في قلب الرياض. تجربة فريدة للتزلج والألعاب الثلجية في أجواء باردة وسط الصحراء. مناسبة للعائلات والأطفال.",
+    "google_rating": 4.2,
+    "review_count": 19000,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "ثلج حقيقي في الرياض! الأطفال ما ودهم يطلعون",
+    "pros_ar": [
+      "تجربة ثلجية فريدة في الصحراء",
+      "أنشطة تزلج متنوعة",
+      "مناسبة لجميع الأعمار"
+    ],
+    "cons_ar": [
+      "المساحة محدودة نسبياً",
+      "يزدحم في العطل والإجازات"
+    ],
+    "best_time": "أيام الأسبوع صباحاً",
+    "google_maps_url": "https://maps.google.com/?q=Snow+City+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=400&h=300&fit=crop",
+    "image_placeholder": "snow-city-riyadh.jpg",
+    "review_quote": "ثلج حقيقي في الرياض! الأطفال ما ودهم يطلعون",
+    "pros": [
+      "تجربة ثلجية فريدة في الصحراء",
+      "أنشطة تزلج متنوعة",
+      "مناسبة لجميع الأعمار"
+    ],
+    "cons": [
+      "المساحة محدودة نسبياً",
+      "يزدحم في العطل والإجازات"
+    ],
+    "avg_spend": ""
+  },
+  {
+    "id": "starcity-riyadh",
+    "name_ar": "StarCity — ألعاب ومغامرات",
+    "name_en": "StarCity — Games & Adventures",
+    "neighborhood": "طريق الملك فهد",
+    "neighborhood_en": "King Fahd Road",
+    "description_ar": "مدينة ألعاب داخلية ضخمة تجمع بين ألعاب الفيديو والواقع الافتراضي وألعاب الملاهي. تجربة ترفيهية متكاملة للعائلات والشباب مع أحدث التقنيات.",
+    "google_rating": 4.3,
+    "review_count": 14000,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مكان ممتع للشباب والعائلات، ألعاب VR خرافية",
+    "pros_ar": [
+      "ألعاب واقع افتراضي حديثة",
+      "تنوع كبير في الأنشطة",
+      "مناسب لجميع الأعمار"
+    ],
+    "cons_ar": [
+      "بعض الألعاب تحتاج دفع إضافي",
+      "يزدحم في العطل"
+    ],
+    "best_time": "أيام الأسبوع مساءً",
+    "google_maps_url": "https://maps.google.com/?q=StarCity+Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "image_url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=300&fit=crop",
+    "image_placeholder": "starcity-riyadh.jpg",
+    "review_quote": "مكان ممتع للشباب والعائلات، ألعاب VR خرافية",
+    "pros": [
+      "ألعاب واقع افتراضي حديثة",
+      "تنوع كبير في الأنشطة",
+      "مناسب لجميع الأعمار"
+    ],
+    "cons": [
+      "بعض الألعاب تحتاج دفع إضافي",
+      "يزدحم في العطل"
+    ],
+    "avg_spend": ""
   }
 ]
