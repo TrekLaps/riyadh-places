@@ -1,0 +1,43 @@
+{
+  "updates": [
+    {
+      "timestamp": "2026-02-07T01:31:41.059778+00:00",
+      "total_places": 30,
+      "trending_count": 22,
+      "new_count": 5,
+      "changes": [
+        {
+          "place_id": "flat-white",
+          "name": "Flat White",
+          "change": "trending"
+        },
+        {
+          "place_id": "nusr-et",
+          "name": "Nusr-Et",
+          "change": "not_trending"
+        },
+        {
+          "place_id": "lusin",
+          "name": "Lusin",
+          "change": "trending"
+        },
+        {
+          "place_id": "nozomi",
+          "name": "Nozomi",
+          "change": "trending"
+        },
+        {
+          "place_id": "national-museum",
+          "name": "National Museum",
+          "change": "trending"
+        },
+        {
+          "place_id": "wadi-hanifah",
+          "name": "Wadi Hanifah",
+          "change": "trending"
+        }
+      ],
+      "api_enabled": false
+    }
+  ]
+}
