@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex">
+  <title>إحصائيات — وين نروح بالرياض؟</title>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 1000px; margin: 30px auto; padding: 0 20px; }
+    .stat-card { background: var(--white); border-radius: var(--radius); padding: 30px; text-align: center; box-shadow: var(--shadow); border-top: 3px solid var(--gold); }
+    .stat-card .number { font-size: 48px; font-weight: 900; color: var(--primary); }
+    .stat-card .label { color: var(--text-light); font-size: 16px; margin-top: 5px; }
+    .counter-list { max-width: 800px; margin: 30px auto; padding: 0 20px; }
+    .counter-item { background: var(--white); border-radius: var(--radius); padding: 15px 20px; margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; box-shadow: var(--shadow); }
+    .counter-item .page { font-weight: 600; }
+    .counter-item img { height: 25px; }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><span>📊</span><h1>إحصائيات الموقع</h1></a>
+    </div>
+  </header>
+
+  <div class="stats-grid">
+    <div class="stat-card">
+      <div class="number" id="total-views">—</div>
+      <div class="label">إجمالي الزيارات</div>
+    </div>
+    <div class="stat-card">
+      <div class="number">85</div>
+      <div class="label">عدد الأماكن</div>
+    </div>
+    <div class="stat-card">
+      <div class="number">7</div>
+      <div class="label">أقسام</div>
+    </div>
+    <div class="stat-card">
+      <div class="number">8</div>
+      <div class="label">صفحات</div>
+    </div>
+  </div>
+
+  <div class="counter-list">
+    <h2 style="color: var(--primary); margin-bottom: 20px;">📊 زيارات كل صفحة</h2>
+    <div class="counter-item">
+      <span class="page">🏠 الرئيسية</span>
+      <img src="https://hits.seeyoufarm.com/api/count/keep/badge.svg?url=https%3A%2F%2Ftreklaps.github.io%2Friyadh-places%2F&count_bg=%230a1628&title_bg=%23c9a84c&title=views&edge_flat=true" alt="views">
+    </div>
+    <div class="counter-item">
+      <span class="page">☕ كافيهات</span>
+      <img src="https://hits.seeyoufarm.com/api/count/keep/badge.svg?url=https%3A%2F%2Ftreklaps.github.io%2Friyadh-places%2Fcafes.html&count_bg=%230a1628&title_bg=%23c9a84c&title=views&edge_flat=true" alt="views">
+    </div>
+    <div class="counter-item">
+      <span class="page">🍽️ مطاعم</span>
+      <img src="https://hits.seeyoufarm.com/api/count/keep/badge.svg?url=https%3A%2F%2Ftreklaps.github.io%2Friyadh-places%2Frestaurants.html&count_bg=%230a1628&title_bg=%23c9a84c&title=views&edge_flat=true" alt="views">
+    </div>
+    <div class="counter-item">
+      <span class="page">🎉 ترفيه</span>
+      <img src="https://hits.seeyoufarm.com/api/count/keep/badge.svg?url=https%3A%2F%2Ftreklaps.github.io%2Friyadh-places%2Factivities.html&count_bg=%230a1628&title_bg=%23c9a84c&title=views&edge_flat=true" alt="views">
+    </div>
+    <div class="counter-item">
+      <span class="page">🛍️ تسوق</span>
+      <img src="https://hits.seeyoufarm.com/api/count/keep/badge.svg?url=https%3A%2F%2Ftreklaps.github.io%2Friyadh-places%2Fshopping.html&count_bg=%230a1628&title_bg=%23c9a84c&title=views&edge_flat=true" alt="views">
+    </div>
+    <div class="counter-item">
+      <span class="page">🏞️ طبيعة</span>
+      <img src="https://hits.seeyoufarm.com/api/count/keep/badge.svg?url=https%3A%2F%2Ftreklaps.github.io%2Friyadh-places%2Fnature.html&count_bg=%230a1628&title_bg=%23c9a84c&title=views&edge_flat=true" alt="views">
+    </div>
+    <div class="counter-item">
+      <span class="page">🆕 أماكن جديدة</span>
+      <img src="https://hits.seeyoufarm.com/api/count/keep/badge.svg?url=https%3A%2F%2Ftreklaps.github.io%2Friyadh-places%2Fnew-places.html&count_bg=%230a1628&title_bg=%23c9a84c&title=views&edge_flat=true" alt="views">
+    </div>
+    <div class="counter-item">
+      <span class="page">⭐ الأعلى تقييماً</span>
+      <img src="https://hits.seeyoufarm.com/api/count/keep/badge.svg?url=https%3A%2F%2Ftreklaps.github.io%2Friyadh-places%2Ftop-rated.html&count_bg=%230a1628&title_bg=%23c9a84c&title=views&edge_flat=true" alt="views">
+    </div>
+  </div>
+
+  <p style="text-align:center; color: var(--text-muted); margin: 30px 0;">
+    📈 الأرقام تتحدث تلقائياً مع كل زيارة حقيقية
+  </p>
+</body>
+</html>
