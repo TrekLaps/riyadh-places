@@ -1,7 +1,7 @@
 // ===== وين نروح الرياض - Main JavaScript =====
 
-const categoryIcons = { cafe: '☕', restaurant: '🍽️', activity: '🎭' };
-const categoryNames = { cafe: 'كافيه', restaurant: 'مطعم', activity: 'ترفيه' };
+const categoryIcons = { cafe: '☕', restaurant: '🍽️', activity: '🎭', 'تسوق': '🛍️', 'طبيعة': '🏞️' };
+const categoryNames = { cafe: 'كافيه', restaurant: 'مطعم', activity: 'ترفيه', 'تسوق': 'تسوق', 'طبيعة': 'طبيعة' };
 
 let placesData = [];
 
@@ -361,4 +361,22 @@ function generateRatingAnalysis(place) {
   `;
 }
 
-document.addEventListener('DOMContentLoaded', () => { initMobileMenu(); });
+document.addEventListener('DOMContentLoaded', () => {
+  initMobileMenu();
+
+  // Scroll to top button
+  const scrollTopBtn = document.getElementById('scrollTop');
+  if (scrollTopBtn) {
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 400) {
+        scrollTopBtn.classList.add('visible');
+      } else {
+        scrollTopBtn.classList.remove('visible');
+      }
+    }, { passive: true });
+
+    scrollTopBtn.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+});

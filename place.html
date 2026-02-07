@@ -14,8 +14,7 @@
   <meta property="og:locale" content="ar_SA">
   <link rel="stylesheet" href="css/style.css">
 </head>
-<body><div class="header-top-ad">
-  </div>
+<body>
 
   <header class="header">
     <div class="header-inner">
@@ -26,46 +25,62 @@
         <a href="cafes.html">كافيهات</a>
         <a href="restaurants.html">مطاعم</a>
         <a href="activities.html">ترفيه</a>
-        <a href="top-rated.html">⭐ الأعلى تقييماً</a>
-        <a href="new-places.html">أماكن جديدة 🆕</a>
+        <a href="shopping.html">تسوق</a>
+        <a href="nature.html">طبيعة</a>
+        <a href="new-places.html">أماكن جديدة</a>
       </nav>
     </div>
   </header>
 
   <div id="breadcrumb-container" class="breadcrumb">
     <a href="index.html">الرئيسية</a><span>›</span><span id="breadcrumb-category"></span><span>›</span><strong id="breadcrumb-place"></strong>
-  </div><div style="max-width:1200px;margin:10px auto;padding:0 20px;">
   </div>
 
-  <div class="place-detail" id="place-detail-container">
-    <!-- Content loaded by JS -->
-  </div>
+  <div class="place-detail" id="place-detail-container"></div>
 
-  <!-- Rating Analysis Section -->
-  <div style="max-width:1200px;margin:0 auto;padding:0 20px;" id="rating-analysis-container"></div><div style="max-width:1200px;margin:0 auto;padding:0 20px;">
-  </div><div style="max-width:1200px;margin:0 auto;padding:0 20px;">
-  </div>
+  <div style="max-width:1200px;margin:0 auto;padding:0 20px;" id="rating-analysis-container"></div>
 
-  <div style="max-width:1200px;margin:30px auto;padding:0 20px;">
-    <div class="section-title"><h2>📍 أماكن مشابهة</h2></div>
+  <div style="max-width:1200px;margin:24px auto;padding:0 20px;">
+    <div class="section-title"><div><h2>أماكن مشابهة</h2></div></div>
     <div id="related-places-container"></div>
-  </div><div style="max-width:1200px;margin:0 auto;padding:0 20px;">
   </div>
 
   <footer class="footer">
     <div class="footer-inner">
-      <div><h3>🏙️ وين نروح بالرياض؟</h3><p style="color:rgba(255,255,255,0.6);font-size:14px;line-height:1.8;">دليلك الشامل لأفضل الأماكن في الرياض. محدث يومياً.</p></div>
-      <div><h3>الأقسام</h3><ul><li><a href="cafes.html">كافيهات الرياض</a></li><li><a href="restaurants.html">مطاعم الرياض</a></li><li><a href="activities.html">ترفيه وأنشطة</a></li><li><a href="top-rated.html">الأعلى تقييماً</a></li><li><a href="new-places.html">أماكن جديدة</a>
-      <a href="shopping.html">🛍️ تسوق</a>
-      <a href="nature.html">🏞️ طبيعة</a></li></ul></div>
-      <div><h3>روابط مفيدة</h3><ul><li><a href="sitemap.xml">خريطة الموقع</a></li><li><a href="#">سياسة الخصوصية</a></li><li><a href="#">تواصل معنا</a></li></ul></div>
+      <div>
+        <h3>وين نروح بالرياض؟</h3>
+        <p>دليلك الشامل لأفضل الأماكن في الرياض. محدث يومياً.</p>
+      </div>
+      <div>
+        <h3>الأقسام</h3>
+        <ul>
+          <li><a href="cafes.html">كافيهات الرياض</a></li>
+          <li><a href="restaurants.html">مطاعم الرياض</a></li>
+          <li><a href="activities.html">ترفيه وأنشطة</a></li>
+          <li><a href="shopping.html">تسوق بالرياض</a></li>
+          <li><a href="nature.html">طبيعة ورحلات</a></li>
+          <li><a href="top-rated.html">الأعلى تقييماً</a></li>
+          <li><a href="new-places.html">أماكن جديدة</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>روابط مفيدة</h3>
+        <ul>
+          <li><a href="sitemap.xml">خريطة الموقع</a></li>
+          <li><a href="#">سياسة الخصوصية</a></li>
+          <li><a href="#">تواصل معنا</a></li>
+        </ul>
+      </div>
     </div>
-    <div class="footer-bottom"><p>© 2025-2026 وين نروح بالرياض؟. جميع الحقوق محفوظة.</p></div>
+    <div class="footer-heart">صنع بـ <span>❤️</span> في الرياض</div>
+    <div class="footer-bottom"><p>© 2025-2026 وين نروح بالرياض؟ جميع الحقوق محفوظة.</p></div>
   </footer>
+
+  <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
 
   <script src="js/main.js"></script>
   <script>
-    const categoryPages = { cafe: 'cafes.html', restaurant: 'restaurants.html', activity: 'activities.html' };
+    const categoryPages = { cafe: 'cafes.html', restaurant: 'restaurants.html', activity: 'activities.html', 'تسوق': 'shopping.html', 'طبيعة': 'nature.html' };
 
     document.addEventListener('DOMContentLoaded', async () => {
       const allPlaces = await loadPlaces();
@@ -87,7 +102,7 @@
       document.getElementById('og-url').content = `https://wain-nrooh.com/place.html?id=${place.id}`;
 
       // Breadcrumb
-      document.getElementById('breadcrumb-category').innerHTML = `<a href="${categoryPages[place.category]}">${place.category_ar}</a>`;
+      document.getElementById('breadcrumb-category').innerHTML = `<a href="${categoryPages[place.category] || 'index.html'}">${place.category_ar || place.category}</a>`;
       document.getElementById('breadcrumb-place').textContent = place.name_ar;
 
       // Main detail
@@ -101,36 +116,35 @@
         <div class="place-detail-content">
           <div class="place-detail-info">
             <h1>${place.name_ar}</h1>
-            <p style="color:var(--text-muted);font-size:15px;margin-bottom:15px;">${place.name_en}</p>
+            <p style="color:var(--text-muted);font-size:15px;margin-bottom:14px;">${place.name_en}</p>
 
             <div class="meta">
               <span>📍 ${place.neighborhood}</span>
               <span>💰 ${place.price_level}</span>
-              <span>📂 ${place.category_ar}</span>
+              <span>📂 ${place.category_ar || place.category}</span>
             </div>
 
-            <!-- Prominent Rating Block -->
-            <div class="card-rating-block" style="margin:15px 0 20px;padding:15px 18px;">
+            <div class="card-rating-block" style="margin:14px 0 18px;padding:14px 16px;">
               <div class="card-rating-big">
-                <span class="big-number" style="font-size:36px;">${place.google_rating}</span>
+                <span class="big-number" style="font-size:34px;">${place.google_rating}</span>
                 <span class="stars-small" style="font-size:14px;">${generateStars(place.google_rating)}</span>
               </div>
               <div class="card-rating-meta">
-                <span class="review-count" style="font-size:16px;"><span class="count-num" style="font-size:18px;">${formatNumber(place.review_count)}</span> تقييم على قوقل</span>
-                <span class="google-badge" style="font-size:13px;">⭐ Google Reviews</span>
+                <span class="review-count" style="font-size:15px;"><span class="count-num" style="font-size:17px;">${formatNumber(place.review_count)}</span> تقييم على قوقل</span>
+                <span class="google-badge" style="font-size:12px;">⭐ Google Reviews</span>
               </div>
             </div>
 
-            <div class="review-quote-line" style="font-size:15px;padding:10px 14px;margin-bottom:20px;">${place.review_quote}</div>
+            <div class="review-quote-line" style="font-size:15px;padding:10px 14px;margin-bottom:18px;">${place.review_quote}</div>
 
             <p class="full-description">${place.description_ar}</p>
 
-            <div style="margin-top:20px;">
-              <h3 style="margin-bottom:15px;color:var(--dark-green);">📝 معلومات إضافية</h3>
+            <div style="margin-top:18px;">
+              <h3 style="margin-bottom:12px;color:var(--primary);">معلومات إضافية</h3>
               <p style="line-height:2;color:var(--text-light);">
                 ${place.name_ar} (${place.name_en}) يقع في ${place.neighborhood} بمدينة الرياض.
                 حاصل على تقييم ${place.google_rating} من 5 على قوقل من ${formatNumber(place.review_count)} تقييم حقيقي.
-                يعتبر من أفضل الأماكن في تصنيف "${place.category_ar}" بالرياض.
+                يعتبر من أفضل الأماكن في تصنيف "${place.category_ar || place.category}" بالرياض.
                 ${place.trending ? 'يعد حالياً من الأماكن الأكثر رواجاً وبحثاً في الرياض.' : ''}
                 ${place.is_new ? 'تم إضافته مؤخراً كمكان جديد في الرياض.' : ''}
                 ننصح بزيارته والاستمتاع بالتجربة الفريدة التي يقدمها.
@@ -140,9 +154,9 @@
 
           <div class="place-detail-sidebar">
             <div class="info-box">
-              <h3>ℹ️ معلومات سريعة</h3>
+              <h3>معلومات سريعة</h3>
               <div class="info-item"><span>الاسم</span><strong>${place.name_ar}</strong></div>
-              <div class="info-item"><span>التصنيف</span><strong>${place.category_ar}</strong></div>
+              <div class="info-item"><span>التصنيف</span><strong>${place.category_ar || place.category}</strong></div>
               <div class="info-item"><span>الحي</span><strong>${place.neighborhood}</strong></div>
               <div class="info-item"><span>تقييم قوقل</span><strong>⭐ ${place.google_rating} / 5</strong></div>
               <div class="info-item"><span>عدد التقييمات</span><strong>${formatNumber(place.review_count)}</strong></div>
@@ -152,7 +166,7 @@
               <div class="info-item"><span>الحالة</span><strong>${place.trending ? '🔥 رائج' : '✅ نشط'}</strong></div>
             </div>
 
-            <a href="${place.google_maps_url}" target="_blank" class="btn-primary" style="display:block;text-align:center;padding:15px;">
+            <a href="${place.google_maps_url}" target="_blank" class="btn-primary" style="display:block;text-align:center;padding:14px;">
               📍 افتح في قوقل ماب
             </a>
 
@@ -161,7 +175,7 @@
         </div>
       `;
 
-      // Rating Analysis Section
+      // Rating Analysis
       document.getElementById('rating-analysis-container').innerHTML = generateRatingAnalysis(place);
 
       // Related places
