@@ -28,14 +28,32 @@
         <a href="cafes.html">كافيهات</a>
         <a href="restaurants.html">مطاعم</a>
         <a href="activities.html">ترفيه</a>
-        <a href="shopping.html">تسوق</a>
-        <a href="nature.html">طبيعة</a>
-        <a href="desserts.html">حلويات</a>
         <a href="events.html">فعاليات</a>
-        <a href="trending.html">هابّ الحين 🔥</a>
-        <a href="new-places.html">أماكن جديدة</a>
-        <a href="map.html">🗺️ الخريطة</a>
-        <a href="favorites.html">❤️ المفضلة</a>
+        <a href="new-places.html">جديد</a>
+        <a href="discover.html">🎲 وين نروح؟</a>
+        <div class="nav-dropdown">
+          <a href="#">المزيد</a>
+          <div class="dropdown-menu">
+            <a href="shopping.html">🛍️ تسوق</a>
+            <a href="nature.html">🏞️ طبيعة</a>
+            <a href="desserts.html">🍰 حلويات</a>
+            <a href="top-rated.html">⭐ الأعلى تقييماً</a>
+            <div class="dropdown-divider"></div>
+            <a href="foundation-day.html">🇸🇦 يوم التأسيس</a>
+            <a href="riyadh-season.html">✨ موسم الرياض</a>
+            <div class="dropdown-divider"></div>
+            <div class="dropdown-submenu">
+              <a href="#">🏘️ الأحياء</a>
+              <div class="submenu">
+                <a href="neighborhood-olaya.html">حي العليا</a>
+                <a href="neighborhood-malqa.html">حي الملقا</a>
+                <a href="neighborhood-hittin.html">حي حطين</a>
+                <a href="neighborhood-yasmin.html">حي الياسمين</a>
+                <a href="neighborhood-rabee.html">حي الربيع</a>
+              </div>
+            </div>
+          </div>
+        </div>
       </nav>
     </div>
   </header>
@@ -47,6 +65,8 @@
   <div class="place-detail" id="place-detail-container"></div>
 
   <div style="max-width:1200px;margin:0 auto;padding:0 20px;" id="rating-analysis-container"></div>
+
+  <div style="max-width:1200px;margin:0 auto;padding:0 20px;" id="reviews-container"></div>
 
   <div style="max-width:1200px;margin:0 auto;padding:0 20px;" id="popular-times-container"></div>
 
@@ -93,11 +113,12 @@
 
   <script src="js/main.js"></script>
   <script src="js/crowd.js"></script>
+  <script src="js/reviews.js"></script>
   <script>
     const categoryPages = { 'cafe': 'cafes.html', 'restaurant': 'restaurants.html', 'activity': 'activities.html', 'تسوق': 'shopping.html', 'طبيعة': 'nature.html', 'كافيه': 'cafes.html', 'مطعم': 'restaurants.html', 'ترفيه': 'activities.html', 'حلويات': 'desserts.html', 'فعاليات': 'events.html' };
 
     document.addEventListener('DOMContentLoaded', async () => {
-      const allPlaces = await loadPlaces();
+      const [allPlaces] = await Promise.all([loadPlaces(), loadReviews()]);
       const placeId = getUrlParam('id') || 'elixir-bunn';
       const place = getPlaceById(placeId);
 
@@ -192,6 +213,13 @@
       // Rating Analysis
       document.getElementById('rating-analysis-container').innerHTML = generateRatingAnalysis(place);
 
+      // Reviews Section
+      const reviewsHtml = generateReviewsSection(placeId);
+      if (reviewsHtml) {
+        document.getElementById('reviews-container').innerHTML = reviewsHtml;
+        initReviewsSlider();
+      }
+
       // Popular Times
       if (place.popular_times) {
         document.getElementById('popular-times-container').innerHTML = renderPopularTimes(place);
@@ -208,6 +236,24 @@
       addSchemaToPage(generateSchemaMarkup(place));
     });
   </script>
-<script src="js/analytics.js"></script>
+<script>
+    document.querySelectorAll('.nav-dropdown > a').forEach(a => {
+      a.addEventListener('click', (e) => {
+        if (window.innerWidth <= 768) {
+          e.preventDefault();
+          a.parentElement.classList.toggle('open');
+        }
+      });
+    });
+    document.querySelectorAll('.dropdown-submenu > a').forEach(a => {
+      a.addEventListener('click', (e) => {
+        if (window.innerWidth <= 768) {
+          e.preventDefault();
+          a.nextElementSibling.style.display = a.nextElementSibling.style.display === 'block' ? 'none' : 'block';
+        }
+      });
+    });
+  </script>
+  <script src="js/analytics.js"></script>
 </body>
 </html>

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ما تدري وين تروح؟ 🎲 — وين نروح بالرياض؟</title>
+  <meta name="description" content="ما تدري وين تروح اليوم بالرياض؟ خلّنا نخطط لك! خطط يوم كاملة عشوائية ذكية، خطط حسب المناسبة والميزانية. اكتشف أماكن جديدة كل مرة.">
+  <meta name="keywords" content="وين نروح بالرياض, خطة يوم الرياض, أماكن الرياض, مقترحات أماكن, خطة عشوائية, ميزانية الرياض">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://wain-nrooh.com/discover.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="ما تدري وين تروح؟ 🎲 — وين نروح بالرياض؟">
+  <meta property="og:description" content="خلّنا نخطط لك يومك بالرياض! خطط ذكية عشوائية حسب المناسبة والميزانية.">
+  <meta property="og:url" content="https://wain-nrooh.com/discover.html">
+  <meta property="og:locale" content="ar_SA">
+  <meta property="og:site_name" content="وين نروح بالرياض؟">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="ما تدري وين تروح؟ 🎲 — وين نروح بالرياض؟">
+  <meta name="twitter:description" content="خلّنا نخطط لك يومك بالرياض! خطط ذكية عشوائية.">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0a1628">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/discover.css">
+</head>
+<body>
+
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><span>🏙️</span><h1>وين نروح بالرياض؟</h1></a>
+      <button class="menu-toggle" aria-label="القائمة">☰</button>
+      <nav class="nav">
+        <a href="index.html">الرئيسية</a>
+        <a href="cafes.html">كافيهات</a>
+        <a href="restaurants.html">مطاعم</a>
+        <a href="activities.html">ترفيه</a>
+        <a href="events.html">فعاليات</a>
+        <a href="discover.html" class="active">🎲 وين نروح؟</a>
+        <div class="nav-dropdown">
+          <a href="#">المزيد</a>
+          <div class="dropdown-menu">
+            <a href="shopping.html">🛍️ تسوق</a>
+            <a href="nature.html">🏞️ طبيعة</a>
+            <a href="desserts.html">🍰 حلويات</a>
+            <a href="top-rated.html">⭐ الأعلى تقييماً</a>
+            <a href="new-places.html">🆕 جديد</a>
+            <div class="dropdown-divider"></div>
+            <a href="foundation-day.html">🇸🇦 يوم التأسيس</a>
+            <a href="riyadh-season.html">✨ موسم الرياض</a>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="discover-hero">
+    <div class="discover-hero-bg">
+      <div class="floating-emoji e1">☕</div>
+      <div class="floating-emoji e2">🍽️</div>
+      <div class="floating-emoji e3">🎭</div>
+      <div class="floating-emoji e4">🛍️</div>
+      <div class="floating-emoji e5">🏞️</div>
+      <div class="floating-emoji e6">🍰</div>
+    </div>
+    <h2>ما تدري وين تروح؟ <span>🎲</span></h2>
+    <p>خلّنا نخطط لك يومك بالرياض! اضغط الزر وشوف خطة يوم كاملة من أماكن حقيقية مع تقييمات قوقل</p>
+    <button class="mega-dice-btn" id="megaDiceBtn">
+      <span class="dice-icon">🎲</span>
+      <span class="dice-text">فاجئني بخطة!</span>
+    </button>
+    <div class="hero-stats">
+      <span><strong id="totalPlacesCount">0</strong> مكان</span>
+      <span class="stat-dot">•</span>
+      <span><strong>7</strong> تصنيفات</span>
+      <span class="stat-dot">•</span>
+      <span>خطط لا نهائية ♾️</span>
+    </div>
+  </section>
+
+  <!-- Random Day Plan -->
+  <section class="discover-section" id="randomPlanSection" style="display:none;">
+    <div class="plan-header">
+      <h2>🗓️ خطة يومك بالرياض</h2>
+      <div class="plan-actions">
+        <button class="btn-refresh" id="refreshPlanBtn">🔄 خطة ثانية</button>
+        <button class="btn-share-plan" id="sharePlanBtn">📤 شارك الخطة</button>
+      </div>
+    </div>
+    <div class="day-plan-container" id="dayPlanContainer"></div>
+    <div class="plan-summary" id="planSummary"></div>
+  </section>
+
+  <!-- Occasion Plans -->
+  <section class="discover-section">
+    <h2 class="section-heading">📋 خطط جاهزة حسب المناسبة</h2>
+    <p class="section-subtitle">اختر مناسبتك وخلّنا نرتب لك</p>
+    <div class="occasions-grid" id="occasionsGrid">
+      <button class="occasion-card" data-occasion="romantic">
+        <div class="occasion-icon">💑</div>
+        <h3>موعد رومانسي</h3>
+        <p>أماكن هادئة + مطعم فاخر + كافيه</p>
+      </button>
+      <button class="occasion-card" data-occasion="family">
+        <div class="occasion-icon">👨‍👩‍👧‍👦</div>
+        <h3>يوم عائلي</h3>
+        <p>أماكن أطفال + مطعم عائلي + حديقة</p>
+      </button>
+      <button class="occasion-card" data-occasion="friends">
+        <div class="occasion-icon">👥</div>
+        <h3>طلعة مع الربع</h3>
+        <p>ترفيه + برجر/بيتزا + كافيه</p>
+      </button>
+      <button class="occasion-card" data-occasion="free">
+        <div class="occasion-icon">🆓</div>
+        <h3>يوم ببلاش</h3>
+        <p>أماكن مجانية فقط</p>
+      </button>
+      <button class="occasion-card" data-occasion="night">
+        <div class="occasion-icon">🌙</div>
+        <h3>سهرة</h3>
+        <p>مطعم + حلويات + كافيه</p>
+      </button>
+      <button class="occasion-card" data-occasion="cafes">
+        <div class="occasion-icon">☕</div>
+        <h3>يوم كافيهات</h3>
+        <p>3-4 كافيهات مختلفة</p>
+      </button>
+      <button class="occasion-card" data-occasion="shopping">
+        <div class="occasion-icon">🛍️</div>
+        <h3>يوم تسوق</h3>
+        <p>مولات + مطاعم المول</p>
+      </button>
+    </div>
+  </section>
+
+  <!-- Occasion Plan Result -->
+  <section class="discover-section" id="occasionPlanSection" style="display:none;">
+    <div class="plan-header">
+      <h2 id="occasionPlanTitle">📋 خطتك</h2>
+      <div class="plan-actions">
+        <button class="btn-refresh" id="refreshOccasionBtn">🔄 خطة ثانية</button>
+        <button class="btn-share-plan" id="shareOccasionBtn">📤 شارك</button>
+        <button class="btn-back" id="backToOccasions">↩️ رجوع</button>
+      </div>
+    </div>
+    <div class="day-plan-container" id="occasionPlanContainer"></div>
+    <div class="plan-summary" id="occasionPlanSummary"></div>
+  </section>
+
+  <!-- Budget Section -->
+  <section class="discover-section">
+    <h2 class="section-heading">💰 كم ميزانيتك؟</h2>
+    <p class="section-subtitle">اختر ميزانيتك وبنعطيك خطة تناسبك</p>
+    <div class="budget-grid" id="budgetGrid">
+      <button class="budget-card" data-budget="free">
+        <div class="budget-emoji">🆓</div>
+        <div class="budget-label">ببلاش!</div>
+        <div class="budget-desc">أماكن مجانية</div>
+      </button>
+      <button class="budget-card" data-budget="50">
+        <div class="budget-emoji">💚</div>
+        <div class="budget-label">أقل من 50 ريال</div>
+        <div class="budget-desc">اقتصادي</div>
+      </button>
+      <button class="budget-card" data-budget="150">
+        <div class="budget-emoji">💛</div>
+        <div class="budget-label">50 — 150 ريال</div>
+        <div class="budget-desc">متوسط</div>
+      </button>
+      <button class="budget-card" data-budget="300">
+        <div class="budget-emoji">🧡</div>
+        <div class="budget-label">150 — 300 ريال</div>
+        <div class="budget-desc">مرتفع</div>
+      </button>
+      <button class="budget-card" data-budget="plus">
+        <div class="budget-emoji">❤️</div>
+        <div class="budget-label">300+ ريال</div>
+        <div class="budget-desc">فاخر</div>
+      </button>
+    </div>
+  </section>
+
+  <!-- Budget Plan Result -->
+  <section class="discover-section" id="budgetPlanSection" style="display:none;">
+    <div class="plan-header">
+      <h2 id="budgetPlanTitle">💰 خطتك حسب الميزانية</h2>
+      <div class="plan-actions">
+        <button class="btn-refresh" id="refreshBudgetBtn">🔄 خطة ثانية</button>
+        <button class="btn-share-plan" id="shareBudgetBtn">📤 شارك</button>
+      </div>
+    </div>
+    <div class="budget-estimate" id="budgetEstimate"></div>
+    <div class="day-plan-container" id="budgetPlanContainer"></div>
+    <div class="plan-summary" id="budgetPlanSummary"></div>
+  </section>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div>
+        <h3>وين نروح بالرياض؟</h3>
+        <p>دليلك الشامل لأفضل الأماكن في الرياض مع تقييمات قوقل الحقيقية. محدث يومياً بأحدث الأماكن والتقييمات.</p>
+      </div>
+      <div>
+        <h3>الأقسام</h3>
+        <ul>
+          <li><a href="cafes.html">كافيهات الرياض</a></li>
+          <li><a href="restaurants.html">مطاعم الرياض</a></li>
+          <li><a href="activities.html">ترفيه وأنشطة</a></li>
+          <li><a href="shopping.html">تسوق بالرياض</a></li>
+          <li><a href="nature.html">طبيعة ورحلات</a></li>
+          <li><a href="desserts.html">حلويات الرياض</a></li>
+          <li><a href="events.html">فعاليات الرياض</a></li>
+          <li><a href="discover.html">🎲 ما تدري وين تروح؟</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>روابط مفيدة</h3>
+        <ul>
+          <li><a href="top-rated.html">الأعلى تقييماً</a></li>
+          <li><a href="trending.html">هابّ الحين 🔥</a></li>
+          <li><a href="new-places.html">أماكن جديدة</a></li>
+          <li><a href="sitemap.xml">خريطة الموقع</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-heart">صنع بـ <span>❤️</span> في الرياض</div>
+    <div class="footer-bottom"><p>© 2025-2026 وين نروح بالرياض؟ جميع الحقوق محفوظة.</p></div>
+  </footer>
+
+  <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
+
+  <script src="js/main.js"></script>
+  <script src="js/discover.js"></script>
+  <script>
+    // Mobile dropdown
+    document.querySelectorAll('.nav-dropdown > a').forEach(a => {
+      a.addEventListener('click', (e) => {
+        if (window.innerWidth <= 768) {
+          e.preventDefault();
+          a.parentElement.classList.toggle('open');
+        }
+      });
+    });
+  </script>
+</body>
+</html>

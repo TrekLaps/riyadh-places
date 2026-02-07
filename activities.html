@@ -29,14 +29,48 @@
         <a href="cafes.html">كافيهات</a>
         <a href="restaurants.html">مطاعم</a>
         <a href="activities.html" class="active">ترفيه</a>
-        <a href="shopping.html">تسوق</a>
-        <a href="nature.html">طبيعة</a>
-        <a href="desserts.html">حلويات</a>
         <a href="events.html">فعاليات</a>
-        <a href="trending.html">هابّ الحين 🔥</a>
-        <a href="new-places.html">أماكن جديدة</a>
-        <a href="map.html">🗺️ الخريطة</a>
-        <a href="favorites.html">❤️ المفضلة</a>
+        <a href="new-places.html">جديد</a>
+        <a href="discover.html">🎲 وين نروح؟</a>
+        <div class="nav-dropdown">
+          <a href="#">المزيد</a>
+          <div class="dropdown-menu">
+            <a href="shopping.html">🛍️ تسوق</a>
+            <a href="nature.html">🏞️ طبيعة</a>
+            <a href="desserts.html">🍰 حلويات</a>
+            <a href="top-rated.html">⭐ الأعلى تقييماً</a>
+            <div class="dropdown-divider"></div>
+            <a href="neighborhoods.html">🏘️ أحياء الرياض</a>
+            <a href="foundation-day.html">🇸🇦 يوم التأسيس</a>
+            <a href="riyadh-season.html">✨ موسم الرياض</a>
+            <div class="dropdown-divider"></div>
+            <div class="dropdown-submenu">
+              <a href="#">🏘️ الأحياء</a>
+              <div class="submenu">
+                <a href="neighborhood-olaya.html">حي العليا</a>
+                <a href="neighborhood-malqa.html">حي الملقا</a>
+                <a href="neighborhood-hittin.html">حي حطين</a>
+                <a href="neighborhood-yasmin.html">حي الياسمين</a>
+                <a href="neighborhood-rabee.html">حي الربيع</a>
+                <a href="neighborhood-narjis.html">حي النرجس</a>
+                <a href="neighborhood-wurud.html">حي الورود</a>
+                <a href="neighborhood-sahafa.html">حي الصحافة</a>
+                <a href="neighborhood-muruj.html">حي المروج</a>
+                <a href="neighborhood-nakheel.html">حي النخيل</a>
+                <a href="neighborhood-diriyah.html">الدرعية</a>
+                <a href="neighborhood-kafd.html">KAFD</a>
+                <a href="neighborhood-safarat.html">حي السفارات</a>
+                <a href="neighborhood-malz.html">حي الملز</a>
+                <a href="neighborhood-aqiq.html">حي العقيق</a>
+                <a href="neighborhood-sulaymaniyah.html">حي السليمانية</a>
+                <a href="neighborhood-gharnata.html">غرناطة</a>
+                <a href="neighborhood-rabwa.html">حي الربوة</a>
+                <a href="neighborhood-arid.html">حي العارض</a>
+                <a href="neighborhood-ghdir.html">حي الغدير</a>
+              </div>
+            </div>
+          </div>
+        </div>
       </nav>
     </div>
   </header>
@@ -133,6 +167,24 @@
       activities.forEach(a => addSchemaToPage(generateSchemaMarkup(a)));
     });
   </script>
-<script src="js/analytics.js"></script>
+<script>
+    document.querySelectorAll('.nav-dropdown > a').forEach(a => {
+      a.addEventListener('click', (e) => {
+        if (window.innerWidth <= 768) {
+          e.preventDefault();
+          a.parentElement.classList.toggle('open');
+        }
+      });
+    });
+    document.querySelectorAll('.dropdown-submenu > a').forEach(a => {
+      a.addEventListener('click', (e) => {
+        if (window.innerWidth <= 768) {
+          e.preventDefault();
+          a.nextElementSibling.style.display = a.nextElementSibling.style.display === 'block' ? 'none' : 'block';
+        }
+      });
+    });
+  </script>
+  <script src="js/analytics.js"></script>
 </body>
 </html>
