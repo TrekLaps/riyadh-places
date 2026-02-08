@@ -226,6 +226,7 @@
         <a href="events.html">فعاليات</a>
         <a href="new-places.html">جديد</a>
         <a href="discover.html">🎲 وين نروح؟</a>
+        <a href="lists.html">📋 قوائمي</a>
         <div class="nav-dropdown">
           <a href="#">المزيد</a>
           <div class="dropdown-menu">
@@ -234,6 +235,7 @@
             <a href="desserts.html">🍰 حلويات</a>
             <a href="top-rated.html">⭐ الأعلى تقييماً</a>
             <div class="dropdown-divider"></div>
+            <a href="trending.html">🔥 هابّ الحين</a>
             <a href="foundation-day.html">🇸🇦 يوم التأسيس</a>
             <a href="riyadh-season.html">✨ موسم الرياض</a>
             <div class="dropdown-divider"></div>
@@ -514,6 +516,70 @@
         `;
       }
       updateStats('all');
+
+      // ===== Heat Mode Toggle =====
+      let heatMode = false;
+      let heatMarkerLayer = null;
+
+      const heatToggle = document.getElementById('heat-toggle');
+      const heatLegend = document.getElementById('heat-legend');
+
+      heatToggle.addEventListener('click', () => {
+        heatMode = !heatMode;
+        heatToggle.classList.toggle('active', heatMode);
+
+        if (heatMode) {
+          heatLegend.style.display = 'flex';
+          // Remove normal markers
+          map.removeLayer(clusterGroup);
+
+          // Create heat markers
+          heatMarkerLayer = L.markerClusterGroup({
+            maxClusterRadius: 40,
+            spiderfyOnMaxZoom: true,
+            showCoverageOnHover: false,
+            chunkedLoading: true,
+            iconCreateFunction: function(cluster) {
+              const count = cluster.getChildCount();
+              const size = count > 10 ? 48 : 40;
+              return L.divIcon({
+                html: '<div style="background:linear-gradient(135deg,#e74c3c,#c0392b);color:#fff;border-radius:50%;width:'+size+'px;height:'+size+'px;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:900;font-family:Tajawal,sans-serif;box-shadow:0 3px 12px rgba(231,76,60,0.4);border:3px solid rgba(255,255,255,0.9);">'+count+'</div>',
+                className: 'heat-cluster',
+                iconSize: [size, size],
+              });
+            }
+          });
+
+          // Add heat-colored markers for all places
+          const hotPlaces = getHottestPlaces(places, places.length);
+          hotPlaces.forEach((place, index) => {
+            if (!place.lat || !place.lng) return;
+            const rank = index < 20 ? index + 1 : null;
+            const marker = L.marker([place.lat, place.lng], {
+              icon: createHeatMarkerIcon(place, rank)
+            });
+            marker.bindPopup(createHeatPopup(place, rank), { maxWidth: 320 });
+            heatMarkerLayer.addLayer(marker);
+          });
+
+          map.addLayer(heatMarkerLayer);
+        } else {
+          heatLegend.style.display = 'none';
+          // Remove heat markers, restore normal
+          if (heatMarkerLayer) {
+            map.removeLayer(heatMarkerLayer);
+            heatMarkerLayer = null;
+          }
+          // Re-add normal cluster based on current filter
+          clusterGroup.clearLayers();
+          if (activeCategory === 'all') {
+            Object.values(allMarkers).flat().forEach(m => clusterGroup.addLayer(m));
+          } else {
+            (allMarkers[activeCategory] || []).forEach(m => clusterGroup.addLayer(m));
+          }
+          map.addLayer(clusterGroup);
+        }
+      });
     });
   </script>
   <script>

@@ -123,6 +123,7 @@ function generatePlaceCard(place) {
         ${place.is_new ? '<span class="new-badge">جديد</span>' : ''}
         <button class="fav-btn ${isFav ? 'is-fav' : ''}" data-id="${place.id}" title="${isFav ? 'إزالة من المفضلة' : 'أضف للمفضلة'}" onclick="toggleFavorite('${place.id}')">${isFav ? '❤️' : '🤍'}</button>
         <button class="compare-btn ${isInCompare(place.id) ? 'in-compare' : ''}" data-id="${place.id}" title="${isInCompare(place.id) ? 'إزالة من المقارنة' : 'أضف للمقارنة'}" onclick="event.stopPropagation();toggleCompare('${place.id}')">${isInCompare(place.id) ? '⚖️ ✓' : '⚖️'}</button>
+        <button class="list-add-btn" data-id="${place.id}" title="أضف لقائمة" onclick="event.stopPropagation();if(typeof showAddToListModal==='function')showAddToListModal('${place.id}')">📋</button>
       </div>
       <div class="place-card-body">
         <span class="category-badge">${categoryNames[place.category] || place.category}</span>
