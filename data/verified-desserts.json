@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "mat-cookies",
+    "name_ar": "مات كوكيز",
+    "name_en": "Mat Cookies",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "فائز بجائزة أفضل حلويات الرياض 2025 من تايم آوت. كوكيز مربعة طازجة مع آيس كريم وصوصات. نكهات متنوعة من شوكولاتة وقرفة إلى أوبي وتوت حار. كومبو براوني-كوكيز-آيسكريم الشهير.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Winner - Best Dessert"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mat+Cookies+Al+Olaya+Riyadh",
+    "lat": 24.692,
+    "lng": 46.685,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "كوكيز",
+      "آيس كريم",
+      "شباب"
+    ]
+  },
+  {
+    "id": "befine",
+    "name_ar": "بيفاين",
+    "name_en": "Befine",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "As Sahafah",
+    "description_ar": "أسطورة خفية في الصحافة. شهير بحلويات الشوكولاتة الفيرالية. سوفليه غني وكيك طبقات شوكولاتة. أقل من 25 ريال لمعظم الأصناف. صغير وخشبي بأجواء مميزة.",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025 Highly Commended"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Befine+Desserts+Riyadh",
+    "lat": 24.813,
+    "lng": 46.6845,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "شوكولاتة",
+      "حلويات فيرالية"
+    ]
+  },
+  {
+    "id": "kayu-bakehouse",
+    "name_ar": "كايو بيكهاوس",
+    "name_en": "Kayu Bakehouse",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "بيكهاوس حرفي من دبي متخصص في الحلويات الفرنسية بمكونات طبيعية. افتتح في 2023 في مجمع ميدتاون. إبداع دقيق ومنهجي في كل حلوى.",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Highly Commended",
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kayu+Bakehouse+Riyadh",
+    "lat": 24.695,
+    "lng": 46.677,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "حلويات فرنسية",
+      "فخم"
+    ]
+  },
+  {
+    "id": "alf-desserts",
+    "name_ar": "ألف",
+    "name_en": "Alf Desserts",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الوادي",
+    "neighborhood_en": "Al Wadi",
+    "description_ar": "كيك حرفي وقهوة وحلويات بإلهام يوناني. ديكور نظيف بألوان محايدة. كيك تمر وفرنش توست بالعسل وبراوني شوكولاتة دافئ بنوتيلا وفانيلا آيس كريم.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Alf+Desserts+Al+Wadi+Riyadh",
+    "lat": 24.7825,
+    "lng": 46.6685,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "كيك",
+      "حلويات"
+    ]
+  },
+  {
+    "id": "chunk-bakery",
+    "name_ar": "تشنك",
+    "name_en": "Chunk",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "من أفضل محلات الكيك المحلية. انتظار ساعة للحصول على قطعة! كيك كراميل مملح وبروفيترول كريم بروليه وتارت عسل روزماري تين. فرع في المحمدية أيضاً.",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted",
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Chunk+Bakery+Riyadh",
+    "lat": 24.672,
+    "lng": 46.627,
+    "district": "غرب الرياض",
+    "perfect_for": [
+      "كيك",
+      "مناسبات"
+    ]
+  },
+  {
+    "id": "coated",
+    "name_ar": "كوتيد",
+    "name_en": "Coated",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي المحمدية",
+    "neighborhood_en": "Al Mohammadiyyah",
+    "description_ar": "بار حلويات بوتيك. تشيز كيك مقلوب بالتوت وقنابل شوكولاتة بالكريمة وبروليه تشيز كيك. كيك كاملة من 165-195 ريال. نكهات من ليمون إلى مانجو وكراميل.",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Coated+Desserts+Riyadh",
+    "lat": 24.75,
+    "lng": 46.645,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "كيك فاخر",
+      "مناسبات"
+    ]
+  },
+  {
+    "id": "hacked-cookies",
+    "name_ar": "هاكد",
+    "name_en": "Hacked",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الرحمانية",
+    "neighborhood_en": "Ar Rahmaniyyah",
+    "description_ar": "محل كوكيز بموقف. 'يخترق براعم التذوق منذ 1985'. كوكيز سميك وطري ومتنوع. آيس كريم بومب موسمي. ديكور أزرق صارخ. من 4 ريال. يفتح من الساعة 9 صباحاً.",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Hacked+Cookies+Riyadh",
+    "lat": 24.727,
+    "lng": 46.676,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "كوكيز",
+      "رخيص",
+      "شباب"
+    ]
+  },
+  {
+    "id": "quaint-cafe",
+    "name_ar": "كوينت كافيه",
+    "name_en": "Quaint",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي التعاون",
+    "neighborhood_en": "At Taawun",
+    "description_ar": "مقهى أنيق بتصميم خشبي وإضاءة طبيعية. قهوة ممتازة وتشيز كيك بلوبيري لا يُقاوم. المكان المثالي للعودة مراراً.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Quaint+Cafe+At+Taawun+Riyadh",
+    "lat": 24.741,
+    "lng": 46.671,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "تشيز كيك",
+      "هدوء"
+    ]
+  },
+  {
+    "id": "sucre-de-nada",
+    "name_ar": "سكر دي ندى",
+    "name_en": "Sucre de Nada",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "من جدة إلى الرياض. حلويات أوروبية وشرق أوسطية طازجة يومياً. كيك ماتيلدا وبافلوفا وفكتوريا وتارت متنوع. بانوفي باي كلاسيكي مع بسكويت دايجستيف ودولشي دي ليتشي.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sucre+de+Nada+Riyadh",
+    "lat": 24.8105,
+    "lng": 46.6305,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "كيك",
+      "حلويات أوروبية"
+    ]
+  },
+  {
+    "id": "sweets-yumi",
+    "name_ar": "سويتس يومي",
+    "name_en": "Sweets Yumi",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "محل حلويات ملون ولافت. كيك مصغرة بأشكال فراولة وقلوب وزهور. كيك تين وكيك ليمون. ديكور مفعم بالحياة.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sweets+Yumi+Al+Malqa+Riyadh",
+    "lat": 24.811,
+    "lng": 46.631,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "كيك مصغر",
+      "تصوير",
+      "ملون"
+    ]
+  },
+  {
+    "id": "chestnut-bakery",
+    "name_ar": "تشستنت بيكري",
+    "name_en": "Chestnut Bakery",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي المحمدية",
+    "neighborhood_en": "Al Mohammadiyyah",
+    "description_ar": "فائز بجائزة أفضل مخبز في الرياض 2025 من تايم آوت. مخبز لندني في Pure Center. فن صناعة الخبز مع كرواسون وداينش ومعجنات طازجة من الفرن الحطبي.",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Winner - Best Bakery",
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Chestnut+Bakery+Riyadh",
+    "lat": 24.751,
+    "lng": 46.646,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "خبز",
+      "كرواسون",
+      "معجنات"
+    ]
+  },
+  {
+    "id": "bread-ahead",
+    "name_ar": "بريد أهيد",
+    "name_en": "Bread Ahead",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "من سوق بورو في لندن. دونات وكرواسون وبيتزا سوردو. بان أو شوكولا بالفستق ودونات تشيز كيك بلاك كرانت. فطور طوال اليوم وبودينغ تمر.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025 Highly Commended"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bread+Ahead+Hittin+Riyadh",
+    "lat": 24.7555,
+    "lng": 46.636,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "دونات",
+      "كرواسون",
+      "سوردو"
+    ]
+  },
+  {
+    "id": "secret-pot",
+    "name_ar": "سيكرت بوت",
+    "name_en": "Secret Pot Bakery",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "An Nakheel",
+    "description_ar": "مخبز مخفي ساحر في النخيل. معجنات مصغرة ودونات كاسترد وسينابون رولز وكوكيز ماتشا. مطبخ مفتوح وسطح مخفي. ألوان باستيل.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025 Highly Commended"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Secret+Pot+Bakery+Riyadh",
+    "lat": 24.693,
+    "lng": 46.681,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "مخبز مخفي",
+      "معجنات",
+      "باستيل"
+    ]
+  },
+  {
+    "id": "breddy-bakery",
+    "name_ar": "بريدي",
+    "name_en": "Breddy Artisan Bakery",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "An Narjis",
+    "description_ar": "مخبز حرفي في النرجس. سوردو بدون إضافات. ساندويتش بوراتا فوكاتشا وبابكا شوكولاتة بلجيكية. تأسس على يد الخبازة أريج المعدي.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Breddy+Bakery+Riyadh",
+    "lat": 24.8525,
+    "lng": 46.6605,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "سوردو",
+      "خبز حرفي"
+    ]
+  },
+  {
+    "id": "croi-bakehouse",
+    "name_ar": "كروا بيكهاوس",
+    "name_en": "Croi Bakehouse",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Ar Rabi",
+    "description_ar": "معجنات ممتازة وقهوة مخمرة بعناية. داينش بيري بماسكربوني وكاسترد وفستق. كرواسون بالبيستو والطماطم المجففة. لاتيه كراميل مملح.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Croi+Bakehouse+Riyadh",
+    "lat": 24.8235,
+    "lng": 46.65,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "معجنات",
+      "كرواسون"
+    ]
+  },
+  {
+    "id": "easy-bakery",
+    "name_ar": "إيزي بيكري",
+    "name_en": "Easy Bakery",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "مخبز حرفي محلي بمكونات فاخرة. فرع الياسمين الأصلي وفرع أم الحمام. تأثير أوروبي. تشيز كيك ويل وكرواسون زعتر وساندويتشات سوردو.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Easy+Bakery+Riyadh",
+    "lat": 24.8055,
+    "lng": 46.6535,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "مخبز حرفي",
+      "كرواسون"
+    ]
+  },
+  {
+    "id": "green-mill",
+    "name_ar": "غرين ميل",
+    "name_en": "Green Mill",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "بيت السوردو الطبيعي. عجينة تُعجن وتُطوى وتُخمّر لـ16 ساعة. كيك وبارديت وكرواسون ومفن وكانتوتشي وكراكرز مع شاي.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Green+Mill+Bakery+Riyadh",
+    "lat": 24.806,
+    "lng": 46.654,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "سوردو",
+      "خبز طبيعي"
+    ]
+  },
+  {
+    "id": "tf-bakery",
+    "name_ar": "تي إف بيكري",
+    "name_en": "TF Bakery",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي العمرة",
+    "neighborhood_en": "Al Oumra",
+    "description_ar": "مخبز محلي مفاجئ في شارع غير متوقع. خبز طازج يومياً. تصميم مينيمالي وموظفين ودودين يغنون أثناء تحضير المخبوزات. يستحق البحث عنه.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted",
+      "Wanderlog"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=TF+Bakery+Riyadh",
+    "lat": 24.66,
+    "lng": 46.68,
+    "district": "جنوب الرياض",
+    "perfect_for": [
+      "خبز طازج",
+      "مخبز مخفي"
+    ]
+  },
+  {
+    "id": "rustic-bakery",
+    "name_ar": "ذا رستك بيكري",
+    "name_en": "The Rustic Bakery",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي القدس",
+    "neighborhood_en": "Al Quds",
+    "description_ar": "تأسس بشغف المعجنات. سوردو أصيل وفينوازري ومعجنات حلوة بحشوات كريمة محلية. كيك بمكونات محلية.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Rustic+Bakery+Riyadh",
+    "lat": 24.731,
+    "lng": 46.711,
+    "district": "شرق الرياض",
+    "perfect_for": [
+      "سوردو",
+      "محلي"
+    ]
+  },
+  {
+    "id": "watchhow",
+    "name_ar": "واتش هاو",
+    "name_en": "WatchHow",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي المحمدية",
+    "neighborhood_en": "Al Mohammadiyyah",
+    "description_ar": "لو فتح ويس أندرسون مقهى في الرياض. ألوان باستيل ومنحنيات ناعمة وتفاصيل فينتج. كورتادو ولاتيه إسباني مثلج. معجنات زبدة وحلويات محدودة الإصدار.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=WatchHow+Cafe+Riyadh",
+    "lat": 24.7515,
+    "lng": 46.6465,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "تصوير",
+      "باستيل",
+      "معجنات"
+    ]
+  },
+  {
+    "id": "laduree",
+    "name_ar": "لادوريه",
+    "name_en": "Laduree",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "ليسن فالي",
+    "neighborhood_en": "Laysen Valley",
+    "description_ar": "علامة باريسية تاريخية منذ 1862. الوجهة الأولى لأفضل ماكارون في العالم. فروع متعددة في الرياض.",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Laduree+Riyadh",
+    "lat": 24.6715,
+    "lng": 46.6615,
+    "district": "غرب الرياض",
+    "perfect_for": [
+      "ماكارون",
+      "فرنسي",
+      "فخم"
+    ]
+  },
+  {
+    "id": "pierre-herme",
+    "name_ar": "بيير هيرميه",
+    "name_en": "Pierre Herme",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فندق فورسيزنز",
+    "neighborhood_en": "Four Seasons Hotel",
+    "description_ar": "بوتيك حلويات فرنسي فاخر في لوبي فورسيزنز. ماكارون مميز وشوكولاتة فاخرة ومربيات وكيك ومعجنات. تصميم أنيق بالرخام البرتقالي والبني والكريمي.",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pierre+Herme+Four+Seasons+Riyadh",
+    "lat": 24.689,
+    "lng": 46.687,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "ماكارون",
+      "شوكولاتة",
+      "فخم"
+    ]
+  },
+  {
+    "id": "nakhati",
+    "name_ar": "نكهتي",
+    "name_en": "Nakhati",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "البجيري تراس",
+    "neighborhood_en": "Bujairi Terrace",
+    "description_ar": "تجربة جيلاتو محلية بمكونات طبيعية عالية الجودة. تدعم مجتمعات نسائية في الخليج. جيلاتو ماتشا من الأفضل.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nakhati+Gelato+Riyadh",
+    "lat": 24.734,
+    "lng": 46.58,
+    "district": "الدرعية",
+    "perfect_for": [
+      "جيلاتو",
+      "محلي",
+      "طبيعي"
+    ]
+  },
+  {
+    "id": "lena-lu",
+    "name_ar": "لينا لو",
+    "name_en": "Lena Lu Bombolini",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "لوميير مول",
+    "neighborhood_en": "Lumiere Mall",
+    "description_ar": "محل دونات حرفي من أستراليا. متخصص في بومبوليني (دونات إيطالي محشي) بلمسة أسترالية. مكان قابل للتصوير بألوان وردية.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lena+Lu+Bombolini+Riyadh",
+    "lat": 24.81,
+    "lng": 46.64,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "دونات",
+      "تصوير"
+    ]
+  },
+  {
+    "id": "pistrina-bakery",
+    "name_ar": "بيسترينا بيكري",
+    "name_en": "Pistrina Bakery",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مخبز يوناني شهير بالمخبوزات الطازجة. فرنش توست وكرواسون وساندويتشات متنوعة. من المفضلات لدى سكان الرياض.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pistrina+Bakery+KAFD+Riyadh",
+    "lat": 24.7685,
+    "lng": 46.6445,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "مخبوزات يونانية",
+      "فطور"
+    ]
+  },
+  {
+    "id": "trieste",
+    "name_ar": "تريستي",
+    "name_en": "Trieste",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "وجهة شهيرة لعشاق الكوكيز والقهوة. ساندويتش ديك رومي بالأفوكادو وكوكيز وفرنش توست بايتس. كل شيء طازج محلي الصنع.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Trieste+Cafe+Riyadh",
+    "lat": 24.7895,
+    "lng": 46.6465,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "كوكيز",
+      "قهوة"
+    ]
+  },
+  {
+    "id": "b-laban",
+    "name_ar": "بي لبن",
+    "name_en": "B.Laban",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "شارع التحلية",
+    "neighborhood_en": "Tahlia Street",
+    "description_ar": "محل حلويات مصري شهير. حلويات مصرية كلاسيكية وكيك الحليب وكريب فيرالي وآيس كريم. فرعين في الرياض. طوابير طويلة دائماً خاصة في التحلية.",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=B.Laban+Tahlia+Riyadh",
+    "lat": 24.694,
+    "lng": 46.687,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "حلويات مصرية",
+      "كريب",
+      "شعبي"
+    ]
+  },
+  {
+    "id": "bk-boutique",
+    "name_ar": "بي كي بوتيك",
+    "name_en": "BK Boutique",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي المحمدية",
+    "neighborhood_en": "Al Mohammadiyyah",
+    "description_ar": "أفخم محل حلويات في الرياض. وصفات من شيف سعودي. كرواسون مفلطح وكرواسون بيكان من الترندات. حرفية عالية.",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=BK+Boutique+Riyadh",
+    "lat": 24.752,
+    "lng": 46.647,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "كرواسون",
+      "فخم",
+      "ترند"
+    ]
+  },
+  {
+    "id": "saadeddin-pastry",
+    "name_ar": "حلويات سعد الدين",
+    "name_en": "Saadeddin Pastry",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "من أشهر وأقدم سلاسل الحلويات في السعودية منذ 1976. كنافة وبقلاوة وبسبوسة وكيك وشوكولاتة. حلويات للرجيم أيضاً. فروع في كل مكان.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026",
+      "Saadeddin.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Saadeddin+Pastry+Riyadh",
+    "lat": 24.695,
+    "lng": 46.678,
+    "district": "متعدد",
+    "perfect_for": [
+      "حلويات شرقية",
+      "كنافة",
+      "مناسبات"
+    ]
+  },
+  {
+    "id": "aani-dani",
+    "name_ar": "آني ودني",
+    "name_en": "AANI & DANI",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "أشهر محلات الشوكولاتة الأوروبية في السعودية. أكثر من 29 فرع. كيك ومناسبات وزواجات. الوجهة الأولى لعشاق الشوكولاتة.",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026",
+      "Wanderlog"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AANI+DANI+Riyadh",
+    "lat": 24.7,
+    "lng": 46.69,
+    "district": "متعدد",
+    "perfect_for": [
+      "شوكولاتة",
+      "هدايا",
+      "مناسبات"
+    ]
+  },
+  {
+    "id": "rose-sweets",
+    "name_ar": "حلويات روز",
+    "name_en": "Rose Sweets",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي غرناطة",
+    "neighborhood_en": "Ghirnatah",
+    "description_ar": "معمول التمر ومعمول الفستق الحلبي. شوكولاتة وكيك وفطائر متنوعة. معاملة راقية وهدايا صغيرة للزبائن عند الشراء.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=حلويات+روز+الرياض",
+    "lat": 24.746,
+    "lng": 46.731,
+    "district": "شرق الرياض",
+    "perfect_for": [
+      "حلويات شرقية",
+      "معمول",
+      "هدايا"
+    ]
+  },
+  {
+    "id": "diplomatic-sweets",
+    "name_ar": "الدبلوماسي للحلويات",
+    "name_en": "Al Diplomatic Sweets",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الروضة",
+    "neighborhood_en": "Ar Rawdah",
+    "description_ar": "من أشهر محلات الحلويات منذ 1987. كنافة شرقية ومعمول وبقلاوة وفطائر. كيك فراولة وتارت. علب حلويات هدايا متنوعة.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=الدبلوماسي+للحلويات+الرياض",
+    "lat": 24.711,
+    "lng": 46.726,
+    "district": "شرق الرياض",
+    "perfect_for": [
+      "حلويات شرقية",
+      "كنافة",
+      "مناسبات"
+    ]
+  },
+  {
+    "id": "mashhood-sweets",
+    "name_ar": "حلويات مشهود",
+    "name_en": "Mashhood Sweets",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "حلويات رخيصة ولذيذة. شفايف القشطة والبقلاوة والكيك والبيتي فور والشوكولاتة. ورق عنب وتشيز كيك نوتيلا وبلاك فورست وعش البلبل.",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=حلويات+مشهود+الرياض",
+    "lat": 24.71,
+    "lng": 46.7,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "رخيص",
+      "حلويات شرقية"
+    ]
+  },
+  {
+    "id": "lilou-patisserie",
+    "name_ar": "ليلو باتيسري",
+    "name_en": "Lilou Artisan Patisserie",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "باتيسري حرفي فاخر. كيك ومهلبية بالفستق وفطائر. ديكور فخم وأنيق. أسعار مرتفعة لكن الجودة عالية.",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026",
+      "Wanderlog"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lilou+Patisserie+Riyadh",
+    "lat": 24.6935,
+    "lng": 46.6875,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "باتيسري فرنسي",
+      "فخم"
+    ]
+  },
+  {
+    "id": "sugar-sprinkles",
+    "name_ar": "شوقر سبرينكلز",
+    "name_en": "Sugar Sprinkles",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي المحمدية",
+    "neighborhood_en": "Al Mohammadiyyah",
+    "description_ar": "كيك شهي بنكهات ومكونات مختلفة. براوني ومناسبات وأعياد. من المحلات المفضلة في الرياض.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sugar+Sprinkles+Riyadh",
+    "lat": 24.7505,
+    "lng": 46.6455,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "كيك",
+      "مناسبات"
+    ]
+  },
+  {
+    "id": "wooden-bakery",
+    "name_ar": "وودن بيكري",
+    "name_en": "Wooden Bakery",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "أفضل كنافة في الرياض حسب كثيرين. بلح الشام والبسبوسة واللقيمات. حلويات شرقية ومعجنات خفيفة ولذيذة.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026",
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wooden+Bakery+Riyadh",
+    "lat": 24.6955,
+    "lng": 46.6775,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "كنافة",
+      "حلويات شرقية"
+    ]
+  },
+  {
+    "id": "al-hallab-sweets",
+    "name_ar": "حلويات الحلاب",
+    "name_en": "Al Hallab Sweets",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "من أشهر محلات الحلويات الشرقية في الرياض. بقلاوة وكنافة وحلويات متنوعة. حلويات مناسبة للحمية الغذائية أيضاً.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=حلويات+الحلاب+الرياض",
+    "lat": 24.696,
+    "lng": 46.678,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "حلويات شرقية",
+      "بقلاوة"
+    ]
+  },
+  {
+    "id": "al-thawwaq",
+    "name_ar": "الذواق",
+    "name_en": "Al Thawwaq",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي المحمدية",
+    "neighborhood_en": "Al Mohammadiyyah",
+    "description_ar": "أفضل تارت توت في الرياض. تارت مانجو طازج. يهتم بأدق التفاصيل. فطائر وكيك شوكولاتة وفانيليا.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=الذواق+حلويات+الرياض",
+    "lat": 24.7508,
+    "lng": 46.6458,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "تارت",
+      "فواكه"
+    ]
+  },
+  {
+    "id": "helen-bakery",
+    "name_ar": "هيلين بيكري",
+    "name_en": "Helen Bakery",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "كوكيز بنكهات متنوعة وحلويات غربية. تشيز كيك بمكونات مختلفة. مخبوزات طازجة.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Helen+Bakery+Riyadh",
+    "lat": 24.6945,
+    "lng": 46.6765,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "كوكيز",
+      "تشيز كيك"
+    ]
+  },
+  {
+    "id": "kingdom-sweets",
+    "name_ar": "حلويات المملكة",
+    "name_en": "Kingdom Sweets",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الحمراء",
+    "neighborhood_en": "Al Hamra",
+    "description_ar": "تأسست 1980. ترفل بحشوات متنوعة وويفر بالشوكولاتة وكرانشي بالفستق واللوز. قهوة عربية بالهيل مع شوكولاتة. فروع متعددة في المملكة.",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=حلويات+المملكة+الرياض",
+    "lat": 24.72,
+    "lng": 46.715,
+    "district": "شرق الرياض",
+    "perfect_for": [
+      "شوكولاتة",
+      "هدايا"
+    ]
+  },
+  {
+    "id": "pastel-sweets",
+    "name_ar": "باستيل",
+    "name_en": "Pastel",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي المحمدية",
+    "neighborhood_en": "Al Mohammadiyyah",
+    "description_ar": "حلويات عربية تقليدية وحديثة عالية الجودة. اهتمام بالتفاصيل والمظهر الخارجي.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pastel+Sweets+Riyadh",
+    "lat": 24.7512,
+    "lng": 46.6462,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "حلويات عربية",
+      "مناسبات"
+    ]
+  },
+  {
+    "id": "kunafa-abul-haus",
+    "name_ar": "كنافة أبو الهوس",
+    "name_en": "Kunafa Abul Haus",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "من أشهر أماكن الكنافة في الرياض. كنافة ناعمة وخشنة بأنواع متعددة. نكهات مبتكرة وأصلية.",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Wanderlog"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kunafa+Abul+Haus+Riyadh",
+    "lat": 24.705,
+    "lng": 46.7,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "كنافة",
+      "شعبي"
+    ]
+  },
+  {
+    "id": "giovanni-gelato",
+    "name_ar": "جيوفاني إل",
+    "name_en": "Giovanni L",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "أفضل جيلاتو في الرياض حسب تريب أدفايزر. علامة حائزة على جوائز. نكهات متعددة وجودة عالية.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Giovanni+L+Gelato+Riyadh",
+    "lat": 24.71,
+    "lng": 46.685,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "جيلاتو",
+      "آيس كريم"
+    ]
+  },
+  {
+    "id": "me-snack",
+    "name_ar": "مي سناك",
+    "name_en": "Me Snack",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي المحمدية",
+    "neighborhood_en": "Al Mohammadiyyah",
+    "description_ar": "متخصص في كيك الحلقوم. حلقوم محشي بالكيك وتشيز كيك حلقوم وحلقوم بالبقلاوة. كيك مانجا بالماكرون وكيكة التمر وكيكة جوز الهند.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Me+Snack+Riyadh",
+    "lat": 24.7518,
+    "lng": 46.6468,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "حلقوم",
+      "كيك مبتكر"
+    ]
+  },
+  {
+    "id": "jarir-sweets",
+    "name_ar": "حلويات جرير",
+    "name_en": "Jarir Sweets",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "من أقدم محلات الحلويات في الرياض. كنافة وكيك وبقلاوة وبسبوسة. حلا فواكه وفستقية وبسكويت. علب شوكولاتة وآيس كريم.",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=حلويات+جرير+الرياض",
+    "lat": 24.6938,
+    "lng": 46.6862,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "حلويات شرقية",
+      "تقليدي"
+    ]
+  },
+  {
+    "id": "bait-al-halawiyat",
+    "name_ar": "بيت الحلويات",
+    "name_en": "Bait Al Halawiyat",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي البديعة",
+    "neighborhood_en": "Al Badiah",
+    "description_ar": "حلويات غربية وشرقية. كنافة وبسبوسة وفطائر. كيك أعياد ميلاد وميني كيك وبيتي فور وتارت وبلح الشام. أسعار مناسبة وجودة عالية.",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=بيت+الحلويات+الرياض",
+    "lat": 24.65,
+    "lng": 46.66,
+    "district": "جنوب الرياض",
+    "perfect_for": [
+      "حلويات شرقية",
+      "رخيص",
+      "مناسبات"
+    ]
+  },
+  {
+    "id": "al-karama-sweets",
+    "name_ar": "حلويات الكرامة",
+    "name_en": "Al Karama Sweets",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الحمراء",
+    "neighborhood_en": "Al Hamra",
+    "description_ar": "فطائر وكنافة وبقلاوة وكيك ومعمول بالقشطة وموالح. جودة عالية وأسعار مناسبة.",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=حلويات+الكرامة+الرياض",
+    "lat": 24.721,
+    "lng": 46.716,
+    "district": "شرق الرياض",
+    "perfect_for": [
+      "حلويات شرقية",
+      "رخيص"
+    ]
+  },
+  {
+    "id": "basboosti",
+    "name_ar": "بسبوستي اللذيذة",
+    "name_en": "Basboosti",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي القادسية",
+    "neighborhood_en": "Al Qadisiyah",
+    "description_ar": "أفضل بسبوسة في الرياض. حلويات متنوعة بمذاق شهي وجودة عالية. طلب أونلاين وتوصيل. أسعار معقولة ومناسبة.",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=بسبوستي+اللذيذة+الرياض",
+    "lat": 24.735,
+    "lng": 46.72,
+    "district": "شرق الرياض",
+    "perfect_for": [
+      "بسبوسة",
+      "رخيص"
+    ]
+  },
+  {
+    "id": "krispy-kreme",
+    "name_ar": "كرسبي كريم",
+    "name_en": "Krispy Kreme",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "سلسلة عالمية شهيرة بالدونات. دونات بنكهات متنوعة بالقطعة أو بوكسات. مشروبات ساخنة وباردة مع إضافات البندق والكراميل.",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Krispy+Kreme+Riyadh",
+    "lat": 24.694,
+    "lng": 46.686,
+    "district": "متعدد",
+    "perfect_for": [
+      "دونات",
+      "سلسلة"
+    ]
+  },
+  {
+    "id": "cinnabon",
+    "name_ar": "سينابون",
+    "name_en": "Cinnabon",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "سلسلة عالمية شهيرة برولات القرفة. سينابون كلاسيكي ومينيبون وشوكولاتة. مشروبات حلوة.",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Cinnabon+Riyadh",
+    "lat": 24.7,
+    "lng": 46.69,
+    "district": "متعدد",
+    "perfect_for": [
+      "سينابون",
+      "قرفة",
+      "سلسلة"
+    ]
+  },
+  {
+    "id": "magnolia-bakery",
+    "name_ar": "ماقنوليا بيكري",
+    "name_en": "Magnolia Bakery",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مخبز نيويوركي شهير. بانانا بودينغ أسطوري وكب كيك وكيك. من أشهر المخابز العالمية في الرياض.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Magnolia+Bakery+Riyadh",
+    "lat": 24.71,
+    "lng": 46.685,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "بانانا بودينغ",
+      "كب كيك"
+    ]
+  },
+  {
+    "id": "chez-le-notre",
+    "name_ar": "شيز لونوتر",
+    "name_en": "Chez Le Nôtre",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "باتيسري فرنسي فاخر. معجنات فرنسية أصيلة وكيك وشوكولاتة. من أقدم علامات الحلويات الفرنسية في الرياض.",
+    "google_rating": 4.2,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Chez+Le+Notre+Riyadh",
+    "lat": 24.705,
+    "lng": 46.68,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "فرنسي",
+      "فخم"
+    ]
+  },
+  {
+    "id": "baklava-cafe",
+    "name_ar": "بقلاوة كافيه",
+    "name_en": "Baklava Cafe",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي المغرزات",
+    "neighborhood_en": "Al Mughrizat",
+    "description_ar": "ألذ أنواع المعجنات والحلويات الشرقية والتركية. بقلاوة وبسبوسة وكنافة بالبسبوسة. قهوة متنوعة وأسعار مناسبة.",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Baklava+Cafe+Riyadh",
+    "lat": 24.726,
+    "lng": 46.711,
+    "district": "شرق الرياض",
+    "perfect_for": [
+      "بقلاوة",
+      "حلويات تركية"
+    ]
+  }
+]

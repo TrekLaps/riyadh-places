@@ -1,0 +1,2761 @@
+[
+  {
+    "id": "brew92",
+    "name_ar": "برو٩٢",
+    "name_en": "Brew92",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الندى",
+    "neighborhood_en": "Al Nada",
+    "description_ar": "من أفضل محامص القهوة في الرياض. سُمي على حرارة التحضير المثالية 92 درجة. يقدم قهوة مختصة بجودة عالمية مع حبوب أرابيكا 100%. فريق مدرب وفق معايير جمعية القهوة المختصة العالمية.",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Winner",
+      "Condé Nast Traveller",
+      "WhatsOn Saudi",
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Brew92+Riyadh",
+    "lat": 24.835,
+    "lng": 46.67,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "شباب",
+      "دراسة",
+      "عمل"
+    ]
+  },
+  {
+    "id": "elixir-bunn",
+    "name_ar": "إلكسير بن",
+    "name_en": "Elixir Bunn",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "An Nakheel",
+    "description_ar": "محمصة ومقهى محلي يقدم خلطات قهوة مستوحاة من مناطق المملكة المختلفة. تصميم داخلي مستوحى من العمارة الإسلامية أشاد به Architectural Digest. أجواء هادئة ومريحة.",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh",
+      "Condé Nast Traveller",
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Elixir+Bunn+Riyadh",
+    "lat": 24.6921,
+    "lng": 46.6803,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "هدوء",
+      "تصوير",
+      "أزواج"
+    ]
+  },
+  {
+    "id": "nac-cafe",
+    "name_ar": "ناك كافيه",
+    "name_en": "NAC Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "ليسن فالي",
+    "neighborhood_en": "Laysen Valley",
+    "description_ar": "قادم من حي مايفير اللندني، يجلب ناك أجواء البسترو الفرنسي العصري. فائز بجائزة أفضل كافيه في الرياض 2025 من تايم آوت. يقدم أطباق مستوحاة من الكلاسيكيات الفرنسية بلمسات مبتكرة.",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Winner - Best Cafe"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=NAC+Cafe+Laysen+Valley+Riyadh",
+    "lat": 24.67,
+    "lng": 46.66,
+    "district": "غرب الرياض",
+    "perfect_for": [
+      "أزواج",
+      "عشاء",
+      "تصوير",
+      "فخم"
+    ]
+  },
+  {
+    "id": "aok-kitchen",
+    "name_ar": "اي او كي كيتشن",
+    "name_en": "AOK Kitchen",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "يقع في مركز الملك عبدالله المالي. يقدم قهوة بحبوب من جازان السعودية. تراس مزين بالنباتات وأشجار الزيتون. تشيز كيك الفستق وكرواسان اللوز من أفضل ما يقدم.",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Highly Commended"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AOK+Kitchen+KAFD+Riyadh",
+    "lat": 24.767,
+    "lng": 46.643,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "عمل",
+      "صحي",
+      "فخم"
+    ]
+  },
+  {
+    "id": "sociale-cafe",
+    "name_ar": "سوسيال كافيه",
+    "name_en": "Sociale Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مقهى لبناني الأصل في شارع التحلية. ليس مجرد مكان للقهوة بل مركز ثقافي يقدم فعاليات شهرية من معارض فنية وحفلات وأمسيات ميكروفون مفتوح. أجواء دافئة وحيوية.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Highly Commended",
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sociale+Cafe+Tahlia+Riyadh",
+    "lat": 24.693,
+    "lng": 46.685,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "فن",
+      "ثقافة",
+      "أصدقاء",
+      "فعاليات"
+    ]
+  },
+  {
+    "id": "feels-cafe",
+    "name_ar": "فييلز",
+    "name_en": "Feels",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "علامة إماراتية تركز على الأكل الصحي. أكاي بولز وسموثي ودراجات ثابتة لخلط العصائر. ألوان زاهية وأجواء منعشة. خيارات نباتية متنوعة.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Feels+Cafe+Hittin+Riyadh",
+    "lat": 24.755,
+    "lng": 46.635,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "صحي",
+      "نباتي",
+      "تصوير",
+      "شباب"
+    ]
+  },
+  {
+    "id": "maison-de-cofleur",
+    "name_ar": "ميزون دو كوفلير",
+    "name_en": "Maison de Cofleur",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الندى",
+    "neighborhood_en": "Al Nada",
+    "description_ar": "وجهة مميزة لتناول الطعام طوال اليوم. إضاءة ناعمة ولمسات زهرية وأجواء دافئة. بان كيك وبيض بنديكت وسلطات ملونة وباستا. مثالي للقاءات الودية والمناسبات.",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Maison+de+Cofleur+Riyadh",
+    "lat": 24.835,
+    "lng": 46.665,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "عوائل",
+      "مناسبات",
+      "فطور",
+      "أزواج"
+    ]
+  },
+  {
+    "id": "new-by-nomad",
+    "name_ar": "نيو باي نوماد",
+    "name_en": "New by Nomad",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "قادم من البحرين. يجمع بين المذاق الصحي والمتعة الغنية. أكاي بولز وفرنش توست بالنوتيلا. أجواء دافئة وصالحة للتصوير مع كراسي الخيزران وألوان هادئة.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=New+by+Nomad+Riyadh",
+    "lat": 24.695,
+    "lng": 46.687,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "برانش",
+      "تصوير",
+      "صحي",
+      "أزواج"
+    ]
+  },
+  {
+    "id": "saolah",
+    "name_ar": "ساوله",
+    "name_en": "Saolah",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الرحمانية",
+    "neighborhood_en": "Ar Rahmaniyyah",
+    "description_ar": "وجهة أنيقة على طريق العروبة تقدم كومفورت فود إيطالي. بلاطات يشم وخضرة طبيعية. ريغاتوني وردي وبيتزا وفطور طوال اليوم. أسعار مناسبة وأجواء مريحة.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Saolah+Riyadh",
+    "lat": 24.726,
+    "lng": 46.675,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "أصدقاء",
+      "عشاء",
+      "فطور"
+    ]
+  },
+  {
+    "id": "scrmy",
+    "name_ar": "سكرمي",
+    "name_en": "Scrmy",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "مقهى أنيق يجمع بين أجواء هادئة للعمل نهاراً وأجواء نابضة بالحياة ليلاً. فريق ودود وخيارات كرواسون متنوعة مالحة وحلوة. مكان يرسم الابتسامة.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Scrmy+Cafe+Riyadh",
+    "lat": 24.788,
+    "lng": 46.645,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "عمل",
+      "أصدقاء",
+      "كرواسون"
+    ]
+  },
+  {
+    "id": "sculpture-cafe",
+    "name_ar": "سكلبتشر كافيه",
+    "name_en": "Sculpture Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "تأسس في جدة ويحظى بسمعة ممتازة. تصميم بسيط وأطباق أنيقة. ساندويش رقائق البطاطس والفرنش توست من الأبرز. سرعان ما أصبح مفضلاً لدى سكان الحي.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sculpture+Cafe+Riyadh",
+    "lat": 24.79,
+    "lng": 46.646,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "أصدقاء",
+      "شباب",
+      "جدة"
+    ]
+  },
+  {
+    "id": "served",
+    "name_ar": "سيرڤد",
+    "name_en": "Served",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مقهى راقي يقدم أطباقاً شهية من الصباح حتى المساء. تصميم بسيط بألوان طبيعية ودوار شمس. فطائر زبدة وتاكو ولاتيه مميز. خدمة ودودة وجودة ثابتة.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Served+Cafe+Al+Malqa+Riyadh",
+    "lat": 24.81,
+    "lng": 46.63,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "فطور",
+      "غداء",
+      "أصدقاء"
+    ]
+  },
+  {
+    "id": "jazean",
+    "name_ar": "جزين",
+    "name_en": "JAZEAN",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "علامة القهوة المختصة السعودية من شركة القهوة السعودية. حبوب من حزام القهوة الجنوبي. تدعم المزارعين المحليين وتهدف لوضع القهوة السعودية على الخارطة العالمية.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025 Highly Commended"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=JAZEAN+Coffee+Diplomatic+Quarter+Riyadh",
+    "lat": 24.67,
+    "lng": 46.625,
+    "district": "غرب الرياض",
+    "perfect_for": [
+      "قهوة سعودية",
+      "قهوة مختصة",
+      "تراث"
+    ]
+  },
+  {
+    "id": "namq",
+    "name_ar": "نمق",
+    "name_en": "Namq",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "سلسلة قهوة مختصة بـ13 فرع في السعودية. يقدم V60 وأمريكانو وقهوة سعودية. معجنات كلاسيكية وبراوني كراميل مملح وكيك شوكولاتة. أناقة في كل تفصيلة.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted",
+      "Sandy Times"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Namq+Cafe+Riyadh",
+    "lat": 24.81,
+    "lng": 46.628,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "حلويات",
+      "أناقة"
+    ]
+  },
+  {
+    "id": "ashjar-cafe",
+    "name_ar": "أشجار كافيه",
+    "name_en": "Ashjar Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Ar Rabi",
+    "description_ar": "يمزج الفن والقهوة والهدوء. اسمه يعني 'أشجار' بالعربية. تصميم داخلي أخضر مورق مع طاولات مشتركة وإضاءة طبيعية. حبوب محمصة محلياً. مفتوح 24 ساعة.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ashjar+Cafe+Riyadh",
+    "lat": 24.8233,
+    "lng": 46.6497,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "هدوء",
+      "عمل",
+      "24 ساعة"
+    ]
+  },
+  {
+    "id": "bossco-roastery",
+    "name_ar": "محمصة بوسكو",
+    "name_en": "Bossco Roastery",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "محمصة تقدم إسبريسو وفلات وايت ولاتيه إسباني مثلج وفلتر وكولد برو. قهوة تحكي قصة مع كل فنجان. من أبرز محامص العليا.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted",
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bossco+Roastery+Al+Olaya+Riyadh",
+    "lat": 24.69,
+    "lng": 46.685,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "محمصة"
+    ]
+  },
+  {
+    "id": "breehant-roastery",
+    "name_ar": "محمصة بريهانت",
+    "name_en": "Breehant Roastery",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "محمصة محلية تقدم أفضل القهوة. حبوب أفريقية وأحادية المصدر. مفتوح 24 ساعة. جلسات داخلية وخارجية مظللة. من الأسماء المحبوبة في شمال الرياض.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted",
+      "WhatsOn Saudi",
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Breehant+Coffee+Roastery+Riyadh",
+    "lat": 24.805,
+    "lng": 46.653,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "24 ساعة",
+      "محمصة"
+    ]
+  },
+  {
+    "id": "camel-step",
+    "name_ar": "كامل ستيب",
+    "name_en": "Camel Step",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي التعاون",
+    "neighborhood_en": "At Taawun",
+    "description_ar": "تأسس في 2014 ويأخذ القهوة المختصة بجدية. حبوب محمصة طازجة تصنع الفرق. ساخنة أو باردة، محلاة أو بدون. من الأسماء الرائدة في قهوة الرياض.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted",
+      "WhatsOn Saudi",
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Camel+Step+Coffee+Riyadh",
+    "lat": 24.74,
+    "lng": 46.67,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "هدوء"
+    ]
+  },
+  {
+    "id": "coyard",
+    "name_ar": "كويارد",
+    "name_en": "Coyard",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "تأسس في 2018. عدة فروع في الرياض بعلامته الزرقاء المميزة. مزدحم في كل الأوقات. V60 ولاتيه إسباني مثلج وكابتشينو كلاسيكي. من أشهر مقاهي الرياض.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted",
+      "WhatsOn Saudi",
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Coyard+Coffee+Riyadh",
+    "lat": 24.694,
+    "lng": 46.675,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "عمل",
+      "أصدقاء"
+    ]
+  },
+  {
+    "id": "repository-coffee",
+    "name_ar": "ريبوزيتوري كوفي",
+    "name_en": "Repository Coffee Roasters",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "An Narjis",
+    "description_ar": "يحمص حبوبه داخلياً مما يميزه. مجموعة متنوعة من القهوة تقدم ساخنة وباردة وحتى من أجهزة علمية تضيف للتجربة. تجربة مثيرة لا تفوت.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025 Shortlisted",
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Repository+Coffee+Roasters+Riyadh",
+    "lat": 24.852,
+    "lng": 46.66,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "محمصة",
+      "تجربة فريدة"
+    ]
+  },
+  {
+    "id": "half-million",
+    "name_ar": "هاف مليون",
+    "name_en": "Half Million",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "من أشهر مقاهي الرياض. سمي على استثمار 500 ألف ريال الأولي. مفتوح 24 ساعة. افتتح فرعاً في شارع أكسفورد في لندن. قهوة ممتازة وبايتس كراميل شهيرة وبيغل فلافل.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Condé Nast Traveller",
+      "Sandy Times"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Half+Million+Cafe+Riyadh",
+    "lat": 24.696,
+    "lng": 46.686,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "24 ساعة",
+      "شباب",
+      "سريع"
+    ]
+  },
+  {
+    "id": "good-neighbor",
+    "name_ar": "جوود نيبر",
+    "name_en": "Good Neighbor",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مقهى في موقف سيارات يجذب جمهور الرياض الشبابي كل أسبوع. كاونتر مزهر ومخبوزات وقهوة حرفية. ركن تسجيلات فينيل مخفي بموسيقى رائعة.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Condé Nast Traveller"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Good+Neighbor+Cafe+Riyadh",
+    "lat": 24.6945,
+    "lng": 46.6855,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "شباب",
+      "فن",
+      "موسيقى"
+    ]
+  },
+  {
+    "id": "baa-bakehouse",
+    "name_ar": "باع بيكهاوس",
+    "name_en": "Ba'a Bakehouse",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الرفيعة",
+    "neighborhood_en": "Al Rafiah",
+    "description_ar": "مقهى روحاني فوق وادي حنيفة الأخضر. تصميم داخلي شاحب مزين بالنباتات. براوني بتشيز كيك وساندويتش جبن مشوي وداينش فواكه طازجة. يستحق الرحلة.",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Condé Nast Traveller"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Baa+Bakehouse+Riyadh",
+    "lat": 24.65,
+    "lng": 46.61,
+    "district": "غرب الرياض",
+    "perfect_for": [
+      "هدوء",
+      "طبيعة",
+      "مخبوزات"
+    ]
+  },
+  {
+    "id": "arwana-artisan",
+    "name_ar": "أروانا",
+    "name_en": "Arwana Artisan Bakehouse",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملك سلمان",
+    "neighborhood_en": "King Salman",
+    "description_ar": "بيكهاوس حرفي يقدم طبق خبز بلبنة وجبنة فيتا مخفوقة. أكثر من 12 نوع خبز يومياً يُخبز في الموقع. بيض بومباي وشكشوكة وبيغل مونتريال من الأفضل في الرياض.",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Condé Nast Traveller"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Arwana+Artisan+Bakehouse+Riyadh",
+    "lat": 24.78,
+    "lng": 46.65,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "فطور",
+      "خبز طازج",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "urth-caffe",
+    "name_ar": "أورث كافيه",
+    "name_en": "Urth Caffe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مقهى كاليفورني يركز على المكونات العضوية والطبيعية. خيارات نباتية ممتازة. Manhattan Mudd مزيج أفريقي-آسيوي شهير. فطور طوال اليوم وحلويات طازجة يومياً.",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Condé Nast Traveller",
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Urth+Caffe+KAFD+Riyadh",
+    "lat": 24.768,
+    "lng": 46.644,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "عضوي",
+      "نباتي",
+      "صحي"
+    ]
+  },
+  {
+    "id": "on-cafe",
+    "name_ar": "أون كافيه",
+    "name_en": "On Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الروضة",
+    "neighborhood_en": "Ar Rawdah",
+    "description_ar": "مقهى بيسترو في الروضة. أركان مخفية للقراءة والدراسة ومشاهدة الناس. طبق فطور بسعر مناسب مع خبز ساخن ولبنة وبيض وزعتر. أجواء هادئة.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Condé Nast Traveller"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=On+Cafe+Ar+Rawdah+Riyadh",
+    "lat": 24.71,
+    "lng": 46.725,
+    "district": "شرق الرياض",
+    "perfect_for": [
+      "هدوء",
+      "دراسة",
+      "فطور"
+    ]
+  },
+  {
+    "id": "offbrief",
+    "name_ar": "أوف بريف",
+    "name_en": "OffBrief",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "جاكس",
+    "neighborhood_en": "Jax District",
+    "description_ar": "مركز جذب في حي جاكس الإبداعي بالدرعية. كاونترات حمراء متوهجة وطاقة إبداعية. لاتيه كريم بروليه بقشرة سكر وبنانا بريد وشوكولاتة ساخنة شتوية.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Condé Nast Traveller"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=OffBrief+Jax+District+Riyadh",
+    "lat": 24.735,
+    "lng": 46.58,
+    "district": "الدرعية",
+    "perfect_for": [
+      "إبداع",
+      "موضة",
+      "تصوير"
+    ]
+  },
+  {
+    "id": "tomoor-alula",
+    "name_ar": "تمور العلا",
+    "name_en": "Tomoor AlUla",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "يجمع التمر والقهوة السعودية. تمور صفاوي وصقعي ومنيفي تقدم سادة أو محشوة أو مع الشوكولاتة. فرع مميز في معرض سماء بتصميم راقٍ ومحلات محلية.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Condé Nast Traveller"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tomoor+AlUla+Riyadh",
+    "lat": 24.812,
+    "lng": 46.632,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "تراث",
+      "تمور",
+      "قهوة سعودية"
+    ]
+  },
+  {
+    "id": "batla",
+    "name_ar": "بتلا",
+    "name_en": "Batla",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العريجاء",
+    "neighborhood_en": "Al Uraija",
+    "description_ar": "مقهى هادئ بجو مشمس ونباتات خضراء. أرضيات باركيه ولمسات خضراء وأرائك مريحة. شوكولاتة ساخنة وماء ليمون مجاني وأكواب مزخرفة مثالية للتصوير.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Condé Nast Traveller"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Batla+Cafe+Riyadh",
+    "lat": 24.64,
+    "lng": 46.62,
+    "district": "غرب الرياض",
+    "perfect_for": [
+      "هدوء",
+      "تصوير",
+      "استرخاء"
+    ]
+  },
+  {
+    "id": "bohemia-cafe",
+    "name_ar": "بوهيميا كافيه",
+    "name_en": "Bohemia Records & Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "جاكس",
+    "neighborhood_en": "Jax District",
+    "description_ar": "متجر تسجيلات ومقهى من الخبر. مكتبة فينيل بأكثر من 1000 اسطوانة. حفلات حية وليالي تايلور سويفت في ذا ويرهاوس. لاتيه وحلويات بأجواء نيون.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Condé Nast Traveller",
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bohemia+Art+Cafe+Jax+Riyadh",
+    "lat": 24.736,
+    "lng": 46.581,
+    "district": "الدرعية",
+    "perfect_for": [
+      "موسيقى",
+      "فن",
+      "فينيل"
+    ]
+  },
+  {
+    "id": "maison-assouline",
+    "name_ar": "ميزون أسولين",
+    "name_en": "Maison Assouline",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "البجيري تراس",
+    "neighborhood_en": "Bujairi Terrace",
+    "description_ar": "كتب أسولين الفاخرة مع مقهى أنيق. أثاث قرمزي وإضاءة ناعمة وتراس يطل على جدران الدرعية التاريخية. موكتيلات إبداعية وشوكولاتة تمر ترايفل.",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Condé Nast Traveller"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Maison+Assouline+Bujairi+Terrace+Riyadh",
+    "lat": 24.734,
+    "lng": 46.579,
+    "district": "الدرعية",
+    "perfect_for": [
+      "فخم",
+      "كتب",
+      "تراث",
+      "إطلالة"
+    ]
+  },
+  {
+    "id": "mjabb",
+    "name_ar": "مجاب",
+    "name_en": "Mjabb",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "سمحان",
+    "neighborhood_en": "Samhania",
+    "description_ar": "مقهى بدوي في حي سمحانية التاريخي بالدرعية. جلسات حول نار مشتعلة وقهوة عربية وخبز قرصان مع لبنة وعسل. تجربة تراثية حية.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Condé Nast Traveller"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mjabb+Samhania+Diriyah+Riyadh",
+    "lat": 24.7345,
+    "lng": 46.5785,
+    "district": "الدرعية",
+    "perfect_for": [
+      "تراث",
+      "قهوة عربية",
+      "نار"
+    ]
+  },
+  {
+    "id": "natural-life",
+    "name_ar": "ناتشورال لايف",
+    "name_en": "Natural Life",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "مقهى داخل متجر نباتات ضخم. طاولات بين النخيل والسراخس. بركة سمك كوي وسلاحف وبط. بابكا نوتيلا وقرفة وزعتر مع قهوة عربية وكابتشينو.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Condé Nast Traveller"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Natural+Life+Cafe+Hittin+Riyadh",
+    "lat": 24.756,
+    "lng": 46.634,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "نباتات",
+      "عوائل",
+      "تصوير"
+    ]
+  },
+  {
+    "id": "tea-and-sesame",
+    "name_ar": "شاي وسمسم",
+    "name_en": "Tea and Sesame",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الوادي",
+    "neighborhood_en": "Al Wadi",
+    "description_ar": "بيت شاي بطابع فينتج. رفوف بعلب بسكويت قديمة وبرطمانات توابل. كرك حليب مع كعكة سمسم بأقل من ريال. مناقيش بالجبن والزعتر والحلوم بستو.",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Condé Nast Traveller"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tea+and+Sesame+Riyadh",
+    "lat": 24.782,
+    "lng": 46.668,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "شاي",
+      "شعبي",
+      "رخيص",
+      "كرك"
+    ]
+  },
+  {
+    "id": "five-elephants",
+    "name_ar": "فايف إلفنتس",
+    "name_en": "Five Elephants",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "مقهى قهوة مختصة أنيق. مشروبات ساخنة وباردة ملونة ومميزة. من الأسماء المعروفة في مشهد القهوة بالرياض.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi",
+      "Wanderlog"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Five+Elephants+Riyadh",
+    "lat": 24.805,
+    "lng": 46.652,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "شباب"
+    ]
+  },
+  {
+    "id": "brew-crew",
+    "name_ar": "برو كرو",
+    "name_en": "Brew Crew",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي المغرزات",
+    "neighborhood_en": "Al Mughrizat",
+    "description_ar": "تأسس في 2016. علامة محلية تهتم بالاستدامة وتتبع مصدر الحبوب. أجواء مثالية للعمل واللقاء بالأصدقاء.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi",
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Brew+Crew+Coffee+Riyadh",
+    "lat": 24.725,
+    "lng": 46.71,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "عمل",
+      "استدامة",
+      "أصدقاء"
+    ]
+  },
+  {
+    "id": "drip-coffee",
+    "name_ar": "دريب كوفي",
+    "name_en": "Drip Coffee",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "علامة سعودية تأسست في 2015 على يد سيدة أعمال طموحة. عدة فروع في الرياض. من أشهر المقاهي في المدينة.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi",
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Drip+Coffee+Riyadh",
+    "lat": 24.691,
+    "lng": 46.684,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "شباب"
+    ]
+  },
+  {
+    "id": "somatcha",
+    "name_ar": "سوماتشا",
+    "name_en": "SoMatcha",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "تأسس في 2020. علامة ماتشا وقهوة مختصة. ثلاثة فروع في الرياض. ماتشا احتفالية عالية الجودة ومخبوزات طازجة. مفتوح من 6 صباحاً حتى 3 فجراً.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=SoMatcha+Riyadh",
+    "lat": 24.75,
+    "lng": 46.65,
+    "district": "متعدد",
+    "perfect_for": [
+      "ماتشا",
+      "مخبوزات",
+      "شباب"
+    ]
+  },
+  {
+    "id": "twenty-grams",
+    "name_ar": "توينتي غرامز",
+    "name_en": "Twenty Grams",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملك فيصل",
+    "neighborhood_en": "King Faisal District",
+    "description_ar": "قهوة مختصة تأخذ القهوة بجدية مطلقة. يبيع حبوب قهوة وأدوات تحضير. حلويات وشوكولاتة ساخنة. مفتوح من 6 صباحاً حتى 4 فجراً.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Twenty+Grams+Cafe+Riyadh",
+    "lat": 24.7,
+    "lng": 46.72,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "ليلي"
+    ]
+  },
+  {
+    "id": "grin-cafe",
+    "name_ar": "غرين كافيه",
+    "name_en": "Grin",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "An Narjis",
+    "description_ar": "مقهى يملكه المؤثر فراس باقنا. طابقين بديكورات مميزة وإضاءة استثنائية. قهوة اليوم وإسبريسو ولاتيه وكراميل ماكياتو. براوني وبنانا بريد وكرواسون.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Grin+Cafe+Riyadh",
+    "lat": 24.851,
+    "lng": 46.659,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "شباب",
+      "حلويات",
+      "تصوير"
+    ]
+  },
+  {
+    "id": "key-cafe",
+    "name_ar": "كي كافيه",
+    "name_en": "Key Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "ثلاثة فروع في الرياض. يقدم قهوة وماتشا وعصائر وأفضل V60 في المدينة. ساندويتشات وهوت دوغز. مفتوح 24 ساعة.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Key+Cafe+Riyadh",
+    "lat": 24.692,
+    "lng": 46.686,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "24 ساعة",
+      "سريع"
+    ]
+  },
+  {
+    "id": "eln-cafe",
+    "name_ar": "إي إل إن",
+    "name_en": "EL&N",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "علامة لندنية من أكثر المقاهي قابلية للتصوير في العالم. نيونات وألوان زاهية. طعام ممتاز وقهوة لذيذة. 'Eat, Drink and Nourish'.",
+    "google_rating": 4.2,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=ELN+Cafe+Riyadh",
+    "lat": 24.789,
+    "lng": 46.646,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "تصوير",
+      "انستغرام",
+      "فخم"
+    ]
+  },
+  {
+    "id": "hi-cafe",
+    "name_ar": "هاي",
+    "name_en": "hi",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "نخيل مول",
+    "neighborhood_en": "Nakheel Mall",
+    "description_ar": "من أفضل أماكن الدونات في الرياض. دونات وساندويتشات دونات مع مشروبات ساخنة وباردة. فلات وايت وأمريكانو ولاتيه إسباني.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=hi+cafe+Nakheel+Mall+Riyadh",
+    "lat": 24.692,
+    "lng": 46.679,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "دونات",
+      "حلويات"
+    ]
+  },
+  {
+    "id": "nooa",
+    "name_ar": "نووا",
+    "name_en": "NOOA",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "ليسن فالي",
+    "neighborhood_en": "Laysen Valley",
+    "description_ar": "علامة جنوب أفريقية فريدة. Naturally Out Of Africa. تصميم مستوحى من كيب تاون. مزيج Ladha المميز من القهوة المحمصة بدفعات صغيرة. تجربة فاخرة.",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=NOOA+Laysen+Valley+Riyadh",
+    "lat": 24.671,
+    "lng": 46.661,
+    "district": "غرب الرياض",
+    "perfect_for": [
+      "فخم",
+      "تصميم",
+      "قهوة فاخرة"
+    ]
+  },
+  {
+    "id": "the-coffee-table",
+    "name_ar": "ذا كوفي تيبل",
+    "name_en": "The Coffee Table",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "في فندق ماريوت الحي الدبلوماسي. من أكثر المقاهي أناقة. V60 وكيمكس وكولد برو. مكان هادئ ومصقول.",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Coffee+Table+Marriott+DQ+Riyadh",
+    "lat": 24.672,
+    "lng": 46.626,
+    "district": "غرب الرياض",
+    "perfect_for": [
+      "فخم",
+      "هدوء",
+      "فندق"
+    ]
+  },
+  {
+    "id": "capri-cafe",
+    "name_ar": "كابري كافيه",
+    "name_en": "Capri Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "As Sahafah",
+    "description_ar": "مستوحى من جمال جزيرة كابري الإيطالية. V60 ممتاز دائماً. مفتوح 24 ساعة. أجواء رائعة للاسترخاء.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi",
+      "Wanderlog"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Capri+Cafe+Riyadh",
+    "lat": 24.8127,
+    "lng": 46.6842,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "24 ساعة",
+      "V60",
+      "هدوء"
+    ]
+  },
+  {
+    "id": "chok",
+    "name_ar": "تشوك",
+    "name_en": "chök",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "جامعة الملك سعود",
+    "neighborhood_en": "King Saud University",
+    "description_ar": "محل حلويات برشلوني شهير بالكرونتس (هجين دونات وكرواسون). بونبون وتشيز كيك وقهوة. من أفضل تجارب الحلويات في الرياض.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Chok+KSA+Riyadh",
+    "lat": 24.72,
+    "lng": 46.62,
+    "district": "غرب الرياض",
+    "perfect_for": [
+      "كرونتس",
+      "حلويات",
+      "تصوير"
+    ]
+  },
+  {
+    "id": "brunch-and-cake",
+    "name_ar": "برانش اند كيك",
+    "name_en": "Brunch and Cake",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "البجيري تراس",
+    "neighborhood_en": "Bujairi Terrace",
+    "description_ar": "مقهى بوهيمي في البجيري تراس بالدرعية. ألوان محايدة وباستيل. لاتيه بالبنجر والكراميل والإسباني. من أجمل المقاهي في الدرعية.",
+    "google_rating": 4.2,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Brunch+and+Cake+Bujairi+Terrace+Riyadh",
+    "lat": 24.7335,
+    "lng": 46.5795,
+    "district": "الدرعية",
+    "perfect_for": [
+      "برانش",
+      "تصوير",
+      "الدرعية"
+    ]
+  },
+  {
+    "id": "cafe-bateel",
+    "name_ar": "كافيه بتيل",
+    "name_en": "Cafe Bateel",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "من أقدم وأعرق مقاهي الرياض. تجربة حائزة على جوائز في جميع فروعه. طعام ممتاز وقهوة أفضل. فروع متعددة في المدينة.",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Cafe+Bateel+Riyadh",
+    "lat": 24.7,
+    "lng": 46.68,
+    "district": "متعدد",
+    "perfect_for": [
+      "تمور",
+      "كلاسيكي",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "draft-cafe",
+    "name_ar": "درافت كافيه",
+    "name_en": "Draft Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "يو ووك",
+    "neighborhood_en": "U Walk",
+    "description_ar": "من أشهر المقاهي حالياً في الرياض. مساحة واسعة ومريحة مثالية للجلوس بمفردك للدراسة أو مع صديق.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Draft+Cafe+U+Walk+Riyadh",
+    "lat": 24.76,
+    "lng": 46.64,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "دراسة",
+      "عمل",
+      "أصدقاء"
+    ]
+  },
+  {
+    "id": "level-up",
+    "name_ar": "ليفل أب",
+    "name_en": "Level Up",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "نادي اجتماعي بديل عن المقاهي التقليدية. ألعاب طاولة وتجارب غامرة وقهوة. لأعمار 21+. أجواء ممتعة ومختلفة.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Level+Up+Social+Hub+Riyadh",
+    "lat": 24.754,
+    "lng": 46.636,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "ألعاب",
+      "أصدقاء",
+      "شباب"
+    ]
+  },
+  {
+    "id": "haffa",
+    "name_ar": "حفّا",
+    "name_en": "Haffa",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي القدس",
+    "neighborhood_en": "Al Quds",
+    "description_ar": "مفهوم مقهى حارة. قهوة لذيذة ومخبوزات وحلويات طازجة يومياً. تجربة فريدة بطابع الحي التقليدي.",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "WhatsOn Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Haffa+Cafe+Riyadh",
+    "lat": 24.73,
+    "lng": 46.71,
+    "district": "شرق الرياض",
+    "perfect_for": [
+      "شعبي",
+      "حارة",
+      "مخبوزات"
+    ]
+  },
+  {
+    "id": "andarena-cafe",
+    "name_ar": "أندارينا كافيه",
+    "name_en": "Andarena Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي غرناطة",
+    "neighborhood_en": "Ghirnatah",
+    "description_ar": "مقهى مريح للقهوة وللباحثين عن ملاذ هادئ. لاتيه قهوة سعودية وإسبانية. فرنش توست وسان سباستيان تشيز كيك. جلسات خارجية مع مدفأة.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Sandy Times"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Andarena+Cafe+Riyadh",
+    "lat": 24.745,
+    "lng": 46.73,
+    "district": "شرق الرياض",
+    "perfect_for": [
+      "هدوء",
+      "عمل",
+      "دراسة"
+    ]
+  },
+  {
+    "id": "9th-street-coffee",
+    "name_ar": "نانث ستريت كوفي",
+    "name_en": "9th Street Coffee Roasters",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "وسط الرياض",
+    "neighborhood_en": "Central Riyadh",
+    "description_ar": "محمصة قهوة مختصة بحبوب عضوية أحادية المصدر. نكهة قوية بطبقات جوزية وتوفي. خيارات طعام صحية. مساحة مضيئة مثالية للعمل.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Sandy Times"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=9th+Street+Coffee+Roasters+Riyadh",
+    "lat": 24.71,
+    "lng": 46.69,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "عضوي",
+      "عمل"
+    ]
+  },
+  {
+    "id": "fabrica-de-cafe",
+    "name_ar": "فابريكا دي كافيه",
+    "name_en": "Fabrica de Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "وسط الرياض",
+    "neighborhood_en": "Central Riyadh",
+    "description_ar": "مقهى بسحر متوسطي. أواني سيراميك وإضاءة ناعمة. معجنات فرنسية وكوكيز وآيس كريم. محطة وافل وفرنش توست في الخارج. هدوء وأناقة.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Sandy Times"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Fabrica+de+Cafe+Riyadh",
+    "lat": 24.705,
+    "lng": 46.685,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "معجنات",
+      "تصوير",
+      "هدوء"
+    ]
+  },
+  {
+    "id": "dr-cafe",
+    "name_ar": "دكتور كافيه",
+    "name_en": "Dr. Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "سلسلة سعودية معروفة. جلسات خارجية مع رذاذ تبريد. مشروبات مميزة وموهيتو. كرواسون طري ومخبوزات طازجة يومياً. أسعار معقولة ومواقف واسعة.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Sandy Times"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dr+Cafe+Olaya+Riyadh",
+    "lat": 24.693,
+    "lng": 46.684,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "عوائل",
+      "سلسلة",
+      "جلسات خارجية"
+    ]
+  },
+  {
+    "id": "sense-females-cafe",
+    "name_ar": "سينس كافيه",
+    "name_en": "Sense Females Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مقهى مخصص بالكامل للسيدات. أجواء هادئة وديكور راقي. مخبوزات عالية الجودة. مثالي للتصوير واللقاءات الصباحية.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "LiveLoveSaudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sense+Females+Cafe+Riyadh",
+    "lat": 24.72,
+    "lng": 46.67,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "نسائي",
+      "هدوء",
+      "تصوير"
+    ]
+  },
+  {
+    "id": "cafe-elle",
+    "name_ar": "كافيه إيل",
+    "name_en": "Cafe ELLE",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مقهى عصري فاخر بتصميم جذاب وجلسات مريحة. قائمة واسعة للمشروبات والحلويات. من أفضل الأماكن للقاءات النسائية.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "LiveLoveSaudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Cafe+ELLE+Riyadh",
+    "lat": 24.715,
+    "lng": 46.675,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "نسائي",
+      "فخم"
+    ]
+  },
+  {
+    "id": "dana-coffee",
+    "name_ar": "دانا كوفي",
+    "name_en": "Dana Coffee",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي القيروان",
+    "neighborhood_en": "Al Qairawan",
+    "description_ar": "مثالي للجلسات الخارجية مع نظام رذاذ تبريد. أجواء فاخرة ومناسبة للصباح والمساء.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "LiveLoveSaudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dana+Coffee+Al+Qairawan+Riyadh",
+    "lat": 24.84,
+    "lng": 46.63,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "جلسات خارجية",
+      "تبريد"
+    ]
+  },
+  {
+    "id": "cafe-noir",
+    "name_ar": "كافيه نوار",
+    "name_en": "Cafe Noir",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "ليسن فالي",
+    "neighborhood_en": "Laysen Valley",
+    "description_ar": "من أشهر مقاهي الرياض للجلسات الخارجية. حاصل على جوائز عديدة لأفضل بيئة جلوس.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "LiveLoveSaudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Cafe+Noir+Laysen+Valley+Riyadh",
+    "lat": 24.6705,
+    "lng": 46.6605,
+    "district": "غرب الرياض",
+    "perfect_for": [
+      "جلسات خارجية",
+      "هدوء"
+    ]
+  },
+  {
+    "id": "nerds-cafe",
+    "name_ar": "نيردز كافيه",
+    "name_en": "Nerds Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "من أشهر مقاهي الرياض المخصصة للدراسة. غرف عزل صوت وإنترنت سريع ومقاعد مريحة.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "LiveLoveSaudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nerds+Cafe+Riyadh",
+    "lat": 24.73,
+    "lng": 46.68,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "دراسة",
+      "عمل",
+      "هدوء"
+    ]
+  },
+  {
+    "id": "copper-coffee",
+    "name_ar": "كوبر كوفي",
+    "name_en": "Copper Coffee",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مساحات كبيرة للعمل الفردي أو الجماعي. حلويات لذيذة أبرزها كيكة التمر.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "LiveLoveSaudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Copper+Coffee+Riyadh",
+    "lat": 24.735,
+    "lng": 46.675,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "عمل",
+      "دراسة"
+    ]
+  },
+  {
+    "id": "november-roastery",
+    "name_ar": "محمصة نوفمبر",
+    "name_en": "November Roastery",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "مقهى ومحمصة. أجواء مليئة بالكتب والهدوء لعشاق القراءة والتركيز. بن محمص داخل المكان.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "LiveLoveSaudi",
+      "AlRiyadhCity"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=November+Roastery+Riyadh",
+    "lat": 24.82,
+    "lng": 46.65,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "قراءة",
+      "هدوء",
+      "محمصة"
+    ]
+  },
+  {
+    "id": "qahwat-al-awwaleen",
+    "name_ar": "قهوة الأولين",
+    "name_en": "Qahwat Al Awwaleen",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "تجربة سعودية أصيلة بطابع تراثي ومأكولات إفطار محلية. مثالي للعائلات ومحبي التراث.",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "LiveLoveSaudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=قهوة+الأولين+الرياض",
+    "lat": 24.71,
+    "lng": 46.71,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "تراث",
+      "فطور",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "sir-al-qahwa",
+    "name_ar": "سر القهوة",
+    "name_en": "Sir Al Qahwa",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مقهى شعبي حديث مناسب للسهرات والجمعات الشبابية ومتابعة المباريات.",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "LiveLoveSaudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=سر+القهوة+الرياض",
+    "lat": 24.705,
+    "lng": 46.705,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "شعبي",
+      "مباريات",
+      "شباب"
+    ]
+  },
+  {
+    "id": "juthoor-al-bunn",
+    "name_ar": "جذور البن",
+    "name_en": "Juthoor Al Bunn",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "دمج بين الشعبي والعصري مع قهوة مختصة بطابع خليجي دافئ وجلسات مناسبة للتجمعات.",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "LiveLoveSaudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=جذور+البن+الرياض",
+    "lat": 24.715,
+    "lng": 46.7,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "شعبي",
+      "خليجي",
+      "تجمعات"
+    ]
+  },
+  {
+    "id": "rolands-cafe",
+    "name_ar": "رولاندز كافيه",
+    "name_en": "Roland's Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مقهى واسع مع جلسات عائلية وشاشات عرض للمباريات. حلويات مبتكرة خاصة كنافة التشيز كيك.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "LiveLoveSaudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Rolands+Cafe+Riyadh",
+    "lat": 24.725,
+    "lng": 46.705,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "عوائل",
+      "مباريات"
+    ]
+  },
+  {
+    "id": "the-globe-cafe",
+    "name_ar": "ذا غلوب كافيه",
+    "name_en": "The Globe Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "برج الفيصلية",
+    "neighborhood_en": "Al Faisaliah Tower",
+    "description_ar": "تجربة فريدة داخل كرة زجاجية بإطلالة بانورامية على العاصمة. من أفخم المقاهي في الرياض.",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "LiveLoveSaudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Globe+Cafe+Faisaliah+Tower+Riyadh",
+    "lat": 24.69,
+    "lng": 46.686,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "إطلالة",
+      "فخم",
+      "سياحة"
+    ]
+  },
+  {
+    "id": "arabica-percent",
+    "name_ar": "% أرابيكا",
+    "name_en": "% Arabica",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "سلسلة يابانية عالمية للقهوة المختصة. محمصة في حطين. تصميم نظيف ومينيمالي. لاتيه ممتاز وباريستا محترفين.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Arabica+Roastery+Hittin+Riyadh",
+    "lat": 24.7555,
+    "lng": 46.6355,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "مينيمالي"
+    ]
+  },
+  {
+    "id": "aim-coffee-bar",
+    "name_ar": "ايم كوفي بار",
+    "name_en": "Aim Coffee Bar",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "محل قهوة مختصة مبكر الفتح. يقدم كلاسيكيات القهوة بشكل ممتاز. تصميم حديث أنيق. خدمة سريعة ومساحة صغيرة مريحة.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Aim+Coffee+Bar+Al+Malqa+Riyadh",
+    "lat": 24.811,
+    "lng": 46.631,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "سريع"
+    ]
+  },
+  {
+    "id": "amber-specialty",
+    "name_ar": "أمبر سبشلتي",
+    "name_en": "Amber Specialty Coffee",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "محمصة-مقهى مشرقة ومعاصرة. قهوة مختصة محمصة بعناية في مساحة أنيقة ومرحبة. جلسات داخلية وخارجية.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Amber+Specialty+Coffee+Al+Olaya+Riyadh",
+    "lat": 24.6905,
+    "lng": 46.6845,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "محمصة"
+    ]
+  },
+  {
+    "id": "atmosphere-specialty",
+    "name_ar": "أتموسفير كوفي",
+    "name_en": "Atmosphere Specialty Coffee",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "طريق الملك فهد",
+    "neighborhood_en": "King Fahd Road",
+    "description_ar": "قهوة مختصة بتصميم مينيمالي مليء بالنباتات. V60 وكورتادو وإسبريسو وماتشا. مثالي للعمل عن بعد واللقاءات.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Atmosphere+Specialty+Coffee+Riyadh",
+    "lat": 24.78,
+    "lng": 46.66,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "عمل",
+      "قهوة مختصة",
+      "نباتات"
+    ]
+  },
+  {
+    "id": "black-stamp",
+    "name_ar": "بلاك ستامب",
+    "name_en": "Black Stamp",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النفل",
+    "neighborhood_en": "An Nafal",
+    "description_ar": "مقهى حي مينيمالي في النفل. إسبريسو وفلات وايت وفلتر. ثبات في الجودة وبساطة في التصميم.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Black+Stamp+Coffee+An+Nafal+Riyadh",
+    "lat": 24.796,
+    "lng": 46.662,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "بساطة"
+    ]
+  },
+  {
+    "id": "calibrated-coffee",
+    "name_ar": "كاليبريتد كوفي",
+    "name_en": "Calibrated Coffee Roasters",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي المروج",
+    "neighborhood_en": "Al Muruj",
+    "description_ar": "محمصة لعشاق القهوة الجادين. مصادر حبوب دقيقة وتحميص خبير. تخصص في التخمير الدقيق والقهوة المصفاة.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Calibrated+Coffee+Roasters+Riyadh",
+    "lat": 24.75,
+    "lng": 46.66,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "محمصة",
+      "خبراء"
+    ]
+  },
+  {
+    "id": "carve-coffee",
+    "name_ar": "كارف كوفي بار",
+    "name_en": "Carve Coffee Bar",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الورود",
+    "neighborhood_en": "Al Wurud",
+    "description_ar": "ألوان ترابية وإضاءة دافئة. قهوة مختصة بتصميم معاصر ومتين. مثالي للقاءات الهادئة أو الزيارات الفردية.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Carve+Coffee+Bar+Al+Wurud+Riyadh",
+    "lat": 24.725,
+    "lng": 46.68,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "هدوء",
+      "لقاءات"
+    ]
+  },
+  {
+    "id": "cherie-cafe",
+    "name_ar": "شيري كافيه",
+    "name_en": "Cherie",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مقهى بتصميم رومانسي ناعم. قهوة مختصة متوازنة. أكثر من مجرد مكان جميل، مثالي للصباحات الهادئة واللقاءات الخفيفة.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Cherie+Cafe+Al+Olaya+Riyadh",
+    "lat": 24.6915,
+    "lng": 46.6855,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "رومانسي",
+      "أزواج",
+      "تصوير"
+    ]
+  },
+  {
+    "id": "crops-coffee",
+    "name_ar": "كروبس كوفي",
+    "name_en": "Crops Coffee Roasters",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "An Narjis",
+    "description_ar": "محمصة في النرجس. حبوب أحادية المصدر وتخمير دقيق. تصميم مينيمالي أنيق. مثالي للفطور الهادئ والعمل واكتشاف القهوة.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Crops+Coffee+Roasters+An+Narjis+Riyadh",
+    "lat": 24.853,
+    "lng": 46.661,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "محمصة",
+      "عمل"
+    ]
+  },
+  {
+    "id": "hawi-cafe",
+    "name_ar": "هاوي كافيه",
+    "name_en": "Hawi",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مقهى حي هادئ في الملقا. خدمة ودية وأجواء مريحة. مثالي للقراءة والدراسة والعمل مع قهوة ممتازة.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Hawi+Cafe+Al+Malqa+Riyadh",
+    "lat": 24.8105,
+    "lng": 46.6295,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "هدوء",
+      "قراءة",
+      "دراسة"
+    ]
+  },
+  {
+    "id": "jorn-coffee",
+    "name_ar": "جورن كوفي",
+    "name_en": "Jorn Coffee Roasters",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "من رواد محامص الملقا. ابتكار في القهوة وتجارب تخمير تجريبية. حبوب حصرية ومعايير عالمية.",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Jorn+Coffee+Roasters+Al+Malqa+Riyadh",
+    "lat": 24.8115,
+    "lng": 46.6305,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "محمصة",
+      "ابتكار"
+    ]
+  },
+  {
+    "id": "najd-roastery",
+    "name_ar": "محمصة نجد",
+    "name_en": "Najd Roastery",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "محمصة في الملقا. ابتكار محلي وحرفية سعودية في القهوة. من الأسماء البارزة في حركة القهوة المحلية.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Najd+Roastery+Al+Malqa+Riyadh",
+    "lat": 24.812,
+    "lng": 46.6315,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "محمصة",
+      "محلي"
+    ]
+  },
+  {
+    "id": "yamm-coffee",
+    "name_ar": "يم كوفي",
+    "name_en": "Yamm Coffee Roasters",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "محمصة مميزة في العليا. من الأسماء المرجعية في مشهد القهوة المختصة بالرياض.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Yamm+Coffee+Roasters+Al+Olaya+Riyadh",
+    "lat": 24.6925,
+    "lng": 46.6865,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "محمصة"
+    ]
+  },
+  {
+    "id": "acoustic-cafe",
+    "name_ar": "كافيه أكوستك",
+    "name_en": "Acoustic Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مقهى هادئ وراقي وفخم في العليا. خدمة مميزة. فطور شرقي وغربي متنوع. من أفضل كافيهات العليا للمناسبات الخاصة.",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Acoustic+Cafe+Al+Olaya+Riyadh",
+    "lat": 24.6935,
+    "lng": 46.687,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "فطور",
+      "فخم",
+      "مناسبات"
+    ]
+  },
+  {
+    "id": "ristretto-cafe",
+    "name_ar": "ريستريتو كافيه",
+    "name_en": "Ristretto Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "ديكور أنيق وفخم. جلسات داخلية وخارجية. الهدوء أبرز ميزاته - مثالي للعمل والقراءة. موسيقى هادئة وأسعار متوسطة.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ristretto+Cafe+Al+Olaya+Riyadh",
+    "lat": 24.694,
+    "lng": 46.6865,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "عمل",
+      "قراءة",
+      "هدوء"
+    ]
+  },
+  {
+    "id": "mama-buns",
+    "name_ar": "ماما بنز",
+    "name_en": "Mama Buns",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "سلسلة بفروع متعددة في الرياض. تشكيلة لذيذة من الحلا والبنز الشهيرة. بنز كلاسيكي أو مع إضافات بنكهة مميزة وقوام هش طري.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mama+Buns+Cafe+Al+Olaya+Riyadh",
+    "lat": 24.6945,
+    "lng": 46.688,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "معجنات",
+      "حلويات",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "totti-cafe",
+    "name_ar": "توتي كافيه",
+    "name_en": "Totti Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "يُعرف أيضاً بأنواع القهوة. 3 فروع في العليا. يشتهر بالقهوة الفرنسية الفاخرة ذات الجودة العالية. كيك الشوكولاتة ممتاز. مفتوح 24 ساعة.",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Totti+Cafe+Al+Olaya+Riyadh",
+    "lat": 24.695,
+    "lng": 46.689,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "24 ساعة",
+      "قهوة فرنسية"
+    ]
+  },
+  {
+    "id": "volier-cafe",
+    "name_ar": "كوفي فولير",
+    "name_en": "Volier Coffee",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الواحة",
+    "neighborhood_en": "Al Wahah",
+    "description_ar": "من أفضل كافيهات شمال الرياض للعوائل والأفراد. يوفر بارتشن وغرف مغلقة. موسيقى هادئة. ساندويتشات ووجبات شهية. أسعار متوسطة.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Volier+Coffee+Riyadh",
+    "lat": 24.795,
+    "lng": 46.67,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "عوائل",
+      "خصوصية",
+      "فطور"
+    ]
+  },
+  {
+    "id": "north-coffee",
+    "name_ar": "نورث كوفي",
+    "name_en": "North Coffee",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "من أفخم كافيهات شمال الرياض. طابقين وجلسات خارجية. مصعد ومعدات لذوي الهمم. مشهور بالمشروبات الباردة خاصة الموهيتو والآيسد لاتيه.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=North+Coffee+Al+Aqiq+Riyadh",
+    "lat": 24.7885,
+    "lng": 46.6455,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "فخم",
+      "عوائل",
+      "مشروبات باردة"
+    ]
+  },
+  {
+    "id": "bubbles-tree",
+    "name_ar": "ببلز تري",
+    "name_en": "Bubbles Tree",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "مقهى فريد متخصص بمشروبات الفقاعات والبوبا. تجربة تفاعلية في اختيار المشروب. مناسب جداً للأطفال والعائلات. حلويات وجيلاتو.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bubbles+Tree+Cafe+Riyadh",
+    "lat": 24.806,
+    "lng": 46.654,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "أطفال",
+      "عوائل",
+      "بوبا تي"
+    ]
+  },
+  {
+    "id": "queen-anne-cafe",
+    "name_ar": "كوين آن كافيه",
+    "name_en": "Queen Anne Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "من أفضل 5 مقاهي في الرياض حسب عدة مصادر. يقدم قهوة مختصة بجودة عالية في أجواء أنيقة.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "DubaiMusts 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Queen+Anne+Cafe+Riyadh",
+    "lat": 24.74,
+    "lng": 46.66,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "أناقة"
+    ]
+  },
+  {
+    "id": "some-things-cafe",
+    "name_ar": "سم آند ثينقز",
+    "name_en": "Some & Things",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "مطل البجيري",
+    "neighborhood_en": "Bujairi Terrace",
+    "description_ar": "يشتهر بأجمل الجلسات الخارجية المكيفة وإطلالات رائعة. مشروبات صيفية مميزة.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "LiveLoveSaudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Some+and+Things+Bujairi+Terrace+Riyadh",
+    "lat": 24.7338,
+    "lng": 46.5798,
+    "district": "الدرعية",
+    "perfect_for": [
+      "إطلالة",
+      "جلسات خارجية"
+    ]
+  },
+  {
+    "id": "koffiqa",
+    "name_ar": "محمصة كوفيكا",
+    "name_en": "Koffiqa",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "محمصة سعودية تقدم تجربة قهوة مميزة تجمع بين الجودة والطعم الفريد.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Koffiqa Blog"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Koffiqa+Coffee+Riyadh",
+    "lat": 24.735,
+    "lng": 46.665,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "محمصة"
+    ]
+  },
+  {
+    "id": "barns-coffee",
+    "name_ar": "بارنز",
+    "name_en": "Barn's Coffee",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "أكبر وأقدم سلسلة قهوة سعودية منذ 1992. أكثر من 800 فرع عالمياً. علامة وطنية رائدة في القهوة المختصة. أول درايف ثرو قهوة محلي.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Arab News",
+      "Barns.com.sa",
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Barns+Coffee+Riyadh",
+    "lat": 24.7,
+    "lng": 46.68,
+    "district": "متعدد",
+    "perfect_for": [
+      "سلسلة",
+      "درايف ثرو",
+      "سعودي"
+    ]
+  },
+  {
+    "id": "dose-cafe",
+    "name_ar": "دوز كافيه",
+    "name_en": "Dose Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "سلسلة قهوة سعودية شهيرة بفروع متعددة في الرياض. قهوة مختصة بأسعار معقولة وأجواء شبابية. من أكثر المقاهي شعبية.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dose+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.675,
+    "district": "متعدد",
+    "perfect_for": [
+      "سلسلة",
+      "شباب"
+    ]
+  },
+  {
+    "id": "volume-cafe",
+    "name_ar": "فوليوم كافيه",
+    "name_en": "Volume Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مقهى عصري يقدم قهوة مختصة ومشروبات متنوعة في أجواء حديثة ومريحة.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Volume+Cafe+Riyadh",
+    "lat": 24.72,
+    "lng": 46.67,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "flat-white-cafe",
+    "name_ar": "فلات وايت",
+    "name_en": "Flat White Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مقهى قهوة مختصة يركز على الفلات وايت والمشروبات الكلاسيكية بجودة عالية.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Flat+White+Cafe+Riyadh",
+    "lat": 24.715,
+    "lng": 46.68,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "فلات وايت"
+    ]
+  },
+  {
+    "id": "tobys-estate",
+    "name_ar": "توبيز إستيت",
+    "name_en": "Toby's Estate",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "محمصة قهوة أسترالية عالمية. قهوة مختصة بحبوب مختارة بعناية. من الأسماء العالمية في الرياض.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Daymark Coffee Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tobys+Estate+Riyadh",
+    "lat": 24.725,
+    "lng": 46.665,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "قهوة مختصة",
+      "محمصة",
+      "أسترالي"
+    ]
+  },
+  {
+    "id": "tim-hortons",
+    "name_ar": "تيم هورتنز",
+    "name_en": "Tim Hortons",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "سلسلة كندية شهيرة عالمياً. قهوة ودونات ومخبوزات. فروع متعددة في الرياض. أسعار معقولة وخدمة سريعة.",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tim+Hortons+Riyadh",
+    "lat": 24.73,
+    "lng": 46.67,
+    "district": "متعدد",
+    "perfect_for": [
+      "سلسلة",
+      "سريع",
+      "دونات"
+    ]
+  },
+  {
+    "id": "starbucks-reserve",
+    "name_ar": "ستاربكس ريزيرف",
+    "name_en": "Starbucks Reserve",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فروع ستاربكس الفاخرة بتجربة قهوة مختصة متميزة. حبوب نادرة وطرق تحضير خاصة. تصميم داخلي فريد.",
+    "google_rating": 4.2,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Starbucks+Reserve+Riyadh",
+    "lat": 24.705,
+    "lng": 46.685,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "سلسلة",
+      "فخم",
+      "قهوة نادرة"
+    ]
+  },
+  {
+    "id": "dear-you-cafe",
+    "name_ar": "دير يو كافيه",
+    "name_en": "Dear You Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مناسب لمن يبحث عن هدوء كامل وجلسات طويلة. قائمة مشروبات عالية الجودة.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "LiveLoveSaudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dear+You+Cafe+Riyadh",
+    "lat": 24.74,
+    "lng": 46.665,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "هدوء",
+      "دراسة"
+    ]
+  },
+  {
+    "id": "sawsan-cafe",
+    "name_ar": "سوسن كافيه",
+    "name_en": "Sawsan Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "مزيج رائع بين القهوة المختصة والجلسات الراقية في الهواء الطلق. مثالي لوجبات الإفطار.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "LiveLoveSaudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sawsan+Cafe+Riyadh",
+    "lat": 24.8055,
+    "lng": 46.653,
+    "district": "شمال الرياض",
+    "perfect_for": [
+      "جلسات خارجية",
+      "فطور"
+    ]
+  },
+  {
+    "id": "cultura-del-cafe",
+    "name_ar": "كولتورا دل كافيه",
+    "name_en": "Cultura Del Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "أجواء راقية وخدمة ممتازة. مكان مريح للعائلات مع منيو غني بالمشروبات والأطباق.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "LiveLoveSaudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Cultura+Del+Cafe+Riyadh",
+    "lat": 24.735,
+    "lng": 46.68,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "عوائل",
+      "راقي"
+    ]
+  },
+  {
+    "id": "house-of-latte",
+    "name_ar": "هاوس أوف لاتيه",
+    "name_en": "House of Latte",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "تجربة عائلية دافئة مع مشروبات وحلويات عالية الجودة.",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "LiveLoveSaudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=House+of+Latte+Riyadh",
+    "lat": 24.73,
+    "lng": 46.675,
+    "district": "وسط الرياض",
+    "perfect_for": [
+      "عوائل",
+      "لاتيه"
+    ]
+  }
+]

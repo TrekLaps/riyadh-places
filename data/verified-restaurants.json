@@ -1,0 +1,3592 @@
+[
+  {
+    "id": "zuma-riyadh",
+    "name_ar": "زوما الرياض",
+    "name_en": "Zuma Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العقيق - كافد",
+    "neighborhood_en": "Al Aqiq - KAFD",
+    "description_ar": "مطعم ياباني عالمي حائز على جائزة أفضل مطعم في الرياض 2025 من FACT. يقدم أطباق الروباتا والسوشي والبلاك كود المميز في أجواء أنيقة بتصميم المعماري الياباني نوريوشي موراماتسو.",
+    "google_rating": 4.4,
+    "review_count": 1800,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "لم يخذلنا زوما أبداً. من لحظة دخولك الأجواء نابضة وأنيقة. الطعام تحفة فنية والبلاك كود بالميسو كمال",
+    "review_quote": "Zuma Riyadh never disappoints. The atmosphere feels vibrant and chic. Every dish was a masterpiece, the miso black cod was perfection.",
+    "pros_ar": [
+      "جودة طعام استثنائية",
+      "أجواء راقية ونابضة",
+      "خدمة احترافية"
+    ],
+    "pros": [
+      "Exceptional food quality",
+      "Vibrant upscale atmosphere",
+      "Professional service"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة جداً",
+      "صعوبة الحجز - قائمة انتظار طويلة"
+    ],
+    "cons": [
+      "Very expensive",
+      "Hard to book - long waiting list"
+    ],
+    "best_time": "المساء للعشاء",
+    "avg_spend": "٥٠٠-٨٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Zuma+Riyadh+KAFD",
+    "lat": 24.7672,
+    "lng": 46.6405,
+    "audience": [
+      "أزواج",
+      "رجال أعمال"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مناسبات خاصة",
+      "عشاء رومانسي",
+      "اجتماعات عمل"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "coya-riyadh",
+    "name_ar": "كويا الرياض",
+    "name_en": "COYA Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "مطعم بيروفي لاتيني حائز على جائزة أفضل مطعم أمريكي في الرياض 2025 من TimeOut. أجواء حيوية مع دي جي وقائمة سيفيتشي مفتوحة وأطباق لاتينية مميزة.",
+    "google_rating": 4.3,
+    "review_count": 3500,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "تجربة رائعة! الأجواء نابضة بالحياة والطعام استثنائي. الواغيو ريب آي والبوراتا كانا مذهلين",
+    "review_quote": "Wonderful ambiance, incredible service, and excellent dishes. The Grilled Wagyu Rib Eye and Burrata were outstanding.",
+    "pros_ar": [
+      "أجواء حيوية مميزة",
+      "طعام لاتيني أصيل",
+      "خدمة ممتازة",
+      "تقديم أطباق جميل"
+    ],
+    "pros": [
+      "Vibrant unique atmosphere",
+      "Authentic Latin food",
+      "Excellent service",
+      "Beautiful plating"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "حجم الحصص صغير نسبياً"
+    ],
+    "cons": [
+      "High prices",
+      "Portions relatively small"
+    ],
+    "best_time": "المساء بعد ٨",
+    "avg_spend": "٣٥٠-٥٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=COYA+Riyadh+Sulimaniyah",
+    "lat": 24.6901,
+    "lng": 46.6854,
+    "audience": [
+      "أزواج",
+      "أصدقاء",
+      "رجال أعمال"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "سهرة مع أصدقاء",
+      "عشاء رومانسي",
+      "مناسبات"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "scotts-riyadh",
+    "name_ar": "سكوتس الرياض",
+    "name_en": "Scott's Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "فيا رياض",
+    "neighborhood_en": "Via Riyadh",
+    "description_ar": "مطعم بريطاني فاخر متخصص في المأكولات البحرية، حائز على جائزة أفضل مطعم أوروبي 2025 من TimeOut. أصله من لندن منذ 1851 ويقدم المحار والكافيار وأسماك البحر الطازجة.",
+    "google_rating": 4.5,
+    "review_count": 800,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "تجربة مأكولات بحرية مذهلة تنقلك إلى لندن. المحار والسيباس من الأفضل في الرياض",
+    "review_quote": "A dazzling seafood destination bringing London's legendary elegance. The oysters and sea bass are among the best in Riyadh.",
+    "pros_ar": [
+      "مأكولات بحرية طازجة ممتازة",
+      "ديكور آرت ديكو فاخر",
+      "خدمة راقية"
+    ],
+    "pros": [
+      "Excellent fresh seafood",
+      "Luxurious Art Deco decor",
+      "Refined service"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة جداً",
+      "يحتاج حجز مسبق"
+    ],
+    "cons": [
+      "Very high prices",
+      "Reservation required"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٥٠٠-٧٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Scotts+Via+Riyadh",
+    "lat": 24.8125,
+    "lng": 46.6269,
+    "audience": [
+      "أزواج",
+      "رجال أعمال"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مناسبات خاصة",
+      "عشاء فاخر"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "la-petite-maison",
+    "name_ar": "لا بيتيت ميزون",
+    "name_en": "La Petite Maison (LPM)",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مطعم فرنسي متوسطي حائز على جائزة أفضل مطعم فرنسي في الرياض 2025. يقدم مطبخ نيس الفرنسي بأجواء أنيقة مع البوراتا والسلطة النيسواز وقطع الحمل المدخنة.",
+    "google_rating": 4.4,
+    "review_count": 2200,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أفضل مطعم فرنسي في الرياض بلا منافس. البوراتا وقطع الحمل استثنائية",
+    "review_quote": "The best French restaurant in Riyadh without competition. Burrata and lamb cutlets are exceptional.",
+    "pros_ar": [
+      "طبخ فرنسي متوسطي أصيل",
+      "أجواء أنيقة",
+      "مكونات طازجة"
+    ],
+    "pros": [
+      "Authentic French Mediterranean cooking",
+      "Elegant atmosphere",
+      "Fresh ingredients"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "مساحة محدودة"
+    ],
+    "cons": [
+      "High prices",
+      "Limited space"
+    ],
+    "best_time": "غداء أو عشاء",
+    "avg_spend": "٣٥٠-٥٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=La+Petite+Maison+Riyadh+Olaya",
+    "lat": 24.6907,
+    "lng": 46.6853,
+    "audience": [
+      "أزواج",
+      "رجال أعمال",
+      "عوائل"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "غداء عمل",
+      "عشاء رومانسي"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "carbone-riyadh",
+    "name_ar": "كاربوني الرياض",
+    "name_en": "Carbone Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مطعم إيطالي أمريكي من نيويورك حائز على نجمة ميشلان. فاز بجائزة المطعم الإيطالي المفضل في الرياض مرتين من FACT. يقدم الريجاتوني الحار الشهير وفيال بارم.",
+    "google_rating": 4.3,
+    "review_count": 1500,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "ريجاتوني حار من الأفضل اللي ذقته. الأجواء تنقلك لنيويورك في الخمسينات",
+    "review_quote": "The Spicy Rigatoni is one of the best I've ever had. The atmosphere transports you to 1950s New York.",
+    "pros_ar": [
+      "طبخ إيطالي أمريكي أصيل",
+      "أجواء كلاسيكية مميزة",
+      "أطباق مميزة"
+    ],
+    "pros": [
+      "Authentic Italian-American cooking",
+      "Classic distinctive ambiance",
+      "Signature dishes"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة جداً",
+      "الانتظار طويل"
+    ],
+    "cons": [
+      "Very high prices",
+      "Long wait times"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٤٠٠-٦٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Carbone+Riyadh+Mansard",
+    "lat": 24.6928,
+    "lng": 46.6847,
+    "audience": [
+      "أزواج",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مناسبات خاصة",
+      "سهرة فاخرة"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "gymkhana-riyadh",
+    "name_ar": "جيمخانا الرياض",
+    "name_en": "Gymkhana Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "فيا رياض",
+    "neighborhood_en": "Via Riyadh",
+    "description_ar": "مطعم هندي راقي من لندن حائز على جائزة أفضل مطعم هندي في الرياض 2025 للسنة الثانية على التوالي. يقدم مطبخ شمال الهند المعاصر بلمسات مميزة.",
+    "google_rating": 4.5,
+    "review_count": 1200,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "طعام هندي راقي بمستوى عالمي. كيد غوت كيما سالي وبانير تيكا لا يُنسيان",
+    "review_quote": "World-class Indian food. Kid goat keema salli and achari paneer tikka are unforgettable.",
+    "pros_ar": [
+      "طبخ هندي معاصر ممتاز",
+      "أجواء أنيقة",
+      "قائمة متنوعة"
+    ],
+    "pros": [
+      "Excellent contemporary Indian cooking",
+      "Elegant ambiance",
+      "Diverse menu"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "مستوى البهارات يختلف"
+    ],
+    "cons": [
+      "High prices",
+      "Spice levels vary"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٣٠٠-٤٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Gymkhana+Via+Riyadh",
+    "lat": 24.8125,
+    "lng": 46.6269,
+    "audience": [
+      "أزواج",
+      "أصدقاء",
+      "رجال أعمال"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء مميز",
+      "غداء عمل"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "cafe-boulud",
+    "name_ar": "كافيه بولود",
+    "name_en": "Café Boulud",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا - فور سيزونز",
+    "neighborhood_en": "Al Olaya - Four Seasons",
+    "description_ar": "مطعم فرنسي في فندق فور سيزونز من الشيف دانيال بولود. يتميز بمكتبة الأجبان الفريدة وأطباق فرنسية كلاسيكية مع لمسات عصرية.",
+    "google_rating": 4.4,
+    "review_count": 900,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مكتبة الأجبان فريدة من نوعها. السيباس بالبطاطا المقرمشة والفيشيسواز بالكافيار استثنائيان",
+    "review_quote": "The cheese library is one of a kind. The bass with crispy potatoes and vichyssoise with caviar are exceptional.",
+    "pros_ar": [
+      "مكتبة أجبان فريدة",
+      "طبخ فرنسي راقي",
+      "خدمة احترافية"
+    ],
+    "pros": [
+      "Unique cheese library",
+      "Refined French cooking",
+      "Professional service"
+    ],
+    "cons_ar": [
+      "أسعار فندقية مرتفعة",
+      "الحجز ضروري"
+    ],
+    "cons": [
+      "High hotel prices",
+      "Reservation essential"
+    ],
+    "best_time": "غداء أو عشاء",
+    "avg_spend": "٤٠٠-٥٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Cafe+Boulud+Four+Seasons+Riyadh",
+    "lat": 24.7113,
+    "lng": 46.6743,
+    "audience": [
+      "أزواج",
+      "رجال أعمال"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مناسبات خاصة",
+      "غداء فاخر"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "chotto-matte",
+    "name_ar": "شوتو ماتي",
+    "name_en": "Chotto Matte",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مطعم نيكي يجمع بين المطبخ الياباني والبيروفي. فاز بجائزة أفضل مطعم جديد 2025 من FACT. يقدم روباتا ممتازة وأطباق واغيو A5 في أجواء عصرية.",
+    "google_rating": 4.3,
+    "review_count": 1100,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "تجربة نيكي مميزة تجمع اليابان والبيرو بإتقان. التراس من الأفضل في الرياض",
+    "review_quote": "A distinctive Nikkei experience blending Japan and Peru with mastery. The terrace is one of the best in Riyadh.",
+    "pros_ar": [
+      "مطبخ نيكي مبتكر",
+      "تراس رائع",
+      "أجواء حيوية"
+    ],
+    "pros": [
+      "Innovative Nikkei cuisine",
+      "Amazing terrace",
+      "Vibrant atmosphere"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "صاخب أحياناً"
+    ],
+    "cons": [
+      "High prices",
+      "Can be noisy"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٣٥٠-٥٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Chotto+Matte+KAFD+Riyadh",
+    "lat": 24.7672,
+    "lng": 46.6405,
+    "audience": [
+      "أزواج",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "سهرة مع أصدقاء",
+      "عشاء مميز"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "spago-wolfgang-puck",
+    "name_ar": "سباغو من وولفغانغ باك",
+    "name_en": "Spago by Wolfgang Puck",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "فيا رياض",
+    "neighborhood_en": "Via Riyadh",
+    "description_ar": "مطعم كاليفورني من الشيف العالمي وولفغانغ باك في فيا رياض. يقدم مطبخاً كاليفورنياً مع لمسات محلية وآسيوية. حاز على جائزة المفضل الدولي من FACT.",
+    "google_rating": 4.3,
+    "review_count": 900,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "المطعم يجمع بين أناقة كاليفورنيا وتجربة فريدة. السيباس المقلي بالكامل تحفة",
+    "review_quote": "The restaurant combines California elegance with a unique experience. The Fried Blooming Whole Seabass is a masterpiece.",
+    "pros_ar": [
+      "مطبخ كاليفورني مميز",
+      "خدمة ممتازة",
+      "مكان أنيق"
+    ],
+    "pros": [
+      "Distinctive Californian cuisine",
+      "Excellent service",
+      "Elegant venue"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "الحصص قد تكون صغيرة"
+    ],
+    "cons": [
+      "High prices",
+      "Portions may be small"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٣٥٠-٥٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Spago+Wolfgang+Puck+Via+Riyadh",
+    "lat": 24.8125,
+    "lng": 46.6269,
+    "audience": [
+      "أزواج",
+      "رجال أعمال"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء فاخر",
+      "مناسبات"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "cipriani-riyadh",
+    "name_ar": "شيبرياني الرياض",
+    "name_en": "Cipriani Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "البوليفارد",
+    "neighborhood_en": "The Boulevard",
+    "description_ar": "مطعم إيطالي فاخر من مجموعة شيبرياني العالمية. يتميز بثريات مورانو وأرضيات تيرازو والباستا المصنوعة يومياً والتقديم الكلاسيكي الأنيق.",
+    "google_rating": 4.2,
+    "review_count": 1400,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "تجربة إيطالية أصيلة بمستوى عالمي. التاليوليني والكاربتشيو لا يُنسيان",
+    "review_quote": "An authentic Italian experience at world-class level. The Tagliolini and carpaccio are unforgettable.",
+    "pros_ar": [
+      "باستا طازجة يومياً",
+      "ديكور فاخر",
+      "وصفات إيطالية أصيلة"
+    ],
+    "pros": [
+      "Fresh daily pasta",
+      "Luxurious decor",
+      "Authentic Italian recipes"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة جداً",
+      "خدمة بطيئة أحياناً"
+    ],
+    "cons": [
+      "Very high prices",
+      "Service can be slow"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٤٠٠-٦٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Cipriani+Riyadh+Boulevard",
+    "lat": 24.753,
+    "lng": 46.65,
+    "audience": [
+      "أزواج",
+      "رجال أعمال"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مناسبات خاصة",
+      "عشاء فاخر"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "myazu-riyadh",
+    "name_ar": "ميازو الرياض",
+    "name_en": "Myazu Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "مطعم ياباني معاصر حائز على جائزة أفضل مطعم ياباني 2025 من TimeOut والمرتبة 15 في MENA's 50 Best. يقدم روباتا حية وسوشي وأطباق موسمية مميزة.",
+    "google_rating": 4.4,
+    "review_count": 3800,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "أفضل مطعم ياباني في الرياض. جودة السوشي والواغيو لا تُضاهى",
+    "review_quote": "The best Japanese restaurant in Riyadh. Sushi and wagyu quality is unmatched.",
+    "pros_ar": [
+      "سوشي طازج ممتاز",
+      "روباتا حية",
+      "ديكور عصري أنيق"
+    ],
+    "pros": [
+      "Excellent fresh sushi",
+      "Live robata",
+      "Sleek modern decor"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "الانتظار في عطلة نهاية الأسبوع"
+    ],
+    "cons": [
+      "High prices",
+      "Weekend wait times"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٣٠٠-٤٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Myazu+Riyadh+Sulimaniyah",
+    "lat": 24.692,
+    "lng": 46.6815,
+    "audience": [
+      "أزواج",
+      "أصدقاء",
+      "رجال أعمال"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء ياباني فاخر",
+      "سهرة مميزة"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "kuuru-riyadh",
+    "name_ar": "كورو الرياض",
+    "name_en": "Kuuru Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مطعم نيكي سعودي المنشأ يجمع بين المطبخ الياباني والبيروفي. حائز على جائزة المفضل الياباني 2025 من FACT وTimeOut. أطباق مشاركة ملونة ومبتكرة.",
+    "google_rating": 4.3,
+    "review_count": 900,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "بلاك كود كريولو وتايغر شريمب من أفضل ما ذقته. تقديم الأطباق فني",
+    "review_quote": "Black Cod Criollo and Tiger Shrimp are among the best I've tried. Plate presentation is artistic.",
+    "pros_ar": [
+      "مطبخ نيكي مبتكر",
+      "تقديم فني",
+      "علامة سعودية محلية"
+    ],
+    "pros": [
+      "Innovative Nikkei cuisine",
+      "Artistic presentation",
+      "Homegrown Saudi brand"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "مساحة محدودة"
+    ],
+    "cons": [
+      "High prices",
+      "Limited space"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٣٠٠-٤٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Kuuru+KAFD+Riyadh",
+    "lat": 24.7672,
+    "lng": 46.6405,
+    "audience": [
+      "أزواج",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء مع أصدقاء",
+      "تجربة نيكي"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "nozomi-riyadh",
+    "name_ar": "نوزومي الرياض",
+    "name_en": "Nozomi Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مطعم ياباني راقي أصله من الخبر. يقدم سوشي وساشيمي بجودة عالية في أجواء أنيقة مع إضاءة خافتة ولمسات يابانية معاصرة.",
+    "google_rating": 4.2,
+    "review_count": 1600,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "ساشيمي طازج وواغيو تاتاكي ممتاز. أجواء يابانية أنيقة",
+    "review_quote": "Fresh sashimi and excellent wagyu tataki. Elegant Japanese atmosphere.",
+    "pros_ar": [
+      "سوشي وساشيمي طازج",
+      "أجواء يابانية راقية",
+      "قائمة متنوعة"
+    ],
+    "pros": [
+      "Fresh sushi and sashimi",
+      "Upscale Japanese ambiance",
+      "Diverse menu"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "الخدمة تحتاج تحسين"
+    ],
+    "cons": [
+      "High prices",
+      "Service needs improvement"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٢٥٠-٤٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Nozomi+Riyadh+Olaya",
+    "lat": 24.6907,
+    "lng": 46.6853,
+    "audience": [
+      "أزواج",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء ياباني",
+      "سهرة رومانسية"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "kayzo-riyadh",
+    "name_ar": "كايزو الرياض",
+    "name_en": "KAYZO Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "مطعم ياباني عصري بتصميم أنيق يمزج الحد الأدنى الياباني مع اللون الأزرق الملكي. يقدم بيف تاتاكي ويلوتيل ماريني وتشيكن ساندو في أجواء راقية.",
+    "google_rating": 4.3,
+    "review_count": 1200,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مطعم ياباني بسعر معقول نسبياً وجودة عالية. التشيكن ساندو ممتاز",
+    "review_quote": "Reasonably priced Japanese restaurant with high quality. The chicken sando is excellent.",
+    "pros_ar": [
+      "أسعار معقولة نسبياً",
+      "تصميم أنيق",
+      "تراس جميل"
+    ],
+    "pros": [
+      "Relatively reasonable prices",
+      "Elegant design",
+      "Beautiful terrace"
+    ],
+    "cons_ar": [
+      "قائمة محدودة نسبياً",
+      "الانتظار في أوقات الذروة"
+    ],
+    "cons": [
+      "Relatively limited menu",
+      "Wait times at peak hours"
+    ],
+    "best_time": "غداء أو عشاء",
+    "avg_spend": "١٥٠-٢٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=KAYZO+Riyadh+Sulimaniyah",
+    "lat": 24.692,
+    "lng": 46.6815,
+    "audience": [
+      "أصدقاء",
+      "أزواج"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "غداء سريع",
+      "عشاء عادي"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "yauatcha-riyadh",
+    "name_ar": "ياواتشا الرياض",
+    "name_en": "Yauatcha Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا - الفيصلية",
+    "neighborhood_en": "Al Olaya - Al Faisaliah",
+    "description_ar": "مطعم صيني معاصر حائز على جائزة أفضل مطعم آسيوي في الرياض 2025 من TimeOut. أخت مطعم هاكاسان، متخصص في الديم سوم والأطباق الكانتونية.",
+    "google_rating": 4.3,
+    "review_count": 2500,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "ديم سوم من الأفضل في الرياض والتراس يطل على المدينة بمنظر خيالي",
+    "review_quote": "Dim sum among the best in Riyadh and the terrace overlooks the city with an incredible view.",
+    "pros_ar": [
+      "ديم سوم ممتاز",
+      "إطلالة رائعة",
+      "تقديم أنيق"
+    ],
+    "pros": [
+      "Excellent dim sum",
+      "Amazing view",
+      "Elegant presentation"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "خدمة بطيئة أحياناً"
+    ],
+    "cons": [
+      "High prices",
+      "Service can be slow"
+    ],
+    "best_time": "غداء أو عشاء",
+    "avg_spend": "٢٥٠-٤٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Yauatcha+Riyadh+Faisaliah",
+    "lat": 24.6907,
+    "lng": 46.6853,
+    "audience": [
+      "أزواج",
+      "أصدقاء",
+      "عوائل"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "غداء مميز",
+      "عشاء آسيوي"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "mr-chow-riyadh",
+    "name_ar": "مستر تشاو الرياض",
+    "name_en": "Mr. Chow Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مطعم كانتوني معاصر أول فرع في الشرق الأوسط. يشتهر بعرض النودلز المسحوبة يدوياً وبط بكين والأطباق الصينية الكلاسيكية في أجواء فاخرة.",
+    "google_rating": 4.2,
+    "review_count": 800,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "عرض النودلز المسحوبة يدوياً مذهل. بط بكين من الأفضل خارج الصين",
+    "review_quote": "The hand-pulled noodle show is amazing. Beijing duck among the best outside China.",
+    "pros_ar": [
+      "عرض نودلز حي",
+      "بط بكين ممتاز",
+      "ديكور فاخر مع إطلالة"
+    ],
+    "pros": [
+      "Live noodle show",
+      "Excellent Beijing duck",
+      "Luxurious decor with views"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "الحصص صغيرة"
+    ],
+    "cons": [
+      "High prices",
+      "Small portions"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٣٠٠-٤٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Mr+Chow+KAFD+Riyadh",
+    "lat": 24.7672,
+    "lng": 46.6405,
+    "audience": [
+      "أزواج",
+      "رجال أعمال"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء فاخر",
+      "تجربة فريدة"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "kimyona-riyadh",
+    "name_ar": "كيميونا الرياض",
+    "name_en": "Kimyona Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مطعم آسيوي مخفي خلف باب سري في العليا. ديكور مستوحى من غرفة المصور المظلمة مع قائمة بان آسيوية تشمل ٧ أقسام من الأطباق المبتكرة.",
+    "google_rating": 4.4,
+    "review_count": 700,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "جوهرة مخفية! الدخول من باب سري والأجواء سحرية. الأطباق مبتكرة ولذيذة",
+    "review_quote": "A hidden gem! Entry through a secret door and magical atmosphere. Dishes are innovative and delicious.",
+    "pros_ar": [
+      "تجربة فريدة - باب سري",
+      "أطباق مبتكرة",
+      "أجواء مميزة"
+    ],
+    "pros": [
+      "Unique experience - secret door",
+      "Innovative dishes",
+      "Distinctive atmosphere"
+    ],
+    "cons_ar": [
+      "صعب الوصول",
+      "أسعار مرتفعة"
+    ],
+    "cons": [
+      "Hard to find",
+      "High prices"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٢٥٠-٤٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Kimyona+Riyadh+Olaya",
+    "lat": 24.6907,
+    "lng": 46.6853,
+    "audience": [
+      "أزواج",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "تجربة فريدة",
+      "سهرة مميزة"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "namu-riyadh",
+    "name_ar": "نامو الرياض",
+    "name_en": "Namu Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الإسبلاناد",
+    "neighborhood_en": "The Esplanade",
+    "description_ar": "مطعم كوري من الشيف أكيرا باك حائز على جائزة أفضل مطعم بان آسيوي 2025 من FACT. من أوائل مطاعم الباربكيو الكورية في الرياض مع شواء على الطاولة.",
+    "google_rating": 4.3,
+    "review_count": 1000,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "تجربة الشواء الكوري على الطاولة ممتعة جداً. اللحوم طازجة وبجودة ممتازة",
+    "review_quote": "The Korean BBQ table experience is very enjoyable. Meats are fresh and excellent quality.",
+    "pros_ar": [
+      "شواء كوري على الطاولة",
+      "لحوم عالية الجودة",
+      "تجربة تفاعلية"
+    ],
+    "pros": [
+      "Korean BBQ at your table",
+      "High-quality meats",
+      "Interactive experience"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "رائحة الشواء على الملابس"
+    ],
+    "cons": [
+      "High prices",
+      "Smoke smell on clothes"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٢٥٠-٤٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Namu+Esplanade+Riyadh",
+    "lat": 24.753,
+    "lng": 46.65,
+    "audience": [
+      "أصدقاء",
+      "أزواج"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "تجربة كورية",
+      "سهرة مع أصدقاء"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "il-baretto-riyadh",
+    "name_ar": "إل باريتو الرياض",
+    "name_en": "Il Baretto Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مطعم إيطالي فاز بجائزة أفضل مطعم إيطالي في الرياض ثلاث سنوات متتالية من FACT. أول مطعم يفتتح في كافد ويقدم مطبخاً إيطالياً كلاسيكياً وعصرياً.",
+    "google_rating": 4.4,
+    "review_count": 2800,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أفضل إيطالي في كافد. الكاربتشيو والبيتزا من الفرن الحطبي لا يُنسيان",
+    "review_quote": "Best Italian in KAFD. The carpaccio and wood-oven pizza are unforgettable.",
+    "pros_ar": [
+      "مطبخ إيطالي أصيل",
+      "بيتزا من فرن حطبي",
+      "أجواء حيوية"
+    ],
+    "pros": [
+      "Authentic Italian cuisine",
+      "Wood-oven pizza",
+      "Vibrant atmosphere"
+    ],
+    "cons_ar": [
+      "صعوبة الحجز",
+      "صاخب في أوقات الذروة"
+    ],
+    "cons": [
+      "Hard to book",
+      "Noisy at peak times"
+    ],
+    "best_time": "غداء أو عشاء",
+    "avg_spend": "٢٥٠-٤٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Il+Baretto+KAFD+Riyadh",
+    "lat": 24.7672,
+    "lng": 46.6405,
+    "audience": [
+      "أزواج",
+      "أصدقاء",
+      "عوائل"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "غداء عمل",
+      "عشاء عائلي"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "san-carlo-cicchetti",
+    "name_ar": "سان كارلو شيكيتي",
+    "name_en": "San Carlo Cicchetti",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "مطعم إيطالي حائز على جائزة أفضل مطعم إيطالي 2025 من TimeOut. يقدم أسلوب شيكيتي الفينيسي - أطباق صغيرة للمشاركة مع بيتزا وباستا منزلية.",
+    "google_rating": 4.3,
+    "review_count": 1800,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أطباق مشاركة ممتازة بأسعار معقولة. البيتزا والباستا الطازجة رائعة",
+    "review_quote": "Excellent sharing plates at reasonable prices. Fresh pizza and pasta are wonderful.",
+    "pros_ar": [
+      "أسعار معقولة",
+      "أطباق مشاركة متنوعة",
+      "باستا طازجة"
+    ],
+    "pros": [
+      "Reasonable prices",
+      "Diverse sharing plates",
+      "Fresh pasta"
+    ],
+    "cons_ar": [
+      "مزدحم في عطلة الأسبوع",
+      "الانتظار طويل"
+    ],
+    "cons": [
+      "Crowded on weekends",
+      "Long wait times"
+    ],
+    "best_time": "غداء أو عشاء",
+    "avg_spend": "١٥٠-٢٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=San+Carlo+Cicchetti+Riyadh",
+    "lat": 24.692,
+    "lng": 46.6815,
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "غداء عائلي",
+      "عشاء مع أصدقاء"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "mamo-michelangelo",
+    "name_ar": "مامو ميكيلانجلو",
+    "name_en": "MAMO Michelangelo",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا - الفيصلية",
+    "neighborhood_en": "Al Olaya - Al Faisaliah",
+    "description_ar": "مطعم إيطالي فرنسي من أنتيب بفرنسا في فندق الفيصلية. يقدم مطبخاً إيطالياً بلمسة بروفنسالية مع بوراتا من نابولي وترافل فوكاشيا.",
+    "google_rating": 4.3,
+    "review_count": 1200,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أجواء إيطالية ساحرة في قلب الفيصلية. البوراتا والترافل فوكاشيا ممتازان",
+    "review_quote": "Charming Italian atmosphere in the heart of Al Faisaliah. Burrata and truffle focaccia are excellent.",
+    "pros_ar": [
+      "موقع مميز في الفيصلية",
+      "بوراتا طازجة",
+      "أجواء دافئة"
+    ],
+    "pros": [
+      "Premium location in Al Faisaliah",
+      "Fresh burrata",
+      "Warm atmosphere"
+    ],
+    "cons_ar": [
+      "أسعار فندقية",
+      "مواقف محدودة"
+    ],
+    "cons": [
+      "Hotel prices",
+      "Limited parking"
+    ],
+    "best_time": "غداء أو عشاء",
+    "avg_spend": "٢٥٠-٤٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=MAMO+Michelangelo+Faisaliah+Riyadh",
+    "lat": 24.6907,
+    "lng": 46.6853,
+    "audience": [
+      "أزواج",
+      "عوائل"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "غداء في الفيصلية",
+      "عشاء رومانسي"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "benoit-riyadh",
+    "name_ar": "بينوا الرياض",
+    "name_en": "Benoit by Alain Ducasse",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "بيسترو فرنسي كلاسيكي من الشيف آلان دوكاس في كافد. ثريات ومقاعد مخملية حمراء وأطباق فرنسية كلاسيكية من الإسكارغو إلى الستيك.",
+    "google_rating": 4.2,
+    "review_count": 600,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "قطعة من باريس في الرياض. الإسكارغو بالثوم والأعشاب إدمان حقيقي",
+    "review_quote": "A slice of Paris in Riyadh. The garlicky herb butter escargots are truly addictive.",
+    "pros_ar": [
+      "طبخ فرنسي كلاسيكي أصيل",
+      "ديكور باريسي فاخر",
+      "إسكارغو ممتاز"
+    ],
+    "pros": [
+      "Authentic classic French cooking",
+      "Luxurious Parisian decor",
+      "Excellent escargots"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "قائمة محدودة"
+    ],
+    "cons": [
+      "High prices",
+      "Limited menu"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٣٠٠-٤٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Benoit+KAFD+Riyadh",
+    "lat": 24.7672,
+    "lng": 46.6405,
+    "audience": [
+      "أزواج",
+      "رجال أعمال"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء فرنسي",
+      "مناسبة خاصة"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "julien-riyadh",
+    "name_ar": "جوليان الرياض",
+    "name_en": "Julien",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا - فور سيزونز",
+    "neighborhood_en": "Al Olaya - Four Seasons",
+    "description_ar": "تجربة طاولة شيف حميمية ب١٠ مقاعد فقط في فور سيزونز. فاز بجائزة أفضل مطعم جديد 2025 من FACT. قائمة تذوق متعددة الأطباق من الشيف تييري موتش.",
+    "google_rating": 4.7,
+    "review_count": 200,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "تجربة فريدة من نوعها - ١٠ مقاعد فقط وقائمة تذوق استثنائية",
+    "review_quote": "One-of-a-kind experience - only 10 seats and an exceptional tasting menu.",
+    "pros_ar": [
+      "تجربة حميمية فريدة",
+      "قائمة تذوق استثنائية",
+      "مطبخ مفتوح"
+    ],
+    "pros": [
+      "Unique intimate experience",
+      "Exceptional tasting menu",
+      "Open kitchen"
+    ],
+    "cons_ar": [
+      "مقاعد محدودة جداً",
+      "أسعار مرتفعة جداً"
+    ],
+    "cons": [
+      "Very limited seats",
+      "Very high prices"
+    ],
+    "best_time": "عشاء بحجز مسبق فقط",
+    "avg_spend": "٨٠٠-١٢٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Julien+Four+Seasons+Riyadh",
+    "lat": 24.7113,
+    "lng": 46.6743,
+    "audience": [
+      "أزواج",
+      "عشاق الطعام"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مناسبة خاصة جداً",
+      "تجربة فريدة"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "phet-phet",
+    "name_ar": "فيت فيت",
+    "name_en": "Phet Phet",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "التخصصي",
+    "neighborhood_en": "Al Takhassusi",
+    "description_ar": "مطعم تايلاندي صغير حائز على جائزة أفضل مطعم تايلاندي 2025 من TimeOut. بدون حجز مسبق، يقدم أطباق شارع بانكوك الأصيلة بنكهات حارة مميزة.",
+    "google_rating": 4.5,
+    "review_count": 2000,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "أفضل تايلاندي في الرياض! الوونتون الحار وكاري بانانغ استثنائيان. أسعار ممتازة",
+    "review_quote": "Best Thai in Riyadh! Chilli wontons and Panang curry are exceptional. Great prices.",
+    "pros_ar": [
+      "نكهات تايلاندية أصيلة",
+      "أسعار معقولة",
+      "طعام حار ممتاز"
+    ],
+    "pros": [
+      "Authentic Thai flavors",
+      "Reasonable prices",
+      "Excellent spicy food"
+    ],
+    "cons_ar": [
+      "مساحة صغيرة - بدون حجز",
+      "طابور طويل"
+    ],
+    "cons": [
+      "Small space - no reservations",
+      "Long queues"
+    ],
+    "best_time": "عشاء مبكر لتجنب الانتظار",
+    "avg_spend": "١٥٠ ريال لشخصين",
+    "google_maps_url": "https://maps.google.com/?q=Phet+Phet+Riyadh+Takhassusi",
+    "lat": 24.71,
+    "lng": 46.66,
+    "audience": [
+      "أصدقاء",
+      "أزواج"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء تايلاندي أصيل",
+      "تجربة شارع بانكوك"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "long-chim",
+    "name_ar": "لونغ تشيم",
+    "name_en": "Long Chim",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "بوجيري تيراس - الدرعية",
+    "neighborhood_en": "Bujairi Terrace - Diriyah",
+    "description_ar": "مطعم تايلاندي من الشيف ديفيد تومسون حائز على نجمة ميشلان في بانكوك. يقدم أطباق الشارع التايلاندية المعاصرة في بوجيري تيراس بالدرعية.",
+    "google_rating": 4.3,
+    "review_count": 1500,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "طعام تايلاندي بمستوى ميشلان. المسمان كاري غني ومعقد والفيش كيك حار ممتاز",
+    "review_quote": "Michelin-level Thai food. Massaman curry is rich and complex, fish cakes are excellent and hot.",
+    "pros_ar": [
+      "شيف حاصل على ميشلان",
+      "نكهات بانكوك الأصيلة",
+      "موقع في الدرعية"
+    ],
+    "pros": [
+      "Michelin-starred chef",
+      "Authentic Bangkok flavors",
+      "Diriyah location"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "بعيد عن وسط الرياض"
+    ],
+    "cons": [
+      "High prices",
+      "Far from central Riyadh"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٢٥٠-٣٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Long+Chim+Bujairi+Terrace+Diriyah",
+    "lat": 24.734,
+    "lng": 46.5725,
+    "audience": [
+      "أزواج",
+      "أصدقاء",
+      "سياح"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء في الدرعية",
+      "تجربة تايلاندية فاخرة"
+    ],
+    "district": "غرب الرياض"
+  },
+  {
+    "id": "ovun-bistro",
+    "name_ar": "أوفن بيسترو",
+    "name_en": "Ovun Bistro",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "مطعم لبناني حائز على جائزة أفضل مطعم لبناني 2025 من TimeOut. يقدم المطبخ اللبناني التقليدي مع لمسات إبداعية من الشيف آلان جام.",
+    "google_rating": 4.5,
+    "review_count": 1800,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "بابا غانوج القرنبيط مبتكر وممتاز. الحمص والمقبلات من الأفضل في الرياض",
+    "review_quote": "Cauliflower baba ghanouj is innovative and excellent. Hummus and mezze among the best in Riyadh.",
+    "pros_ar": [
+      "مقبلات لبنانية مبتكرة",
+      "فطور ممتاز",
+      "أسعار معقولة"
+    ],
+    "pros": [
+      "Innovative Lebanese mezze",
+      "Excellent breakfast",
+      "Reasonable prices"
+    ],
+    "cons_ar": [
+      "مزدحم في عطلة الأسبوع",
+      "مواقف محدودة"
+    ],
+    "cons": [
+      "Crowded on weekends",
+      "Limited parking"
+    ],
+    "best_time": "فطور أو غداء",
+    "avg_spend": "١٠٠-١٨٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Ovun+Bistro+Riyadh+Sulimaniyah",
+    "lat": 24.692,
+    "lng": 46.6815,
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "فطور لبناني",
+      "غداء عائلي"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "burj-al-hamam",
+    "name_ar": "برج الحمام",
+    "name_en": "Burj Al Hamam",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Multiple locations",
+    "description_ar": "مطعم لبناني عريق بتاريخ ٤٦ سنة في السعودية. يقدم المأكولات اللبنانية الأصيلة من المزة والمشاوي في عدة فروع بالرياض.",
+    "google_rating": 4.2,
+    "review_count": 5500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مطعم لبناني عريق بجودة ثابتة. المتبل والمشاوي ممتازان والأسعار معقولة",
+    "review_quote": "A heritage Lebanese restaurant with consistent quality. Moutabbal and grills are excellent, prices reasonable.",
+    "pros_ar": [
+      "جودة ثابتة",
+      "فروع متعددة",
+      "أسعار معقولة",
+      "مناسب للعوائل"
+    ],
+    "pros": [
+      "Consistent quality",
+      "Multiple locations",
+      "Reasonable prices",
+      "Family-friendly"
+    ],
+    "cons_ar": [
+      "ديكور تقليدي يحتاج تجديد",
+      "خدمة بطيئة أحياناً"
+    ],
+    "cons": [
+      "Traditional decor needs update",
+      "Service can be slow"
+    ],
+    "best_time": "غداء أو عشاء",
+    "avg_spend": "٨٠-١٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Burj+Al+Hamam+Riyadh",
+    "lat": 24.692,
+    "lng": 46.6815,
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "غداء عائلي",
+      "مزة لبنانية"
+    ],
+    "district": "فروع متعددة"
+  },
+  {
+    "id": "em-sherif-cafe",
+    "name_ar": "إم شريف كافيه",
+    "name_en": "Em Sherif Café",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "ليسن فالي",
+    "neighborhood_en": "Laysen Valley",
+    "description_ar": "كافيه لبناني فاز بجائزة أفضل مطعم شرق أوسطي 2025 من FACT. يقدم أطباق لبنانية أصيلة مع تبولة بثلاث طرق وحمص بالصنوبر المحمص.",
+    "google_rating": 4.4,
+    "review_count": 1100,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "أطباق لبنانية أصيلة بجودة عالية. التبولة والحمص والكشك من الأفضل",
+    "review_quote": "Authentic Lebanese dishes of high quality. Tabbouleh, hummus and kishk are among the best.",
+    "pros_ar": [
+      "مطبخ لبناني أصيل",
+      "مكونات طازجة",
+      "أجواء دافئة"
+    ],
+    "pros": [
+      "Authentic Lebanese cuisine",
+      "Fresh ingredients",
+      "Warm atmosphere"
+    ],
+    "cons_ar": [
+      "أسعار أعلى من المتوسط",
+      "الانتظار في عطلة الأسبوع"
+    ],
+    "cons": [
+      "Above average prices",
+      "Weekend wait times"
+    ],
+    "best_time": "غداء",
+    "avg_spend": "١٥٠-٢٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Em+Sherif+Cafe+Laysen+Valley+Riyadh",
+    "lat": 24.77,
+    "lng": 46.63,
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "غداء لبناني",
+      "مزة مع أصدقاء"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "koojeh-riyadh",
+    "name_ar": "كوجه الرياض",
+    "name_en": "Koojeh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "التخصصي",
+    "neighborhood_en": "Al Takhassusi",
+    "description_ar": "مطعم إيراني أصيل يقدم مشويات على الفحم بأسلوب تقليدي. حاز على جائزة المفضل للمطعم الشرق أوسطي 2025 من FACT. أسعار معقولة وأجواء مريحة.",
+    "google_rating": 4.4,
+    "review_count": 2500,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "كوبيده يذوب في الفم والجوجه بالزعفران ممتاز. مطعم إيراني أصيل بسعر معقول",
+    "review_quote": "Koobideh melts in your mouth and saffron joojeh is excellent. Authentic Iranian at a fair price.",
+    "pros_ar": [
+      "مطبخ إيراني أصيل",
+      "أسعار معقولة",
+      "مشويات ممتازة"
+    ],
+    "pros": [
+      "Authentic Iranian cuisine",
+      "Fair prices",
+      "Excellent grills"
+    ],
+    "cons_ar": [
+      "مساحة محدودة",
+      "الانتظار طويل أحياناً"
+    ],
+    "cons": [
+      "Limited space",
+      "Sometimes long wait"
+    ],
+    "best_time": "غداء أو عشاء",
+    "avg_spend": "١٠٠-١٧٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Koojeh+Riyadh+Takhassusi",
+    "lat": 24.71,
+    "lng": 46.66,
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "غداء إيراني",
+      "مشاوي مع العائلة"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "lusin-restaurant",
+    "name_ar": "لوسين",
+    "name_en": "Lusin Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا - سنتريا مول",
+    "neighborhood_en": "Al Olaya - Centria Mall",
+    "description_ar": "مطعم أرمني راقي بتقييم 4.4 على تريب أدفايزر من 781 تقييم. يقدم مطبخاً أرمنياً تقليدياً مع فروع في الرياض وجدة والخبر ولندن.",
+    "google_rating": 4.4,
+    "review_count": 4500,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "من أفضل مطاعم الرياض. الكباب بالكرز والمقبلات الأرمنية استثنائية",
+    "review_quote": "One of Riyadh's top restaurants. Cherry kebab and Armenian appetizers are exceptional.",
+    "pros_ar": [
+      "مطبخ أرمني فريد",
+      "جودة ثابتة",
+      "ديكور أنيق"
+    ],
+    "pros": [
+      "Unique Armenian cuisine",
+      "Consistent quality",
+      "Elegant decor"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "خدمة تختلف بين الفروع"
+    ],
+    "cons": [
+      "High prices",
+      "Service varies between branches"
+    ],
+    "best_time": "غداء أو عشاء",
+    "avg_spend": "٢٠٠-٣٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Lusin+Restaurant+Centria+Mall+Riyadh",
+    "lat": 24.6907,
+    "lng": 46.6853,
+    "audience": [
+      "عوائل",
+      "أزواج",
+      "رجال أعمال"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "غداء فاخر",
+      "عشاء عائلي"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "maiz-riyadh",
+    "name_ar": "مائز",
+    "name_en": "Maiz",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "بوجيري تيراس - الدرعية",
+    "neighborhood_en": "Bujairi Terrace - Diriyah",
+    "description_ar": "مطعم سعودي فاخر حائز على جائزة أفضل مطعم سعودي محلي 2025 من FACT. يقدم أطباقاً من جميع مناطق المملكة الـ١٣ بلمسة عصرية في الدرعية.",
+    "google_rating": 4.5,
+    "review_count": 2800,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "أفضل مطعم سعودي في الرياض. الأطباق تمثل كل مناطق المملكة بإبداع",
+    "review_quote": "Best Saudi restaurant in Riyadh. Dishes represent all regions of the Kingdom creatively.",
+    "pros_ar": [
+      "أطباق من كل مناطق المملكة",
+      "تقديم عصري للأطباق التقليدية",
+      "موقع تاريخي"
+    ],
+    "pros": [
+      "Dishes from all Kingdom regions",
+      "Modern take on traditional dishes",
+      "Historic location"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "بعيد عن وسط المدينة"
+    ],
+    "cons": [
+      "High prices",
+      "Far from city center"
+    ],
+    "best_time": "غداء أو عشاء",
+    "avg_spend": "٢٥٠-٤٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Maiz+Bujairi+Terrace+Diriyah",
+    "lat": 24.734,
+    "lng": 46.5725,
+    "audience": [
+      "عوائل",
+      "سياح",
+      "أزواج"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "تجربة سعودية أصيلة",
+      "عشاء مع سياح"
+    ],
+    "district": "غرب الرياض"
+  },
+  {
+    "id": "aseeb-najd",
+    "name_ar": "أسيب نجد",
+    "name_en": "Aseeb Najd",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "مطعم سعودي حائز على جائزة أفضل مطعم سعودي 2025 من TimeOut. مبنى ضخم يقدم المطبخ السعودي التقليدي بديكور نجدي تاريخي مع تجربة ضيافة أصيلة.",
+    "google_rating": 4.4,
+    "review_count": 3200,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "تجربة سعودية أصيلة من لحظة الدخول. الكبسة والجريش من الأفضل في الرياض",
+    "review_quote": "Authentic Saudi experience from the moment you enter. Kabsa and jareesh among the best in Riyadh.",
+    "pros_ar": [
+      "مطبخ سعودي أصيل",
+      "ديكور نجدي تاريخي",
+      "مناسب للمجموعات الكبيرة"
+    ],
+    "pros": [
+      "Authentic Saudi cuisine",
+      "Historic Najdi decor",
+      "Great for large groups"
+    ],
+    "cons_ar": [
+      "بعيد عن وسط المدينة",
+      "مزدحم في عطلة الأسبوع"
+    ],
+    "cons": [
+      "Far from city center",
+      "Crowded on weekends"
+    ],
+    "best_time": "غداء",
+    "avg_spend": "١٠٠-١٨٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Aseeb+Najd+Riyadh+Yasmin",
+    "lat": 24.82,
+    "lng": 46.64,
+    "audience": [
+      "عوائل",
+      "مجموعات كبيرة"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "غداء عائلي سعودي",
+      "ضيافة مجموعات"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "najd-village",
+    "name_ar": "قرية نجد",
+    "name_en": "Najd Village",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "أقدم وأشهر مطعم نجدي في الرياض. يقدم أطباق نجدية تقليدية مثل الكبسة والجريش والقرصان في أجواء تراثية مع ديكور من الطين والخشب.",
+    "google_rating": 4.2,
+    "review_count": 8500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مطعم تاريخي يعيدك لأجواء نجد القديمة. سفرة القرية للمشاركة تكفي ثلاثة أشخاص",
+    "review_quote": "A historic restaurant that takes you back to old Najd. The Village Sofra sharing platter serves three.",
+    "pros_ar": [
+      "أصالة نجدية حقيقية",
+      "أجواء تراثية",
+      "أسعار معقولة"
+    ],
+    "pros": [
+      "Genuine Najdi authenticity",
+      "Heritage atmosphere",
+      "Reasonable prices"
+    ],
+    "cons_ar": [
+      "يحتاج تجديد",
+      "خدمة بطيئة"
+    ],
+    "cons": [
+      "Needs renovation",
+      "Slow service"
+    ],
+    "best_time": "غداء",
+    "avg_spend": "٨٠-١٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Najd+Village+Riyadh",
+    "lat": 24.815,
+    "lng": 46.635,
+    "audience": [
+      "عوائل",
+      "سياح"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "تجربة نجدية تقليدية",
+      "سياح"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "nomas-riyadh",
+    "name_ar": "نوماس",
+    "name_en": "Nomas",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "مطعم سعودي فيوجن فاخر في ماريوت الحي الدبلوماسي. يقدم رحلة طعام عبر مناطق المملكة مع فريق قيادة نسائي بالكامل وعروض عود حية.",
+    "google_rating": 4.4,
+    "review_count": 600,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "تجربة سعودية راقية. ستيك الحاشي بالقهوة والسياديه من البحر الأحمر مذهلان",
+    "review_quote": "Elevated Saudi experience. Coffee-glazed camel steak and Red Sea sayadiyah are stunning.",
+    "pros_ar": [
+      "مطبخ سعودي مبتكر",
+      "عروض عود حية",
+      "فريق نسائي"
+    ],
+    "pros": [
+      "Innovative Saudi cuisine",
+      "Live oud performances",
+      "All-female leadership"
+    ],
+    "cons_ar": [
+      "أسعار فندقية",
+      "موقع بعيد نسبياً"
+    ],
+    "cons": [
+      "Hotel prices",
+      "Relatively remote location"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٢٥٠-٤٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Nomas+Marriott+Diplomatic+Quarter+Riyadh",
+    "lat": 24.67,
+    "lng": 46.62,
+    "audience": [
+      "أزواج",
+      "سياح",
+      "عشاق الطعام"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "تجربة سعودية فاخرة",
+      "عشاء مميز"
+    ],
+    "district": "غرب الرياض"
+  },
+  {
+    "id": "almajlis-alkhaleeji",
+    "name_ar": "المجلس الخليجي",
+    "name_en": "Almajlis Alkhaleeji",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Multiple locations",
+    "description_ar": "مطعم سعودي شعبي حائز على جائزة المفضل للمطعم السعودي 2025 من FACT. يقدم البخاري والمندي واللحم المظبي بأسلوب تقليدي أصيل.",
+    "google_rating": 4.3,
+    "review_count": 6000,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "بخاري دجاج المجلس من الأفضل في الرياض. مندي الماعز ممتاز والأسعار شعبية",
+    "review_quote": "Almajlis chicken bakhari among the best in Riyadh. Goat mandi excellent, prices very affordable.",
+    "pros_ar": [
+      "أسعار شعبية",
+      "أطباق سعودية تقليدية أصيلة",
+      "فروع متعددة"
+    ],
+    "pros": [
+      "Very affordable",
+      "Authentic traditional Saudi dishes",
+      "Multiple branches"
+    ],
+    "cons_ar": [
+      "مزدحم دائماً",
+      "ديكور بسيط"
+    ],
+    "cons": [
+      "Always crowded",
+      "Simple decor"
+    ],
+    "best_time": "غداء",
+    "avg_spend": "٥٠-٩٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Almajlis+Alkhaleeji+Riyadh",
+    "lat": 24.7,
+    "lng": 46.7,
+    "audience": [
+      "عوائل",
+      "أفراد"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "غداء سعودي شعبي",
+      "وجبة سريعة"
+    ],
+    "district": "فروع متعددة"
+  },
+  {
+    "id": "marble-steakhouse",
+    "name_ar": "ماربل ستيك هاوس",
+    "name_en": "Marble Steakhouse",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الشرقي",
+    "neighborhood_en": "Al Sharqi",
+    "description_ar": "مطعم ستيك سعودي المنشأ حائز على جائزة أفضل ستيك هاوس 2025 من FACT والمرتبة 30 في MENA's 50 Best. قائمة بسيطة من ٤ أصناف فقط مع بطاطس.",
+    "google_rating": 4.5,
+    "review_count": 4500,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "برجر ماربل من أفضل البرجر في الرياض. البريسكت والريب آي ممتازان. قائمة بسيطة لكن متقنة",
+    "review_quote": "Marble burger among the best in Riyadh. Brisket and rib-eye excellent. Simple menu but perfected.",
+    "pros_ar": [
+      "ستيك متقن",
+      "برجر مشهور",
+      "علامة سعودية محلية"
+    ],
+    "pros": [
+      "Perfected steak",
+      "Famous burger",
+      "Homegrown Saudi brand"
+    ],
+    "cons_ar": [
+      "قائمة محدودة جداً",
+      "طابور طويل"
+    ],
+    "cons": [
+      "Very limited menu",
+      "Long queues"
+    ],
+    "best_time": "غداء أو عشاء مبكر",
+    "avg_spend": "١٥٠-٢٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Marble+Steakhouse+Riyadh",
+    "lat": 24.72,
+    "lng": 46.71,
+    "audience": [
+      "أصدقاء",
+      "أفراد"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "برجر وستيك",
+      "وجبة سريعة مميزة"
+    ],
+    "district": "شرق الرياض"
+  },
+  {
+    "id": "jw-steakhouse",
+    "name_ar": "جي دبليو ستيك هاوس",
+    "name_en": "JW Steakhouse",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الصحافة",
+    "neighborhood_en": "As Sahafah",
+    "description_ar": "مطعم ستيك أمريكي في فندق JW ماريوت حائز على جائزة أفضل ستيك هاوس 2025 من TimeOut. يقدم قطع لحم USDA Prime مع تاريخ ٢٠ سنة.",
+    "google_rating": 4.3,
+    "review_count": 1500,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "ريب آي من الأفضل في الرياض. الخدمة ممتازة والتوماهوك للمشاركة لا يُفوّت",
+    "review_quote": "Rib-eye among the best in Riyadh. Excellent service and sharing Tomahawk not to be missed.",
+    "pros_ar": [
+      "لحوم USDA Prime",
+      "خدمة فندقية ممتازة",
+      "أجواء كلاسيكية"
+    ],
+    "pros": [
+      "USDA Prime meats",
+      "Excellent hotel service",
+      "Classic atmosphere"
+    ],
+    "cons_ar": [
+      "أسعار فندقية",
+      "ديكور تقليدي"
+    ],
+    "cons": [
+      "Hotel prices",
+      "Traditional decor"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٣٠٠-٤٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=JW+Steakhouse+Marriott+Riyadh",
+    "lat": 24.78,
+    "lng": 46.65,
+    "audience": [
+      "رجال أعمال",
+      "أزواج"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء ستيك فاخر",
+      "غداء عمل"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "beefbar-riyadh",
+    "name_ar": "بيفبار الرياض",
+    "name_en": "Beefbar Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "مطعم ستيك فاخر من موناكو بديكور آرت ديكو فخم. يقدم قطع لحم مستوردة حصرية مع لمسات مرحة كالأطباق بإيموجي والذهب على الستيك.",
+    "google_rating": 4.3,
+    "review_count": 2200,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "ستيك بجودة عالمية مع لمسة مرحة. الأجواء فاخرة والتقديم مميز",
+    "review_quote": "World-class steak with a playful touch. Luxurious atmosphere and distinctive presentation.",
+    "pros_ar": [
+      "لحوم مستوردة ممتازة",
+      "ديكور آرت ديكو",
+      "تجربة مرحة"
+    ],
+    "pros": [
+      "Excellent imported meats",
+      "Art Deco decor",
+      "Playful experience"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة جداً",
+      "حصص صغيرة"
+    ],
+    "cons": [
+      "Very high prices",
+      "Small portions"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٣٥٠-٥٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Beefbar+Riyadh+Sulimaniyah",
+    "lat": 24.692,
+    "lng": 46.6815,
+    "audience": [
+      "أزواج",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "سهرة فاخرة",
+      "تجربة ستيك مميزة"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "porterhouse-riyadh",
+    "name_ar": "بورتر هاوس",
+    "name_en": "Porterhouse",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "ستيك هاوس سعودي المنشأ مستوحى من مطاعم نيويورك منذ 2016. يقدم قطع لحم من حول العالم في أجواء كلاسيكية بجلد أسود وديكور ريفي.",
+    "google_rating": 4.3,
+    "review_count": 3200,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "واغيو ساندو يستحق العودة من أجله. أجواء ستيك هاوس كلاسيكية مع جودة ثابتة",
+    "review_quote": "Wagyu sando worth returning for. Classic steakhouse vibes with consistent quality.",
+    "pros_ar": [
+      "واغيو ساندو مميز",
+      "قطع لحم متنوعة",
+      "جودة ثابتة منذ 2016"
+    ],
+    "pros": [
+      "Distinctive wagyu sando",
+      "Diverse meat cuts",
+      "Consistent quality since 2016"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "الانتظار في عطلة الأسبوع"
+    ],
+    "cons": [
+      "High prices",
+      "Weekend wait times"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٢٥٠-٤٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Porterhouse+Riyadh+Olaya",
+    "lat": 24.6907,
+    "lng": 46.6853,
+    "audience": [
+      "أزواج",
+      "أصدقاء",
+      "رجال أعمال"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء ستيك",
+      "غداء عمل"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "kumar-riyadh",
+    "name_ar": "كومار الرياض",
+    "name_en": "Kumar",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مطعم هندي عصري يمزج بين المطبخ الهندي التقليدي والمعاصر. يقدم تاكوز هندية وتمبورا شريمب وسلايدرز في أجواء مريحة.",
+    "google_rating": 4.3,
+    "review_count": 1500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مزيج مبتكر بين الهندي والعصري. التاكوز الهندية فكرة عبقرية",
+    "review_quote": "Innovative blend of Indian and modern. Indian tacos are a genius idea.",
+    "pros_ar": [
+      "مطبخ هندي مبتكر",
+      "أسعار معقولة",
+      "أجواء مريحة"
+    ],
+    "pros": [
+      "Innovative Indian cuisine",
+      "Reasonable prices",
+      "Comfortable atmosphere"
+    ],
+    "cons_ar": [
+      "الحصص صغيرة",
+      "الانتظار في عطلة الأسبوع"
+    ],
+    "cons": [
+      "Small portions",
+      "Weekend wait times"
+    ],
+    "best_time": "غداء أو عشاء",
+    "avg_spend": "١٢٠-٢٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Kumar+Riyadh+Park",
+    "lat": 24.74,
+    "lng": 46.61,
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "غداء عائلي",
+      "تجربة هندية مبتكرة"
+    ],
+    "district": "غرب الرياض"
+  },
+  {
+    "id": "mohalla-riyadh",
+    "name_ar": "محلّة الرياض",
+    "name_en": "Mohalla Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الإسبلاناد",
+    "neighborhood_en": "The Esplanade",
+    "description_ar": "مطعم هندي عصري من دبي يقدم أكل الشارع الهندي بأسلوب معاصر. حائز على جائزة المفضل الهندي 2025 من FACT. معظم الأطباق تحت ٦٠ ريال.",
+    "google_rating": 4.3,
+    "review_count": 800,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "أكل شارع هندي بجودة عالية وأسعار ممتازة. الكباب والشات مبدعان",
+    "review_quote": "High-quality Indian street food at great prices. Kebabs and chaat are creative.",
+    "pros_ar": [
+      "أسعار معقولة جداً",
+      "أكل شارع هندي أصيل",
+      "أجواء مرحة"
+    ],
+    "pros": [
+      "Very reasonable prices",
+      "Authentic Indian street food",
+      "Fun atmosphere"
+    ],
+    "cons_ar": [
+      "الخدمة تحتاج تحسين",
+      "مساحة محدودة"
+    ],
+    "cons": [
+      "Service needs improvement",
+      "Limited space"
+    ],
+    "best_time": "غداء أو عشاء",
+    "avg_spend": "٨٠-١٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Mohalla+Riyadh+Esplanade",
+    "lat": 24.753,
+    "lng": 46.65,
+    "audience": [
+      "أصدقاء",
+      "عوائل"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أكل شارع هندي",
+      "غداء سريع"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "flamingo-room-tashas",
+    "name_ar": "فلامينغو روم من تاشاز",
+    "name_en": "Flamingo Room by tashas",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "بوجيري تيراس - الدرعية",
+    "neighborhood_en": "Bujairi Terrace - Diriyah",
+    "description_ar": "مطعم أوروبي جنوب أفريقي حائز على جائزة أفضل مطعم دولي 2025 من FACT. يقدم مطبخاً أفريقياً أنيقاً في مساحة وردية مميزة بثلاثة طوابق.",
+    "google_rating": 4.4,
+    "review_count": 2000,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "مكان إنستغرامي مثالي. الطعام يضاهي جمال الديكور. كالاماري موزمبيق ممتاز",
+    "review_quote": "Perfect Instagram spot. Food matches the beautiful decor. Calamari Mozambique is excellent.",
+    "pros_ar": [
+      "ديكور مذهل",
+      "مطبخ أفريقي فريد",
+      "موقع في الدرعية"
+    ],
+    "pros": [
+      "Stunning decor",
+      "Unique African cuisine",
+      "Diriyah location"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "بعيد عن وسط المدينة"
+    ],
+    "cons": [
+      "High prices",
+      "Far from city center"
+    ],
+    "best_time": "غداء أو عشاء",
+    "avg_spend": "٢٥٠-٤٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Flamingo+Room+Tashas+Bujairi+Diriyah",
+    "lat": 24.734,
+    "lng": 46.5725,
+    "audience": [
+      "أزواج",
+      "أصدقاء",
+      "سياح"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "غداء في الدرعية",
+      "تصوير إنستغرام"
+    ],
+    "district": "غرب الرياض"
+  },
+  {
+    "id": "jackie-restaurant",
+    "name_ar": "جاكي ريستورانت",
+    "name_en": "Jackie Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "فيا رياض - سانت ريجيس",
+    "neighborhood_en": "Via Riyadh - St. Regis",
+    "description_ar": "مطعم يوناني أمريكي في فندق سانت ريجيس مستوحى من جاكي كينيدي. يقدم أطباقاً يونانية أصيلة في أجواء أنيقة مفعمة بالتاريخ.",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "review_quote_ar": "أجواء أنيقة مستوحاة من جاكي كينيدي. الأطباق اليونانية ممتازة والخدمة راقية",
+    "review_quote": "Elegant Jackie Kennedy-inspired atmosphere. Greek dishes are excellent and service is refined.",
+    "pros_ar": [
+      "ديكور أنيق مستوحى من جاكي",
+      "مطبخ يوناني ممتاز",
+      "موقع في سانت ريجيس"
+    ],
+    "pros": [
+      "Elegant Jackie-inspired decor",
+      "Excellent Greek cuisine",
+      "St. Regis location"
+    ],
+    "cons_ar": [
+      "أسعار فندقية مرتفعة",
+      "قائمة محدودة"
+    ],
+    "cons": [
+      "High hotel prices",
+      "Limited menu"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٣٠٠-٤٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Jackie+Restaurant+St+Regis+Via+Riyadh",
+    "lat": 24.8125,
+    "lng": 46.6269,
+    "audience": [
+      "أزواج",
+      "رجال أعمال"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء فاخر",
+      "مناسبة خاصة"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "roka-riyadh",
+    "name_ar": "روكا الرياض",
+    "name_en": "ROKA Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "التحلية",
+    "neighborhood_en": "Tahlia Street",
+    "description_ar": "مطعم ياباني معاصر متخصص في الروباتا من لندن. يقدم سمك السلمون المشوي والأطباق اليابانية المعاصرة بأسلوب مميز في شارع التحلية.",
+    "google_rating": 4.3,
+    "review_count": 1800,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "روباتا ممتازة وسلمون مشوي من الأفضل. أجواء عصرية حيوية",
+    "review_quote": "Excellent robata and grilled salmon among the best. Modern vibrant atmosphere.",
+    "pros_ar": [
+      "روباتا ممتازة",
+      "أجواء حيوية",
+      "موقع مميز على التحلية"
+    ],
+    "pros": [
+      "Excellent robata",
+      "Vibrant atmosphere",
+      "Prime Tahlia location"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "صاخب"
+    ],
+    "cons": [
+      "High prices",
+      "Noisy"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٢٥٠-٤٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=ROKA+Riyadh+Tahlia",
+    "lat": 24.69,
+    "lng": 46.685,
+    "audience": [
+      "أزواج",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء ياباني",
+      "سهرة على التحلية"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "don-rubens",
+    "name_ar": "دون روبنز",
+    "name_en": "Don Ruben's Mexican",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مطعم مكسيكي حائز على جائزة المفضل الأمريكي 2025 من FACT. يقدم تاكوز وغواكامولي وسيفيتشي أصيلة مع تحدي التاكو الحار والثلاثاء تاكو.",
+    "google_rating": 4.4,
+    "review_count": 1200,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "أفضل مكسيكي في الرياض. التاكوز على تورتيلا محلية الصنع والغواكامولي ممتازان",
+    "review_quote": "Best Mexican in Riyadh. Tacos on house-pressed tortillas and guacamole are excellent.",
+    "pros_ar": [
+      "مطبخ مكسيكي أصيل",
+      "أسعار معقولة",
+      "فعاليات أسبوعية"
+    ],
+    "pros": [
+      "Authentic Mexican cuisine",
+      "Reasonable prices",
+      "Weekly events"
+    ],
+    "cons_ar": [
+      "مزدحم في الأسبوع",
+      "مساحة محدودة"
+    ],
+    "cons": [
+      "Crowded on weekdays",
+      "Limited space"
+    ],
+    "best_time": "عشاء أو الثلاثاء للتاكو",
+    "avg_spend": "١٠٠-١٨٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Don+Rubens+Mexican+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "audience": [
+      "أصدقاء",
+      "عوائل"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "تاكو تيوزداي",
+      "عشاء مكسيكي"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "el-camino-riyadh",
+    "name_ar": "إل كامينو",
+    "name_en": "El Camino",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مطعم مكسيكي نابض بالحياة في كافد. ديكور ملون بالصبار والسومبريرو وقائمة تشمل التاكوز والبوريتوز والكيساديا والسيفيتشي.",
+    "google_rating": 4.2,
+    "review_count": 800,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أجواء مكسيكية حقيقية. الكيسابيريا والسيفيتشي ممتازان والأسعار معقولة",
+    "review_quote": "Authentic Mexican vibes. Quesabirrias and ceviche are excellent, prices reasonable.",
+    "pros_ar": [
+      "أجواء مرحة ملونة",
+      "أسعار معقولة",
+      "قائمة متنوعة"
+    ],
+    "pros": [
+      "Fun colorful atmosphere",
+      "Reasonable prices",
+      "Diverse menu"
+    ],
+    "cons_ar": [
+      "جودة متفاوتة",
+      "خدمة بطيئة أحياناً"
+    ],
+    "cons": [
+      "Inconsistent quality",
+      "Service sometimes slow"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "١٢٠-٢٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=El+Camino+KAFD+Riyadh",
+    "lat": 24.7672,
+    "lng": 46.6405,
+    "audience": [
+      "أصدقاء",
+      "عوائل"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء مكسيكي",
+      "سهرة مع أصدقاء"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "primecut-riyadh",
+    "name_ar": "برايم كت",
+    "name_en": "PrimeCut",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الشروفات",
+    "neighborhood_en": "Shorofat",
+    "description_ar": "مطعم برجر حائز على جائزة أفضل برجر في الرياض 2025 من TimeOut. من فريق بلانكا بيتزيريا. برجر أنغوس مشوي على اللهب بدون حجز.",
+    "google_rating": 4.6,
+    "review_count": 3000,
+    "price_level": "$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "أفضل برجر في الرياض بلا منافس. اللحم طازج والصوص مميز والبطاطس سحرية",
+    "review_quote": "Best burger in Riyadh without competition. Fresh meat, signature sauce, and magic fries.",
+    "pros_ar": [
+      "أفضل برجر في الرياض",
+      "أسعار ممتازة",
+      "سرعة في الخدمة"
+    ],
+    "pros": [
+      "Best burger in Riyadh",
+      "Great prices",
+      "Fast service"
+    ],
+    "cons_ar": [
+      "طابور طويل",
+      "بدون حجز",
+      "مساحة صغيرة"
+    ],
+    "cons": [
+      "Long queue",
+      "No reservations",
+      "Small space"
+    ],
+    "best_time": "غداء أو عشاء مبكر",
+    "avg_spend": "٦٠-١٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=PrimeCut+Riyadh+Shorofat",
+    "lat": 24.73,
+    "lng": 46.69,
+    "audience": [
+      "أصدقاء",
+      "أفراد"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "برجر سريع",
+      "غداء خفيف"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "nora-smash-burger",
+    "name_ar": "نورة سماش برجر",
+    "name_en": "Nora Smash Burger",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مطعم سماش برجر من واغيو أسترالي. حائز على تقدير عالي من TimeOut كأفضل برجر. برجر رفيع مقرمش من الخارج يُعد أمامك حسب الطلب.",
+    "google_rating": 4.5,
+    "review_count": 1800,
+    "price_level": "$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "سماش برجر من واغيو أسترالي بسعر معقول. الباتي مقرمش من الخارج وعصيري من الداخل",
+    "review_quote": "Australian wagyu smash burger at a fair price. Patty crispy outside and juicy inside.",
+    "pros_ar": [
+      "واغيو أسترالي بسعر معقول",
+      "برجر مقرمش ممتاز",
+      "طازج حسب الطلب"
+    ],
+    "pros": [
+      "Australian wagyu at fair price",
+      "Excellent crispy burger",
+      "Fresh made to order"
+    ],
+    "cons_ar": [
+      "طابور طويل",
+      "مساحة صغيرة جداً"
+    ],
+    "cons": [
+      "Long queue",
+      "Very small space"
+    ],
+    "best_time": "عشاء مبكر",
+    "avg_spend": "٥٠-٩٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Nora+Smash+Burger+Riyadh+Malqa",
+    "lat": 24.81,
+    "lng": 46.63,
+    "audience": [
+      "أصدقاء",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "برجر سماش",
+      "وجبة سريعة"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "ferdi-riyadh",
+    "name_ar": "فيردي الرياض",
+    "name_en": "Ferdi Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "فيا رياض",
+    "neighborhood_en": "Via Riyadh",
+    "description_ar": "مطعم باريسي شهير بزواره المشاهير من كيندال جينر وبيلا حديد. يقدم برجر مميز ومأكولات بحرية وسلطات في أجواء أنيقة ومرحة.",
+    "google_rating": 4.2,
+    "review_count": 700,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "برجر فيردي من الأفضل في الرياض. الأجواء باريسية ساحرة مع ديكور ألعاب مميز",
+    "review_quote": "Ferdi burger among the best in Riyadh. Charming Parisian vibes with distinctive toy decor.",
+    "pros_ar": [
+      "برجر ممتاز",
+      "أجواء باريسية مميزة",
+      "مأكولات بحرية"
+    ],
+    "pros": [
+      "Excellent burger",
+      "Distinctive Parisian vibes",
+      "Seafood"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "حصص صغيرة"
+    ],
+    "cons": [
+      "High prices",
+      "Small portions"
+    ],
+    "best_time": "غداء أو عشاء",
+    "avg_spend": "٢٥٠-٤٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Ferdi+Via+Riyadh",
+    "lat": 24.8125,
+    "lng": 46.6269,
+    "audience": [
+      "أزواج",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "غداء فاخر",
+      "تجربة باريسية"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "smokey-beards-q",
+    "name_ar": "سموكي بيردز كيو",
+    "name_en": "Smokey Beards Q",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مطعم باربكيو أمريكي سعودي المنشأ حائز على جائزة أفضل مطعم أمريكي 2025 من FACT. متخصص في البريسكت المدخن على خشب البلوط بأسلوب جنوب أمريكا.",
+    "google_rating": 4.4,
+    "review_count": 5500,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "أفضل بريسكت في الرياض. اللحم مدخن ببطء لساعات والنتيجة مذهلة",
+    "review_quote": "Best brisket in Riyadh. Meat slow-smoked for hours with amazing results.",
+    "pros_ar": [
+      "بريسكت مدخن ممتاز",
+      "علامة سعودية",
+      "أسعار معقولة"
+    ],
+    "pros": [
+      "Excellent smoked brisket",
+      "Saudi brand",
+      "Reasonable prices"
+    ],
+    "cons_ar": [
+      "طابور طويل",
+      "البريسكت ينفد مبكراً"
+    ],
+    "cons": [
+      "Long queue",
+      "Brisket sells out early"
+    ],
+    "best_time": "غداء مبكر",
+    "avg_spend": "٨٠-١٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Smokey+Beards+Q+Riyadh",
+    "lat": 24.72,
+    "lng": 46.68,
+    "audience": [
+      "أصدقاء",
+      "عوائل"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "باربكيو أمريكي",
+      "غداء مع أصدقاء"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "kabab-abu-alaz",
+    "name_ar": "كباب أبو العز",
+    "name_en": "Kabab Abu Al Az",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "مطعم مشاوي شعبي من أشهر مطاعم الكباب في الرياض. يقدم كباب حلبي بلحم بلدي طازج مذبوح يومياً مع مشاوي متنوعة بأسعار شعبية.",
+    "google_rating": 4.3,
+    "review_count": 3500,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أفضل كباب حلبي في الرياض. اللحم طازج والشواء على الفحم يعطي نكهة لا تُضاهى",
+    "review_quote": "Best Aleppo kebab in Riyadh. Fresh meat and charcoal grilling gives an unmatched flavor.",
+    "pros_ar": [
+      "كباب حلبي ممتاز",
+      "لحم طازج يومياً",
+      "أسعار شعبية"
+    ],
+    "pros": [
+      "Excellent Aleppo kebab",
+      "Daily fresh meat",
+      "Very affordable"
+    ],
+    "cons_ar": [
+      "ديكور بسيط",
+      "مقبلات محدودة"
+    ],
+    "cons": [
+      "Simple decor",
+      "Limited appetizers"
+    ],
+    "best_time": "بعد المغرب",
+    "avg_spend": "٤٥-٦٥ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Kabab+Abu+Alaz+Riyadh+Sulimaniyah",
+    "lat": 24.692,
+    "lng": 46.6815,
+    "audience": [
+      "عوائل",
+      "أفراد"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كباب شعبي",
+      "عشاء سريع"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "robata-riyadh",
+    "name_ar": "روباتا الرياض",
+    "name_en": "RŌBATA Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "مطعم ياباني حائز على جائزة أفضل مطعم في الهواء الطلق 2025 من FACT. يقدم مشويات روباتاياكي يابانية في The Canopy بحطين مع تراس رائع.",
+    "google_rating": 4.3,
+    "review_count": 1400,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "أفضل تجربة أكل في الهواء الطلق. الروباتا ممتازة والإطلالة خيالية",
+    "review_quote": "Best outdoor dining experience. Robata is excellent and the view is fantastic.",
+    "pros_ar": [
+      "تراس رائع",
+      "روباتا ممتازة",
+      "أجواء في الهواء الطلق"
+    ],
+    "pros": [
+      "Amazing terrace",
+      "Excellent robata",
+      "Outdoor atmosphere"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "يعتمد على الطقس"
+    ],
+    "cons": [
+      "High prices",
+      "Weather dependent"
+    ],
+    "best_time": "عشاء - الشتاء أفضل",
+    "avg_spend": "٢٥٠-٤٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Robata+Riyadh+Canopy+Hittin",
+    "lat": 24.76,
+    "lng": 46.63,
+    "audience": [
+      "أزواج",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء في الهواء الطلق",
+      "سهرة شتوية"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "huqqa-riyadh",
+    "name_ar": "حقا الرياض",
+    "name_en": "HUQQA Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "يو ووك",
+    "neighborhood_en": "U Walk",
+    "description_ar": "مطعم تركي على أكبر تراس سطح في الرياض في يو ووك. يقدم فطوراً تركياً وقهوة تركية مع شيشة في أجواء حيوية.",
+    "google_rating": 4.1,
+    "review_count": 3800,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أكبر تراس في الرياض مع شيشة وأكل تركي. الفطور التركي ممتاز",
+    "review_quote": "Biggest rooftop in Riyadh with shisha and Turkish food. Turkish breakfast is excellent.",
+    "pros_ar": [
+      "أكبر تراس سطح",
+      "فطور تركي",
+      "شيشة"
+    ],
+    "pros": [
+      "Biggest rooftop terrace",
+      "Turkish breakfast",
+      "Shisha"
+    ],
+    "cons_ar": [
+      "جودة الطعام متفاوتة",
+      "مزدحم"
+    ],
+    "cons": [
+      "Inconsistent food quality",
+      "Crowded"
+    ],
+    "best_time": "فطور أو مساء",
+    "avg_spend": "١٢٠-٢٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=HUQQA+Riyadh+U+Walk",
+    "lat": 24.74,
+    "lng": 46.65,
+    "audience": [
+      "أصدقاء",
+      "عوائل"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "شيشة مع أصدقاء",
+      "فطور تركي"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "table-to-riyadh",
+    "name_ar": "تيبل تو",
+    "name_en": "Table;To",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "التخصصي",
+    "neighborhood_en": "Al Takhassusi",
+    "description_ar": "مطعم شرق أوسطي معاصر حائز على جائزة أفضل مطعم MENA 2025 من TimeOut. يقدم لحوم واغيو وسلايدرز وفلاتبريد مخمر ٧٢ ساعة.",
+    "google_rating": 4.4,
+    "review_count": 600,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "أحد أفضل الافتتاحات الجديدة. اللحم المشوي والفلاتبريد المخمر مبدعان",
+    "review_quote": "One of the best new openings. Grilled meat and 72-hour fermented flatbread are creative.",
+    "pros_ar": [
+      "مطبخ شرق أوسطي مبتكر",
+      "لحوم ممتازة",
+      "أسعار معقولة"
+    ],
+    "pros": [
+      "Innovative Middle Eastern cuisine",
+      "Excellent meats",
+      "Reasonable prices"
+    ],
+    "cons_ar": [
+      "في مرحلة الافتتاح التجريبي",
+      "قائمة قد تتغير"
+    ],
+    "cons": [
+      "In soft opening phase",
+      "Menu may change"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "١٥٠-٢٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Table+To+Riyadh+Takhassusi",
+    "lat": 24.71,
+    "lng": 46.66,
+    "audience": [
+      "أصدقاء",
+      "أزواج"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء مبتكر",
+      "تجربة جديدة"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "villa-mamas",
+    "name_ar": "فيلا ماماز",
+    "name_en": "Villa Mamas",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "بوجيري تيراس - الدرعية",
+    "neighborhood_en": "Bujairi Terrace - Diriyah",
+    "description_ar": "مطعم بحريني يقدم مطبخاً خليجياً منزلياً من الشيف روية صالح. يستخدم مكونات عضوية من المصدر مع زيت زيتون من صقلية وأعشاب من المنامة.",
+    "google_rating": 4.3,
+    "review_count": 900,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "طبخ بيتي بحريني أصيل بلمسة عالمية. زرشك بولو والمنسف المدخن ممتازان",
+    "review_quote": "Authentic Bahraini home cooking with a global touch. Zereshk polo and smoked mansaf are excellent.",
+    "pros_ar": [
+      "مطبخ خليجي بيتي أصيل",
+      "مكونات عضوية",
+      "موقع في الدرعية"
+    ],
+    "pros": [
+      "Authentic Gulf home cooking",
+      "Organic ingredients",
+      "Diriyah location"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "بعيد عن وسط المدينة"
+    ],
+    "cons": [
+      "High prices",
+      "Far from city center"
+    ],
+    "best_time": "غداء",
+    "avg_spend": "٢٠٠-٣٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Villa+Mamas+Bujairi+Terrace+Diriyah",
+    "lat": 24.734,
+    "lng": 46.5725,
+    "audience": [
+      "عوائل",
+      "سياح"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "غداء خليجي",
+      "تجربة في الدرعية"
+    ],
+    "district": "غرب الرياض"
+  },
+  {
+    "id": "mlle-eatery",
+    "name_ar": "مادموازيل",
+    "name_en": "MLLe",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "ليسن فالي",
+    "neighborhood_en": "Laysen Valley",
+    "description_ar": "مطعم لبناني معاصر يقدم المطبخ اللبناني بلمسة عصرية. ديكور مميز بشجرة حمراء ضخمة تحت سقف مرسوم. واغيو كبة وأم علي ميل فوي.",
+    "google_rating": 4.3,
+    "review_count": 700,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "لبناني عصري مبتكر. الكبة بالواغيو فكرة رائعة والديكور خيالي",
+    "review_quote": "Innovative modern Lebanese. Wagyu kibbeh is a great idea and the decor is stunning.",
+    "pros_ar": [
+      "مطبخ لبناني مبتكر",
+      "ديكور مميز",
+      "أسعار معقولة"
+    ],
+    "pros": [
+      "Innovative Lebanese cuisine",
+      "Distinctive decor",
+      "Reasonable prices"
+    ],
+    "cons_ar": [
+      "الخدمة تحتاج تحسين",
+      "مزدحم"
+    ],
+    "cons": [
+      "Service needs improvement",
+      "Crowded"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "١٥٠-٢٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=MLLe+Laysen+Valley+Riyadh",
+    "lat": 24.77,
+    "lng": 46.63,
+    "audience": [
+      "أصدقاء",
+      "أزواج"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء لبناني عصري",
+      "سهرة مع أصدقاء"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "akira-back-riyadh",
+    "name_ar": "أكيرا باك الرياض",
+    "name_en": "Akira Back Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "مطعم ياباني كوري من الشيف العالمي أكيرا باك في الحي الدبلوماسي. يقدم مطبخاً يابانياً بروح كورية مع AB Tacos وتونا بيتزا ويلوتيل.",
+    "google_rating": 4.4,
+    "review_count": 1000,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "طعام عالمي المستوى. AB Tacos وتونا بيتزا من أفضل ما ذقته",
+    "review_quote": "World-class food. AB Tacos and Tuna Pizza among the best I've ever tried.",
+    "pros_ar": [
+      "شيف مشهور عالمياً",
+      "أطباق مميزة",
+      "أجواء أنيقة"
+    ],
+    "pros": [
+      "World-famous chef",
+      "Signature dishes",
+      "Elegant atmosphere"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "الحجز صعب"
+    ],
+    "cons": [
+      "High prices",
+      "Hard to book"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٣٠٠-٤٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Akira+Back+Riyadh+Diplomatic+Quarter",
+    "lat": 24.67,
+    "lng": 46.62,
+    "audience": [
+      "أزواج",
+      "عشاق الطعام"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء فاخر",
+      "تجربة شيف مشهور"
+    ],
+    "district": "غرب الرياض"
+  },
+  {
+    "id": "nac-riyadh",
+    "name_ar": "ناك الرياض",
+    "name_en": "NAC Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "ليسن فالي",
+    "neighborhood_en": "Laysen Valley",
+    "description_ar": "مطعم أوروبي من لندن حائز على جائزة المفضل الأوروبي 2025 من FACT. يقدم comfort food بلمسة راقية من الدجاج المشوي إلى السلمون والباستا.",
+    "google_rating": 4.3,
+    "review_count": 800,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مكان أنيق ومريح. الأطباق بسيطة لكن بجودة عالية. فرنش توست الديزيرت ممتاز",
+    "review_quote": "Elegant and comfortable. Simple dishes but high quality. Dessert French toast is excellent.",
+    "pros_ar": [
+      "أجواء أنيقة",
+      "أطباق كومفورت فود",
+      "مناسب للزيارات المتكررة"
+    ],
+    "pros": [
+      "Elegant atmosphere",
+      "Comfort food dishes",
+      "Great for repeat visits"
+    ],
+    "cons_ar": [
+      "لا يوجد تميز كبير",
+      "أسعار مرتفعة نسبياً"
+    ],
+    "cons": [
+      "Nothing highly distinctive",
+      "Relatively high prices"
+    ],
+    "best_time": "فطور أو غداء",
+    "avg_spend": "١٥٠-٢٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=NAC+Riyadh+Laysen+Valley",
+    "lat": 24.77,
+    "lng": 46.63,
+    "audience": [
+      "أصدقاء",
+      "أزواج"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "فطور",
+      "غداء أنيق"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "al-orjouan",
+    "name_ar": "الأرجوان",
+    "name_en": "Al Orjouan",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الحي الدبلوماسي - الريتز كارلتون",
+    "neighborhood_en": "Diplomatic Quarter - Ritz Carlton",
+    "description_ar": "أشهر بوفيه في الرياض في فندق الريتز كارلتون. يقدم بوفيه دولي فاخر مع لحم مشوي ببطء وحلويات تاريخية. طقس عطلة نهاية الأسبوع للعوائل.",
+    "google_rating": 4.4,
+    "review_count": 4000,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أفضل بوفيه في الرياض بلا منافس. تشكيلة هائلة وجودة فندقية عالية",
+    "review_quote": "Best buffet in Riyadh without competition. Huge selection and high hotel quality.",
+    "pros_ar": [
+      "أفضل بوفيه في الرياض",
+      "تشكيلة واسعة",
+      "حلويات رائعة"
+    ],
+    "pros": [
+      "Best buffet in Riyadh",
+      "Wide selection",
+      "Amazing desserts"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "مزدحم في الويكند"
+    ],
+    "cons": [
+      "High prices",
+      "Crowded on weekends"
+    ],
+    "best_time": "برانش الجمعة",
+    "avg_spend": "٣٠٠-٥٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Al+Orjouan+Ritz+Carlton+Riyadh",
+    "lat": 24.67,
+    "lng": 46.62,
+    "audience": [
+      "عوائل",
+      "أزواج"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "برانش الجمعة",
+      "مناسبة عائلية"
+    ],
+    "district": "غرب الرياض"
+  },
+  {
+    "id": "entrecote-cafe-de-paris",
+    "name_ar": "أونتركوت كافيه دو باري",
+    "name_en": "Entrecôte Café de Paris",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا - الفيصلية",
+    "neighborhood_en": "Al Olaya - Al Faisaliah",
+    "description_ar": "مطعم سويسري كلاسيكي في الطابق ٢١ من برج الفيصلية. قائمة بسيطة: ستيك وسلطة وبطاطس مع صلصة كافيه دو باري السرية منذ 1930.",
+    "google_rating": 4.2,
+    "review_count": 3500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "صلصة كافيه دو باري السرية لا تُضاهى. إطلالة من الطابق ٢١ خيالية",
+    "review_quote": "The secret Café de Paris sauce is unmatched. 21st floor view is incredible.",
+    "pros_ar": [
+      "صلصة سرية مميزة",
+      "إطلالة من الأعلى",
+      "قائمة بسيطة متقنة"
+    ],
+    "pros": [
+      "Signature secret sauce",
+      "Top floor view",
+      "Simple perfected menu"
+    ],
+    "cons_ar": [
+      "قائمة محدودة جداً",
+      "أسعار مرتفعة للبساطة"
+    ],
+    "cons": [
+      "Very limited menu",
+      "High prices for simplicity"
+    ],
+    "best_time": "غداء أو عشاء",
+    "avg_spend": "٢٠٠-٣٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Entrecote+Cafe+de+Paris+Faisaliah+Tower+Riyadh",
+    "lat": 24.6907,
+    "lng": 46.6853,
+    "audience": [
+      "أزواج",
+      "سياح"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء بإطلالة",
+      "تجربة كلاسيكية"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "meraki-riyadh",
+    "name_ar": "ميراكي الرياض",
+    "name_en": "Meraki Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا - الفيصلية",
+    "neighborhood_en": "Al Olaya - Al Faisaliah",
+    "description_ar": "مطعم يوناني معاصر في برج الفيصلية. يقدم أطباق البحر الأبيض المتوسط بأسلوب يوناني أصيل مع أخطبوط مشوي وزيت زيتون وليمون.",
+    "google_rating": 4.2,
+    "review_count": 1200,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "أجواء يونانية هادئة بإضاءة زرقاء. الأخطبوط المشوي والخبز بزيت الزيتون ممتازان",
+    "review_quote": "Calm Greek atmosphere with blue lighting. Chargrilled octopus and olive oil bread are excellent.",
+    "pros_ar": [
+      "مطبخ يوناني أصيل",
+      "أجواء هادئة",
+      "مأكولات بحرية ممتازة"
+    ],
+    "pros": [
+      "Authentic Greek cuisine",
+      "Calm atmosphere",
+      "Excellent seafood"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "قائمة محدودة"
+    ],
+    "cons": [
+      "High prices",
+      "Limited menu"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٢٥٠-٤٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Meraki+Riyadh+Faisaliah+Tower",
+    "lat": 24.6907,
+    "lng": 46.6853,
+    "audience": [
+      "أزواج",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء يوناني",
+      "سهرة هادئة"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "nooa-riyadh",
+    "name_ar": "نووا الرياض",
+    "name_en": "NOOA",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "كافيه مستوحى من جنوب أفريقيا حائز على جائزة أفضل كافيه 2025 من FACT. يقدم قهوة متخصصة ومشروبات رويبوس وحلويات مثل بودينغ التمر بالملفا.",
+    "google_rating": 4.5,
+    "review_count": 1200,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "review_quote_ar": "كافيه فريد بمكونات جنوب أفريقية. مشروبات الرويبوس والحلويات مميزة",
+    "review_quote": "Unique café with South African ingredients. Rooibos drinks and desserts are distinctive.",
+    "pros_ar": [
+      "مفهوم فريد",
+      "حلويات مميزة",
+      "قهوة ممتازة"
+    ],
+    "pros": [
+      "Unique concept",
+      "Distinctive desserts",
+      "Excellent coffee"
+    ],
+    "cons_ar": [
+      "مزدحم",
+      "أسعار أعلى من الكافيهات العادية"
+    ],
+    "cons": [
+      "Crowded",
+      "Higher than average café prices"
+    ],
+    "best_time": "صباحاً أو بعد الظهر",
+    "avg_spend": "٦٠-١٢٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=NOOA+Cafe+Riyadh",
+    "lat": 24.72,
+    "lng": 46.67,
+    "audience": [
+      "أصدقاء",
+      "أفراد"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة صباحية",
+      "حلويات بعد الظهر"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "black-tap-riyadh",
+    "name_ar": "بلاك تاب",
+    "name_en": "Black Tap",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مطعم برجر أمريكي شهير بميلك شيك CrazyShake العملاق. مناسب للعوائل مع برجر متنوع وأجواء مرحة في كافد.",
+    "google_rating": 4.1,
+    "review_count": 2500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "CrazyShake يستحق الزيارة لوحده. برجر جيد وأجواء مناسبة للأطفال",
+    "review_quote": "CrazyShake alone is worth the visit. Good burger and kid-friendly atmosphere.",
+    "pros_ar": [
+      "ميلك شيك عملاق مميز",
+      "مناسب للأطفال",
+      "أجواء مرحة"
+    ],
+    "pros": [
+      "Giant signature milkshake",
+      "Kid-friendly",
+      "Fun atmosphere"
+    ],
+    "cons_ar": [
+      "جودة البرجر عادية",
+      "أسعار مرتفعة للبرجر"
+    ],
+    "cons": [
+      "Average burger quality",
+      "High prices for burgers"
+    ],
+    "best_time": "غداء عائلي",
+    "avg_spend": "١٢٠-٢٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Black+Tap+KAFD+Riyadh",
+    "lat": 24.7672,
+    "lng": 46.6405,
+    "audience": [
+      "عوائل",
+      "أطفال"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "غداء عائلي",
+      "ميلك شيك مع الأطفال"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "thaiya-riyadh",
+    "name_ar": "ثايا",
+    "name_en": "Thaiya",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "التحلية",
+    "neighborhood_en": "Tahlia Street",
+    "description_ar": "مطعم تايلاندي أصيل على شارع التحلية. أجواء بسيطة مع طعام تايلاندي حقيقي من المسمان كاري إلى الباد تشا بالمأكولات البحرية.",
+    "google_rating": 4.4,
+    "review_count": 1500,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "تايلاندي أصيل بسعر معقول. المسمان كاري والسي فود باد تشا لا يُنسيان",
+    "review_quote": "Authentic Thai at reasonable price. Massaman curry and seafood pad cha are unforgettable.",
+    "pros_ar": [
+      "طعام تايلاندي أصيل",
+      "أسعار ممتازة",
+      "خدمة سريعة"
+    ],
+    "pros": [
+      "Authentic Thai food",
+      "Great prices",
+      "Fast service"
+    ],
+    "cons_ar": [
+      "ديكور بسيط",
+      "مساحة صغيرة"
+    ],
+    "cons": [
+      "Simple decor",
+      "Small space"
+    ],
+    "best_time": "غداء أو عشاء",
+    "avg_spend": "٨٠-١٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Thaiya+Riyadh+Tahlia",
+    "lat": 24.69,
+    "lng": 46.685,
+    "audience": [
+      "أصدقاء",
+      "أزواج"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "تايلاندي أصيل",
+      "عشاء بسعر معقول"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "jon-vinnys",
+    "name_ar": "جون أند فيني'ز",
+    "name_en": "Jon & Vinny's",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "فيا رياض",
+    "neighborhood_en": "Via Riyadh",
+    "description_ar": "مطعم إيطالي من لوس أنجلوس يقدم بيتزا وباستا بأسلوب الجدات الإيطاليات. بيتزا الإفطار والبوراتا المحلية من الأطباق المميزة.",
+    "google_rating": 4.2,
+    "review_count": 600,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "بيتزا وباستا ممتازة بأسلوب كاليفورني. بيتزا الإفطار فكرة عبقرية",
+    "review_quote": "Excellent pizza and pasta California-style. Breakfast pizza is a genius idea.",
+    "pros_ar": [
+      "بيتزا ممتازة",
+      "أجواء كاليفورنية",
+      "فطور وغداء وعشاء"
+    ],
+    "pros": [
+      "Excellent pizza",
+      "California vibes",
+      "Breakfast lunch and dinner"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة نسبياً",
+      "مزدحم"
+    ],
+    "cons": [
+      "Relatively high prices",
+      "Crowded"
+    ],
+    "best_time": "فطور أو غداء",
+    "avg_spend": "١٥٠-٢٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Jon+Vinnys+Via+Riyadh",
+    "lat": 24.8125,
+    "lng": 46.6269,
+    "audience": [
+      "أصدقاء",
+      "عوائل"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "فطور",
+      "بيتزا عائلية"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "agio-riyadh",
+    "name_ar": "أجيو الرياض",
+    "name_en": "Agio Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حطين - ذا كانوبي",
+    "neighborhood_en": "Hittin - The Canopy",
+    "description_ar": "مطعم إيطالي مستوحى من ساحل أمالفي في ذا كانوبي. من المجموعة السعودية خلف ميازو وبيفبار. يقدم باستا وبيتزا من فرن حطبي.",
+    "google_rating": 4.3,
+    "review_count": 900,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "إيطالي أنيق ببساطة مفاجئة. البيتزا من الفرن الحطبي والجيلاتو ممتازان",
+    "review_quote": "Elegant Italian with surprising simplicity. Wood-oven pizza and gelato are excellent.",
+    "pros_ar": [
+      "بيتزا من فرن حطبي",
+      "ديكور أنيق",
+      "علامة سعودية"
+    ],
+    "pros": [
+      "Wood-oven pizza",
+      "Elegant decor",
+      "Saudi brand"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة نسبياً",
+      "بعيد عن وسط المدينة"
+    ],
+    "cons": [
+      "Relatively high prices",
+      "Far from city center"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "١٥٠-٢٨٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Agio+Riyadh+Canopy+Hittin",
+    "lat": 24.76,
+    "lng": 46.63,
+    "audience": [
+      "أزواج",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عشاء إيطالي",
+      "سهرة في ذا كانوبي"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "mayrig-riyadh",
+    "name_ar": "مايريغ",
+    "name_en": "Mayrig",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "أول مطعم أرمني في المملكة. اسمه يعني 'الأم الصغيرة' بالأرمنية. يقدم أطباقاً أرمنية متوسطية بزيت الزيتون تحافظ على التراث الطهوي الأرمني.",
+    "google_rating": 4.3,
+    "review_count": 1500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "مطبخ أرمني أصيل بلمسة متوسطية. أطباق زيت الزيتون والمقبلات ممتازة",
+    "review_quote": "Authentic Armenian cuisine with Mediterranean touch. Olive oil dishes and appetizers are excellent.",
+    "pros_ar": [
+      "مطبخ أرمني أصيل",
+      "أطباق صحية بزيت الزيتون",
+      "أسعار معقولة"
+    ],
+    "pros": [
+      "Authentic Armenian cuisine",
+      "Healthy olive oil dishes",
+      "Reasonable prices"
+    ],
+    "cons_ar": [
+      "ديكور يحتاج تجديد",
+      "خدمة متفاوتة"
+    ],
+    "cons": [
+      "Decor needs update",
+      "Inconsistent service"
+    ],
+    "best_time": "غداء أو عشاء",
+    "avg_spend": "١٢٠-٢٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Mayrig+Restaurant+Riyadh",
+    "lat": 24.7,
+    "lng": 46.68,
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "غداء أرمني",
+      "مزة عائلية"
+    ],
+    "district": "وسط الرياض"
+  },
+  {
+    "id": "copper-riyadh",
+    "name_ar": "كوبر الرياض",
+    "name_en": "Copper",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "ستيك هاوس محلي هادئ اشتهر بالواغيو ستربلوين والصلصة المميزة. أجواء معاصرة دافئة مع قاعدة زبائن وفية.",
+    "google_rating": 4.4,
+    "review_count": 2000,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "review_quote_ar": "ستيك ممتاز بدون تكلف. الواغيو ستربلوين مع البطاطس المهروسة كمال",
+    "review_quote": "Excellent steak without pretension. Wagyu striploin with mashed potatoes is perfection.",
+    "pros_ar": [
+      "ستيك بجودة عالية",
+      "أسعار معقولة",
+      "أجواء هادئة"
+    ],
+    "pros": [
+      "High-quality steak",
+      "Reasonable prices",
+      "Calm atmosphere"
+    ],
+    "cons_ar": [
+      "قائمة محدودة",
+      "ليس فخم"
+    ],
+    "cons": [
+      "Limited menu",
+      "Not fancy"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "١٥٠-٢٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Copper+Steak+Riyadh+Hittin",
+    "lat": 24.76,
+    "lng": 46.63,
+    "audience": [
+      "أصدقاء",
+      "أزواج"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "ستيك بسعر معقول",
+      "عشاء هادئ"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "kintan-riyadh",
+    "name_ar": "كينتان الرياض",
+    "name_en": "Kintan",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الوادي",
+    "neighborhood_en": "Al Wadi",
+    "description_ar": "مطعم ياكينيكو ياباني - أول فرع في الشرق الأوسط. شواء على الطاولة بدون دخان مع لحوم وأسماك وخضروات يابانية أصيلة.",
+    "google_rating": 4.2,
+    "review_count": 700,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "تجربة ياكينيكو ممتعة. الشواء بدون دخان ميزة كبيرة واللحوم ممتازة",
+    "review_quote": "Enjoyable yakiniku experience. Smokeless grill is a big plus and meats are excellent.",
+    "pros_ar": [
+      "شواء بدون دخان",
+      "تجربة تفاعلية",
+      "لحوم متنوعة"
+    ],
+    "pros": [
+      "Smokeless grill",
+      "Interactive experience",
+      "Diverse meats"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة",
+      "يحتاج وقت"
+    ],
+    "cons": [
+      "High prices",
+      "Time-consuming"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٢٠٠-٣٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Kintan+Riyadh+Al+Wadi",
+    "lat": 24.75,
+    "lng": 46.64,
+    "audience": [
+      "أصدقاء",
+      "أزواج"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "تجربة ياكينيكو",
+      "عشاء مع أصدقاء"
+    ],
+    "district": "شمال الرياض"
+  },
+  {
+    "id": "hocho-riyadh",
+    "name_ar": "هوتشو الرياض",
+    "name_en": "Hocho",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "فيا رياض",
+    "neighborhood_en": "Via Riyadh",
+    "description_ar": "مطعم متخصص في لحم كوبي الياباني الأصلي في فيا رياض. يقدم مطبخاً يابانياً بتأثيرات طريق الحرير مع أفخم أنواع اللحوم اليابانية.",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": true,
+    "review_quote_ar": "كوبي بيف أصلي بجودة استثنائية. التجربة فاخرة من البداية للنهاية",
+    "review_quote": "Authentic Kobe beef of exceptional quality. Luxurious experience from start to finish.",
+    "pros_ar": [
+      "كوبي بيف أصلي",
+      "تجربة فاخرة",
+      "مطبخ ياباني مميز"
+    ],
+    "pros": [
+      "Authentic Kobe beef",
+      "Luxurious experience",
+      "Distinctive Japanese cuisine"
+    ],
+    "cons_ar": [
+      "أسعار مرتفعة جداً",
+      "قائمة محدودة"
+    ],
+    "cons": [
+      "Very high prices",
+      "Limited menu"
+    ],
+    "best_time": "عشاء",
+    "avg_spend": "٥٠٠-٩٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Hocho+Via+Riyadh",
+    "lat": 24.8125,
+    "lng": 46.6269,
+    "audience": [
+      "أزواج",
+      "عشاق الطعام"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "تجربة كوبي بيف",
+      "مناسبة خاصة"
+    ],
+    "district": "شمال الرياض"
+  }
+]
