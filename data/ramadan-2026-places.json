@@ -1,0 +1,720 @@
+[
+  {
+    "id": "kafd-ramadan-tent-2026",
+    "name_ar": "خيمة كافد الرمضانية — ليالي كافد",
+    "name_en": "KAFD Ramadan Nights Tent",
+    "category": "خيمة رمضانية",
+    "category_ar": "خيمة رمضانية",
+    "category_en": "ramadan_tent",
+    "neighborhood": "كافد - المركز المالي",
+    "neighborhood_en": "KAFD",
+    "description_ar": "في قلب مركز الملك عبدالله المالي، تقدم خيمة كافد الرمضانية تجربة \"إفطار المستقبل\" وسط ناطحات السحاب. بوفيه إفطار وسحور فاخر مع لاونج شيشة ومنطقة ألعاب أطفال وبازار يضم براندات سعودية مختلفة. تجربة عصرية فريدة تجمع بين الفخامة والأجواء الرمضانية.",
+    "google_rating": 4.4,
+    "review_count": 1250,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "ramadan": true,
+    "ramadan_iftar": true,
+    "ramadan_suhoor": true,
+    "ramadan_tent": true,
+    "ramadan_category": "iftar",
+    "review_quote_ar": "تجربة إفطار استثنائية وسط ناطحات السحاب في كافد، الأجواء والديكور لا مثيل لهم",
+    "review_quote": "تجربة إفطار استثنائية وسط ناطحات السحاب في كافد، الأجواء والديكور لا مثيل لهم",
+    "pros_ar": [
+      "موقع استثنائي وسط ناطحات السحاب",
+      "بوفيه متنوع بمستوى عالمي",
+      "منطقة ألعاب أطفال وبازار تسوق",
+      "لاونج شيشة مع قهوة وحلويات"
+    ],
+    "pros": [
+      "موقع استثنائي وسط ناطحات السحاب",
+      "بوفيه متنوع بمستوى عالمي",
+      "منطقة ألعاب أطفال وبازار تسوق",
+      "لاونج شيشة مع قهوة وحلويات"
+    ],
+    "cons_ar": [
+      "الأسعار مرتفعة",
+      "يحتاج حجز مسبق خصوصاً عطلة نهاية الأسبوع"
+    ],
+    "cons": [
+      "الأسعار مرتفعة",
+      "يحتاج حجز مسبق خصوصاً عطلة نهاية الأسبوع"
+    ],
+    "best_time": "أيام الأسبوع — أقل ازدحاماً",
+    "avg_spend": "٣٧٥ ريال إفطار / ٢٩٩ ريال سحور",
+    "google_maps_url": "https://maps.google.com/?q=KAFD+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=400&h=300&fit=crop",
+    "lat": 24.7671,
+    "lng": 46.6377,
+    "audience": ["عوائل", "شباب", "رجال أعمال"],
+    "is_free": false,
+    "ramadan_price_iftar": "375 ريال/شخص",
+    "ramadan_price_suhoor": "299 ريال/شخص",
+    "ramadan_booking": "platinumlist.net أو حساب كافد على انستقرام"
+  },
+  {
+    "id": "mandarin-oriental-ramadan-2026",
+    "name_ar": "خيمة رمضان — ماندارين أورينتال الفيصلية",
+    "name_en": "Mandarin Oriental Al Faisaliah Ramadan Tent",
+    "category": "خيمة رمضانية",
+    "category_ar": "خيمة رمضانية",
+    "category_en": "ramadan_tent",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "من أبرز خيم رمضان في المملكة. خيمة ماندارين أورينتال الفيصلية تعود في 2026 بتصميم متجدد يجمع بين الأناقة والفخامة. سعة تصل لـ 1800 ضيف مع أطباق سعودية وعالمية فاخرة وحلويات شرقية تقليدية وركن أطفال وفعاليات رمضانية يومية.",
+    "google_rating": 4.5,
+    "review_count": 2100,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "ramadan": true,
+    "ramadan_iftar": true,
+    "ramadan_suhoor": true,
+    "ramadan_tent": true,
+    "ramadan_category": "iftar",
+    "review_quote_ar": "خيمة ماندارين أورينتال من أفخم التجارب الرمضانية في الرياض، السعة الكبيرة والخدمة ممتازة",
+    "review_quote": "خيمة ماندارين أورينتال من أفخم التجارب الرمضانية في الرياض، السعة الكبيرة والخدمة ممتازة",
+    "pros_ar": [
+      "سعة ضخمة تصل لـ 1800 ضيف",
+      "تصميم متجدد كل سنة",
+      "ركن أطفال وفعاليات رمضانية",
+      "حلويات شرقية تقليدية استثنائية"
+    ],
+    "pros": [
+      "سعة ضخمة تصل لـ 1800 ضيف",
+      "تصميم متجدد كل سنة",
+      "ركن أطفال وفعاليات رمضانية",
+      "حلويات شرقية تقليدية استثنائية"
+    ],
+    "cons_ar": [
+      "السعر مرتفع",
+      "ازدحام شديد في عطلة نهاية الأسبوع"
+    ],
+    "cons": [
+      "السعر مرتفع",
+      "ازدحام شديد في عطلة نهاية الأسبوع"
+    ],
+    "best_time": "أيام الأسبوع أو الحجز المبكر",
+    "avg_spend": "٣٥٠-٥٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Mandarin+Oriental+Al+Faisaliah+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400&h=300&fit=crop",
+    "lat": 24.6903,
+    "lng": 46.6854,
+    "audience": ["عوائل", "رجال أعمال", "مجموعات كبيرة"],
+    "is_free": false,
+    "ramadan_price_iftar": "350-500 ريال/شخص",
+    "ramadan_price_suhoor": "350 ريال/شخص",
+    "ramadan_booking": "الموقع الرسمي أو الاتصال المباشر"
+  },
+  {
+    "id": "four-seasons-ramadan-2026",
+    "name_ar": "خيمة رمضان — فورسيزونز الرياض",
+    "name_en": "Four Seasons Riyadh Ramadan Tent",
+    "category": "خيمة رمضانية",
+    "category_ar": "خيمة رمضانية",
+    "category_en": "ramadan_tent",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "Sahafa",
+    "description_ar": "بوفيه إفطار فاخر يضم محطات طهي حيّة تقدم أشهى المأكولات الرمضانية المحلية والعالمية في أجواء ساحرة داخل خيمة رمضان في قاعة المملكة. تجربة طاولة الشيف VIP بخدمة فضية متوفرة. أكثر من 100 صنف متنوع مع بوفيه حلويات رمضانية من الأفضل في الرياض.",
+    "google_rating": 4.6,
+    "review_count": 1890,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "ramadan": true,
+    "ramadan_iftar": true,
+    "ramadan_suhoor": true,
+    "ramadan_tent": true,
+    "ramadan_category": "iftar",
+    "review_quote_ar": "بوفيه الحلويات الرمضانية في فورسيزونز من الأفضل في الرياض، أكثر من 100 صنف متنوع",
+    "review_quote": "بوفيه الحلويات الرمضانية في فورسيزونز من الأفضل في الرياض، أكثر من 100 صنف متنوع",
+    "pros_ar": [
+      "أكثر من 100 صنف في البوفيه",
+      "بوفيه حلويات رمضانية استثنائي",
+      "محطات طبخ حية",
+      "تجربة طاولة الشيف VIP متوفرة"
+    ],
+    "pros": [
+      "أكثر من 100 صنف في البوفيه",
+      "بوفيه حلويات رمضانية استثنائي",
+      "محطات طبخ حية",
+      "تجربة طاولة الشيف VIP متوفرة"
+    ],
+    "cons_ar": [
+      "الأسعار مرتفعة (587 ريال للبوفيه)",
+      "يمتلئ بسرعة ويحتاج حجز مسبق"
+    ],
+    "cons": [
+      "الأسعار مرتفعة (587 ريال للبوفيه)",
+      "يمتلئ بسرعة ويحتاج حجز مسبق"
+    ],
+    "best_time": "احجز قبل رمضان بأسبوعين",
+    "avg_spend": "٥٨٧ ريال بوفيه / ٧٩٩ ريال طاولة الشيف VIP",
+    "google_maps_url": "https://maps.google.com/?q=Four+Seasons+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&h=300&fit=crop",
+    "lat": 24.7117,
+    "lng": 46.6741,
+    "audience": ["عوائل", "أزواج", "مجموعات"],
+    "is_free": false,
+    "ramadan_price_iftar": "587 ريال شامل الضريبة",
+    "ramadan_price_vip": "799 ريال طاولة الشيف VIP",
+    "ramadan_booking": "fourseasons.com/riyadh أو الاتصال المباشر"
+  },
+  {
+    "id": "holiday-inn-olaya-ramadan",
+    "name_ar": "بوفيه إفطار فندق هوليداي إن العليا",
+    "name_en": "Holiday Inn Olaya Iftar Buffet",
+    "category": "بوفيه إفطار",
+    "category_ar": "بوفيه إفطار",
+    "category_en": "iftar_buffet",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "بوفيه إفطار رمضاني متنوع يشمل الشوربات والمقبلات والأطباق السعودية والعالمية. التوقيت من أذان المغرب حتى الساعة 8:30 مساءً. خيار ممتاز بسعر متوسط مقارنة بالفنادق الفاخرة.",
+    "google_rating": 4.1,
+    "review_count": 980,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "ramadan": true,
+    "ramadan_iftar": true,
+    "ramadan_suhoor": false,
+    "ramadan_tent": false,
+    "ramadan_category": "iftar",
+    "review_quote_ar": "بوفيه إفطار متنوع بسعر معقول، مناسب للعوائل والمجموعات",
+    "review_quote": "بوفيه إفطار متنوع بسعر معقول، مناسب للعوائل والمجموعات",
+    "pros_ar": [
+      "أسعار معقولة مقارنة بالفنادق الفاخرة",
+      "بوفيه متنوع شامل",
+      "موقع مركزي في العليا"
+    ],
+    "pros": [
+      "أسعار معقولة مقارنة بالفنادق الفاخرة",
+      "بوفيه متنوع شامل",
+      "موقع مركزي في العليا"
+    ],
+    "cons_ar": [
+      "وقت محدود (حتى 8:30 مساءً)",
+      "المكان ليس فاخراً جداً"
+    ],
+    "cons": [
+      "وقت محدود (حتى 8:30 مساءً)",
+      "المكان ليس فاخراً جداً"
+    ],
+    "best_time": "أيام الأسبوع",
+    "avg_spend": "١٥٠-٢٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Holiday+Inn+Olaya+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop",
+    "lat": 24.6908,
+    "lng": 46.6884,
+    "audience": ["عوائل", "رجال أعمال"],
+    "is_free": false,
+    "ramadan_price_iftar": "150-200 ريال/شخص",
+    "ramadan_booking": "الاتصال المباشر"
+  },
+  {
+    "id": "doubletree-hilton-ramadan",
+    "name_ar": "بوفيه إفطار فندق دبل تري هيلتون المروج",
+    "name_en": "DoubleTree by Hilton Ramadan Iftar",
+    "category": "بوفيه إفطار",
+    "category_ar": "بوفيه إفطار",
+    "category_en": "iftar_buffet",
+    "neighborhood": "حي المروج",
+    "neighborhood_en": "Muruj",
+    "description_ar": "تجربة رمضانية عائلية راقية مع بوفيه عالمي متنوع يضم مأكولات عربية وغربية وحلويات رمضانية. أجواء أنيقة ومريحة مناسبة للعوائل.",
+    "google_rating": 4.2,
+    "review_count": 750,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "ramadan": true,
+    "ramadan_iftar": true,
+    "ramadan_suhoor": false,
+    "ramadan_tent": false,
+    "ramadan_category": "iftar",
+    "review_quote_ar": "بوفيه عالمي متنوع بأجواء عائلية مريحة، خيار جيد بسعر معقول",
+    "review_quote": "بوفيه عالمي متنوع بأجواء عائلية مريحة، خيار جيد بسعر معقول",
+    "pros_ar": [
+      "بوفيه متنوع عربي وغربي",
+      "أجواء عائلية مريحة",
+      "حلويات رمضانية لذيذة"
+    ],
+    "pros": [
+      "بوفيه متنوع عربي وغربي",
+      "أجواء عائلية مريحة",
+      "حلويات رمضانية لذيذة"
+    ],
+    "cons_ar": [
+      "المكان ليس كبيراً جداً",
+      "الموقف محدود"
+    ],
+    "cons": [
+      "المكان ليس كبيراً جداً",
+      "الموقف محدود"
+    ],
+    "best_time": "أيام الأسبوع",
+    "avg_spend": "١٨٠-٢٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=DoubleTree+Hilton+Muroj+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop",
+    "lat": 24.7342,
+    "lng": 46.6571,
+    "audience": ["عوائل"],
+    "is_free": false,
+    "ramadan_price_iftar": "180-250 ريال/شخص",
+    "ramadan_booking": "الاتصال المباشر"
+  },
+  {
+    "id": "holiday-inn-izdihar-ramadan",
+    "name_ar": "بوفيه إفطار فندق هوليداي إن الازدهار",
+    "name_en": "Holiday Inn Izdihar Iftar Buffet",
+    "category": "بوفيه إفطار",
+    "category_ar": "بوفيه إفطار",
+    "category_en": "iftar_buffet",
+    "neighborhood": "حي الازدهار",
+    "neighborhood_en": "Izdihar",
+    "description_ar": "بوفيه إفطار رمضان يشمل تشكيلة من الأطباق العالمية والشرق أوسطية ومشروبات وحلويات رمضان. يضم مجموعة مختارة من الشوربات والسلطات والأطباق الرئيسية والحلويات والمشروبات الرمضانية. حجز عبر الواتساب.",
+    "google_rating": 4.0,
+    "review_count": 620,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "ramadan": true,
+    "ramadan_iftar": true,
+    "ramadan_suhoor": false,
+    "ramadan_tent": false,
+    "ramadan_category": "iftar",
+    "review_quote_ar": "بوفيه متنوع بسعر اقتصادي، حجز سهل عبر الواتساب",
+    "review_quote": "بوفيه متنوع بسعر اقتصادي، حجز سهل عبر الواتساب",
+    "pros_ar": [
+      "أسعار اقتصادية",
+      "حجز سهل عبر الواتساب",
+      "تنوع في الأطباق"
+    ],
+    "pros": [
+      "أسعار اقتصادية",
+      "حجز سهل عبر الواتساب",
+      "تنوع في الأطباق"
+    ],
+    "cons_ar": [
+      "المكان متواضع مقارنة بفنادق 5 نجوم"
+    ],
+    "cons": [
+      "المكان متواضع مقارنة بفنادق 5 نجوم"
+    ],
+    "best_time": "أيام الأسبوع",
+    "avg_spend": "١٠٠-١٥٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Holiday+Inn+Izdihar+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=300&fit=crop",
+    "lat": 24.7536,
+    "lng": 46.7134,
+    "audience": ["عوائل", "اقتصادي"],
+    "is_free": false,
+    "ramadan_price_iftar": "100-150 ريال/شخص",
+    "ramadan_booking": "واتساب: +9665366631211"
+  },
+  {
+    "id": "crown-plaza-ramadan",
+    "name_ar": "بوفيه إفطار كراون بلازا قصر الرياض",
+    "name_en": "Crowne Plaza Riyadh Palace Iftar",
+    "category": "بوفيه إفطار",
+    "category_ar": "بوفيه إفطار",
+    "category_en": "iftar_buffet",
+    "neighborhood": "حي المعذر",
+    "neighborhood_en": "Mathar",
+    "description_ar": "بوفيه إفطار شرقي وعالمي في فندق 5 نجوم بسعر مناسب. يشمل مقبلات وشوربات وأطباق رئيسية متنوعة وحلويات رمضانية. خيار ممتاز لمن يبحث عن جودة فندقية بسعر معقول.",
+    "google_rating": 4.1,
+    "review_count": 850,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "ramadan": true,
+    "ramadan_iftar": true,
+    "ramadan_suhoor": false,
+    "ramadan_tent": false,
+    "ramadan_category": "iftar",
+    "review_quote_ar": "فندق 5 نجوم بسعر معقول، البوفيه الشرقي ممتاز والخدمة جيدة",
+    "review_quote": "فندق 5 نجوم بسعر معقول، البوفيه الشرقي ممتاز والخدمة جيدة",
+    "pros_ar": [
+      "فندق 5 نجوم بسعر معقول",
+      "بوفيه شرقي وعالمي",
+      "موقع جيد"
+    ],
+    "pros": [
+      "فندق 5 نجوم بسعر معقول",
+      "بوفيه شرقي وعالمي",
+      "موقع جيد"
+    ],
+    "cons_ar": [
+      "المكان كلاسيكي وليس عصرياً"
+    ],
+    "cons": [
+      "المكان كلاسيكي وليس عصرياً"
+    ],
+    "best_time": "أيام الأسبوع",
+    "avg_spend": "١٣٩-١٤٩ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Crowne+Plaza+Riyadh+Palace",
+    "image_url": "https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?w=400&h=300&fit=crop",
+    "lat": 24.6934,
+    "lng": 46.6756,
+    "audience": ["عوائل", "اقتصادي"],
+    "is_free": false,
+    "ramadan_price_iftar": "139-149 ريال/شخص",
+    "ramadan_booking": "cobone.com أو الاتصال المباشر"
+  },
+  {
+    "id": "diriyah-ramadan-2026",
+    "name_ar": "ليالي رمضان في الدرعية — مطل البجيري",
+    "name_en": "Diriyah Ramadan Nights - Bujairi Terrace",
+    "category": "فعالية رمضانية",
+    "category_ar": "فعالية رمضانية",
+    "category_en": "ramadan_event",
+    "neighborhood": "الدرعية التاريخية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "مطل البجيري في الدرعية يقدم تجربة سحور فاخرة وإطلالة تراثية بين أشجار النخيل والمباني الطينية التاريخية. جلسات في الهواء الطلق مع فعاليات ثقافية وأمسيات شعرية. يعمل من 12:00 صباحاً حتى 3:00 صباحاً. الوجهة الأولى لمحبي التراث في رمضان 2026.",
+    "google_rating": 4.6,
+    "review_count": 3500,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "ramadan": true,
+    "ramadan_iftar": false,
+    "ramadan_suhoor": true,
+    "ramadan_tent": false,
+    "ramadan_category": "suhoor",
+    "review_quote_ar": "سحور تحت النجوم في الدرعية التاريخية، تجربة لا تتكرر ومكان مذهل",
+    "review_quote": "سحور تحت النجوم في الدرعية التاريخية، تجربة لا تتكرر ومكان مذهل",
+    "pros_ar": [
+      "إطلالة تراثية فريدة",
+      "جلسات في الهواء الطلق",
+      "فعاليات ثقافية وأمسيات شعرية",
+      "الطقس الشتوي المعتدل مثالي"
+    ],
+    "pros": [
+      "إطلالة تراثية فريدة",
+      "جلسات في الهواء الطلق",
+      "فعاليات ثقافية وأمسيات شعرية",
+      "الطقس الشتوي المعتدل مثالي"
+    ],
+    "cons_ar": [
+      "يحتاج حجز مسبق",
+      "الموقع بعيد عن وسط الرياض"
+    ],
+    "cons": [
+      "يحتاج حجز مسبق",
+      "الموقع بعيد عن وسط الرياض"
+    ],
+    "best_time": "12:00 ص - 3:00 ص",
+    "avg_spend": "٢٠٠-٤٠٠ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Bujairi+Terrace+Diriyah",
+    "image_url": "https://images.unsplash.com/photo-1590077428593-a55bb07c4665?w=400&h=300&fit=crop",
+    "lat": 24.7336,
+    "lng": 46.5723,
+    "audience": ["عوائل", "أزواج", "محبي التراث"],
+    "is_free": false,
+    "ramadan_price_suhoor": "200-400 ريال/شخص",
+    "ramadan_booking": "الموقع الرسمي للدرعية"
+  },
+  {
+    "id": "boulevard-world-ramadan-2026",
+    "name_ar": "ليالي رمضان — بوليفارد وورلد",
+    "name_en": "Boulevard World Ramadan Nights",
+    "category": "فعالية رمضانية",
+    "category_ar": "فعالية رمضانية",
+    "category_en": "ramadan_event",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "ضمن تمديد فعاليات موسم الرياض 2026، تتكيف مناطق البوليفارد لتناسب الشهر الكريم. أسواق عالمية تحتفل بثقافات العالم في رمضان مع بضائع وأطعمة من مختلف القارات. عروض درونز وإضاءة فانوسية يومية. ترفيه عائلي ومقاهي ليلية من 9:00 مساءً حتى 4:00 صباحاً.",
+    "google_rating": 4.3,
+    "review_count": 12000,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "ramadan": true,
+    "ramadan_iftar": false,
+    "ramadan_suhoor": true,
+    "ramadan_tent": false,
+    "ramadan_category": "events",
+    "review_quote_ar": "أجواء رمضانية مختلفة مع الأسواق العالمية والعروض الضوئية، مكان ممتاز للعوائل بعد الإفطار",
+    "review_quote": "أجواء رمضانية مختلفة مع الأسواق العالمية والعروض الضوئية، مكان ممتاز للعوائل بعد الإفطار",
+    "pros_ar": [
+      "أسواق عالمية متنوعة",
+      "عروض درونز وإضاءة يومية",
+      "مناسب للعوائل والأطفال",
+      "مقاهي ومطاعم ليلية كثيرة"
+    ],
+    "pros": [
+      "أسواق عالمية متنوعة",
+      "عروض درونز وإضاءة يومية",
+      "مناسب للعوائل والأطفال",
+      "مقاهي ومطاعم ليلية كثيرة"
+    ],
+    "cons_ar": [
+      "ازدحام شديد عطلة نهاية الأسبوع",
+      "رسوم دخول"
+    ],
+    "cons": [
+      "ازدحام شديد عطلة نهاية الأسبوع",
+      "رسوم دخول"
+    ],
+    "best_time": "أيام الأسبوع 9:00 م - 4:00 ص",
+    "avg_spend": "٥٠-١٥٠ ريال",
+    "google_maps_url": "https://maps.google.com/?q=Boulevard+World+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=400&h=300&fit=crop",
+    "lat": 24.7635,
+    "lng": 46.6341,
+    "audience": ["عوائل", "شباب", "أطفال"],
+    "is_free": false,
+    "ramadan_booking": "riyadhseason.sa"
+  },
+  {
+    "id": "jax-district-ramadan-2026",
+    "name_ar": "حي جاكس — جولات فنية رمضانية",
+    "name_en": "JAX District Ramadan Art Walks",
+    "category": "فعالية رمضانية",
+    "category_ar": "فعالية رمضانية",
+    "category_en": "ramadan_event",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "بينالي الدرعية للفن المعاصر يفتح أبوابه ليلاً في رمضان في حي جاكس الفني. جولات فنية وثقافية تمزج بين الروحانية والفن الإبداعي. الأوقات المفضلة من 10:00 مساءً حتى 2:00 صباحاً.",
+    "google_rating": 4.5,
+    "review_count": 2200,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "ramadan": true,
+    "ramadan_iftar": false,
+    "ramadan_suhoor": false,
+    "ramadan_tent": false,
+    "ramadan_category": "events",
+    "review_quote_ar": "تجربة فنية فريدة في أجواء رمضانية هادئة، المعارض ليلاً شيء مختلف تماماً",
+    "review_quote": "تجربة فنية فريدة في أجواء رمضانية هادئة، المعارض ليلاً شيء مختلف تماماً",
+    "pros_ar": [
+      "تجربة فنية فريدة",
+      "أجواء هادئة وراقية",
+      "مفتوح ليلاً في رمضان"
+    ],
+    "pros": [
+      "تجربة فنية فريدة",
+      "أجواء هادئة وراقية",
+      "مفتوح ليلاً في رمضان"
+    ],
+    "cons_ar": [
+      "الموقع بعيد",
+      "قد لا يناسب الأطفال الصغار"
+    ],
+    "cons": [
+      "الموقع بعيد",
+      "قد لا يناسب الأطفال الصغار"
+    ],
+    "best_time": "10:00 م - 2:00 ص",
+    "avg_spend": "مجاني - ١٠٠ ريال",
+    "google_maps_url": "https://maps.google.com/?q=JAX+District+Diriyah",
+    "image_url": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=400&h=300&fit=crop",
+    "lat": 24.7310,
+    "lng": 46.5780,
+    "audience": ["شباب", "أزواج", "محبي الفن"],
+    "is_free": true
+  },
+  {
+    "id": "wadi-namar-ramadan-walks",
+    "name_ar": "ممشى وادي نمار — مشي بعد الإفطار",
+    "name_en": "Wadi Namar Ramadan Evening Walks",
+    "category": "نشاط رمضاني",
+    "category_ar": "نشاط رمضاني",
+    "category_en": "ramadan_activity",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "بفضل الطقس الشتوي المعتدل في فبراير ومارس 2026، يعد المشي حول بحيرة وادي نمار بعد الإفطار نشاطاً عائلياً مفضلاً. الممرات مضاءة بالكامل والأجواء ممتازة. نشاط صحي ومجاني مثالي بعد وجبة الإفطار.",
+    "google_rating": 4.4,
+    "review_count": 8500,
+    "price_level": "مجاني",
+    "trending": true,
+    "is_new": false,
+    "ramadan": true,
+    "ramadan_iftar": false,
+    "ramadan_suhoor": false,
+    "ramadan_tent": false,
+    "ramadan_category": "events",
+    "review_quote_ar": "المشي حول البحيرة بعد الإفطار في الطقس المعتدل تجربة رائعة، الممرات مضاءة وآمنة",
+    "review_quote": "المشي حول البحيرة بعد الإفطار في الطقس المعتدل تجربة رائعة، الممرات مضاءة وآمنة",
+    "pros_ar": [
+      "مجاني تماماً",
+      "الطقس الشتوي المعتدل مثالي",
+      "ممرات مضاءة وآمنة",
+      "مناسب لجميع الأعمار"
+    ],
+    "pros": [
+      "مجاني تماماً",
+      "الطقس الشتوي المعتدل مثالي",
+      "ممرات مضاءة وآمنة",
+      "مناسب لجميع الأعمار"
+    ],
+    "cons_ar": [
+      "ازدحام بعد الإفطار مباشرة",
+      "لا توجد مطاعم كثيرة بالقرب"
+    ],
+    "cons": [
+      "ازدحام بعد الإفطار مباشرة",
+      "لا توجد مطاعم كثيرة بالقرب"
+    ],
+    "best_time": "بعد صلاة العشاء",
+    "avg_spend": "مجاني",
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Namar+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+    "lat": 24.5756,
+    "lng": 46.6934,
+    "audience": ["عوائل", "الجميع"],
+    "is_free": true
+  },
+  {
+    "id": "padel-ramadan-tournaments",
+    "name_ar": "بطولات البادل الرمضانية الليلية",
+    "name_en": "Ramadan Night Padel Tournaments",
+    "category": "نشاط رياضي",
+    "category_ar": "نشاط رياضي",
+    "category_en": "ramadan_sport",
+    "neighborhood": "مواقع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "دوريات بادل ليلية في ملاعب الرياض (مثل Padel P1) تستمر حتى ساعات الفجر. وجهة مثالية للشباب الباحثين عن النشاط البدني بعد الإفطار. أجواء تنافسية ممتعة مع مجتمع رياضي نشط.",
+    "google_rating": 4.3,
+    "review_count": 1500,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "ramadan": true,
+    "ramadan_iftar": false,
+    "ramadan_suhoor": false,
+    "ramadan_tent": false,
+    "ramadan_category": "events",
+    "review_quote_ar": "أفضل نشاط بعد الإفطار، البادل الليلي في رمضان تجربة حلوة وصحية",
+    "review_quote": "أفضل نشاط بعد الإفطار، البادل الليلي في رمضان تجربة حلوة وصحية",
+    "pros_ar": [
+      "نشاط صحي بعد الإفطار",
+      "أجواء تنافسية ممتعة",
+      "مفتوح حتى ساعات الفجر"
+    ],
+    "pros": [
+      "نشاط صحي بعد الإفطار",
+      "أجواء تنافسية ممتعة",
+      "مفتوح حتى ساعات الفجر"
+    ],
+    "cons_ar": [
+      "يحتاج حجز مسبق",
+      "للشباب أكثر"
+    ],
+    "cons": [
+      "يحتاج حجز مسبق",
+      "للشباب أكثر"
+    ],
+    "best_time": "بعد التراويح حتى الفجر",
+    "avg_spend": "٧٥-١٥٠ ريال",
+    "google_maps_url": "https://maps.google.com/?q=Padel+P1+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=400&h=300&fit=crop",
+    "lat": 24.7200,
+    "lng": 46.6500,
+    "audience": ["شباب"],
+    "is_free": false
+  },
+  {
+    "id": "ramadan-bazaar-riyadh-2026",
+    "name_ar": "بازار رمضان الرياض 2026",
+    "name_en": "Riyadh Ramadan Bazaar 2026",
+    "category": "سوق رمضاني",
+    "category_ar": "سوق رمضاني",
+    "category_en": "ramadan_market",
+    "neighborhood": "حي الحمراء",
+    "neighborhood_en": "Hamra",
+    "description_ar": "سوق رمضاني سنوي يضم محلات حلويات ومأكولات رمضانية تقليدية ومنتجات يدوية سعودية. أسعار معقولة وأجواء تراثية جميلة. مكان ممتاز لشراء هدايا رمضانية ومنتجات موسمية وقطايف وكنافة طازجة.",
+    "google_rating": 4.2,
+    "review_count": 1800,
+    "price_level": "$",
+    "trending": true,
+    "is_new": false,
+    "ramadan": true,
+    "ramadan_iftar": false,
+    "ramadan_suhoor": false,
+    "ramadan_tent": false,
+    "ramadan_category": "events",
+    "review_quote_ar": "بازار رمضاني تراثي جميل، حلويات طازجة ومنتجات يدوية سعودية بأسعار ممتازة",
+    "review_quote": "بازار رمضاني تراثي جميل، حلويات طازجة ومنتجات يدوية سعودية بأسعار ممتازة",
+    "pros_ar": [
+      "أسعار معقولة جداً",
+      "حلويات رمضانية طازجة",
+      "منتجات يدوية سعودية",
+      "أجواء تراثية"
+    ],
+    "pros": [
+      "أسعار معقولة جداً",
+      "حلويات رمضانية طازجة",
+      "منتجات يدوية سعودية",
+      "أجواء تراثية"
+    ],
+    "cons_ar": [
+      "ازدحام في عطلة نهاية الأسبوع",
+      "مواقف محدودة"
+    ],
+    "cons": [
+      "ازدحام في عطلة نهاية الأسبوع",
+      "مواقف محدودة"
+    ],
+    "best_time": "بعد الإفطار أيام الأسبوع",
+    "avg_spend": "٣٠-١٠٠ ريال",
+    "google_maps_url": "https://maps.google.com/?q=Ramadan+Bazaar+Riyadh+Hamra",
+    "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&h=300&fit=crop",
+    "lat": 24.6450,
+    "lng": 46.7120,
+    "audience": ["عوائل", "الجميع"],
+    "is_free": true
+  },
+  {
+    "id": "ramada-riyadh-iftar",
+    "name_ar": "بوفيه إفطار فندق رمادا الرياض",
+    "name_en": "Ramada Riyadh Iftar Buffet",
+    "category": "بوفيه إفطار",
+    "category_ar": "بوفيه إفطار",
+    "category_en": "iftar_buffet",
+    "neighborhood": "حي المعذر",
+    "neighborhood_en": "Mathar",
+    "description_ar": "بوفيه إفطار مفتوح اقتصادي يشمل مقبلات وأطباق رئيسية متنوعة في فندق رمادا الرياض. خيار ممتاز لمن يبحث عن إفطار فندقي بسعر اقتصادي لا يتجاوز 89 ريال للشخص.",
+    "google_rating": 3.9,
+    "review_count": 450,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "ramadan": true,
+    "ramadan_iftar": true,
+    "ramadan_suhoor": false,
+    "ramadan_tent": false,
+    "ramadan_category": "iftar",
+    "review_quote_ar": "إفطار فندقي بسعر اقتصادي جداً، مناسب للميزانيات المحدودة",
+    "review_quote": "إفطار فندقي بسعر اقتصادي جداً، مناسب للميزانيات المحدودة",
+    "pros_ar": [
+      "سعر اقتصادي جداً (89 ريال)",
+      "بوفيه مفتوح",
+      "فندق نظيف ومرتب"
+    ],
+    "pros": [
+      "سعر اقتصادي جداً (89 ريال)",
+      "بوفيه مفتوح",
+      "فندق نظيف ومرتب"
+    ],
+    "cons_ar": [
+      "التنوع محدود مقارنة بالفنادق الفاخرة",
+      "المكان بسيط"
+    ],
+    "cons": [
+      "التنوع محدود مقارنة بالفنادق الفاخرة",
+      "المكان بسيط"
+    ],
+    "best_time": "أيام الأسبوع",
+    "avg_spend": "٨٩ ريال للشخص",
+    "google_maps_url": "https://maps.google.com/?q=Ramada+Hotel+Riyadh",
+    "image_url": "https://images.unsplash.com/photo-1559329007-40df8a9345d8?w=400&h=300&fit=crop",
+    "lat": 24.6920,
+    "lng": 46.6800,
+    "audience": ["عوائل", "اقتصادي"],
+    "is_free": false,
+    "ramadan_price_iftar": "89 ريال/شخص",
+    "ramadan_booking": "الاتصال المباشر"
+  }
+]
