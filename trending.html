@@ -3,20 +3,24 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>هابّ الحين 🔥 - الأماكن الأكثر ازدحاماً الآن | وين نروح بالرياض؟</title>
-  <meta name="description" content="اكتشف الأماكن الأكثر ازدحاماً في الرياض الحين! تابع مستوى الازدحام في الكافيهات والمطاعم والأماكن الترفيهية لحظة بلحظة.">
-  <meta name="keywords" content="أماكن مزدحمة الرياض, الأماكن الرائجة الرياض, ازدحام كافيهات الرياض, popular times riyadh">
+  <title>هابّ الحين 🔥 - خريطة الحرارة | وين نروح بالرياض؟</title>
+  <meta name="description" content="خريطة حرارة أماكن الرياض — اكتشف أكثر 20 مكان رائج الحين! تقييمات، افتتاحات جديدة، والأماكن اللي الكل يتكلم عنها.">
+  <meta name="keywords" content="أماكن مزدحمة الرياض, الأماكن الرائجة الرياض, heat map riyadh, popular places riyadh">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://wain-nrooh.com/trending.html">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="هابّ الحين 🔥 - أماكن الرياض الرائجة الآن">
-  <meta property="og:description" content="شوف وش الأماكن اللي هابّة الحين بالرياض! ازدحام لحظي لكل مكان.">
+  <meta property="og:title" content="هابّ الحين 🔥 - خريطة حرارة أماكن الرياض">
+  <meta property="og:description" content="شوف أكثر 20 مكان رائج بالرياض على خريطة الحرارة التفاعلية!">
   <meta property="og:url" content="https://wain-nrooh.com/trending.html">
   <meta property="og:locale" content="ar_SA">
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#0a1628">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/ramadan.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+  <link rel="stylesheet" href="css/search-header.css">
 </head>
 <body>
 
@@ -33,6 +37,7 @@
         <a href="events.html">فعاليات</a>
         <a href="new-places.html">جديد</a>
         <a href="discover.html">🎲 وين نروح؟</a>
+        <a href="lists.html">📋 قوائمي</a>
         <div class="nav-dropdown">
           <a href="#">المزيد</a>
           <div class="dropdown-menu">
@@ -78,49 +83,54 @@
 
   <section class="page-header">
     <h2>🔥 هابّ <span>الحين</span></h2>
-    <p>الأماكن الأكثر ازدحاماً في الرياض هذي اللحظة — محدث تلقائياً حسب الوقت</p>
+    <p>خريطة الحرارة — أكثر 20 مكان رائج بالرياض مع أسباب الرواج والتقييمات</p>
   </section>
 
   <div class="breadcrumb">
     <a href="index.html">الرئيسية</a> <span>›</span> هابّ الحين 🔥
   </div>
 
-  <div style="max-width: var(--max-width, 1200px); margin: 20px auto; padding: 0 20px;">
-    <!-- Live Status Banner -->
-    <div id="live-status" class="live-status-banner">
+  <div class="heatmap-container">
+    <!-- Last Update Banner -->
+    <div class="heatmap-update-banner">
       <div class="live-dot"></div>
       <span id="live-time">جاري التحميل...</span>
+      <span class="update-separator">|</span>
+      <span id="last-update">آخر تحديث: ...</span>
     </div>
 
-    <!-- Category Filter -->
-    <div class="filter-tabs" id="category-filters">
+    <!-- Heat Map Legend -->
+    <div class="heatmap-legend">
+      <span class="legend-title">مفتاح الخريطة:</span>
+      <span class="legend-item"><span class="legend-dot" style="background:#e74c3c;"></span> 🔴 حار جداً</span>
+      <span class="legend-item"><span class="legend-dot" style="background:#f39c12;"></span> 🟡 رائج</span>
+      <span class="legend-item"><span class="legend-dot" style="background:#2ecc71;"></span> 🟢 عادي</span>
+    </div>
+
+    <!-- Category Filter Tabs -->
+    <div class="filter-tabs" id="heat-category-filters">
       <button class="filter-tab active" data-cat="all">🏙️ الكل</button>
-      <button class="filter-tab" data-cat="cafe">☕ كافيهات</button>
       <button class="filter-tab" data-cat="restaurant">🍽️ مطاعم</button>
-      <button class="filter-tab" data-cat="activity">🎭 ترفيه</button>
+      <button class="filter-tab" data-cat="cafe">☕ كافيهات</button>
+      <button class="filter-tab" data-cat="entertainment">🎮 ترفيه</button>
+      <button class="filter-tab" data-cat="activity">🎭 أنشطة</button>
       <button class="filter-tab" data-cat="shopping">🛍️ تسوق</button>
-      <button class="filter-tab" data-cat="entertainment">🎮 ألعاب</button>
-      <button class="filter-tab" data-cat="nature">🏞️ طبيعة</button>
       <button class="filter-tab" data-cat="desserts">🍰 حلويات</button>
-      <button class="filter-tab" data-cat="events">🎪 فعاليات</button>
+      <button class="filter-tab" data-cat="nature">🏞️ طبيعة</button>
     </div>
 
-    <!-- Results Count -->
-    <div class="sort-filter-bar" style="margin-bottom: 20px;">
-      <div class="results-count" id="results-count">جاري التحميل...</div>
-      <div class="sort-filter-controls">
-        <select class="sort-select" id="busyness-filter">
-          <option value="all">كل المستويات</option>
-          <option value="very_busy">🔴 مزدحم جداً</option>
-          <option value="busy">🔴 مزدحم</option>
-          <option value="moderate">🟡 معتدل</option>
-          <option value="quiet">🟢 هادي</option>
-        </select>
+    <!-- Heat Map -->
+    <div id="heatmap" class="heatmap-map"></div>
+
+    <!-- Top 20 Section -->
+    <div class="heatmap-top-section">
+      <div class="heatmap-top-header">
+        <h2>🏆 أكثر 20 مكان رواجاً</h2>
+        <span id="top-count" class="heatmap-count"></span>
       </div>
-    </div>
 
-    <!-- Trending Grid -->
-    <div id="trending-container" class="cards-grid"></div>
+      <div id="heatmap-cards" class="heatmap-cards-grid"></div>
+    </div>
   </div>
 
   <footer class="footer">
@@ -141,9 +151,10 @@
           <li><a href="events.html">فعاليات الرياض</a></li>
           <li><a href="trending.html">هابّ الحين 🔥</a></li>
           <li><a href="top-rated.html">الأعلى تقييماً</a></li>
-          <li><a href="new-places.html">أماكن جديدة</a>
-        <a href="map.html">🗺️ الخريطة</a>
-        <a href="favorites.html">❤️ المفضلة</a></li>
+          <li><a href="new-places.html">أماكن جديدة</a></li>
+          <li><a href="lists.html">📋 قوائمي</a></li>
+          <li><a href="map.html">🗺️ الخريطة</a></li>
+          <li><a href="favorites.html">❤️ المفضلة</a></li>
         </ul>
       </div>
       <div>
@@ -162,7 +173,14 @@
   <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
 
   <style>
-    .live-status-banner {
+    .heatmap-container {
+      max-width: var(--max-width, 1200px);
+      margin: 20px auto;
+      padding: 0 20px;
+    }
+
+    /* Update Banner */
+    .heatmap-update-banner {
       display: flex;
       align-items: center;
       gap: 10px;
@@ -170,9 +188,10 @@
       background: linear-gradient(135deg, var(--primary), var(--primary-light));
       color: white;
       border-radius: var(--radius);
-      margin-bottom: 20px;
-      font-size: 15px;
+      margin-bottom: 16px;
+      font-size: 14px;
       font-weight: 600;
+      flex-wrap: wrap;
     }
     .live-dot {
       width: 10px;
@@ -186,58 +205,160 @@
       0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(46,204,113,0.4); }
       50% { opacity: 0.7; box-shadow: 0 0 0 8px rgba(46,204,113,0); }
     }
+    .update-separator { opacity: 0.4; }
+    #last-update { opacity: 0.8; font-size: 13px; }
 
-    .trending-card-image {
+    /* Legend */
+    .heatmap-legend {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      padding: 12px 18px;
+      background: var(--card-bg);
+      border-radius: var(--radius-sm);
+      margin-bottom: 16px;
+      box-shadow: var(--shadow);
+      flex-wrap: wrap;
+      font-size: 13px;
+    }
+    .legend-title { font-weight: 700; color: var(--primary); }
+    .legend-item { display: inline-flex; align-items: center; gap: 6px; color: var(--text-light); }
+    .legend-dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+
+    /* Heat Map */
+    .heatmap-map {
+      width: 100%;
+      height: 50vh;
+      min-height: 350px;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      margin-bottom: 24px;
+      z-index: 1;
+    }
+
+    /* Leaflet popup */
+    .leaflet-popup-content-wrapper {
+      border-radius: 16px !important;
+      font-family: 'Tajawal', sans-serif !important;
+      direction: rtl;
+      box-shadow: 0 8px 30px rgba(0,0,0,0.2) !important;
+    }
+    .leaflet-popup-content { margin: 12px 16px !important; }
+
+    /* Top section */
+    .heatmap-top-section { margin-top: 8px; }
+    .heatmap-top-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .heatmap-top-header h2 {
+      font-size: 24px;
+      font-weight: 800;
+      color: var(--primary);
+      margin: 0;
+    }
+    .heatmap-count {
+      font-size: 14px;
+      color: var(--text-muted);
+      font-weight: 600;
+    }
+
+    /* Heatmap card grid */
+    .heatmap-cards-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 20px;
+    }
+
+    /* Individual Heat Card */
+    .heat-card {
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+      transition: all 0.3s ease;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      border-top: 4px solid var(--gold);
+      animation: fadeInUp 0.5s ease forwards;
+      opacity: 0;
+    }
+    .heat-card:nth-child(1) { animation-delay: 0.03s; }
+    .heat-card:nth-child(2) { animation-delay: 0.06s; }
+    .heat-card:nth-child(3) { animation-delay: 0.09s; }
+    .heat-card:nth-child(4) { animation-delay: 0.12s; }
+    .heat-card:nth-child(5) { animation-delay: 0.15s; }
+    .heat-card:nth-child(6) { animation-delay: 0.18s; }
+    .heat-card:nth-child(7) { animation-delay: 0.21s; }
+    .heat-card:nth-child(8) { animation-delay: 0.24s; }
+    .heat-card:nth-child(9) { animation-delay: 0.27s; }
+    .heat-card:nth-child(10) { animation-delay: 0.30s; }
+    .heat-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 40px rgba(10,22,40,0.15);
+    }
+
+    .heat-card-image {
       width: 100%;
       height: 160px;
       background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
       position: relative;
       overflow: hidden;
     }
-    .trending-card-image img {
+    .heat-card-image img {
       width: 100%;
       height: 100%;
       object-fit: cover;
     }
-    .trending-card-image .rank-overlay {
+
+    /* Rank badge */
+    .heat-rank {
       position: absolute;
-      top: 10px;
-      right: 10px;
-      width: 36px;
-      height: 36px;
-      background: linear-gradient(135deg, var(--gold), var(--gold-dark));
-      color: var(--primary);
-      border-radius: 10px;
+      top: 12px;
+      right: 12px;
+      width: 40px;
+      height: 40px;
+      border-radius: 12px;
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: 16px;
+      font-size: 18px;
       font-weight: 900;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+      box-shadow: 0 3px 12px rgba(0,0,0,0.3);
+      z-index: 2;
     }
-    .trending-card-image .rank-overlay.rank-1 { background: linear-gradient(135deg, #FFD700, #FFA500); }
-    .trending-card-image .rank-overlay.rank-2 { background: linear-gradient(135deg, #C0C0C0, #A0A0A0); }
-    .trending-card-image .rank-overlay.rank-3 { background: linear-gradient(135deg, #CD7F32, #A0522D); color: #fff; }
-    .trending-card-image .busyness-overlay {
+    .heat-rank-1 { background: linear-gradient(135deg, #FFD700, #FFA500); color: #333; font-size: 20px; width: 46px; height: 46px; }
+    .heat-rank-2 { background: linear-gradient(135deg, #C0C0C0, #A0A0A0); color: #333; }
+    .heat-rank-3 { background: linear-gradient(135deg, #CD7F32, #A0522D); color: #fff; }
+    .heat-rank-default { background: var(--primary); color: var(--gold); }
+
+    /* Hotness badge on image */
+    .heat-tier-badge {
       position: absolute;
       bottom: 10px;
       left: 10px;
       padding: 5px 12px;
       border-radius: 8px;
-      font-size: 13px;
+      font-size: 12px;
       font-weight: 700;
       backdrop-filter: blur(6px);
+      color: #fff;
+      z-index: 2;
     }
-    .busyness-bg-quiet { background: rgba(46,204,113,0.85); color: #fff; }
-    .busyness-bg-moderate { background: rgba(243,156,18,0.85); color: #fff; }
-    .busyness-bg-busy { background: rgba(231,76,60,0.85); color: #fff; }
-    .busyness-bg-very_busy { background: rgba(192,57,43,0.9); color: #fff; }
-    .busyness-bg-closed { background: rgba(100,100,100,0.85); color: #fff; }
 
-    .trending-card-content {
-      padding: 14px 16px 16px;
+    /* Card content */
+    .heat-card-body {
+      padding: 16px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
     }
-    .trending-card-content .category-badge {
+    .heat-card-body .category-tag {
       display: inline-block;
       background: rgba(10,22,40,0.06);
       color: var(--primary);
@@ -246,74 +367,116 @@
       font-size: 12px;
       font-weight: 600;
       margin-bottom: 4px;
+      width: fit-content;
     }
-    .trending-card-content h3 {
+    .heat-card-body h3 {
       font-size: 17px;
-      font-weight: 700;
+      font-weight: 800;
       color: var(--primary);
       margin: 4px 0;
     }
-    .trending-card-content .neighborhood {
+    .heat-card-body .neighborhood-line {
       color: var(--text-muted);
       font-size: 13px;
       margin-bottom: 6px;
     }
-    .trending-card-content .neighborhood::before { content: "📍 "; }
+    .heat-card-body .neighborhood-line::before { content: "📍 "; }
 
-    .busyness-progress {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      margin: 10px 0;
-    }
-    .busyness-progress .bar-track {
-      flex: 1;
-      height: 8px;
-      background: var(--border);
-      border-radius: 4px;
-      overflow: hidden;
-    }
-    .busyness-progress .bar-fill {
-      height: 100%;
-      border-radius: 4px;
-      transition: width 0.6s ease;
-    }
-    .busyness-progress .bar-pct {
-      font-size: 14px;
-      font-weight: 800;
-      min-width: 40px;
-      text-align: center;
-    }
-
-    .trending-card-content .card-actions {
-      display: flex;
-      gap: 8px;
-      margin-top: 12px;
-    }
-
-    .trending-card-content .rating-line {
+    /* Rating row */
+    .heat-rating-row {
       display: flex;
       align-items: center;
       gap: 6px;
       font-size: 13px;
       color: var(--text-light);
-      margin-bottom: 4px;
+      margin-bottom: 8px;
     }
-    .trending-card-content .rating-line .stars { color: var(--gold); }
+    .heat-rating-row .stars { color: var(--gold); }
 
-    /* No results */
-    .trending-empty {
+    /* Trending Reasons */
+    .heat-reasons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 10px;
+    }
+    .heat-reason {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      background: rgba(201,168,76,0.1);
+      padding: 4px 10px;
+      border-radius: 6px;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--primary);
+    }
+
+    /* Hotness bar */
+    .heat-score-bar {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+    .heat-score-track {
+      flex: 1;
+      height: 6px;
+      background: var(--border);
+      border-radius: 3px;
+      overflow: hidden;
+    }
+    .heat-score-fill {
+      height: 100%;
+      border-radius: 3px;
+      transition: width 0.6s ease;
+    }
+    .heat-score-label {
+      font-size: 13px;
+      font-weight: 800;
+      min-width: 50px;
+      text-align: center;
+    }
+
+    /* Actions */
+    .heat-card-actions {
+      display: flex;
+      gap: 8px;
+      margin-top: auto;
+      padding-top: 10px;
+    }
+
+    /* Empty state */
+    .heatmap-empty {
       text-align: center;
       padding: 60px 20px;
       color: var(--text-muted);
+      grid-column: 1 / -1;
     }
-    .trending-empty .emoji { font-size: 64px; margin-bottom: 16px; }
-    .trending-empty h3 { font-size: 20px; color: var(--text); margin-bottom: 8px; }
+    .heatmap-empty .emoji { font-size: 64px; margin-bottom: 16px; }
+    .heatmap-empty h3 { font-size: 20px; color: var(--text); margin-bottom: 8px; }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .heatmap-map { height: 40vh; min-height: 280px; }
+      .heatmap-cards-grid { grid-template-columns: 1fr; }
+      .heatmap-top-header h2 { font-size: 20px; }
+      .heat-card-image { height: 140px; }
+      .heatmap-legend { gap: 10px; font-size: 12px; }
+    }
+    @media (max-width: 480px) {
+      .heatmap-container { padding: 0 12px; }
+      .heatmap-update-banner { font-size: 13px; padding: 12px 16px; }
+    }
   </style>
 
   <script src="js/main.js"></script>
   <script src="js/darkmode.js"></script>
   <script src="js/crowd.js"></script>
+  <script src="js/hotness.js"></script>
+  <script src="js/lists.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
   <script>
     const catIconMap = {
       'cafe': '☕', 'restaurant': '🍽️', 'activity': '🎭',
@@ -328,7 +491,8 @@
 
     let allPlaces = [];
     let currentCategory = 'all';
-    let currentBusynessFilter = 'all';
+    let heatMap = null;
+    let heatClusterGroup = null;
 
     function updateLiveTime() {
       const now = new Date();
@@ -341,89 +505,142 @@
       const dayName = dayNames[riyadh.getUTCDay()];
       document.getElementById('live-time').textContent =
         `مباشر · ${dayName} ${dh}:${String(m).padStart(2, '0')} ${ampm} بتوقيت الرياض`;
+      
+      const months = ['يناير','فبراير','مارس','أبريل','مايو','يونيو','يوليو','أغسطس','سبتمبر','أكتوبر','نوفمبر','ديسمبر'];
+      document.getElementById('last-update').textContent = 
+        `آخر تحديث: ${riyadh.getUTCDate()} ${months[riyadh.getUTCMonth()]} ${riyadh.getUTCFullYear()} · ${dh}:${String(m).padStart(2, '0')} ${ampm}`;
     }
 
-    function renderTrendingCard(place, rank) {
-      const info = getBusynessLevel(place.currentBusyness);
-      const rankClass = rank <= 3 ? `rank-${rank}` : '';
+    function renderHeatCard(place, rank) {
+      const score = place.hotnessScore;
+      const tier = place.hotnessTier;
+      const reasons = place.trendingReasons;
       const cat = place.category_en || place.category;
+      const maxScore = 100;
+      const pct = Math.min(Math.round((score / maxScore) * 100), 100);
+
+      const rankClass = rank <= 3 ? `heat-rank-${rank}` : 'heat-rank-default';
+
+      const reasonsHtml = reasons.map(r => 
+        `<span class="heat-reason">${r.icon} ${r.text}</span>`
+      ).join('');
 
       return `
-        <article class="trending-now-card" data-id="${place.id}">
-          <div class="trending-card-image">
+        <article class="heat-card" data-id="${place.id}">
+          <div class="heat-card-image">
             ${place.image_url ? `<img src="${place.image_url}" alt="${place.name_ar}" loading="lazy" onerror="this.style.display='none'">` : ''}
-            <div class="rank-overlay ${rankClass}">${rank}</div>
-            <div class="busyness-overlay busyness-bg-${info.level}">${info.icon} ${info.label}</div>
+            <div class="heat-rank ${rankClass}">${rank}</div>
+            <div class="heat-tier-badge" style="background:${tier.color};">${tier.label}</div>
           </div>
-          <div class="trending-card-content">
-            <span class="category-badge">${catIconMap[cat] || '📍'} ${catNameMap[cat] || place.category}</span>
+          <div class="heat-card-body">
+            <span class="category-tag">${catIconMap[cat] || '📍'} ${catNameMap[cat] || place.category}</span>
             <h3>${place.name_ar}</h3>
-            <div class="neighborhood">${place.neighborhood}</div>
-            <div class="rating-line">
+            <div class="neighborhood-line">${place.neighborhood}</div>
+            <div class="heat-rating-row">
               <span class="stars">${generateStars(place.google_rating)}</span>
               <span>${place.google_rating} · ${formatNumber(place.review_count)} تقييم</span>
             </div>
-            <div class="busyness-progress">
-              <div class="bar-track">
-                <div class="bar-fill" style="width: ${place.currentBusyness}%; background: ${info.color};"></div>
+            ${reasons.length > 0 ? `<div class="heat-reasons">${reasonsHtml}</div>` : ''}
+            <div class="heat-score-bar">
+              <span style="font-size:12px;color:var(--text-muted);">🌡️</span>
+              <div class="heat-score-track">
+                <div class="heat-score-fill" style="width:${pct}%;background:${tier.color};"></div>
               </div>
-              <span class="bar-pct" style="color: ${info.color}">${place.currentBusyness}%</span>
+              <span class="heat-score-label" style="color:${tier.color};">${Math.round(score)}</span>
             </div>
-            ${renderMiniChart(place)}
-            <div class="card-actions">
+            <div class="heat-card-actions">
               <a href="place.html?id=${place.id}" class="btn-primary">اعرف أكثر</a>
               <a href="${place.google_maps_url}" target="_blank" class="btn-outline">📍 الموقع</a>
+              <button class="btn-outline" onclick="showAddToListModal('${place.id}')" title="أضف لقائمة">📋</button>
             </div>
           </div>
         </article>
       `;
     }
 
-    function renderTrending() {
-      const container = document.getElementById('trending-container');
-      const day = getCurrentDay();
-      const hour = getCurrentHour();
+    function renderHeatMap(hotPlaces) {
+      if (!heatMap) {
+        heatMap = L.map('heatmap', { zoomControl: true }).setView([24.7136, 46.6753], 11);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: '© OpenStreetMap',
+          maxZoom: 18,
+        }).addTo(heatMap);
+      }
 
-      let filtered = allPlaces
-        .filter(p => p.popular_times && p.popular_times[day])
-        .map(p => {
-          const value = p.popular_times[day][hour] || 0;
-          return { ...p, currentBusyness: value, busynessInfo: getBusynessLevel(value) };
-        })
-        .filter(p => p.currentBusyness > 0);
+      // Clear existing markers
+      if (heatClusterGroup) {
+        heatMap.removeLayer(heatClusterGroup);
+      }
 
-      // Category filter
-      if (currentCategory !== 'all') {
-        filtered = filtered.filter(p => {
-          const cat = p.category_en || p.category;
-          return cat === currentCategory;
+      heatClusterGroup = L.markerClusterGroup({
+        maxClusterRadius: 40,
+        spiderfyOnMaxZoom: true,
+        showCoverageOnHover: false,
+        chunkedLoading: true,
+        iconCreateFunction: function(cluster) {
+          const count = cluster.getChildCount();
+          const size = count > 10 ? 48 : 40;
+          return L.divIcon({
+            html: `<div style="
+              background:linear-gradient(135deg, #e74c3c, #c0392b);
+              color:#fff;border-radius:50%;
+              width:${size}px;height:${size}px;
+              display:flex;align-items:center;justify-content:center;
+              font-size:14px;font-weight:900;font-family:'Tajawal',sans-serif;
+              box-shadow:0 3px 12px rgba(231,76,60,0.4);
+              border:3px solid rgba(255,255,255,0.9);
+            ">${count}</div>`,
+            className: 'heat-cluster',
+            iconSize: [size, size],
+          });
+        }
+      });
+
+      hotPlaces.forEach((place, index) => {
+        if (!place.lat || !place.lng) return;
+        const rank = index + 1;
+        const marker = L.marker([place.lat, place.lng], {
+          icon: createHeatMarkerIcon(place, rank)
         });
+        marker.bindPopup(createHeatPopup(place, rank), { maxWidth: 320 });
+        heatClusterGroup.addLayer(marker);
+      });
+
+      heatMap.addLayer(heatClusterGroup);
+
+      // Fit bounds if markers exist
+      if (hotPlaces.length > 0) {
+        const bounds = hotPlaces
+          .filter(p => p.lat && p.lng)
+          .map(p => [p.lat, p.lng]);
+        if (bounds.length > 0) {
+          heatMap.fitBounds(bounds, { padding: [30, 30], maxZoom: 13 });
+        }
       }
+    }
 
-      // Busyness filter
-      if (currentBusynessFilter !== 'all') {
-        filtered = filtered.filter(p => p.busynessInfo.level === currentBusynessFilter);
-      }
+    function renderAll() {
+      const hotPlaces = getHottestPlaces(allPlaces, 20, currentCategory);
+      
+      // Update card count
+      document.getElementById('top-count').textContent = `عرض ${hotPlaces.length} مكان`;
 
-      // Sort by busyness
-      filtered.sort((a, b) => b.currentBusyness - a.currentBusyness);
-
-      // Update count
-      document.getElementById('results-count').innerHTML = 
-        `عرض <strong>${formatNumber(filtered.length)}</strong> مكان مرتب حسب الازدحام`;
-
-      if (filtered.length === 0) {
-        container.innerHTML = `
-          <div class="trending-empty" style="grid-column: 1 / -1;">
-            <div class="emoji">😴</div>
-            <h3>ما في أماكن مزدحمة الحين</h3>
-            <p>جرب تغيير الفلتر أو تعال وقت ثاني</p>
+      // Render cards
+      const cardsContainer = document.getElementById('heatmap-cards');
+      if (hotPlaces.length === 0) {
+        cardsContainer.innerHTML = `
+          <div class="heatmap-empty">
+            <div class="emoji">🔍</div>
+            <h3>ما لقينا أماكن رائجة بهالتصنيف</h3>
+            <p>جرب تصنيف ثاني</p>
           </div>
         `;
-        return;
+      } else {
+        cardsContainer.innerHTML = hotPlaces.map((p, i) => renderHeatCard(p, i + 1)).join('');
       }
 
-      container.innerHTML = filtered.map((p, i) => renderTrendingCard(p, i + 1)).join('');
+      // Render map markers
+      renderHeatMap(hotPlaces);
     }
 
     document.addEventListener('DOMContentLoaded', async () => {
@@ -432,26 +649,20 @@
       updateLiveTime();
       setInterval(updateLiveTime, 30000);
 
-      renderTrending();
+      renderAll();
 
       // Category filter tabs
-      document.querySelectorAll('#category-filters .filter-tab').forEach(tab => {
+      document.querySelectorAll('#heat-category-filters .filter-tab').forEach(tab => {
         tab.addEventListener('click', () => {
-          document.querySelectorAll('#category-filters .filter-tab').forEach(t => t.classList.remove('active'));
+          document.querySelectorAll('#heat-category-filters .filter-tab').forEach(t => t.classList.remove('active'));
           tab.classList.add('active');
           currentCategory = tab.dataset.cat;
-          renderTrending();
+          renderAll();
         });
       });
 
-      // Busyness filter
-      document.getElementById('busyness-filter').addEventListener('change', (e) => {
-        currentBusynessFilter = e.target.value;
-        renderTrending();
-      });
-
       // Auto-refresh every 5 minutes
-      setInterval(renderTrending, 5 * 60 * 1000);
+      setInterval(renderAll, 5 * 60 * 1000);
     });
   </script>
   <script>

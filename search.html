@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>بحث — وين نروح بالرياض؟</title>
+  <meta name="description" content="ابحث عن أفضل الأماكن في الرياض — كافيهات، مطاعم، ترفيه، طبيعة، تسوق وأكثر. بحث ذكي مع فلاتر متقدمة.">
+  <link rel="canonical" href="https://wain-nrooh.com/search.html">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0a1628">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    /* Search Hero */
+    .search-hero {
+      background: linear-gradient(135deg, var(--primary) 0%, #1a2d50 70%, #243656 100%);
+      padding: 40px 20px 60px;
+      text-align: center;
+    }
+    .search-hero h1 {
+      color: white;
+      font-size: 28px;
+      margin-bottom: 16px;
+    }
+    .search-hero-input-wrap {
+      max-width: 640px;
+      margin: 0 auto;
+      position: relative;
+    }
+    .search-hero-input {
+      width: 100%;
+      padding: 16px 20px 16px 50px;
+      border: 2px solid rgba(201,168,76,0.3);
+      border-radius: 14px;
+      background: rgba(255,255,255,0.08);
+      color: white;
+      font-size: 18px;
+      font-family: 'Tajawal', sans-serif;
+      outline: none;
+      transition: all 0.3s;
+      backdrop-filter: blur(4px);
+    }
+    .search-hero-input::placeholder { color: rgba(255,255,255,0.4); }
+    .search-hero-input:focus {
+      border-color: var(--gold);
+      background: rgba(255,255,255,0.12);
+      box-shadow: 0 0 0 4px rgba(201,168,76,0.15);
+    }
+    .search-hero-icon {
+      position: absolute;
+      left: 16px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 20px;
+      opacity: 0.5;
+    }
+    .search-hero-clear {
+      position: absolute;
+      right: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      color: rgba(255,255,255,0.4);
+      font-size: 20px;
+      cursor: pointer;
+      display: none;
+      padding: 4px;
+    }
+    .search-hero-clear.visible { display: block; }
+    .search-hero-hint {
+      color: rgba(255,255,255,0.4);
+      font-size: 13px;
+      margin-top: 10px;
+    }
+
+    /* Filters */
+    .search-filters {
+      max-width: 1200px;
+      margin: -30px auto 0;
+      padding: 0 20px;
+      position: relative;
+      z-index: 10;
+    }
+    .filters-card {
+      background: var(--card-bg, #fff);
+      border-radius: var(--radius);
+      padding: 16px 20px;
+      box-shadow: var(--shadow);
+    }
+    .filter-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      margin-bottom: 8px;
+    }
+    .filter-row:last-child { margin-bottom: 0; }
+    .filter-label {
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--text-light);
+      min-width: 50px;
+    }
+    .filter-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      flex: 1;
+    }
+    .filter-chip {
+      padding: 6px 14px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--text);
+      font-family: 'Tajawal', sans-serif;
+      font-size: 13px;
+      cursor: pointer;
+      transition: all 0.2s;
+      white-space: nowrap;
+    }
+    .filter-chip:hover {
+      border-color: var(--gold);
+      color: var(--gold);
+    }
+    .filter-chip.active {
+      background: var(--gold);
+      color: var(--primary);
+      border-color: var(--gold);
+      font-weight: 700;
+    }
+    .filter-chip .chip-count {
+      font-size: 11px;
+      opacity: 0.6;
+      margin-right: 4px;
+    }
+    .filter-more-btn {
+      padding: 6px 12px;
+      border-radius: 20px;
+      border: 1px dashed var(--border);
+      background: transparent;
+      color: var(--text-muted);
+      font-family: 'Tajawal', sans-serif;
+      font-size: 12px;
+      cursor: pointer;
+    }
+    .filters-actions {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 12px;
+      padding-top: 12px;
+      border-top: 1px solid var(--border);
+    }
+    .active-filters-count {
+      font-size: 13px;
+      color: var(--text-muted);
+    }
+    .clear-filters-btn {
+      padding: 6px 16px;
+      border-radius: 8px;
+      border: none;
+      background: transparent;
+      color: var(--gold);
+      font-family: 'Tajawal', sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      display: none;
+    }
+    .clear-filters-btn.visible { display: block; }
+
+    /* Sort bar */
+    .search-sort-bar {
+      max-width: 1200px;
+      margin: 16px auto;
+      padding: 0 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .results-info {
+      font-size: 14px;
+      color: var(--text-light);
+    }
+    .results-info strong {
+      color: var(--gold);
+      font-weight: 800;
+    }
+    .sort-select {
+      padding: 8px 14px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: var(--card-bg, #fff);
+      color: var(--text);
+      font-family: 'Tajawal', sans-serif;
+      font-size: 13px;
+      cursor: pointer;
+    }
+
+    /* Results */
+    .search-results {
+      max-width: 1200px;
+      margin: 0 auto 40px;
+      padding: 0 20px;
+    }
+    .search-results-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 20px;
+    }
+
+    /* No results */
+    .no-results {
+      text-align: center;
+      padding: 60px 20px;
+    }
+    .no-results .emoji { font-size: 64px; margin-bottom: 16px; }
+    .no-results h3 {
+      color: var(--text);
+      font-size: 22px;
+      margin-bottom: 8px;
+    }
+    .no-results p { color: var(--text-muted); margin-bottom: 20px; }
+    .no-results-suggestions {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 8px;
+    }
+    .suggestion-chip {
+      padding: 8px 16px;
+      border-radius: 20px;
+      border: 1px solid var(--gold);
+      color: var(--gold);
+      font-family: 'Tajawal', sans-serif;
+      font-size: 14px;
+      cursor: pointer;
+      text-decoration: none;
+      transition: all 0.2s;
+    }
+    .suggestion-chip:hover {
+      background: var(--gold);
+      color: var(--primary);
+    }
+
+    /* Search loading */
+    .search-loading {
+      text-align: center;
+      padding: 40px;
+      color: var(--text-muted);
+    }
+    .search-loading .spinner {
+      display: inline-block;
+      width: 32px;
+      height: 32px;
+      border: 3px solid var(--border);
+      border-top-color: var(--gold);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    @media (max-width: 768px) {
+      .search-hero { padding: 30px 16px 50px; }
+      .search-hero h1 { font-size: 22px; }
+      .search-hero-input { font-size: 16px; padding: 14px 16px 14px 42px; }
+      .search-results-grid { grid-template-columns: 1fr; }
+      .filter-row { flex-direction: column; align-items: flex-start; }
+    }
+  </style>
+  <link rel="stylesheet" href="css/ramadan.css">
+  <link rel="stylesheet" href="css/search-header.css">
+</head>
+<body>
+
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><span>🏙️</span><h1>وين نروح بالرياض؟</h1></a>
+      <button class="dark-mode-toggle" aria-label="الوضع الليلي">🌙</button>
+      <button class="menu-toggle" aria-label="القائمة">☰</button>
+      <nav class="nav">
+        <a href="index.html">الرئيسية</a>
+        <a href="cafes.html">كافيهات</a>
+        <a href="restaurants.html">مطاعم</a>
+        <a href="activities.html">ترفيه</a>
+        <a href="events.html">فعاليات</a>
+        <a href="new-places.html">جديد</a>
+        <a href="discover.html">🎲 وين نروح؟</a>
+        <a href="search.html" class="active">🔍 بحث</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Search Hero -->
+  <div class="search-hero">
+    <h1>🔍 ابحث عن مكانك المفضل</h1>
+    <div class="search-hero-input-wrap">
+      <input type="text" class="search-hero-input" id="search-input" placeholder="ابحث... كافيه، مطعم، حي، نشاط" autocomplete="off" autofocus>
+      <span class="search-hero-icon">🔍</span>
+      <button class="search-hero-clear" id="search-clear" title="مسح">✕</button>
+    </div>
+    <div class="search-hero-hint">💡 جرب: "كافيه العليا" — "مطعم إيطالي" — "عوائل" — "مجاني"</div>
+  </div>
+
+  <!-- Filters -->
+  <div class="search-filters">
+    <div class="filters-card" id="filters-card">
+      <div class="search-loading" id="filters-loading"><div class="spinner"></div></div>
+    </div>
+  </div>
+
+  <!-- Sort bar -->
+  <div class="search-sort-bar">
+    <div class="results-info" id="results-info">جاري التحميل...</div>
+    <select class="sort-select" id="sort-select">
+      <option value="relevance">الأكثر صلة</option>
+      <option value="rating-desc">الأعلى تقييماً</option>
+      <option value="reviews-desc">الأكثر تقييمات</option>
+      <option value="price-asc">الأقل سعراً</option>
+      <option value="price-desc">الأعلى سعراً</option>
+      <option value="name">أبجدي</option>
+    </select>
+  </div>
+
+  <!-- Results -->
+  <div class="search-results">
+    <div class="search-results-grid" id="results-container">
+      <div class="search-loading"><div class="spinner"></div><p>جاري تحميل الأماكن...</p></div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div>
+        <h3>وين نروح بالرياض؟</h3>
+        <p>دليلك الشامل لأفضل الأماكن في الرياض مع تقييمات قوقل الحقيقية.</p>
+      </div>
+      <div>
+        <h3>الأقسام</h3>
+        <ul>
+          <li><a href="cafes.html">كافيهات</a></li>
+          <li><a href="restaurants.html">مطاعم</a></li>
+          <li><a href="activities.html">ترفيه</a></li>
+          <li><a href="nature.html">طبيعة</a></li>
+          <li><a href="events.html">فعاليات</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-heart">صنع بـ <span>❤️</span> في الرياض</div>
+    <div class="footer-bottom"><p>© 2025-2026 وين نروح بالرياض؟ جميع الحقوق محفوظة.</p></div>
+  </footer>
+
+  <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
+
+  <script src="js/darkmode.js"></script>
+  <script src="js/crowd.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/search.js"></script>
+  <script>
+    (function() {
+      const searchInput = document.getElementById('search-input');
+      const clearBtn = document.getElementById('search-clear');
+      const filtersCard = document.getElementById('filters-card');
+      const resultsInfo = document.getElementById('results-info');
+      const resultsContainer = document.getElementById('results-container');
+      const sortSelect = document.getElementById('sort-select');
+
+      let searchIndex = [];
+      let filterOptions = {};
+      let activeFilters = {};
+      let currentResults = [];
+      let debounceTimer = null;
+
+      // Parse URL params
+      function getParams() {
+        const p = new URLSearchParams(window.location.search);
+        return {
+          q: p.get('q') || '',
+          cat: p.get('cat') || '',
+          hood: p.get('hood') || '',
+          price: p.get('price') || '',
+          audience: p.get('audience') || '',
+          perfect_for: p.get('perfect_for') || '',
+          sort: p.get('sort') || 'relevance'
+        };
+      }
+
+      // Update URL without reload
+      function updateURL() {
+        const params = new URLSearchParams();
+        if (searchInput.value) params.set('q', searchInput.value);
+        if (activeFilters.category) params.set('cat', activeFilters.category);
+        if (activeFilters.neighborhood) params.set('hood', activeFilters.neighborhood);
+        if (activeFilters.price) params.set('price', activeFilters.price);
+        if (activeFilters.audience) params.set('audience', activeFilters.audience);
+        if (activeFilters.perfect_for) params.set('perfect_for', activeFilters.perfect_for);
+        if (sortSelect.value !== 'relevance') params.set('sort', sortSelect.value);
+        
+        const url = params.toString() ? `search.html?${params}` : 'search.html';
+        history.replaceState(null, '', url);
+      }
+
+      // Build filter UI
+      function renderFilters() {
+        const catIcons = WaynSearch.categoryIcons;
+        const maxChips = 8;
+
+        let html = '';
+
+        // Category chips
+        html += `<div class="filter-row">
+          <span class="filter-label">القسم:</span>
+          <div class="filter-chips" id="filter-category">
+            ${filterOptions.categories.map(c => {
+              const icon = catIcons[c.label] || '📍';
+              const active = activeFilters.category === c.label ? ' active' : '';
+              return `<button class="filter-chip${active}" data-filter="category" data-value="${c.label}">${icon} ${c.label} <span class="chip-count">${c.count}</span></button>`;
+            }).join('')}
+          </div>
+        </div>`;
+
+        // Neighborhood chips (top 12)
+        const shownHoods = filterOptions.neighborhoods.slice(0, 12);
+        html += `<div class="filter-row">
+          <span class="filter-label">الحي:</span>
+          <div class="filter-chips" id="filter-neighborhood">
+            ${shownHoods.map(n => {
+              const active = activeFilters.neighborhood === n.label ? ' active' : '';
+              return `<button class="filter-chip${active}" data-filter="neighborhood" data-value="${n.label}">🏘️ ${n.label} <span class="chip-count">${n.count}</span></button>`;
+            }).join('')}
+            ${filterOptions.neighborhoods.length > 12 ? `<button class="filter-more-btn" id="show-more-hoods">+${filterOptions.neighborhoods.length - 12} حي</button>` : ''}
+          </div>
+        </div>`;
+
+        // Price chips
+        html += `<div class="filter-row">
+          <span class="filter-label">السعر:</span>
+          <div class="filter-chips" id="filter-price">
+            ${filterOptions.prices.map(p => {
+              const active = activeFilters.price === p ? ' active' : '';
+              const label = p === 'مجاني' ? '🆓 مجاني' : p;
+              return `<button class="filter-chip${active}" data-filter="price" data-value="${p}">${label}</button>`;
+            }).join('')}
+          </div>
+        </div>`;
+
+        // Audience chips (top 8)
+        html += `<div class="filter-row">
+          <span class="filter-label">مناسب لـ:</span>
+          <div class="filter-chips" id="filter-audience">
+            ${filterOptions.audiences.slice(0, maxChips).map(a => {
+              const active = activeFilters.audience === a.label ? ' active' : '';
+              return `<button class="filter-chip${active}" data-filter="audience" data-value="${a.label}">${a.label}</button>`;
+            }).join('')}
+          </div>
+        </div>`;
+
+        // Perfect for chips (top 8)
+        html += `<div class="filter-row">
+          <span class="filter-label">مثالي لـ:</span>
+          <div class="filter-chips" id="filter-perfect_for">
+            ${filterOptions.perfectFor.slice(0, maxChips).map(pf => {
+              const active = activeFilters.perfect_for === pf.label ? ' active' : '';
+              return `<button class="filter-chip${active}" data-filter="perfect_for" data-value="${pf.label}">${pf.label}</button>`;
+            }).join('')}
+          </div>
+        </div>`;
+
+        // Actions row
+        const filterCount = Object.values(activeFilters).filter(Boolean).length;
+        html += `<div class="filters-actions">
+          <span class="active-filters-count">${filterCount > 0 ? `${filterCount} فلتر نشط` : ''}</span>
+          <button class="clear-filters-btn ${filterCount > 0 ? 'visible' : ''}" id="clear-filters">مسح الفلاتر ✕</button>
+        </div>`;
+
+        filtersCard.innerHTML = html;
+
+        // Bind chip clicks
+        filtersCard.querySelectorAll('.filter-chip').forEach(chip => {
+          chip.addEventListener('click', () => {
+            const filterName = chip.dataset.filter;
+            const value = chip.dataset.value;
+            if (activeFilters[filterName] === value) {
+              delete activeFilters[filterName];
+            } else {
+              activeFilters[filterName] = value;
+            }
+            renderFilters();
+            runSearch();
+          });
+        });
+
+        // Show more neighborhoods
+        const moreBtn = document.getElementById('show-more-hoods');
+        if (moreBtn) {
+          moreBtn.addEventListener('click', () => {
+            const container = document.getElementById('filter-neighborhood');
+            const allHoods = filterOptions.neighborhoods;
+            container.innerHTML = allHoods.map(n => {
+              const active = activeFilters.neighborhood === n.label ? ' active' : '';
+              return `<button class="filter-chip${active}" data-filter="neighborhood" data-value="${n.label}">🏘️ ${n.label} <span class="chip-count">${n.count}</span></button>`;
+            }).join('');
+            container.querySelectorAll('.filter-chip').forEach(chip => {
+              chip.addEventListener('click', () => {
+                if (activeFilters.neighborhood === chip.dataset.value) delete activeFilters.neighborhood;
+                else activeFilters.neighborhood = chip.dataset.value;
+                renderFilters();
+                runSearch();
+              });
+            });
+          });
+        }
+
+        // Clear filters
+        const clearFiltersBtn = document.getElementById('clear-filters');
+        if (clearFiltersBtn) {
+          clearFiltersBtn.addEventListener('click', () => {
+            activeFilters = {};
+            renderFilters();
+            runSearch();
+          });
+        }
+      }
+
+      // Run search
+      function runSearch() {
+        const query = searchInput.value.trim();
+        const results = WaynSearch.searchPlaces(searchIndex, query, activeFilters);
+        currentResults = WaynSearch.sortResults(results, sortSelect.value);
+
+        // Update URL
+        updateURL();
+
+        // Results info
+        const count = currentResults.length;
+        if (query || Object.keys(activeFilters).length > 0) {
+          resultsInfo.innerHTML = `تم العثور على <strong>${count.toLocaleString('ar-SA')}</strong> مكان${query ? ` لـ "${query}"` : ''}`;
+        } else {
+          resultsInfo.innerHTML = `<strong>${count.toLocaleString('ar-SA')}</strong> مكان`;
+        }
+
+        // Clear button
+        clearBtn.classList.toggle('visible', query.length > 0);
+
+        // Render
+        if (count === 0) {
+          renderNoResults(query);
+        } else {
+          renderResults(currentResults);
+        }
+      }
+
+      // Render results using place cards from main.js
+      function renderResults(results) {
+        resultsContainer.innerHTML = results.map(r => generatePlaceCard(r.place)).join('');
+      }
+
+      // Render no results
+      function renderNoResults(query) {
+        const suggestions = ['كافيه', 'مطعم إيطالي', 'عوائل', 'العليا', 'مجاني', 'ترفيه'];
+        resultsContainer.innerHTML = `
+          <div class="no-results" style="grid-column: 1 / -1;">
+            <div class="emoji">🔍</div>
+            <h3>لا نتائج${query ? ` لـ "${query}"` : ''}</h3>
+            <p>جرب تغيير كلمات البحث أو إزالة بعض الفلاتر</p>
+            <div class="no-results-suggestions">
+              ${suggestions.map(s => `<a class="suggestion-chip" href="search.html?q=${encodeURIComponent(s)}">${s}</a>`).join('')}
+            </div>
+          </div>
+        `;
+      }
+
+      // Initialize
+      async function init() {
+        const places = await loadPlaces();
+        searchIndex = WaynSearch.buildSearchIndex(places);
+        filterOptions = WaynSearch.extractFilterOptions(places);
+
+        // Restore from URL
+        const params = getParams();
+        searchInput.value = params.q;
+        if (params.cat) activeFilters.category = params.cat;
+        if (params.hood) activeFilters.neighborhood = params.hood;
+        if (params.price) activeFilters.price = params.price;
+        if (params.audience) activeFilters.audience = params.audience;
+        if (params.perfect_for) activeFilters.perfect_for = params.perfect_for;
+        if (params.sort) sortSelect.value = params.sort;
+
+        renderFilters();
+        runSearch();
+      }
+
+      // Events
+      searchInput.addEventListener('input', () => {
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(runSearch, 250);
+      });
+
+      searchInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') {
+          clearTimeout(debounceTimer);
+          runSearch();
+        }
+      });
+
+      clearBtn.addEventListener('click', () => {
+        searchInput.value = '';
+        runSearch();
+        searchInput.focus();
+      });
+
+      sortSelect.addEventListener('change', () => {
+        currentResults = WaynSearch.sortResults(currentResults, sortSelect.value);
+        renderResults(currentResults);
+        updateURL();
+      });
+
+      // Mobile menu
+      document.addEventListener('DOMContentLoaded', () => {
+        const toggle = document.querySelector('.menu-toggle');
+        const nav = document.querySelector('.nav');
+        if (toggle && nav) {
+          toggle.addEventListener('click', () => nav.classList.toggle('open'));
+        }
+        init();
+      });
+    })();
+  </script>
+  <script src="js/analytics.js"></script>
+  <script src="js/ramadan.js"></script>
+</body>
+</html>

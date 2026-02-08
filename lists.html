@@ -1,0 +1,837 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>📋 قوائمي - قوائم أماكن مخصصة | وين نروح بالرياض؟</title>
+  <meta name="description" content="أنشئ قوائم مخصصة بأماكنك المفضلة بالرياض وشاركها مع أصدقائك! قوائم جاهزة: الأكثر رواجاً، كافيهات لازم تجربها، سهرة مثالية والمزيد.">
+  <meta name="keywords" content="قوائم أماكن الرياض, أفضل أماكن الرياض, مشاركة أماكن, riyadh places lists">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://wain-nrooh.com/lists.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="📋 قوائمي - قوائم أماكن مخصصة بالرياض">
+  <meta property="og:description" content="أنشئ قوائمك الخاصة بأفضل أماكن الرياض وشاركها مع أصدقائك!">
+  <meta property="og:url" content="https://wain-nrooh.com/lists.html">
+  <meta property="og:locale" content="ar_SA">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0a1628">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/ramadan.css">
+</head>
+<body>
+
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><span>🏙️</span><h1>وين نروح بالرياض؟</h1></a>
+      <button class="dark-mode-toggle" aria-label="الوضع الليلي">🌙</button>
+      <button class="menu-toggle" aria-label="القائمة">☰</button>
+      <nav class="nav">
+        <a href="index.html">الرئيسية</a>
+        <a href="cafes.html">كافيهات</a>
+        <a href="restaurants.html">مطاعم</a>
+        <a href="activities.html">ترفيه</a>
+        <a href="events.html">فعاليات</a>
+        <a href="new-places.html">جديد</a>
+        <a href="discover.html">🎲 وين نروح؟</a>
+        <a href="lists.html" class="active">📋 قوائمي</a>
+        <div class="nav-dropdown">
+          <a href="#">المزيد</a>
+          <div class="dropdown-menu">
+            <a href="shopping.html">🛍️ تسوق</a>
+            <a href="nature.html">🏞️ طبيعة</a>
+            <a href="desserts.html">🍰 حلويات</a>
+            <a href="top-rated.html">⭐ الأعلى تقييماً</a>
+            <div class="dropdown-divider"></div>
+            <a href="neighborhoods.html">🏘️ أحياء الرياض</a>
+            <a href="trending.html">🔥 هابّ الحين</a>
+            <a href="foundation-day.html">🇸🇦 يوم التأسيس</a>
+            <a href="riyadh-season.html">✨ موسم الرياض</a>
+            <div class="dropdown-divider"></div>
+            <div class="dropdown-submenu">
+              <a href="#">🏘️ الأحياء</a>
+              <div class="submenu">
+                <a href="neighborhood-olaya.html">حي العليا</a>
+                <a href="neighborhood-malqa.html">حي الملقا</a>
+                <a href="neighborhood-hittin.html">حي حطين</a>
+                <a href="neighborhood-yasmin.html">حي الياسمين</a>
+                <a href="neighborhood-rabee.html">حي الربيع</a>
+                <a href="neighborhood-narjis.html">حي النرجس</a>
+                <a href="neighborhood-wurud.html">حي الورود</a>
+                <a href="neighborhood-sahafa.html">حي الصحافة</a>
+                <a href="neighborhood-muruj.html">حي المروج</a>
+                <a href="neighborhood-nakheel.html">حي النخيل</a>
+                <a href="neighborhood-diriyah.html">الدرعية</a>
+                <a href="neighborhood-kafd.html">KAFD</a>
+                <a href="neighborhood-safarat.html">حي السفارات</a>
+                <a href="neighborhood-malz.html">حي الملز</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <section class="page-header">
+    <h2>📋 <span>قوائمي</span></h2>
+    <p>أنشئ قوائمك الخاصة بأماكن الرياض وشاركها مع أصدقائك</p>
+  </section>
+
+  <div class="breadcrumb">
+    <a href="index.html">الرئيسية</a> <span>›</span> قوائمي 📋
+  </div>
+
+  <div class="lists-container">
+    <!-- Shared List View (shown when URL has list params) -->
+    <div id="shared-list-view" style="display:none;">
+      <div class="shared-list-banner" id="shared-list-banner"></div>
+      <div id="shared-list-cards" class="cards-grid"></div>
+      <div class="shared-list-actions" id="shared-list-actions"></div>
+    </div>
+
+    <!-- Normal Lists View -->
+    <div id="lists-main-view">
+      <!-- Create Button -->
+      <div class="lists-toolbar">
+        <button class="btn-create-list" id="create-list-btn">
+          ➕ إنشاء قائمة جديدة
+        </button>
+      </div>
+
+      <!-- Pre-made Lists Section -->
+      <div class="lists-section">
+        <h3 class="lists-section-title">✨ قوائم جاهزة</h3>
+        <div id="premade-lists-grid" class="lists-grid"></div>
+      </div>
+
+      <!-- User Lists Section -->
+      <div class="lists-section">
+        <h3 class="lists-section-title">📋 قوائمي</h3>
+        <div id="user-lists-grid" class="lists-grid"></div>
+        <div id="user-lists-empty" class="lists-empty" style="display:none;">
+          <div class="emoji">📋</div>
+          <h3>ما عندك قوائم بعد</h3>
+          <p>أنشئ قائمتك الأولى واضف لها أماكنك المفضلة</p>
+        </div>
+      </div>
+
+      <!-- Expanded List View (when clicking a list) -->
+      <div id="list-detail-view" style="display:none;">
+        <div class="list-detail-header" id="list-detail-header"></div>
+        <div id="list-detail-cards" class="cards-grid"></div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div>
+        <h3>وين نروح بالرياض؟</h3>
+        <p>دليلك الشامل لأفضل الأماكن في الرياض مع تقييمات قوقل الحقيقية. محدث يومياً بأحدث الأماكن والتقييمات.</p>
+      </div>
+      <div>
+        <h3>الأقسام</h3>
+        <ul>
+          <li><a href="cafes.html">كافيهات الرياض</a></li>
+          <li><a href="restaurants.html">مطاعم الرياض</a></li>
+          <li><a href="activities.html">ترفيه وأنشطة</a></li>
+          <li><a href="shopping.html">تسوق بالرياض</a></li>
+          <li><a href="trending.html">هابّ الحين 🔥</a></li>
+          <li><a href="top-rated.html">الأعلى تقييماً</a></li>
+          <li><a href="new-places.html">أماكن جديدة</a></li>
+          <li><a href="lists.html">📋 قوائمي</a></li>
+          <li><a href="map.html">🗺️ الخريطة</a></li>
+          <li><a href="favorites.html">❤️ المفضلة</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>روابط مفيدة</h3>
+        <ul>
+          <li><a href="sitemap.xml">خريطة الموقع</a></li>
+          <li><a href="#">سياسة الخصوصية</a></li>
+          <li><a href="#">تواصل معنا</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-heart">صنع بـ <span>❤️</span> في الرياض</div>
+    <div class="footer-bottom"><p>© 2025-2026 وين نروح بالرياض؟ جميع الحقوق محفوظة.</p></div>
+  </footer>
+
+  <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
+
+  <style>
+    .lists-container {
+      max-width: var(--max-width, 1200px);
+      margin: 20px auto;
+      padding: 0 20px;
+    }
+
+    /* Toolbar */
+    .lists-toolbar {
+      display: flex;
+      justify-content: flex-start;
+      margin-bottom: 24px;
+    }
+    .btn-create-list {
+      padding: 12px 28px;
+      background: var(--primary);
+      color: var(--gold);
+      border: none;
+      border-radius: var(--radius-sm);
+      font-family: 'Tajawal', sans-serif;
+      font-size: 15px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 16px rgba(10,22,40,0.2);
+    }
+    .btn-create-list:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(10,22,40,0.3);
+    }
+
+    /* Sections */
+    .lists-section {
+      margin-bottom: 32px;
+    }
+    .lists-section-title {
+      font-size: 20px;
+      font-weight: 800;
+      color: var(--primary);
+      margin-bottom: 16px;
+    }
+
+    /* Lists Grid */
+    .lists-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 16px;
+    }
+
+    /* List Card */
+    .list-card {
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      padding: 20px;
+      box-shadow: var(--shadow);
+      transition: all 0.3s ease;
+      cursor: pointer;
+      border-top: 3px solid var(--gold);
+      position: relative;
+    }
+    .list-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 12px 40px rgba(10,22,40,0.12);
+    }
+    .list-card-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 10px;
+    }
+    .list-card-emoji {
+      font-size: 32px;
+      flex-shrink: 0;
+    }
+    .list-card-info { flex: 1; min-width: 0; }
+    .list-card-info h4 {
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--primary);
+      margin: 0;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .list-card-info .count {
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+
+    /* List card mini places preview */
+    .list-card-preview {
+      display: flex;
+      gap: 4px;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+    .list-preview-chip {
+      font-size: 11px;
+      background: rgba(201,168,76,0.08);
+      padding: 3px 8px;
+      border-radius: 4px;
+      color: var(--text-light);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 120px;
+    }
+
+    /* List card actions */
+    .list-card-actions {
+      display: flex;
+      gap: 8px;
+    }
+    .list-action-btn {
+      padding: 6px 14px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: none;
+      font-family: 'Tajawal', sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+      color: var(--text);
+    }
+    .list-action-btn:hover {
+      border-color: var(--gold);
+      background: rgba(201,168,76,0.05);
+    }
+    .list-action-btn.share-btn { color: var(--gold-dark); }
+    .list-action-btn.delete-btn { color: #e74c3c; }
+    .list-action-btn.delete-btn:hover { border-color: #e74c3c; background: rgba(231,76,60,0.05); }
+
+    /* Premade badge */
+    .premade-badge {
+      position: absolute;
+      top: -1px;
+      left: 16px;
+      background: var(--gold);
+      color: var(--primary);
+      padding: 3px 10px;
+      border-radius: 0 0 6px 6px;
+      font-size: 11px;
+      font-weight: 700;
+    }
+
+    /* Empty state */
+    .lists-empty {
+      text-align: center;
+      padding: 50px 20px;
+      color: var(--text-muted);
+    }
+    .lists-empty .emoji { font-size: 56px; margin-bottom: 12px; }
+    .lists-empty h3 { font-size: 18px; color: var(--text); margin-bottom: 6px; }
+    .lists-empty p { font-size: 14px; }
+
+    /* List Detail Header */
+    .list-detail-header {
+      padding: 20px 24px;
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      margin-bottom: 20px;
+      border-top: 4px solid var(--gold);
+    }
+    .list-detail-top {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 14px;
+    }
+    .list-detail-emoji { font-size: 40px; }
+    .list-detail-info h2 {
+      font-size: 22px;
+      font-weight: 800;
+      color: var(--primary);
+      margin: 0;
+    }
+    .list-detail-info .meta {
+      font-size: 14px;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+    .list-detail-actions {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .list-detail-btn {
+      padding: 8px 18px;
+      border: 2px solid var(--border);
+      border-radius: 10px;
+      background: none;
+      font-family: 'Tajawal', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+      color: var(--text);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .list-detail-btn:hover { border-color: var(--gold); background: rgba(201,168,76,0.05); }
+    .list-detail-btn.primary { background: var(--primary); color: var(--gold); border-color: var(--primary); }
+    .list-detail-btn.back { background: none; border-color: var(--border); }
+
+    /* Shared List Banner */
+    .shared-list-banner {
+      padding: 24px;
+      background: linear-gradient(135deg, var(--primary), var(--primary-light));
+      border-radius: var(--radius);
+      color: white;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    .shared-list-banner h2 {
+      font-size: 24px;
+      font-weight: 800;
+      margin: 0 0 6px;
+    }
+    .shared-list-banner p {
+      font-size: 14px;
+      opacity: 0.8;
+    }
+    .shared-list-actions {
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+      margin-top: 20px;
+      flex-wrap: wrap;
+    }
+    .shared-action-btn {
+      padding: 10px 22px;
+      border-radius: 12px;
+      font-family: 'Tajawal', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.2s;
+      border: 2px solid;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .shared-action-btn.whatsapp { background: #25D366; color: #fff; border-color: #25D366; }
+    .shared-action-btn.twitter { background: #1DA1F2; color: #fff; border-color: #1DA1F2; }
+    .shared-action-btn.copy { background: var(--card-bg); color: var(--primary); border-color: var(--border); }
+    .shared-action-btn.save { background: var(--gold); color: var(--primary); border-color: var(--gold); }
+    .shared-action-btn:hover { transform: translateY(-2px); opacity: 0.9; }
+
+    /* Create List Modal */
+    .create-list-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.5);
+      backdrop-filter: blur(4px);
+      z-index: 10000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .create-list-modal {
+      background: var(--card-bg);
+      border-radius: 20px;
+      width: 100%;
+      max-width: 420px;
+      padding: 24px;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    }
+    .create-list-modal h3 {
+      font-size: 20px;
+      font-weight: 800;
+      color: var(--primary);
+      margin: 0 0 16px;
+      text-align: center;
+    }
+    .create-list-modal input {
+      width: 100%;
+      padding: 12px 16px;
+      border: 2px solid var(--border);
+      border-radius: 12px;
+      font-family: 'Tajawal', sans-serif;
+      font-size: 15px;
+      margin-bottom: 14px;
+      outline: none;
+      transition: border-color 0.2s;
+      background: var(--card-bg);
+      color: var(--text);
+    }
+    .create-list-modal input:focus { border-color: var(--gold); }
+    .emoji-picker-grid {
+      display: grid;
+      grid-template-columns: repeat(10, 1fr);
+      gap: 6px;
+      margin-bottom: 16px;
+    }
+    .emoji-pick {
+      width: 38px;
+      height: 38px;
+      border: 2px solid var(--border);
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      cursor: pointer;
+      background: none;
+      transition: all 0.2s;
+    }
+    .emoji-pick:hover { border-color: var(--gold); transform: scale(1.1); }
+    .emoji-pick.selected { border-color: var(--gold); background: rgba(201,168,76,0.15); transform: scale(1.1); }
+    .create-list-btns {
+      display: flex;
+      gap: 10px;
+    }
+    .create-list-btns button {
+      flex: 1;
+      padding: 12px;
+      border-radius: 12px;
+      font-family: 'Tajawal', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+      border: 2px solid;
+      transition: all 0.2s;
+    }
+    .create-list-btns .confirm {
+      background: var(--primary);
+      color: var(--gold);
+      border-color: var(--primary);
+    }
+    .create-list-btns .cancel {
+      background: none;
+      color: var(--text);
+      border-color: var(--border);
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .lists-grid { grid-template-columns: 1fr; }
+      .list-detail-top { flex-wrap: wrap; }
+      .emoji-picker-grid { grid-template-columns: repeat(8, 1fr); }
+    }
+    @media (max-width: 480px) {
+      .lists-container { padding: 0 12px; }
+      .emoji-picker-grid { grid-template-columns: repeat(6, 1fr); }
+      .emoji-pick { width: 34px; height: 34px; font-size: 18px; }
+    }
+  </style>
+
+  <script src="js/darkmode.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/crowd.js"></script>
+  <script src="js/hotness.js"></script>
+  <script src="js/lists.js"></script>
+  <script>
+    let allPlaces = [];
+    let currentView = 'main'; // main, detail, shared
+
+    // ===== Render Functions =====
+
+    function renderListCard(list, placeIds, isPremade = false) {
+      const places = placeIds
+        .map(id => allPlaces.find(p => p.id === id))
+        .filter(Boolean);
+      
+      const previewHtml = places.slice(0, 3).map(p => 
+        `<span class="list-preview-chip">${p.name_ar}</span>`
+      ).join('');
+      const moreCount = places.length > 3 ? `<span class="list-preview-chip">+${places.length - 3}</span>` : '';
+
+      const actionsHtml = isPremade ? `
+        <button class="list-action-btn share-btn" onclick="event.stopPropagation();shareListCard('${list.id}', true)">🔗 شارك</button>
+      ` : `
+        <button class="list-action-btn share-btn" onclick="event.stopPropagation();shareListCard('${list.id}', false)">🔗 شارك</button>
+        <button class="list-action-btn delete-btn" onclick="event.stopPropagation();deleteListCard('${list.id}')">🗑️ حذف</button>
+      `;
+
+      return `
+        <div class="list-card" onclick="openListDetail('${list.id}', ${isPremade})">
+          ${isPremade ? '<span class="premade-badge">جاهزة</span>' : ''}
+          <div class="list-card-header">
+            <span class="list-card-emoji">${list.emoji}</span>
+            <div class="list-card-info">
+              <h4>${list.name}</h4>
+              <div class="count">${places.length} مكان</div>
+            </div>
+          </div>
+          <div class="list-card-preview">
+            ${previewHtml}${moreCount}
+          </div>
+          <div class="list-card-actions">
+            ${actionsHtml}
+          </div>
+        </div>
+      `;
+    }
+
+    function renderPremadeLists() {
+      const grid = document.getElementById('premade-lists-grid');
+      grid.innerHTML = PREMADE_LISTS.map(list => {
+        const placeIds = list.getPlaces(allPlaces);
+        return renderListCard(list, placeIds, true);
+      }).join('');
+    }
+
+    function renderUserLists() {
+      const grid = document.getElementById('user-lists-grid');
+      const empty = document.getElementById('user-lists-empty');
+      const lists = getUserLists();
+
+      if (lists.length === 0) {
+        grid.innerHTML = '';
+        empty.style.display = 'block';
+        return;
+      }
+
+      empty.style.display = 'none';
+      grid.innerHTML = lists.map(list => renderListCard(list, list.places, false)).join('');
+    }
+
+    function openListDetail(listId, isPremade) {
+      let list, placeIds;
+
+      if (isPremade) {
+        const premade = PREMADE_LISTS.find(l => l.id === listId);
+        if (!premade) return;
+        placeIds = premade.getPlaces(allPlaces);
+        list = { ...premade, places: placeIds };
+      } else {
+        const userLists = getUserLists();
+        list = userLists.find(l => l.id === listId);
+        if (!list) return;
+        placeIds = list.places;
+      }
+
+      const places = placeIds.map(id => allPlaces.find(p => p.id === id)).filter(Boolean);
+
+      // Hide lists grid, show detail
+      document.querySelector('.lists-toolbar').style.display = 'none';
+      document.querySelectorAll('.lists-section').forEach(s => s.style.display = 'none');
+      document.getElementById('list-detail-view').style.display = 'block';
+      currentView = 'detail';
+
+      // Render header
+      document.getElementById('list-detail-header').innerHTML = `
+        <div class="list-detail-top">
+          <span class="list-detail-emoji">${list.emoji}</span>
+          <div class="list-detail-info">
+            <h2>${list.name}</h2>
+            <div class="meta">${places.length} مكان</div>
+          </div>
+        </div>
+        <div class="list-detail-actions">
+          <button class="list-detail-btn back" onclick="closeListDetail()">→ رجوع</button>
+          <button class="list-detail-btn" onclick="handleShareList('${listId}', ${isPremade}, 'copy')">🔗 نسخ الرابط</button>
+          <button class="list-detail-btn" onclick="handleShareList('${listId}', ${isPremade}, 'whatsapp')" style="color:#25D366;">واتساب</button>
+          <button class="list-detail-btn" onclick="handleShareList('${listId}', ${isPremade}, 'twitter')" style="color:#1DA1F2;">𝕏 تويتر</button>
+        </div>
+      `;
+
+      // Render cards
+      const cardsEl = document.getElementById('list-detail-cards');
+      if (places.length === 0) {
+        cardsEl.innerHTML = `
+          <div class="lists-empty" style="grid-column:1/-1;">
+            <div class="emoji">📋</div>
+            <h3>القائمة فاضية</h3>
+            <p>أضف أماكن لهذي القائمة من أي صفحة عن طريق زر 📋</p>
+          </div>
+        `;
+      } else {
+        cardsEl.innerHTML = places.map(p => generatePlaceCard(p)).join('');
+      }
+
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function closeListDetail() {
+      document.querySelector('.lists-toolbar').style.display = 'flex';
+      document.querySelectorAll('.lists-section').forEach(s => s.style.display = 'block');
+      document.getElementById('list-detail-view').style.display = 'none';
+      currentView = 'main';
+    }
+
+    function handleShareList(listId, isPremade, method) {
+      let list;
+      if (isPremade) {
+        const premade = PREMADE_LISTS.find(l => l.id === listId);
+        if (!premade) return;
+        list = { ...premade, places: premade.getPlaces(allPlaces) };
+      } else {
+        list = getUserLists().find(l => l.id === listId);
+        if (!list) return;
+      }
+
+      if (method === 'copy') copyListLink(list);
+      else if (method === 'whatsapp') shareListWhatsApp(list, allPlaces);
+      else if (method === 'twitter') shareListTwitter(list);
+    }
+
+    function shareListCard(listId, isPremade) {
+      handleShareList(listId, isPremade, 'copy');
+    }
+
+    function deleteListCard(listId) {
+      if (!confirm('متأكد تبي تحذف هالقائمة؟')) return;
+      deleteUserList(listId);
+      renderUserLists();
+      showToast('🗑️ تم حذف القائمة');
+    }
+
+    // ===== Create List Modal =====
+
+    function showCreateListModal() {
+      const existing = document.getElementById('create-list-overlay');
+      if (existing) existing.remove();
+
+      const emojisHtml = LIST_EMOJIS.map((e, i) => 
+        `<button class="emoji-pick ${i === 0 ? 'selected' : ''}" data-emoji="${e}" onclick="selectCreateEmoji(this)">${e}</button>`
+      ).join('');
+
+      const html = `
+        <div id="create-list-overlay" class="create-list-overlay" onclick="if(event.target===this)this.remove()">
+          <div class="create-list-modal">
+            <h3>➕ إنشاء قائمة جديدة</h3>
+            <input type="text" id="new-list-name" placeholder="اسم القائمة..." maxlength="50" autofocus>
+            <div class="emoji-picker-grid">${emojisHtml}</div>
+            <div class="create-list-btns">
+              <button class="confirm" onclick="confirmCreateList()">إنشاء</button>
+              <button class="cancel" onclick="document.getElementById('create-list-overlay').remove()">إلغاء</button>
+            </div>
+          </div>
+        </div>
+      `;
+      document.body.insertAdjacentHTML('beforeend', html);
+      document.getElementById('new-list-name').focus();
+    }
+
+    function selectCreateEmoji(el) {
+      document.querySelectorAll('.emoji-pick').forEach(e => e.classList.remove('selected'));
+      el.classList.add('selected');
+    }
+
+    function confirmCreateList() {
+      const name = document.getElementById('new-list-name').value.trim();
+      if (!name) {
+        showToast('❌ اكتب اسم للقائمة');
+        return;
+      }
+      const emoji = document.querySelector('.emoji-pick.selected')?.dataset.emoji || '📋';
+      createUserList(name, emoji);
+      document.getElementById('create-list-overlay').remove();
+      renderUserLists();
+      showToast(`✅ تم إنشاء "${name}"`);
+    }
+
+    // ===== Shared List Handler =====
+
+    function handleSharedList() {
+      const shared = parseSharedListFromUrl();
+      if (!shared) return false;
+
+      // Show shared view, hide main
+      document.getElementById('shared-list-view').style.display = 'block';
+      document.getElementById('lists-main-view').style.display = 'none';
+      currentView = 'shared';
+
+      const places = shared.places
+        .map(id => allPlaces.find(p => p.id === id))
+        .filter(Boolean);
+
+      // Banner
+      document.getElementById('shared-list-banner').innerHTML = `
+        <h2>${shared.emoji} ${shared.name}</h2>
+        <p>${places.length} مكان مميز بالرياض — قائمة مشاركة</p>
+      `;
+
+      // Cards
+      const cardsEl = document.getElementById('shared-list-cards');
+      if (places.length === 0) {
+        cardsEl.innerHTML = `
+          <div class="lists-empty" style="grid-column:1/-1;">
+            <div class="emoji">😕</div>
+            <h3>ما قدرنا نلقى الأماكن</h3>
+            <p>ممكن الرابط قديم أو فيه خطأ</p>
+          </div>
+        `;
+      } else {
+        cardsEl.innerHTML = places.map(p => generatePlaceCard(p)).join('');
+      }
+
+      // Actions
+      document.getElementById('shared-list-actions').innerHTML = `
+        <button class="shared-action-btn save" onclick="saveSharedList()">💾 حفظ في قوائمي</button>
+        <button class="shared-action-btn whatsapp" onclick="shareSharedListWhatsApp()">واتساب</button>
+        <button class="shared-action-btn twitter" onclick="shareSharedListTwitter()">𝕏 تويتر</button>
+        <button class="shared-action-btn copy" onclick="copySharedListLink()">🔗 نسخ الرابط</button>
+        <a href="lists.html" class="shared-action-btn copy" style="text-decoration:none;">📋 كل القوائم</a>
+      `;
+
+      return true;
+    }
+
+    function saveSharedList() {
+      const shared = parseSharedListFromUrl();
+      if (!shared) return;
+      const newList = createUserList(shared.name, shared.emoji);
+      shared.places.forEach(id => addToList(newList.id, id));
+      showToast(`✅ تم حفظ "${shared.name}" في قوائمك`);
+    }
+
+    function shareSharedListWhatsApp() {
+      const shared = parseSharedListFromUrl();
+      if (!shared) return;
+      shareListWhatsApp({ name: shared.name, emoji: shared.emoji, places: shared.places }, allPlaces);
+    }
+
+    function shareSharedListTwitter() {
+      const shared = parseSharedListFromUrl();
+      if (!shared) return;
+      shareListTwitter({ name: shared.name, emoji: shared.emoji, places: shared.places });
+    }
+
+    function copySharedListLink() {
+      navigator.clipboard.writeText(window.location.href).then(() => {
+        showToast('✅ تم نسخ الرابط');
+      });
+    }
+
+    // ===== Init =====
+
+    document.addEventListener('DOMContentLoaded', async () => {
+      allPlaces = await loadPlaces();
+
+      // Check for shared list URL first
+      if (handleSharedList()) return;
+
+      // Normal render
+      renderPremadeLists();
+      renderUserLists();
+
+      // Create list button
+      document.getElementById('create-list-btn').addEventListener('click', showCreateListModal);
+
+      // Listen for storage changes (other tabs)
+      window.addEventListener('storage', (e) => {
+        if (e.key === LISTS_STORAGE_KEY) renderUserLists();
+      });
+    });
+  </script>
+  <script>
+    document.querySelectorAll('.nav-dropdown > a').forEach(a => {
+      a.addEventListener('click', (e) => {
+        if (window.innerWidth <= 768) {
+          e.preventDefault();
+          a.parentElement.classList.toggle('open');
+        }
+      });
+    });
+    document.querySelectorAll('.dropdown-submenu > a').forEach(a => {
+      a.addEventListener('click', (e) => {
+        if (window.innerWidth <= 768) {
+          e.preventDefault();
+          a.nextElementSibling.style.display = a.nextElementSibling.style.display === 'block' ? 'none' : 'block';
+        }
+      });
+    });
+  </script>
+  <script src="js/analytics.js"></script>
+  <script src="js/ramadan.js"></script>
+</body>
+</html>

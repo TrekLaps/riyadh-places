@@ -38,12 +38,20 @@
   }
   </script>
   <link rel="stylesheet" href="css/ramadan.css">
+  <link rel="stylesheet" href="css/search-header.css">
 </head>
 <body>
 
   <header class="header">
     <div class="header-inner">
       <a href="index.html" class="logo"><span>🏙️</span><h1>وين نروح بالرياض؟</h1></a>
+      <div class="header-search" id="header-search">
+        <button class="header-search-toggle" id="header-search-toggle" aria-label="بحث">🔍</button>
+        <div class="header-search-box" id="header-search-box">
+          <input type="text" class="header-search-input" id="header-search-input" placeholder="ابحث عن مكان..." autocomplete="off">
+          <div class="header-search-dropdown" id="header-search-dropdown"></div>
+        </div>
+      </div>
       <button class="dark-mode-toggle" aria-label="الوضع الليلي">🌙</button>
       <button class="menu-toggle" aria-label="القائمة">☰</button>
       <nav class="nav">
@@ -54,6 +62,7 @@
         <a href="events.html">فعاليات</a>
         <a href="new-places.html">جديد</a>
         <a href="discover.html">🎲 وين نروح؟</a>
+        <a href="search.html">🔍 بحث</a>
         <a href="compare.html">⚖️ قارن</a>
         <div class="nav-dropdown">
           <a href="#">المزيد</a>
@@ -285,6 +294,8 @@
       });
     });
   </script>
+  <script src="js/search.js"></script>
+  <script src="js/header-search.js"></script>
   <script src="js/analytics.js"></script>
   <script src="js/ramadan.js"></script>
 </body>

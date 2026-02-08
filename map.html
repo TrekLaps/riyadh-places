@@ -180,6 +180,24 @@
       font-weight: 700;
       margin-bottom: 6px;
     }
+    /* Heat Legend */
+    .heat-legend {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding: 10px 16px;
+      background: var(--card-bg);
+      border-radius: var(--radius-sm);
+      margin-bottom: 10px;
+      box-shadow: var(--shadow);
+      font-size: 13px;
+      flex-wrap: wrap;
+    }
+    .hl-title { font-weight: 700; color: var(--primary); }
+    .hl-item { display: inline-flex; align-items: center; gap: 5px; color: var(--text-light); }
+    .hl-dot { width: 12px; height: 12px; border-radius: 50%; }
+    .heat-marker-inner:hover { transform: scale(1.15); }
+
     @media (max-width: 768px) {
       #map-container { padding: 12px; }
       #map { height: 60vh; min-height: 350px; }
@@ -191,6 +209,7 @@
     }
   </style>
   <link rel="stylesheet" href="css/ramadan.css">
+  <link rel="stylesheet" href="css/search-header.css">
 </head>
 <body>
 
@@ -249,7 +268,16 @@
       <button class="map-filter-chip" data-category="طبيعة">🏞️ طبيعة</button>
       <button class="map-filter-chip" data-category="حلويات">🍰 حلويات</button>
       <button class="map-filter-chip" data-category="فعاليات">🎪 فعاليات</button>
+      <button class="map-filter-chip" id="heat-toggle" data-category="heat" style="border-color:#e74c3c;color:#e74c3c;">🔥 خريطة الحرارة</button>
       <button class="map-locate-btn" id="locate-btn">📍 موقعي</button>
+    </div>
+
+    <!-- Heat Legend (hidden by default) -->
+    <div id="heat-legend" class="heat-legend" style="display:none;">
+      <span class="hl-title">مفتاح الحرارة:</span>
+      <span class="hl-item"><span class="hl-dot" style="background:#e74c3c;"></span> حار جداً</span>
+      <span class="hl-item"><span class="hl-dot" style="background:#f39c12;"></span> رائج</span>
+      <span class="hl-item"><span class="hl-dot" style="background:#2ecc71;"></span> عادي</span>
     </div>
 
     <div id="map"></div>
@@ -290,6 +318,8 @@
 
   <script src="js/darkmode.js"></script>
   <script src="js/main.js"></script>
+  <script src="js/crowd.js"></script>
+  <script src="js/hotness.js"></script>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
   <script>
