@@ -1,0 +1,450 @@
+[
+  {
+    "id": "al-murabba-historical-palace",
+    "name_ar": "قصر المربع التاريخي",
+    "name_en": "Al Murabba Historical Palace",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي المربع",
+    "neighborhood_en": "Al Murabba",
+    "description_ar": "قصر الملك عبدالعزيز التاريخي مع حدائق ومباني تراثية وتجربة تفاعلية",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Visit Saudi 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Murabba+Historical+Palace+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "south-international-biennial",
+    "name_ar": "بينالي الجنوب الدولي",
+    "name_en": "South International Biennial",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "بينالي فن معاصر دولي يعرض أعمال فنانين من جميع أنحاء العالم",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "KSA Event 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=South+International+Biennial+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "science-and-technology-museum",
+    "name_ar": "متحف تاريخ العلوم والتقنية",
+    "name_en": "Science and Technology Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي المربع",
+    "neighborhood_en": "Al Murabba",
+    "description_ar": "متحف يستعرض إسهامات العرب والمسلمين في العلوم والتقنية",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Visit Saudi 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Science+and+Technology+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "ithra-art-center",
+    "name_ar": "مركز إثراء الفن",
+    "name_en": "Ithra Art Center",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مركز ثقافي وفني مع معارض متغيرة وبرامج تعليمية وورش عمل",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Ithra 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ithra+Art+Center+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "noor-riyadh",
+    "name_ar": "نور الرياض",
+    "name_en": "Noor Riyadh",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "مواقع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "مهرجان الفن الضوئي السنوي مع تركيبات فنية ضوئية في جميع أنحاء الرياض",
+    "google_rating": 4.6,
+    "price_level": "$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Noor Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Noor+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-masmak-science-museum",
+    "name_ar": "متحف المصمك للعلوم",
+    "name_en": "Al Masmak Science Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي الديرة",
+    "neighborhood_en": "Ad Dirah",
+    "description_ar": "متحف علوم تفاعلي قريب من قلعة المصمك مع تجارب تعليمية",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Visit Saudi 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Masmak+Science+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "riyadh-season-car-museum",
+    "name_ar": "متحف سيارات موسم الرياض",
+    "name_en": "Riyadh Season Car Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "معرض سيارات كلاسيكية ونادرة مع مجموعة فريدة من السيارات الفاخرة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Season 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Season+Car+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "visual-art-museum",
+    "name_ar": "متحف الفن التشكيلي",
+    "name_en": "Visual Art Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي المربع",
+    "neighborhood_en": "Al Murabba",
+    "description_ar": "متحف يعرض أعمال فنانين سعوديين وعرب في الفن التشكيلي المعاصر",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Visit Saudi 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Visual+Art+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "janadriyah-cultural-exhibition",
+    "name_ar": "معرض الجنادرية الثقافي",
+    "name_en": "Janadriyah Cultural Exhibition",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "شمال شرق الرياض",
+    "neighborhood_en": "NE Riyadh",
+    "description_ar": "مهرجان ثقافي وتراثي سنوي مع عروض شعبية ومعارض وحرف تقليدية",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Visit Saudi 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Janadriyah+Cultural+Exhibition+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "princess-noura-cultural-center",
+    "name_ar": "مركز الأميرة نورة الثقافي",
+    "name_en": "Princess Noura Cultural Center",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مركز ثقافي نسائي مع معارض فنية وورش عمل وبرامج تعليمية",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh.sa 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Princess+Noura+Cultural+Center+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "arab-heritage-museum",
+    "name_ar": "متحف دار التراث العربي",
+    "name_en": "Arab Heritage Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "متحف خاص يعرض مقتنيات تراثية عربية قديمة من أسلحة وحلي وأواني",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Arab+Heritage+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-obaikan-palace-museum",
+    "name_ar": "متحف قصر العبيكان",
+    "name_en": "Al Obaikan Palace Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي الديرة",
+    "neighborhood_en": "Ad Dirah",
+    "description_ar": "قصر تاريخي محول لمتحف يعرض الحياة اليومية في الرياض القديمة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Obaikan+Palace+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "superbrain-museum",
+    "name_ar": "سوبر برين ميوزيم",
+    "name_en": "SuperBrain Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Ar Rabi",
+    "description_ar": "متحف تفاعلي للعلوم والذكاء مع تجارب عملية وألغاز تعليمية للعائلات",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=SuperBrain+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "noura-bint-abdulrahman-hall",
+    "name_ar": "قاعة نورة بنت عبدالرحمن",
+    "name_en": "Noura Bint Abdulrahman Hall",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "جامعة الأميرة نورة",
+    "neighborhood_en": "PNU",
+    "description_ar": "قاعة ثقافية تستضيف معارض فنية ومحاضرات ثقافية وعروض مسرحية",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "PNU 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Noura+Bint+Abdulrahman+Hall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "digital-art-museum",
+    "name_ar": "متحف الفن الرقمي",
+    "name_en": "Digital Art Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "KAFD",
+    "description_ar": "متحف تفاعلي للفن الرقمي مع عروض ضوئية غامرة وتجارب حسية",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "KAFD 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Digital+Art+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "saudi-design-museum",
+    "name_ar": "متحف التصميم السعودي",
+    "name_en": "Saudi Design Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "متحف مخصص لعرض تاريخ التصميم السعودي والعربي من العمارة والأزياء والحرف",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Diriyah 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Saudi+Design+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "id": "boulevard-city",
+    "name_ar": "بوليفارد سيتي",
+    "name_en": "Boulevard City",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "منطقة ترفيهية ضخمة في موسم الرياض مع فعاليات وحفلات ومطاعم عالمية",
+    "google_rating": 4.6,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Riyadh Season 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Boulevard+City+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-suwaidi-park-events",
+    "name_ar": "منتزه السويدي",
+    "name_en": "Al Suwaidi Park Events",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "حي السويدي",
+    "neighborhood_en": "Al Suwaidi",
+    "description_ar": "منتزه مطور ضمن موسم الرياض مع فعاليات وبرامج ترفيهية متنوعة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Times of India 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Suwaidi+Park+Events+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "riyadh-front-exhibition-center",
+    "name_ar": "مركز واجهة الرياض للمعارض",
+    "name_en": "Riyadh Front Exhibition Center",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مركز معارض ومؤتمرات حديث يستضيف أهم الفعاليات والمعارض في الرياض",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Gludo 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Front+Exhibition+Center+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-groves",
+    "name_ar": "ذا غراوندز",
+    "name_en": "The Groves",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "مساحة فعاليات خارجية مع مراعي وحدائق لإقامة المعارض والمهرجانات",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh.sa 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Groves+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "abu-bakr-salem-theater",
+    "name_ar": "مسرح أبو بكر سالم",
+    "name_en": "Abu Bakr Salem Theater",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "مسرح كبير يستضيف حفلات موسيقية وعروض مسرحية في موسم الرياض",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Season 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Abu+Bakr+Salem+Theater+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "riyadh-comedy-festival",
+    "name_ar": "مهرجان الرياض للكوميديا",
+    "name_en": "Riyadh Comedy Festival",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "مهرجان كوميدي سنوي مع أكبر الأسماء العالمية مثل كيفن هارت وديف شابيل",
+    "google_rating": 4.6,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Wikipedia 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Comedy+Festival+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "riyadh-dog-festival",
+    "name_ar": "مهرجان الكلاب في الرياض",
+    "name_en": "Riyadh Dog Festival",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "مركز الرياض للمعارض",
+    "neighborhood_en": "RECC Malham",
+    "description_ar": "مهرجان سنوي لعشاق الكلاب مع أكثر من 350 كلب ومسابقات مثيرة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Platinumlist 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Dog+Festival+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "soundstorm-festival",
+    "name_ar": "ساوندستورم",
+    "name_en": "Soundstorm Festival",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "بنبان",
+    "neighborhood_en": "Banban",
+    "description_ar": "أكبر مهرجان موسيقي في الشرق الأوسط مع فنانين عالميين ومراحل متعددة",
+    "google_rating": 4.7,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "MDLBEAST 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Soundstorm+Festival+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "galaxy-bar",
+    "name_ar": "جالكسي بار",
+    "name_en": "Galaxy Bar",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "بار ولاونج مع حفلات دي جي وأجواء سهرات في موسم الرياض",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Season 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Galaxy+Bar+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-venue-riyadh",
+    "name_ar": "ذا فينيو الرياض",
+    "name_en": "The Venue Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "قاعة متعددة الاستخدامات لإقامة الحفلات والمؤتمرات والفعاليات",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "The Venue 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Venue+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "rah-venue",
+    "name_ar": "قاعة RAH",
+    "name_en": "RAH Venue",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "قاعة فعاليات فاخرة للحفلات والأفراح والمناسبات الخاصة",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "RAH 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=RAH+Venue+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "boulevard-hall",
+    "name_ar": "بوليفارد هول",
+    "name_en": "Boulevard Hall",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "قاعة عرض كبيرة تستضيف حفلات ومعارض وفعاليات موسم الرياض",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Season 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Boulevard+Hall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-gate",
+    "name_ar": "ذا جيت",
+    "name_en": "The Gate",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "بوابة الدخول الرئيسية لبوليفارد الرياض مع منطقة ترحيب وفعاليات",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Season 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Gate+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-arena-real-madrid",
+    "name_ar": "ذا آرينا ريال مدريد",
+    "name_en": "The Arena Real Madrid",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "ملعب بتعاون مع ريال مدريد يستضيف مباريات ومنافسات رياضية",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Season 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Arena+Real+Madrid+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "anime-town",
+    "name_ar": "أنيمي تاون",
+    "name_en": "Anime Town",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "منطقة مخصصة لعشاق الأنمي مع معارض وفعاليات ومتاجر أنمي",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Riyadh Season 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Anime+Town+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "toyo-town",
+    "name_ar": "تويو تاون",
+    "name_en": "Toyo Town",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "حي ياباني مصغر مع مطاعم يابانية ومتاجر وتجارب ثقافية",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Season 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Toyo+Town+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-sky",
+    "name_ar": "ذا سكاي",
+    "name_en": "The Sky",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "عجلة فيريس عملاقة بإطلالة بانورامية على بوليفارد الرياض والمدينة",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Season 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Sky+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "recc-malham-exhibition-center",
+    "name_ar": "مركز المعارض بملهم",
+    "name_en": "RECC Malham Exhibition Center",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "ملهم",
+    "neighborhood_en": "Malham",
+    "description_ar": "مركز معارض ومؤتمرات ضخم يستضيف أكبر الفعاليات في الرياض",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Platinumlist 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=RECC+Malham+Exhibition+Center+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "boulevard-arena",
+    "name_ar": "مدرج بوليفارد",
+    "name_en": "Boulevard Arena",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "مدرج مكشوف لإقامة الحفلات والعروض الحية في موسم الرياض",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Season 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Boulevard+Arena+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-winter-village",
+    "name_ar": "ذا وينتر فيلدج",
+    "name_en": "The Winter Village",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "قرية شتوية مع أسواق موسمية وعروض ثلجية وأنشطة احتفالية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Season 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Winter+Village+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  }
+]

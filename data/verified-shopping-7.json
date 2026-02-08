@@ -1,0 +1,1367 @@
+[
+  {
+    "id": "bodi-community-thrift",
+    "name_ar": "بودي كوميونيتي ثريفت",
+    "name_en": "Bodi Community Thrift",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "أول مجتمع ثريفت في السعودية ينظم فعاليات بيع وشراء الملابس المستعملة والفنتج",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Arab News 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bodi+Community+Thrift+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "urbnlot",
+    "name_ar": "إيربن لوت",
+    "name_en": "Urbnlot",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "متجر ستريت وير مع طابق ثاني مخصص للملابس الفنتج والمستعملة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TikTok 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Urbnlot+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "my-vintage-closet",
+    "name_ar": "ماي فنتج كلوزيت",
+    "name_en": "My Vintage Closet",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي الورود",
+    "neighborhood_en": "Al Wurud",
+    "description_ar": "متجر ثريفت مع ملابس مستعملة منتقاة بعناية وقطع فنتج مميزة",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TikTok 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=My+Vintage+Closet+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "deserito-thrift",
+    "name_ar": "ديزيرتو ثريفت",
+    "name_en": "Deserito Thrift",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "متجر ثريفت إلكتروني ومحلي يشحن لجميع أنحاء المملكة",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Instagram 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Deserito+Thrift+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "nabataty",
+    "name_ar": "نباتاتي",
+    "name_en": "Nabataty",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي السلي",
+    "neighborhood_en": "As Sulay",
+    "description_ar": "المتجر الأول في مجال النباتات والأدوات الزراعية للحدائق المنزلية",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "AlRiyadhCity 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nabataty+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "bostan-al-jazeera",
+    "name_ar": "بستان الجزيرة",
+    "name_en": "Bostan Al Jazeera",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "نباتات داخلية وخارجية مستوردة من هولندا مع أحواض وإكسسوارات",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Bostan.com.sa 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bostan+Al+Jazeera+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "muhrah-gardens",
+    "name_ar": "حدائق مهرة",
+    "name_en": "Muhrah Gardens",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "An Narjis",
+    "description_ar": "متجر متخصص بالنباتات المنزلية ونباتات الزينة وهدايا النباتات",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Muhrah Gardens 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Muhrah+Gardens+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "riza-landscape",
+    "name_ar": "ريزا لاندسكيب",
+    "name_en": "Riza Landscape",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Ar Rabi",
+    "description_ar": "متجر نباتات داخلية مع خدمات تنسيق وصيانة الحدائق وهدايا نباتية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riza Landscape 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riza+Landscape+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "natural-life-nursery",
+    "name_ar": "حياة الطبيعة",
+    "name_en": "Natural Life Nursery",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي الخزامى",
+    "neighborhood_en": "Al Khuzama",
+    "description_ar": "مشتل نباتات متكامل مع خدمات زراعة وتنسيق حدائق",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Review Saudi 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Natural+Life+Nursery+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "nouf-al-sudairi-abayas",
+    "name_ar": "عبايات نوف السديري",
+    "name_en": "Nouf Al Sudairi Abayas",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "علامة عبايات فاخرة تأسست 2015 بأقمشة عالية الجودة وألوان أنيقة",
+    "google_rating": 4.6,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Al Sudairi Nouf 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nouf+Al+Sudairi+Abayas+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء"
+    ]
+  },
+  {
+    "id": "nawaem-abaya",
+    "name_ar": "نواعم للعبايات",
+    "name_en": "Nawaem Abaya",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "Al Sulaimaniyah",
+    "description_ar": "أول علامة عبايات في المملكة مع فروع في جميع المناطق",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Nawaem.com 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nawaem+Abaya+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء"
+    ]
+  },
+  {
+    "id": "zahiyah-abayas",
+    "name_ar": "زاهية للعبايات",
+    "name_en": "Zahiyah Abayas",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "متجر عبايات عصرية بتصاميم متنوعة وأسعار مناسبة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Zahiyh.com 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Zahiyah+Abayas+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء"
+    ]
+  },
+  {
+    "id": "hawraa-abayas",
+    "name_ar": "حوراء للعبايات",
+    "name_en": "Hawraa Abayas",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "عبايات نسائية فاخرة بتصميمات مذهلة وأنيقة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Hawraa Abaya 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Hawraa+Abayas+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء"
+    ]
+  },
+  {
+    "id": "abaya-mall",
+    "name_ar": "عبايا مول",
+    "name_en": "Abaya Mall",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي المعيقلية",
+    "neighborhood_en": "Al Muayqiliyah",
+    "description_ar": "سوق مخصص بالكامل للعبايات بجميع الأنواع والأسعار",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TikTok 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Abaya+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء"
+    ]
+  },
+  {
+    "id": "designer-nourah-abayas",
+    "name_ar": "المصممة نورة للعبايات",
+    "name_en": "Designer Nourah Abayas",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "تفصيل عبايات وتوربان ونقابات حسب الطلب بتصاميم مميزة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Abayat Nourah 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Designer+Nourah+Abayas+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء"
+    ]
+  },
+  {
+    "id": "joharshii-abayas",
+    "name_ar": "جوهرتش للعبايات",
+    "name_en": "Joharshii Abayas",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "An Nakhil",
+    "description_ar": "تفصيل عبايات تخرج فخمة حسب الطلب مع تطريز يدوي",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Joharshii 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Joharshii+Abayas+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء"
+    ]
+  },
+  {
+    "id": "dara-art-supply-store",
+    "name_ar": "دارا للأدوات الفنية",
+    "name_en": "Dara Art Supply Store",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "أكبر تشكيلة أدوات رسم وألوان وأدوات فنية ومكتبية من ماركات عالمية",
+    "google_rating": 4.6,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Dara Store 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dara+Art+Supply+Store+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "canvas-art-supply",
+    "name_ar": "كانفس آرت سبلاي",
+    "name_en": "Canvas Art Supply",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Ar Rabi",
+    "description_ar": "متجر متخصص بأدوات الرسم والفنون من براندات عالمية للرسامين والمبدعين",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Canvas KSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Canvas+Art+Supply+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "art-moment-library",
+    "name_ar": "مكتبة لحظة الفن",
+    "name_en": "Art Moment Library",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "مكتبة متخصصة ببيع الكتب وأدوات الرسم من أفضل الماركات العالمية",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Art Moment SA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Art+Moment+Library+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "artist-shop",
+    "name_ar": "آرتست شوب",
+    "name_en": "Artist Shop",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "متجر متخصص بأدوات الرسم ومستلزماتها بجودة عالية وأسعار مناسبة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Artist Shop 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Artist+Shop+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "rawan-stationery",
+    "name_ar": "قرطاسية روان",
+    "name_en": "Rawan Stationery",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "دار للخط العربي الجميل مع قرطاسية فاخرة وخدمة تغليف هدايا",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Rawan Stationery 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Rawan+Stationery+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-sharq-library",
+    "name_ar": "مكتبة الشرق",
+    "name_en": "Al Sharq Library",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي البطحاء",
+    "neighborhood_en": "Al Batha",
+    "description_ar": "مكتبة شهيرة لدى الرسامين بأسعار مناسبة وتشكيلة واسعة من أدوات الرسم",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TikTok 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Sharq+Library+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "riyadh-stationery",
+    "name_ar": "قرطاسية الرياض",
+    "name_en": "Riyadh Stationery",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "متجر قرطاسية شامل مع أقلام ودفاتر ومستلزمات مكتبية متنوعة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Stationery 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Stationery+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "fixtag",
+    "name_ar": "فكس تاغ",
+    "name_en": "Fixtag",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "خدمة إصلاح جوالات مبتكرة تصلك للموقع مع فنيين معتمدين",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "About Her 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Fixtag+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "extra-repair",
+    "name_ar": "إكسترا ريبير",
+    "name_en": "Extra Repair",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "خدمة إصلاح أجهزة معتمدة من إكسترا مع فنيين مدربين ومواعيد مرنة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Extra.com 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Extra+Repair+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "bin-mishaal-phone-repair",
+    "name_ar": "بن مشعل لصيانة الهواتف",
+    "name_en": "Bin Mishaal Phone Repair",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "محل صيانة وبرمجة هواتف متخصص بتقييم عالي من العملاء",
+    "google_rating": 4.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Yandex Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bin+Mishaal+Phone+Repair+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "haraj-car-accessories-market",
+    "name_ar": "سوق الحراج للكماليات",
+    "name_en": "Haraj Car Accessories Market",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العزيزية",
+    "neighborhood_en": "Al Aziziyah",
+    "description_ar": "سوق شعبي كبير لإكسسوارات السيارات وقطع الغيار بأسعار منافسة",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Reddit 2023"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Haraj+Car+Accessories+Market+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "aswaq-taibah",
+    "name_ar": "أسواق طيبة",
+    "name_en": "Aswaq Taibah",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي البطحاء",
+    "neighborhood_en": "Al Batha",
+    "description_ar": "سوق شعبي شهير للعبايات والأقمشة والإكسسوارات بأسعار مناسبة",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TikTok 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Aswaq+Taibah+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "buthor-seeds",
+    "name_ar": "بذور للزراعة",
+    "name_en": "Buthor Seeds",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العزيزية",
+    "neighborhood_en": "Al Aziziyah",
+    "description_ar": "الشركة الوطنية لإنتاج البذور والخدمات الزراعية مع بذور ومستلزمات",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Buthor 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Buthor+Seeds+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "ounass-fashion",
+    "name_ar": "أونس للأزياء",
+    "name_en": "Ounass Fashion",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "النخيل مول",
+    "neighborhood_en": "Al Nakheel Mall",
+    "description_ar": "متجر أزياء فاخرة أونلاين ومحلي مع عبايات ومصممين عرب",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Ounass 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ounass+Fashion+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "home-centre-riyadh",
+    "name_ar": "هوم سنتر الرياض",
+    "name_en": "Home Centre Riyadh",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "النخيل مول",
+    "neighborhood_en": "Al Nakheel Mall",
+    "description_ar": "متجر أثاث ومفروشات منزلية بتصاميم عصرية وأسعار متوسطة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Home Centre 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Home+Centre+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "bloomingdales-riyadh",
+    "name_ar": "محل بلومينغديلز",
+    "name_en": "Bloomingdale's Riyadh",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "الرياض فرونت",
+    "neighborhood_en": "Riyadh Front",
+    "description_ar": "متجر أزياء أمريكي فاخر مع ملابس وإكسسوارات وعطور من أرقى العلامات",
+    "google_rating": 4.4,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Bloomingdale's 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bloomingdale's+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "harvey-nichols-riyadh",
+    "name_ar": "هارفي نيكلز الرياض",
+    "name_en": "Harvey Nichols Riyadh",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "KAFD",
+    "description_ar": "متجر بريطاني فاخر مع أزياء ومستحضرات تجميل ومطعم OXO",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Harvey Nichols 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Harvey+Nichols+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "virgin-megastore-riyadh",
+    "name_ar": "فيرجن ميغاستور الرياض",
+    "name_en": "Virgin Megastore Riyadh",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "النخيل مول",
+    "neighborhood_en": "Al Nakheel Mall",
+    "description_ar": "متجر ترفيه وتقنية مع كتب وموسيقى وألعاب وإلكترونيات وبوب كلتشر",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Virgin 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Virgin+Megastore+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "extra-electronics-riyadh",
+    "name_ar": "اكسترا الرياض",
+    "name_en": "Extra Electronics Riyadh",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "أكبر سلسلة إلكترونيات سعودية مع جوالات وأجهزة ومنتجات ذكية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Extra 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Extra+Electronics+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "zara-home-riyadh",
+    "name_ar": "زارا هوم الرياض",
+    "name_en": "Zara Home Riyadh",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "النخيل مول",
+    "neighborhood_en": "Al Nakheel Mall",
+    "description_ar": "مفروشات وديكور منزلي إسباني أنيق بأسعار معقولة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Zara Home 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Zara+Home+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "lego-store-riyadh",
+    "name_ar": "ليغو ستور الرياض",
+    "name_en": "Lego Store Riyadh",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "النخيل مول",
+    "neighborhood_en": "Al Nakheel Mall",
+    "description_ar": "متجر ليغو الرسمي مع مجسمات وألعاب تركيب لجميع الأعمار",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Lego 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lego+Store+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "namshi-showroom-riyadh",
+    "name_ar": "نمشي شوروم الرياض",
+    "name_en": "Namshi Showroom Riyadh",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "شوروم لمتجر الأزياء الإلكتروني الشهير مع تجربة تسوق فريدة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Namshi 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Namshi+Showroom+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "mamas-and-papas",
+    "name_ar": "ماماز آند باباز",
+    "name_en": "Mamas and Papas",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "النخيل مول",
+    "neighborhood_en": "Al Nakheel Mall",
+    "description_ar": "متجر بريطاني لمستلزمات الأطفال والرضع من ملابس وأثاث وعربات",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mamas & Papas 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mamas+and+Papas+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "jnane-riyadh",
+    "name_ar": "جناين الرياض",
+    "name_en": "Jnane Riyadh",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "متجر نباتات وزهور فاخر مع خدمة تنسيق وتوصيل باقات",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Instagram 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Jnane+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "kids-r-us-riyadh",
+    "name_ar": "كيدز آر أس",
+    "name_en": "Kids R Us Riyadh",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حياة مول",
+    "neighborhood_en": "Hayat Mall",
+    "description_ar": "متجر ألعاب وألبسة أطفال مع ماركات عالمية وبرامج ولاء",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kids+R+Us+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "h-and-m-riyadh",
+    "name_ar": "اتش آند ام الرياض",
+    "name_en": "H and M Riyadh",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "رياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "أزياء سويدية عصرية بأسعار معقولة مع مجموعات بيئية مستدامة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "H&M 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=H+and+M+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "loft-riyadh",
+    "name_ar": "لوفت الرياض",
+    "name_en": "LOFT Riyadh",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "متجر ياباني لمستلزمات الحياة اليومية بتصميم بسيط وعملي",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "LOFT 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=LOFT+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "flying-tiger-riyadh",
+    "name_ar": "فلاينج تايغر الرياض",
+    "name_en": "Flying Tiger Riyadh",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "رياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "متجر دنماركي لهدايا ومستلزمات منزلية وقرطاسية بأسعار رمزية",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Flying Tiger 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Flying+Tiger+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "action-riyadh",
+    "name_ar": "أكشن الرياض",
+    "name_en": "Action Riyadh",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "متجر أوروبي لمنتجات متنوعة من ديكور ومنزلي وقرطاسية بأسعار مخفضة",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Action 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Action+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "miniso-riyadh",
+    "name_ar": "مينيسو الرياض",
+    "name_en": "Miniso Riyadh",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "متجر ياباني لإكسسوارات ومنتجات يومية ظريفة بأسعار مناسبة",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Miniso 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Miniso+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "house-of-fraser-riyadh",
+    "name_ar": "هاوس أوف فريزر الرياض",
+    "name_en": "House of Fraser Riyadh",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "الرياض فرونت",
+    "neighborhood_en": "Riyadh Front",
+    "description_ar": "متجر بريطاني متعدد الأقسام مع أزياء ومستحضرات تجميل وأدوات منزلية",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "House of Fraser 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=House+of+Fraser+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "opera-gallery-riyadh",
+    "name_ar": "أوبرا غاليري الرياض",
+    "name_en": "Opera Gallery Riyadh",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "غاليري فنية دولية تبيع لوحات وأعمال فنية من فنانين عالميين",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Opera Gallery 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Opera+Gallery+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-conran-shop-riyadh",
+    "name_ar": "ذا كونران شوب",
+    "name_en": "The Conran Shop Riyadh",
+    "category": "تسوق",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "KAFD",
+    "description_ar": "متجر أثاث وديكور بريطاني فاخر بتصميم معاصر ومنتجات مختارة",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "The Conran Shop 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Conran+Shop+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  }
+]

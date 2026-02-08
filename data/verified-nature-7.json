@@ -1,0 +1,842 @@
+[
+  {
+    "id": "wadi-sulay-trail",
+    "name_ar": "ممشى وادي السلي",
+    "name_en": "Wadi Sulay Trail",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "شرق الرياض",
+    "neighborhood_en": "East Riyadh",
+    "description_ar": "ممشى طبيعي على مجرى نهر جاف مع نباتات صحراوية وتكوينات صخرية",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Regency Holidays 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Sulay+Trail+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "red-sand-dunes",
+    "name_ar": "الرمال الحمراء",
+    "name_en": "Red Sand Dunes",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "شرق الرياض",
+    "neighborhood_en": "East Riyadh",
+    "description_ar": "كثبان رملية حمراء خلابة مثالية لركوب الدبابات والتزلج على الرمال",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Wikiloc 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Red+Sand+Dunes+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-muazzar-public-park",
+    "name_ar": "حديقة المعذر العامة",
+    "name_en": "Al Muazzar Public Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "وسط الرياض",
+    "neighborhood_en": "Central Riyadh",
+    "description_ar": "حديقة عامة مجددة مع ممشى ونوافير وأماكن جلوس مريحة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh.sa 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Muazzar+Public+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-masmak-lake",
+    "name_ar": "بحيرة المصمك",
+    "name_en": "Al Masmak Lake",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "بحيرة اصطناعية في منطقة وادي حنيفة مع إطلالات طبيعية جميلة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh.sa 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Masmak+Lake+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-hubail-park",
+    "name_ar": "حديقة الحبيل",
+    "name_en": "Al Hubail Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "غرب الرياض",
+    "neighborhood_en": "West Riyadh",
+    "description_ar": "حديقة على ضفاف وادي حنيفة مع مسارات مشي ومناطق نزهات",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh.sa 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Hubail+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "king-abdullah-park-malaz",
+    "name_ar": "منتزه الملك عبدالله بالملز",
+    "name_en": "King Abdullah Park Malaz",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "منتزه واسع مع نوافير راقصة وبحيرة وممشى وأماكن ألعاب",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh.sa 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=King+Abdullah+Park+Malaz+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "wadi-laban",
+    "name_ar": "وادي لبن",
+    "name_en": "Wadi Laban",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "غرب الرياض",
+    "neighborhood_en": "West Riyadh",
+    "description_ar": "وادي طبيعي مع تشكيلات صخرية ومسارات مشي وتسلق",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Wikiloc 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Laban+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-suwaidi-public-park",
+    "name_ar": "حديقة السويدي العامة",
+    "name_en": "Al Suwaidi Public Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي السويدي",
+    "neighborhood_en": "Al Suwaidi",
+    "description_ar": "حديقة عامة مجددة ومطورة ضمن موسم الرياض مع فعاليات متنوعة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Times of India 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Suwaidi+Public+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "valley-view-riyadh",
+    "name_ar": "فالي فيو الرياض",
+    "name_en": "Valley View Riyadh",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "وادي حنيفة",
+    "neighborhood_en": "Wadi Hanifa",
+    "description_ar": "إطلالة رائعة على وادي حنيفة مع مقاهي ومطاعم ومسارات مشي",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Valley+View+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-bujairi-terrace",
+    "name_ar": "منتزه البجيري",
+    "name_en": "Al Bujairi Terrace",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "منتزه مطل على حي الطريف التاريخي مع مطاعم عالمية وإطلالات خلابة",
+    "google_rating": 4.6,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Visit Saudi 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Bujairi+Terrace+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "wadi-al-arj",
+    "name_ar": "وادي العرج",
+    "name_en": "Wadi Al Arj",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "وادي طبيعي هادئ مع تكوينات صخرية وممرات للمشي والتخييم",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Wikiloc 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Al+Arj+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "tal-aflah",
+    "name_ar": "تل أفلح",
+    "name_en": "Tal Aflah",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "غرب الرياض",
+    "neighborhood_en": "West Riyadh",
+    "description_ar": "تل مرتفع مع إطلالة بانورامية على وادي حنيفة والمناطق المحيطة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Hiking 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tal+Aflah+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-malqa-public-park",
+    "name_ar": "حديقة الملقا العامة",
+    "name_en": "Al Malqa Public Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "حديقة عامة حديثة مع ممشى مضاء ومسطحات خضراء وملاعب",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Malqa+Public+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "granada-park",
+    "name_ar": "حديقة غرناطة",
+    "name_en": "Granada Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي غرناطة",
+    "neighborhood_en": "Ghirnatah",
+    "description_ar": "حديقة حي مع مسارات مشي ومناطق جلوس ومساحات لعب للأطفال",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Granada+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-yasmin-park",
+    "name_ar": "حديقة الياسمين",
+    "name_en": "Al Yasmin Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "حديقة حديثة في شمال الرياض مع ملاعب وممشى ونوافير",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Yasmin+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "hittin-public-park",
+    "name_ar": "حديقة حطين العامة",
+    "name_en": "Hittin Public Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "حديقة عامة مع مسارات مشي وجري ومناطق خضراء واسعة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Hittin+Public+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-haer-park",
+    "name_ar": "منتزه الحاير",
+    "name_en": "Al Haer Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "منتزه في نهاية وادي حنيفة مع بحيرة ومناطق طبيعية",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh.sa 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Haer+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-safra-park",
+    "name_ar": "حديقة الصفراء",
+    "name_en": "Al Safra Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الصفراء",
+    "neighborhood_en": "Al Safra",
+    "description_ar": "حديقة عامة هادئة مع أشجار ظل ومقاعد وملاعب أطفال",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Safra+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "prince-sultan-park",
+    "name_ar": "حديقة الأمير سلطان",
+    "name_en": "Prince Sultan Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الورود",
+    "neighborhood_en": "Al Wurud",
+    "description_ar": "حديقة واسعة مع مسارات مشي وجري ومناطق لعب وحدائق ورد",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Prince+Sultan+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-salam-park",
+    "name_ar": "حديقة السلام بارك",
+    "name_en": "Al Salam Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي السلام",
+    "neighborhood_en": "Al Salam",
+    "description_ar": "حديقة مجددة مع نوافير ومساحات خضراء وملاعب رياضية",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Salam+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "wadi-laban-dam-park",
+    "name_ar": "منتزه سد وادي لبن",
+    "name_en": "Wadi Laban Dam Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "غرب الرياض",
+    "neighborhood_en": "West Riyadh",
+    "description_ar": "منتزه على سد وادي لبن مع إطلالات طبيعية وجلسات هادئة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Laban+Dam+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-nakheel-public-park",
+    "name_ar": "حديقة النخيل العامة",
+    "name_en": "Al Nakheel Public Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "An Nakhil",
+    "description_ar": "حديقة مع نخيل ومسارات وملاعب أطفال في شمال الرياض",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Nakheel+Public+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-nada-park",
+    "name_ar": "حديقة الندى",
+    "name_en": "Al Nada Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الندى",
+    "neighborhood_en": "An Nada",
+    "description_ar": "حديقة حي حديثة مع مسطحات خضراء وملعب كرة قدم ومسارات",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Nada+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-ain-park",
+    "name_ar": "منتزه العين",
+    "name_en": "Al Ain Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "وادي حنيفة",
+    "neighborhood_en": "Wadi Hanifa",
+    "description_ar": "منتزه جميل على ضفاف وادي حنيفة مع نوافير وحدائق مورقة",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Ain+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "ar-rabi-central-park",
+    "name_ar": "حديقة الربيع المركزية",
+    "name_en": "Ar Rabi Central Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Ar Rabi",
+    "description_ar": "حديقة مركزية كبيرة مع ممشى دائري ومنطقة ألعاب أطفال وملاعب",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ar+Rabi+Central+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "qurtubah-park",
+    "name_ar": "حديقة قرطبة",
+    "name_en": "Qurtubah Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي قرطبة",
+    "neighborhood_en": "Qurtubah",
+    "description_ar": "حديقة حي مع مسارات مشي ومناطق جلوس ومساحات خضراء",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Qurtubah+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "ash-shifa-public-park",
+    "name_ar": "حديقة الشفاء العامة",
+    "name_en": "Ash Shifa Public Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الشفاء",
+    "neighborhood_en": "Ash Shifa",
+    "description_ar": "حديقة عامة مع ملاعب ومسارات وحدائق ورد ومنطقة أطفال",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ash+Shifa+Public+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-mughrazat-park",
+    "name_ar": "حديقة المغرزات",
+    "name_en": "Al Mughrazat Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي المغرزات",
+    "neighborhood_en": "Al Mughrazat",
+    "description_ar": "حديقة عامة واسعة مع بحيرة صغيرة ومسارات مشي ونوافير",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Mughrazat+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-rawabi-park",
+    "name_ar": "حديقة الروابي",
+    "name_en": "Al Rawabi Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الروابي",
+    "neighborhood_en": "Al Rawabi",
+    "description_ar": "حديقة هادئة مع أشجار ظل كثيفة ومقاعد وملعب كرة سلة",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Rawabi+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "lower-wadi-hanifa-walk",
+    "name_ar": "ممشى وادي حنيفة السفلي",
+    "name_en": "Lower Wadi Hanifa Walk",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "وادي حنيفة",
+    "neighborhood_en": "Wadi Hanifa",
+    "description_ar": "ممشى طويل في الجزء السفلي من وادي حنيفة مع مناظر طبيعية خلابة",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Wadi Hanifa 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lower+Wadi+Hanifa+Walk+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  }
+]

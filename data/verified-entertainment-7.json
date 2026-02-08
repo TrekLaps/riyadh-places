@@ -1,0 +1,2126 @@
+[
+  {
+    "id": "mantra-spa",
+    "name_ar": "مانترا سبا",
+    "name_en": "Mantra Spa",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "سبا نسائي فاخر يقدم مساج وحمام مغربي وخدمات تجميل متكاملة للنساء",
+    "google_rating": 4.6,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mantra.sa 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mantra+Spa+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "jo-spa",
+    "name_ar": "جو سبا",
+    "name_en": "Jo Spa",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مركز سبا نسائي فاخر يقدم تجربة استرخاء فريدة مع علاجات متخصصة",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "JoSpa-SA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Jo+Spa+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "fairmont-riyadh-spa",
+    "name_ar": "سبا فيرمونت الرياض",
+    "name_en": "Fairmont Riyadh Spa",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "سبا فاخر في فندق فيرمونت مع أقسام منفصلة للرجال والنساء",
+    "google_rating": 4.7,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Fairmont Hotels 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Fairmont+Riyadh+Spa+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "the-ladies-spa-mandarin-oriental",
+    "name_ar": "سبا الليديز ماندارين أورينتال",
+    "name_en": "The Ladies Spa Mandarin Oriental",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "سبا فاخر للنساء في فندق ماندارين أورينتال الفيصلية مع مسبح داخلي وغرف علاج متعددة",
+    "google_rating": 4.8,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Ladies+Spa+Mandarin+Oriental+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "almanahil-spa",
+    "name_ar": "المنهل سبا",
+    "name_en": "AlManahil Spa",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "من أقدم صالونات التجميل في الرياض مع سبا متكامل وأنشطة للأطفال ومسبح",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AlManahil+Spa+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "almultaka-ladies-center",
+    "name_ar": "الملتقى ليديز سنتر",
+    "name_en": "Almultaka Ladies Center",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "مركز نسائي شامل يضم سبا وصالون ومركز لياقة ومطعم في البوليفارد",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Almultaka+Ladies+Center+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "eforea-spa-and-health-club",
+    "name_ar": "إيفوريا سبا آند هيلث كلوب",
+    "name_en": "Eforea Spa and Health Club",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي غرناطة",
+    "neighborhood_en": "Ghirnatah",
+    "description_ar": "سبا متكامل في فندق هيلتون يقدم علاجات بحرية وأعشاب طبيعية مع خدمات للعرائس",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Eforea+Spa+and+Health+Club+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "marrakesh-spa",
+    "name_ar": "مراكش سبا",
+    "name_en": "Marrakesh Spa",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي العزيزية",
+    "neighborhood_en": "Al Aziziyah",
+    "description_ar": "أول سبا نسائي جنوب الرياض مع خدمات مساج وعناية شاملة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Snapchat 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Marrakesh+Spa+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "aurora-spa",
+    "name_ar": "أورورا سبا",
+    "name_en": "Aurora Spa",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "سبا نسائي على طريق أنس بن مالك مع خدمات مساج وعناية بالبشرة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Fresha 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Aurora+Spa+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "saray-spa-marriott",
+    "name_ar": "سراي سبا ماريوت",
+    "name_en": "Saray Spa Marriott",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "سبا فاخر في ماريوت الحي الدبلوماسي مستوحى من التراث العربي مع حمامات وعلاجات متنوعة",
+    "google_rating": 4.6,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Saray+Spa+Marriott+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "nebras-spa",
+    "name_ar": "نبراس سبا",
+    "name_en": "Nebras Spa",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "سبا للرجال في العقيق مع معالجين معتمدين وحمام مغربي ومساج متخصص",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "NebrassSpa 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nebras+Spa+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "رجال",
+      "شباب"
+    ]
+  },
+  {
+    "id": "black-stone-spa",
+    "name_ar": "بلاك ستون سبا",
+    "name_en": "Black Stone Spa",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "Al Sulaimaniyah",
+    "description_ar": "سبا للرجال يقدم حمام مغربي وعناية بالجسم ومساجات متنوعة",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Arabia Weddings 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Black+Stone+Spa+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "رجال",
+      "شباب"
+    ]
+  },
+  {
+    "id": "narci-spa-and-salon",
+    "name_ar": "ناركي سبا آند صالون",
+    "name_en": "Narci Spa and Salon",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "سبا فاخر في فندق نرجس مع أقسام للرجال والنساء وجاكوزي وساونا وغرف بخار",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Narci+Spa+and+Salon+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "رجال",
+      "شباب"
+    ]
+  },
+  {
+    "id": "mansard-spa-by-loccitane",
+    "name_ar": "مانسارد سبا لوكسيتان",
+    "name_en": "Mansard Spa by L'Occitane",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Ar Rabi",
+    "description_ar": "سبا فاخر من العلامة الفرنسية لوكسيتان مع علاجات للرجال والنساء",
+    "google_rating": 4.6,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mansard+Spa+by+L'Occitane+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "رجال",
+      "شباب"
+    ]
+  },
+  {
+    "id": "battlekart",
+    "name_ar": "باتل كارت",
+    "name_en": "BattleKart",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي القيروان",
+    "neighborhood_en": "Al Qairawan",
+    "description_ar": "تجربة كارتنغ تفاعلية فريدة من نوعها الأولى في الشرق الأوسط مع شاشات عرض أرضية",
+    "google_rating": 4.6,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=BattleKart+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "aerodium-riyadh",
+    "name_ar": "إيروديوم الرياض",
+    "name_en": "AERODIUM Riyadh",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي إشبيلية",
+    "neighborhood_en": "Ishbiliyah",
+    "description_ar": "أهدأ نفق رياح مفتوح في العالم لتجربة القفز الحر بدون طائرة",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Indoor Skydiving Source 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AERODIUM+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "gravity-indoor-skydiving",
+    "name_ar": "غرافيتي إندور سكاي دايفنغ",
+    "name_en": "Gravity Indoor Skydiving",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "مركز قفز حر داخلي مع نفق هوائي متطور لجميع الأعمار",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Cobone 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Gravity+Indoor+Skydiving+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "riyadh-air-sports",
+    "name_ar": "ريادة الرياض للرياضات الجوية",
+    "name_en": "Riyadh Air Sports",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "ديراب",
+    "neighborhood_en": "Dirab",
+    "description_ar": "مركز رياضات جوية يقدم تجارب القفز المظلي الحقيقي والطيران الشراعي",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Visit Saudi 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Air+Sports+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "seven-al-hamra",
+    "name_ar": "سفن الحمراء",
+    "name_en": "SEVEN Al Hamra",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الحمراء",
+    "neighborhood_en": "Al Hamra",
+    "description_ar": "مجمع ترفيهي ضخم يضم نفق قفز حر داخلي بارتفاع 12 متر وألعاب متنوعة",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "SEVEN.sa 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=SEVEN+Al+Hamra+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "wild-paint-house",
+    "name_ar": "وايلد بينت هاوس",
+    "name_en": "Wild Paint House",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "ستوديو رسم جماعي مرح يقدم تجربة فنية اجتماعية فريدة مستوحاة من دبي",
+    "google_rating": 4.6,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Wild Paint House 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wild+Paint+House+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "synergy-art-hub",
+    "name_ar": "سينيرجي آرت هب",
+    "name_en": "Synergy Art Hub",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مجموعة فنية نسائية عالمية بقيادة الفنانة علياء الدقيس تقدم ورش عمل متنوعة",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Synergy+Art+Hub+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "impasto-moments",
+    "name_ar": "إمباستو مومنتس",
+    "name_en": "Impasto Moments",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "ستوديو فني متخصص بالرسم التكسشري مع أجواء إبداعية مميزة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Destination KSA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Impasto+Moments+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "creative-hub",
+    "name_ar": "كرييتيف هب",
+    "name_en": "Creative Hub",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Ar Rabi",
+    "description_ar": "ستوديو ورش فنية لتلوين المجسمات وتزيين جرابات الجوال",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Destination KSA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Creative+Hub+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "root-tribe-club",
+    "name_ar": "روت ترايب كلوب",
+    "name_en": "Root Tribe Club",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الورود",
+    "neighborhood_en": "Al Wurud",
+    "description_ar": "ملاذ للفنانين متخصص بورش التفتنغ والطباعة اليدوية والنسيج",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Destination KSA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Root+Tribe+Club+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "sunshine-space",
+    "name_ar": "صن شاين سبيس",
+    "name_en": "Sunshine Space",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "An Narjis",
+    "description_ar": "مساحة إبداعية نسائية لورش الفخار والتصوير مع باقات هدايا",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Destination KSA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sunshine+Space+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "whipped-dreams-artistry",
+    "name_ar": "ويبد دريمز آرتستري",
+    "name_en": "Whipped Dreams Artistry",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "أول مركز فني في المملكة لصنع الديكودين الياباني لتزيين الأغراض اليومية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Destination KSA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Whipped+Dreams+Artistry+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "floristnicia",
+    "name_ar": "فلورستنيشا",
+    "name_en": "Floristnicia",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "An Narjis",
+    "description_ar": "محل زهور متخصص بورش ترتيب الباقات على الطريقة الكورية",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Destination KSA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Floristnicia+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "mjrh-studio",
+    "name_ar": "مجره ستوديو",
+    "name_en": "Mjrh Studio",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "متجر وستوديو فني يقدم ورش فسيفساء وفخار ورسم على الكانفس",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Destination KSA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mjrh+Studio+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "comedy-pod",
+    "name_ar": "كوميدي بود",
+    "name_en": "Comedy Pod",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "مكان متخصص بعروض الستاند أب كوميدي المحلية والعربية طوال العام",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Enjoy.sa 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Comedy+Pod+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "one-mic-stand-up-comedy",
+    "name_ar": "وان مايك ستاند أب كوميدي",
+    "name_en": "One Mic Stand Up Comedy",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "عروض ستاند أب كوميدي أسبوعية مع كوميديين سعوديين وعرب",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Visit Saudi 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=One+Mic+Stand+Up+Comedy+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "luca-park",
+    "name_ar": "لوكا بارك",
+    "name_en": "Luca Park",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "منتزه كلاب فاخر داخلي وخارجي مع 13 خدمة متخصصة من حلاقة وبيطري وكافيه صديق للكلاب",
+    "google_rating": 4.6,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Luca Park SA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Luca+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-barking-lot-riyadh",
+    "name_ar": "ذا باركينغ لوت الرياض",
+    "name_en": "The Barking Lot Riyadh",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "An Narjis",
+    "description_ar": "كافيه صديق للكلاب مع خدمات طعام ومشروبات وصالون حلاقة للحيوانات",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Arab News 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Barking+Lot+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "paws-society",
+    "name_ar": "بوز سوسايتي",
+    "name_en": "Paws Society",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مكان اجتماعي للكلاب وأصحابها للتواصل والتعارف مع فعاليات منتظمة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Arab News 2023"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Paws+Society+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-social-pup",
+    "name_ar": "ذا سوشال بوب",
+    "name_en": "The Social Pup",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "ملعب داخلي للكلاب مع صالون حلاقة ومطعم لأصحاب الحيوانات",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Life in Saudi Arabia 2023"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Social+Pup+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "ahaji",
+    "name_ar": "أهاجي",
+    "name_en": "Ahaji",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "An Narjis",
+    "description_ar": "غرف هروب بطابع عربي فريد مع شخصيات عربية مألوفة وألغاز مشوقة",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ahaji+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "escape-ksa",
+    "name_ar": "إسكيب كي إس إي",
+    "name_en": "Escape KSA",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "ذا زون مول",
+    "neighborhood_en": "The Zone Mall",
+    "description_ar": "غرف هروب مع تجارب واقع افتراضي وأربع غرف حية بأجواء غامضة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Escape+KSA+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "reem-international-circuit",
+    "name_ar": "ريم انترناشونال سيركت",
+    "name_en": "Reem International Circuit",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي العريجاء",
+    "neighborhood_en": "Al Urayja",
+    "description_ar": "أول حلبة سباقات رسمية في الرياض مع سباقات دريفت وأوتوكروس",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Arab News 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Reem+International+Circuit+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "شباب"
+    ]
+  },
+  {
+    "id": "jameel-motorsport",
+    "name_ar": "جميل موتورسبورت",
+    "name_en": "Jameel Motorsport",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي المروج",
+    "neighborhood_en": "Al Muruj",
+    "description_ar": "برنامج سباقات محترف يقدم تجارب دريفت بسيارات تويوتا سوبرا",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Jameel Motorsport 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Jameel+Motorsport+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "شباب"
+    ]
+  },
+  {
+    "id": "strike-10",
+    "name_ar": "سترايك 10",
+    "name_en": "Strike 10",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "النخيل مول",
+    "neighborhood_en": "Al Nakheel Mall",
+    "description_ar": "صالة بولينغ بتصميم ريترو مع نيون وفن شوارع وموسيقى حية",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "QubicaAMF 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Strike+10+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "mosary-arena",
+    "name_ar": "موساري أرينا",
+    "name_en": "Mosary Arena",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Ar Rabi",
+    "description_ar": "مركز ترفيهي شامل مع ليزر تاغ وترامبولين وألعاب VR وسباقات فورمولا",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "This is Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mosary+Arena+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "magic-planet-riyadh-park",
+    "name_ar": "ماجيك بلانيت - رياض بارك",
+    "name_en": "Magic Planet Riyadh Park",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "حديقة ترامبولين داخلية ضخمة مع تحديات نينجا وكرة سلة هوائية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Magic Planet 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Magic+Planet+Riyadh+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "aquarabia-qiddiya",
+    "name_ar": "أكوارابيا القدية",
+    "name_en": "Aquarabia Qiddiya",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "القدية",
+    "neighborhood_en": "Qiddiya",
+    "description_ar": "أكبر حديقة مائية في الشرق الأوسط مع أكثر من 22 لعبة مائية و5 أرقام قياسية عالمية",
+    "google_rating": 4.7,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Aquarabia 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Aquarabia+Qiddiya+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "amaaria-aqua-park",
+    "name_ar": "منتجع عمارية أكوا بارك",
+    "name_en": "Amaaria Aqua Park",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "طريق العمارية",
+    "neighborhood_en": "Al Ammariyah",
+    "description_ar": "منتجع مائي مع مسبح خارجي وألعاب مائية وحديقة ومرافق رياضية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Booking.com 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Amaaria+Aqua+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "durat-al-sahel-water-park",
+    "name_ar": "درة الساحل ووتر بارك",
+    "name_en": "Durat Al Sahel Water Park",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "حديقة مائية عائلية مع مسابح فاخرة ومنزلقات مائية وأجواء ممتعة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Regency Holidays 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Durat+Al+Sahel+Water+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "reel-cinemas",
+    "name_ar": "ريل سينما",
+    "name_en": "Reel Cinemas",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "النخيل مول",
+    "neighborhood_en": "Al Nakheel Mall",
+    "description_ar": "سينما حديثة مع أحدث الأفلام وشاشات عالية الجودة وتجربة مشاهدة متميزة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Reel Cinemas 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Reel+Cinemas+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "archery-range-diriyah",
+    "name_ar": "آرشري رينج الدرعية",
+    "name_en": "Archery Range Diriyah",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "ميدان رماية بالقوس والسهم في الهواء الطلق مع غرفة تحطيم وألعاب كرنفال",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Archery+Range+Diriyah+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "padel-time",
+    "name_ar": "بادل تايم",
+    "name_en": "Padel Time",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "ملاعب بادل تنس مغطاة ومضاءة مع حجز إلكتروني وبطولات منتظمة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Padel Time 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Padel+Time+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "tahattuf-camp",
+    "name_ar": "مخيمات تهاتف",
+    "name_en": "Tahattuf Camp",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "تجربة تخييم صحراوية فاخرة مع خيام مجهزة ومشاوي ونشاطات ليلية",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Halayalla 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tahattuf+Camp+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "happy-land",
+    "name_ar": "هابي لاند",
+    "name_en": "Happy Land",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي المروج",
+    "neighborhood_en": "Al Muruj",
+    "description_ar": "مدينة ألعاب داخلية للأطفال مع منطقة ألعاب مائية وألعاب آركيد",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Happy Land 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Happy+Land+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "game-on",
+    "name_ar": "قيم أون",
+    "name_en": "Game On",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي القيروان",
+    "neighborhood_en": "Al Qairawan",
+    "description_ar": "مجمع ألعاب إلكترونية ضخم مع بلايستيشن وإكس بوكس وسباقات محاكاة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Game On 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Game+On+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "avenue-bowling",
+    "name_ar": "أفينيو بولينغ",
+    "name_en": "Avenue Bowling",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "صالة بولينغ عصرية مع ألعاب آركيد ومطعم وكافيه",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Avenue+Bowling+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "ifly-riyadh",
+    "name_ar": "آي فلاي الرياض",
+    "name_en": "iFly Riyadh",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "نفق هوائي داخلي لتجربة القفز الحر العمودي لجميع الأعمار والمستويات",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "iFly 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=iFly+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "ozo-park",
+    "name_ar": "أوزو بارك",
+    "name_en": "Ozo Park",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "An Narjis",
+    "description_ar": "حديقة تزلج داخلية مع مضمار أيس سكيتنغ وأنشطة شتوية",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ozo+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "karaoke-box-riyadh",
+    "name_ar": "كاريوكي بوكس الرياض",
+    "name_en": "Karaoke Box Riyadh",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "غرف كاريوكي خاصة مع نظام صوت احترافي وقائمة أغاني عالمية وعربية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Karaoke+Box+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "paintball-riyadh",
+    "name_ar": "بينتبول الرياض",
+    "name_en": "Paintball Riyadh",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "ساحة بينتبول خارجية مع معدات احترافية وسيناريوهات قتال متعددة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Halayalla 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Paintball+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-rink-ice-skating",
+    "name_ar": "ذا رينك آيس سكيتنغ",
+    "name_en": "The Rink Ice Skating",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "حلبة تزلج على الجليد مع دروس للمبتدئين وحفلات خاصة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Rink+Ice+Skating+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "flight-simulator-riyadh",
+    "name_ar": "فلايت سيميوليتر الرياض",
+    "name_en": "Flight Simulator Riyadh",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "محاكي طيران احترافي لتجربة قيادة طائرة بوينغ 737 مع مدرب",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Flight+Simulator+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "climb-the-wall",
+    "name_ar": "كلايم ذا وول",
+    "name_en": "Climb The Wall",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "جدار تسلق داخلي بارتفاعات مختلفة مع مدربين معتمدين ومسارات متعددة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Climb+The+Wall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "beach-lab-riyadh",
+    "name_ar": "بيتش لاب الرياض",
+    "name_en": "Beach Lab Riyadh",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "ملاعب كرة طائرة شاطئية داخلية مع رمل حقيقي وبطولات منتظمة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Beach+Lab+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "crazy-kart",
+    "name_ar": "كرازي كارت",
+    "name_en": "Crazy Kart",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "An Narjis",
+    "description_ar": "مضمار كارتنغ للأطفال والعائلات مع سيارات كهربائية آمنة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Crazy+Kart+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "bounce-fit",
+    "name_ar": "باونس فيت",
+    "name_en": "Bounce Fit",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "حديقة ترامبولين مع تمارين فيتنس على الترامبولين ومنطقة حرة للقفز",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bounce+Fit+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "zero-latency-vr-riyadh",
+    "name_ar": "زيرو لاتنسي VR الرياض",
+    "name_en": "Zero Latency VR Riyadh",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "ألعاب واقع افتراضي متعددة اللاعبين بحرية حركة كاملة وتقنية متطورة",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "About Her 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Zero+Latency+VR+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "mini-golf-riyadh",
+    "name_ar": "ميني غولف الرياض",
+    "name_en": "Mini Golf Riyadh",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Ar Rabi",
+    "description_ar": "ملعب غولف مصغر مع 18 حفرة بتصاميم ممتعة ومضيئة في الليل",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mini+Golf+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-haunted-house",
+    "name_ar": "ذا هانتد هاوس",
+    "name_en": "The Haunted House",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "بيت رعب تفاعلي مع ممثلين حقيقيين ومؤثرات صوتية وبصرية مخيفة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Season 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Haunted+House+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "action-zone",
+    "name_ar": "أكشن زون",
+    "name_en": "Action Zone",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Ar Rabi",
+    "description_ar": "مركز ترفيهي شامل مع ليزر تاغ ورماية وألعاب آركيد وبولينغ",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Action+Zone+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "4way-fit",
+    "name_ar": "فور واي فيت",
+    "name_en": "4Way Fit",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "نادي لياقة نسائي مع بادل وبوكسينغ ويوغا وكروس فيت",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Instagram 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=4Way+Fit+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء"
+    ]
+  },
+  {
+    "id": "padel-track",
+    "name_ar": "بادل تراك",
+    "name_en": "Padel Track",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "An Narjis",
+    "description_ar": "ملاعب بادل حديثة مع إضاءة ليلية وحجز إلكتروني سهل",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Padel+Track+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "games-town",
+    "name_ar": "غيمز تاون",
+    "name_en": "Games Town",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الحمراء",
+    "neighborhood_en": "Al Hamra",
+    "description_ar": "مركز ألعاب شامل مع بلاي ستيشن وإكس بوكس وطاولات بلياردو وفوسبول",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Games+Town+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "skate-park-riyadh",
+    "name_ar": "سكيت بارك الرياض",
+    "name_en": "Skate Park Riyadh",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "حديقة تزلج بالألواح مع منحدرات ورامبات لجميع المستويات",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Skate+Park+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "cutting-edge",
+    "name_ar": "كاتينغ إيدج",
+    "name_en": "Cutting Edge",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Ar Rabi",
+    "description_ar": "أكاديمية فنون قتال مع بوكسينغ وكيك بوكسينغ وجوجيتسو للجميع",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Cutting+Edge+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "white-water-waves",
+    "name_ar": "وايت ووتر ويفز",
+    "name_en": "White Water Waves",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "An Nakhil",
+    "description_ar": "حوض أمواج صناعية للتزلج على الماء مع مدربين محترفين",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=White+Water+Waves+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "velo-studio",
+    "name_ar": "فيلو ستوديو",
+    "name_en": "Velo Studio",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "ستوديو سيكلنغ داخلي بأجواء حماسية مع مدربين محترفين وموسيقى حية",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Velo+Studio+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "flow-yoga-studio",
+    "name_ar": "ستوديو فلو يوغا",
+    "name_en": "Flow Yoga Studio",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "ستوديو يوغا متخصص مع صفوف يوغا ساخنة وهاثا وفينياسا وتأمل",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Flow+Yoga+Studio+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "نساء"
+    ]
+  },
+  {
+    "id": "campfire-riyadh",
+    "name_ar": "كامبفاير الرياض",
+    "name_en": "Campfire Riyadh",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "تجربة تخييم حضرية مع خيام جلامبنغ ونار مخيم وأنشطة اجتماعية",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Instagram 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Campfire+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-arena-padel",
+    "name_ar": "ذا أرينا بادل",
+    "name_en": "The Arena Padel",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "مجمع ملاعب بادل احترافي مع ملاعب داخلية وخارجية وكافيتيريا",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Arena+Padel+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "hobby-corner",
+    "name_ar": "ركن الهواية",
+    "name_en": "Hobby Corner",
+    "category": "ترفيه",
+    "category_ar": "ترفيه",
+    "category_en": "entertainment",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "متجر وستوديو هوايات مع ورش نموذجات وحرف يدوية ودهان مجسمات",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Instagram 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Hobby+Corner+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  }
+]

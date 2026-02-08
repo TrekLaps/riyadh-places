@@ -1,0 +1,394 @@
+[
+  {
+    "id": "mall-of-saudi",
+    "name_ar": "مول السعودية",
+    "name_en": "Mall of Saudi",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "أكبر مول في السعودية قيد الإنشاء من ماجد الفطيم مع ترفيه وتسوق عالمي",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Arab News 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mall+of+Saudi+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "granada-mall",
+    "name_ar": "غرناطة مول",
+    "name_en": "Granada Mall",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي غرناطة",
+    "neighborhood_en": "Ghirnatah",
+    "description_ar": "مول يجمع بين الرياضة والتسوق والترفيه مع ملاعب ومطاعم",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Saudi Mall 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Granada+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "riyadh-gallery",
+    "name_ar": "الرياض غاليري",
+    "name_en": "Riyadh Gallery",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مول أنيق مع علامات تجارية عالمية ومنطقة مطاعم وكافيهات",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosafeir 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Gallery+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-faisaliyah-mall",
+    "name_ar": "مول الفيصلية",
+    "name_en": "Al Faisaliyah Mall",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مول فاخر في برج الفيصلية مع علامات تجارية راقية ومطاعم فاخرة",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosafeir 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Faisaliyah+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "u-walk-south",
+    "name_ar": "يو ووك جنوب",
+    "name_en": "U Walk South",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "ممشى تجاري مفتوح جديد في جنوب الرياض مع مطاعم وكافيهات",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=U+Walk+South+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "nassiriyah-one",
+    "name_ar": "الناصرية وان",
+    "name_en": "Nassiriyah One",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي الناصرية",
+    "neighborhood_en": "An Nasiriyah",
+    "description_ar": "مول حديث بتصميم مفتوح مع متاجر ومطاعم وكافيهات",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nassiriyah+One+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-zone-mall",
+    "name_ar": "ذا زون مول",
+    "name_en": "The Zone Mall",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي القيروان",
+    "neighborhood_en": "Al Qairawan",
+    "description_ar": "مول ترفيهي مع ألعاب ومطاعم ومتاجر وغرف هروب",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Zone+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "kingdom-mall",
+    "name_ar": "كينغدم مول",
+    "name_en": "Kingdom Mall",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مول فاخر في برج المملكة مع علامات تجارية عالمية وسكاي بريدج",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosafeir 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kingdom+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-diplomatic-center",
+    "name_ar": "ذا ديبلومات سنتر",
+    "name_en": "The Diplomatic Center",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "مركز تجاري في الحي الدبلوماسي مع متاجر ومطاعم ومقاهي فاخرة",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Diplomatic+Center+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-nakheel-walk",
+    "name_ar": "النخيل ووك",
+    "name_en": "Al Nakheel Walk",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "An Nakhil",
+    "description_ar": "ممشى تجاري مفتوح مع كافيهات ومطاعم ومتاجر بتصميم عصري",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Nakheel+Walk+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "avenues-riyadh",
+    "name_ar": "أفنيوز الرياض",
+    "name_en": "Avenues Riyadh",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "مول جديد بتصميم كويتي مع مساحات تسوق واسعة ومنطقة ترفيهية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Avenues+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "ahsa-mall-riyadh",
+    "name_ar": "الأحساء مول",
+    "name_en": "Ahsa Mall Riyadh",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "مول في جنوب الرياض مع متاجر محلية وعالمية ومنطقة مطاعم",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ahsa+Mall+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "zallal-diriyah",
+    "name_ar": "زلال الدرعية",
+    "name_en": "Zallal Diriyah",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "أول مشروع تجاري مختلط في الدرعية مع متاجر ومكاتب ومطاعم",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Diriyah Company 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Zallal+Diriyah+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-wadi-kafd",
+    "name_ar": "الوادي KAFD",
+    "name_en": "The Wadi KAFD",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي الملك عبدالله المالي",
+    "neighborhood_en": "KAFD",
+    "description_ar": "ساحة عامة مفتوحة أسفل مستوى الشارع مع متاجر ومطاعم وفعاليات",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "KAFD 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Wadi+KAFD+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  }
+]

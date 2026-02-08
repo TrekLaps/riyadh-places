@@ -1,0 +1,562 @@
+[
+  {
+    "id": "golden-host-chalets",
+    "name_ar": "شاليهات قولدن هوست",
+    "name_en": "Golden Host Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات فاخرة مع خصوصية تامة ومرافق عائلية متكاملة ومسبح",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Golden Host 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Golden+Host+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "candle-light-chalets",
+    "name_ar": "شاليهات كاندل لايت",
+    "name_en": "Candle Light Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات نظام قاعات فاخرة مع إضاءة رومانسية ومسبح وجاكوزي",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Saudi Gates 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Candle+Light+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-asdaf-chalets",
+    "name_ar": "شاليهات الأصداف",
+    "name_en": "Al Asdaf Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات فندقية فاخرة مع استقبال على مدار الساعة ومرافق متكاملة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Saudi Gates 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Asdaf+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "lulu-namar-chalets",
+    "name_ar": "شاليهات لؤلؤة نمار",
+    "name_en": "Lulu Namar Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "شاليهات مع ملعب قدم ومسبح وجلسات خارجية ومجلس ومطبخ متكامل",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Aqar.fm 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lulu+Namar+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "le-lou-chalets",
+    "name_ar": "شاليهات لي لو",
+    "name_en": "Le Lou Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات فاخرة مع تصميم عصري ومسبح خاص ومنطقة شواء",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "AlHGZ 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Le+Lou+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-resort-chalets",
+    "name_ar": "شاليهات ذا ريزورت",
+    "name_en": "The Resort Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "منتجع شاليهات فاخر مع فيلات خاصة ومسابح ومرافق ترفيهية",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Almosafer 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Resort+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "rose-garden-chalets",
+    "name_ar": "شاليهات روز غاردن",
+    "name_en": "Rose Garden Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شرق الرياض",
+    "neighborhood_en": "East Riyadh",
+    "description_ar": "شاليهات مع حدائق ورود ومسبح وملعب أطفال ومنطقة شواء",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "AlHGZ 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Rose+Garden+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "pretty-chalets",
+    "name_ar": "شاليهات بريتي",
+    "name_en": "Pretty Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات عصرية مع تصميم أنيق ومرافق حديثة ومسبح داخلي",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "AlHGZ 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pretty+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "otel-chalets",
+    "name_ar": "شاليهات أوتيل",
+    "name_en": "Otel Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات فندقية بخدمة فندق خمس نجوم مع مسبح وجاكوزي وساونا",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Almosafer 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Otel+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "summer-land-chalets",
+    "name_ar": "شاليهات سمر لاند",
+    "name_en": "Summer Land Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات عائلية مع ألعاب مائية ومسابح متعددة وملاعب أطفال",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "AlHGZ 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Summer+Land+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-haven-chalets",
+    "name_ar": "شاليهات ذا هيفن",
+    "name_en": "The Haven Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات هادئة مع خصوصية تامة وحديقة خاصة ومسبح",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "AlHGZ 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Haven+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "lifestyle-chalets",
+    "name_ar": "شاليهات لايف ستايل",
+    "name_en": "Lifestyle Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شرق الرياض",
+    "neighborhood_en": "East Riyadh",
+    "description_ar": "شاليهات بتصميم عصري مع جاكوزي خارجي ومنطقة شواء",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "AlHGZ 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lifestyle+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "bait-al-ezz-chalets",
+    "name_ar": "شاليهات بيت العز",
+    "name_en": "Bait Al Ezz Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات فاخرة للمناسبات والحفلات مع قاعات واسعة ومسبح",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "InHubSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bait+Al+Ezz+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-palm-chalets",
+    "name_ar": "شاليهات ذا بالم",
+    "name_en": "The Palm Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات مع نخيل ومسطحات خضراء ومسبح وملعب كرة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "AlHGZ 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Palm+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "cozy-chalets",
+    "name_ar": "شاليهات كوزي",
+    "name_en": "Cozy Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات مريحة بأسعار معقولة مع مسبح ومنطقة شواء",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "AlHGZ 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Cozy+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-loft-chalets",
+    "name_ar": "شاليهات ذا لوفت",
+    "name_en": "The Loft Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات بتصميم لوفت عصري مع سقف مرتفع ومسبح خاص",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "AlHGZ 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Loft+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "grand-chalets",
+    "name_ar": "شاليهات غراند",
+    "name_en": "Grand Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات كبيرة للعائلات الكبيرة مع عدة غرف نوم ومسبح كبير",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "AlHGZ 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Grand+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "elaf-chalets",
+    "name_ar": "شاليهات إيلاف",
+    "name_en": "Elaf Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات بتصميم إسلامي أنيق مع مسبح وحديقة ومنطقة شواء",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "AlHGZ 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Elaf+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "natural-chalets",
+    "name_ar": "شاليهات ناتشورال",
+    "name_en": "Natural Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات بتصميم طبيعي مع مسطحات خضراء ومسبح ومنطقة شواء",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "AlHGZ 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Natural+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-villa-chalets",
+    "name_ar": "شاليهات الفيلا",
+    "name_en": "The Villa Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalets",
+    "neighborhood": "شرق الرياض",
+    "neighborhood_en": "East Riyadh",
+    "description_ar": "فيلات شاليه مع حديقة خاصة ومسبح كبير ومجلس واسع",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Almosafer 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Villa+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  }
+]

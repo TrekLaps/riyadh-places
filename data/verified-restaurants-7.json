@@ -1,0 +1,2764 @@
+[
+  {
+    "id": "benoit",
+    "name_ar": "بينوا",
+    "name_en": "Benoit",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مطعم فرنسي فاخر من الشيف آلان دوكاس يقدم المأكولات الفرنسية الكلاسيكية في أجواء باريسية راقية",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025",
+      "DestinationKSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Benoit+Riyadh"
+  },
+  {
+    "id": "fiamma",
+    "name_ar": "فيامّا",
+    "name_en": "Fiamma",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مطعم إيطالي على سطح سنتريا مول مستوحى من التأثيرات الإيطالية في نيويورك مع إطلالات رائعة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Fiamma+Riyadh"
+  },
+  {
+    "id": "jareed-samhan",
+    "name_ar": "جاريد سمهان",
+    "name_en": "Jareed Samhan",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "مطعم سعودي راقي في فندق باب سمهان يقدم المأكولات السعودية التراثية بلمسة عصرية",
+    "google_rating": 4.6,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Jareed+Samhan+Riyadh"
+  },
+  {
+    "id": "krisp",
+    "name_ar": "كريسب",
+    "name_en": "Krisp",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مطعم بيتزا بقاعدة مقرمشة مميزة مستوحى من المطابخ الإيطالية التقليدية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Krisp+Riyadh"
+  },
+  {
+    "id": "la-ba",
+    "name_ar": "لا با",
+    "name_en": "La Ba",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "مطعم وترفيه بأسلوب مسرحي مع عروض موسيقية حية وأطباق مشتركة فاخرة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=La+Ba+Riyadh"
+  },
+  {
+    "id": "labocca",
+    "name_ar": "لابوكا",
+    "name_en": "LaBocca",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "An Narjis",
+    "description_ar": "مطعم إيطالي أنيق بديكور أحمر مثير مع بيتزا وباستا وأطباق لحوم في أجواء دافئة",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=LaBocca+Riyadh"
+  },
+  {
+    "id": "la-haut",
+    "name_ar": "لا هوت",
+    "name_en": "La Haut",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "أم الحمام",
+    "neighborhood_en": "Umm Al Hamam",
+    "description_ar": "مطعم فيوجن أفريقي متوسطي من الشيف السعودي الأمريكي مع مأكولات بحرية ولحوم مشوية",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025",
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=La+Haut+Riyadh"
+  },
+  {
+    "id": "maman",
+    "name_ar": "مامان",
+    "name_en": "Maman",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "مطعم فارسي يقدم الأطباق الإيرانية التقليدية من اليخنات واللحوم المشوية والأرز المعطر",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Maman+Riyadh"
+  },
+  {
+    "id": "pantera",
+    "name_ar": "بانتيرا",
+    "name_en": "Pantera",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "مطعم متوسطي فاخر بأسلوب آرت ديكو على شارع التحلية مع ثلاث مناطق متميزة",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pantera+Riyadh"
+  },
+  {
+    "id": "rowleys-steak-and-frites",
+    "name_ar": "روولي ستيك",
+    "name_en": "Rowleys Steak and Frites",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مطعم ستيك بريطاني شهير من لندن يتميز بستيك الانتريكوت مع بطاطس غير محدودة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025",
+      "TimeOut Riyadh 2025",
+      "DestinationKSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Rowleys+Steak+and+Frites+Riyadh"
+  },
+  {
+    "id": "seoul-korean-bbq",
+    "name_ar": "سيول",
+    "name_en": "Seoul Korean BBQ",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "مطعم كوري للشواء على الطاولة مع قائمة متنوعة تشمل السوشي والرامن والمشاوي",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Seoul+Korean+BBQ+Riyadh"
+  },
+  {
+    "id": "tolga",
+    "name_ar": "تولغا",
+    "name_en": "Tolga",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "يو ووك",
+    "neighborhood_en": "U Walk",
+    "description_ar": "مطعم شرق أوسطي معاصر يقدم الحمص والمزة واللحوم المشوية بلمسة عصرية",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tolga+Riyadh"
+  },
+  {
+    "id": "wadi-restaurant",
+    "name_ar": "وادي",
+    "name_en": "Wadi Restaurant",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "ليسن فالي",
+    "neighborhood_en": "Laysen Valley",
+    "description_ar": "مطعم سعودي فيوجن في ليسن فالي يقدم المأكولات السعودية بلمسة إبداعية مع شيشة",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Restaurant+Riyadh"
+  },
+  {
+    "id": "the-lighthouse",
+    "name_ar": "ذا لايتهاوس",
+    "name_en": "The Lighthouse",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "مطعم متعدد الاستخدامات مستوحى من المطبخ المتوسطي الشرقي في مجمع 1364",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Lighthouse+Riyadh"
+  },
+  {
+    "id": "the-roof",
+    "name_ar": "ذا روف",
+    "name_en": "The Roof",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مطعم على السطح فوق المملكة سوشال داينينج مع إطلالة على برج المملكة وأطباق مزة وسلطات",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Roof+Riyadh"
+  },
+  {
+    "id": "pastamamma",
+    "name_ar": "باستاماما",
+    "name_en": "Pastamamma",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مطعم إيطالي من دبي يقدم الباستا الطازجة والبيتزا من الفرن الحطبي في الرياض بارك مول",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "DestinationKSA 2025",
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pastamamma+Riyadh"
+  },
+  {
+    "id": "junkie-burger",
+    "name_ar": "جنكي برجر",
+    "name_en": "Junkie Burger",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مطعم برجر مميز يقدم خيارات كلاسيكية وإبداعية مع صلصات مبتكرة وأجنحة مدخنة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "DestinationKSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Junkie+Burger+Riyadh"
+  },
+  {
+    "id": "sprout",
+    "name_ar": "سبراوت",
+    "name_en": "Sprout",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مطعم سلطات وأطباق صحية من جدة يقدم الأطعمة الطازجة وعصائر الأساي في بيئة خضراء",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "DestinationKSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sprout+Riyadh"
+  },
+  {
+    "id": "pickl",
+    "name_ar": "بيكل",
+    "name_en": "Pickl",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "النخيل",
+    "neighborhood_en": "An Nakheel",
+    "description_ar": "مطعم برجر سماش شهير من الإمارات يقدم ساندويتشات الدجاج والميلك شيك",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "DestinationKSA 2025",
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pickl+Riyadh"
+  },
+  {
+    "id": "burns-road-express",
+    "name_ar": "برنز رود إكسبرس",
+    "name_en": "Burns Road Express",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الشهداء",
+    "neighborhood_en": "Ash Shuhada",
+    "description_ar": "مطعم باكستاني يقدم الكبابات والبرياني والنهاري والكراهي في أول جلسة خارجية",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "DestinationKSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Burns+Road+Express+Riyadh"
+  },
+  {
+    "id": "the-food-junction",
+    "name_ar": "ذا فود جنكشن",
+    "name_en": "The Food Junction",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "فود هول متنوع يجمع المأكولات العالمية من الأطعمة الشعبية إلى الأطباق الفاخرة",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "DestinationKSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Food+Junction+Riyadh"
+  },
+  {
+    "id": "kumar-restaurant",
+    "name_ar": "كومار",
+    "name_en": "Kumar Restaurant",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مطعم هندي في الرياض بارك مول يقدم الأطباق الهندية الأصيلة من الكاري والبرياني",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kumar+Restaurant+Riyadh"
+  },
+  {
+    "id": "sushi-library",
+    "name_ar": "سوشي لايبراري",
+    "name_en": "Sushi Library",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مطعم ياباني فاخر في الرياض بارك يقدم السوشي والساشيمي والأطباق اليابانية المتنوعة",
+    "google_rating": 4.7,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sushi+Library+Riyadh"
+  },
+  {
+    "id": "operation-falafel",
+    "name_ar": "أوبريشن فلافل",
+    "name_en": "Operation Falafel",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مطعم شرق أوسطي يقدم الفلافل والحمص والأطباق العربية الشعبية بأسلوب عصري",
+    "google_rating": 4.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Operation+Falafel+Riyadh"
+  },
+  {
+    "id": "casapasta",
+    "name_ar": "كازاباستا",
+    "name_en": "Casapasta",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مطعم إيطالي يقدم الباستا المصنوعة يدوياً والبيتزا في أجواء إيطالية أصيلة",
+    "google_rating": 4.6,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Casapasta+Riyadh"
+  },
+  {
+    "id": "asian-hub",
+    "name_ar": "آسيان هب",
+    "name_en": "Asian Hub",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مطعم آسيوي متنوع يقدم الأطباق الآسيوية من مختلف المطابخ في بيئة حيوية",
+    "google_rating": 4.8,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Asian+Hub+Riyadh"
+  },
+  {
+    "id": "buffalo-wild-wings",
+    "name_ar": "بافلو وايلد وينغز",
+    "name_en": "Buffalo Wild Wings",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مطعم أمريكي شهير متخصص في أجنحة الدجاج بصلصات متنوعة مع شاشات رياضية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Buffalo+Wild+Wings+Riyadh"
+  },
+  {
+    "id": "saba-yemeni",
+    "name_ar": "سبأ للمذاق اليمني",
+    "name_en": "Saba Yemeni",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مطعم يمني شعبي في الرياض بارك يقدم الأطباق اليمنية التقليدية بأسعار معقولة",
+    "google_rating": 3.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Saba+Yemeni+Riyadh"
+  },
+  {
+    "id": "albaik-kharj-road",
+    "name_ar": "البيك - طريق الخرج",
+    "name_en": "AlBaik Kharj Road",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "طريق الخرج",
+    "neighborhood_en": "Kharj Road",
+    "description_ar": "فرع البيك على طريق الخرج يقدم وجبات الدجاج المقلي والمأكولات البحرية",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosoah 2024",
+      "3orod.today 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AlBaik+Kharj+Road+Riyadh"
+  },
+  {
+    "id": "albaik-al-aziziyah",
+    "name_ar": "البيك - العزيزية",
+    "name_en": "AlBaik Al Aziziyah",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العزيزية",
+    "neighborhood_en": "Al Aziziyah",
+    "description_ar": "فرع البيك في حي العزيزية على طريق الحائر",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosoah 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AlBaik+Al+Aziziyah+Riyadh"
+  },
+  {
+    "id": "albaik-al-shifa",
+    "name_ar": "البيك - الشفا",
+    "name_en": "AlBaik Al Shifa",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "فرع البيك في حي الشفا على طريق عرفات",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosoah 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AlBaik+Al+Shifa+Riyadh"
+  },
+  {
+    "id": "albaik-as-suwaidi",
+    "name_ar": "البيك - السويدي",
+    "name_en": "AlBaik As Suwaidi",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السويدي",
+    "neighborhood_en": "As Suwaidi",
+    "description_ar": "فرع البيك في السويدي على شارع الأبراج",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosoah 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AlBaik+As+Suwaidi+Riyadh"
+  },
+  {
+    "id": "albaik-dhahrat-laban",
+    "name_ar": "البيك - ظهرة لبن",
+    "name_en": "AlBaik Dhahrat Laban",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "ظهرة لبن",
+    "neighborhood_en": "Dhahrat Laban",
+    "description_ar": "فرع البيك في ظهرة لبن بمركز الضاحية سنتر",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosoah 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AlBaik+Dhahrat+Laban+Riyadh"
+  },
+  {
+    "id": "albaik-tuwaiq",
+    "name_ar": "البيك - طويق",
+    "name_en": "AlBaik Tuwaiq",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "طويق",
+    "neighborhood_en": "Tuwaiq",
+    "description_ar": "فرع البيك في حي طويق على شارع نجم الدين الأيوبي",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosoah 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AlBaik+Tuwaiq+Riyadh"
+  },
+  {
+    "id": "albaik-al-fayha",
+    "name_ar": "البيك - الفيحاء",
+    "name_en": "AlBaik Al Fayha",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الفيحاء",
+    "neighborhood_en": "Al Fayha",
+    "description_ar": "فرع البيك في حي الفيحاء على شارع الإمام الشافعي",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosoah 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AlBaik+Al+Fayha+Riyadh"
+  },
+  {
+    "id": "albaik-an-naseem-west",
+    "name_ar": "البيك - النسيم الغربي",
+    "name_en": "AlBaik An Naseem West",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "النسيم الغربي",
+    "neighborhood_en": "An Naseem West",
+    "description_ar": "فرع البيك في النسيم الغربي على شارع سعد بن أبي وقاص",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosoah 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AlBaik+An+Naseem+West+Riyadh"
+  },
+  {
+    "id": "albaik-al-andalus",
+    "name_ar": "البيك - الأندلس",
+    "name_en": "AlBaik Al Andalus",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الأندلس",
+    "neighborhood_en": "Al Andalus",
+    "description_ar": "فرع البيك في حي الأندلس على شارع الأمير بندر بن عبد العزيز",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosoah 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AlBaik+Al+Andalus+Riyadh"
+  },
+  {
+    "id": "albaik-al-yarmuk",
+    "name_ar": "البيك - اليرموك",
+    "name_en": "AlBaik Al Yarmuk",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "اليرموك",
+    "neighborhood_en": "Al Yarmuk",
+    "description_ar": "فرع البيك في حي اليرموك على طريق الصحابة",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosoah 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AlBaik+Al+Yarmuk+Riyadh"
+  },
+  {
+    "id": "albaik-qurtubah",
+    "name_ar": "البيك - قرطبة",
+    "name_en": "AlBaik Qurtubah",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "قرطبة",
+    "neighborhood_en": "Qurtubah",
+    "description_ar": "فرع البيك في حي قرطبة على طريق الثمامة",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosoah 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AlBaik+Qurtubah+Riyadh"
+  },
+  {
+    "id": "albaik-sar-station",
+    "name_ar": "البيك - محطة سار",
+    "name_en": "AlBaik SAR Station",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "محطة سار",
+    "neighborhood_en": "SAR Station",
+    "description_ar": "فرع البيك في محطة قطار سار بالرياض",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosoah 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AlBaik+SAR+Station+Riyadh"
+  },
+  {
+    "id": "albaik-king-khalid-airport",
+    "name_ar": "البيك - مطار الملك خالد",
+    "name_en": "AlBaik King Khalid Airport",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "مطار الملك خالد",
+    "neighborhood_en": "King Khalid Airport",
+    "description_ar": "فرع البيك في مطار الملك خالد الدولي صالة 1 مفتوح 24 ساعة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosoah 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AlBaik+King+Khalid+Airport+Riyadh"
+  },
+  {
+    "id": "albaik-al-hazm",
+    "name_ar": "البيك - الحزم",
+    "name_en": "AlBaik Al Hazm",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الحزم",
+    "neighborhood_en": "Al Hazm",
+    "description_ar": "فرع البيك في حي الحزم على طريق ديراب",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosoah 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AlBaik+Al+Hazm+Riyadh"
+  },
+  {
+    "id": "albaik-al-badia",
+    "name_ar": "البيك - البديعة",
+    "name_en": "AlBaik Al Badia",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "البديعة",
+    "neighborhood_en": "Al Badia",
+    "description_ar": "فرع البيك في حي البديعة على طريق حمزة بن عبد المطلب",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosoah 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AlBaik+Al+Badia+Riyadh"
+  },
+  {
+    "id": "al-tazaj-al-muruj",
+    "name_ar": "الطازج - المروج",
+    "name_en": "Al Tazaj Al Muruj",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "المروج",
+    "neighborhood_en": "Al Muruj",
+    "description_ar": "فرع الطازج في حي المروج يقدم الدجاج المشوي والوجبات السريعة",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "branches.elbosla 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Tazaj+Al+Muruj+Riyadh"
+  },
+  {
+    "id": "al-tazaj-kharj-road",
+    "name_ar": "الطازج - طريق الخرج",
+    "name_en": "Al Tazaj Kharj Road",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "طريق الخرج",
+    "neighborhood_en": "Kharj Road",
+    "description_ar": "فرع الطازج على طريق الخرج جنوب الرياض",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "branches.elbosla 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Tazaj+Kharj+Road+Riyadh"
+  },
+  {
+    "id": "al-tazaj-an-naseem",
+    "name_ar": "الطازج - النسيم",
+    "name_en": "Al Tazaj An Naseem",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "النسيم",
+    "neighborhood_en": "An Naseem",
+    "description_ar": "فرع الطازج في حي النسيم شرق الرياض",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "branches.elbosla 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Tazaj+An+Naseem+Riyadh"
+  },
+  {
+    "id": "al-tazaj-al-yarmuk",
+    "name_ar": "الطازج - اليرموك",
+    "name_en": "Al Tazaj Al Yarmuk",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "اليرموك",
+    "neighborhood_en": "Al Yarmuk",
+    "description_ar": "فرع الطازج في حي اليرموك على طريق الدمام الفرعي",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "branches.elbosla 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Tazaj+Al+Yarmuk+Riyadh"
+  },
+  {
+    "id": "al-tazaj-al-takhassousi",
+    "name_ar": "الطازج - التخصصي",
+    "name_en": "Al Tazaj Al Takhassousi",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "التخصصي",
+    "neighborhood_en": "Al Takhassousi",
+    "description_ar": "فرع الطازج على طريق التخصصي شمال الرياض",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "branches.elbosla 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Tazaj+Al+Takhassousi+Riyadh"
+  },
+  {
+    "id": "al-tazaj-hittin",
+    "name_ar": "الطازج - حطين",
+    "name_en": "Al Tazaj Hittin",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "فرع الطازج في حي حطين على طريق الإمام تركي بن عبدالعزيز",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "branches.elbosla 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Tazaj+Hittin+Riyadh"
+  },
+  {
+    "id": "al-tazaj-as-sulimaniyah",
+    "name_ar": "الطازج - السليمانية",
+    "name_en": "Al Tazaj As Sulimaniyah",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "فرع الطازج في حي السليمانية على طريق الملك فهد",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "branches.elbosla 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Tazaj+As+Sulimaniyah+Riyadh"
+  },
+  {
+    "id": "al-tazaj-al-izdihar",
+    "name_ar": "الطازج - الازدهار",
+    "name_en": "Al Tazaj Al Izdihar",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الازدهار",
+    "neighborhood_en": "Al Izdihar",
+    "description_ar": "فرع الطازج في حي الازدهار شمال الرياض",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "branches.elbosla 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Tazaj+Al+Izdihar+Riyadh"
+  },
+  {
+    "id": "al-tazaj-al-munsiyah",
+    "name_ar": "الطازج - المونسية",
+    "name_en": "Al Tazaj Al Munsiyah",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "المونسية",
+    "neighborhood_en": "Al Munsiyah",
+    "description_ar": "فرع الطازج في حي المونسية على طريق الإمام سعود بن عبدالعزيز",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "branches.elbosla 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Tazaj+Al+Munsiyah+Riyadh"
+  },
+  {
+    "id": "al-tazaj-slay",
+    "name_ar": "الطازج - سلي",
+    "name_en": "Al Tazaj Slay",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "سلي",
+    "neighborhood_en": "Slay",
+    "description_ar": "فرع الطازج في حي سلي جنوب الرياض",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "branches.elbosla 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Tazaj+Slay+Riyadh"
+  },
+  {
+    "id": "koojeh-takhassusi",
+    "name_ar": "كوجيه - التخصصي",
+    "name_en": "Koojeh Takhassusi",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "التخصصي",
+    "neighborhood_en": "Al Takhassousi",
+    "description_ar": "مطعم إيراني مستوحى من أطعمة الشوارع الفارسية بنكهات غنية وأجواء عصرية - فرع التخصصي",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "DestinationKSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Koojeh+Takhassusi+Riyadh"
+  },
+  {
+    "id": "the-boba-bar",
+    "name_ar": "ذا بوبا بار",
+    "name_en": "The Boba Bar",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "النداء",
+    "neighborhood_en": "An Nada",
+    "description_ar": "مقهى ومطعم من جدة يقدم شاي الفقاعات والحليب والماتشا والآيس كريم الناعم",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "DestinationKSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Boba+Bar+Riyadh"
+  },
+  {
+    "id": "liza-beirut",
+    "name_ar": "ليزا بيروت",
+    "name_en": "Liza Beirut",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "مطعم لبناني راقي في البجيري تيراس يقدم المزة اللبنانية الأصيلة والمشاوي",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Liza+Beirut+Riyadh"
+  },
+  {
+    "id": "peacock-riyadh",
+    "name_ar": "بيكوك",
+    "name_en": "Peacock Riyadh",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم هندي حيدر آبادي بخبرة 30 عاماً يقدم البرياني والكباب والأطباق التقليدية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025",
+      "DestinationKSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Peacock+Riyadh+Riyadh"
+  },
+  {
+    "id": "piatto-restaurant",
+    "name_ar": "بياتو",
+    "name_en": "Piatto Restaurant",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "بانوراما مول",
+    "neighborhood_en": "Panorama Mall",
+    "description_ar": "مطعم إيطالي مريح في بانوراما مول يقدم الباستا الطازجة والبيتزا من الفرن الحطبي",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Dubai Musts 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Piatto+Restaurant+Riyadh"
+  },
+  {
+    "id": "lamborghini-cafe",
+    "name_ar": "لامبورغيني كافيه",
+    "name_en": "Lamborghini Cafe",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "بانوراما مول",
+    "neighborhood_en": "Panorama Mall",
+    "description_ar": "كافيه ومطعم مستوحى من علامة لامبورغيني يقدم القهوة والمأكولات الإيطالية",
+    "google_rating": 4.1,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Eye of Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lamborghini+Cafe+Riyadh"
+  },
+  {
+    "id": "papparoti",
+    "name_ar": "بابا روتي",
+    "name_en": "PappaRoti",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "بانوراما مول",
+    "neighborhood_en": "Panorama Mall",
+    "description_ar": "مقهى ماليزي شهير يقدم الكعك المحمص بالقهوة والزبدة الذائبة والمشروبات الساخنة والباردة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Panorama Mall Directory"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=PappaRoti+Riyadh"
+  },
+  {
+    "id": "the-cheesecake-factory-riyadh-park",
+    "name_ar": "تشيزكيك فاكتوري",
+    "name_en": "The Cheesecake Factory Riyadh Park",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مطعم أمريكي شهير في الرياض بارك يقدم قائمة واسعة مع تشيزكيك بأكثر من 30 نكهة",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Cheesecake+Factory+Riyadh+Park+Riyadh"
+  },
+  {
+    "id": "herfy-al-malaz",
+    "name_ar": "هرفي - الملز",
+    "name_en": "Herfy Al Malaz",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "فرع هرفي في حي الملز يقدم البرجر والوجبات السريعة السعودية",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Herfy Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Herfy+Al+Malaz+Riyadh"
+  },
+  {
+    "id": "herfy-al-olaya",
+    "name_ar": "هرفي - العليا",
+    "name_en": "Herfy Al Olaya",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "فرع هرفي في حي العليا على طريق الملك فهد",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Herfy Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Herfy+Al+Olaya+Riyadh"
+  },
+  {
+    "id": "herfy-as-suwaidi",
+    "name_ar": "هرفي - السويدي",
+    "name_en": "Herfy As Suwaidi",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السويدي",
+    "neighborhood_en": "As Suwaidi",
+    "description_ar": "فرع هرفي في حي السويدي غرب الرياض",
+    "google_rating": 3.7,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Herfy Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Herfy+As+Suwaidi+Riyadh"
+  },
+  {
+    "id": "herfy-an-naseem",
+    "name_ar": "هرفي - النسيم",
+    "name_en": "Herfy An Naseem",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "النسيم",
+    "neighborhood_en": "An Naseem",
+    "description_ar": "فرع هرفي في حي النسيم شرق الرياض",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Herfy Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Herfy+An+Naseem+Riyadh"
+  },
+  {
+    "id": "herfy-ar-rawabi",
+    "name_ar": "هرفي - الروابي",
+    "name_en": "Herfy Ar Rawabi",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الروابي",
+    "neighborhood_en": "Ar Rawabi",
+    "description_ar": "فرع هرفي في حي الروابي جنوب الرياض",
+    "google_rating": 3.7,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Herfy Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Herfy+Ar+Rawabi+Riyadh"
+  },
+  {
+    "id": "shawarmer-al-olaya",
+    "name_ar": "شاورمر - العليا",
+    "name_en": "Shawarmer Al Olaya",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "فرع شاورمر في حي العليا يقدم الشاورما السعودية المبتكرة",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Shawarmer 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Shawarmer+Al+Olaya+Riyadh"
+  },
+  {
+    "id": "shawarmer-al-malqa",
+    "name_ar": "شاورمر - الملقا",
+    "name_en": "Shawarmer Al Malqa",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "فرع شاورمر في حي الملقا شمال الرياض",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Shawarmer 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Shawarmer+Al+Malqa+Riyadh"
+  },
+  {
+    "id": "shawarmer-hittin",
+    "name_ar": "شاورمر - حطين",
+    "name_en": "Shawarmer Hittin",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "فرع شاورمر في حي حطين شمال الرياض",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Shawarmer 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Shawarmer+Hittin+Riyadh"
+  },
+  {
+    "id": "shawarmer-an-naseem",
+    "name_ar": "شاورمر - النسيم",
+    "name_en": "Shawarmer An Naseem",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "النسيم",
+    "neighborhood_en": "An Naseem",
+    "description_ar": "فرع شاورمر في حي النسيم شرق الرياض",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Shawarmer 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Shawarmer+An+Naseem+Riyadh"
+  },
+  {
+    "id": "shawarmer-as-suwaidi",
+    "name_ar": "شاورمر - السويدي",
+    "name_en": "Shawarmer As Suwaidi",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السويدي",
+    "neighborhood_en": "As Suwaidi",
+    "description_ar": "فرع شاورمر في حي السويدي غرب الرياض",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Shawarmer 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Shawarmer+As+Suwaidi+Riyadh"
+  },
+  {
+    "id": "pizza-hut-al-olaya",
+    "name_ar": "بيتزا هت - العليا",
+    "name_en": "Pizza Hut Al Olaya",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "فرع بيتزا هت في حي العليا يقدم البيتزا الأمريكية والأطباق الجانبية",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Pizza Hut SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pizza+Hut+Al+Olaya+Riyadh"
+  },
+  {
+    "id": "pizza-hut-an-naseem",
+    "name_ar": "بيتزا هت - النسيم",
+    "name_en": "Pizza Hut An Naseem",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "النسيم",
+    "neighborhood_en": "An Naseem",
+    "description_ar": "فرع بيتزا هت في حي النسيم شرق الرياض",
+    "google_rating": 3.7,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Pizza Hut SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pizza+Hut+An+Naseem+Riyadh"
+  },
+  {
+    "id": "pizza-hut-al-shifa",
+    "name_ar": "بيتزا هت - الشفا",
+    "name_en": "Pizza Hut Al Shifa",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "فرع بيتزا هت في حي الشفا جنوب الرياض",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Pizza Hut SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pizza+Hut+Al+Shifa+Riyadh"
+  },
+  {
+    "id": "pizza-hut-as-suwaidi",
+    "name_ar": "بيتزا هت - السويدي",
+    "name_en": "Pizza Hut As Suwaidi",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السويدي",
+    "neighborhood_en": "As Suwaidi",
+    "description_ar": "فرع بيتزا هت في حي السويدي غرب الرياض",
+    "google_rating": 3.7,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Pizza Hut SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pizza+Hut+As+Suwaidi+Riyadh"
+  },
+  {
+    "id": "kudu-al-olaya",
+    "name_ar": "كودو - العليا",
+    "name_en": "Kudu Al Olaya",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "فرع كودو في حي العليا يقدم الساندويتشات والمشروبات السعودية",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Kudu Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kudu+Al+Olaya+Riyadh"
+  },
+  {
+    "id": "kudu-al-malaz",
+    "name_ar": "كودو - الملز",
+    "name_en": "Kudu Al Malaz",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "فرع كودو في حي الملز وسط الرياض",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Kudu Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kudu+Al+Malaz+Riyadh"
+  },
+  {
+    "id": "kudu-hittin",
+    "name_ar": "كودو - حطين",
+    "name_en": "Kudu Hittin",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "فرع كودو في حي حطين شمال الرياض",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Kudu Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kudu+Hittin+Riyadh"
+  },
+  {
+    "id": "kudu-an-naseem",
+    "name_ar": "كودو - النسيم",
+    "name_en": "Kudu An Naseem",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "النسيم",
+    "neighborhood_en": "An Naseem",
+    "description_ar": "فرع كودو في حي النسيم شرق الرياض",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Kudu Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kudu+An+Naseem+Riyadh"
+  },
+  {
+    "id": "kudu-as-suwaidi",
+    "name_ar": "كودو - السويدي",
+    "name_en": "Kudu As Suwaidi",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السويدي",
+    "neighborhood_en": "As Suwaidi",
+    "description_ar": "فرع كودو في حي السويدي غرب الرياض",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Kudu Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kudu+As+Suwaidi+Riyadh"
+  },
+  {
+    "id": "blu-pizzeria-an-nakheel",
+    "name_ar": "بلو بيتزيريا - النخيل",
+    "name_en": "Blu Pizzeria An Nakheel",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "النخيل",
+    "neighborhood_en": "An Nakheel",
+    "description_ar": "فرع بلو بيتزيريا الإماراتي في النخيل بيتزا نابولتانية بلمسة شرق أوسطية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Blu+Pizzeria+An+Nakheel+Riyadh"
+  },
+  {
+    "id": "indian-breeze-al-aziziyah",
+    "name_ar": "إنديان بريز - العزيزية",
+    "name_en": "Indian Breeze Al Aziziyah",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العزيزية",
+    "neighborhood_en": "Al Aziziyah",
+    "description_ar": "مطعم هندي كيرلاوي يقدم المأكولات الجنوب هندية الأصيلة والأطباق الكلاسيكية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Indian+Breeze+Al+Aziziyah+Riyadh"
+  },
+  {
+    "id": "albaik-al-muzahmiyah",
+    "name_ar": "البيك - المزاحمية",
+    "name_en": "AlBaik Al Muzahmiyah",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "المزاحمية",
+    "neighborhood_en": "Al Muzahmiyah",
+    "description_ar": "فرع البيك في المزاحمية على طريق طويق المزاحمية",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosoah 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AlBaik+Al+Muzahmiyah+Riyadh"
+  },
+  {
+    "id": "mcdonalds-al-yasmin",
+    "name_ar": "ماكدونالدز - الياسمين",
+    "name_en": "McDonalds Al Yasmin",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "فرع ماكدونالدز في حي الياسمين يقدم الوجبات السريعة والبرجر",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "McDonald's SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=McDonalds+Al+Yasmin+Riyadh"
+  },
+  {
+    "id": "mcdonalds-khurais-road",
+    "name_ar": "ماكدونالدز - طريق خريص",
+    "name_en": "McDonalds Khurais Road",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "طريق خريص",
+    "neighborhood_en": "Khurais Road",
+    "description_ar": "فرع ماكدونالدز على طريق خريص شرق الرياض",
+    "google_rating": 3.7,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "McDonald's SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=McDonalds+Khurais+Road+Riyadh"
+  },
+  {
+    "id": "mcdonalds-al-aqiq",
+    "name_ar": "ماكدونالدز - العقيق",
+    "name_en": "McDonalds Al Aqiq",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "فرع ماكدونالدز في حي العقيق شمال الرياض",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "McDonald's SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=McDonalds+Al+Aqiq+Riyadh"
+  },
+  {
+    "id": "kfc-al-shifa",
+    "name_ar": "كنتاكي - الشفا",
+    "name_en": "KFC Al Shifa",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "فرع كنتاكي في حي الشفا يقدم الدجاج المقلي المقرمش والوجبات",
+    "google_rating": 3.7,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "KFC SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=KFC+Al+Shifa+Riyadh"
+  },
+  {
+    "id": "kfc-hittin",
+    "name_ar": "كنتاكي - حطين",
+    "name_en": "KFC Hittin",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "فرع كنتاكي في حي حطين شمال الرياض",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "KFC SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=KFC+Hittin+Riyadh"
+  },
+  {
+    "id": "kfc-an-naseem",
+    "name_ar": "كنتاكي - النسيم",
+    "name_en": "KFC An Naseem",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "النسيم",
+    "neighborhood_en": "An Naseem",
+    "description_ar": "فرع كنتاكي في حي النسيم شرق الرياض",
+    "google_rating": 3.7,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "KFC SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=KFC+An+Naseem+Riyadh"
+  },
+  {
+    "id": "burger-king-al-malqa",
+    "name_ar": "برجر كنج - الملقا",
+    "name_en": "Burger King Al Malqa",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "فرع برجر كنج في حي الملقا شمال الرياض",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "BK SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Burger+King+Al+Malqa+Riyadh"
+  },
+  {
+    "id": "burger-king-al-shifa",
+    "name_ar": "برجر كنج - الشفا",
+    "name_en": "Burger King Al Shifa",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "فرع برجر كنج في حي الشفا جنوب الرياض",
+    "google_rating": 3.7,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "BK SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Burger+King+Al+Shifa+Riyadh"
+  },
+  {
+    "id": "subway-al-takhassousi",
+    "name_ar": "صب واي - التخصصي",
+    "name_en": "Subway Al Takhassousi",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "التخصصي",
+    "neighborhood_en": "Al Takhassousi",
+    "description_ar": "فرع صب واي في حي التخصصي يقدم ساندويتشات طازجة ومخصصة",
+    "google_rating": 3.6,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Subway SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Subway+Al+Takhassousi+Riyadh"
+  },
+  {
+    "id": "subway-al-yasmin",
+    "name_ar": "صب واي - الياسمين",
+    "name_en": "Subway Al Yasmin",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "فرع صب واي في حي الياسمين شمال الرياض",
+    "google_rating": 3.7,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Subway SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Subway+Al+Yasmin+Riyadh"
+  },
+  {
+    "id": "papa-johns-al-yasmin",
+    "name_ar": "بابا جونز - الياسمين",
+    "name_en": "Papa Johns Al Yasmin",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "فرع بابا جونز في حي الياسمين يقدم البيتزا الطازجة والأطباق الجانبية",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Papa Johns SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Papa+Johns+Al+Yasmin+Riyadh"
+  },
+  {
+    "id": "papa-johns-al-malqa",
+    "name_ar": "بابا جونز - الملقا",
+    "name_en": "Papa Johns Al Malqa",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "فرع بابا جونز في حي الملقا شمال الرياض",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Papa Johns SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Papa+Johns+Al+Malqa+Riyadh"
+  },
+  {
+    "id": "amazonico-kafd",
+    "name_ar": "أمازونيكو - كافد",
+    "name_en": "Amazonico KAFD",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مطعم أمازوني لاتيني فاخر يقدم المطبخ البرازيلي والبيروفي في أجواء استوائية",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Amazonico+KAFD+Riyadh"
+  },
+  {
+    "id": "zuma-riyadh-kafd",
+    "name_ar": "زوما",
+    "name_en": "Zuma Riyadh KAFD",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مطعم ياباني عالمي فاخر يقدم الإزاكايا والروبتا والسوشي في بيئة أنيقة",
+    "google_rating": 4.6,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Zuma+Riyadh+KAFD+Riyadh"
+  },
+  {
+    "id": "coco-restaurant-kafd",
+    "name_ar": "كوكو",
+    "name_en": "Coco Restaurant KAFD",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مطعم فرنسي فاخر يقدم المأكولات الفرنسية المعاصرة مع حلوى ميس كوكو",
+    "google_rating": 4.4,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Coco+Restaurant+KAFD+Riyadh"
+  },
+  {
+    "id": "salt-riyadh-park",
+    "name_ar": "سالت - الرياض بارك",
+    "name_en": "Salt Riyadh Park",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مطعم برجر وآيس كريم شهير بأطباقه الجبنية اللذيذة والبطاطس المقرمشة",
+    "google_rating": 4.7,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Salt+Riyadh+Park+Riyadh"
+  },
+  {
+    "id": "copper-chandini",
+    "name_ar": "كوبر شانديني",
+    "name_en": "Copper Chandini",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حياة مول",
+    "neighborhood_en": "Hayat Mall",
+    "description_ar": "مطعم هندي فاخر في حياة مول يقدم المأكولات الهندية الشمالية التقليدية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Zamzam 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Copper+Chandini+Riyadh"
+  },
+  {
+    "id": "best-fish-and-chips",
+    "name_ar": "بيست فيش أند شيبس",
+    "name_en": "Best Fish and Chips",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حياة مول",
+    "neighborhood_en": "Hayat Mall",
+    "description_ar": "مطعم مأكولات بحرية بريطاني الطراز في حياة مول مع السمك والبطاطس",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "ExpressService 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Best+Fish+and+Chips+Riyadh"
+  },
+  {
+    "id": "astra-cafe-hayat",
+    "name_ar": "أسترا كافيه",
+    "name_en": "Astra Cafe Hayat",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حياة مول",
+    "neighborhood_en": "Hayat Mall",
+    "description_ar": "مقهى لبناني في حياة مول يقدم المأكولات اللبنانية الخفيفة والمشروبات",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "ExpressService 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Astra+Cafe+Hayat+Riyadh"
+  },
+  {
+    "id": "toqa-cafe",
+    "name_ar": "توقا كافيه",
+    "name_en": "Toqa Cafe",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "بوليفارد سيتي",
+    "neighborhood_en": "Boulevard City",
+    "description_ar": "مقهى مميز في بوليفارد سيتي يقدم المأكولات الخفيفة والمشروبات المبتكرة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "CafesKSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Toqa+Cafe+Riyadh"
+  },
+  {
+    "id": "ralphs-coffee",
+    "name_ar": "رالف كوفي",
+    "name_en": "Ralphs Coffee",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مقهى رالف لورين الفاخر في كافد يقدم مشروبات القهوة الحرفية والحلويات",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ralphs+Coffee+Riyadh"
+  },
+  {
+    "id": "elevation-burger-al-malqa",
+    "name_ar": "إيليفيشن برجر - الملقا",
+    "name_en": "Elevation Burger Al Malqa",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "فرع إيليفيشن برجر في الملقا يقدم برجر عضوي من لحم بقر طبيعي",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Restaurant Guide 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Elevation+Burger+Al+Malqa+Riyadh"
+  },
+  {
+    "id": "applebees-al-yasmin",
+    "name_ar": "أبل بيز - الياسمين",
+    "name_en": "Applebees Al Yasmin",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "فرع أبل بيز في الياسمين يقدم المأكولات الأمريكية في أجواء عائلية",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Applebees SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Applebees+Al+Yasmin+Riyadh"
+  },
+  {
+    "id": "little-caesars-riyadh",
+    "name_ar": "ليتل سيزر",
+    "name_en": "Little Caesars Riyadh",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "النسيم",
+    "neighborhood_en": "An Naseem",
+    "description_ar": "سلسلة بيتزا أمريكية تقدم بيتزا جاهزة للاستلام بأسعار اقتصادية",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Little Caesars SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Little+Caesars+Riyadh+Riyadh"
+  },
+  {
+    "id": "dominos-pizza-al-yasmin",
+    "name_ar": "دومينوز بيتزا - الياسمين",
+    "name_en": "Dominos Pizza Al Yasmin",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "فرع دومينوز بيتزا في الياسمين يقدم بيتزا بتوصيل سريع",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Dominos SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dominos+Pizza+Al+Yasmin+Riyadh"
+  },
+  {
+    "id": "dominos-pizza-al-malqa",
+    "name_ar": "دومينوز بيتزا - الملقا",
+    "name_en": "Dominos Pizza Al Malqa",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "فرع دومينوز بيتزا في الملقا شمال الرياض",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Dominos SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dominos+Pizza+Al+Malqa+Riyadh"
+  },
+  {
+    "id": "mr-burger-riyadh",
+    "name_ar": "مستر بيرغر",
+    "name_en": "Mr Burger Riyadh",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "عبر التوصيل",
+    "neighborhood_en": "Delivery Only",
+    "description_ar": "مطعم برجر سحابي متاح عبر التوصيل فقط عبر هنقرستيشن وجاهز",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "HungerStation 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mr+Burger+Riyadh+Riyadh"
+  },
+  {
+    "id": "the-meat-co",
+    "name_ar": "ذا ميت كو",
+    "name_en": "The Meat Co",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "مطعم لحوم جنوب أفريقي يقدم ستيك فاخر وأطباق لحوم متنوعة",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Fine Dining Guide 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Meat+Co+Riyadh"
+  },
+  {
+    "id": "qasr-al-tahi-al-qirawan",
+    "name_ar": "مطعم قصر الطاهي - القيروان",
+    "name_en": "Qasr Al Tahi Al Qirawan",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "القيروان",
+    "neighborhood_en": "Al Qirawan",
+    "description_ar": "مطعم عربي في حي القيروان يقدم الأطباق العربية التقليدية والمشاوي",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Qasr+Al+Tahi+Al+Qirawan+Riyadh"
+  },
+  {
+    "id": "rukn-al-mashawi-al-qirawan",
+    "name_ar": "مطعم ركن المشاوي - القيروان",
+    "name_en": "Rukn Al Mashawi Al Qirawan",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "القيروان",
+    "neighborhood_en": "Al Qirawan",
+    "description_ar": "مطعم مشاوي تركية وعربية في حي القيروان بأسعار معقولة",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Rukn+Al+Mashawi+Al+Qirawan+Riyadh"
+  },
+  {
+    "id": "bait-al-kabab-turkish",
+    "name_ar": "مطعم بيت الكباب التركي",
+    "name_en": "Bait Al Kabab Turkish",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "مطعم تركي في حي الياسمين يقدم الكباب التركي والأطباق العثمانية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bait+Al+Kabab+Turkish+Riyadh"
+  },
+  {
+    "id": "istanbul-house",
+    "name_ar": "مطعم إسطنبول هاوس",
+    "name_en": "Istanbul House",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مطعم تركي يقدم المأكولات التركية الأصيلة من الكباب والبيدة والمقبلات",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Istanbul+House+Riyadh"
+  },
+  {
+    "id": "antalya-turkish-restaurant",
+    "name_ar": "مطعم أنطاليا التركي",
+    "name_en": "Antalya Turkish Restaurant",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "مطعم تركي في حي السليمانية يقدم الأطباق التركية والمشاوي",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Antalya+Turkish+Restaurant+Riyadh"
+  },
+  {
+    "id": "yamani-baiti",
+    "name_ar": "مطعم يمني بيتي",
+    "name_en": "Yamani Baiti",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم يمني شعبي في حي الملز يقدم المندي والمظبي بأسعار اقتصادية",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Yamani+Baiti+Riyadh"
+  },
+  {
+    "id": "bucharest-restaurant",
+    "name_ar": "مطعم بخارست",
+    "name_en": "Bucharest Restaurant",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "النسيم",
+    "neighborhood_en": "An Naseem",
+    "description_ar": "مطعم روماني شرق أوروبي يقدم الأطباق الأوروبية الشرقية واللحوم المشوية",
+    "google_rating": 3.9,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bucharest+Restaurant+Riyadh"
+  },
+  {
+    "id": "thawq-al-bahr",
+    "name_ar": "مطعم ذوق البحر",
+    "name_en": "Thawq Al Bahr",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "المونسية",
+    "neighborhood_en": "Al Munsiyah",
+    "description_ar": "مطعم مأكولات بحرية في حي المونسية يقدم الأسماك الطازجة والروبيان",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Thawq+Al+Bahr+Riyadh"
+  },
+  {
+    "id": "zaman-ya-zaman",
+    "name_ar": "مطعم زمان يا زمان",
+    "name_en": "Zaman Ya Zaman",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "مطعم شعبي في حي الشفا يقدم المأكولات العربية التقليدية بنكهة البيت",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Zaman+Ya+Zaman+Riyadh"
+  },
+  {
+    "id": "al-kharj-popular-restaurant",
+    "name_ar": "مطعم الخرج الشعبي",
+    "name_en": "Al Kharj Popular Restaurant",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "طريق الخرج",
+    "neighborhood_en": "Kharj Road",
+    "description_ar": "مطعم شعبي على طريق الخرج يقدم الأطباق السعودية التقليدية",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Kharj+Popular+Restaurant+Riyadh"
+  },
+  {
+    "id": "bbq-in-the-park",
+    "name_ar": "مطعم باربيكيو إن ذا بارك",
+    "name_en": "BBQ in the Park",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "مطعم شواء أمريكي في حي الياسمين يقدم الريبز والبريسكت المدخن",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=BBQ+in+the+Park+Riyadh"
+  },
+  {
+    "id": "georgian-house-restaurant",
+    "name_ar": "مطعم جورجيان هاوس",
+    "name_en": "Georgian House Restaurant",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مطعم جورجي يقدم الخينكالي والخاشابوري والأطباق الجورجية الأصيلة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Georgian+House+Restaurant+Riyadh"
+  },
+  {
+    "id": "akl-younani",
+    "name_ar": "مطعم أكل يوناني",
+    "name_en": "Akl Younani",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "مطعم يوناني يقدم الجيروس والسوفلاكي والسلطة اليونانية والمزة المتوسطية",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Akl+Younani+Riyadh"
+  },
+  {
+    "id": "pho-vietnamese",
+    "name_ar": "مطعم فو الفيتنامي",
+    "name_en": "Pho Vietnamese",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "التخصصي",
+    "neighborhood_en": "Al Takhassousi",
+    "description_ar": "مطعم فيتنامي يقدم شوربة الفو ولفائف السبرينج رول والأطباق الفيتنامية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pho+Vietnamese+Riyadh"
+  },
+  {
+    "id": "fresh-vietnam",
+    "name_ar": "مطعم فريش فيتنام",
+    "name_en": "Fresh Vietnam",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مطعم فيتنامي يقدم أطباق الفو والنودلز والأرز الفيتنامي الطازج",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Fresh+Vietnam+Riyadh"
+  },
+  {
+    "id": "armenia-house",
+    "name_ar": "مطعم أرمينيا هاوس",
+    "name_en": "Armenia House",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العزيزية",
+    "neighborhood_en": "Al Aziziyah",
+    "description_ar": "مطعم أرمني يقدم الأطباق الأرمنية التقليدية من اللحوم المشوية والدولما",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Armenia+House+Riyadh"
+  },
+  {
+    "id": "kfc-al-malqa",
+    "name_ar": "كنتاكي - الملقا",
+    "name_en": "KFC Al Malqa",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "فرع كنتاكي في حي الملقا شمال الرياض يقدم الدجاج المقلي",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "KFC SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=KFC+Al+Malqa+Riyadh"
+  },
+  {
+    "id": "kfc-al-yasmin",
+    "name_ar": "كنتاكي - الياسمين",
+    "name_en": "KFC Al Yasmin",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "فرع كنتاكي في حي الياسمين يقدم وجبات الدجاج المقرمش",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "KFC SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=KFC+Al+Yasmin+Riyadh"
+  },
+  {
+    "id": "mcdonalds-al-shifa",
+    "name_ar": "ماكدونالدز - الشفا",
+    "name_en": "McDonalds Al Shifa",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "فرع ماكدونالدز في حي الشفا جنوب الرياض",
+    "google_rating": 3.7,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "McDonald's SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=McDonalds+Al+Shifa+Riyadh"
+  },
+  {
+    "id": "mcdonalds-as-sulimaniyah",
+    "name_ar": "ماكدونالدز - السليمانية",
+    "name_en": "McDonalds As Sulimaniyah",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "فرع ماكدونالدز في حي السليمانية وسط الرياض",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "McDonald's SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=McDonalds+As+Sulimaniyah+Riyadh"
+  },
+  {
+    "id": "herfy-al-yasmin",
+    "name_ar": "هرفي - الياسمين",
+    "name_en": "Herfy Al Yasmin",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "فرع هرفي في حي الياسمين شمال الرياض",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Herfy Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Herfy+Al+Yasmin+Riyadh"
+  },
+  {
+    "id": "herfy-al-malqa",
+    "name_ar": "هرفي - الملقا",
+    "name_en": "Herfy Al Malqa",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "فرع هرفي في حي الملقا شمال الرياض",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Herfy Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Herfy+Al+Malqa+Riyadh"
+  },
+  {
+    "id": "herfy-hittin",
+    "name_ar": "هرفي - حطين",
+    "name_en": "Herfy Hittin",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "فرع هرفي في حي حطين شمال الرياض",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Herfy Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Herfy+Hittin+Riyadh"
+  },
+  {
+    "id": "herfy-al-qirawan",
+    "name_ar": "هرفي - القيروان",
+    "name_en": "Herfy Al Qirawan",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "القيروان",
+    "neighborhood_en": "Al Qirawan",
+    "description_ar": "فرع هرفي في حي القيروان شمال الرياض",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Herfy Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Herfy+Al+Qirawan+Riyadh"
+  },
+  {
+    "id": "shawarmer-al-qirawan",
+    "name_ar": "شاورمر - القيروان",
+    "name_en": "Shawarmer Al Qirawan",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "القيروان",
+    "neighborhood_en": "Al Qirawan",
+    "description_ar": "فرع شاورمر في حي القيروان يقدم الشاورما المبتكرة",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Shawarmer 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Shawarmer+Al+Qirawan+Riyadh"
+  },
+  {
+    "id": "shawarmer-al-yasmin",
+    "name_ar": "شاورمر - الياسمين",
+    "name_en": "Shawarmer Al Yasmin",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "فرع شاورمر في حي الياسمين شمال الرياض",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Shawarmer 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Shawarmer+Al+Yasmin+Riyadh"
+  },
+  {
+    "id": "shawarmer-al-shifa",
+    "name_ar": "شاورمر - الشفا",
+    "name_en": "Shawarmer Al Shifa",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "فرع شاورمر في حي الشفا جنوب الرياض",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Shawarmer 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Shawarmer+Al+Shifa+Riyadh"
+  },
+  {
+    "id": "pizza-hut-al-yasmin",
+    "name_ar": "بيتزا هت - الياسمين",
+    "name_en": "Pizza Hut Al Yasmin",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "فرع بيتزا هت في حي الياسمين شمال الرياض",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Pizza Hut SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pizza+Hut+Al+Yasmin+Riyadh"
+  },
+  {
+    "id": "pizza-hut-al-malqa",
+    "name_ar": "بيتزا هت - الملقا",
+    "name_en": "Pizza Hut Al Malqa",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "فرع بيتزا هت في حي الملقا شمال الرياض",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Pizza Hut SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pizza+Hut+Al+Malqa+Riyadh"
+  },
+  {
+    "id": "pizza-hut-al-qirawan",
+    "name_ar": "بيتزا هت - القيروان",
+    "name_en": "Pizza Hut Al Qirawan",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "القيروان",
+    "neighborhood_en": "Al Qirawan",
+    "description_ar": "فرع بيتزا هت في حي القيروان شمال الرياض",
+    "google_rating": 3.7,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Pizza Hut SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pizza+Hut+Al+Qirawan+Riyadh"
+  },
+  {
+    "id": "kudu-al-yasmin",
+    "name_ar": "كودو - الياسمين",
+    "name_en": "Kudu Al Yasmin",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "فرع كودو في حي الياسمين شمال الرياض",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Kudu Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kudu+Al+Yasmin+Riyadh"
+  },
+  {
+    "id": "kudu-al-qirawan",
+    "name_ar": "كودو - القيروان",
+    "name_en": "Kudu Al Qirawan",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "القيروان",
+    "neighborhood_en": "Al Qirawan",
+    "description_ar": "فرع كودو في حي القيروان شمال الرياض",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Kudu Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kudu+Al+Qirawan+Riyadh"
+  },
+  {
+    "id": "kudu-al-shifa",
+    "name_ar": "كودو - الشفا",
+    "name_en": "Kudu Al Shifa",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "فرع كودو في حي الشفا جنوب الرياض",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Kudu Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kudu+Al+Shifa+Riyadh"
+  },
+  {
+    "id": "taco-bell-riyadh",
+    "name_ar": "مطعم تاكو بيل",
+    "name_en": "Taco Bell Riyadh",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "سلسلة تاكو بيل الأمريكية تقدم التاكو والبوريتو والمكسيكي السريع",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Taco Bell SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Taco+Bell+Riyadh+Riyadh"
+  },
+  {
+    "id": "wingstop-riyadh",
+    "name_ar": "مطعم وينغ ستوب",
+    "name_en": "Wingstop Riyadh",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "النخيل",
+    "neighborhood_en": "An Nakheel",
+    "description_ar": "مطعم أجنحة دجاج أمريكي يقدم أجنحة بنكهات متنوعة من الكلاسيكية للحارة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Wingstop SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wingstop+Riyadh+Riyadh"
+  },
+  {
+    "id": "fatburger-riyadh",
+    "name_ar": "فات برجر",
+    "name_en": "Fatburger Riyadh",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مطعم برجر أمريكي كلاسيكي يقدم برجر لحم طازج بأحجام متعددة",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Fatburger SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Fatburger+Riyadh+Riyadh"
+  },
+  {
+    "id": "jivara-ben-al-shawarma",
+    "name_ar": "مطعم جيفارا بن الشاورما",
+    "name_en": "Jivara Ben Al Shawarma",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم شاورما شعبي في الملز يقدم شاورما لحم ودجاج بأسعار معقولة",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Jivara+Ben+Al+Shawarma+Riyadh"
+  },
+  {
+    "id": "bait-al-madbi-al-janoubi",
+    "name_ar": "مطعم بيت المظبي الجنوبي",
+    "name_en": "Bait Al Madbi Al Janoubi",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "مطعم يمني جنوبي في حي الشفا يقدم المظبي والحنيذ والمندي",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bait+Al+Madbi+Al+Janoubi+Riyadh"
+  },
+  {
+    "id": "masala-house",
+    "name_ar": "مطعم مسالا هاوس",
+    "name_en": "Masala House",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "البطحاء",
+    "neighborhood_en": "Al Batha",
+    "description_ar": "مطعم هندي شعبي في البطحاء يقدم الكاري والبرياني بأسعار اقتصادية",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Masala+House+Riyadh"
+  },
+  {
+    "id": "steak-house-riyadh",
+    "name_ar": "مطعم بيت الستيك",
+    "name_en": "Steak House Riyadh",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "مطعم ستيك في حي حطين يقدم اللحوم المشوية والستيك الفاخر",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Steak+House+Riyadh+Riyadh"
+  },
+  {
+    "id": "ocean-basket",
+    "name_ar": "مطعم أوشن باسكت",
+    "name_en": "Ocean Basket",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "سلسلة مأكولات بحرية جنوب أفريقية تقدم الأسماك والمأكولات البحرية",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Ocean Basket SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ocean+Basket+Riyadh"
+  },
+  {
+    "id": "tgi-fridays-riyadh",
+    "name_ar": "مطعم فرايديز",
+    "name_en": "TGI Fridays Riyadh",
+    "category": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "التحلية",
+    "neighborhood_en": "Tahlia Street",
+    "description_ar": "مطعم أمريكي كاجوال يقدم البرجر والأجنحة والأطباق الأمريكية",
+    "google_rating": 3.9,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TGI Fridays SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=TGI+Fridays+Riyadh+Riyadh"
+  }
+]

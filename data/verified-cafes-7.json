@@ -1,0 +1,1864 @@
+[
+  {
+    "id": "patchi-cafe-solitaire",
+    "name_ar": "باتشي كافيه - سوليتير",
+    "name_en": "Patchi Cafe Solitaire",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "سوليتير مول",
+    "neighborhood_en": "Solitaire Mall",
+    "description_ar": "مقهى باتشي في سوليتير مول يقدم الأطباق المالحة والحلوة مع شوكولاتة باتشي",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Patchi+Cafe+Solitaire+Riyadh"
+  },
+  {
+    "id": "cafe-loccitane",
+    "name_ar": "كافيه لوكسيتان - الدبلوماسي",
+    "name_en": "Cafe LOccitane",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "كافيه بروفنسالي فرنسي في الحي الدبلوماسي يقدم المعجنات والسلطات والشاي العشبي",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025",
+      "FACT Magazine 2025",
+      "DestinationKSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Cafe+LOccitane+Riyadh"
+  },
+  {
+    "id": "lvl-up-social-club",
+    "name_ar": "لفل أب",
+    "name_en": "LVL UP Social Club",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "نادي اجتماعي ومقهى مع ألعاب لوحية وتجارب تفاعلية لمن هم فوق 21 عاماً",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "WhatsOnSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=LVL+UP+Social+Club+Riyadh"
+  },
+  {
+    "id": "haffa-cafe",
+    "name_ar": "حفا",
+    "name_en": "Haffa Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي القدس",
+    "neighborhood_en": "Al Quds",
+    "description_ar": "مقهى حي بمفهوم المخبز التقليدي يقدم القهوة والمخبوزات الطازجة يومياً",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "WhatsOnSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Haffa+Cafe+Riyadh"
+  },
+  {
+    "id": "bohemia-art-cafe",
+    "name_ar": "بوهيميا آرت كافيه",
+    "name_en": "Bohemia Art Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "جاكس",
+    "neighborhood_en": "JAX Diriyah",
+    "description_ar": "مقهى فني ومتجر تسجيلات موسيقية من الخبر مخصص لمشهد الموسيقى المستقلة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "WhatsOnSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bohemia+Art+Cafe+Riyadh"
+  },
+  {
+    "id": "chok-riyadh",
+    "name_ar": "شوك",
+    "name_en": "chok Riyadh",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "جامعة الملك سعود",
+    "neighborhood_en": "King Saud University",
+    "description_ar": "مخبز حلويات من برشلونة متخصص في الكرونات والبونبون وتشيزكيك مع قهوة",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "WhatsOnSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=chok+Riyadh+Riyadh"
+  },
+  {
+    "id": "coyard-coffee-roasters",
+    "name_ar": "كويارد كوفي روسترز",
+    "name_en": "Coyard Coffee Roasters",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "ليسن فالي",
+    "neighborhood_en": "Laysen Valley",
+    "description_ar": "محمصة قهوة تأسست 2018 تقدم قهوة عالية الجودة بطرق تخمير مبتكرة",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "WhatsOnSA 2025",
+      "Daymark Coffee Guide 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Coyard+Coffee+Roasters+Riyadh"
+  },
+  {
+    "id": "nooa-cafe",
+    "name_ar": "نوا",
+    "name_en": "NOOA Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مقهى من جنوب أفريقيا يقدم أفخر أنواع الشاي والقهوة بتصميم مستوحى من كيب تاون",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "WhatsOnSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=NOOA+Cafe+Riyadh"
+  },
+  {
+    "id": "boss-co-roastery",
+    "name_ar": "بوس كو روستري",
+    "name_en": "BOSS CO Roastery",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "محمصة قهوة مختصة تقدم حبوب أحادية المصدر من كولومبيا وأوغندا بتصميم عصري",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Daymark Coffee Guide 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=BOSS+CO+Roastery+Riyadh"
+  },
+  {
+    "id": "cherie-cafe",
+    "name_ar": "شيري",
+    "name_en": "Cherie Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مقهى بتصميم رومانسي ناعم يقدم قهوة مختصة متوازنة مع أجواء مريحة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Daymark Coffee Guide 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Cherie+Cafe+Riyadh"
+  },
+  {
+    "id": "hawi-cafe",
+    "name_ar": "هاوي",
+    "name_en": "Hawi Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مقهى حي هادئ في الملقا مثالي للقراءة والدراسة مع قهوة مختصة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Daymark Coffee Guide 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Hawi+Cafe+Riyadh"
+  },
+  {
+    "id": "brew-92-riyadh",
+    "name_ar": "بريو 92 - الرياض",
+    "name_en": "Brew 92 Riyadh",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "عثمان بن عفان",
+    "neighborhood_en": "Uthman Ibn Affan",
+    "description_ar": "محمصة مختصة من جدة حائزة على جوائز تخمر على درجة 92 مئوية بالضبط",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025",
+      "WhatsOnSA 2025",
+      "CNT ME 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Brew+92+Riyadh+Riyadh"
+  },
+  {
+    "id": "kicksters",
+    "name_ar": "كيكسترز",
+    "name_en": "Kicksters",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مقهى مختص مميز من أفضل مقاهي القهوة في الرياض",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Dubai Musts 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kicksters+Riyadh"
+  },
+  {
+    "id": "overjar-riyadh-park",
+    "name_ar": "أوفر جار - الرياض بارك",
+    "name_en": "OverJar Riyadh Park",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "فرع أوفر جار في الرياض بارك يقدم القهوة المختصة والحلويات",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=OverJar+Riyadh+Park+Riyadh"
+  },
+  {
+    "id": "chocomelt",
+    "name_ar": "شوكوميلت",
+    "name_en": "Chocomelt",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مقهى حلويات شوكولاتة في الرياض بارك مول مع تشكيلة واسعة من الحلويات",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Chocomelt+Riyadh"
+  },
+  {
+    "id": "paul-riyadh-park",
+    "name_ar": "بول",
+    "name_en": "PAUL Riyadh Park",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مخبز ومقهى فرنسي في الرياض بارك يقدم المعجنات والخبز الفرنسي الأصيل",
+    "google_rating": 4.7,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=PAUL+Riyadh+Park+Riyadh"
+  },
+  {
+    "id": "laderach-chocolatier",
+    "name_ar": "ليدراش شوكولاتييه",
+    "name_en": "Laderach Chocolatier",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "متجر شوكولاتة سويسرية فاخرة في الرياض بارك مع شوكولاتة طازجة",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Laderach+Chocolatier+Riyadh"
+  },
+  {
+    "id": "peets-coffee-riyadh-park",
+    "name_ar": "بيتس كوفي",
+    "name_en": "Peets Coffee Riyadh Park",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "سلسلة قهوة أمريكية مختصة في الرياض بارك مع تحميص خاص",
+    "google_rating": 4.7,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Peets+Coffee+Riyadh+Park+Riyadh"
+  },
+  {
+    "id": "cookies-and-cream",
+    "name_ar": "كوكيز أند كريم",
+    "name_en": "Cookies and Cream",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مقهى كوكيز وآيس كريم في الرياض بارك مول مع حلويات مبتكرة",
+    "google_rating": 3.9,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Cookies+and+Cream+Riyadh"
+  },
+  {
+    "id": "motive-cafe-riyadh-park",
+    "name_ar": "موتيف كافيه - الرياض بارك",
+    "name_en": "Motive Cafe Riyadh Park",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مقهى مميز في الرياض بارك يقدم القهوة المختصة والمأكولات الخفيفة",
+    "google_rating": 4.6,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Motive+Cafe+Riyadh+Park+Riyadh"
+  },
+  {
+    "id": "m-and-s-food-and-cafe",
+    "name_ar": "إم أند إس فود أند كافيه",
+    "name_en": "M and S Food and Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مقهى ومتجر أطعمة ماركس أند سبنسر البريطاني في الرياض بارك",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=M+and+S+Food+and+Cafe+Riyadh"
+  },
+  {
+    "id": "molan-cafe",
+    "name_ar": "مولن",
+    "name_en": "Molan Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مقهى فني في الرياض بارك يقدم القهوة والمشروبات الساخنة والباردة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Molan+Cafe+Riyadh"
+  },
+  {
+    "id": "krispy-kreme-riyadh-park",
+    "name_ar": "كريسبي كريم - الرياض بارك",
+    "name_en": "Krispy Kreme Riyadh Park",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "فرع كريسبي كريم في الرياض بارك يقدم الدونات الطازجة والقهوة",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Krispy+Kreme+Riyadh+Park+Riyadh"
+  },
+  {
+    "id": "yole-riyadh-park",
+    "name_ar": "يولي",
+    "name_en": "Yole Riyadh Park",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مقهى آيس كريم صحي في الرياض بارك يقدم فروزن يوغرت طبيعي",
+    "google_rating": 3.7,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Yole+Riyadh+Park+Riyadh"
+  },
+  {
+    "id": "sweet-moon-candy",
+    "name_ar": "سويت مون كاندي",
+    "name_en": "Sweet Moon Candy",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "متجر حلويات في الرياض بارك يقدم تشكيلة واسعة من الحلوى والشوكولاتة",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Park Mall Directory 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sweet+Moon+Candy+Riyadh"
+  },
+  {
+    "id": "cafe-noir-laysen",
+    "name_ar": "كافيه نوار - ليسن فالي",
+    "name_en": "Cafe Noir Laysen",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "ليسن فالي",
+    "neighborhood_en": "Laysen Valley",
+    "description_ar": "مقهى قطري فاخر في ليسن فالي يقدم مأكولات أوروبية آسيوية مع قهوة مختصة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "FACT Magazine 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Cafe+Noir+Laysen+Riyadh"
+  },
+  {
+    "id": "tashas-cafe-kafd",
+    "name_ar": "تاشاز كافيه - كافد",
+    "name_en": "Tashas Cafe KAFD",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مقهى جنوب أفريقي في كافد يقدم فطور وغداء عالمي مع أكبر عرض كيك",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "ThisIsRiyadh 2025",
+      "FACT Magazine 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tashas+Cafe+KAFD+Riyadh"
+  },
+  {
+    "id": "off-brief-jax",
+    "name_ar": "أوف بريف - جاكس",
+    "name_en": "Off Brief JAX",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "جاكس",
+    "neighborhood_en": "JAX Diriyah",
+    "description_ar": "مقهى إبداعي في حي جاكس يقدم لاتيه مميز وكوكيز وكرواسان بتصميم جميل",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "ThisIsRiyadh 2025",
+      "DestinationKSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Off+Brief+JAX+Riyadh"
+  },
+  {
+    "id": "ralphs-coffee-kafd",
+    "name_ar": "رالف كوفي - كافد",
+    "name_en": "Ralphs Coffee KAFD",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "مقهى رالف لورين في كافد يقدم مشروبات حرفية وحلويات فاخرة بأكواب خضراء مميزة",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ralphs+Coffee+KAFD+Riyadh"
+  },
+  {
+    "id": "laduree-solitaire",
+    "name_ar": "لادوريه - سوليتير",
+    "name_en": "Laduree Solitaire",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "سوليتير مول",
+    "neighborhood_en": "Solitaire Mall",
+    "description_ar": "فرع لادوريه الفرنسي في سوليتير مول يقدم الماكارون الفرنسي والمأكولات المتوسطية",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Laduree+Solitaire+Riyadh"
+  },
+  {
+    "id": "bohemia-cafe-jax",
+    "name_ar": "بوهيميا كافيه - جاكس",
+    "name_en": "Bohemia Cafe JAX",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "جاكس",
+    "neighborhood_en": "JAX Diriyah",
+    "description_ar": "مقهى فني ومتجر تسجيلات من الخبر مع موسيقى مستقلة وقهوة مختصة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "WhatsOnSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bohemia+Cafe+JAX+Riyadh"
+  },
+  {
+    "id": "chok-bakery-riyadh",
+    "name_ar": "شوك الرياض",
+    "name_en": "chok Bakery Riyadh",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "جامعة الملك سعود",
+    "neighborhood_en": "KSU Area",
+    "description_ar": "مخبز كرونات من برشلونة يقدم الكرونات والبونبون والتشيزكيك مع قهوة",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "WhatsOnSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=chok+Bakery+Riyadh+Riyadh"
+  },
+  {
+    "id": "coyard-coffee",
+    "name_ar": "كويارد كوفي",
+    "name_en": "Coyard Coffee",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "ليسن فالي",
+    "neighborhood_en": "Laysen Valley",
+    "description_ar": "محمصة قهوة مختصة تأسست 2018 بطرق تخمير فريدة وحبوب عالية الجودة",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "WhatsOnSA 2025",
+      "Daymark Guide 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Coyard+Coffee+Riyadh"
+  },
+  {
+    "id": "nooa-cafe-riyadh",
+    "name_ar": "نوا كافيه",
+    "name_en": "NOOA Cafe Riyadh",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مقهى جنوب أفريقي فاخر يقدم أفخر أنواع الشاي والقهوة بتصميم كيب تاون",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "WhatsOnSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=NOOA+Cafe+Riyadh+Riyadh"
+  },
+  {
+    "id": "el-and-n-al-aqiq",
+    "name_ar": "إل أند إن - العقيق",
+    "name_en": "EL and N Al Aqiq",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "مقهى لندني مشهور بالإنستغرام يقدم قهوة وطعام صحي بتصميم نيون مميز",
+    "google_rating": 4.2,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "WhatsOnSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=EL+and+N+Al+Aqiq+Riyadh"
+  },
+  {
+    "id": "lvl-up-social",
+    "name_ar": "لفل أب سوشيال",
+    "name_en": "LVL UP Social",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "نادي اجتماعي ومقهى فريد مع ألعاب وتجارب تفاعلية لمن فوق 21 عاماً",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "WhatsOnSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=LVL+UP+Social+Riyadh"
+  },
+  {
+    "id": "starbucks-al-yasmin",
+    "name_ar": "ستاربكس - الياسمين",
+    "name_en": "Starbucks Al Yasmin",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "فرع ستاربكس في حي الياسمين يقدم القهوة المختصة والمشروبات الموسمية",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Starbucks SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Starbucks+Al+Yasmin+Riyadh"
+  },
+  {
+    "id": "starbucks-al-malqa",
+    "name_ar": "ستاربكس - الملقا",
+    "name_en": "Starbucks Al Malqa",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "فرع ستاربكس في حي الملقا شمال الرياض",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Starbucks SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Starbucks+Al+Malqa+Riyadh"
+  },
+  {
+    "id": "starbucks-al-qirawan",
+    "name_ar": "ستاربكس - القيروان",
+    "name_en": "Starbucks Al Qirawan",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "القيروان",
+    "neighborhood_en": "Al Qirawan",
+    "description_ar": "فرع ستاربكس في حي القيروان شمال الرياض",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Starbucks SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Starbucks+Al+Qirawan+Riyadh"
+  },
+  {
+    "id": "starbucks-kafd",
+    "name_ar": "ستاربكس - كافد",
+    "name_en": "Starbucks KAFD",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "فرع ستاربكس في مركز الملك عبدالله المالي",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Starbucks SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Starbucks+KAFD+Riyadh"
+  },
+  {
+    "id": "starbucks-al-olaya-tower",
+    "name_ar": "ستاربكس - العليا",
+    "name_en": "Starbucks Al Olaya Tower",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "فرع ستاربكس في أبراج العليا وسط الرياض",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Starbucks SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Starbucks+Al+Olaya+Tower+Riyadh"
+  },
+  {
+    "id": "starbucks-al-shifa",
+    "name_ar": "ستاربكس - الشفا",
+    "name_en": "Starbucks Al Shifa",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "فرع ستاربكس في حي الشفا جنوب الرياض",
+    "google_rating": 3.9,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Starbucks SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Starbucks+Al+Shifa+Riyadh"
+  },
+  {
+    "id": "starbucks-nakheel-mall",
+    "name_ar": "ستاربكس - النخيل مول",
+    "name_en": "Starbucks Nakheel Mall",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "النخيل مول",
+    "neighborhood_en": "Nakheel Mall",
+    "description_ar": "فرع ستاربكس في النخيل مول شمال الرياض",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Starbucks SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Starbucks+Nakheel+Mall+Riyadh"
+  },
+  {
+    "id": "starbucks-panorama-mall",
+    "name_ar": "ستاربكس - بانوراما مول",
+    "name_en": "Starbucks Panorama Mall",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "بانوراما مول",
+    "neighborhood_en": "Panorama Mall",
+    "description_ar": "فرع ستاربكس في بانوراما مول على طريق التحلية",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Starbucks SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Starbucks+Panorama+Mall+Riyadh"
+  },
+  {
+    "id": "dunkin-al-yasmin",
+    "name_ar": "دانكن - الياسمين",
+    "name_en": "Dunkin Al Yasmin",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "فرع دانكن في حي الياسمين يقدم الدونات والقهوة والمشروبات الباردة",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Dunkin SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dunkin+Al+Yasmin+Riyadh"
+  },
+  {
+    "id": "dunkin-al-malqa",
+    "name_ar": "دانكن - الملقا",
+    "name_en": "Dunkin Al Malqa",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "فرع دانكن في حي الملقا شمال الرياض",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Dunkin SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dunkin+Al+Malqa+Riyadh"
+  },
+  {
+    "id": "dunkin-al-qirawan",
+    "name_ar": "دانكن - القيروان",
+    "name_en": "Dunkin Al Qirawan",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "القيروان",
+    "neighborhood_en": "Al Qirawan",
+    "description_ar": "فرع دانكن في حي القيروان شمال الرياض",
+    "google_rating": 3.7,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Dunkin SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dunkin+Al+Qirawan+Riyadh"
+  },
+  {
+    "id": "dunkin-hittin",
+    "name_ar": "دانكن - حطين",
+    "name_en": "Dunkin Hittin",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "فرع دانكن في حي حطين شمال الرياض",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Dunkin SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dunkin+Hittin+Riyadh"
+  },
+  {
+    "id": "dunkin-an-naseem",
+    "name_ar": "دانكن - النسيم",
+    "name_en": "Dunkin An Naseem",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "النسيم",
+    "neighborhood_en": "An Naseem",
+    "description_ar": "فرع دانكن في حي النسيم شرق الرياض",
+    "google_rating": 3.7,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Dunkin SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dunkin+An+Naseem+Riyadh"
+  },
+  {
+    "id": "tim-hortons-al-malqa",
+    "name_ar": "تيم هورتنز - الملقا",
+    "name_en": "Tim Hortons Al Malqa",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "فرع تيم هورتنز الكندي في الملقا يقدم القهوة والدونات والساندويتشات",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Tim Hortons SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tim+Hortons+Al+Malqa+Riyadh"
+  },
+  {
+    "id": "tim-hortons-al-yasmin",
+    "name_ar": "تيم هورتنز - الياسمين",
+    "name_en": "Tim Hortons Al Yasmin",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "فرع تيم هورتنز في حي الياسمين شمال الرياض",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Tim Hortons SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tim+Hortons+Al+Yasmin+Riyadh"
+  },
+  {
+    "id": "tim-hortons-al-qirawan",
+    "name_ar": "تيم هورتنز - القيروان",
+    "name_en": "Tim Hortons Al Qirawan",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "القيروان",
+    "neighborhood_en": "Al Qirawan",
+    "description_ar": "فرع تيم هورتنز في حي القيروان شمال الرياض",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Tim Hortons SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tim+Hortons+Al+Qirawan+Riyadh"
+  },
+  {
+    "id": "tim-hortons-hittin",
+    "name_ar": "تيم هورتنز - حطين",
+    "name_en": "Tim Hortons Hittin",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "فرع تيم هورتنز في حي حطين شمال الرياض",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Tim Hortons SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tim+Hortons+Hittin+Riyadh"
+  },
+  {
+    "id": "tim-hortons-al-olaya",
+    "name_ar": "تيم هورتنز - العليا",
+    "name_en": "Tim Hortons Al Olaya",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "فرع تيم هورتنز في حي العليا وسط الرياض",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Tim Hortons SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tim+Hortons+Al+Olaya+Riyadh"
+  },
+  {
+    "id": "barnz-al-yasmin",
+    "name_ar": "بارنز - الياسمين",
+    "name_en": "Barnz Al Yasmin",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "فرع بارنز في حي الياسمين يقدم القهوة المختصة والحلويات السعودية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Barnz SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Barnz+Al+Yasmin+Riyadh"
+  },
+  {
+    "id": "barnz-al-malqa",
+    "name_ar": "بارنز - الملقا",
+    "name_en": "Barnz Al Malqa",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "فرع بارنز في حي الملقا شمال الرياض",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Barnz SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Barnz+Al+Malqa+Riyadh"
+  },
+  {
+    "id": "barnz-al-qirawan",
+    "name_ar": "بارنز - القيروان",
+    "name_en": "Barnz Al Qirawan",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "القيروان",
+    "neighborhood_en": "Al Qirawan",
+    "description_ar": "فرع بارنز في حي القيروان شمال الرياض",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Barnz SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Barnz+Al+Qirawan+Riyadh"
+  },
+  {
+    "id": "barnz-hittin",
+    "name_ar": "بارنز - حطين",
+    "name_en": "Barnz Hittin",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "فرع بارنز في حي حطين شمال الرياض",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Barnz SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Barnz+Hittin+Riyadh"
+  },
+  {
+    "id": "barnz-al-shifa",
+    "name_ar": "بارنز - الشفا",
+    "name_en": "Barnz Al Shifa",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "فرع بارنز في حي الشفا جنوب الرياض",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Barnz SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Barnz+Al+Shifa+Riyadh"
+  },
+  {
+    "id": "barnz-an-naseem",
+    "name_ar": "بارنز - النسيم",
+    "name_en": "Barnz An Naseem",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "النسيم",
+    "neighborhood_en": "An Naseem",
+    "description_ar": "فرع بارنز في حي النسيم شرق الرياض",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Barnz SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Barnz+An+Naseem+Riyadh"
+  },
+  {
+    "id": "boss-co-roastery-riyadh",
+    "name_ar": "بوس كو",
+    "name_en": "BOSS CO Roastery Riyadh",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "محمصة مختصة تقدم حبوب من كولومبيا وأوغندا بتصميم عصري وجداريات فنية",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Daymark Guide 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=BOSS+CO+Roastery+Riyadh+Riyadh"
+  },
+  {
+    "id": "atmosphere-coffee-king-fahd",
+    "name_ar": "أتموسفير - الملك فهد",
+    "name_en": "Atmosphere Coffee King Fahd",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "طريق الملك فهد",
+    "neighborhood_en": "King Fahd Road",
+    "description_ar": "مقهى مختص مشرق ومليء بالنباتات يقدم V60 وكورتادو وإسبريسو وماتشا",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Daymark Guide 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Atmosphere+Coffee+King+Fahd+Riyadh"
+  },
+  {
+    "id": "kicksters-cafe",
+    "name_ar": "كيكسترز كافيه",
+    "name_en": "Kicksters Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مقهى مختص مميز من أفضل مقاهي القهوة في الرياض مع تحميص خاص",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Dubai Musts 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kicksters+Cafe+Riyadh"
+  },
+  {
+    "id": "the-quiet-corner-cafe",
+    "name_ar": "مقهى الركن الهادئ",
+    "name_en": "The Quiet Corner Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "المونسية",
+    "neighborhood_en": "Al Munsiyah",
+    "description_ar": "مقهى هادئ في حي المونسية مناسب للعمل عن بعد مع واي فاي سريع",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Quiet+Corner+Cafe+Riyadh"
+  },
+  {
+    "id": "ward-al-yasmin-cafe",
+    "name_ar": "مقهى ورد الياسمين",
+    "name_en": "Ward Al Yasmin Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "مقهى في حي الياسمين يقدم القهوة والمعجنات في أجواء عائلية مريحة",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ward+Al+Yasmin+Cafe+Riyadh"
+  },
+  {
+    "id": "sahab-cafe",
+    "name_ar": "مقهى سحاب",
+    "name_en": "Sahab Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "النرجس",
+    "neighborhood_en": "An Narjis",
+    "description_ar": "مقهى مختص في حي النرجس يقدم قهوة فلتر ولاتيه مع معجنات طازجة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sahab+Cafe+Riyadh"
+  },
+  {
+    "id": "thawq-al-marifa-cafe",
+    "name_ar": "مقهى ذوق المعرفة",
+    "name_en": "Thawq Al Marifa Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الملك عبدالله",
+    "neighborhood_en": "King Abdullah District",
+    "description_ar": "مقهى في حي الملك عبدالله يقدم القهوة المختصة والكتب في بيئة ثقافية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Thawq+Al+Marifa+Cafe+Riyadh"
+  },
+  {
+    "id": "pillar-cafe",
+    "name_ar": "مقهى بيلار",
+    "name_en": "Pillar Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "القيروان",
+    "neighborhood_en": "Al Qirawan",
+    "description_ar": "مقهى عصري في حي القيروان يقدم القهوة المختصة والحلويات الفرنسية",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pillar+Cafe+Riyadh"
+  },
+  {
+    "id": "true-coffee-riyadh",
+    "name_ar": "مقهى ترو كوفي",
+    "name_en": "True Coffee Riyadh",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "المروج",
+    "neighborhood_en": "Al Muruj",
+    "description_ar": "مقهى مختص يقدم قهوة أحادية المصدر بتحضير متقن وأجواء مريحة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=True+Coffee+Riyadh+Riyadh"
+  },
+  {
+    "id": "milo-cafe",
+    "name_ar": "مقهى ميلو",
+    "name_en": "Milo Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "مقهى في الياسمين يقدم الماتشا والقهوة المختصة مع حلويات مبتكرة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Milo+Cafe+Riyadh"
+  },
+  {
+    "id": "special-blend-cafe",
+    "name_ar": "مقهى سبيشل بلند",
+    "name_en": "Special Blend Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "التخصصي",
+    "neighborhood_en": "Al Takhassousi",
+    "description_ar": "مقهى على طريق التخصصي يقدم مزيج خاص من القهوة مع فطور صباحي",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Special+Blend+Cafe+Riyadh"
+  },
+  {
+    "id": "al-aseel-cafe",
+    "name_ar": "مقهى الأصيل",
+    "name_en": "Al Aseel Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "العزيزية",
+    "neighborhood_en": "Al Aziziyah",
+    "description_ar": "مقهى شعبي في حي العزيزية يقدم القهوة العربية والشاي مع حلويات تقليدية",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Aseel+Cafe+Riyadh"
+  },
+  {
+    "id": "wooden-steel-cafe",
+    "name_ar": "مقهى وودن ستيل",
+    "name_en": "Wooden Steel Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مقهى بتصميم خشبي صناعي في الملقا يقدم قهوة مختصة وفطور غربي",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wooden+Steel+Cafe+Riyadh"
+  },
+  {
+    "id": "purist-coffee",
+    "name_ar": "مقهى بيورست",
+    "name_en": "Purist Coffee",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "مقهى مختص في العقيق يركز على نقاء النكهة والتحضير البسيط",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Purist+Coffee+Riyadh"
+  },
+  {
+    "id": "glow-cafe",
+    "name_ar": "مقهى غلو",
+    "name_en": "Glow Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "مقهى صحي في حي حطين يقدم العصائر والسموثيز مع خيارات قهوة مختصة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Glow+Cafe+Riyadh"
+  },
+  {
+    "id": "leen-cafe",
+    "name_ar": "مقهى لين",
+    "name_en": "Leen Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "النرجس",
+    "neighborhood_en": "An Narjis",
+    "description_ar": "مقهى ناعم في حي النرجس يقدم القهوة والحلويات في بيئة نسائية مريحة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Leen+Cafe+Riyadh"
+  },
+  {
+    "id": "wave-cafe",
+    "name_ar": "مقهى ويف",
+    "name_en": "Wave Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "مقهى عصري في الياسمين يقدم القهوة المختصة والمشروبات الباردة الإبداعية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wave+Cafe+Riyadh"
+  },
+  {
+    "id": "the-blender-cafe",
+    "name_ar": "مقهى ذا بلندر",
+    "name_en": "The Blender Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "المونسية",
+    "neighborhood_en": "Al Munsiyah",
+    "description_ar": "مقهى عصائر وقهوة في حي المونسية مع خيارات صحية وفطور متنوع",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Blender+Cafe+Riyadh"
+  },
+  {
+    "id": "last-drop-cafe",
+    "name_ar": "مقهى لاست دروب",
+    "name_en": "Last Drop Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "مقهى مختص في السليمانية يقدم آخر قطرة من الجودة في كل كوب",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Last+Drop+Cafe+Riyadh"
+  },
+  {
+    "id": "the-nest-cafe",
+    "name_ar": "مقهى ذا نست",
+    "name_en": "The Nest Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "مقهى مريح في حطين بتصميم عصري يقدم القهوة والبرانش والحلويات",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Nest+Cafe+Riyadh"
+  },
+  {
+    "id": "starbucks-king-abdullah",
+    "name_ar": "ستاربكس - الملك عبدالله",
+    "name_en": "Starbucks King Abdullah",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملك عبدالله",
+    "neighborhood_en": "King Abdullah District",
+    "description_ar": "فرع ستاربكس في حي الملك عبدالله يقدم القهوة والمشروبات الموسمية",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Starbucks SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Starbucks+King+Abdullah+Riyadh"
+  },
+  {
+    "id": "starbucks-hittin",
+    "name_ar": "ستاربكس - حطين",
+    "name_en": "Starbucks Hittin",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "فرع ستاربكس في حي حطين شمال الرياض",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Starbucks SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Starbucks+Hittin+Riyadh"
+  },
+  {
+    "id": "starbucks-an-narjis",
+    "name_ar": "ستاربكس - النرجس",
+    "name_en": "Starbucks An Narjis",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "النرجس",
+    "neighborhood_en": "An Narjis",
+    "description_ar": "فرع ستاربكس في حي النرجس شمال الرياض",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Starbucks SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Starbucks+An+Narjis+Riyadh"
+  },
+  {
+    "id": "dunkin-al-olaya",
+    "name_ar": "دانكن - العليا",
+    "name_en": "Dunkin Al Olaya",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "فرع دانكن في حي العليا وسط الرياض يقدم الدونات والقهوة",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Dunkin SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dunkin+Al+Olaya+Riyadh"
+  },
+  {
+    "id": "dunkin-al-shifa",
+    "name_ar": "دانكن - الشفا",
+    "name_en": "Dunkin Al Shifa",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "فرع دانكن في حي الشفا جنوب الرياض",
+    "google_rating": 3.7,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Dunkin SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dunkin+Al+Shifa+Riyadh"
+  },
+  {
+    "id": "tim-hortons-an-narjis",
+    "name_ar": "تيم هورتنز - النرجس",
+    "name_en": "Tim Hortons An Narjis",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "النرجس",
+    "neighborhood_en": "An Narjis",
+    "description_ar": "فرع تيم هورتنز في حي النرجس شمال الرياض",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Tim Hortons SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tim+Hortons+An+Narjis+Riyadh"
+  },
+  {
+    "id": "tim-hortons-al-shifa",
+    "name_ar": "تيم هورتنز - الشفا",
+    "name_en": "Tim Hortons Al Shifa",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "فرع تيم هورتنز في حي الشفا جنوب الرياض",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Tim Hortons SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tim+Hortons+Al+Shifa+Riyadh"
+  },
+  {
+    "id": "barnz-as-sulimaniyah",
+    "name_ar": "بارنز - السليمانية",
+    "name_en": "Barnz As Sulimaniyah",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "فرع بارنز في حي السليمانية وسط الرياض",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Barnz SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Barnz+As+Sulimaniyah+Riyadh"
+  },
+  {
+    "id": "barnz-al-aqiq",
+    "name_ar": "بارنز - العقيق",
+    "name_en": "Barnz Al Aqiq",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "فرع بارنز في حي العقيق شمال الرياض",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Barnz SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Barnz+Al+Aqiq+Riyadh"
+  },
+  {
+    "id": "barnz-al-muruj",
+    "name_ar": "بارنز - المروج",
+    "name_en": "Barnz Al Muruj",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "المروج",
+    "neighborhood_en": "Al Muruj",
+    "description_ar": "فرع بارنز في حي المروج شمال الرياض",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Barnz SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Barnz+Al+Muruj+Riyadh"
+  },
+  {
+    "id": "barnz-al-malaz",
+    "name_ar": "بارنز - الملز",
+    "name_en": "Barnz Al Malaz",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "فرع بارنز في حي الملز وسط الرياض",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Barnz SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Barnz+Al+Malaz+Riyadh"
+  },
+  {
+    "id": "dalal-cafe",
+    "name_ar": "مقهى دلال",
+    "name_en": "Dalal Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مقهى سعودي يقدم القهوة المختصة والحلويات المحلية بلمسة عصرية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dalal+Cafe+Riyadh"
+  },
+  {
+    "id": "tobys-estate",
+    "name_ar": "مقهى توبيز إستيت",
+    "name_en": "Tobys Estate",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "محمصة أسترالية عالمية تقدم حبوب قهوة ممتازة ومشروبات مختصة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Daymark Guide 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tobys+Estate+Riyadh"
+  },
+  {
+    "id": "repository-coffee",
+    "name_ar": "مقهى ريبوزيتوري",
+    "name_en": "Repository Coffee",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "محمصة محلية تقدم تجربة قهوة مختصة بحبوب مختارة بعناية",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Daymark Guide 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Repository+Coffee+Riyadh"
+  },
+  {
+    "id": "arabica-hittin",
+    "name_ar": "مقهى أرابيكا - حطين",
+    "name_en": "Arabica Hittin",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "فرع محمصة أرابيكا اليابانية في حطين مع قهوة مختصة وتصميم مينيمالي",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Daymark Guide 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Arabica+Hittin+Riyadh"
+  },
+  {
+    "id": "scrmy-cafe",
+    "name_ar": "مقهى سكريمي",
+    "name_en": "SCRMY Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "مقهى مميز يقدم قهوة مختصة وحلويات في أجواء تجعلك تبتسم",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=SCRMY+Cafe+Riyadh"
+  },
+  {
+    "id": "pret-a-manger-kafd",
+    "name_ar": "مقهى بريت آ مانجيه - كافد",
+    "name_en": "Pret A Manger KAFD",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "فرع بريت آ مانجيه الثاني في كافد يقدم ساندويتشات وقهوة طازجة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "DestinationKSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pret+A+Manger+KAFD+Riyadh"
+  },
+  {
+    "id": "chanel-cafe-riyadh",
+    "name_ar": "مقهى كوكو شانيل",
+    "name_en": "Chanel Cafe Riyadh",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "مقهى شانيل الفاخر في البجيري تيراس بالدرعية",
+    "google_rating": 4.3,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Diriyah SA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Chanel+Cafe+Riyadh+Riyadh"
+  },
+  {
+    "id": "dior-cafe-riyadh",
+    "name_ar": "مقهى ديور كافيه",
+    "name_en": "Dior Cafe Riyadh",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "مقهى ديور الباريسي الفاخر في البجيري تيراس بالدرعية",
+    "google_rating": 4.4,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Diriyah SA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dior+Cafe+Riyadh+Riyadh"
+  },
+  {
+    "id": "old-town-white-coffee",
+    "name_ar": "مقهى أولد تاون",
+    "name_en": "Old Town White Coffee",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "سلسلة مقاهي ماليزية تقدم القهوة البيضاء والمأكولات الآسيوية",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Old+Town+White+Coffee+Riyadh"
+  },
+  {
+    "id": "costa-coffee-al-yasmin",
+    "name_ar": "مقهى كوستا كوفي - الياسمين",
+    "name_en": "Costa Coffee Al Yasmin",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "فرع كوستا كوفي البريطاني في حي الياسمين",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Costa SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Costa+Coffee+Al+Yasmin+Riyadh"
+  },
+  {
+    "id": "costa-coffee-al-malqa",
+    "name_ar": "مقهى كوستا كوفي - الملقا",
+    "name_en": "Costa Coffee Al Malqa",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "فرع كوستا كوفي في حي الملقا شمال الرياض",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Costa SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Costa+Coffee+Al+Malqa+Riyadh"
+  },
+  {
+    "id": "costa-coffee-hittin",
+    "name_ar": "مقهى كوستا كوفي - حطين",
+    "name_en": "Costa Coffee Hittin",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "فرع كوستا كوفي في حي حطين شمال الرياض",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Costa SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Costa+Coffee+Hittin+Riyadh"
+  }
+]
