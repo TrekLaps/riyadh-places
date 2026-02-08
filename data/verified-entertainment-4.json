@@ -1,0 +1,575 @@
+[
+  {
+    "id": "gymnation-riyadh",
+    "name_ar": "جيم نيشن",
+    "name_en": "GymNation Riyadh",
+    "category": "entertainment",
+    "category_ar": "نوادي رياضية",
+    "category_en": "entertainment",
+    "neighborhood": "حي الحمراء",
+    "neighborhood_en": "Al Hamra",
+    "description_ar": "نادي رياضي مفتوح 24 ساعة مع أحدث معدات ماتريكس للكارديو والأوزان وأكثر من 400 حصة مجانية شهرياً",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "sources": [
+      "TimeOut Riyadh 2025",
+      "GymNation.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=GymNation+Riyadh",
+    "district": "الرياض",
+    "lat": 24.72,
+    "lng": 46.73
+  },
+  {
+    "id": "fitness-first-riyadh",
+    "name_ar": "فتنس فيرست",
+    "name_en": "Fitness First KSA",
+    "category": "entertainment",
+    "category_ar": "نوادي رياضية",
+    "category_en": "entertainment",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "نادي لياقة بدنية عالمي يوفر مدرب شخصي وأكاديمية سباحة وتمارين كارديو متنوعة",
+    "google_rating": 4.2,
+    "price_level": "$$$",
+    "sources": [
+      "TimeOut Riyadh 2025",
+      "FitnessFirstME.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Fitness+First+Riyadh",
+    "district": "الرياض",
+    "lat": 24.7,
+    "lng": 46.69
+  },
+  {
+    "id": "fitness-time-riyadh",
+    "name_ar": "فتنس تايم",
+    "name_en": "Fitness Time",
+    "category": "entertainment",
+    "category_ar": "نوادي رياضية",
+    "category_en": "entertainment",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Ar Rabi",
+    "description_ar": "أكبر شبكة مراكز رياضية في الشرق الأوسط مع أكثر من 50 فرع ومسابح وملاعب كرة قدم وسلة وطائرة",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "sources": [
+      "TimeOut Riyadh 2025",
+      "FitnessTime.com.sa"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Fitness+Time+Riyadh",
+    "district": "الرياض",
+    "lat": 24.79,
+    "lng": 46.66
+  },
+  {
+    "id": "9round-riyadh",
+    "name_ar": "9 راوند",
+    "name_en": "9Round Kickboxing",
+    "category": "entertainment",
+    "category_ar": "نوادي رياضية",
+    "category_en": "entertainment",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "نادي كيك بوكسنج عالمي بتمارين عالية الشدة مع مدرب خاص تشمل لكم وركل ورفع أثقال وقفز حبل",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=9Round+Kickboxing+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "arena-mma-riyadh",
+    "name_ar": "أرينا فتنس",
+    "name_en": "Arena Fitness MMA",
+    "category": "entertainment",
+    "category_ar": "نوادي رياضية",
+    "category_en": "entertainment",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "فنون قتالية مختلطة ورفع أثقال ودفاع عن النفس مع تدريب برازيلي جوجيتسو ومواي تاي",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "TimeOut Riyadh 2025",
+      "Arena.sa"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Arena+Fitness+MMA+Riyadh",
+    "district": "الرياض",
+    "lat": 24.76,
+    "lng": 46.62
+  },
+  {
+    "id": "evo-x-riyadh",
+    "name_ar": "إيفو إكس",
+    "name_en": "Evo X Fitness",
+    "category": "entertainment",
+    "category_ar": "نوادي رياضية",
+    "category_en": "entertainment",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "نادي رياضي أنيق للرجال والنساء مع تمارين باري وسبن ستوديو ومعدات تكنوجيم وسبا",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "sources": [
+      "TimeOut Riyadh 2025",
+      "EvoXClubs.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Evo+X+Fitness+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "fit-forever-fitness",
+    "name_ar": "فت فوريفر فتنس",
+    "name_en": "Fit Forever Fitness",
+    "category": "entertainment",
+    "category_ar": "نوادي رياضية نسائية",
+    "category_en": "entertainment",
+    "neighborhood": "حي الروضة",
+    "neighborhood_en": "Ar Rawdah",
+    "description_ar": "نادي نسائي فاخر بمعدات حديثة وتدريب VR وحصص ليس ميلز وفنون قتالية ويوغا",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Fit+Forever+Fitness+Riyadh",
+    "district": "الرياض",
+    "lat": 24.72,
+    "lng": 46.73
+  },
+  {
+    "id": "joule-fitness-riyadh",
+    "name_ar": "جول فتنس",
+    "name_en": "Joule Fitness Studio",
+    "category": "entertainment",
+    "category_ar": "نوادي رياضية نسائية",
+    "category_en": "entertainment",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "As Sahafah",
+    "description_ar": "استوديو لياقة نسائي يقدم تمارين TRX وعضلات البطن والأرداف وتسلق صخور",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "sources": [
+      "TimeOut Riyadh 2025",
+      "Joule-KSA.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Joule+Fitness+Studio+Riyadh",
+    "district": "الرياض",
+    "lat": 24.81,
+    "lng": 46.69
+  },
+  {
+    "id": "kore-fitness-riyadh",
+    "name_ar": "كور فتنس",
+    "name_en": "Kore Fitness",
+    "category": "entertainment",
+    "category_ar": "نوادي رياضية",
+    "category_en": "entertainment",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "تدريب شخصي أونلاين ومنزلي مع تأجير معدات وتدريب ملاكمة وشهادات تدريب احترافية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kore+Fitness+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "vitality-fitness-club",
+    "name_ar": "نادي فيتاليتي النسائي",
+    "name_en": "Vitality Fitness Club",
+    "category": "entertainment",
+    "category_ar": "نوادي رياضية نسائية",
+    "category_en": "entertainment",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "نادي لياقة نسائي متكامل يوفر حصص متنوعة وأجهزة حديثة في بيئة خاصة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "sources": [
+      "Facebook - Vitality KSA"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Vitality+Fitness+Club+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "al-aghar-equestrian-club",
+    "name_ar": "نادي الأغر للفروسية",
+    "name_en": "Al Aghar Equestrian Club",
+    "category": "entertainment",
+    "category_ar": "فروسية",
+    "category_en": "entertainment",
+    "neighborhood": "حي السفارات",
+    "neighborhood_en": "Al Safarat",
+    "description_ar": "نادي فروسية يستضيف مسابقات قفز الحواجز من 40 سم حتى متر كامل مع أجواء حماسية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "TimeOut Riyadh 2021",
+      "Life in Saudi Arabia 2022"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Aghar+Equestrian+Club+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.64
+  },
+  {
+    "id": "al-areen-equestrian-club",
+    "name_ar": "نادي العرين للفروسية",
+    "name_en": "Al Areen Equestrian Club",
+    "category": "entertainment",
+    "category_ar": "فروسية",
+    "category_en": "entertainment",
+    "neighborhood": "حي الجنادرية",
+    "neighborhood_en": "Al Janadriyah",
+    "description_ar": "نادي فروسية عائلي مع مدربين ودودين ومزرعة لتربية الخيول وعروض للمهرات والخيول",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "sources": [
+      "TimeOut Riyadh 2021",
+      "Life in Saudi Arabia 2022"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Areen+Equestrian+Club+Riyadh",
+    "district": "الرياض",
+    "lat": 24.85,
+    "lng": 46.82
+  },
+  {
+    "id": "al-kahela-equestrian-club",
+    "name_ar": "نادي الكحيلة للفروسية",
+    "name_en": "Al Kahela Equestrian Club",
+    "category": "entertainment",
+    "category_ar": "فروسية",
+    "category_en": "entertainment",
+    "neighborhood": "حي الشرق",
+    "neighborhood_en": "Ash Sharq",
+    "description_ar": "الوحيد الذي يقدم دروس رماية بالقوس على الخيل مع تدريب فروسية وحيل احترافية",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "sources": [
+      "TimeOut Riyadh 2021",
+      "Life in Saudi Arabia 2022",
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Kahela+Equestrian+Club+Riyadh",
+    "district": "الرياض",
+    "lat": 24.76,
+    "lng": 46.8
+  },
+  {
+    "id": "caballo-equestrian-club",
+    "name_ar": "نادي كابايو للفروسية",
+    "name_en": "Caballo Equestrian Club",
+    "category": "entertainment",
+    "category_ar": "فروسية",
+    "category_en": "entertainment",
+    "neighborhood": "حي الشرق",
+    "neighborhood_en": "Ash Sharq",
+    "description_ar": "أجمل مكان لركوب الخيل مع مراعٍ خضراء ورمال بيضاء وخيول عربية وإنجليزية وتدريب خاص",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "sources": [
+      "TimeOut Riyadh 2021",
+      "Life in Saudi Arabia 2022"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Caballo+Equestrian+Club+Riyadh",
+    "district": "الرياض",
+    "lat": 24.76,
+    "lng": 46.8
+  },
+  {
+    "id": "riyadh-stables",
+    "name_ar": "اسطبلات الرياض",
+    "name_en": "Riyadh Stables",
+    "category": "entertainment",
+    "category_ar": "فروسية",
+    "category_en": "entertainment",
+    "neighborhood": "حي الشرق",
+    "neighborhood_en": "Ash Sharq",
+    "description_ar": "أشهر أكاديمية فروسية بالرياض للأطفال من 4 سنوات والكبار مع منطقة داخلية ومسابقات",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "sources": [
+      "TimeOut Riyadh 2021",
+      "Life in Saudi Arabia 2022"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Stables+Riyadh",
+    "district": "الرياض",
+    "lat": 24.76,
+    "lng": 46.8
+  },
+  {
+    "id": "voyage-equestrian-club",
+    "name_ar": "نادي فوياج للفروسية",
+    "name_en": "Voyage Equestrian Club",
+    "category": "entertainment",
+    "category_ar": "فروسية",
+    "category_en": "entertainment",
+    "neighborhood": "حي الجنادرية",
+    "neighborhood_en": "Al Janadriyah",
+    "description_ar": "نادي فروسية فاخر مع إطلالة رائعة ومنطقة خاصة للنساء والعائلات ومقهى ومسابقات تصوير",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "TimeOut Riyadh 2021",
+      "Life in Saudi Arabia 2022"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Voyage+Equestrian+Club+Riyadh",
+    "district": "الرياض",
+    "lat": 24.85,
+    "lng": 46.82
+  },
+  {
+    "id": "working-line-equestrian",
+    "name_ar": "وركنج لاين للفروسية",
+    "name_en": "Working Line Equestrian Centre",
+    "category": "entertainment",
+    "category_ar": "فروسية",
+    "category_en": "entertainment",
+    "neighborhood": "حي الجنادرية",
+    "neighborhood_en": "Al Janadriyah",
+    "description_ar": "مركز فروسية تقليدي يقدم رماية على الخيل وقفز حواجز وتدريب مع إقامة وفعاليات ثقافية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "Working-Line.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Working+Line+Equestrian+Centre+Riyadh",
+    "district": "الرياض",
+    "lat": 24.85,
+    "lng": 46.82
+  },
+  {
+    "id": "domo-football-field",
+    "name_ar": "ملعب دومو لكرة القدم",
+    "name_en": "Domo Football Field",
+    "category": "entertainment",
+    "category_ar": "ملاعب كرة قدم",
+    "category_en": "entertainment",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "ملعب كرة قدم متطور مكيف هوائياً تلعب فيه بدون حدود زمنية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "HalaYalla"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Domo+Football+Field+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "milan-stadium-riyadh",
+    "name_ar": "ملعب ميلان",
+    "name_en": "Milan Stadium",
+    "category": "entertainment",
+    "category_ar": "ملاعب كرة قدم",
+    "category_en": "entertainment",
+    "neighborhood": "حي ظهرة لبن",
+    "neighborhood_en": "Dhahrat Laban",
+    "description_ar": "ملاعب ممتازة مع مرافق كالمسجد وملعب 11 ضد 11 مناسب للأكاديميات والمباريات",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "sources": [
+      "Arabs Services 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Milan+Stadium+Riyadh",
+    "district": "الرياض",
+    "lat": 24.63,
+    "lng": 46.6
+  },
+  {
+    "id": "laliga-stadium-riyadh",
+    "name_ar": "ملعب لاليغا",
+    "name_en": "LaLiga Stadium",
+    "category": "entertainment",
+    "category_ar": "ملاعب كرة قدم",
+    "category_en": "entertainment",
+    "neighborhood": "حي المصانع",
+    "neighborhood_en": "Al Masani",
+    "description_ar": "ملعب بموقع استراتيجي بعيد عن الازدحام مع إدارة متعاونة وملعبين بمقاسات مختلفة",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "sources": [
+      "Arabs Services 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=LaLiga+Stadium+Riyadh",
+    "district": "الرياض",
+    "lat": 24.6,
+    "lng": 46.73
+  },
+  {
+    "id": "nukhba-stadiums",
+    "name_ar": "ملاعب النخبة",
+    "name_en": "Al Nukhba Stadiums",
+    "category": "entertainment",
+    "category_ar": "ملاعب كرة قدم",
+    "category_en": "entertainment",
+    "neighborhood": "حي ظهرة نمار",
+    "neighborhood_en": "Dhahrat Namar",
+    "description_ar": "ملاعب جميلة بأرضية مستوية لا تحتاج أحذية مسامير مع أجواء مناسبة للمباريات",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "sources": [
+      "Arabs Services 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Nukhba+Stadiums+Riyadh",
+    "district": "الرياض",
+    "lat": 24.59,
+    "lng": 46.62
+  },
+  {
+    "id": "irqah-sports-field",
+    "name_ar": "ملعب عرقة الرياضي",
+    "name_en": "Irqah Sports Field",
+    "category": "entertainment",
+    "category_ar": "ملاعب رياضية",
+    "category_en": "entertainment",
+    "neighborhood": "حي عرقة",
+    "neighborhood_en": "Irqah",
+    "description_ar": "منشأة رياضية شاملة مع ملاعب كرة قدم وسلة وتنس ومسطحات خضراء وتسجيل مجاني",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "sources": [
+      "Arabs Services 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Irqah+Sports+Field+Riyadh",
+    "district": "الرياض",
+    "lat": 24.67,
+    "lng": 46.56
+  },
+  {
+    "id": "dalma-stadiums",
+    "name_ar": "ملاعب دلما",
+    "name_en": "Dalma Stadiums",
+    "category": "entertainment",
+    "category_ar": "ملاعب كرة قدم",
+    "category_en": "entertainment",
+    "neighborhood": "حي الرمال",
+    "neighborhood_en": "Ar Rimal",
+    "description_ar": "ملاعب كرة قدم للإيجار مجهزة بالكامل في حي الرمال شرق الرياض",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "sources": [
+      "Arabs Services 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dalma+Stadiums+Riyadh",
+    "district": "الرياض",
+    "lat": 24.74,
+    "lng": 46.81
+  },
+  {
+    "id": "goal-junior-riyadh",
+    "name_ar": "جول جونيور",
+    "name_en": "Goal Junior",
+    "category": "entertainment",
+    "category_ar": "أكاديمية كرة قدم",
+    "category_en": "entertainment",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "أفضل أكاديمية كرة قدم للأطفال من 5 إلى 15 سنة مع بطولات مصغرة ومباريات عشوائية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "ThisIsRiyadh 2023"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Goal+Junior+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "yamamah-football-club",
+    "name_ar": "نادي اليمامة لكرة القدم",
+    "name_en": "Al Yamamah Football Club",
+    "category": "entertainment",
+    "category_ar": "نادي رياضي",
+    "category_en": "entertainment",
+    "neighborhood": "حي اليمامة",
+    "neighborhood_en": "Al Yamamah",
+    "description_ar": "موطن أول فريق نسائي لكرة القدم بالرياض منذ 2007 مع دروس للرجال والنساء وملاعب سلة",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "sources": [
+      "ThisIsRiyadh 2023"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Yamamah+Football+Club+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "al-wadi-soccer-fields",
+    "name_ar": "ملاعب الوادي",
+    "name_en": "Al Wadi Soccer Fields",
+    "category": "entertainment",
+    "category_ar": "ملاعب كرة قدم",
+    "category_en": "entertainment",
+    "neighborhood": "حي العريجا",
+    "neighborhood_en": "Al Uraija",
+    "description_ar": "ملاعب كرة قدم جميلة بعيدة عن صخب المدينة مقسمة لاستيعاب عدة فرق بأسعار مناسبة",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "sources": [
+      "ThisIsRiyadh 2023"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Wadi+Soccer+Fields+Riyadh",
+    "district": "الرياض",
+    "lat": 24.62,
+    "lng": 46.61
+  },
+  {
+    "id": "wadi-stadium-riyadh",
+    "name_ar": "ملعب حي الوادي",
+    "name_en": "Wadi District Stadium",
+    "category": "entertainment",
+    "category_ar": "ملاعب كرة قدم",
+    "category_en": "entertainment",
+    "neighborhood": "حي الوادي",
+    "neighborhood_en": "Al Wadi",
+    "description_ar": "ملعب مفتوح 24 ساعة مع حديقة نظيفة وملاهي مجاور يخدم الحي بشكل مثالي",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "sources": [
+      "Arabs Services 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wadi+District+Stadium+Riyadh",
+    "district": "الرياض",
+    "lat": 24.79,
+    "lng": 46.66
+  },
+  {
+    "id": "football-playground-namudhajiyah",
+    "name_ar": "ملعب كرة القدم النموذجية",
+    "name_en": "Football Playground Namudhajiyah",
+    "category": "entertainment",
+    "category_ar": "ملاعب كرة قدم",
+    "category_en": "entertainment",
+    "neighborhood": "حي النموذجية",
+    "neighborhood_en": "An Namudhajiyah",
+    "description_ar": "ملعب كرة قدم مع أكاديمية تدريب قريبة مناسب للعائلات والأصدقاء والبطولات",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "sources": [
+      "ThisIsRiyadh 2023"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Football+Playground+Namudhajiyah+Riyadh",
+    "district": "الرياض",
+    "lat": 24.6571,
+    "lng": 46.688
+  }
+]

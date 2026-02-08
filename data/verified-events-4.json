@@ -1,0 +1,145 @@
+[
+  {
+    "id": "boulevard-city-concerts",
+    "name_ar": "حفلات بوليفارد سيتي",
+    "name_en": "Boulevard City Concert Venue",
+    "category": "events",
+    "category_ar": "حفلات موسيقية",
+    "category_en": "events",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "أبرز مكان لحفلات موسم الرياض يستضيف نجوم عرب وعالميين في قاعات ومسارح متعددة",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "sources": [
+      "Riyadh Season 2025",
+      "Mstaml"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Boulevard+City+Riyadh",
+    "district": "الرياض",
+    "lat": 24.76,
+    "lng": 46.62
+  },
+  {
+    "id": "mdlbeast-riyadh-events",
+    "name_ar": "فعاليات ميدل بيست",
+    "name_en": "MDLBEAST Events Riyadh",
+    "category": "events",
+    "category_ar": "مهرجانات موسيقية",
+    "category_en": "events",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "أكبر منظم فعاليات موسيقية في الشرق الأوسط يقدم مهرجانات وحفلات عالمية في الرياض",
+    "google_rating": 4.6,
+    "price_level": "$$$",
+    "sources": [
+      "MDLBEAST.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=MDLBEAST+Events+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "riyadh-platinumlist-events",
+    "name_ar": "حفلات بلاتينم ليست الرياض",
+    "name_en": "Platinumlist Riyadh Events",
+    "category": "events",
+    "category_ar": "حفلات متنوعة",
+    "category_en": "events",
+    "neighborhood": "مواقع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "منصة حجز تذاكر الحفلات والفعاليات في الرياض مع أفضل الأسعار والعروض الحية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "Platinumlist.net"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Events",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "riyadh-convention-exhibition-center",
+    "name_ar": "مركز الرياض الدولي للمؤتمرات والمعارض",
+    "name_en": "Riyadh International Convention & Exhibition Center",
+    "category": "events",
+    "category_ar": "مراكز معارض",
+    "category_en": "events",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "أكبر مركز للمؤتمرات والمعارض في الرياض يستضيف فعاليات ومعارض دولية ومحلية على مدار السنة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "Visit Saudi",
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Convention+Exhibition+Center",
+    "district": "الرياض",
+    "lat": 24.68,
+    "lng": 46.69
+  },
+  {
+    "id": "king-fahd-cultural-center",
+    "name_ar": "مركز الملك فهد الثقافي",
+    "name_en": "King Fahd Cultural Center",
+    "category": "events",
+    "category_ar": "مراكز ثقافية",
+    "category_en": "events",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مركز ثقافي يستضيف عروض مسرحية وموسيقية ومعارض فنية وفعاليات ثقافية متنوعة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "Riyadh.sa",
+      "Visit Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=King+Fahd+Cultural+Center+Riyadh",
+    "district": "الرياض",
+    "lat": 24.69,
+    "lng": 46.7
+  },
+  {
+    "id": "webook-riyadh-events",
+    "name_ar": "فعاليات ويبوك الرياض",
+    "name_en": "Webook Riyadh Events",
+    "category": "events",
+    "category_ar": "منصة فعاليات",
+    "category_en": "events",
+    "neighborhood": "مواقع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "منصة حجز تذاكر رسمية لفعاليات موسم الرياض والحفلات والعروض المسرحية والرياضية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "sources": [
+      "Webook.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Webook+Riyadh+Events",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "halayalla-riyadh-experiences",
+    "name_ar": "هلا يلا تجارب الرياض",
+    "name_en": "HalaYalla Riyadh Experiences",
+    "category": "events",
+    "category_ar": "منصة فعاليات",
+    "category_en": "events",
+    "neighborhood": "مواقع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "منصة حجز تجارب ترفيهية ورياضية وسياحية في الرياض مع فعاليات متجددة على مدار السنة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "sources": [
+      "HalaYalla.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=HalaYalla+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  }
+]

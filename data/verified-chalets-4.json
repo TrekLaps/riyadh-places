@@ -1,0 +1,185 @@
+[
+  {
+    "id": "gathern-camps-riyadh",
+    "name_ar": "مخيمات قذرن الرياض",
+    "name_en": "Gathern Camps Riyadh",
+    "category": "chalets",
+    "category_ar": "مخيمات",
+    "category_en": "chalets",
+    "neighborhood": "مواقع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "منصة حجز مخيمات في الرياض بأكثر من 180 موقع مع شقق واستديوهات وغرف وفلل",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "sources": [
+      "Gathern.co"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Gathern+Camps+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "thumamah-desert-camp",
+    "name_ar": "مخيم الثمامة الصحراوي",
+    "name_en": "Thumamah Desert Camp",
+    "category": "chalets",
+    "category_ar": "تخييم صحراوي",
+    "category_en": "chalets",
+    "neighborhood": "الثمامة",
+    "neighborhood_en": "Thumamah",
+    "description_ar": "مخيم صحراوي في منطقة الثمامة شمال الرياض مع أنشطة صحراوية وركوب الجمال والدراجات الرباعية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "sources": [
+      "TripAdvisor",
+      "Visit Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Thumamah+Desert+Camp+Riyadh",
+    "district": "الرياض",
+    "lat": 25.0,
+    "lng": 46.65
+  },
+  {
+    "id": "resorts-private-pool-riyadh-1",
+    "name_ar": "منتجعات مسبح خاص - المروج",
+    "name_en": "Al Muruj Private Pool Resort",
+    "category": "chalets",
+    "category_ar": "منتجعات مسبح خاص",
+    "category_en": "chalets",
+    "neighborhood": "حي المروج",
+    "neighborhood_en": "Al Muruj",
+    "description_ar": "منتجع فاخر بمسبح خاص وأماكن إقامة بديكور عصري قريب من أماكن التسوق والترفيه",
+    "google_rating": 4.2,
+    "price_level": "$$$",
+    "sources": [
+      "Altar7al 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Muruj+Private+Pool+Resort+Riyadh",
+    "district": "الرياض",
+    "lat": 24.74,
+    "lng": 46.63
+  },
+  {
+    "id": "luxury-desert-glamping",
+    "name_ar": "تخييم فاخر في الصحراء",
+    "name_en": "Luxury Desert Glamping Riyadh",
+    "category": "chalets",
+    "category_ar": "تخييم فاخر",
+    "category_en": "chalets",
+    "neighborhood": "خارج الرياض",
+    "neighborhood_en": "Outside Riyadh",
+    "description_ar": "تجربة تخييم فاخرة في الصحراء مع خيم مفروشة ومرافق حديثة وأنشطة صحراوية تحت النجوم",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "sources": [
+      "Booking.com",
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Luxury+Desert+Glamping+Riyadh",
+    "district": "الرياض",
+    "lat": 24.5,
+    "lng": 46.5
+  },
+  {
+    "id": "edge-of-world-camp",
+    "name_ar": "مخيم حافة العالم",
+    "name_en": "Edge of the World Camp",
+    "category": "chalets",
+    "category_ar": "تخييم مغامرات",
+    "category_en": "chalets",
+    "neighborhood": "شمال غرب الرياض",
+    "neighborhood_en": "Northwest Riyadh",
+    "description_ar": "مخيم عند حافة العالم مع مبيت تحت النجوم وشواء وأنشطة مغامرات عند جبل طويق",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "sources": [
+      "Visit Saudi",
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Edge+of+World+Camp+Riyadh",
+    "district": "الرياض",
+    "lat": 24.85,
+    "lng": 46.15
+  },
+  {
+    "id": "rawdhat-khoraim-camp",
+    "name_ar": "مخيم روضة خريم",
+    "name_en": "Rawdhat Khoraim Camp",
+    "category": "chalets",
+    "category_ar": "تخييم طبيعي",
+    "category_en": "chalets",
+    "neighborhood": "شمال شرق الرياض",
+    "neighborhood_en": "Northeast Riyadh",
+    "description_ar": "تخييم طبيعي في محمية روضة خريم وسط المساحات الخضراء والأشجار البرية",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "sources": [
+      "Visit Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Rawdhat+Khoraim+Camp+Riyadh",
+    "district": "الرياض",
+    "lat": 25.2,
+    "lng": 47.1
+  },
+  {
+    "id": "wadi-hanifah-camp",
+    "name_ar": "مخيم وادي حنيفة",
+    "name_en": "Wadi Hanifah Campsite",
+    "category": "chalets",
+    "category_ar": "تخييم طبيعي",
+    "category_en": "chalets",
+    "neighborhood": "وادي حنيفة",
+    "neighborhood_en": "Wadi Hanifah",
+    "description_ar": "مواقع تخييم على ضفاف وادي حنيفة مع مناظر طبيعية خلابة وأجواء هادئة",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "sources": [
+      "Visit Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Hanifah+Campsite+Riyadh",
+    "district": "الرياض",
+    "lat": 24.65,
+    "lng": 46.58
+  },
+  {
+    "id": "resort-private-pool-2",
+    "name_ar": "منتجع خاص بمسبح - الياسمين",
+    "name_en": "Yasmin Private Pool Resort",
+    "category": "chalets",
+    "category_ar": "استراحة مسبح خاص",
+    "category_en": "chalets",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "استراحة خاصة بمسبح مع جلسات خارجية ومطبخ مجهز وخصوصية تامة مناسبة للعائلات",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "sources": [
+      "Mosafeir 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Yasmin+Private+Pool+Resort+Riyadh",
+    "district": "الرياض",
+    "lat": 24.82,
+    "lng": 46.64
+  },
+  {
+    "id": "dirab-golf-resort-chalets",
+    "name_ar": "منتجع وشاليهات ديراب للجولف",
+    "name_en": "Dirab Golf & Resort Chalets",
+    "category": "chalets",
+    "category_ar": "منتجعات وشاليهات",
+    "category_en": "chalets",
+    "neighborhood": "جنوب غرب الرياض",
+    "neighborhood_en": "Southwest Riyadh",
+    "description_ar": "شاليهات فاخرة ضمن منتجع ديراب للجولف مع ملعب 18 حفرة ومرافق رياضية متكاملة",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "sources": [
+      "Visit Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dirab+Golf+Resort+Riyadh",
+    "district": "الرياض",
+    "lat": 24.48,
+    "lng": 46.52
+  }
+]

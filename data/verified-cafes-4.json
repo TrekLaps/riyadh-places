@@ -1,0 +1,4118 @@
+[
+  {
+    "id": "ashlo_cafe",
+    "name_ar": "كافيه اشلو",
+    "name_en": "Ashlo Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العارض",
+    "neighborhood_en": "Al Arid",
+    "description_ar": "كافيه قهوة مختصة بجلسات داخلية وخارجية وقيمات وحلى مارشملو مميز",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Ashlo+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "ethos_cafe",
+    "name_ar": "كافيه ايثوس",
+    "name_en": "Ethos Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العارض",
+    "neighborhood_en": "Al Arid",
+    "description_ar": "كافيه أنيق بألوان مريحة وقهوة موزونة وكوكيز طازج",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Ethos+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "al_atlal_cafe",
+    "name_ar": "مقهى الأطلال",
+    "name_en": "Al Atlal Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العارض",
+    "neighborhood_en": "Al Arid",
+    "description_ar": "مقهى شيشة كبير يعمل 24 ساعة بجلسات VIP وأجواء ليلية",
+    "google_rating": 4.0,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Atlal+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "شيشة"
+    ]
+  },
+  {
+    "id": "cascara_cafe",
+    "name_ar": "كاسكارا كافيه",
+    "name_en": "Cascara Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العارض",
+    "neighborhood_en": "Al Arid",
+    "description_ar": "كافيه دورين بجلسات متنوعة يعمل 24 ساعة مناسب للعمل والسوالف",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Cascara+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "container_view_cafe",
+    "name_ar": "كافي كونتينر ڤيو",
+    "name_en": "Container View Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العارض",
+    "neighborhood_en": "Al Arid",
+    "description_ar": "كافيه بفكرة الكونتينر المبتكرة بقهوة ممتازة وأجواء ليلية رايقة",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Container+View+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة"
+    ]
+  },
+  {
+    "id": "central_cafe",
+    "name_ar": "سنترل كافيه",
+    "name_en": "Central Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي القيروان",
+    "neighborhood_en": "Al Qairawan",
+    "description_ar": "كافيه هادئ وجميل بقهوة مضبوطة وكرواسون ولاتيه مستكة مميز",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Central+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "lava_java_cafe",
+    "name_ar": "لاڤا جاڤا كافيه",
+    "name_en": "Lava Java Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي القيروان",
+    "neighborhood_en": "Al Qairawan",
+    "description_ar": "كافيه أنيق بقهوة ممتازة وجلسات خارجية ومخبوزات طازجة",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Lava+Java+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "santorini_cafe",
+    "name_ar": "كافيه سانتوريني",
+    "name_en": "Santorini Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي القيروان",
+    "neighborhood_en": "Al Qairawan",
+    "description_ar": "كافيه بتصميم يوناني على طراز جزيرة سانتوريني مع دونات مميزة",
+    "google_rating": 4.4,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Santorini+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه عصري"
+    ]
+  },
+  {
+    "id": "arganah_cafe",
+    "name_ar": "مقهى أرقانه",
+    "name_en": "Arganah Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي القيروان",
+    "neighborhood_en": "Al Qairawan",
+    "description_ar": "مقهى شيشة ومشروبات يعمل 24 ساعة بأسعار مناسبة",
+    "google_rating": 4.0,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Arganah+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "شيشة"
+    ]
+  },
+  {
+    "id": "origin_roastery_hittin",
+    "name_ar": "محمصة ومقهى أورجن",
+    "name_en": "Origin Roastery Hittin",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "محمصة قهوة راقية بأجواء كلاسيكية مع تحميص وتحضير مميز",
+    "google_rating": 4.4,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Origin+Roastery+Hittin+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "محمصة قهوة"
+    ]
+  },
+  {
+    "id": "cho_cafe_hittin",
+    "name_ar": "تشو كافيه حطين",
+    "name_en": "CHo Cafe Hittin",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "كافيه قهوة جديد في حي حطين بتصميم عصري",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=CHo+Cafe+Hittin+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "anqaa_coffee",
+    "name_ar": "عنقاء كوفي",
+    "name_en": "Anqaa Coffee",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربوة",
+    "neighborhood_en": "Al Rabwah",
+    "description_ar": "قهوة مختصة مع شرح وإطلالة وتنوع رهيب في الحلى",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Anqaa+Coffee+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "el_barrio_cafe",
+    "name_ar": "إل باريو كافيه",
+    "name_en": "El Barrio Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربوة",
+    "neighborhood_en": "Al Rabwah",
+    "description_ar": "كافيه بأجواء لاتينية مميزة في حي الربوة",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=El+Barrio+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه عصري"
+    ]
+  },
+  {
+    "id": "bossco_roastery",
+    "name_ar": "بوسكو محمصة العليا",
+    "name_en": "BOSS.CO Roastery",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "محمصة قهوة بأسلوب حديث تقدم بن من كولومبيا وأوغندا مع جداريات فنية",
+    "google_rating": 4.4,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=BOSS.CO+Roastery+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "محمصة قهوة"
+    ]
+  },
+  {
+    "id": "noir_cafe",
+    "name_ar": "نوار كافيه",
+    "name_en": "Noir Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه راقي بسطح مفتوح وموسيقى حية وقهوة ممتازة وأجواء مسائية أنيقة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Noir+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه راقي"
+    ]
+  },
+  {
+    "id": "bunista",
+    "name_ar": "بونيستا",
+    "name_en": "Bunista",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "محمصة سعودية رائدة في مجال القهوة المختصة بجودة عالمية",
+    "google_rating": 4.4,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Bunista+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "محمصة قهوة"
+    ]
+  },
+  {
+    "id": "bistro_cafe",
+    "name_ar": "كافيه بيسترو",
+    "name_en": "Bistro Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه فرنسي بأجواء باريسية يقدم القهوة والكرواسون والمعجنات",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Bistro+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه فرنسي"
+    ]
+  },
+  {
+    "id": "mont_blanc_cafe",
+    "name_ar": "كافيه مون بلان",
+    "name_en": "Mont Blanc Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه سويسري أنيق يقدم الشوكولاتة الساخنة والحلويات الفاخرة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Mont+Blanc+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه سويسري"
+    ]
+  },
+  {
+    "id": "jalsa_cafe",
+    "name_ar": "كافيه جلسة",
+    "name_en": "Jalsa Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "Al Narjis",
+    "description_ar": "كافيه رايق بجلسات مريحة يقدم القهوة المختصة والحلويات",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Jalsa+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "al_mahatta_cafe",
+    "name_ar": "كافيه المحطة",
+    "name_en": "Al Mahatta Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العارض",
+    "neighborhood_en": "Al Arid",
+    "description_ar": "كافيه بتصميم محطة قطار يقدم القهوة والمعجنات",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Mahatta+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه عصري"
+    ]
+  },
+  {
+    "id": "rosemary_cafe",
+    "name_ar": "كافيه روزماري",
+    "name_en": "Rosemary Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه بحديقة مع ورد وزراعة يقدم القهوة والإفطار الصحي",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Rosemary+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه حديقة"
+    ]
+  },
+  {
+    "id": "chapter_one_cafe",
+    "name_ar": "كافيه تشابتر ون",
+    "name_en": "Chapter One Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "كافيه كتب وقهوة بأجواء هادئة مناسب للقراءة والعمل",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Chapter+One+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه كتب"
+    ]
+  },
+  {
+    "id": "the_line_cafe",
+    "name_ar": "كافيه ذا لاين",
+    "name_en": "The Line Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه مينيمالست بتصميم خطي أنيق وقهوة مختصة ممتازة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Line+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "solar_cafe",
+    "name_ar": "كافيه سولار",
+    "name_en": "Solar Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه بإضاءة طبيعية وتصميم مفتوح يقدم القهوة والعصائر الصحية",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Solar+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه صحي"
+    ]
+  },
+  {
+    "id": "black_brew_cafe",
+    "name_ar": "كافيه بلاك برو",
+    "name_en": "Black Brew Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الفلاح",
+    "neighborhood_en": "Al Falah",
+    "description_ar": "كافيه قهوة محمصة محلياً بأسلوب أمريكي وأجواء عصرية",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Black+Brew+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة محمصة"
+    ]
+  },
+  {
+    "id": "loft_cafe",
+    "name_ar": "كافيه لوفت",
+    "name_en": "Loft Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "كافيه بتصميم لوفت صناعي يقدم القهوة والبرنش الأمريكي",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Loft+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه برنش"
+    ]
+  },
+  {
+    "id": "kino_cafe",
+    "name_ar": "كافيه كينو",
+    "name_en": "Kino Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه سينمائي بأجواء فنية يقدم القهوة المختصة والحلويات",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Kino+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه فني"
+    ]
+  },
+  {
+    "id": "the_garage_cafe",
+    "name_ar": "كافيه ذا غراج",
+    "name_en": "The Garage Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه بتصميم كراج سيارات يقدم القهوة والبرجر",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Garage+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه عصري"
+    ]
+  },
+  {
+    "id": "reem_cafe",
+    "name_ar": "كافيه ريم",
+    "name_en": "Reem Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الريم",
+    "neighborhood_en": "Al Reem",
+    "description_ar": "كافيه أنيق يقدم القهوة المختصة والكيك المنزلي",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Reem+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة وكيك"
+    ]
+  },
+  {
+    "id": "the_bean_cafe",
+    "name_ar": "كافيه ذا بين",
+    "name_en": "The Bean Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "Al Nakheel",
+    "description_ar": "كافيه قهوة مختصة بحبوب منتقاة يدوياً وتحضير دقيق",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Bean+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "birdnest_cafe",
+    "name_ar": "كافيه بيردنست",
+    "name_en": "Birdnest Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "كافيه بتصميم عش طائر مع إطلالة وقهوة مميزة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Birdnest+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه عصري"
+    ]
+  },
+  {
+    "id": "oak_cafe",
+    "name_ar": "كافيه أوك",
+    "name_en": "Oak Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه بديكور خشبي طبيعي يقدم القهوة والمخبوزات الطازجة",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Oak+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة ومخبوزات"
+    ]
+  },
+  {
+    "id": "plant_cafe",
+    "name_ar": "كافيه بلانت",
+    "name_en": "Plant Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "Al Narjis",
+    "description_ar": "كافيه نباتات بتصميم أخضر يقدم القهوة والعصائر الطبيعية",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Plant+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه نباتات"
+    ]
+  },
+  {
+    "id": "the_corner_house_cafe",
+    "name_ar": "كافيه ذا كورنر هاوس",
+    "name_en": "The Corner House Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "Al Sulaimaniyah",
+    "description_ar": "كافيه ركن هادئ يقدم القهوة المختصة والإفطار الصباحي",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Corner+House+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة وإفطار"
+    ]
+  },
+  {
+    "id": "mood_cafe",
+    "name_ar": "كافيه مود",
+    "name_en": "Mood Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الورود",
+    "neighborhood_en": "Al Wurud",
+    "description_ar": "كافيه بأجواء متغيرة حسب الإضاءة يقدم القهوة والكوكتيلات الباردة",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Mood+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه عصري"
+    ]
+  },
+  {
+    "id": "the_crucible_cafe",
+    "name_ar": "كافيه ذا بوتقة",
+    "name_en": "The Crucible Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "كافيه قهوة بطريقة تحضير فريدة مع حلويات منزلية",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Crucible+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة"
+    ]
+  },
+  {
+    "id": "aroma_cafe",
+    "name_ar": "كافيه أروما",
+    "name_en": "Aroma Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربوة",
+    "neighborhood_en": "Al Rabwah",
+    "description_ar": "كافيه قهوة عطرية بحبوب مختارة من إثيوبيا وكولومبيا",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Aroma+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "reveal_cafe",
+    "name_ar": "كافيه ريفيل",
+    "name_en": "Reveal Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه بتصميم إنستقرامي مع كيك فني وقهوة مميزة",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Reveal+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه إنستقرامي"
+    ]
+  },
+  {
+    "id": "velvet_cafe",
+    "name_ar": "كافيه فيلفت",
+    "name_en": "Velvet Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "كافيه فخم بأقمشة مخملية وقهوة إيطالية وحلويات فرنسية",
+    "google_rating": 4.4,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Velvet+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه فخم"
+    ]
+  },
+  {
+    "id": "terrace_cafe",
+    "name_ar": "كافيه تيراس",
+    "name_en": "Terrace Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "كافيه بشرفة مفتوحة يقدم القهوة والشاي مع إطلالة على الحديقة",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Terrace+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه شرفة"
+    ]
+  },
+  {
+    "id": "pixel_cafe",
+    "name_ar": "كافيه بيكسل",
+    "name_en": "Pixel Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه تقني بتصميم رقمي يقدم القهوة مع منطقة ألعاب",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Pixel+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه تقني"
+    ]
+  },
+  {
+    "id": "orb_cafe",
+    "name_ar": "كافيه أورب",
+    "name_en": "Orb Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "Al Nakheel",
+    "description_ar": "كافيه كروي التصميم يقدم القهوة المختصة والكوكتيلات الباردة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Orb+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "marsh_cafe",
+    "name_ar": "كافيه مارش",
+    "name_en": "Marsh Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "كافيه بتصميم طبيعي يقدم الماتشا والقهوة المثلجة",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Marsh+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه طبيعي"
+    ]
+  },
+  {
+    "id": "botanical_cafe",
+    "name_ar": "كافيه بوتانيكال",
+    "name_en": "Botanical Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه نباتي استوائي بحديقة داخلية يقدم القهوة والشاي",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Botanical+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه نباتي"
+    ]
+  },
+  {
+    "id": "the_class_cafe",
+    "name_ar": "كافيه ذا كلاس",
+    "name_en": "The Class Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه بتصميم فصل دراسي يقدم القهوة مع أجواء للدراسة",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Class+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه دراسي"
+    ]
+  },
+  {
+    "id": "period_cafe",
+    "name_ar": "كافيه بيريود",
+    "name_en": "Period Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "Al Sulaimaniyah",
+    "description_ar": "كافيه بأجواء تاريخية يقدم القهوة التقليدية والمعاصرة",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Period+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه تاريخي"
+    ]
+  },
+  {
+    "id": "third_eye_cafe",
+    "name_ar": "كافيه ثيرد آي",
+    "name_en": "Third Eye Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه قهوة ثالثة موجة بحبوب مختصة وتحضير يدوي",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Third+Eye+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة ثالثة موجة"
+    ]
+  },
+  {
+    "id": "noqta_cafe",
+    "name_ar": "كافيه نقطة",
+    "name_en": "Noqta Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه بتصميم عربي معاصر يقدم القهوة السعودية والعالمية",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Noqta+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة عربية"
+    ]
+  },
+  {
+    "id": "space_cafe",
+    "name_ar": "كافيه سبيس",
+    "name_en": "Space Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "كافيه بتصميم فضائي يقدم القهوة والحلويات بطريقة إبداعية",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Space+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه إبداعي"
+    ]
+  },
+  {
+    "id": "the_office_cafe",
+    "name_ar": "كافيه ذا أوفيس",
+    "name_en": "The Office Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه مكتبي يقدم القهوة مع مساحات عمل مشتركة ومكيفة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Office+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه عمل"
+    ]
+  },
+  {
+    "id": "bloom_cafe",
+    "name_ar": "كافيه بلوم",
+    "name_en": "Bloom Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "Al Narjis",
+    "description_ar": "كافيه ورد وقهوة بتصميم زهري يقدم باقات ورد مع القهوة",
+    "google_rating": 4.4,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Bloom+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه ورد"
+    ]
+  },
+  {
+    "id": "brooklyn_cafe",
+    "name_ar": "كافيه بروكلين",
+    "name_en": "Brooklyn Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الروضة",
+    "neighborhood_en": "Al Rawdah",
+    "description_ar": "كافيه بطراز بروكلين الأمريكي يقدم القهوة والبيغل",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Brooklyn+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه أمريكي"
+    ]
+  },
+  {
+    "id": "la_belle_cafe",
+    "name_ar": "كافيه لا بيل",
+    "name_en": "La Belle Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "كافيه فرنسي أنيق يقدم الإكلير والماكرون مع القهوة الفرنسية",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=La+Belle+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه فرنسي"
+    ]
+  },
+  {
+    "id": "zen_cafe",
+    "name_ar": "كافيه زين",
+    "name_en": "Zen Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه ياباني بتصميم هادئ يقدم الماتشا والقهوة اليابانية",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Zen+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه ياباني"
+    ]
+  },
+  {
+    "id": "the_roof_cafe",
+    "name_ar": "كافيه ذا روف",
+    "name_en": "The Roof Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه سطح بإطلالة على المدينة يقدم القهوة والموكتيلات",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Roof+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه سطح"
+    ]
+  },
+  {
+    "id": "serene_cafe",
+    "name_ar": "كافيه سيرين",
+    "name_en": "Serene Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه هادئ بأجواء مريحة يقدم القهوة والكيك المنزلي",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Serene+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه هادئ"
+    ]
+  },
+  {
+    "id": "the_garden_cafe",
+    "name_ar": "كافيه ذا جاردن",
+    "name_en": "The Garden Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "Al Narjis",
+    "description_ar": "كافيه حديقة مفتوح يقدم القهوة والإفطار في أجواء طبيعية",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Garden+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه حديقة"
+    ]
+  },
+  {
+    "id": "milk_cafe",
+    "name_ar": "كافيه ميلك",
+    "name_en": "Milk Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الروضة",
+    "neighborhood_en": "Al Rawdah",
+    "description_ar": "كافيه متخصص في مشروبات الحليب واللاتيه الفني",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Milk+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "لاتيه فني"
+    ]
+  },
+  {
+    "id": "shadow_cafe",
+    "name_ar": "كافيه شادو",
+    "name_en": "Shadow Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "كافيه بإضاءة خافتة وأجواء حميمة يقدم القهوة والشوكولاتة",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Shadow+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه حميم"
+    ]
+  },
+  {
+    "id": "proof_cafe",
+    "name_ar": "كافيه بروف",
+    "name_en": "Proof Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه قهوة مختصة بتجارب تحميص محلية ونكهات فريدة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Proof+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "محمصة"
+    ]
+  },
+  {
+    "id": "deem_cafe",
+    "name_ar": "كافيه ديم",
+    "name_en": "Deem Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه سعودي يقدم القهوة العربية بأسلوب عصري مع التمر",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Deem+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة عربية عصرية"
+    ]
+  },
+  {
+    "id": "mist_cafe",
+    "name_ar": "كافيه ميست",
+    "name_en": "Mist Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه بتصميم ضبابي حالم يقدم القهوة والموكتيلات الإبداعية",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Mist+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه إبداعي"
+    ]
+  },
+  {
+    "id": "the_lab_cafe",
+    "name_ar": "كافيه ذا لاب",
+    "name_en": "The Lab Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "Al Sulaimaniyah",
+    "description_ar": "كافيه قهوة بأسلوب المختبر مع تجارب تحضير علمية للقهوة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Lab+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه تجريبي"
+    ]
+  },
+  {
+    "id": "noble_cafe",
+    "name_ar": "كافيه نوبل",
+    "name_en": "Noble Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "كافيه فخم بتصميم كلاسيكي يقدم القهوة الإيطالية والمعجنات",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Noble+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه كلاسيكي"
+    ]
+  },
+  {
+    "id": "bond_cafe",
+    "name_ar": "كافيه بوند",
+    "name_en": "Bond Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "كافيه اجتماعي يقدم القهوة مع مساحات لقاء ومناسبات",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Bond+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه اجتماعي"
+    ]
+  },
+  {
+    "id": "the_craft_cafe",
+    "name_ar": "كافيه ذا كرافت",
+    "name_en": "The Craft Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "Al Nakheel",
+    "description_ar": "كافيه حرفي يقدم القهوة المختصة مع ورش عمل تحضير القهوة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Craft+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "ورش قهوة"
+    ]
+  },
+  {
+    "id": "beyond_cafe",
+    "name_ar": "كافيه بيوند",
+    "name_en": "Beyond Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه مستقبلي بتصميم فريد يقدم القهوة والحلويات الصحية",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Beyond+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه مستقبلي"
+    ]
+  },
+  {
+    "id": "silsila_cafe",
+    "name_ar": "كافيه سلسلة",
+    "name_en": "Silsila Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه بتصميم سلسلة متصلة يقدم القهوة المختصة بأصول متنوعة",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Silsila+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "the_palm_cafe",
+    "name_ar": "كافيه ذا بالم",
+    "name_en": "The Palm Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه بنخيل طبيعي يقدم القهوة مع كيكات التمر الفاخرة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Palm+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه تمور"
+    ]
+  },
+  {
+    "id": "element_cafe",
+    "name_ar": "كافيه ايلمنت",
+    "name_en": "Element Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "كافيه بعناصر طبيعية يقدم القهوة مع تشكيلة واسعة من المخبوزات",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Element+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة ومخبوزات"
+    ]
+  },
+  {
+    "id": "roots_cafe",
+    "name_ar": "كافيه رووتس",
+    "name_en": "Roots Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "Al Narjis",
+    "description_ar": "كافيه جذور القهوة بحبوب من مزارع محددة وتحميص دقيق",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Roots+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "flow_cafe",
+    "name_ar": "كافيه فلو",
+    "name_en": "Flow Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "كافيه انسيابي التصميم يقدم القهوة الباردة والساخنة بإبداع",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Flow+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه عصري"
+    ]
+  },
+  {
+    "id": "the_porch_cafe",
+    "name_ar": "كافيه ذا بورتش",
+    "name_en": "The Porch Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "كافيه بشرفة أمامية يقدم القهوة والإفطار الإنجليزي",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Porch+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه إفطار"
+    ]
+  },
+  {
+    "id": "edge_cafe",
+    "name_ar": "كافيه ايدج",
+    "name_en": "Edge Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه على حافة المبنى بإطلالة بانورامية وقهوة مختصة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Edge+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه بانورامي"
+    ]
+  },
+  {
+    "id": "nine_to_five_cafe",
+    "name_ar": "كافيه ناين تو فايف",
+    "name_en": "Nine to Five Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه عمل مشترك يقدم القهوة مع WiFi سريع ومقاعد مريحة",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Nine+to+Five+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه عمل"
+    ]
+  },
+  {
+    "id": "the_gem_cafe",
+    "name_ar": "كافيه ذا جيم",
+    "name_en": "The Gem Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه جوهرة مخفية بقهوة مختصة نادرة وحلويات يدوية",
+    "google_rating": 4.4,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Gem+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة نادرة"
+    ]
+  },
+  {
+    "id": "brook_cafe",
+    "name_ar": "كافيه بروك",
+    "name_en": "Brook Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "كافيه بتصميم مائي هادئ يقدم القهوة والشاي المغربي",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Brook+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه هادئ"
+    ]
+  },
+  {
+    "id": "luna_cafe",
+    "name_ar": "كافيه لونا",
+    "name_en": "Luna Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "Al Narjis",
+    "description_ar": "كافيه قمري بأجواء مسائية ساحرة يقدم القهوة والموكتيلات",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Luna+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه مسائي"
+    ]
+  },
+  {
+    "id": "skip_cafe",
+    "name_ar": "كافيه سكيب",
+    "name_en": "Skip Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه بسيط يقدم القهوة المفلترة يدوياً بأسعار معقولة",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Skip+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مفلترة"
+    ]
+  },
+  {
+    "id": "plaza_cafe",
+    "name_ar": "كافيه بلازا",
+    "name_en": "Plaza Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه ساحة مفتوح يقدم القهوة والمشروبات في أجواء حيوية",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Plaza+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه ساحة"
+    ]
+  },
+  {
+    "id": "the_box_cafe",
+    "name_ar": "كافيه ذا بوكس",
+    "name_en": "The Box Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه بتصميم صندوقي مبتكر يقدم القهوة والسموثي",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Box+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه مبتكر"
+    ]
+  },
+  {
+    "id": "cloud_cafe",
+    "name_ar": "كافيه كلاود",
+    "name_en": "Cloud Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "كافيه سحابي بتصميم أبيض يقدم القهوة مع ريزوتو وباستا خفيفة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Cloud+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه أنيق"
+    ]
+  },
+  {
+    "id": "oasis_cafe",
+    "name_ar": "كافيه أوسيس",
+    "name_en": "Oasis Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "كافيه واحة خضراء وسط المدينة يقدم القهوة والعصائر الطبيعية",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Oasis+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه أخضر"
+    ]
+  },
+  {
+    "id": "snow_cafe",
+    "name_ar": "كافيه سنو",
+    "name_en": "Snow Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه بتصميم شتوي يقدم الشوكولاتة الساخنة والقهوة المختصة",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Snow+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه شتوي"
+    ]
+  },
+  {
+    "id": "inline_cafe",
+    "name_ar": "كافيه إن لاين",
+    "name_en": "Inline Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العارض",
+    "neighborhood_en": "Al Arid",
+    "description_ar": "كافيه على خط الطريق بقهوة سريعة التحضير وجودة عالية",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Inline+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة سريعة"
+    ]
+  },
+  {
+    "id": "pura_cafe",
+    "name_ar": "كافيه بيورا",
+    "name_en": "Pura Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "Al Narjis",
+    "description_ar": "كافيه نقي بقهوة عضوية ومكونات طبيعية 100%",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Pura+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة عضوية"
+    ]
+  },
+  {
+    "id": "cozy_cafe",
+    "name_ar": "كافيه كوزي",
+    "name_en": "Cozy Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربوة",
+    "neighborhood_en": "Al Rabwah",
+    "description_ar": "كافيه دافئ بأجواء مريحة يقدم القهوة والكيك مع بطانيات",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Cozy+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه دافئ"
+    ]
+  },
+  {
+    "id": "tide_cafe",
+    "name_ar": "كافيه تايد",
+    "name_en": "Tide Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه بتصميم بحري يقدم القهوة المثلجة والعصائر الاستوائية",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Tide+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه بحري"
+    ]
+  },
+  {
+    "id": "apex_cafe",
+    "name_ar": "كافيه أبيكس",
+    "name_en": "Apex Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه في أعلى المبنى يقدم القهوة المختصة بإطلالة مميزة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Apex+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه سطح"
+    ]
+  },
+  {
+    "id": "river_cafe",
+    "name_ar": "كافيه ريفر",
+    "name_en": "River Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه بتصميم نهري هادئ يقدم القهوة والإفطار الصباحي",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=River+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه إفطار"
+    ]
+  },
+  {
+    "id": "copper_hill_cafe",
+    "name_ar": "كافيه كوبر هيل",
+    "name_en": "Copper Hill Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "كافيه بديكور نحاسي يقدم القهوة التركية والعربية بأصالة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Copper+Hill+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة تركية"
+    ]
+  },
+  {
+    "id": "opera_cafe",
+    "name_ar": "كافيه أوبرا",
+    "name_en": "Opera Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "كافيه بأجواء أوبرالية يقدم القهوة الإيطالية والحلويات الفاخرة",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Opera+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه إيطالي"
+    ]
+  },
+  {
+    "id": "perks_cafe",
+    "name_ar": "كافيه بيركس",
+    "name_en": "Perks Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "Al Nakheel",
+    "description_ar": "كافيه مميزات إضافية يقدم القهوة مع خدمات إضافية كالشحن والطباعة",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Perks+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه خدمات"
+    ]
+  },
+  {
+    "id": "the_mark_cafe",
+    "name_ar": "كافيه ذا مارك",
+    "name_en": "The Mark Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه علامة مميزة بقهوة فاخرة ومخبوزات يومية طازجة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Mark+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة فاخرة"
+    ]
+  },
+  {
+    "id": "parallel_cafe",
+    "name_ar": "كافيه بارالل",
+    "name_en": "Parallel Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه بتصميم متوازي الخطوط يقدم القهوة المختصة والشاي",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Parallel+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "vista_cafe",
+    "name_ar": "كافيه فيستا",
+    "name_en": "Vista Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "كافيه بإطلالة واسعة يقدم القهوة والبرنش في أجواء مفتوحة",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Vista+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه بانورامي"
+    ]
+  },
+  {
+    "id": "the_baker_cafe",
+    "name_ar": "كافيه ذا بيكر",
+    "name_en": "The Baker Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "كافيه مخبز يقدم الخبز الطازج مع القهوة المختصة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Baker+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مخبز وقهوة"
+    ]
+  },
+  {
+    "id": "indigo_cafe",
+    "name_ar": "كافيه إنديقو",
+    "name_en": "Indigo Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه بلون النيلي الهادئ يقدم القهوة مع لمسات فنية",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Indigo+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه فني"
+    ]
+  },
+  {
+    "id": "sand_cafe",
+    "name_ar": "كافيه ساند",
+    "name_en": "Sand Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه بتصميم صحراوي يقدم القهوة السعودية مع الحلويات التقليدية",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Sand+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه سعودي"
+    ]
+  },
+  {
+    "id": "prisma_cafe",
+    "name_ar": "كافيه بريزما",
+    "name_en": "Prisma Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "Al Narjis",
+    "description_ar": "كافيه بتصميم ملون منشوري يقدم القهوة مع كعكات فنية",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Prisma+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه فني"
+    ]
+  },
+  {
+    "id": "the_blend_cafe",
+    "name_ar": "كافيه ذا بلند",
+    "name_en": "The Blend Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربوة",
+    "neighborhood_en": "Al Rabwah",
+    "description_ar": "كافيه خلطات قهوة مبتكرة من حبوب متعددة المصادر",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Blend+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "central_park_cafe",
+    "name_ar": "كافيه سنترال بارك",
+    "name_en": "Central Park Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "كافيه بحديقة مركزية خضراء يقدم القهوة والبرنش الصحي",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Central+Park+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه حديقة"
+    ]
+  },
+  {
+    "id": "queen_cafe",
+    "name_ar": "كافيه كوين",
+    "name_en": "Queen Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه نسائي أنيق بتصميم ملكي يقدم القهوة والكيك الفاخر",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Queen+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه نسائي"
+    ]
+  },
+  {
+    "id": "the_studio_cafe",
+    "name_ar": "كافيه ذا ستوديو",
+    "name_en": "The Studio Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه استوديو فني يقدم القهوة مع ورش رسم وفنون",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Studio+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه فني"
+    ]
+  },
+  {
+    "id": "village_cafe",
+    "name_ar": "كافيه فيلاج",
+    "name_en": "Village Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "كافيه قرية بأجواء ريفية هادئة يقدم القهوة مع الخبز المحلي",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Village+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه ريفي"
+    ]
+  },
+  {
+    "id": "the_courtyard_cafe",
+    "name_ar": "كافيه ذا كورت يارد",
+    "name_en": "The Courtyard Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه فناء مفتوح يقدم القهوة والشاي في أجواء تقليدية عصرية",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Courtyard+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه فناء"
+    ]
+  },
+  {
+    "id": "prose_cafe",
+    "name_ar": "كافيه بروز",
+    "name_en": "Prose Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "Al Narjis",
+    "description_ar": "كافيه أدبي يقدم القهوة مع مكتبة صغيرة ومقاعد للقراءة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Prose+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه أدبي"
+    ]
+  },
+  {
+    "id": "photon_cafe",
+    "name_ar": "كافيه فوتون",
+    "name_en": "Photon Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه ضوئي بتصميم حديث يقدم القهوة مع معرض صور",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Photon+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه تصوير"
+    ]
+  },
+  {
+    "id": "meidan_cafe",
+    "name_ar": "كافيه ميدان",
+    "name_en": "Meidan Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي القيروان",
+    "neighborhood_en": "Al Qairawan",
+    "description_ar": "كافيه ميدان مفتوح يقدم القهوة العربية والمختصة للجميع",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Meidan+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة عربية"
+    ]
+  },
+  {
+    "id": "silent_cafe",
+    "name_ar": "كافيه سايلنت",
+    "name_en": "Silent Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه صامت بسياسة هدوء تام مناسب للدراسة والعمل المركز",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Silent+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه دراسي"
+    ]
+  },
+  {
+    "id": "retreat_cafe",
+    "name_ar": "كافيه ريتريت",
+    "name_en": "Retreat Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "كافيه ملاذ هادئ بعيداً عن صخب المدينة يقدم القهوة والشاي",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Retreat+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه هادئ"
+    ]
+  },
+  {
+    "id": "the_mill_cafe",
+    "name_ar": "كافيه ذا ميل",
+    "name_en": "The Mill Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الفلاح",
+    "neighborhood_en": "Al Falah",
+    "description_ar": "كافيه طاحونة بتصميم ريفي يقدم القهوة المحمصة طازجة في المكان",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Mill+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "محمصة"
+    ]
+  },
+  {
+    "id": "north_star_cafe",
+    "name_ar": "كافيه نورث ستار",
+    "name_en": "North Star Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العارض",
+    "neighborhood_en": "Al Arid",
+    "description_ar": "كافيه نجمة الشمال بتصميم شمالي يقدم القهوة الاسكندنافية",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=North+Star+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة اسكندنافية"
+    ]
+  },
+  {
+    "id": "black_berry_cafe",
+    "name_ar": "كافيه بلاك بيري",
+    "name_en": "Black Berry Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربوة",
+    "neighborhood_en": "Al Rabwah",
+    "description_ar": "كافيه توت أسود بقهوة مختصة وحلويات التوت الطازجة",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Black+Berry+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة وحلويات"
+    ]
+  },
+  {
+    "id": "campus_cafe",
+    "name_ar": "كافيه كامبس",
+    "name_en": "Campus Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "كافيه جامعي بأسعار طلابية وWiFi مجاني ومقاعد دراسية",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Campus+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه طلابي"
+    ]
+  },
+  {
+    "id": "breeze_cafe",
+    "name_ar": "كافيه بريز",
+    "name_en": "Breeze Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه نسمة هواء بجلسات خارجية ومشروبات منعشة وقهوة باردة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Breeze+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه خارجي"
+    ]
+  },
+  {
+    "id": "the_art_cafe",
+    "name_ar": "كافيه ذا آرت",
+    "name_en": "The Art Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه فني بمعارض متغيرة يقدم القهوة مع تجربة فنية",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Art+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه فني"
+    ]
+  },
+  {
+    "id": "plenty_cafe",
+    "name_ar": "كافيه بلنتي",
+    "name_en": "Plenty Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "كافيه وفرة بقائمة طعام واسعة وقهوة مختصة ومخبوزات يومية",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Plenty+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه شامل"
+    ]
+  },
+  {
+    "id": "the_residence_cafe",
+    "name_ar": "كافيه ذا ريزيدنس",
+    "name_en": "The Residence Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه بأجواء منزلية فاخرة يقدم القهوة والإفطار كأنك في بيتك",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Residence+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه منزلي"
+    ]
+  },
+  {
+    "id": "pearl_cafe",
+    "name_ar": "كافيه بيرل",
+    "name_en": "Pearl Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "كافيه لؤلؤة بتصميم أنيق يقدم القهوة البيضاء والشوكولاتة",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Pearl+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه أنيق"
+    ]
+  },
+  {
+    "id": "the_hideaway_cafe",
+    "name_ar": "كافيه ذا هايد اواي",
+    "name_en": "The Hideaway Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "Al Narjis",
+    "description_ar": "كافيه مخبأ سري بأجواء حميمة يقدم القهوة المختصة النادرة",
+    "google_rating": 4.4,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Hideaway+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه مخفي"
+    ]
+  },
+  {
+    "id": "mosaic_cafe",
+    "name_ar": "كافيه موزايك",
+    "name_en": "Mosaic Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "كافيه فسيفساء بتصميم شرقي يقدم القهوة التركية والعربية",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Mosaic+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة تركية"
+    ]
+  },
+  {
+    "id": "smart_cafe",
+    "name_ar": "كافيه سمارت",
+    "name_en": "Smart Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه ذكي بأحدث التقنيات وطلب ذاتي يقدم القهوة المختصة",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Smart+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه تقني"
+    ]
+  },
+  {
+    "id": "balcony_specialty_cafe",
+    "name_ar": "كافيه بالكوني",
+    "name_en": "Balcony Specialty Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه شرفة مع إطلالة يقدم القهوة المختصة والكيك الياباني",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Balcony+Specialty+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "om_cafe",
+    "name_ar": "كافيه أوم",
+    "name_en": "Om Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "كافيه استرخاء بأجواء يوغا يقدم القهوة والشاي الأخضر والسموثي",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Om+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه صحي"
+    ]
+  },
+  {
+    "id": "the_woods_cafe",
+    "name_ar": "كافيه ذا وودز",
+    "name_en": "The Woods Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه غابة بديكور خشبي طبيعي يقدم القهوة المحمصة على الخشب",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Woods+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة محمصة"
+    ]
+  },
+  {
+    "id": "pink_cafe",
+    "name_ar": "كافيه بينك",
+    "name_en": "Pink Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "كافيه وردي بتصميم إنستقرامي يقدم القهوة الوردية والكيك",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Pink+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه إنستقرامي"
+    ]
+  },
+  {
+    "id": "the_tower_cafe",
+    "name_ar": "كافيه ذا تاور",
+    "name_en": "The Tower Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه في أعلى برج يقدم القهوة المختصة مع إطلالة 360 درجة",
+    "google_rating": 4.4,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Tower+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه بانورامي"
+    ]
+  },
+  {
+    "id": "beach_cafe",
+    "name_ar": "كافيه بيتش",
+    "name_en": "Beach Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه بتصميم شاطئي يقدم القهوة المثلجة والسموثي الاستوائي",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Beach+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه شاطئي"
+    ]
+  },
+  {
+    "id": "the_house_cafe",
+    "name_ar": "كافيه ذا هاوس",
+    "name_en": "The House Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "كافيه بيتي بأجواء منزلية دافئة يقدم القهوة والكيك المنزلي",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+House+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه بيتي"
+    ]
+  },
+  {
+    "id": "steam_cafe",
+    "name_ar": "كافيه ستيم",
+    "name_en": "Steam Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "Al Nakheel",
+    "description_ar": "كافيه بخار بتصميم صناعي يقدم القهوة المحضرة بالبخار",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Steam+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة مختصة"
+    ]
+  },
+  {
+    "id": "fox_cafe",
+    "name_ar": "كافيه فوكس",
+    "name_en": "Fox Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه ذكي بتصميم معاصر يقدم القهوة والمخبوزات الصباحية",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Fox+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة ومخبوزات"
+    ]
+  },
+  {
+    "id": "crown_specialty_cafe",
+    "name_ar": "كافيه كراون",
+    "name_en": "Crown Specialty Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "كافيه تاجي بتصميم ملكي يقدم القهوة المختصة الفاخرة",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Crown+Specialty+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة فاخرة"
+    ]
+  },
+  {
+    "id": "square_cafe",
+    "name_ar": "كافيه سكواير",
+    "name_en": "Square Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه مربع بتصميم هندسي يقدم القهوة المختصة والسلطات الصحية",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Square+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة وأكل صحي"
+    ]
+  },
+  {
+    "id": "monti_cafe",
+    "name_ar": "كافيه مونتي",
+    "name_en": "Monti Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "كافيه جبلي بأجواء ريفية يقدم القهوة المحمصة على الحطب",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Monti+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة محمصة"
+    ]
+  },
+  {
+    "id": "the_lighthouse_cafe",
+    "name_ar": "كافيه ذا لايت هاوس",
+    "name_en": "The Lighthouse Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "Al Narjis",
+    "description_ar": "كافيه منارة بإضاءة دافئة يقدم القهوة والشاي في أجواء بحرية",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Lighthouse+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه بحري"
+    ]
+  },
+  {
+    "id": "rainbow_cafe",
+    "name_ar": "كافيه رينبو",
+    "name_en": "Rainbow Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه ملون بتصميم قوس قزح يقدم القهوة والكيك الملون",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Rainbow+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه ملون"
+    ]
+  },
+  {
+    "id": "valley_cafe",
+    "name_ar": "كافيه فالي",
+    "name_en": "Valley Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "كافيه وادي بتصميم طبيعي يقدم القهوة العضوية والوجبات الصحية",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Valley+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة عضوية"
+    ]
+  },
+  {
+    "id": "the_anchor_cafe",
+    "name_ar": "كافيه ذا أنكور",
+    "name_en": "The Anchor Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه مرساة بتصميم بحري يقدم القهوة المثلجة والموكتيلات",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Anchor+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه بحري"
+    ]
+  },
+  {
+    "id": "harmony_cafe",
+    "name_ar": "كافيه هارموني",
+    "name_en": "Harmony Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "كافيه تناغم بأجواء موسيقية هادئة يقدم القهوة مع موسيقى حية",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Harmony+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه موسيقي"
+    ]
+  },
+  {
+    "id": "sweet_cafe",
+    "name_ar": "كافيه سويت",
+    "name_en": "Sweet Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "Al Narjis",
+    "description_ar": "كافيه حلو بتشكيلة كيك وحلويات مع القهوة والمشروبات الساخنة",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Sweet+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه حلويات"
+    ]
+  },
+  {
+    "id": "tranquil_cafe",
+    "name_ar": "كافيه ترانكويل",
+    "name_en": "Tranquil Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "كافيه هادئ وسلمي بسياسة لا موسيقى لتوفير أقصى تركيز",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Tranquil+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه دراسي"
+    ]
+  },
+  {
+    "id": "the_seasons_cafe",
+    "name_ar": "كافيه ذا سيزنز",
+    "name_en": "The Seasons Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "كافيه فصول السنة بديكور متغير حسب الموسم وقهوة موسمية",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Seasons+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه موسمي"
+    ]
+  },
+  {
+    "id": "irish_cafe",
+    "name_ar": "كافيه آيريش",
+    "name_en": "Irish Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "كافيه بطراز أيرلندي يقدم القهوة الأيرلندية والشاي والمخبوزات",
+    "google_rating": 4.1,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Irish+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه أيرلندي"
+    ]
+  },
+  {
+    "id": "silk_cafe",
+    "name_ar": "كافيه سيلك",
+    "name_en": "Silk Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه حريري بتصميم أنيق يقدم القهوة الفاخرة والشوكولاتة البلجيكية",
+    "google_rating": 4.3,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Silk+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه فاخر"
+    ]
+  },
+  {
+    "id": "the_glass_house_cafe",
+    "name_ar": "كافيه ذا غلاس هاوس",
+    "name_en": "The Glass House Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "كافيه زجاجي بإطلالة شفافة يقدم القهوة والبرنش في ضوء الشمس",
+    "google_rating": 4.4,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Glass+House+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كافيه زجاجي"
+    ]
+  },
+  {
+    "id": "east_cafe",
+    "name_ar": "كافيه إيست",
+    "name_en": "East Cafe",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الخليج",
+    "neighborhood_en": "Al Khaleej",
+    "description_ar": "كافيه شرقي بتصميم عربي يقدم القهوة العربية والحلويات الشرقية",
+    "google_rating": 4.2,
+    "review_count": 400,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=East+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "قهوة عربية"
+    ]
+  }
+]

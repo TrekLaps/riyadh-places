@@ -1,0 +1,343 @@
+[
+  {
+    "id": "cristal-amaken-hotel",
+    "name_ar": "فندق كريستال أماكن",
+    "name_en": "Cristal Amaken Hotel",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق اقتصادي مميز بتقييمات عالية وموقع مناسب وخدمات أساسية ممتازة",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "sources": [
+      "Traveloka 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Cristal+Amaken+Hotel+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "mira-business-hotel",
+    "name_ar": "فندق ميرا بزنس",
+    "name_en": "MIRA Business Hotel",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق أعمال اقتصادي مناسب لرجال الأعمال مع غرف مريحة وموقع مركزي",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "sources": [
+      "Traveloka 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=MIRA+Business+Hotel+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "duset-hotel-suites",
+    "name_ar": "فندق دوسيت سويتس",
+    "name_en": "Duset Hotel Suites",
+    "category": "hotels",
+    "category_ar": "شقق فندقية",
+    "category_en": "hotels",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "أجنحة فندقية مريحة بأسعار اقتصادية مناسبة للإقامات الطويلة",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "sources": [
+      "Traveloka 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Duset+Hotel+Suites+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "mena-hotel-nasiriah",
+    "name_ar": "فندق مينا النصرية",
+    "name_en": "Mena Hotel Nasiriah",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي النصرية",
+    "neighborhood_en": "An Nasiriah",
+    "description_ar": "فندق كلاسيكي بموقع مركزي يوفر خدمات أساسية ممتازة بأسعار معقولة",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "sources": [
+      "Traveloka 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mena+Hotel+Nasiriah+Riyadh",
+    "district": "الرياض",
+    "lat": 24.7,
+    "lng": 46.7
+  },
+  {
+    "id": "nova-m-hotel-edge-rotana",
+    "name_ar": "نوفا إم هوتل إيدج روتانا",
+    "name_en": "Nova M Hotel Edge by Rotana",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق عصري من روتانا بتصميم أنيق وخدمات متكاملة ومرافق حديثة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "sources": [
+      "Traveloka 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nova+M+Hotel+Edge+Rotana+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "nofa-radisson-resort",
+    "name_ar": "نوفا الرياض - راديسون كولكشن",
+    "name_en": "Nofa Riyadh - Radisson Collection Resort",
+    "category": "hotels",
+    "category_ar": "منتجعات",
+    "category_en": "hotels",
+    "neighborhood": "خارج الرياض",
+    "neighborhood_en": "Outside Riyadh",
+    "description_ar": "منتجع فاخر بطابع أفريقي مع سفاري وجولف وركوب خيل وبولنج وأنشطة عائلية متنوعة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "sources": [
+      "Radisson Collection",
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nofa+Riyadh+Radisson+Collection+Resort",
+    "district": "الرياض",
+    "lat": 24.45,
+    "lng": 46.45
+  },
+  {
+    "id": "grand-plaza-kafd",
+    "name_ar": "جراند بلازا - كافد",
+    "name_en": "Grand Plaza Hotel KAFD",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "فندق فاخر في مركز الملك عبدالله المالي بخدمات راقية وموقع استراتيجي",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "sources": [
+      "Traveloka 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Grand+Plaza+Hotel+KAFD+Riyadh",
+    "district": "الرياض",
+    "lat": 24.77,
+    "lng": 46.64
+  },
+  {
+    "id": "warwick-riyadh-hotel",
+    "name_ar": "فندق وارويك الرياض",
+    "name_en": "Warwick Riyadh Hotel",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "فندق أنيق بموقع مركزي يوفر خدمات فاخرة وغرف عصرية ومطاعم متنوعة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "sources": [
+      "Traveloka 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Warwick+Riyadh+Hotel",
+    "district": "الرياض",
+    "lat": 24.7,
+    "lng": 46.69
+  },
+  {
+    "id": "al-mutlaq-hotel",
+    "name_ar": "فندق المطلق",
+    "name_en": "Al Mutlaq Hotel",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق محلي مميز بأسعار معقولة وخدمة ممتازة مع موقع مناسب",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "sources": [
+      "Traveloka 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Mutlaq+Hotel+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "carawan-al-khaleej-olaya",
+    "name_ar": "كروان الخليج العليا",
+    "name_en": "Carawan Al Khaleej Olaya",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "فندق 3 نجوم اقتصادي في حي العليا مع خدمات أساسية جيدة وموقع مركزي",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "sources": [
+      "KAYAK 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Carawan+Al+Khaleej+Olaya+Riyadh",
+    "district": "الرياض",
+    "lat": 24.7,
+    "lng": 46.69
+  },
+  {
+    "id": "seiba-hotel-riyadh",
+    "name_ar": "فندق سيبا الرياض",
+    "name_en": "Seiba Hotel Riyadh",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق اقتصادي مريح بتقييمات جيدة وأسعار تنافسية مع خدمات أساسية",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "sources": [
+      "Traveloka 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Seiba+Hotel+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "damac-riyadh-apartments",
+    "name_ar": "داماك الرياض شقق فاخرة",
+    "name_en": "DAMAC Riyadh Luxury Apartments",
+    "category": "hotels",
+    "category_ar": "شقق فندقية فاخرة",
+    "category_en": "hotels",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "شقق فاخرة من داماك بتصميم عصري ومرافق متكاملة مثالية للإقامات الطويلة",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "sources": [
+      "Traveloka 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=DAMAC+Riyadh+Luxury+Apartments",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "mayun-serviced-apartments",
+    "name_ar": "شقق ميون المخدومة",
+    "name_en": "Mayun Serviced Apartments",
+    "category": "hotels",
+    "category_ar": "شقق مخدومة",
+    "category_en": "hotels",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "شقق مخدومة اقتصادية مريحة مناسبة للعائلات والإقامات المتوسطة والطويلة",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "sources": [
+      "Traveloka 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mayun+Serviced+Apartments+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "rest-night-nafal",
+    "name_ar": "رست نايت النفل",
+    "name_en": "Rest Night Serviced Apartments Al Nafal",
+    "category": "hotels",
+    "category_ar": "شقق مخدومة",
+    "category_en": "hotels",
+    "neighborhood": "حي النفل",
+    "neighborhood_en": "An Nafal",
+    "description_ar": "شقق مخدومة بتقييم 8.2 من 25,698 تقييم مع خدمات ممتازة وموقع مناسب",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "sources": [
+      "Traveloka 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Rest+Night+Al+Nafal+Riyadh",
+    "district": "الرياض",
+    "lat": 24.78,
+    "lng": 46.63
+  },
+  {
+    "id": "hdb-sahafa-hotel",
+    "name_ar": "اتش دي بي الصحافة",
+    "name_en": "HDB Sahafa Hotel",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "As Sahafah",
+    "description_ar": "فندق اقتصادي في حي الصحافة بخدمات جيدة وأسعار مناسبة للميزانيات المحدودة",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "sources": [
+      "Traveloka 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=HDB+Sahafa+Hotel+Riyadh",
+    "district": "الرياض",
+    "lat": 24.81,
+    "lng": 46.69
+  },
+  {
+    "id": "malath-fakher-hotel",
+    "name_ar": "ملاذ فاخر",
+    "name_en": "Malath Fakher Hotel",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق مريح بأسعار معقولة يوفر إقامة فاخرة بميزانية اقتصادية",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "sources": [
+      "Traveloka 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Malath+Fakher+Hotel+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "aber-al-takhasussi",
+    "name_ar": "عابر التخصصي",
+    "name_en": "Aber Al Takhasussi Hotel",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي التخصصي",
+    "neighborhood_en": "Al Takhassousi",
+    "description_ar": "فندق اقتصادي على شارع التخصصي بموقع مميز وأسعار تنافسية",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "sources": [
+      "Traveloka 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Aber+Al+Takhasussi+Hotel+Riyadh",
+    "district": "الرياض",
+    "lat": 24.73,
+    "lng": 46.65
+  }
+]

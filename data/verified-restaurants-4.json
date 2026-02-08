@@ -1,0 +1,4062 @@
+[
+  {
+    "id": "al_qaria_al_saghira",
+    "name_ar": "القرية الصغيرة",
+    "name_en": "Al Qaria Al Saghira",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الفلاح",
+    "neighborhood_en": "Al Falah",
+    "description_ar": "مطعم شعبي يقدم الفطائر والمشويات والبروست بمذاق ممتاز وأسعار معقولة",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Qaria+Al+Saghira+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مشويات وفطائر"
+    ]
+  },
+  {
+    "id": "shawarma_and_juices_jody",
+    "name_ar": "شاورما وعصائر جودي",
+    "name_en": "Shawarma & Juices Jody",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الفلاح",
+    "neighborhood_en": "Al Falah",
+    "description_ar": "متخصص في الشاورما التركية والعصائر الطازجة بخلطة مميزة",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Shawarma+&+Juices+Jody+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "شاورما"
+    ]
+  },
+  {
+    "id": "shaterat_al_falafel",
+    "name_ar": "شطيرة الفلافل",
+    "name_en": "Shaterat Al Falafel",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الفلاح",
+    "neighborhood_en": "Al Falah",
+    "description_ar": "مطعم فلافل وبيتزا ومعجنات بأسعار اقتصادية وكميات وفيرة",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Shaterat+Al+Falafel+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "فلافل ومعجنات"
+    ]
+  },
+  {
+    "id": "maqloubat_al_dar",
+    "name_ar": "مقلوبة الدار",
+    "name_en": "Maqloubat Al Dar",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الفلاح",
+    "neighborhood_en": "Al Falah",
+    "description_ar": "مطعم شعبي متخصص في المقلوبة ولحم الحاشي والأرز بأصنافه",
+    "google_rating": 4.4,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Maqloubat+Al+Dar+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أكلات شعبية"
+    ]
+  },
+  {
+    "id": "fawwal_kiyan_al_afrah",
+    "name_ar": "فوال كيان الأفراح",
+    "name_en": "Fawwal Kiyan Al Afrah",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الفلاح",
+    "neighborhood_en": "Al Falah",
+    "description_ar": "فوال شعبي يقدم الكبدة البلدي والعريكة بالتمر والسمن والفول بأنواعه",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Fawwal+Kiyan+Al+Afrah+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "فول وأكلات شعبية"
+    ]
+  },
+  {
+    "id": "965_restaurant",
+    "name_ar": "965 ريستورنت",
+    "name_en": "965 Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الفلاح",
+    "neighborhood_en": "Al Falah",
+    "description_ar": "مطعم كويتي يقدم وجبات متنوعة بجانب جامعة دار العلوم",
+    "google_rating": 4.0,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=965+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أكلات كويتية"
+    ]
+  },
+  {
+    "id": "layali_al_maqsoura",
+    "name_ar": "ليالي المقصورة",
+    "name_en": "Layali Al Maqsoura",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الفلاح",
+    "neighborhood_en": "Al Falah",
+    "description_ar": "مطعم مأكولات عربية على شارع عثمان بن عفان",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Layali+Al+Maqsoura+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أكلات عربية"
+    ]
+  },
+  {
+    "id": "al_sham_restaurant",
+    "name_ar": "مطعم الشام",
+    "name_en": "Al Sham Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الخليج",
+    "neighborhood_en": "Al Khaleej",
+    "description_ar": "مطعم مشويات وفطائر شامية بنكهات أصيلة وكباب على الفحم",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Sham+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مشويات شامية"
+    ]
+  },
+  {
+    "id": "lakhbata",
+    "name_ar": "لخبطة",
+    "name_en": "Lakhbata",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الخليج",
+    "neighborhood_en": "Al Khaleej",
+    "description_ar": "متخصص في الشاورما المميزة والفطائر بأنواعها مع صوص خاص",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Lakhbata+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "شاورما"
+    ]
+  },
+  {
+    "id": "bayt_al_shawaya",
+    "name_ar": "بيت الشواية",
+    "name_en": "Bayt Al Shawaya",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الخليج",
+    "neighborhood_en": "Al Khaleej",
+    "description_ar": "سلسلة مطاعم كبيرة تقدم المشويات والكبسة والمندي بجلسات عائلية",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Bayt+Al+Shawaya+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مشويات خليجية"
+    ]
+  },
+  {
+    "id": "al_aturka",
+    "name_ar": "الاتوركا",
+    "name_en": "Al Aturka",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الخليج",
+    "neighborhood_en": "Al Khaleej",
+    "description_ar": "مطعم وجبات سريعة يشتهر بصاروخ الشاورما والبيتزا والبرجر",
+    "google_rating": 4.0,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Aturka+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "وجبات سريعة"
+    ]
+  },
+  {
+    "id": "al_ustol",
+    "name_ar": "الأسطول",
+    "name_en": "Al Ustol",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الخليج",
+    "neighborhood_en": "Al Khaleej",
+    "description_ar": "مطعم شاورما وبيتزا وبروستد مع خدمة سريعة وأجواء نظيفة",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Ustol+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "شاورما وبيتزا"
+    ]
+  },
+  {
+    "id": "bayt_al_fataer",
+    "name_ar": "بيت الفطائر",
+    "name_en": "Bayt Al Fata'er",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الخليج",
+    "neighborhood_en": "Al Khaleej",
+    "description_ar": "مخبز وفطائر شامية بحشوات متنوعة وورق عنب مع خدمة ممتازة",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Bayt+Al+Fata'er+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "فطائر"
+    ]
+  },
+  {
+    "id": "balmarkh",
+    "name_ar": "بالمرخ",
+    "name_en": "Balmarkh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الخليج",
+    "neighborhood_en": "Al Khaleej",
+    "description_ar": "مطعم حنيذ ومندي وأرز أمريكي بخبرة طويلة وجودة ثابتة",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Balmarkh+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "حنيذ ومندي"
+    ]
+  },
+  {
+    "id": "fateerty_al_lathetha",
+    "name_ar": "فطيرتي اللذيذة",
+    "name_en": "Fateerty Al Lathetha",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الخليج",
+    "neighborhood_en": "Al Khaleej",
+    "description_ar": "محل فطائر شعبي بأسعار مخفضة وورق عنب ولبنة بالسبانخ",
+    "google_rating": 4.0,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Fateerty+Al+Lathetha+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "فطائر"
+    ]
+  },
+  {
+    "id": "layounak",
+    "name_ar": "لعيونك",
+    "name_en": "La'younak",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الخليج",
+    "neighborhood_en": "Al Khaleej",
+    "description_ar": "مطعم شاورما تركية ولفائف مميزة مع قسم عائلات وخدمة سريعة",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=La'younak+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "شاورما"
+    ]
+  },
+  {
+    "id": "madinat_al_sham",
+    "name_ar": "مدينة الشام",
+    "name_en": "Madinat Al Sham",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الخليج",
+    "neighborhood_en": "Al Khaleej",
+    "description_ar": "مطعم مشاوي شامية على شارع الأمير بندر بأجواء عائلية",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Madinat+Al+Sham+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مشاوي شامية"
+    ]
+  },
+  {
+    "id": "samak_wa_asmak",
+    "name_ar": "سمك وأسماك",
+    "name_en": "Samak wa Asmak",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الخليج",
+    "neighborhood_en": "Al Khaleej",
+    "description_ar": "مطعم أسماك طازجة على شارع سلمان الفارسي بحي الخليج",
+    "google_rating": 4.0,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Samak+wa+Asmak+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مأكولات بحرية"
+    ]
+  },
+  {
+    "id": "diyafat_al_riyadh",
+    "name_ar": "ضيافة الرياض",
+    "name_en": "Diyafat Al Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الخليج",
+    "neighborhood_en": "Al Khaleej",
+    "description_ar": "مطعم ضيافة عربية عند مخرج 10 بحي الخليج",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Diyafat+Al+Riyadh+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "ضيافة عربية"
+    ]
+  },
+  {
+    "id": "makan_al_mas",
+    "name_ar": "مكان الماس",
+    "name_en": "Makan Al Mas",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم هندي قديم بنكهة مميزة من التوابل السرية والمشويات الهندية الأصيلة",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Makan+Al+Mas+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أكلات هندية"
+    ]
+  },
+  {
+    "id": "falafel_arafa",
+    "name_ar": "فلافل عرفة",
+    "name_en": "Falafel Arafa",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم فلافل أصلي شهير يقدم برجر فلافل مشوي وفطيرة فلافل مبتكرة",
+    "google_rating": 4.4,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Falafel+Arafa+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "فلافل نباتي"
+    ]
+  },
+  {
+    "id": "al_dafwaa",
+    "name_ar": "الدفواء",
+    "name_en": "Al Dafwaa",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم بوفيه مفتوح بأكلات عربية وشامية ومأكولات بحرية طازجة",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Dafwaa+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "بوفيه عربي"
+    ]
+  },
+  {
+    "id": "indian_corner",
+    "name_ar": "الركن الهندي",
+    "name_en": "Indian Corner",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم هندي أصيل خلف حديقة الملك عبدالله بتوابل سرية ونكهة قوية",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Indian+Corner+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أكلات هندية"
+    ]
+  },
+  {
+    "id": "durrat_al_taysir",
+    "name_ar": "درة التيسير",
+    "name_en": "Durrat Al Taysir",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم عربي عريق بخبرة 40 عاماً متخصص في الريش والمسحب والمشويات",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Durrat+Al+Taysir+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مشويات عربية"
+    ]
+  },
+  {
+    "id": "bahriyat_al_malaz",
+    "name_ar": "بحرية الملز",
+    "name_en": "Bahriyat Al Malaz",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم أسماك طازجة تُشوى أمامك بخبرة 20 سنة وتتبيلة مميزة",
+    "google_rating": 4.5,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Bahriyat+Al+Malaz+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مأكولات بحرية"
+    ]
+  },
+  {
+    "id": "ghawwar",
+    "name_ar": "غوّار",
+    "name_en": "Ghawwar",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم مطبق وسمبوسة تاريخي في الملز مشهور بالقلابة والمعصوب",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Ghawwar+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مطبق وسمبوسة"
+    ]
+  },
+  {
+    "id": "nawara_alexandria_seafood",
+    "name_ar": "أسماك نوارة الإسكندرية",
+    "name_en": "Nawara Alexandria Seafood",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم أسماك مصري بتتبيلة مميزة يقدم الأسماك مشوية ومقلية وسنجاري",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Nawara+Alexandria+Seafood+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مأكولات بحرية"
+    ]
+  },
+  {
+    "id": "pizza_ram",
+    "name_ar": "بيتزا رام",
+    "name_en": "Pizza Ram",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم بيتزا بعجينة هشة وإضافات متنوعة بأسعار متوسطة",
+    "google_rating": 4.0,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Pizza+Ram+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "بيتزا"
+    ]
+  },
+  {
+    "id": "sham_zaman",
+    "name_ar": "شام زمان",
+    "name_en": "Sham Zaman",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم شامي أصيل يقدم الفول الشامي والفتة والفلافل بنكهة تقليدية",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Sham+Zaman+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أكلات شامية"
+    ]
+  },
+  {
+    "id": "shati_nawara_fish",
+    "name_ar": "شاطئ نوارة للأسماك",
+    "name_en": "Shati Nawara Fish",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم صواني أسماك بأسعار محترمة في حي الملز",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Shati+Nawara+Fish+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مأكولات بحرية"
+    ]
+  },
+  {
+    "id": "lebanese_house_pastries",
+    "name_ar": "معجنات البيت اللبناني",
+    "name_en": "Lebanese House Pastries",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "محل معجنات لبنانية من أفضل محلات المعجنات في الرياض",
+    "google_rating": 4.4,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Lebanese+House+Pastries+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "معجنات لبنانية"
+    ]
+  },
+  {
+    "id": "al_mohammadiya_restaurants",
+    "name_ar": "مطاعم المحمدية",
+    "name_en": "Al Mohammadiya Restaurants",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم شعبي متخصص بالمشاوي والفطائر والصفيحة الشامية",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Mohammadiya+Restaurants+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مشاوي وفطائر"
+    ]
+  },
+  {
+    "id": "kabrito",
+    "name_ar": "كبريتو",
+    "name_en": "Kabrito",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي اشبيلية",
+    "neighborhood_en": "Ishbiliya",
+    "description_ar": "مطعم أكلات شعبية فاخرة مع مشويات ودجاج وسمان وأرانب مشوية",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Kabrito+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أكلات شعبية فاخرة"
+    ]
+  },
+  {
+    "id": "adar",
+    "name_ar": "أدار",
+    "name_en": "Adar",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي اشبيلية",
+    "neighborhood_en": "Ishbiliya",
+    "description_ar": "مطعم شاورما وبروست ومشاوي في حي اشبيلية",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Adar+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "شاورما ومشاوي"
+    ]
+  },
+  {
+    "id": "alam_al_dajaj",
+    "name_ar": "عالم الدجاج",
+    "name_en": "Alam Al Dajaj",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي اشبيلية",
+    "neighborhood_en": "Ishbiliya",
+    "description_ar": "سلسلة مطاعم وجبات سريعة تقدم الدجاج بأحجام مختلفة",
+    "google_rating": 4.0,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Alam+Al+Dajaj+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "وجبات سريعة"
+    ]
+  },
+  {
+    "id": "the_sandwich_company",
+    "name_ar": "ذا ساندوتش كومبني",
+    "name_en": "The Sandwich Company",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي اشبيلية",
+    "neighborhood_en": "Ishbiliya",
+    "description_ar": "مطعم ساندويتشات متنوعة في حي اشبيلية",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=The+Sandwich+Company+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "ساندويتشات"
+    ]
+  },
+  {
+    "id": "kibda_dar_al_sabah",
+    "name_ar": "كبدة دار الصباح",
+    "name_en": "Kibda Dar Al Sabah",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "أم الحمام الشرقي",
+    "neighborhood_en": "Umm Al Hamam",
+    "description_ar": "أقدم وأشهر محل كبدة في الرياض منذ 1992 مع خبز صاج طازج وشوربة حجازية مجانية",
+    "google_rating": 4.5,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Kibda+Dar+Al+Sabah+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كبدة"
+    ]
+  },
+  {
+    "id": "bufet_fahd_liver",
+    "name_ar": "بوفية فهد للكبدة",
+    "name_en": "Bufet Fahd Liver",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الروضة",
+    "neighborhood_en": "Al Rawdah",
+    "description_ar": "بوفيه كبدة شعبي بأسعار رخيصة مع شوربة جريش مجانية",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Bufet+Fahd+Liver+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كبدة"
+    ]
+  },
+  {
+    "id": "azhar_al_khair",
+    "name_ar": "أزهار الخير",
+    "name_en": "Azhar Al Khair",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الخالدية",
+    "neighborhood_en": "Al Khalidiyah",
+    "description_ar": "مطعم كبدة طازجة مع خبز بلدي وقهوة وشاي مجاناً واستقبال مميز",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Azhar+Al+Khair+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كبدة"
+    ]
+  },
+  {
+    "id": "bayt_al_kibda",
+    "name_ar": "بيت الكبدة",
+    "name_en": "Bayt Al Kibda",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الشميسي",
+    "neighborhood_en": "Al Shumaisi",
+    "description_ar": "مطعم كبدة حاشي وغنم مشهور مقابل الرئاسة العامة للإفتاء",
+    "google_rating": 4.4,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Bayt+Al+Kibda+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كبدة"
+    ]
+  },
+  {
+    "id": "kibda_al_duraihimiya",
+    "name_ar": "كبدة الدريهمية",
+    "name_en": "Kibda Al Duraihimiya",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الدريهمية",
+    "neighborhood_en": "Al Duraihimiya",
+    "description_ar": "من أشهر محلات الكبدة جنوب الرياض بكبدة حاشي وغنم طازجة",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Kibda+Al+Duraihimiya+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كبدة"
+    ]
+  },
+  {
+    "id": "kibda_wa_saddaqtha",
+    "name_ar": "كبدة وصدقتها",
+    "name_en": "Kibda wa Saddaqtha",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الورود",
+    "neighborhood_en": "Al Wurud",
+    "description_ar": "مطعم كبدة مصرية مميزة في الرياض",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Kibda+wa+Saddaqtha+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كبدة مصرية"
+    ]
+  },
+  {
+    "id": "kibda_saeed_al_bal",
+    "name_ar": "كبدة سعيد البال",
+    "name_en": "Kibda Saeed Al Bal",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي التعاون",
+    "neighborhood_en": "Al Taawun",
+    "description_ar": "بوفيه كبدة نظيف وقديم بمخرج 6 يقدم ساندويشات الإفطار",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Kibda+Saeed+Al+Bal+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كبدة"
+    ]
+  },
+  {
+    "id": "yogi",
+    "name_ar": "يوغي",
+    "name_en": "Yogi",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الفلاح",
+    "neighborhood_en": "Al Falah",
+    "description_ar": "مطعم صحي يقدم وجبات نباتية وكيتو مع بودا بولز وسموثي بولز بأسعار معقولة",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Yogi+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "نباتي وصحي"
+    ]
+  },
+  {
+    "id": "moon_shell",
+    "name_ar": "مون شيل",
+    "name_en": "Moon Shell",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملك عبدالله",
+    "neighborhood_en": "King Abdullah",
+    "description_ar": "مقهى نباتي بالكامل بديكور عربي قديم يقدم بانكيك نباتي وسموثي بولز",
+    "google_rating": 4.5,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Moon+Shell+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "نباتي"
+    ]
+  },
+  {
+    "id": "gather_eatery",
+    "name_ar": "غاذر إيتري",
+    "name_en": "Gather Eatery",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "Al Nakheel",
+    "description_ar": "مطعم نباتي مشرق مع قائمة نباتية متكاملة وبرجر نباتي ومعكرونة",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Gather+Eatery+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "نباتي"
+    ]
+  },
+  {
+    "id": "almayass",
+    "name_ar": "المياس",
+    "name_en": "Almayass",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مطعم أرمني-لبناني راقي يقدم أطباق نباتية إبداعية كمقلوبة نباتية وكبة قرع",
+    "google_rating": 4.4,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Almayass+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أرمني لبناني"
+    ]
+  },
+  {
+    "id": "molo",
+    "name_ar": "مولو",
+    "name_en": "Molo",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "روشن فرونت",
+    "neighborhood_en": "Roshn Front",
+    "description_ar": "مطعم هندي يقدم وجبات نباتية منزلية كالبرياني والكاري الهندي",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Molo+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "هندي نباتي"
+    ]
+  },
+  {
+    "id": "saravanaa_bhavan",
+    "name_ar": "سارافانا بهافان",
+    "name_en": "Saravanaa Bhavan",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي المربع",
+    "neighborhood_en": "Al Murabba",
+    "description_ar": "سلسلة عالمية للمأكولات الهندية الجنوبية النباتية كالإدلي والدوسا",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Saravanaa+Bhavan+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "هندي جنوبي نباتي"
+    ]
+  },
+  {
+    "id": "broasted_key",
+    "name_ar": "بروستد كي",
+    "name_en": "Broasted Key",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الحمراء",
+    "neighborhood_en": "Al Hamra",
+    "description_ar": "مطعم بروست شهير بصوصات الدجاج الحارة العالمية",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Broasted+Key+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "بروست"
+    ]
+  },
+  {
+    "id": "broasted_express",
+    "name_ar": "بروستد اكسبريس",
+    "name_en": "Broasted Express",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي النسيم",
+    "neighborhood_en": "Al Naseem",
+    "description_ar": "مطعم بروست طازج بتتبيلة بهارات معتدلة مع ثومية ممتازة",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Broasted+Express+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "بروست"
+    ]
+  },
+  {
+    "id": "broasted_al_duke",
+    "name_ar": "بروستد الدوك",
+    "name_en": "Broasted Al Duke",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي السلام",
+    "neighborhood_en": "Al Salam",
+    "description_ar": "مطعم بروست عائلي بجلسات خاصة وخدمة ممتازة",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Broasted+Al+Duke+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "بروست"
+    ]
+  },
+  {
+    "id": "rukn_al_dajaj",
+    "name_ar": "ركن الدجاج",
+    "name_en": "Rukn Al Dajaj",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مطعم بروست بنكهة مميزة وجلسات هادئة للعائلات",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Rukn+Al+Dajaj+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "بروست"
+    ]
+  },
+  {
+    "id": "dajaj_basha",
+    "name_ar": "دجاج باشا",
+    "name_en": "Dajaj Basha",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي السويدي",
+    "neighborhood_en": "Al Suwaidi",
+    "description_ar": "مطعم بروست بأسعار معقولة وجودة عالية بخيارات عديدة",
+    "google_rating": 4.0,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Dajaj+Basha+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "بروست"
+    ]
+  },
+  {
+    "id": "bayt_al_fateera_al_dimashqiya",
+    "name_ar": "بيت الفطيرة الدمشقية",
+    "name_en": "Bayt Al Fateera Al Dimashqiya",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "أشهر مطعم فطائر سورية بالرياض بقائمة متنوعة من الفطائر والمعجنات",
+    "google_rating": 4.4,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Bayt+Al+Fateera+Al+Dimashqiya+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "فطائر سورية"
+    ]
+  },
+  {
+    "id": "shobak",
+    "name_ar": "شوبك",
+    "name_en": "Shobak",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "عدة فروع",
+    "neighborhood_en": "Multiple",
+    "description_ar": "براند سعودي متخصص بالعجينة منذ 2013 يقدم رابز وفطائر مبتكرة",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Shobak+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "معجنات"
+    ]
+  },
+  {
+    "id": "brest",
+    "name_ar": "بريست",
+    "name_en": "Brest",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الريان",
+    "neighborhood_en": "Al Rayyan",
+    "description_ar": "مخبز ومطعم فطائر بفروع في الريان والفلاح واشبيلية",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Brest+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "فطائر"
+    ]
+  },
+  {
+    "id": "al_am_jomaa_pies",
+    "name_ar": "العم جمعة فطاير",
+    "name_en": "Al Am Jomaa Pies",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم فطائر شامية تقليدية من أقدم محلات الفطائر",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Am+Jomaa+Pies+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "فطائر شامية"
+    ]
+  },
+  {
+    "id": "asalat_al_burj_pies",
+    "name_ar": "أصالة البرج فطاير",
+    "name_en": "Asalat Al Burj Pies",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي السلام",
+    "neighborhood_en": "Al Salam",
+    "description_ar": "مطعم فطائر شامية أصيلة بحشوات تقليدية",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Asalat+Al+Burj+Pies+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "فطائر"
+    ]
+  },
+  {
+    "id": "sahaib_tayba_pies",
+    "name_ar": "سحائب طيبة فطاير",
+    "name_en": "Saha'ib Tayba Pies",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "مطعم فطائر شامية طيبة المذاق بأسعار مناسبة",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Saha'ib+Tayba+Pies+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "فطائر"
+    ]
+  },
+  {
+    "id": "supernova_riyadh",
+    "name_ar": "سوبرنوفا",
+    "name_en": "Supernova Riyadh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "Al Nakheel",
+    "description_ar": "مطعم برجر لندني شهير افتتح في الرياض بنكهات مبتكرة",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Supernova+Riyadh+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "برجر"
+    ]
+  },
+  {
+    "id": "ab_steak",
+    "name_ar": "آي بي ستيك",
+    "name_en": "AB Steak",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "مطعم ستيك أمريكي فاخر مع غرفة تعتيق لحوم خاصة من بيفرلي هيلز",
+    "google_rating": 4.5,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=AB+Steak+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "ستيك"
+    ]
+  },
+  {
+    "id": "alaya",
+    "name_ar": "علايا",
+    "name_en": "Alaya",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "وسط الرياض",
+    "neighborhood_en": "Central Riyadh",
+    "description_ar": "مطعم الشيف إيزو آني المتوقع افتتاحه في السعودية 2026",
+    "google_rating": 4.0,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Alaya+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عالمي"
+    ]
+  },
+  {
+    "id": "wabi_sabi",
+    "name_ar": "وابي سابي",
+    "name_en": "Wabi Sabi",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مطعم نباتي ياباني بتصميم مينيمالست وقائمة نباتية إبداعية",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Wabi+Sabi+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "ياباني نباتي"
+    ]
+  },
+  {
+    "id": "al_dayah_restaurant",
+    "name_ar": "مطعم الضيعة",
+    "name_en": "Al Dayah Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم لبناني عريق يقدم أفضل المأكولات اللبنانية الأصيلة",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Dayah+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "لبناني"
+    ]
+  },
+  {
+    "id": "quiznos_sub",
+    "name_ar": "كويزنوز صب",
+    "name_en": "Quiznos Sub",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الفلاح",
+    "neighborhood_en": "Al Falah",
+    "description_ar": "مطعم ساندويتشات مشوية عالمي بفرع في حي الفلاح",
+    "google_rating": 3.9,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Quiznos+Sub+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "ساندويتشات"
+    ]
+  },
+  {
+    "id": "mareez",
+    "name_ar": "ماريز",
+    "name_en": "Mareez",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "عدة فروع",
+    "neighborhood_en": "Multiple",
+    "description_ar": "فود ترك شهير في الرياض يقدم وجبات عربية مبتكرة",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Mareez+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "فود ترك"
+    ]
+  },
+  {
+    "id": "hustle_n_flow_eatery",
+    "name_ar": "هاسل آند فلو",
+    "name_en": "Hustle n Flow Eatery",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مطعم صحي عصري بأجواء شبابية وقائمة متنوعة",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Hustle+n+Flow+Eatery+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "صحي"
+    ]
+  },
+  {
+    "id": "jones_the_grocer",
+    "name_ar": "جونز ذا غروسر",
+    "name_en": "Jones the Grocer",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مقهى ومطعم أسترالي يقدم إفطار وغداء ومشروبات فاخرة",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Jones+the+Grocer+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أسترالي"
+    ]
+  },
+  {
+    "id": "coco_restaurant",
+    "name_ar": "مطعم كوكو",
+    "name_en": "Coco Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مطعم راقي مع حلويات ميس كوكو المميزة",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Coco+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عالمي"
+    ]
+  },
+  {
+    "id": "takya_cafe",
+    "name_ar": "تكية كافيه",
+    "name_en": "Takya Cafe",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "مقهى تقليدي بأجواء سعودية أصيلة يقدم القهوة العربية",
+    "google_rating": 4.4,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Takya+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "تقليدي سعودي"
+    ]
+  },
+  {
+    "id": "sadu_cafe",
+    "name_ar": "سادو كافيه",
+    "name_en": "Sadu Cafe",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "مقهى تراثي بتجربة قهوة عربية أصيلة في الدرعية",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Sadu+Cafe+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "تراثي"
+    ]
+  },
+  {
+    "id": "diyafa_restaurant",
+    "name_ar": "مطعم ضيافة",
+    "name_en": "Diyafa Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي المنصورة",
+    "neighborhood_en": "Al Mansoura",
+    "description_ar": "مطعم ضيافة عربية بأكلات شعبية مميزة في حي المنصورة",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Diyafa+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أكلات شعبية"
+    ]
+  },
+  {
+    "id": "al_waleema",
+    "name_ar": "مطعم الوليمة",
+    "name_en": "Al Waleema",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي المنصورة",
+    "neighborhood_en": "Al Mansoura",
+    "description_ar": "مطعم مندي ومأكولات يمنية في حي المنصورة",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Waleema+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مندي يمني"
+    ]
+  },
+  {
+    "id": "falak_restaurant",
+    "name_ar": "مطعم فلك",
+    "name_en": "Falak Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي اشبيلية",
+    "neighborhood_en": "Ishbiliya",
+    "description_ar": "مطعم أكلات شعبية وأرز ومشويات في حي اشبيلية",
+    "google_rating": 4.0,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Falak+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أكلات شعبية"
+    ]
+  },
+  {
+    "id": "abu_asim_restaurant",
+    "name_ar": "مطعم أبو عاصم",
+    "name_en": "Abu Asim Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الخليج",
+    "neighborhood_en": "Al Khaleej",
+    "description_ar": "مطعم مأكولات شعبية وفطور تقليدي في حي الخليج",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Abu+Asim+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أكلات شعبية"
+    ]
+  },
+  {
+    "id": "al_najm_al_bukhari",
+    "name_ar": "مطعم النجم البخاري",
+    "name_en": "Al Najm Al Bukhari",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الفلاح",
+    "neighborhood_en": "Al Falah",
+    "description_ar": "مطعم متخصص في الأرز البخاري واللحم والدجاج",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Najm+Al+Bukhari+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "بخاري"
+    ]
+  },
+  {
+    "id": "salma_kitchen",
+    "name_ar": "مطبخ سلمى",
+    "name_en": "Salma Kitchen",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الربوة",
+    "neighborhood_en": "Al Rabwah",
+    "description_ar": "مطعم أكلات بيتية سعودية تقليدية بنكهة منزلية",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Salma+Kitchen+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أكلات بيتية"
+    ]
+  },
+  {
+    "id": "al_balad_restaurant",
+    "name_ar": "مطعم البلد",
+    "name_en": "Al Balad Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم حجازي تقليدي يقدم الفول والتميس والمعصوب",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Balad+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "حجازي"
+    ]
+  },
+  {
+    "id": "al_dira_restaurant",
+    "name_ar": "مطعم الديرة",
+    "name_en": "Al Dira Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الديرة",
+    "neighborhood_en": "Al Dira",
+    "description_ar": "مطعم تراثي في قلب الرياض القديمة بأكلات نجدية",
+    "google_rating": 4.4,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Dira+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "نجدي تراثي"
+    ]
+  },
+  {
+    "id": "umm_khalid",
+    "name_ar": "مطعم أم خالد",
+    "name_en": "Umm Khalid",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي النسيم",
+    "neighborhood_en": "Al Naseem",
+    "description_ar": "مطعم أكلات شعبية بنكهة بيتية مع الجريش والمرقوق",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Umm+Khalid+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أكلات شعبية"
+    ]
+  },
+  {
+    "id": "khan_al_khalili",
+    "name_ar": "خان الخليلي",
+    "name_en": "Khan Al Khalili",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مطعم مصري شعبي يقدم الكشري والحواوشي والفول المصري",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Khan+Al+Khalili+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مصري شعبي"
+    ]
+  },
+  {
+    "id": "al_fanar_restaurant",
+    "name_ar": "مطعم الفنر",
+    "name_en": "Al Fanar Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "Al Sulaimaniyah",
+    "description_ar": "مطعم إماراتي تراثي يقدم المأكولات الخليجية بأجواء تقليدية",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Fanar+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "إماراتي تراثي"
+    ]
+  },
+  {
+    "id": "al_sayyad",
+    "name_ar": "مطعم الصياد",
+    "name_en": "Al Sayyad",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الحمراء",
+    "neighborhood_en": "Al Hamra",
+    "description_ar": "مطعم مأكولات بحرية طازجة بطريقة الطبخ المصرية",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Sayyad+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مأكولات بحرية"
+    ]
+  },
+  {
+    "id": "zaitouneh",
+    "name_ar": "مطعم زيتونة",
+    "name_en": "Zaitouneh",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مطعم لبناني يقدم مزة وشاورما ومشاوي لبنانية أصيلة",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Zaitouneh+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "لبناني"
+    ]
+  },
+  {
+    "id": "al_annabi",
+    "name_ar": "مطعم العنابي",
+    "name_en": "Al Annabi",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم يمني شعبي يقدم المندي والحنيذ والزربيان العدني",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Annabi+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "يمني"
+    ]
+  },
+  {
+    "id": "tarboush_restaurant",
+    "name_ar": "مطعم طربوش",
+    "name_en": "Tarboush Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الروضة",
+    "neighborhood_en": "Al Rawdah",
+    "description_ar": "مطعم لبناني وشامي يقدم الكبة والتبولة والفتوش",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Tarboush+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "لبناني شامي"
+    ]
+  },
+  {
+    "id": "al_hara_restaurant",
+    "name_ar": "مطعم الحارة",
+    "name_en": "Al Hara Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي بدر",
+    "neighborhood_en": "Badr",
+    "description_ar": "مطعم أكلات شعبية مصرية وشامية بأسعار اقتصادية",
+    "google_rating": 4.0,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Hara+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "شعبي"
+    ]
+  },
+  {
+    "id": "kamoun_restaurant",
+    "name_ar": "مطعم كمون",
+    "name_en": "Kamoun Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "مطعم عربي عصري يمزج بين المطبخ اللبناني والمصري",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Kamoun+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عربي عصري"
+    ]
+  },
+  {
+    "id": "byblos_restaurant",
+    "name_ar": "مطعم بيبلوس",
+    "name_en": "Byblos Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مطعم لبناني فاخر يقدم المزة والمشاوي في أجواء راقية",
+    "google_rating": 4.4,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Byblos+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "لبناني فاخر"
+    ]
+  },
+  {
+    "id": "nour_al_sham",
+    "name_ar": "مطعم نور الشام",
+    "name_en": "Nour Al Sham",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "مطعم سوري شعبي يقدم الشاورما والفتة والكباب السوري",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Nour+Al+Sham+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "سوري"
+    ]
+  },
+  {
+    "id": "bayt_al_ezz",
+    "name_ar": "مطعم بيت العز",
+    "name_en": "Bayt Al Ezz",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الخليج",
+    "neighborhood_en": "Al Khaleej",
+    "description_ar": "مطعم مأكولات خليجية ومندي بأجواء عائلية",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Bayt+Al+Ezz+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "خليجي"
+    ]
+  },
+  {
+    "id": "bab_al_hara",
+    "name_ar": "مطعم باب الحارة",
+    "name_en": "Bab Al Hara",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي السلام",
+    "neighborhood_en": "Al Salam",
+    "description_ar": "مطعم شامي بديكور دمشقي يقدم المشاوي والفتة",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Bab+Al+Hara+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "شامي"
+    ]
+  },
+  {
+    "id": "al_sahel_restaurant",
+    "name_ar": "مطعم الساحل",
+    "name_en": "Al Sahel Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الربوة",
+    "neighborhood_en": "Al Rabwah",
+    "description_ar": "مطعم أسماك ومأكولات بحرية طازجة بأسعار معقولة",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Sahel+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مأكولات بحرية"
+    ]
+  },
+  {
+    "id": "jawharat_al_sultan",
+    "name_ar": "مطعم جوهرة السلطان",
+    "name_en": "Jawharat Al Sultan",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الفيحاء",
+    "neighborhood_en": "Al Fayha",
+    "description_ar": "مطعم مندي ومطبخ يمني بأسعار مناسبة وكميات وفيرة",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Jawharat+Al+Sultan+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "يمني"
+    ]
+  },
+  {
+    "id": "al_nakheel_restaurant",
+    "name_ar": "مطعم النخيل",
+    "name_en": "Al Nakheel Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "Al Nakheel",
+    "description_ar": "مطعم مأكولات عربية متنوعة بجلسات خارجية مريحة",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Nakheel+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عربي"
+    ]
+  },
+  {
+    "id": "al_qasr_al_shami",
+    "name_ar": "مطعم القصر الشامي",
+    "name_en": "Al Qasr Al Shami",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي المروة",
+    "neighborhood_en": "Al Marwah",
+    "description_ar": "مطعم شامي يقدم الكبة النية والمحاشي والشاورما",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Qasr+Al+Shami+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "شامي"
+    ]
+  },
+  {
+    "id": "bayt_al_samak",
+    "name_ar": "مطعم بيت السمك",
+    "name_en": "Bayt Al Samak",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي النزهة",
+    "neighborhood_en": "Al Nuzha",
+    "description_ar": "مطعم أسماك طازجة مع خيارات الشوي والقلي",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Bayt+Al+Samak+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مأكولات بحرية"
+    ]
+  },
+  {
+    "id": "al_wadi_al_akhdar",
+    "name_ar": "مطعم الوادي الأخضر",
+    "name_en": "Al Wadi Al Akhdar",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "مطعم مأكولات يمنية وحضرمية بجلسات عربية",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Wadi+Al+Akhdar+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "يمني حضرمي"
+    ]
+  },
+  {
+    "id": "halabi_restaurant",
+    "name_ar": "مطعم حلبي",
+    "name_en": "Halabi Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم سوري حلبي متخصص في الكباب الحلبي والكبة",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Halabi+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "سوري حلبي"
+    ]
+  },
+  {
+    "id": "aryaf_al_sham",
+    "name_ar": "مطعم أرياف الشام",
+    "name_en": "Aryaf Al Sham",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الروضة",
+    "neighborhood_en": "Al Rawdah",
+    "description_ar": "مطعم ريفي سوري يقدم الفتة والشاكرية والمحاشي",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Aryaf+Al+Sham+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "سوري ريفي"
+    ]
+  },
+  {
+    "id": "tayba_al_bukhari",
+    "name_ar": "مطعم طيبة البخاري",
+    "name_en": "Tayba Al Bukhari",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الحمراء",
+    "neighborhood_en": "Al Hamra",
+    "description_ar": "مطعم بخاري شعبي بأسعار مناسبة وأرز بنكهة مميزة",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Tayba+Al+Bukhari+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "بخاري"
+    ]
+  },
+  {
+    "id": "mashawi_al_sultan",
+    "name_ar": "مطعم مشاوي السلطان",
+    "name_en": "Mashawi Al Sultan",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الفلاح",
+    "neighborhood_en": "Al Falah",
+    "description_ar": "مطعم مشاوي عربية على الفحم بنكهة مميزة",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Mashawi+Al+Sultan+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مشاوي"
+    ]
+  },
+  {
+    "id": "fool_wa_tamees_al_hijaz",
+    "name_ar": "مطعم فول وتميس الحجاز",
+    "name_en": "Fool wa Tamees Al Hijaz",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي البديعة",
+    "neighborhood_en": "Al Badiah",
+    "description_ar": "مطعم فول حجازي تقليدي مع تميس طازج",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Fool+wa+Tamees+Al+Hijaz+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "فول حجازي"
+    ]
+  },
+  {
+    "id": "al_qalaa_restaurant",
+    "name_ar": "مطعم القلعة",
+    "name_en": "Al Qalaa Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم عربي متنوع يقدم المشاوي والأرز والسلطات",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Qalaa+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عربي"
+    ]
+  },
+  {
+    "id": "sabaya_lebanon",
+    "name_ar": "مطعم صبايا لبنان",
+    "name_en": "Sabaya Lebanon",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الورود",
+    "neighborhood_en": "Al Wurud",
+    "description_ar": "مطعم لبناني أنيق يقدم الفطور اللبناني والمناقيش",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Sabaya+Lebanon+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "لبناني"
+    ]
+  },
+  {
+    "id": "sultan_al_shawarma",
+    "name_ar": "مطعم سلطان الشاورما",
+    "name_en": "Sultan Al Shawarma",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مطعم شاورما عربية بنكهة مميزة وخلطة سرية",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Sultan+Al+Shawarma+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "شاورما"
+    ]
+  },
+  {
+    "id": "baytna_restaurant",
+    "name_ar": "مطعم بيتنا",
+    "name_en": "Baytna Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي القدس",
+    "neighborhood_en": "Al Quds",
+    "description_ar": "مطعم أكلات شعبية منزلية بأسعار اقتصادية",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Baytna+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أكلات شعبية"
+    ]
+  },
+  {
+    "id": "al_raai_restaurant",
+    "name_ar": "مطعم الراعي",
+    "name_en": "Al Raai Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي العريجاء",
+    "neighborhood_en": "Al Uraija",
+    "description_ar": "مطعم مشاوي ومناسف أردنية بنكهة أصيلة",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Raai+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أردني"
+    ]
+  },
+  {
+    "id": "al_mukhtar_al_bukhari",
+    "name_ar": "مطعم المختار البخاري",
+    "name_en": "Al Mukhtar Al Bukhari",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "مطعم بخاري مميز بتتبيلة خاصة وأرز فاخر",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Mukhtar+Al+Bukhari+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "بخاري"
+    ]
+  },
+  {
+    "id": "villa_halab",
+    "name_ar": "مطعم فيلا حلب",
+    "name_en": "Villa Halab",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "مطعم حلبي فاخر يقدم الكبة والمقبلات السورية الراقية",
+    "google_rating": 4.4,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Villa+Halab+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "سوري حلبي"
+    ]
+  },
+  {
+    "id": "al_shurfa_restaurant",
+    "name_ar": "مطعم الشرفة",
+    "name_en": "Al Shurfa Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الفيحاء",
+    "neighborhood_en": "Al Fayha",
+    "description_ar": "مطعم عربي بشرفة مطلة يقدم المشاوي والأرز",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Shurfa+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عربي"
+    ]
+  },
+  {
+    "id": "crown_restaurant",
+    "name_ar": "مطعم كراون",
+    "name_en": "Crown Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم هندي باكستاني يقدم البرياني والكاري",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Crown+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "هندي باكستاني"
+    ]
+  },
+  {
+    "id": "grand_hyderabad",
+    "name_ar": "مطعم جراند حيدر آباد",
+    "name_en": "Grand Hyderabad",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي البطحاء",
+    "neighborhood_en": "Al Batha",
+    "description_ar": "مطعم هندي حيدر آبادي يقدم البرياني المشهور",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Grand+Hyderabad+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "هندي"
+    ]
+  },
+  {
+    "id": "al_rif_al_lubnani",
+    "name_ar": "مطعم الريف اللبناني",
+    "name_en": "Al Rif Al Lubnani",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "Al Sulaimaniyah",
+    "description_ar": "مطعم لبناني يقدم المأكولات الريفية اللبنانية التقليدية",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Rif+Al+Lubnani+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "لبناني"
+    ]
+  },
+  {
+    "id": "kababji",
+    "name_ar": "مطعم كبابجي",
+    "name_en": "Kababji",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "سلسلة مطاعم لبنانية عالمية متخصصة في الكباب والمشاوي",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Kababji+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كباب لبناني"
+    ]
+  },
+  {
+    "id": "al_amwaj",
+    "name_ar": "مطعم الأمواج",
+    "name_en": "Al Amwaj",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "مطعم مأكولات بحرية وأسماك طازجة بتحضير متنوع",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Amwaj+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مأكولات بحرية"
+    ]
+  },
+  {
+    "id": "shawarmanji",
+    "name_ar": "مطعم شاورمانجي",
+    "name_en": "Shawarmanji",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "عدة فروع",
+    "neighborhood_en": "Multiple",
+    "description_ar": "سلسلة شاورما عصرية بنكهات مبتكرة وتقديم حديث",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Shawarmanji+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "شاورما عصرية"
+    ]
+  },
+  {
+    "id": "furn_lebanon",
+    "name_ar": "مطعم فرن لبنان",
+    "name_en": "Furn Lebanon",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي السلام",
+    "neighborhood_en": "Al Salam",
+    "description_ar": "مخبز ومطعم لبناني يقدم المناقيش والفطائر اللبنانية",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Furn+Lebanon+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مناقيش لبنانية"
+    ]
+  },
+  {
+    "id": "al_dawwar_restaurant",
+    "name_ar": "مطعم الدوار",
+    "name_en": "Al Dawwar Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي النسيم",
+    "neighborhood_en": "Al Naseem",
+    "description_ar": "مطعم مأكولات عربية دوارة بتجربة بوفيه مميزة",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Dawwar+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "بوفيه عربي"
+    ]
+  },
+  {
+    "id": "abu_zeid_restaurant",
+    "name_ar": "مطعم أبو زيد",
+    "name_en": "Abu Zeid Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم مصري شعبي يقدم الفول والفلافل والكشري",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Abu+Zeid+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مصري"
+    ]
+  },
+  {
+    "id": "bayt_al_mashwi",
+    "name_ar": "مطعم بيت المشوي",
+    "name_en": "Bayt Al Mashwi",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي المونسية",
+    "neighborhood_en": "Al Munsiyah",
+    "description_ar": "مطعم مشاوي عربية على الفحم بجلسات خارجية",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Bayt+Al+Mashwi+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مشاوي"
+    ]
+  },
+  {
+    "id": "fulfil_restaurant",
+    "name_ar": "مطعم فلفل",
+    "name_en": "Fulfil Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الروضة",
+    "neighborhood_en": "Al Rawdah",
+    "description_ar": "مطعم هندي يقدم الأطباق الهندية الحارة والبرياني",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Fulfil+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "هندي"
+    ]
+  },
+  {
+    "id": "sindbad_restaurant",
+    "name_ar": "مطعم سندباد",
+    "name_en": "Sindbad Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم عراقي يقدم التكة والكباب العراقي والمسكوف",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Sindbad+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عراقي"
+    ]
+  },
+  {
+    "id": "tajin_restaurant",
+    "name_ar": "مطعم طاجن",
+    "name_en": "Tajin Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "مطعم مغربي يقدم الطاجين والكسكس المغربي الأصيل",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Tajin+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مغربي"
+    ]
+  },
+  {
+    "id": "al_andalus_restaurant",
+    "name_ar": "مطعم الأندلس",
+    "name_en": "Al Andalus Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الأندلس",
+    "neighborhood_en": "Al Andalus",
+    "description_ar": "مطعم مغربي أندلسي يقدم الباستيلا والحريرة والكسكس",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Andalus+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مغربي أندلسي"
+    ]
+  },
+  {
+    "id": "red_sea_restaurant",
+    "name_ar": "مطعم البحر الأحمر",
+    "name_en": "Red Sea Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الخليج",
+    "neighborhood_en": "Al Khaleej",
+    "description_ar": "مطعم أسماك ومأكولات بحرية من البحر الأحمر",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Red+Sea+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مأكولات بحرية"
+    ]
+  },
+  {
+    "id": "al_maqam_restaurant",
+    "name_ar": "مطعم المقام",
+    "name_en": "Al Maqam Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي العزيزية",
+    "neighborhood_en": "Al Aziziyah",
+    "description_ar": "مطعم أكلات شعبية مع الجريش والقرصان والمرقوق",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Maqam+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "نجدي شعبي"
+    ]
+  },
+  {
+    "id": "fairuz_garden",
+    "name_ar": "مطعم فيروز غاردن",
+    "name_en": "Fairuz Garden",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Al Rabi",
+    "description_ar": "مطعم لبناني بحديقة خارجية يقدم مزة ومشاوي",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Fairuz+Garden+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "لبناني"
+    ]
+  },
+  {
+    "id": "al_khaima_heritage",
+    "name_ar": "مطعم الخيمة التراثية",
+    "name_en": "Al Khaima Heritage",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم تراثي يقدم المأكولات السعودية في خيمة تقليدية",
+    "google_rating": 4.4,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Khaima+Heritage+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "تراثي سعودي"
+    ]
+  },
+  {
+    "id": "hot_box",
+    "name_ar": "مطعم هوت بوكس",
+    "name_en": "Hot Box",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الربوة",
+    "neighborhood_en": "Al Rabwah",
+    "description_ar": "مطعم سموكد ميت وبرجر مدخن بنكهات أمريكية",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Hot+Box+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أمريكي مدخن"
+    ]
+  },
+  {
+    "id": "chicken_master",
+    "name_ar": "مطعم تشيكن ماستر",
+    "name_en": "Chicken Master",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "مطعم دجاج بروست ومشوي بتتبيلة خاصة",
+    "google_rating": 4.0,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Chicken+Master+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "بروست"
+    ]
+  },
+  {
+    "id": "al_tayeb_restaurant",
+    "name_ar": "مطعم الطيب",
+    "name_en": "Al Tayeb Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الحمراء",
+    "neighborhood_en": "Al Hamra",
+    "description_ar": "مطعم أكلات سودانية ومصرية شعبية بأسعار مناسبة",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Tayeb+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "سوداني مصري"
+    ]
+  },
+  {
+    "id": "dar_al_aklat",
+    "name_ar": "مطعم دار الأكلات",
+    "name_en": "Dar Al Aklat",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي البديعة",
+    "neighborhood_en": "Al Badiah",
+    "description_ar": "مطعم أكلات منزلية متنوعة بنكهة بيتية",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Dar+Al+Aklat+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "أكلات منزلية"
+    ]
+  },
+  {
+    "id": "al_mathaq_al_suri",
+    "name_ar": "مطعم المذاق السوري",
+    "name_en": "Al Mathaq Al Suri",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الروضة",
+    "neighborhood_en": "Al Rawdah",
+    "description_ar": "مطعم سوري يقدم الشاورما والكباب بطريقة سورية أصيلة",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Mathaq+Al+Suri+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "سوري"
+    ]
+  },
+  {
+    "id": "simsim_restaurant",
+    "name_ar": "مطعم سمسم",
+    "name_en": "Simsim Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الورود",
+    "neighborhood_en": "Al Wurud",
+    "description_ar": "مطعم عربي عصري يقدم وجبات خفيفة ومقبلات متنوعة",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Simsim+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "عربي عصري"
+    ]
+  },
+  {
+    "id": "bayt_al_kunafa",
+    "name_ar": "مطعم بيت الكنافة",
+    "name_en": "Bayt Al Kunafa",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم كنافة نابلسية تقليدية بجبنة عكاوي",
+    "google_rating": 4.4,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Bayt+Al+Kunafa+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "حلويات عربية"
+    ]
+  },
+  {
+    "id": "bab_al_yemen_mandi",
+    "name_ar": "مطعم باب اليمن للمندي",
+    "name_en": "Bab Al Yemen Mandi",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي البطحاء",
+    "neighborhood_en": "Al Batha",
+    "description_ar": "مطعم مندي يمني أصيل بدخان الحطب",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Bab+Al+Yemen+Mandi+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مندي يمني"
+    ]
+  },
+  {
+    "id": "zaatar_w_zeit",
+    "name_ar": "مطعم زعتر وزيت",
+    "name_en": "Zaatar w Zeit",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "عدة فروع",
+    "neighborhood_en": "Multiple",
+    "description_ar": "سلسلة مطاعم لبنانية تقدم المناقيش والشاورما والمأكولات اللبنانية",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Zaatar+w+Zeit+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "لبناني"
+    ]
+  },
+  {
+    "id": "abu_fares",
+    "name_ar": "مطعم أبو فارس",
+    "name_en": "Abu Fares",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي السلام",
+    "neighborhood_en": "Al Salam",
+    "description_ar": "مطعم سوري يقدم المشاوي والكباب على الفحم",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Abu+Fares+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "سوري"
+    ]
+  },
+  {
+    "id": "al_raha_restaurant",
+    "name_ar": "مطعم الرحى",
+    "name_en": "Al Raha Restaurant",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي القدس",
+    "neighborhood_en": "Al Quds",
+    "description_ar": "مطعم أكلات شعبية سعودية بالطريقة التقليدية",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Al+Raha+Restaurant+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "شعبي سعودي"
+    ]
+  },
+  {
+    "id": "sheikh_al_mashawi",
+    "name_ar": "مطعم شيخ المشاوي",
+    "name_en": "Sheikh Al Mashawi",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مطعم مشاوي فاخرة على الفحم بجلسات عائلية",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Sheikh+Al+Mashawi+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "مشاوي"
+    ]
+  },
+  {
+    "id": "baba_ganoush",
+    "name_ar": "مطعم بابا غنوج",
+    "name_en": "Baba Ganoush",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مطعم لبناني يقدم المزة والمشاوي بأسلوب عصري",
+    "google_rating": 4.2,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Baba+Ganoush+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "لبناني عصري"
+    ]
+  },
+  {
+    "id": "diwaniyat_al_khaleej",
+    "name_ar": "مطعم ديوانية الخليج",
+    "name_en": "Diwaniyat Al Khaleej",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الخليج",
+    "neighborhood_en": "Al Khaleej",
+    "description_ar": "مطعم كويتي خليجي يقدم المجبوس والمشويات البحرية",
+    "google_rating": 4.3,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Diwaniyat+Al+Khaleej+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "كويتي خليجي"
+    ]
+  },
+  {
+    "id": "burj_dimashq",
+    "name_ar": "مطعم برج دمشق",
+    "name_en": "Burj Dimashq",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مطعم شامي يقدم الشاورما والفتة الشامية بطريقة تقليدية",
+    "google_rating": 4.1,
+    "review_count": 500,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "google_maps_url": "https://maps.google.com/?q=Burj+Dimashq+Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "district": "الرياض",
+    "audience": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "is_free": false,
+    "perfect_for": [
+      "شامي"
+    ]
+  }
+]

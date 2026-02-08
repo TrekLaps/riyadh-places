@@ -1,0 +1,152 @@
+[
+  {
+    "id": "nofa-adventure-park",
+    "name_ar": "نوفا أدفنشر بارك",
+    "name_en": "Nofa Adventure Park",
+    "category": "nature",
+    "category_ar": "مغامرات طبيعة",
+    "category_en": "nature",
+    "neighborhood": "خارج الرياض",
+    "neighborhood_en": "Outside Riyadh",
+    "description_ar": "منتزه مغامرات في منتجع نوفا يقدم سفاري وجولف وركوب خيل وبولنج وتنس وكاياك وأنشطة عائلية",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "sources": [
+      "Nofa Resorts",
+      "Webook",
+      "Radisson Collection"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nofa+Adventure+Park+Riyadh",
+    "district": "الرياض",
+    "lat": 24.45,
+    "lng": 46.45
+  },
+  {
+    "id": "nofa-farm-horse-racing",
+    "name_ar": "مزرعة نوفا وميدان السباق",
+    "name_en": "Nofa Farm & Horse Racing Track",
+    "category": "nature",
+    "category_ar": "مزارع",
+    "category_en": "nature",
+    "neighborhood": "خارج الرياض",
+    "neighborhood_en": "Outside Riyadh",
+    "description_ar": "مزرعة خيول مع ميدان سباق وملعب جولف ومطعم عصري ومرافق رياضية متكاملة",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "sources": [
+      "Nofa Resorts",
+      "Gratitude Garden Blog"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nofa+Farm+Riyadh",
+    "district": "الرياض",
+    "lat": 24.45,
+    "lng": 46.45
+  },
+  {
+    "id": "riyadh-zoo-season",
+    "name_ar": "حديقة حيوان الرياض - موسم الرياض",
+    "name_en": "Riyadh Zoo - Riyadh Season",
+    "category": "nature",
+    "category_ar": "فعاليات طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "نسخة محسنة من حديقة الحيوان ضمن موسم الرياض مع فعاليات إضافية وأنشطة تفاعلية مجانية",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "sources": [
+      "Riyadh Season 2025",
+      "Webook"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Zoo+Season+Riyadh",
+    "district": "الرياض",
+    "lat": 24.66,
+    "lng": 46.71,
+    "is_free": true
+  },
+  {
+    "id": "king-abdulaziz-botanical-garden",
+    "name_ar": "حديقة الملك عبدالعزيز النباتية",
+    "name_en": "King Abdulaziz Botanical Garden",
+    "category": "nature",
+    "category_ar": "حدائق نباتية",
+    "category_en": "nature",
+    "neighborhood": "حي الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "حديقة نباتية ملكية تضم مئات الأنواع من النباتات الصحراوية والاستوائية المحلية والعالمية",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "sources": [
+      "Visit Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=King+Abdulaziz+Botanical+Garden+Riyadh",
+    "district": "الرياض",
+    "lat": 24.74,
+    "lng": 46.57
+  },
+  {
+    "id": "wadi-hanifah-nature-park",
+    "name_ar": "متنزه وادي حنيفة الطبيعي",
+    "name_en": "Wadi Hanifah Nature Park",
+    "category": "nature",
+    "category_ar": "وادي طبيعي",
+    "category_en": "nature",
+    "neighborhood": "حي عرقة",
+    "neighborhood_en": "Irqah",
+    "description_ar": "وادي طبيعي محمي يمتد 120 كم مع مسارات مشي وركوب دراجات وبحيرات ومناطق نزهة عائلية",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "sources": [
+      "Visit Saudi",
+      "TimeOut Riyadh"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Hanifah+Nature+Park+Riyadh",
+    "district": "الرياض",
+    "lat": 24.65,
+    "lng": 46.58,
+    "is_free": true
+  },
+  {
+    "id": "rawdhat-khoraim",
+    "name_ar": "روضة خريم",
+    "name_en": "Rawdhat Khoraim",
+    "category": "nature",
+    "category_ar": "محمية طبيعية",
+    "category_en": "nature",
+    "neighborhood": "شمال شرق الرياض",
+    "neighborhood_en": "Northeast Riyadh",
+    "description_ar": "محمية طبيعية خلابة بمساحات خضراء واسعة وأشجار طلح وحياة برية متنوعة شمال شرق الرياض",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "sources": [
+      "Visit Saudi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Rawdhat+Khoraim+Riyadh",
+    "district": "الرياض",
+    "lat": 25.2,
+    "lng": 47.1,
+    "is_free": true
+  },
+  {
+    "id": "edge-of-world-tuwaiq",
+    "name_ar": "حافة العالم - جبل طويق",
+    "name_en": "Edge of the World - Tuwaiq Escarpment",
+    "category": "nature",
+    "category_ar": "معلم طبيعي",
+    "category_en": "nature",
+    "neighborhood": "شمال غرب الرياض",
+    "neighborhood_en": "Northwest Riyadh",
+    "description_ar": "منحدرات صخرية مذهلة تطل على سهول ممتدة بمنظر خلاب يشبه حافة العالم - مغامرة بالسيارات الدفع الرباعي",
+    "google_rating": 4.6,
+    "price_level": "$",
+    "sources": [
+      "Visit Saudi",
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Edge+of+the+World+Riyadh",
+    "district": "الرياض",
+    "lat": 24.85,
+    "lng": 46.15,
+    "is_free": true
+  }
+]

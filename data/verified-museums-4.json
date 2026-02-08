@@ -1,0 +1,108 @@
+[
+  {
+    "id": "samoca-jax-diriyah",
+    "name_ar": "متحف الفن المعاصر السعودي - ساموكا",
+    "name_en": "SAMoCA - Saudi Museum of Contemporary Art (JAX)",
+    "category": "museums",
+    "category_ar": "متاحف فنية",
+    "category_en": "museums",
+    "neighborhood": "حي جاكس الدرعية",
+    "neighborhood_en": "JAX District Diriyah",
+    "description_ar": "أول متحف للفن المعاصر في المملكة افتتح 2023 في حي جاكس الإبداعي بالدرعية مع معارض دوارة ومقتنيات دائمة",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "sources": [
+      "Soul of Saudi 2025",
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=SAMoCA+JAX+Diriyah+Riyadh",
+    "district": "الرياض",
+    "lat": 24.74,
+    "lng": 46.57
+  },
+  {
+    "id": "saqer-aljazirah-aviation-museum",
+    "name_ar": "متحف صقر الجزيرة للطيران",
+    "name_en": "Saqer Al Jazirah Aviation Museum",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "قرب قاعدة الرياض الجوية",
+    "neighborhood_en": "Near Riyadh Air Base",
+    "description_ar": "متحف طيران يعرض تاريخ الطيران السعودي عبر 5 مراحل مع طائرات خارجية ومعروضات داخلية أبرزها طائرة داكوتا DC3",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "sources": [
+      "Soul of Saudi 2025",
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Saqer+Al+Jazirah+Aviation+Museum+Riyadh",
+    "district": "الرياض",
+    "lat": 24.72,
+    "lng": 46.75
+  },
+  {
+    "id": "athr-gallery-riyadh",
+    "name_ar": "غاليري أثر الرياض",
+    "name_en": "ATHR Gallery Riyadh",
+    "category": "museums",
+    "category_ar": "معارض فنية",
+    "category_en": "museums",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "أبرز غاليري فنون معاصرة في السعودية منذ 2009 يمثل فنانين محليين ودوليين مبتكرين",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "sources": [
+      "ATHR Art",
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=ATHR+Gallery+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "al-turaif-diriyah-museum",
+    "name_ar": "حي الطريف التاريخي - الدرعية",
+    "name_en": "Al Turaif District UNESCO Site",
+    "category": "museums",
+    "category_ar": "مواقع تراثية",
+    "category_en": "museums",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "موقع تراث عالمي لليونسكو وأول عاصمة للدولة السعودية مع قصر سلوى ومتحف الدرعية وحمامات ومساجد",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "sources": [
+      "Soul of Saudi 2025",
+      "Diriyah.sa"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Turaif+Diriyah+Riyadh",
+    "district": "الرياض",
+    "lat": 24.74,
+    "lng": 46.57
+  },
+  {
+    "id": "riyadh-photography-exhibitions",
+    "name_ar": "معارض تصوير الرياض",
+    "name_en": "Riyadh Photography Exhibitions",
+    "category": "museums",
+    "category_ar": "معارض تصوير",
+    "category_en": "museums",
+    "neighborhood": "مواقع متعددة",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "معارض تصوير فوتوغرافي دورية تقام في مختلف الغاليريات والمتاحف بالرياض",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "sources": [
+      "Wanderlog",
+      "Riyadh Art"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Photography+Exhibitions+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67,
+    "is_free": true
+  }
+]

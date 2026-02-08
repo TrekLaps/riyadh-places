@@ -1,0 +1,830 @@
+[
+  {
+    "id": "bab-sharqi-sweets",
+    "name_ar": "حلويات باب شرقي",
+    "name_en": "Bab Sharqi Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الوشام",
+    "neighborhood_en": "Al Washam",
+    "description_ar": "حلويات شرقية تقليدية شهية تشمل الكنافة والبقلاوة والمعمول بمكونات طازجة وطرق تقليدية أصيلة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "sources": [
+      "Bayut SA 2024",
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bab+Sharqi+Sweets+Riyadh",
+    "district": "الرياض",
+    "lat": 24.64,
+    "lng": 46.71
+  },
+  {
+    "id": "halawiyat-al-mamlaka",
+    "name_ar": "حلويات المملكة",
+    "name_en": "Al Mamlaka Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "As Sahafah",
+    "description_ar": "من أعرق محلات الحلويات العربية منذ 1980 تقدم معمول وبقلاوة بنكهات متنوعة مع ابتكار مستمر",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "TimeOut Riyadh 2025",
+      "Bayut SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Mamlaka+Sweets+Riyadh",
+    "district": "الرياض",
+    "lat": 24.81,
+    "lng": 46.7
+  },
+  {
+    "id": "halawiyat-habiba",
+    "name_ar": "حلويات حبيبة",
+    "name_en": "Habibah Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "حلويات شرقية شهيرة تقدم كلاج بالجبنة ونمورة وعثملية بالقشطة والكنافة الأشهر لديهم",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "sources": [
+      "Bayut SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Habibah+Sweets+Riyadh",
+    "district": "الرياض",
+    "lat": 24.69,
+    "lng": 46.68
+  },
+  {
+    "id": "kunfandi",
+    "name_ar": "كنفندي",
+    "name_en": "Kunfandi",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "As Sahafah",
+    "description_ar": "من الأردن إلى الرياض يقدم ألذ كنافة وعصملية محشية بالقشطة ومزينة بالمكسرات مع قهوة عربية",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "sources": [
+      "Bayut SA 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kunfandi+Riyadh",
+    "district": "الرياض",
+    "lat": 24.81,
+    "lng": 46.69
+  },
+  {
+    "id": "nabil-nafisah-sweets",
+    "name_ar": "حلويات نبيل نفيسة",
+    "name_en": "Nabil Nafisah Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "حلويات سورية وعربية أصيلة بأفضل أنواع القشطة البلدي والسمنة مثل المدلوقة والعصملية والبقلاوة والمحلاية",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "sources": [
+      "Bayut SA 2024",
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nabil+Nafisah+Sweets+Riyadh",
+    "district": "الرياض",
+    "lat": 24.69,
+    "lng": 46.68
+  },
+  {
+    "id": "sanabel-al-salam-sweets",
+    "name_ar": "سنابل السلام",
+    "name_en": "Sanabel Al Salam",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "من أقدم محلات الحلويات العربية تقدم بلح الشام والبقلاوة المشكلة والمعمول بمكونات طازجة وأسعار مناسبة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sanabel+Al+Salam+Sweets+Riyadh",
+    "district": "الرياض",
+    "lat": 24.77,
+    "lng": 46.65
+  },
+  {
+    "id": "zamani-sweets",
+    "name_ar": "حلويات زماني",
+    "name_en": "Zamani Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "حلويات عربية راقية تقدم بقلاوة وغريبة وعش البلبل بالفستق الحلبي والمعمول بجودة ممتازة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Zamani+Sweets+Riyadh",
+    "district": "الرياض",
+    "lat": 24.77,
+    "lng": 46.65
+  },
+  {
+    "id": "rose-specialty-sweets",
+    "name_ar": "حلويات روز التخصصي",
+    "name_en": "Rose Specialty Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي غرناطة",
+    "neighborhood_en": "Granada",
+    "description_ar": "معمول التمر والفستق الحلبي وتشكيلة شوكولاتة وكيك وفطائر مع استقبال راقي وهدايا صغيرة للزبائن",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "Saudi Mall 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Rose+Specialty+Sweets+Riyadh",
+    "district": "الرياض",
+    "lat": 24.74,
+    "lng": 46.81
+  },
+  {
+    "id": "mashhoud-sweets",
+    "name_ar": "حلويات مشهود",
+    "name_en": "Mashhoud Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الغافقي",
+    "neighborhood_en": "Al Ghafqi",
+    "description_ar": "حلويات متنوعة وفطائر ومعجنات تشمل شفايف القشطة والبقلاوة والبيتي فور وكيك بلاك فورست بأسعار معقولة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "sources": [
+      "Saudi Mall 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mashhoud+Sweets+Riyadh",
+    "district": "الرياض",
+    "lat": 24.7,
+    "lng": 46.72
+  },
+  {
+    "id": "jarir-specialty-sweets",
+    "name_ar": "حلويات جرير التخصصي",
+    "name_en": "Jarir Specialty Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "من أقدم محلات الحلويات بالرياض يقدم كنافة وكيك وبقلاوة وبسبوسة وآيس كريم بمختلف النكهات",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "sources": [
+      "Saudi Mall 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Jarir+Specialty+Sweets+Riyadh",
+    "district": "الرياض",
+    "lat": 24.7,
+    "lng": 46.69
+  },
+  {
+    "id": "al-dhawwaq-sweets",
+    "name_ar": "الذواق",
+    "name_en": "Al Dhawwaq",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي المحمدية",
+    "neighborhood_en": "Al Muhammadiyah",
+    "description_ar": "تارت التوت والمانجو بقطع فاكهة طازجة مع فطائر وقوالب كيك شوكولاتة وفانيليا فاخرة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "sources": [
+      "Saudi Mall 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Dhawwaq+Riyadh",
+    "district": "الرياض",
+    "lat": 24.75,
+    "lng": 46.64
+  },
+  {
+    "id": "lilo-sweets",
+    "name_ar": "حلويات ليلو",
+    "name_en": "Lilo Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "قوالب كيك رائعة لمختلف المناسبات مع تشكيلة مميزة من الفطائر والسندويشات والمهلبية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "Saudi Mall 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lilo+Sweets+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "basbusti-al-ladhidha",
+    "name_ar": "بسبوستي اللذيذة",
+    "name_en": "Basbusti Al Ladhidha",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "متخصصة بالبسبوسة بنكهات متعددة ومبتكرة تعد الأفضل في الرياض",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "sources": [
+      "Saudi Mall 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Basbusti+Al+Ladhidha+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "bait-al-sinaeat",
+    "name_ar": "بيت السنعات للحلويات",
+    "name_en": "Bait Al Sinaeat Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي شرق الرياض",
+    "neighborhood_en": "East Riyadh",
+    "description_ar": "من أفضل محلات الحلويات شرق الرياض يقدم حلويات شرقية متنوعة بجودة عالية",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "sources": [
+      "Saudi Mall 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bait+Al+Sinaeat+Sweets+Riyadh",
+    "district": "الرياض",
+    "lat": 24.72,
+    "lng": 46.78
+  },
+  {
+    "id": "aldh-hala-sweets",
+    "name_ar": "حلويات ألذ حلا",
+    "name_en": "Aldh Hala Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "حلويات متنوعة بمذاق مميز تشمل حلويات شرقية وغربية بأسعار تنافسية",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "sources": [
+      "Saudi Mall 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Aldh+Hala+Sweets+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "diplomat-sweets",
+    "name_ar": "الدبلوماسي للحلويات",
+    "name_en": "Diplomat Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الروضة",
+    "neighborhood_en": "Ar Rawdah",
+    "description_ar": "منذ 1987 يقدم كنافة شرقية ومعمول وبقلاوة وفطائر وكيك فراولة وتارت فراولة وعلب هدايا",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "Saudi Mall 2024",
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Diplomat+Sweets+Riyadh",
+    "district": "الرياض",
+    "lat": 24.72,
+    "lng": 46.73
+  },
+  {
+    "id": "tamrytna-dates",
+    "name_ar": "تمريتنا",
+    "name_en": "Tamrytna Dates",
+    "category": "desserts",
+    "category_ar": "تمور محشية",
+    "category_en": "desserts",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "تمور محشية فاخرة بنكهات متنوعة تقدم كهدايا راقية لجميع المناسبات",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "sources": [
+      "Tamrytna.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tamrytna+Dates+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "orani-dates",
+    "name_ar": "العريني للتمور الفاخرة",
+    "name_en": "Al Orani Premium Dates",
+    "category": "desserts",
+    "category_ar": "تمور",
+    "category_en": "desserts",
+    "neighborhood": "حي الازدهار",
+    "neighborhood_en": "Al Izdihar",
+    "description_ar": "تمور سكرية محشية باللوز والكليجا والمعمول وأنواع القهوة المختلفة",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "sources": [
+      "Bayut SA 2023"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Orani+Premium+Dates+Riyadh",
+    "district": "الرياض",
+    "lat": 24.73,
+    "lng": 46.72
+  },
+  {
+    "id": "atayb-dates",
+    "name_ar": "أطايب التمور",
+    "name_en": "Atayb Dates",
+    "category": "desserts",
+    "category_ar": "تمور",
+    "category_en": "desserts",
+    "neighborhood": "حي الملك فهد",
+    "neighborhood_en": "King Fahd",
+    "description_ar": "تمور فاخرة بتصاميم نجدية مميزة تضم أربعة أنواع من أهم تمور المملكة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "sources": [
+      "Bayut SA 2023",
+      "Atayb.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Atayb+Dates+Riyadh",
+    "district": "الرياض",
+    "lat": 24.72,
+    "lng": 46.68
+  },
+  {
+    "id": "tumur-najdiya",
+    "name_ar": "تمور نجدية",
+    "name_en": "Tumur Najdiya",
+    "category": "desserts",
+    "category_ar": "تمور",
+    "category_en": "desserts",
+    "neighborhood": "حي إشبيلية",
+    "neighborhood_en": "Ishbiliyah",
+    "description_ar": "مؤسسة وطنية لإنتاج التمور والمنتجات الشعبية مثل الكليجا والمعمول والعسل والدبس والبخور",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "Bayut SA 2023"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tumur+Najdiya+Riyadh",
+    "district": "الرياض",
+    "lat": 24.75,
+    "lng": 46.76
+  },
+  {
+    "id": "shathlia-dates",
+    "name_ar": "تمور الشاذلية",
+    "name_en": "Al Shathlia Dates",
+    "category": "desserts",
+    "category_ar": "تمور",
+    "category_en": "desserts",
+    "neighborhood": "حي ظهرة لبن",
+    "neighborhood_en": "Dhahrat Laban",
+    "description_ar": "تمور بتصاميم مبتكرة على شكل نخلة وسفينة وشوكلاته بصواني فاخرة تستقبل التواصي حسب الطلب",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "sources": [
+      "Bayut SA 2023"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Shathlia+Dates+Riyadh",
+    "district": "الرياض",
+    "lat": 24.63,
+    "lng": 46.6
+  },
+  {
+    "id": "safwa-dates",
+    "name_ar": "شركة الصفوة للتمور",
+    "name_en": "Safwa Dates Company",
+    "category": "desserts",
+    "category_ar": "تمور",
+    "category_en": "desserts",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "تمور فاخرة كالخلاص وعجوة المدينة والصفاوي والمجدول والعنبرة بمعايير الهيئة السعودية",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "sources": [
+      "Bayut SA 2023"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Safwa+Dates+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "tamur-al-mamlaka",
+    "name_ar": "تمور المملكة",
+    "name_en": "Kingdom Dates Co",
+    "category": "desserts",
+    "category_ar": "تمور",
+    "category_en": "desserts",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "تأسست عام 1987 تقدم تمور شوكلاته ورطب وتمور بالمكسرات والمعمول والطحينية والدبس",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "sources": [
+      "Bayut SA 2023"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kingdom+Dates+Co+Riyadh",
+    "district": "الرياض",
+    "lat": 24.7,
+    "lng": 46.69
+  },
+  {
+    "id": "tamr-wa-lawz",
+    "name_ar": "تمر ولوز",
+    "name_en": "Tamr Wa Lawz",
+    "category": "desserts",
+    "category_ar": "تمور",
+    "category_en": "desserts",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "تمور فاخرة ومعمول طازج وتمر محشي لوز وحلويات شعبية سعودية بطابع عصري",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "Tamr-Lawz.sa"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tamr+Wa+Lawz+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "tumur-qote",
+    "name_ar": "تمور قوت",
+    "name_en": "Qote Dates",
+    "category": "desserts",
+    "category_ar": "تمور",
+    "category_en": "desserts",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "متجر متخصص في التمور والمنتجات الشعبية يقدم حلى تمر توفي ومنتجات شعبية متنوعة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "sources": [
+      "Qote.sa"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Qote+Dates+Riyadh",
+    "district": "الرياض",
+    "lat": 24.82,
+    "lng": 46.64
+  },
+  {
+    "id": "qabaah-dates",
+    "name_ar": "القباع للتمور",
+    "name_en": "Al Qabaah Dates",
+    "category": "desserts",
+    "category_ar": "تمور",
+    "category_en": "desserts",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "تمور فاخرة وتمرية وكليجا وشعبيات وشوكليت بلجيكي بأسعار مناسبة",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "sources": [
+      "AlQaaba.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Qabaah+Dates+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "basiqat-aljazira-dates",
+    "name_ar": "باسقات الجزيرة للتمور",
+    "name_en": "Basiqat Al Jazira Dates",
+    "category": "desserts",
+    "category_ar": "تمور",
+    "category_en": "desserts",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "تشكيلة واسعة من التمور الفاخرة ذات الجودة العالمية وأطيب الحلويات الشعبية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "BasiqatAlJazira.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Basiqat+Al+Jazira+Dates+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "red-cherry-sweets",
+    "name_ar": "ريد شيري للحلويات",
+    "name_en": "Red Cherry Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات هندية",
+    "category_en": "desserts",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "حلويات هندية تقليدية تشمل جولاب جامون وبرفي وسناكات هندية مالحة وحلوة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "sources": [
+      "HungerStation"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Red+Cherry+Sweets+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "pastel-cake-shop",
+    "name_ar": "باستيل",
+    "name_en": "Pastel Cake Shop",
+    "category": "desserts",
+    "category_ar": "كيك",
+    "category_en": "desserts",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "كيك وبراونيز وكب كيك وكيكات عيد ميلاد مع توصيل نفس اليوم وخصومات حتى 50%",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "sources": [
+      "Pastel-SA.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pastel+Cake+Shop+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "avon-cake",
+    "name_ar": "أفون كيك",
+    "name_en": "Avon Cake",
+    "category": "desserts",
+    "category_ar": "كيك",
+    "category_en": "desserts",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "أفضل محل كيك بالرياض يقدم كيكات أعياد ميلاد بتصاميم رائعة ونكهات لذيذة مع توصيل سريع",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "Avon-Cake.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Avon+Cake+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "al-daar-healthy-sweets",
+    "name_ar": "الدار للحلويات الصحية",
+    "name_en": "Al Daar Healthy Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات صحية",
+    "category_en": "desserts",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "حلويات صحية معتمدة خالية من الغلوتين وكيتو بدقيق اللوز وجوز الهند لمرضى الحساسية والسكر",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "sources": [
+      "AlDaarSweets.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Daar+Healthy+Sweets+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "snaf-healthy-sweets",
+    "name_ar": "سناف حلويات صحية",
+    "name_en": "Snaf Healthy Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات صحية",
+    "category_en": "desserts",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "متجر منتجات صحية خالية من السكر والكربوهيدرات ومنتجات كيتو وسناك بروتين وبسكويت شوفان",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "sources": [
+      "Snaf.co"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Snaf+Healthy+Sweets+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "kabir-sweets",
+    "name_ar": "حلويات كابر",
+    "name_en": "Kabir Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "أكبر صالة متخصصة في الحلويات والمكسرات والفشارات منذ 2014 مع قسم دايت صحي",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "CabirSA.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kabir+Sweets+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "munch-bakery-riyadh",
+    "name_ar": "منش بيكري",
+    "name_en": "Munch Bakery",
+    "category": "desserts",
+    "category_ar": "مخبوزات وكيك",
+    "category_en": "desserts",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "من أشهر مخابز الرياض يقدم كيك وكرواسون ومعجنات بتصاميم عصرية وجودة عالية",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "sources": [
+      "Wanderlog 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Munch+Bakery+Riyadh",
+    "district": "الرياض",
+    "lat": 24.7,
+    "lng": 46.69
+  },
+  {
+    "id": "bundt-bakery-riyadh",
+    "name_ar": "بندت بيكري",
+    "name_en": "Bundt Bakery",
+    "category": "desserts",
+    "category_ar": "مخبوزات وكيك",
+    "category_en": "desserts",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مخبوزات راقية متخصصة في كيك البندت بنكهات غنية وتشيز كيك مميز",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "sources": [
+      "Wanderlog 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bundt+Bakery+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "sugarmoo-riyadh",
+    "name_ar": "شوقرمو",
+    "name_en": "SugarMoo Desserts",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "حلويات مبتكرة بتصاميم فنية خيالية مع إبداعات فريدة في عالم الكيك والحلويات",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "sources": [
+      "Wanderlog 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=SugarMoo+Desserts+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "halawiyat-al-hallab",
+    "name_ar": "حلويات الحلاب",
+    "name_en": "Al Hallab Sweets 1881",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "علامة امتياز للحلويات الشرقية تقدم كلاج وحلاوة جبن وبقلاوة ومعمول وجزرية وكنافة ومفروكة",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "sources": [
+      "TimeOut Riyadh 2025",
+      "Saudi Mall 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Hallab+Sweets+1881+Riyadh",
+    "district": "الرياض",
+    "lat": 24.69,
+    "lng": 46.68
+  },
+  {
+    "id": "otaiqah-dates-market",
+    "name_ar": "سوق التمور عتيقة",
+    "name_en": "Otaiqah Dates Market",
+    "category": "desserts",
+    "category_ar": "سوق تمور",
+    "category_en": "desserts",
+    "neighborhood": "حي العزيزية",
+    "neighborhood_en": "Al Aziziyah",
+    "description_ar": "أكبر سوق لبيع التمور بشرق الرياض يضم عشرات المتاجر المتخصصة في التمور والشعبيات السعودية",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "sources": [
+      "Visit Riyadh",
+      "Otaiqah Season"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Otaiqah+Dates+Market+Riyadh",
+    "district": "الرياض",
+    "lat": 24.62,
+    "lng": 46.77
+  },
+  {
+    "id": "bateel-riyadh",
+    "name_ar": "بتيل",
+    "name_en": "Bateel Dates & Cafe",
+    "category": "desserts",
+    "category_ar": "تمور فاخرة",
+    "category_en": "desserts",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "علامة عالمية للتمور العضوية الفاخرة المحشية والمذهبة من مزارع الغاط شمال الرياض",
+    "google_rating": 4.6,
+    "price_level": "$$$",
+    "sources": [
+      "Bateel.com",
+      "Soul of Saudi 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bateel+Dates+Riyadh",
+    "district": "الرياض",
+    "lat": 24.7,
+    "lng": 46.69
+  },
+  {
+    "id": "duka-bakery-house",
+    "name_ar": "دوكة بيكري هاوس",
+    "name_en": "Duka Bakery House",
+    "category": "desserts",
+    "category_ar": "مخبوزات وكيك",
+    "category_en": "desserts",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مخبوزات وحلويات عصرية تشمل كيك وكرواسون وحلويات غربية بجودة ممتازة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "Raheba 2023"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Duka+Bakery+House+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "marinon-chocola",
+    "name_ar": "مرينون شوكولا",
+    "name_en": "Marinon Chocola",
+    "category": "desserts",
+    "category_ar": "شوكولاتة",
+    "category_en": "desserts",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "شوكولاتة فاخرة وحلويات بلجيكية بتصاميم راقية مناسبة للهدايا والمناسبات",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "sources": [
+      "Raheba 2023"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Marinon+Chocola+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "riyadh-outlet-mall",
+    "name_ar": "الرياض أوتلت مول",
+    "name_en": "Riyadh Outlet Mall",
+    "category": "malls",
+    "category_ar": "أوتلت",
+    "category_en": "malls",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مركز أوتلت ضخم بمساحة 84 كم² يضم 150 متجر ماركات عالمية بخصومات حتى 90% مع مطاعم ومرافق ترفيهية",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "sources": [
+      "Dar Al Arkan",
+      "Saudi Gates 2025",
+      "Occupi"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Outlet+Mall",
+    "district": "الرياض",
+    "lat": 24.65,
+    "lng": 46.75
+  },
+  {
+    "id": "the-outlet-event-riyadh",
+    "name_ar": "ذا أوتلت الرياض",
+    "name_en": "The Outlet Riyadh Event",
+    "category": "malls",
+    "category_ar": "أوتلت موسمي",
+    "category_en": "malls",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فعالية أوتلت سنوية تعود بنسخة جديدة مع تجربة تسوق فريدة وخصومات كبيرة على ماركات عالمية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Outlet+Riyadh+Event",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "andalus-mall-riyadh",
+    "name_ar": "الأندلس مول",
+    "name_en": "Andalus Mall Riyadh",
+    "category": "malls",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مول شهير بمساحة 30 ألف متر مربع من 6 طوابق يضم أكثر من 350 متجر ومطاعم وترفيه",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "sources": [
+      "ArbDAR 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Andalus+Mall+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "othaim-mall-rabwa",
+    "name_ar": "العثيم مول الربوة",
+    "name_en": "Al Othaim Mall Rabwa",
+    "category": "malls",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي الربوة",
+    "neighborhood_en": "Ar Rabwah",
+    "description_ar": "مول متكامل بديكور فريد مع أماكن مخصصة للأطفال ومحلات متنوعة ومطاعم وكافيهات",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "sources": [
+      "ArbDAR 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Othaim+Mall+Rabwa+Riyadh",
+    "district": "الرياض",
+    "lat": 24.7,
+    "lng": 46.72
+  }
+]

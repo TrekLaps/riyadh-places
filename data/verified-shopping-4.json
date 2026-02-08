@@ -1,0 +1,384 @@
+[
+  {
+    "id": "maison-des-fleurs-riyadh",
+    "name_ar": "ميزون دي فلور",
+    "name_en": "Maison Des Fleurs",
+    "category": "shopping",
+    "category_ar": "محلات ورد",
+    "category_en": "shopping",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "محل ورد فاخر يقدم زهور طازجة وورود طويلة العمر وهدايا مع توصيل في نفس اليوم",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "sources": [
+      "MaisonDesFleurs KSA"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Maison+Des+Fleurs+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "bliss-flower-boutique",
+    "name_ar": "بلس فلاور بوتيك",
+    "name_en": "Bliss Flower Boutique",
+    "category": "shopping",
+    "category_ar": "محلات ورد",
+    "category_en": "shopping",
+    "neighborhood": "حي التخصصي",
+    "neighborhood_en": "Al Takhassousi",
+    "description_ar": "بوتيك ورد فاخر يقدم باقات راقية وتنسيقات زهور لجميع المناسبات مع توصيل سريع",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "sources": [
+      "Bliss Flowers KSA"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bliss+Flower+Boutique+Riyadh",
+    "district": "الرياض",
+    "lat": 24.73,
+    "lng": 46.65
+  },
+  {
+    "id": "bloom-inn-riyadh",
+    "name_ar": "بلوم إن",
+    "name_en": "Bloom Inn",
+    "category": "shopping",
+    "category_ar": "محلات ورد",
+    "category_en": "shopping",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "ورد طبيعي بالجملة من ورود حمراء وأوركيد أبيض وزنبق أصفر مع توصيل بنفس اليوم",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "sources": [
+      "BloomInn SA"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bloom+Inn+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "florist-sa",
+    "name_ar": "فلوريست",
+    "name_en": "Florist SA",
+    "category": "shopping",
+    "category_ar": "محلات ورد",
+    "category_en": "shopping",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "متجر ورد وهدايا تناسب كل الميزانيات مع تشكيلة متنوعة وشحن مجاني فوق 199 ريال",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "Florist.sa"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Florist+SA+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "iyad-flowers",
+    "name_ar": "إياد فلاورز",
+    "name_en": "Iyad Flowers",
+    "category": "shopping",
+    "category_ar": "محلات ورد",
+    "category_en": "shopping",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "محل ورد أونلاين توصيل ورد وهدايا في الرياض باقات متنوعة للمناسبات والهدايا",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "sources": [
+      "Flowers.sa"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Iyad+Flowers+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "bloomsward-riyadh",
+    "name_ar": "بلومزوارد",
+    "name_en": "Bloomsward",
+    "category": "shopping",
+    "category_ar": "محلات ورد",
+    "category_en": "shopping",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "زهور فاخرة وتنسيقات جميلة وحزم هدايا لجميع المناسبات مع توصيل نفس اليوم",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "Bloomsward.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bloomsward+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "store-flowers-riyadh",
+    "name_ar": "ستور فلاورز",
+    "name_en": "Store Flowers",
+    "category": "shopping",
+    "category_ar": "محلات ورد",
+    "category_en": "shopping",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "باقات زهور طبيعية واصطناعية مناسبة لحفلات الزفاف والمناسبات الخاصة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "Saudi Gates 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Store+Flowers+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "achicthing-gifts",
+    "name_ar": "أشيك ثنق",
+    "name_en": "A Chic Thing Gifts",
+    "category": "shopping",
+    "category_ar": "محلات هدايا",
+    "category_en": "shopping",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "متجر هدايا بتصميم ميل بوكسز لإرسال هدايا لأي شخص بأي وقت وبأي مكان في السعودية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "AChicThing.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=A+Chic+Thing+Gifts+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "hadaya-mithaliya",
+    "name_ar": "هدايا مثالية",
+    "name_en": "Hadaya Mithaliya",
+    "category": "shopping",
+    "category_ar": "محلات هدايا",
+    "category_en": "shopping",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "خبرة منذ 2015 في تقديم أرقى الهدايا بأسعار مناسبة مع توصيل داخل وخارج الرياض لجميع المناسبات",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "sources": [
+      "Gifts-RF.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Hadaya+Mithaliya+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "lovely-lis-gifts",
+    "name_ar": "لفلي ليس",
+    "name_en": "Lovely Lis",
+    "category": "shopping",
+    "category_ar": "محلات هدايا",
+    "category_en": "shopping",
+    "neighborhood": "حي حياة مول",
+    "neighborhood_en": "Hayat Mall",
+    "description_ar": "متجر هدايا أنيقة في حياة مول يقدم إكسسوارات وهدايا مناسبة لجميع المناسبات",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "Al Mrj3 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lovely+Lis+Hayat+Mall+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "alhadaya-mall",
+    "name_ar": "الهدايا مول",
+    "name_en": "Al Hadaya Mall",
+    "category": "shopping",
+    "category_ar": "أثاث وهدايا",
+    "category_en": "shopping",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "أثاث منزلي ومفروشات فخمة وتحف وهدايا وكل ما يحتاجه المنزل مع تسوق أونلاين",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "sources": [
+      "AlHadayaMall.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Hadaya+Mall+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "nice-furniture-riyadh",
+    "name_ar": "نايس للأثاث",
+    "name_en": "Nice Furniture",
+    "category": "shopping",
+    "category_ar": "محلات أثاث",
+    "category_en": "shopping",
+    "neighborhood": "حي الشهداء",
+    "neighborhood_en": "Ash Shuhada",
+    "description_ar": "أثاث منزلي متنوع في غرناطة مول مع تصاميم عصرية وخدمة توصيل شاملة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "sources": [
+      "Manzilak 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nice+Furniture+Granada+Mall+Riyadh",
+    "district": "الرياض",
+    "lat": 24.74,
+    "lng": 46.81
+  },
+  {
+    "id": "modern-home-furniture",
+    "name_ar": "مودرن هوم",
+    "name_en": "Modern Home Furniture",
+    "category": "shopping",
+    "category_ar": "محلات أثاث",
+    "category_en": "shopping",
+    "neighborhood": "حي الملك عبدالله",
+    "neighborhood_en": "King Abdullah",
+    "description_ar": "أثاث عصري بتصاميم مبتكرة يناسب المنازل والمكاتب مع خدمة توصيل وتركيب",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "sources": [
+      "Manzilak 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Modern+Home+Furniture+Riyadh",
+    "district": "الرياض",
+    "lat": 24.75,
+    "lng": 46.69
+  },
+  {
+    "id": "woody-furniture-riyadh",
+    "name_ar": "وودي للأثاث",
+    "name_en": "Woody Furniture",
+    "category": "shopping",
+    "category_ar": "محلات أثاث",
+    "category_en": "shopping",
+    "neighborhood": "حي الحمراء",
+    "neighborhood_en": "Al Hamra",
+    "description_ar": "أثاث خشبي فاخر بتصاميم كلاسيكية وعصرية مع جودة تصنيع ممتازة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "Manzilak 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Woody+Furniture+Riyadh",
+    "district": "الرياض",
+    "lat": 24.72,
+    "lng": 46.73
+  },
+  {
+    "id": "bait-riyadh-furniture",
+    "name_ar": "بيت الرياض للأثاث",
+    "name_en": "Bait Al Riyadh Furniture",
+    "category": "shopping",
+    "category_ar": "محلات أثاث",
+    "category_en": "shopping",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "أثاث منزلي متكامل بتصاميم عصرية وكلاسيكية مع خدمات تصميم داخلي",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "sources": [
+      "Manzilak 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bait+Al+Riyadh+Furniture+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "flawerd-gift-riyadh",
+    "name_ar": "فلاورد قفت",
+    "name_en": "Flowered Gift",
+    "category": "shopping",
+    "category_ar": "ورد وهدايا",
+    "category_en": "shopping",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "هدايا وباقات ورد متنوعة مع توصيل في نفس اليوم داخل الرياض لجميع المناسبات",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "sources": [
+      "FlowerGift11.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Flowered+Gift+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "sawariikh-market",
+    "name_ar": "سوق الصواريخ",
+    "name_en": "Sawariikh Market",
+    "category": "shopping",
+    "category_ar": "سوق شعبي",
+    "category_en": "shopping",
+    "neighborhood": "حي الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "سوق شعبي يوفر أثاث بأسعار مخفضة وخيارات متنوعة من مستعمل وجديد",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "sources": [
+      "Manzilak 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sawariikh+Market+Riyadh",
+    "district": "الرياض",
+    "lat": 24.71,
+    "lng": 46.67
+  },
+  {
+    "id": "dates-market-east-riyadh",
+    "name_ar": "سوق التمور شرق الرياض",
+    "name_en": "East Riyadh Dates Market",
+    "category": "shopping",
+    "category_ar": "سوق تمور",
+    "category_en": "shopping",
+    "neighborhood": "حي العزيزية",
+    "neighborhood_en": "Al Aziziyah",
+    "description_ar": "أكبر سوق تمور وشعبيات بشرق الرياض قرب كبري حراج بن قاسم مع تنوع كبير في الأصناف",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "sources": [
+      "HayaTour",
+      "TikTok Viral"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=East+Riyadh+Dates+Market",
+    "district": "الرياض",
+    "lat": 24.62,
+    "lng": 46.77
+  },
+  {
+    "id": "riyadh-gallery-gifts",
+    "name_ar": "هدايا الرياض جاليري",
+    "name_en": "Riyadh Gallery Gift Shops",
+    "category": "shopping",
+    "category_ar": "محلات هدايا",
+    "category_en": "shopping",
+    "neighborhood": "حي الملك فهد",
+    "neighborhood_en": "King Fahd",
+    "description_ar": "محلات هدايا متنوعة في الرياض جاليري تقدم مباخر وحقائب وورود ولوحات وهدايا أطفال",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "sources": [
+      "Al Mrj3 2024",
+      "5arij 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Gallery+Gift+Shops+Riyadh",
+    "district": "الرياض",
+    "lat": 24.72,
+    "lng": 46.68
+  }
+]
