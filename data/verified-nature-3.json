@@ -1,0 +1,554 @@
+[
+  {
+    "id": "mawan-hidden-canyon",
+    "name_ar": "وادي معاوان المخفي",
+    "name_en": "Mawan Hidden Canyon",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South of Riyadh",
+    "description_ar": "وادي مخفي بتكوينات صخرية رائعة على بعد 100 كم جنوب الرياض - لا يُرى إلا بالوقوف عند حافته",
+    "google_rating": 4.5,
+    "price_level": "free",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Atlas Obscura",
+      "Tripadvisor 2026",
+      "Arab News"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mawan+Hidden+Canyon+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "هايكنق",
+      "تصوير",
+      "طبيعة"
+    ]
+  },
+  {
+    "id": "jabal-tuwaiq-escarpment",
+    "name_ar": "جبال طويق - المنحدرات",
+    "name_en": "Jabal Tuwaiq Escarpment",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "غرب الرياض",
+    "neighborhood_en": "West of Riyadh",
+    "description_ar": "سلسلة جبلية ضخمة بمنحدرات صخرية وكهوف مخفية وأحافير - مسارات متنوعة من سهلة لصعبة",
+    "google_rating": 4.6,
+    "price_level": "free",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "regencyholidays.com 2025",
+      "visitsaudi.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Jabal+Tuwaiq+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "هايكنق",
+      "تسلق",
+      "مغامرات"
+    ]
+  },
+  {
+    "id": "al-uyaynah-village-wadi",
+    "name_ar": "قرية العيينة ووادها",
+    "name_en": "Al Uyaynah Village and Wadi",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "شمال غرب الرياض",
+    "neighborhood_en": "Northwest of Riyadh",
+    "description_ar": "قرية تاريخية بوديان هادئة محاطة بمنحدرات صخرية ونباتات صحراوية مع مزارع صغيرة",
+    "google_rating": 4.3,
+    "price_level": "free",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "regencyholidays.com 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Uyaynah+Village+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تاريخ",
+      "هايكنق",
+      "استكشاف"
+    ]
+  },
+  {
+    "id": "darb-al-jamal-camel-trail",
+    "name_ar": "درب الجمل",
+    "name_en": "Darb Al-Jamal (Camel Trail)",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "ضواحي الرياض",
+    "neighborhood_en": "Riyadh Outskirts",
+    "description_ar": "مسار قديم منحوت في المنحدرات الصخرية استخدمه التجار والحجاج - تكوينات صخرية على شكل جمل",
+    "google_rating": 4.4,
+    "price_level": "free",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "regencyholidays.com 2025",
+      "Tripadvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Camel+Trail+Darb+Al+Jamal+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "هايكنق",
+      "تاريخ",
+      "مغامرات"
+    ]
+  },
+  {
+    "id": "al-ammariyah-hills",
+    "name_ar": "تلال العمارية",
+    "name_en": "Al Ammariyah Hills",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "80 كم شمال الرياض",
+    "neighborhood_en": "80 km north of Riyadh",
+    "description_ar": "منحدرات حجرية رملية بإطلالات صحراوية واسعة ومسارات هادئة - مثالية لنزهة الغروب",
+    "google_rating": 4.3,
+    "price_level": "free",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "SoulofSaudi 2026",
+      "Instagram"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Ammariyah+Hills+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "غروب",
+      "تصوير",
+      "هايكنق"
+    ]
+  },
+  {
+    "id": "wadi-sulay-saqr-trail",
+    "name_ar": "وادي صلاي - مسار صقر",
+    "name_en": "Wadi Sulay (Saqr Trail)",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "وادي جاف بمسار مسطح مثالي للمشي الهادئ مع تكوينات صخرية ونباتات صحراوية ومراقبة الطيور",
+    "google_rating": 4.2,
+    "price_level": "free",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "regencyholidays.com 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Sulay+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "طبيعة",
+      "مراقبة طيور"
+    ]
+  },
+  {
+    "id": "wadi-hanifah-walkway-extended",
+    "name_ar": "ممشى وادي حنيفة الممتد",
+    "name_en": "Wadi Hanifah Extended Walkway",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "وادي حنيفة",
+    "neighborhood_en": "Wadi Hanifah",
+    "description_ar": "ممشى يمتد 120 كم مع نخيل وبحيرات ومسارات دراجات - أجواء هادئة للهروب من صخب المدينة",
+    "google_rating": 4.5,
+    "price_level": "free",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "regencyholidays.com 2025",
+      "visitsaudi.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Hanifah+Walkway+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "دراجات",
+      "طبيعة"
+    ]
+  },
+  {
+    "id": "al-oyaynah-dam-nature",
+    "name_ar": "سد العيينة الطبيعي",
+    "name_en": "Al Oyaynah Dam Nature Area",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "شمال غرب الرياض",
+    "neighborhood_en": "Northwest Riyadh",
+    "description_ar": "منطقة طبيعية حول السد مع مياه موسمية ونباتات خضراء ومسارات للمشي",
+    "google_rating": 4.1,
+    "price_level": "free",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "AllTrails",
+      "Wikiloc"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Oyaynah+Dam+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي"
+    ]
+  },
+  {
+    "id": "sadus-dam-area",
+    "name_ar": "سد سدوس",
+    "name_en": "Sadus Dam Area",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "شمال غرب الرياض",
+    "neighborhood_en": "Northwest Riyadh",
+    "description_ar": "منطقة سد قرب جبال طويق بمسارات صخرية وإطلالات صحراوية جميلة",
+    "google_rating": 4.2,
+    "price_level": "free",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "regencyholidays.com 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sadus+Dam+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "هايكنق",
+      "طبيعة"
+    ]
+  },
+  {
+    "id": "thadiq-hiking-trail",
+    "name_ar": "مسار هايكنق ثادق",
+    "name_en": "Thadiq Town Hiking Trail",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "ثادق",
+    "neighborhood_en": "Thadiq",
+    "description_ar": "مسار طويل (+40 كم) بعدة مسارات فرعية حول بلدة ثادق شمال الرياض - مناظر طبيعية متنوعة",
+    "google_rating": 4.3,
+    "price_level": "free",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Wikiloc"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Thadiq+Hiking+Trail+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "هايكنق طويل",
+      "مغامرات"
+    ]
+  },
+  {
+    "id": "king-salman-park-nature",
+    "name_ar": "حديقة الملك سلمان الكبرى",
+    "name_en": "King Salman Park (New Development)",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "وسط الرياض",
+    "neighborhood_en": "Central Riyadh",
+    "description_ar": "من أكبر مشاريع الحدائق في المنطقة - مركز بيئي وترفيهي ضخم قيد التطوير",
+    "google_rating": 4.5,
+    "price_level": "free",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Mosafeir 2025",
+      "alriyadh.gov.sa"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=King+Salman+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حدائق",
+      "عائلات",
+      "طبيعة"
+    ]
+  },
+  {
+    "id": "sports-boulevard-green",
+    "name_ar": "المسار الرياضي - المساحات الخضراء",
+    "name_en": "Sports Boulevard Green Spaces",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "وسط الرياض",
+    "neighborhood_en": "Central Riyadh",
+    "description_ar": "مشروع ضخم يمتد 135 كم بمساحات خضراء ومسارات مشي وركض ودراجات عبر المدينة",
+    "google_rating": 4.4,
+    "price_level": "free",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "alriyadh.gov.sa 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sports+Boulevard+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "رياضة",
+      "دراجات"
+    ]
+  },
+  {
+    "id": "riyadh-new-parks-2025",
+    "name_ar": "حدائق الرياض الجديدة 2025",
+    "name_en": "Riyadh New Parks 2025 (25 Parks)",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "أحياء متعددة",
+    "neighborhood_en": "Various Districts",
+    "description_ar": "25 حديقة جديدة افتتحت عام 2025 في أحياء متفرقة - بحضانات أطفال وملاعب رياضية ومسارات دراجات",
+    "google_rating": 4.2,
+    "price_level": "free",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "spa.gov.sa 2025",
+      "Akhbaar24 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=New+Parks+Riyadh+2025",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "أطفال",
+      "رياضة"
+    ]
+  },
+  {
+    "id": "al-hair-dam-area",
+    "name_ar": "منطقة سد الحاير",
+    "name_en": "Al Hair Dam Recreation Area",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "منطقة ترفيهية حول سد الحاير مع بحيرة ومناطق تنزه وطبيعة خضراء",
+    "google_rating": 4.1,
+    "price_level": "free",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Hair+Dam+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تنزه",
+      "طبيعة"
+    ]
+  },
+  {
+    "id": "diriyah-wadi-nature-walk",
+    "name_ar": "ممشى وادي الدرعية الطبيعي",
+    "name_en": "Diriyah Wadi Nature Walk",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "مسارات مشي طبيعية على ضفاف وادي حنيفة مع أبنية طينية مرممة وحدائق نخيل",
+    "google_rating": 4.4,
+    "price_level": "free",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "regencyholidays.com 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Diriyah+Wadi+Nature+Walk",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "تاريخ",
+      "طبيعة"
+    ]
+  },
+  {
+    "id": "howtat-bani-tamim-nature",
+    "name_ar": "حوطة بني تميم الطبيعية",
+    "name_en": "Howtat Bani Tamim Natural Area",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South of Riyadh",
+    "description_ar": "منطقة طبيعية بتكوينات صخرية وأودية جميلة على طريق حوطة بني تميم جنوب الرياض",
+    "google_rating": 4.2,
+    "price_level": "free",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Tripadvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Howtat+Bani+Tamim+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "استكشاف",
+      "طبيعة"
+    ]
+  },
+  {
+    "id": "al-fawwaz-nature-area",
+    "name_ar": "منطقة الفواز الطبيعية",
+    "name_en": "Al Fawwaz Nature Area",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "ضواحي الرياض",
+    "neighborhood_en": "Riyadh Outskirts",
+    "description_ar": "منطقة طبيعية بعيدة عن المدينة مع حدائق ومساحات خضراء مثالية للتخييم",
+    "google_rating": 4.0,
+    "price_level": "free",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Booking.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Fawwaz+Nature+Area+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تخييم",
+      "طبيعة"
+    ]
+  },
+  {
+    "id": "gubaloovka-ohv-trail",
+    "name_ar": "مسار جوبالوفكا للطرق الوعرة",
+    "name_en": "Gubaloovka OHV Trail",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "قرب الرياض",
+    "neighborhood_en": "Near Riyadh",
+    "description_ar": "مسار للطرق الوعرة والتخييم بطول 95 كم مع بحيرة - مصنف متوسط الصعوبة",
+    "google_rating": 4.3,
+    "price_level": "free",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "AllTrails"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Gubaloovka+OHV+Trail+Saudi+Arabia",
+    "district": "الرياض",
+    "perfect_for": [
+      "طرق وعرة",
+      "تخييم",
+      "بحيرة"
+    ]
+  },
+  {
+    "id": "sandboarding-red-dunes",
+    "name_ar": "التزلج على الرمال - الكثبان الحمراء",
+    "name_en": "Sandboarding Red Sand Dunes",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الثمامة",
+    "neighborhood_en": "Thumamah",
+    "description_ar": "تجربة التزلج على الكثبان الرملية الحمراء مع مغامرة تسلق الكثبان والتخييم",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "almatar.com 2025",
+      "regencyholidays.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sandboarding+Red+Sand+Dunes+Thumamah+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مغامرات",
+      "رياضة"
+    ]
+  },
+  {
+    "id": "al-kharj-springs",
+    "name_ar": "عيون الخرج",
+    "name_en": "Al Kharj Springs Nature",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الخرج",
+    "neighborhood_en": "Al Kharj",
+    "description_ar": "عيون مائية طبيعية في الخرج مع مناظر خضراء ومزارع تاريخية",
+    "google_rating": 4.2,
+    "price_level": "free",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "visitsaudi.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Kharj+Springs",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "تاريخ"
+    ]
+  },
+  {
+    "id": "jax-park-diriyah-green",
+    "name_ar": "حديقة جاكس الدرعية الخضراء",
+    "name_en": "JAX Park Diriyah Green Spaces",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "مساحات خضراء ومسارات مشي في حي جاكس الإبداعي بين الفن والطبيعة",
+    "google_rating": 4.3,
+    "price_level": "free",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "jaxdistrict.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=JAX+Park+Diriyah+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فن",
+      "مشي",
+      "طبيعة"
+    ]
+  },
+  {
+    "id": "dq-gardens-expanded",
+    "name_ar": "حدائق الحي الدبلوماسي الموسعة",
+    "name_en": "DQ Gardens & Walking Trails (Expanded)",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "حدائق الحي الدبلوماسي الموسعة مع مسارات مشي وجري ودراجات وحدائق نباتية",
+    "google_rating": 4.5,
+    "price_level": "free",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "visitsaudi.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Diplomatic+Quarter+Gardens+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "رياضة",
+      "حدائق"
+    ]
+  }
+]

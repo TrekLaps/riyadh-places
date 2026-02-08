@@ -1,0 +1,223 @@
+[
+  {
+    "id": "hijrah-exhibition-national-museum",
+    "name_ar": "معرض الهجرة - المتحف الوطني",
+    "name_en": "The Hijrah Exhibition - National Museum",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي المربع",
+    "neighborhood_en": "Al Murabba",
+    "description_ar": "معرض الهجرة في المتحف الوطني بالتعاون مع دار الفنون الإسلامية ومكتبات الأوقاف يعرض قطع أثرية نادرة",
+    "google_rating": 4.6,
+    "price_level": "$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "engage.moc.gov.sa"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=National+Museum+Hijrah+Exhibition+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تاريخ إسلامي",
+      "تراث"
+    ]
+  },
+  {
+    "id": "diriyah-museum-new",
+    "name_ar": "متحف الدرعية الجديد",
+    "name_en": "Diriyah Museum (New)",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "متحف جديد في بوابة الدرعية يروي تاريخ الدولة السعودية الأولى بتقنيات تفاعلية",
+    "google_rating": 4.6,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "diriyah.sa"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Diriyah+Museum+New+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تاريخ",
+      "تراث"
+    ]
+  },
+  {
+    "id": "hafez-gallery",
+    "name_ar": "جاليري حافظ",
+    "name_en": "Hafez Gallery",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "جاليري فنية مشاركة في أسبوع الفن بالرياض 2025 بمعارض لفنانين عرب وعالميين",
+    "google_rating": 4.4,
+    "price_level": "free",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Art Week Riyadh 2025",
+      "artinthemiddle.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Hafez+Gallery+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فن",
+      "جاليري"
+    ]
+  },
+  {
+    "id": "noor-riyadh-installations",
+    "name_ar": "نور الرياض - منشآت ضوئية",
+    "name_en": "Noor Riyadh Light Art Installations",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "متعدد المواقع",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "أكبر مهرجان فن ضوئي في العالم مع منشآت فنية دائمة ومؤقتة في أنحاء الرياض",
+    "google_rating": 4.7,
+    "price_level": "free",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "riyadhart.sa",
+      "TimeOut Riyadh"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Noor+Riyadh+Light+Art",
+    "district": "الرياض",
+    "perfect_for": [
+      "فن ضوئي",
+      "تصوير",
+      "ليلي"
+    ]
+  },
+  {
+    "id": "athr-gallery-jax-riyadh",
+    "name_ar": "جاليري أثر - جاكس",
+    "name_en": "ATHR Gallery JAX Riyadh",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "جاكس ديستركت",
+    "neighborhood_en": "JAX District",
+    "description_ar": "أبرز جاليري فنية سعودية للفن المعاصر تأسست 2009 مع فرع في جاكس الرياض وفنانين محليين ودوليين",
+    "google_rating": 4.6,
+    "price_level": "free",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "athrart.com",
+      "jaxdistrict.com",
+      "The National"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=ATHR+Gallery+JAX+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فن معاصر",
+      "جاليري"
+    ]
+  },
+  {
+    "id": "lift-gallery-jax",
+    "name_ar": "جاليري ليفت - جاكس",
+    "name_en": "Lift Gallery JAX Riyadh",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "جاكس ديستركت",
+    "neighborhood_en": "JAX District",
+    "description_ar": "جاليري فنية في حي جاكس الإبداعي تعرض معارض وورش عمل ونقاشات فنية",
+    "google_rating": 4.3,
+    "price_level": "free",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "jaxdistrict.com",
+      "Arab News Art Week"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lift+Gallery+JAX+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فن",
+      "ورش عمل"
+    ]
+  },
+  {
+    "id": "jax-flavors-food-art",
+    "name_ar": "جاكس فليفرز",
+    "name_en": "JAX Flavors Food & Art Space",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "جاكس ديستركت",
+    "neighborhood_en": "JAX District",
+    "description_ar": "فضاء لدعم رواد الأعمال في عالم الطبخ مع مفاهيم طعام جريئة في نظام جاكس الثقافي",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "jaxdistrict.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=JAX+Flavors+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طعام إبداعي",
+      "ثقافة"
+    ]
+  },
+  {
+    "id": "abstract-art-gallery-riyadh",
+    "name_ar": "جاليري الفن التجريدي",
+    "name_en": "Abstract Art Gallery Riyadh",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "As Sahafah",
+    "description_ar": "جاليري متخصصة في الفن التجريدي السعودي والعربي المعاصر",
+    "google_rating": 4.1,
+    "price_level": "free",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Abstract+Art+Gallery+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فن تجريدي"
+    ]
+  },
+  {
+    "id": "salwa-palace-museum",
+    "name_ar": "قصر سلوى",
+    "name_en": "Salwa Palace Museum",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "قصر تاريخي مرمم في التريف يعرض تاريخ الدولة السعودية الأولى وحياة الحكام",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "diriyah.sa"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Salwa+Palace+Diriyah+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تاريخ",
+      "تراث"
+    ]
+  }
+]

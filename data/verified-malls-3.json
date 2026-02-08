@@ -1,0 +1,228 @@
+[
+  {
+    "id": "solitaire-mall-riyadh",
+    "name_ar": "سوليتير مول الرياض",
+    "name_en": "Solitaire Mall Riyadh",
+    "category": "malls",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "وسط الرياض",
+    "neighborhood_en": "Central Riyadh",
+    "description_ar": "أحدث مول فاخر في الرياض بتصميم معماري مستوحى من أبراج الرياح مع علامات تجارية عالمية أولى في السعودية",
+    "google_rating": 4.6,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025",
+      "visitsaudi.com",
+      "cpp-luxury.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Solitaire+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق فاخر",
+      "مطاعم",
+      "سبا"
+    ]
+  },
+  {
+    "id": "via-riyadh-complex",
+    "name_ar": "مجمع ڤيا رياض",
+    "name_en": "VIA Riyadh Complex",
+    "category": "malls",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "وجهة عالمية فاخرة تضم أرقى العلامات التجارية ومطاعم عالمية وسينما وفندق سانت ريجيس",
+    "google_rating": 4.7,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "SoulofSaudi 2026",
+      "viariyadh.com",
+      "Riyadh Season"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=VIA+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق فاخر",
+      "مطاعم عالمية",
+      "سينما"
+    ]
+  },
+  {
+    "id": "diriyah-gate-district",
+    "name_ar": "حي بوابة الدرعية",
+    "name_en": "Diriyah Gate District",
+    "category": "malls",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "مشروع ضخم يجمع بين التراث والتسوق الفاخر والمطاعم والفنادق في قلب الدرعية",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "diriyah.sa",
+      "SoulofSaudi 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Diriyah+Gate+District",
+    "district": "الرياض",
+    "perfect_for": [
+      "تراث",
+      "تسوق فاخر",
+      "سياحة"
+    ]
+  },
+  {
+    "id": "al-mousa-center",
+    "name_ar": "مركز الموسى",
+    "name_en": "Al Mousa Center",
+    "category": "malls",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "مركز ثقافي وتجاري في قلب الرياض يستضيف معارض فنية وفعاليات ثقافية مع متاجر متنوعة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Art Week Riyadh 2025",
+      "artinthemiddle.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Mousa+Center+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فن",
+      "ثقافة",
+      "تسوق"
+    ]
+  },
+  {
+    "id": "riyadh-front-expansion",
+    "name_ar": "الرياض فرونت - التوسع",
+    "name_en": "Riyadh Front Expansion",
+    "category": "malls",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "توسع مركز الرياض فرونت للمعارض والمؤتمرات مع إضافة متاجر ومطاعم جديدة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "riyadhfront.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Front+Exhibition+Conference+Center",
+    "district": "الرياض",
+    "perfect_for": [
+      "معارض",
+      "مؤتمرات",
+      "تسوق"
+    ]
+  },
+  {
+    "id": "al-batha-center-renovation",
+    "name_ar": "مركز البطحاء التجاري المجدد",
+    "name_en": "Al Batha Commercial Center (Renovated)",
+    "category": "malls",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "البطحاء",
+    "neighborhood_en": "Al Batha",
+    "description_ar": "مركز تجاري مجدد في منطقة البطحاء التاريخية مع متاجر متنوعة بأسعار شعبية",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "visitriyadh"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Batha+Commercial+Center+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "أسعار شعبية",
+      "تسوق"
+    ]
+  },
+  {
+    "id": "tala-mall-riyadh",
+    "name_ar": "تالا مول الرياض",
+    "name_en": "Tala Mall Riyadh",
+    "category": "malls",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مول عائلي بمتاجر متنوعة ومطاعم وترفيه مع موقع مناسب شمال الرياض",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tala+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "تسوق"
+    ]
+  },
+  {
+    "id": "sahara-plaza-riyadh",
+    "name_ar": "صحارى بلازا الرياض",
+    "name_en": "Sahara Plaza Riyadh",
+    "category": "malls",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "As Sahafah",
+    "description_ar": "مركز تجاري بمتاجر متنوعة ومطاعم في منطقة الصحافة شمال الرياض",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sahara+Plaza+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق"
+    ]
+  },
+  {
+    "id": "kayan-square-mall",
+    "name_ar": "مول كيان سكوير",
+    "name_en": "Kayan Square Mall",
+    "category": "malls",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "An Narjis",
+    "description_ar": "مول عصري بتصميم حديث مع متاجر ومطاعم ومقاهي في شمال الرياض",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kayan+Square+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق",
+      "مقاهي"
+    ]
+  }
+]

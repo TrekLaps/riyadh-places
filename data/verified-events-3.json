@@ -1,0 +1,322 @@
+[
+  {
+    "id": "riyadh-season-2025-2026",
+    "name_ar": "موسم الرياض 2025-2026",
+    "name_en": "Riyadh Season 2025-2026",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "متعدد المواقع",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "أكبر موسم ترفيهي في المنطقة مع فعاليات وحفلات ومطاعم وتجارب في عدة مواقع",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Riyadh Season Official",
+      "X @RiyadhSeason"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Season+2025",
+    "district": "الرياض",
+    "perfect_for": [
+      "ترفيه",
+      "حفلات",
+      "مطاعم"
+    ]
+  },
+  {
+    "id": "founding-day-celebrations-2026",
+    "name_ar": "احتفالات يوم التأسيس 2026",
+    "name_en": "Saudi Founding Day Celebrations 2026",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "متعدد المواقع",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "احتفالات يوم التأسيس في 22 فبراير مع عروض ثقافية وألعاب نارية وفعاليات تراثية",
+    "google_rating": 4.7,
+    "price_level": "free",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "GEA"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Founding+Day+Celebrations+Riyadh+2026",
+    "district": "الرياض",
+    "perfect_for": [
+      "وطني",
+      "احتفالات",
+      "عائلات"
+    ]
+  },
+  {
+    "id": "riyadh-international-book-fair-2026",
+    "name_ar": "معرض الرياض الدولي للكتاب 2026",
+    "name_en": "Riyadh International Book Fair 2026",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "جامعة الملك سعود",
+    "neighborhood_en": "King Saud University",
+    "description_ar": "معرض كتب دولي سنوي في أكتوبر مع دور نشر عالمية وحوارات مؤلفين وورش للأطفال",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "SoulofSaudi 2026",
+      "lpt.moc.gov.sa"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+International+Book+Fair",
+    "district": "الرياض",
+    "perfect_for": [
+      "كتب",
+      "ثقافة",
+      "عائلات"
+    ]
+  },
+  {
+    "id": "saudi-cup-2026",
+    "name_ar": "كأس السعودية 2026",
+    "name_en": "The Saudi Cup 2026",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "ميدان الملك عبدالعزيز",
+    "neighborhood_en": "King Abdulaziz Racecourse",
+    "description_ar": "أغنى سباق خيل في العالم بجوائز 20 مليون دولار - فعالية رياضية واجتماعية راقية",
+    "google_rating": 4.7,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "thesaudicup.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=King+Abdulaziz+Racecourse+Saudi+Cup",
+    "district": "الرياض",
+    "perfect_for": [
+      "رياضة",
+      "فخامة",
+      "سباق خيل"
+    ]
+  },
+  {
+    "id": "formula-e-diriyah-2026",
+    "name_ar": "فورمولا إي الدرعية 2026",
+    "name_en": "Formula E Diriyah E-Prix 2026",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "سباق فورمولا إي للسيارات الكهربائية في حلبة الدرعية مع فعاليات ترفيهية مصاحبة",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "fiaformulae.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Formula+E+Diriyah+E-Prix+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "سباق سيارات",
+      "رياضة"
+    ]
+  },
+  {
+    "id": "wwe-riyadh-2026",
+    "name_ar": "فعاليات WWE الرياض 2026",
+    "name_en": "WWE Events Riyadh 2026",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "جدة/الرياض",
+    "neighborhood_en": "Jeddah/Riyadh",
+    "description_ar": "عروض المصارعة العالمية WWE في المملكة مع نجوم عالميين وأجواء حماسية",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "wwe.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=WWE+Events+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مصارعة",
+      "ترفيه"
+    ]
+  },
+  {
+    "id": "joy-awards-2026",
+    "name_ar": "حفل جوي أواردز 2026",
+    "name_en": "Joy Awards 2026",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Boulevard Riyadh",
+    "description_ar": "أكبر حفل جوائز ترفيهي عربي مع نجوم الفن والرياضة والمؤثرين",
+    "google_rating": 4.6,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "GEA"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Joy+Awards+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "جوائز",
+      "نجوم",
+      "ترفيه"
+    ]
+  },
+  {
+    "id": "gamers8-riyadh-2026",
+    "name_ar": "قيمرز 8 الرياض 2026",
+    "name_en": "Gamers8 Riyadh 2026",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "بوليفارد الرياض",
+    "neighborhood_en": "Boulevard Riyadh",
+    "description_ar": "مهرجان صيفي ضخم للألعاب الإلكترونية والرياضات الإلكترونية مع بطولات عالمية",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "gamers8.gg"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Gamers8+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ألعاب",
+      "رياضات إلكترونية"
+    ]
+  },
+  {
+    "id": "mdl-beast-soundstorm-2026",
+    "name_ar": "ساوندستورم MDL Beast 2026",
+    "name_en": "MDL Beast Soundstorm 2026",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "بنبان",
+    "neighborhood_en": "Banban Venue",
+    "description_ar": "أكبر مهرجان موسيقي في المنطقة مع DJs عالميين وعروض ضوئية مذهلة في ديسمبر",
+    "google_rating": 4.6,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "mdlbeast.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=MDL+Beast+Soundstorm+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "موسيقى",
+      "مهرجانات"
+    ]
+  },
+  {
+    "id": "riyadh-marathon-2026",
+    "name_ar": "ماراثون الرياض 2026",
+    "name_en": "Riyadh Marathon 2026",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "وسط الرياض",
+    "neighborhood_en": "Central Riyadh",
+    "description_ar": "ماراثون سنوي بمسارات متعددة - مفتوح للجميع من هواة ومحترفين",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "riyadhmarathon.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Marathon",
+    "district": "الرياض",
+    "perfect_for": [
+      "رياضة",
+      "جري"
+    ]
+  },
+  {
+    "id": "riyadh-comic-con-2026",
+    "name_ar": "كومك كون الرياض 2026",
+    "name_en": "Riyadh Comic Con 2026",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "الرياض فرونت",
+    "neighborhood_en": "Riyadh Front",
+    "description_ar": "مهرجان الكوميك والأنمي والألعاب مع كوسبلاي ونجوم من هوليوود واليابان",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "riyadhcomiccon.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Comic+Con",
+    "district": "الرياض",
+    "perfect_for": [
+      "كوميك",
+      "أنمي",
+      "كوسبلاي"
+    ]
+  },
+  {
+    "id": "sea-expo-riyadh-2026",
+    "name_ar": "معرض الترفيه السعودي SEA Expo 2026",
+    "name_en": "SEA Expo Riyadh 2026",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "الرياض فرونت",
+    "neighborhood_en": "Riyadh Front",
+    "description_ar": "معرض صناعة الترفيه السعودية 19-21 مايو 2026 في الرياض فرونت",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "saudientertainmentexpo.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=SEA+Expo+Riyadh+Front",
+    "district": "الرياض",
+    "perfect_for": [
+      "معارض",
+      "صناعة ترفيه"
+    ]
+  },
+  {
+    "id": "merath-expo-museums-2026",
+    "name_ar": "معرض ميراث للمتاحف والتراث 2026",
+    "name_en": "Merath Expo Museums & Heritage 2026",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "الرياض فرونت",
+    "neighborhood_en": "Riyadh Front",
+    "description_ar": "معرض متخصص في قطاع المتاحف والتراث السعودي 19-21 مايو 2026",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "merathexpo.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Merath+Expo+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "متاحف",
+      "تراث"
+    ]
+  }
+]

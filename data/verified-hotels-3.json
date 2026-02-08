@@ -1,0 +1,339 @@
+[
+  {
+    "id": "marriott-executive-apartments-dq",
+    "name_ar": "شقق ماريوت الفندقية الحي الدبلوماسي",
+    "name_en": "Marriott Executive Apartments Riyadh DQ",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "شقق فندقية فاخرة بغرفة وغرفتين وثلاث غرف مع مطبخ كامل وغسالة وواي فاي وخدمة تنظيف",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "marriott.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Marriott+Executive+Apartments+Diplomatic+Quarter+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة طويلة",
+      "عائلات",
+      "أعمال"
+    ]
+  },
+  {
+    "id": "diamond-garden-hotel-airport",
+    "name_ar": "فندق دايموند جاردن",
+    "name_en": "Diamond Garden Hotel",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "قرب المطار",
+    "neighborhood_en": "Near Airport",
+    "description_ar": "فندق قريب من المطار بأسعار مناسبة مع موظفين يتحدثون 3 لغات",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Trip.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Diamond+Garden+Hotel+Riyadh+Airport",
+    "district": "الرياض",
+    "perfect_for": [
+      "مطار",
+      "ميزانية"
+    ]
+  },
+  {
+    "id": "holiday-inn-business-district",
+    "name_ar": "هوليداي إن الرياض حي الأعمال",
+    "name_en": "Holiday Inn Riyadh The Business District",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي الأعمال",
+    "neighborhood_en": "Business District",
+    "description_ar": "فندق بموقع مركزي في حي الأعمال قريب من المطار بخدمات أعمال متكاملة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Traveloka"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Holiday+Inn+Riyadh+Business+District",
+    "district": "الرياض",
+    "perfect_for": [
+      "أعمال",
+      "قرب المطار"
+    ]
+  },
+  {
+    "id": "makarim-riyadh-airport",
+    "name_ar": "فندق مكارم الرياض بجوار المطار",
+    "name_en": "Makarim Riyadh Hotel (Airport)",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "المطار",
+    "neighborhood_en": "Airport",
+    "description_ar": "فندق بجوار مبنى مطار الملك خالد - مثالي للمسافرين والترانزيت",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Reservations.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Makarim+Riyadh+Hotel+Airport",
+    "district": "الرياض",
+    "perfect_for": [
+      "مطار",
+      "ترانزيت"
+    ]
+  },
+  {
+    "id": "narcissus-royal-olaya",
+    "name_ar": "نارسس ذا رويال - العليا",
+    "name_en": "Narcissus The Royal Olaya",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "فندق فاخر على شارع العليا بموقع مركزي قريب من الرياض جاليري مول",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Mosafeir 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Narcissus+Royal+Olaya+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فخامة",
+      "شارع العليا"
+    ]
+  },
+  {
+    "id": "braira-olaya-hotel",
+    "name_ar": "فندق بريرا العليا",
+    "name_en": "Braira Hotel Olaya",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "فندق على شارع العليا يبعد 30 دقيقة من المطار بأسعار مناسبة",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "riyadh-hotels-sa.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Braira+Hotel+Olaya+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ميزانية",
+      "شارع العليا"
+    ]
+  },
+  {
+    "id": "nasima-serviced-apartments",
+    "name_ar": "شقق نسيمة الفندقية الاقتصادية",
+    "name_en": "Nasima Serviced Apartments Economy",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "شقق فندقية اقتصادية 4 نجوم بـ 66 غرفة مع استقبال 24 ساعة - قريبة من حديقة العقيق",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "riyadh-hotels-sa.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nasima+Serviced+Apartments+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ميزانية",
+      "إقامة طويلة"
+    ]
+  },
+  {
+    "id": "fajr-al-wahha-hotel",
+    "name_ar": "فندق فجر الوحة",
+    "name_en": "Fajr Al Wahha Hotel",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي الفلاح",
+    "neighborhood_en": "Al Falah",
+    "description_ar": "شقق فندقية بمساحات واسعة تصل إلى 60 متر مربع مع قربها من النخيل مول",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "cozycozy.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Fajr+Al+Wahha+Hotel+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ميزانية",
+      "عائلات"
+    ]
+  },
+  {
+    "id": "darent-luxury-aqiq",
+    "name_ar": "دارنت سوبر لاكشري العقيق",
+    "name_en": "Darent Super Luxury Al Aqiq",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "شقق فندقية فاخرة بغرفة نوم واحدة مع حديقة وبلكونة - قريبة من بوليفارد وورلد",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Booking.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Darent+Super+Luxury+Al+Aqiq+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فخامة",
+      "إقامة طويلة"
+    ]
+  },
+  {
+    "id": "lamar-park-resort",
+    "name_ar": "منتجع لامار بارك",
+    "name_en": "Lamar Park Resort",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "منتجع قريب من مطار الملك خالد بمرافق استرخاء وحدائق",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Traveloka"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lamar+Park+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "منتجع",
+      "قرب المطار"
+    ]
+  },
+  {
+    "id": "st-regis-riyadh-via",
+    "name_ar": "ذا سانت ريجيس الرياض - ڤيا",
+    "name_en": "The St. Regis Riyadh (VIA)",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "فندق سانت ريجيس الفاخر في مجمع ڤيا رياض بخدمات حصرية وموقع استثنائي",
+    "google_rating": 4.7,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "SoulofSaudi 2026",
+      "viariyadh.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=St+Regis+Riyadh+VIA",
+    "district": "الرياض",
+    "perfect_for": [
+      "فخامة فائقة"
+    ]
+  },
+  {
+    "id": "melia-riyadh-hotel",
+    "name_ar": "فندق ميليا الرياض",
+    "name_en": "Meliá Riyadh Hotel",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "فندق إسباني فاخر في قلب الرياض مع مطاعم عالمية وسبا",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "melia.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Melia+Riyadh+Hotel",
+    "district": "الرياض",
+    "perfect_for": [
+      "فخامة",
+      "أعمال"
+    ]
+  },
+  {
+    "id": "voco-riyadh-hotel",
+    "name_ar": "فندق فوكو الرياض",
+    "name_en": "voco Riyadh Hotel",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "As Sahafah",
+    "description_ar": "فندق عصري من IHG بتصميم مميز وخدمات متكاملة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "ihg.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=voco+Riyadh+Hotel",
+    "district": "الرياض",
+    "perfect_for": [
+      "أعمال",
+      "عصري"
+    ]
+  },
+  {
+    "id": "hilton-garden-inn-kafd",
+    "name_ar": "هيلتون جاردن إن مركز الملك عبدالله المالي",
+    "name_en": "Hilton Garden Inn Riyadh KAFD",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "مركز الملك عبدالله المالي",
+    "neighborhood_en": "KAFD",
+    "description_ar": "فندق عصري في قلب المركز المالي مع مطعم ومرافق أعمال",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "hilton.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Hilton+Garden+Inn+Riyadh+KAFD",
+    "district": "الرياض",
+    "perfect_for": [
+      "أعمال",
+      "مركز مالي"
+    ]
+  }
+]

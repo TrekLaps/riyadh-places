@@ -1,0 +1,396 @@
+[
+  {
+    "id": "glamping-resort-riyadh",
+    "name_ar": "منتجع جلامبنغ الرياض",
+    "name_en": "Glamping Resort Riyadh",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "الفواز - ضواحي الرياض",
+    "neighborhood_en": "Al Fawwaz - Riyadh Outskirts",
+    "description_ar": "منتجع جلامبنغ صحراوي مع خيم فاخرة وحديقة وشواء وإطلالة على الطبيعة - تجربة تخييم فاخرة",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Booking.com",
+      "Klook",
+      "Airpaz"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Glamping+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "جلامبنغ",
+      "تخييم فاخر",
+      "طبيعة"
+    ]
+  },
+  {
+    "id": "dreamland-chalets-dirab",
+    "name_ar": "شاليهات دريم لاند ديراب",
+    "name_en": "Dreamland Chalets Dirab",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "ديراب",
+    "neighborhood_en": "Dirab",
+    "description_ar": "شاليهات في منطقة ديراب مقابل الأقمار الصناعية بمرافق ترفيهية",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Airpaz"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dreamland+Chalets+Dirab+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "نهاية أسبوع"
+    ]
+  },
+  {
+    "id": "thumamah-desert-camp-premium",
+    "name_ar": "مخيم الثمامة الصحراوي الفاخر",
+    "name_en": "Thumamah Desert Premium Camp",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "الثمامة",
+    "neighborhood_en": "Thumamah",
+    "description_ar": "مخيم صحراوي فاخر في الثمامة مع خيم مجهزة بالكامل ومشاوي وأنشطة صحراوية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "SoulofSaudi 2026",
+      "Tripadvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Thumamah+Desert+Premium+Camp+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تخييم",
+      "صحراء",
+      "نجوم"
+    ]
+  },
+  {
+    "id": "starlight-desert-camp",
+    "name_ar": "مخيم ستارلايت الصحراوي",
+    "name_en": "Starlight Desert Camp",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "ضواحي الرياض",
+    "neighborhood_en": "Riyadh Outskirts",
+    "description_ar": "تجربة تخييم صحراوي مع مراقبة النجوم ومشاوي وأنشطة ليلية في الصحراء",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "riyadhhiking.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Starlight+Desert+Camp+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "نجوم",
+      "رومانسي",
+      "مغامرات"
+    ]
+  },
+  {
+    "id": "braira-valley-resort-chalets",
+    "name_ar": "شاليهات منتجع بريرا الوادي",
+    "name_en": "Braira The Valley Resort Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "ضواحي الرياض",
+    "neighborhood_en": "Riyadh Outskirts",
+    "description_ar": "منتجع بشاليهات ومرافق ترفيهية في وادي هادئ بعيداً عن صخب المدينة",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "brairahotels.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Braira+Valley+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "استرخاء",
+      "عائلات"
+    ]
+  },
+  {
+    "id": "espar-resort-chalets",
+    "name_ar": "شاليهات منتجع إسبار",
+    "name_en": "Espar Hotel Resort Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "ضواحي الرياض",
+    "neighborhood_en": "Riyadh Outskirts",
+    "description_ar": "منتجع بشاليهات فاخرة مع مسبح وحدائق ومناطق شواء",
+    "google_rating": 4.2,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Booking.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Espar+Hotel+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "منتجع",
+      "عائلات"
+    ]
+  },
+  {
+    "id": "lokazoort-resort-chalets",
+    "name_ar": "منتجع لوكازورت",
+    "name_en": "Lokazoort Resort Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "ضواحي الرياض",
+    "neighborhood_en": "Riyadh Outskirts",
+    "description_ar": "منتجع بشاليهات مع مرافق ترفيهية وخدمات متكاملة",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "alhgz.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lokazoort+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "نهاية أسبوع"
+    ]
+  },
+  {
+    "id": "devon-resort-chalets",
+    "name_ar": "شاليهات منتجع ديفون",
+    "name_en": "Devon Resort Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "ضواحي الرياض",
+    "neighborhood_en": "Riyadh Outskirts",
+    "description_ar": "منتجع بشاليهات عصرية مع مساحات خضراء ومسبح وألعاب أطفال",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Booking.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Devon+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "أطفال"
+    ]
+  },
+  {
+    "id": "swiss-sprint-resort-chalets",
+    "name_ar": "شاليهات سويس سبرنت ريزورت",
+    "name_en": "Swiss Sprint Resort Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "ضواحي الرياض",
+    "neighborhood_en": "Riyadh Outskirts",
+    "description_ar": "منتجع بطابع سويسري مع شاليهات مميزة ومرافق ترفيهية",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Booking.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Swiss+Sprint+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "استرخاء",
+      "نهاية أسبوع"
+    ]
+  },
+  {
+    "id": "rasta-rose-resort-chalets",
+    "name_ar": "شاليهات منتجع راستا روز",
+    "name_en": "Rasta Rose Resort Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "ضواحي الرياض",
+    "neighborhood_en": "Riyadh Outskirts",
+    "description_ar": "منتجع بشاليهات مع حدائق ومسابح وخدمات فاخرة",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "alhgz.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Rasta+Rose+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "استرخاء",
+      "عائلات"
+    ]
+  },
+  {
+    "id": "goot-resorts-chalets",
+    "name_ar": "شاليهات منتجعات جوت",
+    "name_en": "Goot Resorts Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "ضواحي الرياض",
+    "neighborhood_en": "Riyadh Outskirts",
+    "description_ar": "منتجع بشاليهات متنوعة من عائلية إلى VIP مع مرافق شاملة",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "alhgz.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Goot+Resorts+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "VIP"
+    ]
+  },
+  {
+    "id": "nofa-wildlife-resort",
+    "name_ar": "منتجع نوفا للحياة البرية",
+    "name_en": "Nofa Wildlife Park & Resort",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "منتجع فريد مع حديقة حيوانات برية وشاليهات فاخرة وأنشطة سفاري",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Tripadvisor",
+      "nofawildlife.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nofa+Wildlife+Park+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "سفاري",
+      "حيوانات",
+      "عائلات"
+    ]
+  },
+  {
+    "id": "babel-resorts-chalets",
+    "name_ar": "شاليهات منتجعات بابل",
+    "name_en": "Babel Resorts Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "ضواحي الرياض",
+    "neighborhood_en": "Riyadh Outskirts",
+    "description_ar": "منتجع بشاليهات متعددة الأحجام مع مسابح وحدائق ومناطق ألعاب",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "alhgz.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Babel+Resorts+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "مجموعات"
+    ]
+  },
+  {
+    "id": "happiness-resort-premium",
+    "name_ar": "منتجع السعادة الفاخر",
+    "name_en": "Happiness Resort Premium",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "ضواحي الرياض",
+    "neighborhood_en": "Riyadh Outskirts",
+    "description_ar": "منتجع فاخر بشاليهات مجهزة بالكامل مع ملاعب وصالات ومرافق عائلية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "alhgz.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Happiness+Resort+Premium+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "احتفالات"
+    ]
+  },
+  {
+    "id": "al-thumamah-wild-camping",
+    "name_ar": "تخييم بري الثمامة",
+    "name_en": "Al Thumamah Wild Camping Experience",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "الثمامة",
+    "neighborhood_en": "Thumamah",
+    "description_ar": "تجربة تخييم بري أصيلة في كثبان الثمامة الرملية مع نار المخيم ومراقبة النجوم",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "SoulofSaudi 2026",
+      "riyadhhiking.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Thumamah+Wild+Camping+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تخييم بري",
+      "مغامرات"
+    ]
+  },
+  {
+    "id": "red-sands-camping",
+    "name_ar": "مخيمات الرمال الحمراء",
+    "name_en": "Red Sands Camping Experience",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "نفود الخرارة",
+    "neighborhood_en": "Nafud Al-Kharrarah",
+    "description_ar": "تجربة تخييم في الكثبان الحمراء مع تزلج على الرمال ومشاوي تحت النجوم",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "almatar.com 2025",
+      "regencyholidays.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Red+Sand+Dunes+Camping+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مغامرات",
+      "تخييم"
+    ]
+  }
+]

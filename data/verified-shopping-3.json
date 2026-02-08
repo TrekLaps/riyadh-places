@@ -1,0 +1,708 @@
+[
+  {
+    "id": "dna-lifestyle-bookstore",
+    "name_ar": "دي إن إيه لايف ستايل",
+    "name_en": "DNA Lifestyle Bookstore",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي الربوة",
+    "neighborhood_en": "Rabwah",
+    "description_ar": "مكتبة جديدة في العثيم مول بمجموعة كبيرة من كتب بوك توك الشهيرة باللغتين العربية والإنجليزية",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "DestinationKSA 2025",
+      "Reddit r/Riyadh"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=DNA+Lifestyle+Othaim+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "كتب",
+      "قراءة"
+    ]
+  },
+  {
+    "id": "fnac-bookstore-riyadh",
+    "name_ar": "مكتبة فناك",
+    "name_en": "Fnac Bookstore Riyadh",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "Al Nakheel",
+    "description_ar": "مكتبة عالمية في النخيل مول مع كتب بالعربية والفرنسية والإسبانية والإنجليزية وكتب طاولة القهوة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "DestinationKSA 2025",
+      "fnacksa Instagram"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Fnac+Bookstore+Al+Nakheel+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "كتب",
+      "ثقافة"
+    ]
+  },
+  {
+    "id": "darussalam-bookstore",
+    "name_ar": "مكتبة دار السلام",
+    "name_en": "Darussalam Bookstore",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "الطريق الدائري الشرقي",
+    "neighborhood_en": "Eastern Ring Road",
+    "description_ar": "مكتبة متخصصة في القرآن والسنة بترجمات في 26 لغة مع كتب إسلامية شاملة",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "DestinationKSA 2025",
+      "darussalam.sns"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Darussalam+Bookstore+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "كتب إسلامية",
+      "ثقافة"
+    ]
+  },
+  {
+    "id": "virgin-megastore-books-riyadh",
+    "name_ar": "فيرجن ميجا ستور - قسم الكتب",
+    "name_en": "Virgin Megastore Books",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "Al Nakheel",
+    "description_ar": "قسم كتب متنوع في فيرجن ميجا ستور من روايات وكتب تطوير ذات وأطفال ومجلات",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "DestinationKSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Virgin+Megastore+Al+Nakheel+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "كتب",
+      "إلكترونيات"
+    ]
+  },
+  {
+    "id": "altawoun-public-library",
+    "name_ar": "البيت الثقافي - مكتبة التعاون العامة",
+    "name_en": "The Cultural House - Altaawun Public Library",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي التعاون",
+    "neighborhood_en": "At Taawun",
+    "description_ar": "أحدث بيت ثقافي في الرياض - مكتبة عامة حديثة ومركز مجتمعي للقراء من جميع الأعمار",
+    "google_rating": 4.4,
+    "price_level": "free",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "DestinationKSA 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Altaawun+Public+Library+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "قراءة",
+      "ثقافة",
+      "مجتمع"
+    ]
+  },
+  {
+    "id": "obeikan-bookstore",
+    "name_ar": "مكتبة العبيكان",
+    "name_en": "Obeikan Bookstore",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "Sulaimaniyah",
+    "description_ar": "مكتبة عريقة بتشكيلة واسعة من الكتب العربية والإنجليزية والتعليمية",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "expatexchange.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Obeikan+Bookstore+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "كتب",
+      "تعليم"
+    ]
+  },
+  {
+    "id": "tihama-bookstore",
+    "name_ar": "مكتبة تهامة",
+    "name_en": "Tihama Bookstore",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "مكتبة عريقة بتشكيلة متنوعة من الكتب التعليمية والأدبية والمرجعية",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "expatexchange.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tihama+Bookstore+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "كتب"
+    ]
+  },
+  {
+    "id": "antique-book-market-dirah",
+    "name_ar": "سوق الكتب القديمة - الديرة",
+    "name_en": "Antique Book Market Dirah",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "الديرة",
+    "neighborhood_en": "Dirah",
+    "description_ar": "سوق مفتوح للكتب القديمة والنادرة - جنة لهواة الجمع والمؤرخين وعشاق الكتب العربية النادرة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SoulofSaudi 2026",
+      "GetYourGuide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Antique+Book+Market+Dirah+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "كتب نادرة",
+      "تراث"
+    ]
+  },
+  {
+    "id": "lazurde-jewelry-riyadh",
+    "name_ar": "لازوردي للمجوهرات",
+    "name_en": "L'azurde Jewelry Riyadh",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "متعدد المواقع",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "علامة مجوهرات سعودية رائدة بتصاميم عصرية من الذهب والألماس مع علامات Instyle وMiss L وWaves",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "lazurde.com",
+      "mosoah.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lazurde+Jewelry+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مجوهرات",
+      "هدايا"
+    ]
+  },
+  {
+    "id": "alfardan-jewellery-riyadh",
+    "name_ar": "مجوهرات الفردان",
+    "name_en": "Alfardan Jewellery Riyadh",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "متجر مجوهرات فاخر ووكيل معتمد لشوبارد بتشكيلة ساعات وقطع حصرية",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "chopard.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Alfardan+Jewellery+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مجوهرات فاخرة",
+      "ساعات"
+    ]
+  },
+  {
+    "id": "av-jewelry-riyadh",
+    "name_ar": "إيه في جولري",
+    "name_en": "AV Jewelry Riyadh",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "وسط الرياض",
+    "neighborhood_en": "Central Riyadh",
+    "description_ar": "مصنع مجوهرات ذهبية محلي في قلب الرياض بتصاميم عصرية بأسعار المصنع",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "avjewelrysa.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AV+Jewelry+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مجوهرات",
+      "ذهب"
+    ]
+  },
+  {
+    "id": "riyadh-diamond-jewelry",
+    "name_ar": "مجوهرات جوهرة الرياض",
+    "name_en": "Riyadh Diamond Jewelry",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "متجر ألماس ومجوهرات راقية بتشكيلة واسعة من خواتم وأطقم ذهب",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "goldprices-today.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Diamond+Jewelry+Olaya",
+    "district": "الرياض",
+    "perfect_for": [
+      "مجوهرات",
+      "ألماس"
+    ]
+  },
+  {
+    "id": "sirmass-jewelry",
+    "name_ar": "مجوهرات سرماس",
+    "name_en": "Sirmass Jewelry",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "متجر مجوهرات بتصاميم متنوعة وأسعار تنافسية",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "goldprices-today.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sirmass+Jewelry+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مجوهرات"
+    ]
+  },
+  {
+    "id": "fayendra-jewelry-watches",
+    "name_ar": "فايندرا للمجوهرات والساعات",
+    "name_en": "Fayendra Jewelry & Watches",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "متعدد المواقع",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "مجوهرات فضية وأحجار كريمة يدوية الصنع مع ساعات فاخرة - توصيل لكل السعودية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "fayendra.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Fayendra+Jewelry+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مجوهرات فضة",
+      "ساعات"
+    ]
+  },
+  {
+    "id": "tag-heuer-boutique-riyadh",
+    "name_ar": "بوتيك تاغ هوير الرياض بارك",
+    "name_en": "TAG Heuer Boutique Riyadh Park",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "بوتيك رسمي لساعات تاغ هوير الفاخرة في الرياض بارك مول",
+    "google_rating": 4.4,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "tagheuer.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=TAG+Heuer+Boutique+Riyadh+Park+Mall",
+    "district": "الرياض",
+    "perfect_for": [
+      "ساعات فاخرة"
+    ]
+  },
+  {
+    "id": "piaget-boutique-riyadh",
+    "name_ar": "بوتيك بياجيه الرياض",
+    "name_en": "Piaget Boutique Riyadh",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Olaya",
+    "description_ar": "بوتيك ساعات ومجوهرات بياجيه الفاخرة في المملكة العربية السعودية",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "piaget.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Piaget+Boutique+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ساعات فاخرة",
+      "مجوهرات"
+    ]
+  },
+  {
+    "id": "swatch-panorama-mall",
+    "name_ar": "سواتش بانوراما مول",
+    "name_en": "Swatch Store Panorama Mall",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "Al Nakheel",
+    "description_ar": "متجر ساعات سواتش العصرية في بانوراما مول بتشكيلة ألوان وتصاميم متنوعة",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "swatch.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Swatch+Store+Panorama+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ساعات"
+    ]
+  },
+  {
+    "id": "souq-al-thumairi",
+    "name_ar": "سوق الثميري",
+    "name_en": "Souq Al Thumairi",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "الديرة",
+    "neighborhood_en": "Dirah",
+    "description_ar": "سوق تقليدي بمنتجات يدوية ونحاسيات وهدايا سعودية تقليدية وتذكارات",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SoulofSaudi 2026",
+      "365adventures.me"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Souq+Al+Thumairi+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تراث",
+      "هدايا",
+      "سياحة"
+    ]
+  },
+  {
+    "id": "5-riyal-shops-riyadh",
+    "name_ar": "محلات الخمسة ريال - الرياض",
+    "name_en": "5 Riyal Shops Riyadh",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "أحياء متعددة",
+    "neighborhood_en": "Various Districts",
+    "description_ar": "محلات بضائع مخفضة بأقل من 5 ريال - خيارات اقتصادية متنوعة في عدة مواقع",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "SoulofSaudi 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=5+Riyal+Shops+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "اقتصاد",
+      "بضائع مخفضة"
+    ]
+  },
+  {
+    "id": "bujairi-terrace-shopping",
+    "name_ar": "بوجيري تراس - تسوق",
+    "name_en": "Bujairi Terrace Shopping",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "مجمع تسوق فاخر في الدرعية يجمع بين التراث والعلامات العالمية والمطاعم الراقية",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "SoulofSaudi 2026",
+      "diriyah.sa"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bujairi+Terrace+Diriyah+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فخامة",
+      "تراث",
+      "تسوق"
+    ]
+  },
+  {
+    "id": "via-riyadh-shopping",
+    "name_ar": "ڤيا رياض - تسوق",
+    "name_en": "VIA Riyadh Shopping",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "وجهة عالمية فاخرة تضم أرقى العلامات التجارية والمطاعم والسينمات وفندق سانت ريجيس",
+    "google_rating": 4.6,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "SoulofSaudi 2026",
+      "viariyadh.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=VIA+Riyadh+Shopping",
+    "district": "الرياض",
+    "perfect_for": [
+      "فخامة",
+      "علامات عالمية"
+    ]
+  },
+  {
+    "id": "prince-nayef-gold-market",
+    "name_ar": "سوق الذهب - طريق الأمير نايف",
+    "name_en": "Prince Nayef Gold Market",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "الديرة",
+    "neighborhood_en": "Dirah",
+    "description_ar": "سوق ذهب كبير على طريق الأمير نايف مع عدد كبير من المحلات والوكالات بأسعار تنافسية",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "riyadh.arbdar.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Prince+Nayef+Gold+Market+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ذهب",
+      "مجوهرات"
+    ]
+  },
+  {
+    "id": "u-walk-shopping-riyadh",
+    "name_ar": "يو ووك للتسوق",
+    "name_en": "U Walk Riyadh Shopping",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "Al Nakheel",
+    "description_ar": "ممشى تسوق مفتوح بمتاجر ومقاهي ومطاعم في أجواء مسائية مميزة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SoulofSaudi 2026",
+      "visitsaudi.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=U+Walk+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق",
+      "مشي",
+      "أجواء"
+    ]
+  },
+  {
+    "id": "dira-walk-market",
+    "name_ar": "ممشى الديرة",
+    "name_en": "Dira Walk Market",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "الديرة",
+    "neighborhood_en": "Dirah",
+    "description_ar": "ممشى تراثي بقلب الرياض القديمة مع أسواق ومتاجر تقليدية ومعالم تاريخية",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "visitsaudi.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dira+Walk+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تراث",
+      "سياحة"
+    ]
+  },
+  {
+    "id": "souq-hijab-women",
+    "name_ar": "سوق الحجاب النسائي",
+    "name_en": "Souq Hijab Women's Market",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "الديرة",
+    "neighborhood_en": "Dirah",
+    "description_ar": "سوق متخصص في الملابس النسائية والحجابات بأسعار جملة ومفرق",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "riyadh.arbdar.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Souq+Hijab+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ملابس نسائية",
+      "أسعار مخفضة"
+    ]
+  },
+  {
+    "id": "decathlon-riyadh",
+    "name_ar": "ديكاتلون الرياض",
+    "name_en": "Decathlon Riyadh",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "متعدد المواقع",
+    "neighborhood_en": "Multiple Locations",
+    "description_ar": "متجر أدوات رياضية ضخم بأسعار مناسبة - ملابس وأحذية ومعدات لجميع الرياضات",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "decathlon.com.sa"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Decathlon+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "رياضة",
+      "تسوق اقتصادي"
+    ]
+  },
+  {
+    "id": "riyadh-date-market",
+    "name_ar": "سوق التمور - الرياض",
+    "name_en": "Riyadh Date Market (Souq Al Tamoor)",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "أكبر سوق تمور في المنطقة مع أنواع فاخرة من التمور السعودية بأسعار الجملة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "visitsaudi.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Date+Market",
+    "district": "الرياض",
+    "perfect_for": [
+      "تمور",
+      "هدايا"
+    ]
+  },
+  {
+    "id": "oud-perfume-souq-batha",
+    "name_ar": "سوق العود والعطور - البطحاء",
+    "name_en": "Oud & Perfume Souq Al Batha",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "البطحاء",
+    "neighborhood_en": "Al Batha",
+    "description_ar": "سوق متخصص في العود والعطور والبخور بأجود الأنواع من كل أنحاء العالم",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "visitriyadh"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Oud+Perfume+Souq+Batha+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عود",
+      "عطور",
+      "بخور"
+    ]
+  },
+  {
+    "id": "haraj-electronics-market",
+    "name_ar": "حراج الإلكترونيات",
+    "name_en": "Haraj Electronics Market",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "category_en": "shopping",
+    "neighborhood": "حي المنفوحة",
+    "neighborhood_en": "Al Manfouha",
+    "description_ar": "سوق مستعمل وجديد للإلكترونيات والأجهزة بأسعار تنافسية",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Haraj+Electronics+Market+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إلكترونيات",
+      "أسعار مخفضة"
+    ]
+  }
+]
