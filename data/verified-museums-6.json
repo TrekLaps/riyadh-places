@@ -1,0 +1,557 @@
+[
+  {
+    "id": "diriyah-art-futures-daf",
+    "name_ar": "مستقبل فنون الدرعية",
+    "name_en": "Diriyah Art Futures DAF",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "مركز فنون رقمية ووسائط جديدة قرب موقع التريف التراثي",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TheArtFairGuy 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Diriyah+Art+Futures+DAF+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "museum-of-illusions-riyadh-park",
+    "name_ar": "متحف الخداع البصري رياض بارك",
+    "name_en": "Museum of Illusions Riyadh Park",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "رياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "متحف تفاعلي مع معروضات بصرية مذهلة وغرف مقلوبة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Museum+of+Illusions+Riyadh+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "jax-district-art-complex",
+    "name_ar": "مجمع جاكس الفني",
+    "name_en": "JAX District Art Complex",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي جاكس",
+    "neighborhood_en": "JAX District",
+    "description_ar": "مول مهجور تحول لمجمع فني مع 20 معرض تحت سقف واحد",
+    "google_rating": 4.6,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TheArtFairGuy 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=JAX+District+Art+Complex+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "turaif-unesco-heritage-site",
+    "name_ar": "موقع التريف التراثي اليونسكو",
+    "name_en": "Turaif UNESCO Heritage Site",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "موقع التراث العالمي المفتوح حديثاً مع جولات تاريخية",
+    "google_rating": 4.7,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "UNESCO",
+      "TimeOut Riyadh"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Turaif+UNESCO+Heritage+Site+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "ahmed-mater-studio",
+    "name_ar": "استوديو أحمد ماطر",
+    "name_en": "Ahmed Mater Studio",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي جاكس",
+    "neighborhood_en": "JAX District",
+    "description_ar": "استوديو الفنان أحمد ماطر مفتوح للزيارة في جاكس",
+    "google_rating": 4.6,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Art Newspaper 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ahmed+Mater+Studio+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "muhannad-shono-studio",
+    "name_ar": "استوديو مهند شنو",
+    "name_en": "Muhannad Shono Studio",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي جاكس",
+    "neighborhood_en": "JAX District",
+    "description_ar": "استوديو الفنان مهند شنو للفن المعاصر في جاكس",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Art Newspaper 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Muhannad+Shono+Studio+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-alami-oud-museum",
+    "name_ar": "العالمي للعود",
+    "name_en": "Al Alami Oud Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي المعيقلية",
+    "neighborhood_en": "Muaigliyah",
+    "description_ar": "متجر ومتحف صغير للعود التقليدي والبخور",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Alami+Oud+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "lulwah-al-homoud-studio",
+    "name_ar": "استوديو لولوة الحمود",
+    "name_en": "Lulwah Al Homoud Studio",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "استوديو الفنانة لولوة الحمود مفتوح خلال فعاليات فنية",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Art Week Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lulwah+Al+Homoud+Studio+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "abdullah-alothman-studio",
+    "name_ar": "استوديو عبدالله العثمان",
+    "name_en": "Abdullah AlOthman Studio",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "استوديو الفنان عبدالله العثمان للفن المعاصر",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Art Week Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Abdullah+AlOthman+Studio+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "national-museum-riyadh",
+    "name_ar": "المتحف الوطني الرياض",
+    "name_en": "National Museum Riyadh",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي المربع",
+    "neighborhood_en": "Al Murabba",
+    "description_ar": "أكبر متحف وطني في السعودية مع 8 قاعات تاريخية",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Ministry of Culture"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=National+Museum+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "تاريخ"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "saqr-al-jazirah-aviation-museum",
+    "name_ar": "متحف صقر الجزيرة للطيران",
+    "name_en": "Saqr Al Jazirah Aviation Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "متحف طيران عسكري مع طائرات حقيقية ومحاكاة طيران",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Saqr+Al+Jazirah+Aviation+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "تاريخ"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-faisal-museum-for-arab-islamic-art",
+    "name_ar": "متحف الفيصل للفن العربي الإسلامي",
+    "name_en": "Al Faisal Museum for Arab Islamic Art",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "متحف خاص بمجموعة فنية إسلامية نادرة",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Faisal+Museum+for+Arab+Islamic+Art+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "تاريخ"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "ali-al-ruzaiza-studio",
+    "name_ar": "استوديو علي الروزائزة",
+    "name_en": "Ali Al Ruzaiza Studio",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "حي جاكس",
+    "neighborhood_en": "JAX District",
+    "description_ar": "استوديو فنان سعودي بارز مفتوح للزوار في جاكس",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Art Newspaper 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ali+Al+Ruzaiza+Studio+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "تاريخ"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "biennale-of-islamic-arts-diriyah",
+    "name_ar": "بينالي الفنون الإسلامية الدرعية",
+    "name_en": "Biennale of Islamic Arts Diriyah",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "معرض فنون إسلامية دولي في الدرعية",
+    "google_rating": 4.7,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Diriyah Biennale Foundation"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Biennale+of+Islamic+Arts+Diriyah+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "تاريخ"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "ithra-museum",
+    "name_ar": "متحف إثراء",
+    "name_en": "Ithra Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مركز ثقافي ومتحف من أرامكو مع معارض فنية تفاعلية",
+    "google_rating": 4.6,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Ithra Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ithra+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "dar-al-madinah-museum",
+    "name_ar": "متحف دار المدينة",
+    "name_en": "Dar Al Madinah Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "متحف يعرض تاريخ المدينة المنورة والحرمين",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dar+Al+Madinah+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "saudi-automobile-museum",
+    "name_ar": "متحف السيارات السعودي",
+    "name_en": "Saudi Automobile Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "متحف سيارات كلاسيكية ونادرة في الرياض",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Saudi+Automobile+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "riyadh-toy-museum",
+    "name_ar": "متحف الألعاب الرياض",
+    "name_en": "Riyadh Toy Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museums",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "متحف ألعاب كلاسيكية ونوستالجيا للأجيال",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Toy+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  }
+]

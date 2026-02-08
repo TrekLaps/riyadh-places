@@ -1,0 +1,843 @@
+[
+  {
+    "id": "topaz-resort-al-ammariyah",
+    "name_ar": "منتجع توباز العمارية",
+    "name_en": "Topaz Resort Al Ammariyah",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "العمارية",
+    "neighborhood_en": "Al Ammariyah",
+    "description_ar": "منتجع فاخر بإطلالة على جبال العمارية مع مسابح وأجنحة",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh Arabic",
+      "TikTok"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Topaz+Resort+Al+Ammariyah+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "atlantis-chalets-al-thumama",
+    "name_ar": "شاليهات أتلانتس الثمامة",
+    "name_en": "Atlantis Chalets Al Thumama",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "الثمامة",
+    "neighborhood_en": "Al Thumama",
+    "description_ar": "شاليهات في حي الرمال بالثمامة مع 5 أقسام مختلفة التصميم",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "SaudiGates 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Atlantis+Chalets+Al+Thumama+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "al-ammariyah-hills-resort",
+    "name_ar": "منتجع تلال العمارية",
+    "name_en": "Al Ammariyah Hills Resort",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "العمارية",
+    "neighborhood_en": "Al Ammariyah",
+    "description_ar": "منتجع مع إطلالة جبلية مسائية رائعة وخيارات إقامة متنوعة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh Arabic"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Ammariyah+Hills+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "thumama-village-chalets",
+    "name_ar": "شاليهات قرية الثمامة",
+    "name_en": "Thumama Village Chalets",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "الثمامة",
+    "neighborhood_en": "Al Thumama",
+    "description_ar": "شاليهات عائلية مع مسابح وألعاب مائية وتصاميم مميزة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "AlRiyadh-City.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Thumama+Village+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "namar-chalets",
+    "name_ar": "شاليهات نمار",
+    "name_en": "Namar Chalets",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "نمار",
+    "neighborhood_en": "Namar",
+    "description_ar": "استراحات وشاليهات في منطقة نمار الطبيعية الخلابة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "SaudiGates 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Namar+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "south-riyadh-daily-rest",
+    "name_ar": "استراحات يومية جنوب الرياض",
+    "name_en": "South Riyadh Daily Rest",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "استراحات يومية بأسعار مناسبة في جنوب الرياض",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Bayut.sa"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=South+Riyadh+Daily+Rest+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "al-ammariyah-panorama-resort",
+    "name_ar": "منتجع بانوراما العمارية",
+    "name_en": "Al Ammariyah Panorama Resort",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "العمارية",
+    "neighborhood_en": "Al Ammariyah",
+    "description_ar": "منتجع مع إطلالة بانورامية على العمارية وحدائق خاصة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Almosafer Chalets"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Ammariyah+Panorama+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "desert-glamping-riyadh",
+    "name_ar": "قلامبينغ الصحراء الرياض",
+    "name_en": "Desert Glamping Riyadh",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "خارج الرياض",
+    "neighborhood_en": "Riyadh Outskirts",
+    "description_ar": "تجربة تخييم فاخرة في الصحراء مع خيام مكيفة وخدمات",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Desert+Glamping+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "al-thumama-camp-resort",
+    "name_ar": "منتجع مخيم الثمامة",
+    "name_en": "Al Thumama Camp Resort",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "الثمامة",
+    "neighborhood_en": "Al Thumama",
+    "description_ar": "منتجع مخيمات صحراوية مع أنشطة ركوب خيل ودراجات رملية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Thumama+Camp+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "golden-sands-rest-al-ammariyah",
+    "name_ar": "استراحة الرمال الذهبية العمارية",
+    "name_en": "Golden Sands Rest Al Ammariyah",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "العمارية",
+    "neighborhood_en": "Al Ammariyah",
+    "description_ar": "استراحة فاخرة مع مسبح خاص ومنطقة شواء ومجلس عربي",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TikTok"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Golden+Sands+Rest+Al+Ammariyah+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "waleef-chalets",
+    "name_ar": "شاليهات وليف",
+    "name_en": "Waleef Chalets",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "شاليهات حديثة مع عروض افتتاح وخدمات متكاملة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TikTok"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Waleef+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "al-rimal-desert-retreat",
+    "name_ar": "منتجع الرمال الصحراوي",
+    "name_en": "Al Rimal Desert Retreat",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "حي الرمال",
+    "neighborhood_en": "Ar Rimal",
+    "description_ar": "منتجع صحراوي بتجربة بدوية أصيلة قرب الثمامة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Rimal+Desert+Retreat+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "abant-chalets-riyadh-extension",
+    "name_ar": "شاليهات ابانت الرياض",
+    "name_en": "Abant Chalets Riyadh Extension",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "شاليهات تركية الطراز مع مسابح وحدائق خاصة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Abant+Chalets+Riyadh+Extension+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "al-jawhara-resorts-extension",
+    "name_ar": "منتجعات الجوهرة",
+    "name_en": "Al Jawhara Resorts Extension",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "منتجع عائلي مع فلل خاصة ومرافق ترفيهية متكاملة",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Jawhara+Resorts+Extension+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "riyadh-oasis-farm-stay",
+    "name_ar": "مزرعة واحة الرياض",
+    "name_en": "Riyadh Oasis Farm Stay",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "خارج الرياض",
+    "neighborhood_en": "Riyadh Outskirts",
+    "description_ar": "مزرعة قابلة للزيارة مع تجربة ريفية وحصاد وركوب خيل",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Oasis+Farm+Stay+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "durrat-al-riyadh-resort",
+    "name_ar": "درة الرياض",
+    "name_en": "Durrat Al Riyadh Resort",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "منتجع درة الرياض مع شاليهات فاخرة ومرافق عائلية",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Durrat+Al+Riyadh+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "nakheel-resort-riyadh",
+    "name_ar": "منتجع النخيل الرياض",
+    "name_en": "Nakheel Resort Riyadh",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "منتجع عائلي مع شاليهات وحدائق خاصة ومسبح",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nakheel+Resort+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "boudl-al-olaya-serviced",
+    "name_ar": "بودل العليا مخدوم",
+    "name_en": "Boudl Al Olaya Serviced",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "شقق مخدومة بأسعار مناسبة في قلب العليا",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Boudl Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Boudl+Al+Olaya+Serviced+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "al-sahel-resort",
+    "name_ar": "منتجع الساحل",
+    "name_en": "Al Sahel Resort",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "منتجع عائلي مع مسابح ومناطق شواء ومجالس",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Sahel+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "bloom-resort-riyadh",
+    "name_ar": "بلوم ريزورت الرياض",
+    "name_en": "Bloom Resort Riyadh",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "العمارية",
+    "neighborhood_en": "Al Ammariyah",
+    "description_ar": "منتجع حديث مع تصميم عصري وحدائق خاصة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bloom+Resort+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "palm-gardens-resort",
+    "name_ar": "منتجع حدائق النخيل",
+    "name_en": "Palm Gardens Resort",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "منتجع مع فلل خاصة ومسابح وحدائق نخيل",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Palm+Gardens+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "desert-star-glamping",
+    "name_ar": "ديزرت ستار قلامبينغ",
+    "name_en": "Desert Star Glamping",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "خارج الرياض",
+    "neighborhood_en": "Riyadh Outskirts",
+    "description_ar": "تخييم فاخر تحت النجوم مع خيام مكيفة وخدمات 5 نجوم",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Desert+Star+Glamping+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "riyadh-hills-resort",
+    "name_ar": "منتجع تلال الرياض",
+    "name_en": "Riyadh Hills Resort",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "العمارية",
+    "neighborhood_en": "Al Ammariyah",
+    "description_ar": "منتجع على تلال العمارية مع إطلالات بانورامية",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Hills+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "sunset-chalets",
+    "name_ar": "شاليهات الغروب",
+    "name_en": "Sunset Chalets",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "نمار",
+    "neighborhood_en": "Namar",
+    "description_ar": "شاليهات مع إطلالة على وادي نمار وغروب الشمس",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sunset+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "al-faris-resort-riyadh",
+    "name_ar": "منتجع الفارس الرياض",
+    "name_en": "Al Faris Resort Riyadh",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "منتجع مع خيول وأنشطة فروسية عائلية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Faris+Resort+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "royal-garden-resort",
+    "name_ar": "منتجع الحديقة الملكية",
+    "name_en": "Royal Garden Resort",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "منتجع فاخر مع حدائق ملكية ومرافق فاخرة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Royal+Garden+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "oasis-village-riyadh",
+    "name_ar": "قرية الواحة الرياض",
+    "name_en": "Oasis Village Riyadh",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "الثمامة",
+    "neighborhood_en": "Al Thumama",
+    "description_ar": "قرية سياحية مع شاليهات وأنشطة صحراوية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Oasis+Village+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "moon-valley-resort",
+    "name_ar": "منتجع وادي القمر",
+    "name_en": "Moon Valley Resort",
+    "category": "شاليهات",
+    "category_ar": "شاليهات",
+    "category_en": "chalets",
+    "neighborhood": "العمارية",
+    "neighborhood_en": "Al Ammariyah",
+    "description_ar": "منتجع مع إطلالة على وادي حنيفة وحدائق خاصة",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Moon+Valley+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "عطلة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  }
+]

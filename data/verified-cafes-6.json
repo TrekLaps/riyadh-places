@@ -1,0 +1,308 @@
+[
+  {
+    "id": "nac-laysen-valley",
+    "name_ar": "ناك",
+    "name_en": "NAC",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "ليسن فالي",
+    "neighborhood_en": "Laysen Valley",
+    "description_ar": "كافيه فرنسي عصري من لندن مايفير. تروفل برقر وبوراتا وريقاتوني بينك صوص مع فروستيز سوفت سيرف",
+    "google_rating": 4.6,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Time Out Riyadh Awards 2025 - Winner Best Cafe"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=NAC+Laysen+Valley+Riyadh"
+  },
+  {
+    "id": "aok-kitchen-kafd",
+    "name_ar": "إيه أو كيه كيتشن",
+    "name_en": "A.O.K Kitchen",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "كافيه أكل صحي وقهوة فاخرة في كافد. حبوب من جازان مع بيستاشيو تشيزكيك وكرواسون لوز",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Time Out Riyadh Awards 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=AOK+Kitchen+KAFD+Riyadh"
+  },
+  {
+    "id": "sociale-cafe-tahlia",
+    "name_ar": "سوشالي كافيه",
+    "name_en": "Sociale Café",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "كافيه وهب ثقافي على شارع التحلية. فعاليات فنية وموسيقية شهرية مع برانش عائلي وأجواء مريحة",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Time Out Riyadh Awards 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sociale+Cafe+Tahlia+Riyadh"
+  },
+  {
+    "id": "ground-cafe-takhassusi",
+    "name_ar": "قراوند كافيه",
+    "name_en": "Ground Café",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "التخصصي",
+    "neighborhood_en": "Takhassusi",
+    "description_ar": "كافيه كوزي مع كوكي بالمقلاة وتيراميسو سعودي وقهوة سعودية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "thisisriyadh.com 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ground+Cafe+Takhassusi+Riyadh"
+  },
+  {
+    "id": "off-brief-cafe-jax",
+    "name_ar": "أوف بريف كافيه",
+    "name_en": "Off Brief Café",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "جاكس",
+    "neighborhood_en": "JAX District",
+    "description_ar": "كافيه بتصميم جميل في حي جاكس. لاتيه مميز وكوكيز وكرواسون",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "thisisriyadh.com 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Off+Brief+Cafe+JAX+Riyadh"
+  },
+  {
+    "id": "earth-cafe-dq",
+    "name_ar": "إيرث كافيه",
+    "name_en": "Urth Caffé",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "كافيه عضوي شهير في عود سكوير. سبانش لاتيه وتشيزكيك ومشروبات متنوعة بأجواء مريحة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "whatsonsaudiarabia.com 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Urth+Caffe+Oud+Square+Riyadh"
+  },
+  {
+    "id": "chimney-cafe-dq",
+    "name_ar": "كافيه شيميني",
+    "name_en": "Chimney Café",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "كافيه فاخر يقدم حلويات إكلير وتارت شوكولا وتشيزكيك مع مشروبات ساخنة وباردة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "whatsonsaudiarabia.com 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Chimney+Cafe+Diplomatic+Quarter+Riyadh"
+  },
+  {
+    "id": "dr-kayf-cafe-dq",
+    "name_ar": "د. كيف كافيه",
+    "name_en": "Dr. Kayf Café",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "كافيه في الكندي بلازا يقدم قهوة وساندويتشات وحلويات بأجواء مريحة للعمل",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "whatsonsaudiarabia.com 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dr+Kayf+Cafe+Diplomatic+Quarter+Riyadh"
+  },
+  {
+    "id": "draft-cafe-dq",
+    "name_ar": "كافيه درافت",
+    "name_en": "Draft Café",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "كافيه شبابي عصري في عود سكوير. بلاك كوفي وكراميل مكياتو وسمورز",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "whatsonsaudiarabia.com 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Draft+Cafe+Oud+Square+Riyadh"
+  },
+  {
+    "id": "lavender-cafe-dq",
+    "name_ar": "كافيه لافندر",
+    "name_en": "Lavender Café",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "كافيه مميز يقدم روز لاتيه وكريب وتارت بأجواء هادئة مناسبة للعائلات",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "whatsonsaudiarabia.com 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lavender+Cafe+Diplomatic+Quarter+Riyadh"
+  },
+  {
+    "id": "coffee-flood-dq",
+    "name_ar": "كوفي فلود",
+    "name_en": "Coffee Flood",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "كافيه عصري يقدم أمريكانو وكابتشينو وسموذي توت وكيكة جزر",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "whatsonsaudiarabia.com 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Coffee+Flood+Diplomatic+Quarter+Riyadh"
+  },
+  {
+    "id": "air-specialty-coffee",
+    "name_ar": "إير سبيشالتي كوفي",
+    "name_en": "Air Speciality Coffee",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "كافيه هادي متخصص بالبور أوفر والفلتر كوفي مع جلسات لابتوب",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "daymarkcoffeeguide.com 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Air+Speciality+Coffee+Riyadh"
+  },
+  {
+    "id": "amber-specialty-olaya",
+    "name_ar": "أمبر سبيشالتي كوفي",
+    "name_en": "Amber Speciality Coffee & Roastery",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "محمصة ومقهى تخصصي معاصر في العليا مع قهوة سينقل أوريجين",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "daymarkcoffeeguide.com 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Amber+Specialty+Coffee+Olaya+Riyadh"
+  },
+  {
+    "id": "breehant-coffee-yasmin",
+    "name_ar": "بريهانت كوفي",
+    "name_en": "Breehant Coffee Roastery",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "محمصة تخصصية تقدم حبوب أفريقية سينقل أوريجين مع جلسات داخلية وخارجية",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "daymarkcoffeeguide.com 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Breehant+Coffee+Yasmin+Riyadh"
+  },
+  {
+    "id": "brew-crew-mughrizat",
+    "name_ar": "بريو كرو المغرزات",
+    "name_en": "Brew Crew Al Mughrizat",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "المغرزات",
+    "neighborhood_en": "Al Mughrizat",
+    "description_ar": "كافيه تخصصي في المغرزات بديكور خشب داكن وأجواء هادئة مع إسبريسو مميز",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "daymarkcoffeeguide.com 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Brew+Crew+Mughrizat+Riyadh"
+  },
+  {
+    "id": "brew-crew-sulimaniyah",
+    "name_ar": "بريو كرو السليمانية",
+    "name_en": "Brew Crew As Sulimaniyah",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "فرع بريو كرو بالسليمانية بتصميم صناعي عصري. تحميص دقيق وبور أوفر ممتاز",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "daymarkcoffeeguide.com 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Brew+Crew+Sulimaniyah+Riyadh"
+  },
+  {
+    "id": "kayan-cafe-nazeem",
+    "name_ar": "مقهى كيان",
+    "name_en": "Kayan Cafe",
+    "category": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "حي النظيم",
+    "neighborhood_en": "An Nadheem",
+    "description_ar": "مقهى في حي النظيم يقدم مشروبات متنوعة",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "wasalt.sa 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kayan+Cafe+Nadheem+Riyadh"
+  }
+]

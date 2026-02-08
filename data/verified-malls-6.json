@@ -1,0 +1,426 @@
+[
+  {
+    "id": "salam-mall",
+    "name_ar": "سلام مول",
+    "name_en": "Salam Mall",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي الأوالي",
+    "neighborhood_en": "Alawali",
+    "description_ar": "مول ضخم مع فيرجن ميغاستور وزارا وسبينيز وحلبة تزلج",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Salam+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق",
+      "ترفيه"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "qasr-mall",
+    "name_ar": "قصر مول",
+    "name_en": "Qasr Mall",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي السويدي",
+    "neighborhood_en": "As Suwaidi",
+    "description_ar": "مول مع شاشة خارجية عملاقة و350 محل على 4 طوابق",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Qasr+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق",
+      "ترفيه"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "the-avenues-riyadh",
+    "name_ar": "ذا أفنيوز الرياض",
+    "name_en": "The Avenues Riyadh",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مشروع تسوق ضخم قادم بمساحة 370 ألف متر مربع مع فندق والدورف أستوريا",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mabanee Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Avenues+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق",
+      "ترفيه"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "thaghr-plaza",
+    "name_ar": "ثغر بلازا",
+    "name_en": "Thaghr Plaza",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي الفيصلية",
+    "neighborhood_en": "Al Faisaliyah",
+    "description_ar": "بلازا تسوق مع ساكو وجرير وتشاك إي تشيز",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Thaghr+Plaza+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق",
+      "ترفيه"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-othaim-mall-rabwah",
+    "name_ar": "العثيم مول الربوة",
+    "name_en": "Al Othaim Mall Rabwah",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي الربوة",
+    "neighborhood_en": "Al Rabwah",
+    "description_ar": "مول ضخم مع سنو سيتي ولولو هايبرماركت وسينما",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Othaim+Mall+Rabwah+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-rabwah-center",
+    "name_ar": "مركز الربوة التجاري",
+    "name_en": "Al Rabwah Center",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي الربوة",
+    "neighborhood_en": "Al Rabwah",
+    "description_ar": "مركز تجاري مع محلات متنوعة وخدمات يومية",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Rabwah+Center+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "mode-al-faisaliah",
+    "name_ar": "مود الفيصلية",
+    "name_en": "Mode Al Faisaliah",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "منطقة تسوق فاخرة في برج الفيصلية مع ماركات حصرية",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mode+Al+Faisaliah+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "localizer-mall",
+    "name_ar": "لوكالايزر مول",
+    "name_en": "Localizer Mall",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Alyasmin",
+    "description_ar": "مول صغير مع محلات محلية ومطاعم حرفية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Localizer+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "diriyah-square",
+    "name_ar": "ديرة سكوير الدرعية",
+    "name_en": "Diriyah Square",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "وجهة تسوق وترفيه جديدة في الدرعية التاريخية",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Diriyah Company"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Diriyah+Square+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-badia-mall-batha",
+    "name_ar": "البديعة مول البطحاء",
+    "name_en": "Al Badia Mall Batha",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "البطحاء",
+    "neighborhood_en": "Al Batha",
+    "description_ar": "مول شعبي في البطحاء مع محلات متنوعة",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Badia+Mall+Batha+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "salaam-center-mall",
+    "name_ar": "مركز سلام مول",
+    "name_en": "Salaam Center Mall",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مركز تسوق عائلي مع محلات وخدمات متنوعة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Salaam+Center+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-othaim-mall-khurais",
+    "name_ar": "العثيم مول خريص",
+    "name_en": "Al Othaim Mall Khurais",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فرع العثيم مول على طريق خريص مع ترفيه وتسوق",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Othaim+Mall+Khurais+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "extra-mall-riyadh",
+    "name_ar": "اكسترا مول الرياض",
+    "name_en": "Extra Mall Riyadh",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مول اكسترا للإلكترونيات مع معارض وعروض",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Extra+Mall+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "mujan-park-mall",
+    "name_ar": "مول مجان بارك",
+    "name_en": "Mujan Park Mall",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "malls",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مول حديث مع مساحات خضراء وتصميم مستدام",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mujan+Park+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  }
+]

@@ -1,0 +1,1260 @@
+[
+  {
+    "id": "kimpton-kafd-riyadh",
+    "name_ar": "كيمبتون كافد الرياض",
+    "name_en": "Kimpton KAFD Riyadh",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "فندق فاخر من IHG في قلب المركز المالي بتصميم عصري أنيق",
+    "google_rating": 4.6,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "IHG Official",
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kimpton+KAFD+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "hilton-garden-inn-kafd",
+    "name_ar": "هيلتون غاردن إن كافد",
+    "name_en": "Hilton Garden Inn KAFD",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "فندق هيلتون في المنطقة المالية مثالي لرجال الأعمال",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Hilton Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Hilton+Garden+Inn+KAFD+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "doubletree-hilton-financial-district",
+    "name_ar": "دبل تري هيلتون المنطقة المالية",
+    "name_en": "DoubleTree Hilton Financial District",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "فندق دبل تري مع أجنحة فاخرة في المنطقة المالية",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Hilton Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=DoubleTree+Hilton+Financial+District+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "mansard-riyadh-radisson-collection",
+    "name_ar": "مانسارد الرياض راديسون كوليكشن",
+    "name_en": "Mansard Riyadh Radisson Collection",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "As Sahafah",
+    "description_ar": "فندق راديسون كوليكشن الفاخر بتصميم معماري مميز",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Radisson Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mansard+Riyadh+Radisson+Collection+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "novotel-riyadh-sahafa",
+    "name_ar": "نوفوتيل الرياض الصحافة",
+    "name_en": "Novotel Riyadh Sahafa",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "As Sahafah",
+    "description_ar": "فندق نوفوتيل حديث قريب من البوليفارد مع مرافق عصرية",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Accor Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Novotel+Riyadh+Sahafa+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "crowne-plaza-riyadh-rdc",
+    "name_ar": "كراون بلازا الرياض",
+    "name_en": "Crowne Plaza Riyadh RDC",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق ومركز مؤتمرات كراون بلازا مع مرافق أعمال متكاملة",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "IHG Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Crowne+Plaza+Riyadh+RDC+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "movenpick-hotel-riyadh",
+    "name_ar": "موفنبيك الرياض",
+    "name_en": "Movenpick Hotel Riyadh",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق وشقق موفنبيك مع إقامة فاخرة ومطاعم متنوعة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Movenpick Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Movenpick+Hotel+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "jw-marriott-hotel-riyadh",
+    "name_ar": "جي دبليو ماريوت الرياض",
+    "name_en": "JW Marriott Hotel Riyadh",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق فاخر من ماريوت مع خدمات راقية ومطاعم عالمية",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Marriott Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=JW+Marriott+Hotel+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "w-hotel-riyadh-kafd",
+    "name_ar": "فندق دبليو الرياض كافد",
+    "name_en": "W Hotel Riyadh KAFD",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "فندق دبليو الجديد في كافد بتصميم جريء وأجواء عصرية",
+    "google_rating": 4.6,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Marriott Official 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=W+Hotel+Riyadh+KAFD+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "bab-samhan-luxury-collection",
+    "name_ar": "باب سمحان لاكشري كوليكشن",
+    "name_en": "Bab Samhan Luxury Collection",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "فندق لاكشري كوليكشن في الدرعية بطابع تراثي سعودي أصيل",
+    "google_rating": 4.7,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Marriott Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bab+Samhan+Luxury+Collection+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "courtyard-marriott-northern-ring",
+    "name_ar": "كورتيارد ماريوت الدائري الشمالي",
+    "name_en": "Courtyard Marriott Northern Ring",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق كورتيارد قريب من البوليفارد مع أسعار معقولة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Marriott Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Courtyard+Marriott+Northern+Ring+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "ascott-rafal-olaya",
+    "name_ar": "أسكوت رفال العليا",
+    "name_en": "Ascott Rafal Olaya",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "شقق فندقية فاخرة من أسكوت في برج رفال بالعليا",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Ascott Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ascott+Rafal+Olaya+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "radisson-blu-sahafa",
+    "name_ar": "راديسون بلو الصحافة",
+    "name_en": "Radisson Blu Sahafa",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "As Sahafah",
+    "description_ar": "فندق راديسون بلو حديث في الصحافة قريب من البوليفارد",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Radisson Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Radisson+Blu+Sahafa+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-mashreq-boutique-hotel",
+    "name_ar": "المشرق بوتيك هوتيل",
+    "name_en": "Al Mashreq Boutique Hotel",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق بوتيك أنيق بتصميم شرقي معاصر",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TheHotelJournal 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Mashreq+Boutique+Hotel+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "braira-qurtubah",
+    "name_ar": "بريرة قرطبة",
+    "name_en": "Braira Qurtubah",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي قرطبة",
+    "neighborhood_en": "Qurtubah",
+    "description_ar": "فندق عصري أنيق مثالي لرجال الأعمال",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TheHotelJournal 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Braira+Qurtubah+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "executives-hotel-kafd",
+    "name_ar": "اكسيكيوتيفز هوتل كافد",
+    "name_en": "Executives Hotel KAFD",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "فندق أعمال قريب من البوليفارد وكافد",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Hotels.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Executives+Hotel+KAFD+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "centro-waha",
+    "name_ar": "سنترو واحة",
+    "name_en": "Centro Waha",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق عصري من روتانا بأسعار مناسبة للشباب",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Rotana Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Centro+Waha+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "elite-suites-hotel",
+    "name_ar": "اليت سويتس هوتيل",
+    "name_en": "Elite Suites Hotel",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "أجنحة فندقية فاخرة مع خدمات شقق مفروشة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Elite+Suites+Hotel+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "anan-hotel-riyadh",
+    "name_ar": "فندق أنان الرياض",
+    "name_en": "Anan Hotel Riyadh",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق حديث مع تصميم أنيق وخدمات متميزة",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Anan+Hotel+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "swiss-flora-royal-hotel",
+    "name_ar": "سويس فلورا رويال هوتيل",
+    "name_en": "Swiss Flora Royal Hotel",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق سويسري أنيق مع مرافق عائلية متكاملة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Swiss+Flora+Royal+Hotel+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "jareed-hotel",
+    "name_ar": "فندق جريد",
+    "name_en": "Jareed Hotel",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق عصري جديد مع خدمات ضيافة سعودية",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Jareed+Hotel+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "hdb-hotel-financial-district",
+    "name_ar": "اتش دي بي فندق المنطقة المالية",
+    "name_en": "HDB Hotel Financial District",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "فندق في المنطقة المالية مع أسعار تنافسية",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=HDB+Hotel+Financial+District+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "myrtle-hotel-al-sahafa",
+    "name_ar": "ميرتل هوتيل الصحافة",
+    "name_en": "Myrtle Hotel Al Sahafa",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "As Sahafah",
+    "description_ar": "فندق حديث في الصحافة قريب من الوجهات الترفيهية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Myrtle+Hotel+Al+Sahafa+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "erfad-hotel",
+    "name_ar": "فندق ارفاد",
+    "name_en": "Erfad Hotel",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق بأسعار معقولة مع موقع مناسب",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Erfad+Hotel+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "stella-stays-olaya",
+    "name_ar": "ستيلا ستيز العليا",
+    "name_en": "Stella Stays Olaya",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "شقق فندقية عصرية في أبراج العليا بإدارة ذكية",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Stella+Stays+Olaya+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-masem-serviced-apartments",
+    "name_ar": "المسيم شقق مفروشة",
+    "name_en": "Al Masem Serviced Apartments",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "شقق مفروشة قريبة من مركز المعارض ومركز الملك عبدالعزيز",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Trip.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Masem+Serviced+Apartments+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "apartool-riyadh-serviced",
+    "name_ar": "ابارتول الرياض مفروشة",
+    "name_en": "Apartool Riyadh Serviced",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "شقق مخدومة للإقامة القصيرة والطويلة في الرياض",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Apartool.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Apartool+Riyadh+Serviced+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة",
+      "أعمال"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "narcissus-hotel-and-spa",
+    "name_ar": "فندق وسبا نارسيس",
+    "name_en": "Narcissus Hotel & Spa",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق وسبا فاخر مع خدمات استرخاء متكاملة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "ExpressService 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Narcissus+Hotel+&+Spa+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "holiday-inn-riyadh-izdihar",
+    "name_ar": "هوليداي إن الرياض الازدهار",
+    "name_en": "Holiday Inn Riyadh Izdihar",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي الازدهار",
+    "neighborhood_en": "Al Izdihar",
+    "description_ar": "فندق هوليداي إن مع خدمات أعمال وإقامة مريحة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "IHG Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Holiday+Inn+Riyadh+Izdihar+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "sheraton-riyadh-hotel",
+    "name_ar": "شيراتون الرياض",
+    "name_en": "Sheraton Riyadh Hotel",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي المربع",
+    "neighborhood_en": "Al Murabba",
+    "description_ar": "فندق شيراتون الكلاسيكي في قلب الرياض",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Marriott Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sheraton+Riyadh+Hotel+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "le-meridien-riyadh",
+    "name_ar": "لي ميريديان الرياض",
+    "name_en": "Le Meridien Riyadh",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق لي ميريديان مع خدمات ضيافة فرنسية",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Marriott Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Le+Meridien+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "burj-rafal-hotel-kempinski",
+    "name_ar": "برج رفال هوتيل كمبينسكي",
+    "name_en": "Burj Rafal Hotel Kempinski",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "As Sahafah",
+    "description_ar": "فندق فاخر في أعلى نقطة في الصحافة مع مرافق استثنائية",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Kempinski Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Burj+Rafal+Hotel+Kempinski+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "riyadh-marriott-hotel",
+    "name_ar": "ماريوت الرياض",
+    "name_en": "Riyadh Marriott Hotel",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق ماريوت مع خدمات ضيافة عالمية ومطاعم",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Marriott Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Marriott+Hotel+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "swiss-hotel-al-maqam",
+    "name_ar": "سويس هوتيل المقام",
+    "name_en": "Swiss Hotel Al Maqam",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق سويسري أنيق مع خدمات ضيافة أوروبية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Swiss+Hotel+Al+Maqam+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "staybridge-suites-riyadh",
+    "name_ar": "ستيبريدج سويتس الرياض",
+    "name_en": "Staybridge Suites Riyadh",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "أجنحة فندقية من IHG للإقامة الطويلة مع مطبخ كامل",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "IHG Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Staybridge+Suites+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "ramada-riyadh",
+    "name_ar": "رمادا الرياض",
+    "name_en": "Ramada Riyadh",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق رمادا بأسعار معقولة مع خدمات متكاملة",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Wyndham Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ramada+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "nobu-hotel-riyadh",
+    "name_ar": "نوبو هوتيل الرياض",
+    "name_en": "Nobu Hotel Riyadh",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق نوبو الفاخر مع مطعم ياباني شهير",
+    "google_rating": 4.6,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Nobu Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nobu+Hotel+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "sls-hotel-riyadh",
+    "name_ar": "اس ال اس هوتيل الرياض",
+    "name_en": "SLS Hotel Riyadh",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق SLS العصري مع أجواء حيوية ومطاعم",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Ennismore Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=SLS+Hotel+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "rosewood-riyadh",
+    "name_ar": "روزوود الرياض",
+    "name_en": "Rosewood Riyadh",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق روزوود الفاخر في قلب الرياض",
+    "google_rating": 4.6,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Rosewood Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Rosewood+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "park-hyatt-riyadh",
+    "name_ar": "بارك حياة الرياض",
+    "name_en": "Park Hyatt Riyadh",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق بارك حياة القادم إلى الرياض",
+    "google_rating": 4.6,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Hyatt Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Park+Hyatt+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "raffles-riyadh",
+    "name_ar": "رافلز الرياض",
+    "name_en": "Raffles Riyadh",
+    "category": "فنادق",
+    "category_ar": "فنادق",
+    "category_en": "hotels",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فندق رافلز الفاخر القادم إلى الرياض",
+    "google_rating": 4.7,
+    "price_level": "$$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Accor Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Raffles+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إقامة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  }
+]

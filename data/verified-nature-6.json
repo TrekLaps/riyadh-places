@@ -1,0 +1,959 @@
+[
+  {
+    "id": "al-haeer-park-lake",
+    "name_ar": "بحيرة حديقة الحائر",
+    "name_en": "Al Haeer Park Lake",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الحائر",
+    "neighborhood_en": "Al Haeer",
+    "description_ar": "واحة طبيعية مع بحيرة وشلالات ومسارات دراجات ونزهات",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Haeer+Park+Lake+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي"
+    ],
+    "lat": 24.5234,
+    "lng": 46.7654,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-waha-park",
+    "name_ar": "حديقة الواحة",
+    "name_en": "Al Waha Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الواحة",
+    "neighborhood_en": "Al Waha",
+    "description_ar": "حديقة حي هادئة مفتوحة 24/7 مع ملاعب أطفال ومسارات",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Waha+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي"
+    ],
+    "lat": 24.7234,
+    "lng": 46.6789,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "lake-park-namar",
+    "name_ar": "حديقة بحيرة نمار",
+    "name_en": "Lake Park Namar",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "نمار",
+    "neighborhood_en": "Namar",
+    "description_ar": "وادي طبيعي مع سد وبحيرة وشلال ومواقع نزهة خلابة",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lake+Park+Namar+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي"
+    ],
+    "lat": 24.5567,
+    "lng": 46.5876,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "nahda-park",
+    "name_ar": "حديقة النهضة",
+    "name_en": "Nahda Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي جرير",
+    "neighborhood_en": "Jarir",
+    "description_ar": "أطول حديقة في العاصمة مع مسارات دراجات ومراجيح للكبار",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nahda+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي"
+    ],
+    "lat": 24.6987,
+    "lng": 46.7123,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "national-museum-park",
+    "name_ar": "حديقة المتحف الوطني",
+    "name_en": "National Museum Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي المربع",
+    "neighborhood_en": "Al Murabba",
+    "description_ar": "مجمع 6 حدائق مع منحوتات فنية بجوار المتحف الوطني",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=National+Museum+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي"
+    ],
+    "lat": 24.6543,
+    "lng": 46.7012,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "olaya-park",
+    "name_ar": "حديقة العليا",
+    "name_en": "Olaya Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "حديقة دائرية مع ملاعب كرة قدم وسلة ومسارات رولربليد",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Olaya+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي"
+    ],
+    "lat": 24.6987,
+    "lng": 46.6876,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "prince-fahd-al-faisal-park",
+    "name_ar": "حديقة الأمير فهد الفيصل",
+    "name_en": "Prince Fahd Al Faisal Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "حديقة تاريخية مع أحواض زهور وممرات مظللة ومناطق لعب",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Prince+Fahd+Al+Faisal+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي"
+    ],
+    "lat": 24.6654,
+    "lng": 46.7234,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "rock-park-dq",
+    "name_ar": "حديقة الصخور الحي الدبلوماسي",
+    "name_en": "Rock Park DQ",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي السفارات",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "حديقة بأشجار محلية ونوافير صخرية وتصميم ستونهنج",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Rock+Park+DQ+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي"
+    ],
+    "lat": 24.6543,
+    "lng": 46.6123,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "wadi-hanifah-trail",
+    "name_ar": "مسار وادي حنيفة",
+    "name_en": "Wadi Hanifah Trail",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "وادي حنيفة",
+    "neighborhood_en": "Wadi Hanifah",
+    "description_ar": "مسار مشي ودراجات بطول 80 كم عبر وادي حنيفة الخلاب",
+    "google_rating": 4.6,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Sports Boulevard Official",
+      "TimeOut Riyadh"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Hanifah+Trail+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي"
+    ],
+    "lat": 24.6234,
+    "lng": 46.5876,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "sports-boulevard-cycling",
+    "name_ar": "مسار بوليفارد الرياضي للدراجات",
+    "name_en": "Sports Boulevard Cycling",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "أكبر حديقة خطية في العالم بطول 135 كم مع 220 كم مسارات دراجات",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "RCRC Official 2024",
+      "ASCE"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sports+Boulevard+Cycling+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي"
+    ],
+    "lat": 24.7234,
+    "lng": 46.6789,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "green-riyadh-al-thumama-park",
+    "name_ar": "الرياض الخضراء حديقة الثمامة",
+    "name_en": "Green Riyadh Al Thumama Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الثمامة",
+    "neighborhood_en": "Al Thumama",
+    "description_ar": "حديقة جديدة ضمن مشروع الرياض الخضراء مع مسارات مشي 18 كم",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "RCRC Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Green+Riyadh+Al+Thumama+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي"
+    ],
+    "lat": 24.8345,
+    "lng": 46.7123,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "green-riyadh-al-janadriyah-park",
+    "name_ar": "الرياض الخضراء حديقة الجنادرية",
+    "name_en": "Green Riyadh Al Janadriyah Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الجنادرية",
+    "neighborhood_en": "Al Janadriyah",
+    "description_ar": "حديقة جديدة ضمن الرياض الخضراء مع 8.5 كم مسارات دراجات",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "RCRC Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Green+Riyadh+Al+Janadriyah+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي"
+    ],
+    "lat": 24.8567,
+    "lng": 46.7654,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "green-riyadh-irqah-park",
+    "name_ar": "الرياض الخضراء حديقة عرقة",
+    "name_en": "Green Riyadh Irqah Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي عرقة",
+    "neighborhood_en": "Irqah",
+    "description_ar": "حديقة ضمن الرياض الخضراء مع 22 منطقة لعب أطفال تعليمية",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "RCRC Official 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Green+Riyadh+Irqah+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي"
+    ],
+    "lat": 24.6876,
+    "lng": 46.5567,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-azdhar-park",
+    "name_ar": "حديقة الأزدهار",
+    "name_en": "Al Azdhar Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "حديقة حي مع مساحات خضراء ومناطق جلوس ومسارات مشي",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Azdhar+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي"
+    ],
+    "lat": 24.7456,
+    "lng": 46.6654,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "wadi-hanifah-destination",
+    "name_ar": "وجهة وادي حنيفة",
+    "name_en": "Wadi Hanifah Destination",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "وادي حنيفة",
+    "neighborhood_en": "Wadi Hanifah",
+    "description_ar": "وجهة ضمن بوليفارد الرياضي مع مسارات مشي ودراجات وخيل",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Sports Boulevard Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Hanifah+Destination+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي"
+    ],
+    "lat": 24.6234,
+    "lng": 46.5876,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "ain-heet-cave-trail",
+    "name_ar": "مسار كهف عين هيت",
+    "name_en": "Ain Heet Cave Trail",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "مسار مشي يؤدي إلى كهف جوفي مذهل مع بحيرة تحت الأرض",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TripAdvisor"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ain+Heet+Cave+Trail+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي"
+    ],
+    "lat": 24.4567,
+    "lng": 46.6234,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-thumama-nature-reserve",
+    "name_ar": "محمية الثمامة الطبيعية",
+    "name_en": "Al Thumama Nature Reserve",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الثمامة",
+    "neighborhood_en": "Al Thumama",
+    "description_ar": "محمية طبيعية مع رياضات صحراوية ومسارات هايكنق",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Thumama+Nature+Reserve+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "هايكنق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "tuwaiq-escarpment-trail",
+    "name_ar": "مسار جبال طويق",
+    "name_en": "Tuwaiq Escarpment Trail",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "غرب الرياض",
+    "neighborhood_en": "West Riyadh",
+    "description_ar": "مسار هايكنق على جبال طويق الشهيرة مع مناظر خلابة",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tuwaiq+Escarpment+Trail+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "هايكنق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-quddiya-park",
+    "name_ar": "حديقة القدية",
+    "name_en": "Al Quddiya Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "القدية",
+    "neighborhood_en": "Qiddiya",
+    "description_ar": "حديقة ومنطقة ترفيهية ضمن مشروع القدية العملاق",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Qiddiya Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Quddiya+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "هايكنق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "riyadh-botanical-garden",
+    "name_ar": "حديقة الرياض النباتية",
+    "name_en": "Riyadh Botanical Garden",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "حديقة نباتية مع أشجار ونباتات محلية ومسارات تعليمية",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Botanical+Garden+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "هايكنق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-rabwah-park",
+    "name_ar": "حديقة الربوة",
+    "name_en": "Al Rabwah Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الربوة",
+    "neighborhood_en": "Al Rabwah",
+    "description_ar": "حديقة حي مع مساحات خضراء وملاعب أطفال",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Rabwah+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "هايكنق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-munsiyah-park",
+    "name_ar": "حديقة المنسية",
+    "name_en": "Al Munsiyah Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي المنسية",
+    "neighborhood_en": "Al Munsiyah",
+    "description_ar": "حديقة حي هادئة مع مسارات مشي ومناطق جلوس",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Munsiyah+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "هايكنق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "riyadh-green-trail",
+    "name_ar": "المسار الأخضر الرياض",
+    "name_en": "Riyadh Green Trail",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مسار أخضر يربط أحياء الرياض ضمن مشروع الرياض الخضراء",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "RCRC Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Green+Trail+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "هايكنق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "sunset-point-riyadh",
+    "name_ar": "نقطة الغروب الرياض",
+    "name_en": "Sunset Point Riyadh",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "غرب الرياض",
+    "neighborhood_en": "West Riyadh",
+    "description_ar": "نقطة مرتفعة لمشاهدة غروب الشمس فوق صحراء الرياض",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sunset+Point+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "هايكنق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-diriyah-walk-trail",
+    "name_ar": "مسار مشي الدرعية",
+    "name_en": "Al Diriyah Walk Trail",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "مسار مشي تاريخي عبر الدرعية القديمة والحدائق",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Diriyah+Walk+Trail+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "هايكنق"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-hamra-linear-park",
+    "name_ar": "حديقة الحمراء الخطية",
+    "name_en": "Al Hamra Linear Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الحمرا",
+    "neighborhood_en": "Al Hamra",
+    "description_ar": "حديقة خطية حديثة مع مسارات مشي ودراجات",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Hamra+Linear+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "thumamah-desert-park",
+    "name_ar": "حديقة الثمامة الصحراوية",
+    "name_en": "Thumamah Desert Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الثمامة",
+    "neighborhood_en": "Al Thumama",
+    "description_ar": "حديقة صحراوية مع كثبان رملية وأنشطة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Thumamah+Desert+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-qirawan-garden-park",
+    "name_ar": "حديقة حي القيروان",
+    "name_en": "Al Qirawan Garden Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي القيروان",
+    "neighborhood_en": "Al Qirawan",
+    "description_ar": "حديقة حديثة في حي القيروان السكني",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Qirawan+Garden+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "wadi-al-jafr-trail",
+    "name_ar": "مسار وادي الجفر",
+    "name_en": "Wadi Al Jafr Trail",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مسار هايكنق في وادي الجفر مع تكوينات صخرية مذهلة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Al+Jafr+Trail+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-kharrarah-park",
+    "name_ar": "حديقة الخرارة",
+    "name_en": "Al Kharrarah Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "حديقة عامة حديثة مع نافورات ومسارات مشي",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Kharrarah+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "riyadh-river-walk",
+    "name_ar": "ممشى نهر الرياض",
+    "name_en": "Riyadh River Walk",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "ممشى نهري ضمن مشروع بوليفارد الرياضي مع حدائق",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+River+Walk+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  }
+]

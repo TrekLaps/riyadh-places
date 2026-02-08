@@ -1,0 +1,1523 @@
+[
+  {
+    "id": "green-mill-bakery",
+    "name_ar": "غرين ميل بيكري",
+    "name_en": "Green Mill Bakery",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Alyasmin",
+    "description_ar": "مخبز طبيعي متخصص بالساوردو بتخمير 16 ساعة بدقيق كامل",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Green+Mill+Bakery+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مخبز",
+      "حلويات"
+    ],
+    "lat": 24.8123,
+    "lng": 46.6543,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "kingdom-dates",
+    "name_ar": "مملكة التمور",
+    "name_en": "Kingdom Dates",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "أشهر محل تمور في الرياض متخصص بتمور الشوكولاتة الفاخرة",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TripAdvisor Top Rated"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Kingdom+Dates+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تمور",
+      "هدايا"
+    ],
+    "lat": 24.7234,
+    "lng": 46.6789,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "bateel-dates",
+    "name_ar": "بتيل للتمور",
+    "name_en": "Bateel Dates",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "علامة تمور فاخرة سعودية مع تشكيلة حصرية من التمور المحشوة",
+    "google_rating": 4.6,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Bateel Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bateel+Dates+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تمور",
+      "هدايا"
+    ],
+    "lat": 24.6987,
+    "lng": 46.6876,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-barakah-dates",
+    "name_ar": "البركة للتمور",
+    "name_en": "Al Barakah Dates",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "محل تمور تقليدي يقدم سكري ومجدول وعجوة بجودة عالية",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Barakah+Dates+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تمور",
+      "هدايا"
+    ],
+    "lat": 24.7123,
+    "lng": 46.6567,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "tamrat-premium-dates",
+    "name_ar": "تمرات تمور فاخرة",
+    "name_en": "Tamrat Premium Dates",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "متجر تمور فاخرة من المدينة والقصيم مع أصناف متنوعة",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Tmarat.store"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tamrat+Premium+Dates+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تمور",
+      "هدايا"
+    ],
+    "lat": 24.7456,
+    "lng": 46.6654,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "nadji-dates",
+    "name_ar": "نجدية للتمور",
+    "name_en": "Nadji Dates",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "تمور فاخرة VIP مع تشكيلة واسعة من الأصناف النادرة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Dates-Nagdia Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nadji+Dates+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تمور",
+      "هدايا"
+    ],
+    "lat": 24.7345,
+    "lng": 46.6876,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "frutella-juices",
+    "name_ar": "فروتيلا للعصائر",
+    "name_en": "Frutella Juices",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "محل عصائر طبيعية مع كوكتيلات فواكه مبتكرة وسلطات فواكه",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Frutella+Juices+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عصائر",
+      "صحي"
+    ],
+    "lat": 24.6876,
+    "lng": 46.6876,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "joe-and-the-juice",
+    "name_ar": "جو آند ذا جوس",
+    "name_en": "Joe & The Juice",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "سلسلة عالمية للعصائر والقهوة مع شيكات صحية وأطباق خفيفة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025",
+      "JoeJuice.com"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Joe+&+The+Juice+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عصائر",
+      "صحي"
+    ],
+    "lat": 24.6987,
+    "lng": 46.6876,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "mango-world",
+    "name_ar": "مانجو ورلد",
+    "name_en": "Mango World",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "عالم المانجو المتخصص بعصائر الفواكه وسلاش وميلكشيك",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mango+World+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عصائر",
+      "صحي"
+    ],
+    "lat": 24.6876,
+    "lng": 46.6876,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "smoothie-paradise",
+    "name_ar": "سموذي بارادايس",
+    "name_en": "Smoothie Paradise",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "محل سموذي مفتوح حتى 4 صباحاً مع خلطات مبتكرة",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Smoothie+Paradise+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عصائر",
+      "صحي"
+    ],
+    "lat": 24.6876,
+    "lng": 46.6876,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "50-fruits",
+    "name_ar": "50 فروتس",
+    "name_en": "50 Fruits",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "من أقدم محلات العصائر في الرياض مع ميلكشيك وشاورما",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=50+Fruits+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عصائر",
+      "صحي"
+    ],
+    "lat": 24.7234,
+    "lng": 46.6789,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "abo-shaker-juice",
+    "name_ar": "أبو شاكر للعصائر",
+    "name_en": "Abo Shaker Juice",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "As Sulimaniyah",
+    "description_ar": "عصائر كوكتيل فواكه وسلطات فواكه بحجم عائلي مفتوح 24 ساعة",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Abo+Shaker+Juice+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عصائر",
+      "صحي"
+    ],
+    "lat": 24.6876,
+    "lng": 46.6876,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "power-juice",
+    "name_ar": "باور جوس",
+    "name_en": "Power Juice",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي النزهة",
+    "neighborhood_en": "An Nuzhah",
+    "description_ar": "محل عصائر وقهوة مع كوكتيل الرياض الخاص وميامي بيتش",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Power+Juice+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عصائر",
+      "صحي"
+    ],
+    "lat": 24.7456,
+    "lng": 46.7123,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "raw-health-bar",
+    "name_ar": "رو هيلث بار",
+    "name_en": "RAW Health Bar",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "بار صحي متخصص بالعصائر الخضراء والسموذي المغذي",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=RAW+Health+Bar+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عصائر",
+      "صحي"
+    ],
+    "lat": 24.8234,
+    "lng": 46.6234,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "signature-juice",
+    "name_ar": "سيقنتشر جوس",
+    "name_en": "Signature Juice",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "عصائر انستغرامية بنكهات مبتكرة مثل رينبو وورد بيري",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Signature+Juice+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عصائر",
+      "صحي"
+    ],
+    "lat": 24.7123,
+    "lng": 46.6567,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "juice-day",
+    "name_ar": "جوس داي",
+    "name_en": "Juice Day",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "عصائر طبيعية طازجة بأسعار تبدأ من 5 ريال فقط",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Juice+Day+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عصائر",
+      "صحي"
+    ],
+    "lat": 24.7345,
+    "lng": 46.6876,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "juice-bank",
+    "name_ar": "جوس بنك",
+    "name_en": "Juice Bank",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "محل عصائر وبان كيك ووافل مع سلطة فواكه طازجة",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Foursquare"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Juice+Bank+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عصائر",
+      "صحي"
+    ],
+    "lat": 24.7456,
+    "lng": 46.6654,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "mzz-juice",
+    "name_ar": "عصائر مز",
+    "name_en": "Mzz Juice",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "As Sahafah",
+    "description_ar": "من أفضل وأنظف محلات العصائر في الرياض",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Foursquare"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mzz+Juice+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عصائر",
+      "صحي"
+    ],
+    "lat": 24.8012,
+    "lng": 46.6654,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "tasnim-juice",
+    "name_ar": "عصير تسنيم",
+    "name_en": "Tasnim Juice",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "عصائر ومنتجات طبيعية بطعم مميز مع توصيل لكل الرياض",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Facebook Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tasnim+Juice+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عصائر",
+      "صحي"
+    ],
+    "lat": 24.7234,
+    "lng": 46.6543,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "arawla-juice",
+    "name_ar": "عصائر اراولة",
+    "name_en": "Arawla Juice",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "As Sahafah",
+    "description_ar": "محل عصائر طبيعية في حي الصحافة",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TheChefz"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Arawla+Juice+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عصائر",
+      "صحي"
+    ],
+    "lat": 24.8012,
+    "lng": 46.6654,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "magnolia-bakery-riyadh",
+    "name_ar": "ماغنوليا بيكري الرياض",
+    "name_en": "Magnolia Bakery Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مخبز نيويوركي شهير متخصص ببودنج الموز والكب كيك",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Magnolia+Bakery+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "uncle-tetsu-riyadh-park",
+    "name_ar": "انكل تتسو رياض بارك",
+    "name_en": "Uncle Tetsu Riyadh Park",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "رياض بارك",
+    "neighborhood_en": "Riyadh Park",
+    "description_ar": "مخبز ياباني شهير بتشيزكيك الهواء الرقيق والخفيف",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Uncle+Tetsu+Riyadh+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "godiva-chocolate-riyadh",
+    "name_ar": "غوديفا شوكولاتة الرياض",
+    "name_en": "Godiva Chocolate Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "شوكولاتة بلجيكية فاخرة مع مشروبات ساخنة وباردة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Godiva+Chocolate+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "patchi-chocolates-riyadh",
+    "name_ar": "باتشي شوكولاتة الرياض",
+    "name_en": "Patchi Chocolates Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "شوكولاتة لبنانية فاخرة مع تغليف هدايا مميز",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Patchi+Chocolates+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "cafe-bateel-desserts",
+    "name_ar": "كافيه بتيل حلويات",
+    "name_en": "Cafe Bateel Desserts",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "حلويات فاخرة بالتمر من بتيل مع كيك وبراونيز",
+    "google_rating": 4.6,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Bateel Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Cafe+Bateel+Desserts+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "maison-des-fleurs-dates",
+    "name_ar": "ميزون دي فلور تمور",
+    "name_en": "Maison Des Fleurs Dates",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "هدايا تمور وشوكولاتة فاخرة مع تنسيق زهور راقي",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Maison Des Fleurs Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Maison+Des+Fleurs+Dates+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "krispy-kreme-riyadh",
+    "name_ar": "كرسبي كريم الرياض",
+    "name_en": "Krispy Kreme Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "دونات أمريكية شهيرة مع قهوة ونكهات موسمية",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Krispy+Kreme+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "saadeddin-sweets",
+    "name_ar": "سعدالدين للحلويات",
+    "name_en": "Saadeddin Sweets",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "حلويات عربية وشرقية من أشهر العلامات السعودية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Saadeddin+Sweets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "holland-bakery-riyadh",
+    "name_ar": "هولاند بيكري الرياض",
+    "name_en": "Holland Bakery Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مخبز هولندي يقدم خبز وكيك ومعجنات أوروبية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Holland+Bakery+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "dunkin-donuts-riyadh",
+    "name_ar": "دانكن دونتس الرياض",
+    "name_en": "Dunkin Donuts Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "دونات وقهوة أمريكية مع وجبات إفطار سريعة",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Dunkin+Donuts+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "paul-bakery-riyadh",
+    "name_ar": "بول بيكري الرياض",
+    "name_en": "Paul Bakery Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "مخبز ومقهى فرنسي يقدم كرواسون وكيك وسندويشات",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Paul+Bakery+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "maison-kayser-riyadh",
+    "name_ar": "ميزون كايزر الرياض",
+    "name_en": "Maison Kayser Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مخبز فرنسي أصيل متخصص بالباغيت والفينوازري",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Maison+Kayser+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "gerard-patisserie-riyadh",
+    "name_ar": "جيرارد باتيسري الرياض",
+    "name_en": "Gerard Patisserie Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "باتيسري فرنسية متخصصة بالحلويات الراقية والماكارون",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Gerard+Patisserie+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "roasting-house-coffee",
+    "name_ar": "روستنق هاوس كوفي",
+    "name_en": "Roasting House Coffee",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "ورش تحميص وتحضير قهوة حسية مع حلويات",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "SoulOfSaudi 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Roasting+House+Coffee+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "nola-cupcakes-riyadh",
+    "name_ar": "نولا كبكيك الرياض",
+    "name_en": "Nola Cupcakes Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "كب كيك مصري شهير مع نكهات مبتكرة وألوان زاهية",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nola+Cupcakes+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "le-pain-quotidien-riyadh",
+    "name_ar": "لو بان كوتيديان الرياض",
+    "name_en": "Le Pain Quotidien Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مخبز بلجيكي عضوي مع خبز ومعجنات وفطور",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Le+Pain+Quotidien+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "baskin-robbins-riyadh",
+    "name_ar": "باسكن روبنز الرياض",
+    "name_en": "Baskin Robbins Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "آيس كريم أمريكي بـ 31 نكهة مع كيك وميلكشيك",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Baskin+Robbins+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "haagen-dazs-riyadh",
+    "name_ar": "هاغن داز الرياض",
+    "name_en": "Haagen Dazs Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "آيس كريم فاخر مع نكهات مميزة وتقديم أنيق",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Haagen+Dazs+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "cold-stone-creamery-riyadh",
+    "name_ar": "كولد ستون كريمري الرياض",
+    "name_en": "Cold Stone Creamery Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "آيس كريم أمريكي يخلط على رخامة باردة أمامك",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Cold+Stone+Creamery+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "nothing-bundt-cakes-riyadh",
+    "name_ar": "ناثنق بندت كيكس الرياض",
+    "name_en": "Nothing Bundt Cakes Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "كيك بندت أمريكي شهير بنكهات متنوعة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Nothing+Bundt+Cakes+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "laderach-swiss-chocolate",
+    "name_ar": "لادراخ شوكولاتة سويسرية",
+    "name_en": "Laderach Swiss Chocolate",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "شوكولاتة سويسرية حرفية فاخرة طازجة",
+    "google_rating": 4.6,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Laderach+Swiss+Chocolate+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "pierre-herme-riyadh",
+    "name_ar": "بيير هيرميه الرياض",
+    "name_en": "Pierre Herme Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "ماكارون وحلويات فرنسية فاخرة من بيكاسو المعجنات",
+    "google_rating": 4.6,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pierre+Herme+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "garrett-popcorn-riyadh",
+    "name_ar": "غاريت بوبكورن الرياض",
+    "name_en": "Garrett Popcorn Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "فشار شيكاغو الشهير بنكهات كراميل وجبنة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Garrett+Popcorn+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "crumbl-cookies-riyadh",
+    "name_ar": "كرمبل كوكيز الرياض",
+    "name_en": "Crumbl Cookies Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "كوكيز أمريكية عملاقة بنكهات أسبوعية متغيرة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Crumbl+Cookies+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "lady-m-riyadh",
+    "name_ar": "ليدي ام الرياض",
+    "name_en": "Lady M Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "كيك كريب فرنسي بعشرين طبقة رقيقة مع كريم",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lady+M+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "mille-feuille-patisserie",
+    "name_ar": "ميل فوي باتيسري",
+    "name_en": "Mille Feuille Patisserie",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "باتيسري فرنسية متخصصة بالطبقات والميل فوي",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mille+Feuille+Patisserie+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "saudia-dairy-ice-cream",
+    "name_ar": "سعودية ديري آيس كريم",
+    "name_en": "Saudia Dairy Ice Cream",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "آيس كريم سعودي تقليدي بأسعار شعبية",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Saudia+Dairy+Ice+Cream+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-hallab-sweets-extended",
+    "name_ar": "حلويات الحلاب",
+    "name_en": "Al Hallab Sweets Extended",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "فروع متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "حلويات لبنانية تقليدية مع بقلاوة وكنافة",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Hallab+Sweets+Extended+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "turkish-delight-riyadh",
+    "name_ar": "الراحة التركية الرياض",
+    "name_en": "Turkish Delight Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "حلويات تركية تقليدية مع لقوم وبقلاوة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Turkish+Delight+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "opera-patisserie-riyadh",
+    "name_ar": "اوبرا باتيسري الرياض",
+    "name_en": "Opera Patisserie Riyadh",
+    "category": "حلويات",
+    "category_ar": "حلويات",
+    "category_en": "desserts",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "باتيسري راقية مع كيك وتارت فرنسي أصيل",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps Verified"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Opera+Patisserie+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  }
+]

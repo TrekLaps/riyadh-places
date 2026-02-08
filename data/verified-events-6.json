@@ -1,0 +1,674 @@
+[
+  {
+    "id": "samoca-museum",
+    "name_ar": "متحف الفن المعاصر السعودي",
+    "name_en": "SAMoCA Museum",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "حي جاكس",
+    "neighborhood_en": "JAX District",
+    "description_ar": "متحف الفن المعاصر السعودي في منطقة جاكس الإبداعية",
+    "google_rating": 4.6,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Art Week Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=SAMoCA+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "noor-riyadh-festival",
+    "name_ar": "مهرجان نور الرياض",
+    "name_en": "Noor Riyadh Festival",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "مناطق متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "مهرجان فنون ضوئية سنوي يحول الرياض لمعرض ضوئي مفتوح",
+    "google_rating": 4.7,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Art 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Noor+Riyadh+Festival+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "tuwaiq-sculpture",
+    "name_ar": "معرض طويق للنحت",
+    "name_en": "Tuwaiq Sculpture",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "مناطق متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "برنامج نحت عام يعيد تعريف الفضاءات العامة بالفن",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Art 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tuwaiq+Sculpture+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "diriyah-art-futures",
+    "name_ar": "مستقبل فنون الدرعية",
+    "name_en": "Diriyah Art Futures",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "مركز فنون رقمية جديد قرب موقع التريف التراثي",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TheArtFairGuy 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Diriyah+Art+Futures+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "desert-x-alula",
+    "name_ar": "ديزرت اكس العلا",
+    "name_en": "Desert X AlUla",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "العلا",
+    "neighborhood_en": "AlUla",
+    "description_ar": "معرض فن صحراوي دولي في العلا مع أعمال فنانين سعوديين",
+    "google_rating": 4.7,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "DesertX 2024"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Desert+X+AlUla+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "riyadh-season-boulevard",
+    "name_ar": "موسم الرياض البوليفارد",
+    "name_en": "Riyadh Season Boulevard",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "البوليفارد",
+    "neighborhood_en": "Boulevard",
+    "description_ar": "أكبر منطقة ترفيهية في موسم الرياض مع حفلات وفعاليات",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "GEA Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Season+Boulevard+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "al-murabba-riyadh-season-zone",
+    "name_ar": "منطقة المربع موسم الرياض",
+    "name_en": "Al Murabba Riyadh Season Zone",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "حي المربع",
+    "neighborhood_en": "Al Murabba",
+    "description_ar": "منطقة ثقافية في موسم الرياض مع مطاعم وفعاليات",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Murabba+Riyadh+Season+Zone+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "athr-gallery-jax",
+    "name_ar": "معرض أثر جاكس",
+    "name_en": "Athr Gallery JAX",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "حي جاكس",
+    "neighborhood_en": "JAX District",
+    "description_ar": "معرض فني رائد في منطقة جاكس الإبداعية",
+    "google_rating": 4.6,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Art Newspaper 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Athr+Gallery+JAX+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "lift-gallery",
+    "name_ar": "معرض لفت",
+    "name_en": "Lift Gallery",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "حي جاكس",
+    "neighborhood_en": "JAX District",
+    "description_ar": "معرض فني في منطقة جاكس يقدم فن سعودي ناشئ",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Art Week Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lift+Gallery+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "shamalat-art-space",
+    "name_ar": "شمالات مساحة فنية",
+    "name_en": "Shamalat Art Space",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مساحة فنية تستضيف معارض وبرامج ثقافية",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Art Week Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Shamalat+Art+Space+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "hewar-gallery",
+    "name_ar": "معرض حوار",
+    "name_en": "Hewar Gallery",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "معرض فني عريق من أقدم المعارض في الرياض",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Art Week Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Hewar+Gallery+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "royal-institute-of-traditional-arts",
+    "name_ar": "المعهد الملكي للفنون التقليدية",
+    "name_en": "Royal Institute of Traditional Arts",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "معهد ملكي لحفظ وتعليم الفنون التقليدية السعودية",
+    "google_rating": 4.6,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Art Week Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Royal+Institute+of+Traditional+Arts+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "riyadh-season-main-festival",
+    "name_ar": "مهرجان موسم الرياض الرئيسي",
+    "name_en": "Riyadh Season Main Festival",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "مناطق متعددة",
+    "neighborhood_en": "Various",
+    "description_ar": "أكبر مهرجان ترفيهي سنوي في السعودية مع فعاليات متنوعة",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "GEA Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Season+Main+Festival+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فعاليات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "saudi-cup-horse-racing",
+    "name_ar": "كأس السعودية لسباق الخيل",
+    "name_en": "Saudi Cup Horse Racing",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "ميدان الملك عبدالعزيز",
+    "neighborhood_en": "King Abdulaziz Racecourse",
+    "description_ar": "أغلى سباق خيل في العالم يقام سنوياً في الرياض",
+    "google_rating": 4.7,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Saudi Cup Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Saudi+Cup+Horse+Racing+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فعاليات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "mdlbeast-soundstorm",
+    "name_ar": "مدل بيست ساوندستورم",
+    "name_en": "MDLBeast Soundstorm",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "أكبر مهرجان موسيقي في الشرق الأوسط مع فنانين عالميين",
+    "google_rating": 4.6,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "MDLBeast Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=MDLBeast+Soundstorm+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فعاليات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "esports-world-cup-riyadh",
+    "name_ar": "كأس العالم للرياضات الإلكترونية",
+    "name_en": "Esports World Cup Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "البوليفارد",
+    "neighborhood_en": "Boulevard",
+    "description_ar": "بطولة عالمية للرياضات الإلكترونية في الرياض",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Esports World Cup Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Esports+World+Cup+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فعاليات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "riyadh-international-film-festival",
+    "name_ar": "مهرجان الرياض السينمائي الدولي",
+    "name_en": "Riyadh International Film Festival",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مهرجان سينمائي دولي يعرض أفلام عربية وعالمية",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Saudi Film Commission"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+International+Film+Festival+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فعاليات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "janadriyah-cultural-festival",
+    "name_ar": "مهرجان الجنادرية الثقافي",
+    "name_en": "Janadriyah Cultural Festival",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "الجنادرية",
+    "neighborhood_en": "Al Janadriyah",
+    "description_ar": "مهرجان ثقافي تراثي سعودي سنوي مع عروض فنون شعبية",
+    "google_rating": 4.5,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Ministry of Culture"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Janadriyah+Cultural+Festival+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فعاليات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "comic-con-riyadh",
+    "name_ar": "كوميك كون الرياض",
+    "name_en": "Comic Con Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مؤتمر الكوميكس والأنمي والألعاب في الرياض",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "SRMG Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Comic+Con+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فعاليات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "liv-golf-riyadh",
+    "name_ar": "لف غولف الرياض",
+    "name_en": "LIV Golf Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "بطولة غولف عالمية في الرياض مع نجوم اللعبة",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "LIV Golf Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=LIV+Golf+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فعاليات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "wwe-crown-jewel-riyadh",
+    "name_ar": "دبليو دبليو إي كراون جول",
+    "name_en": "WWE Crown Jewel Riyadh",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "عرض مصارعة عالمي سنوي في الرياض",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "WWE Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=WWE+Crown+Jewel+Riyadh+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فعاليات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "riyadh-international-jazz-festival",
+    "name_ar": "مهرجان الجاز الدولي الرياض",
+    "name_en": "Riyadh International Jazz Festival",
+    "category": "فعاليات",
+    "category_ar": "فعاليات",
+    "category_en": "events",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مهرجان جاز دولي مع فنانين عالميين",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "GEA Official"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+International+Jazz+Festival+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فعاليات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  }
+]
