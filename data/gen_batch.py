@@ -307,7 +307,8 @@ restaurant_data = [
 ]
 
 for r in restaurant_data:
-    add(r[0], r[1], "restaurant", r[2], r[3], r[4], r[5], r[6], r[7], r[8], r[9], r[10], r[11], r[12], r[13], r[14], r[15], r[16], r[17], r[18], r[19], r[20])
+    # Tuples have 21 elements: name_ar, name_en, nh, nh_en, desc, rating, reviews, price, trending, is_new, quote, pros, cons, best_time, avg_spend, lat, lng, audience, is_free, peak, district
+    add(r[0], r[1], "restaurant", r[2], r[3], r[4], r[5], r[6], r[7], r[8], r[9], r[10], r[11], r[12], r[13], r[14], r[15], r[16], r[17], r[18], r[19], "المساء", r[20])
 
 # Generate more restaurants programmatically to fill gaps
 restaurant_templates = [
@@ -406,7 +407,7 @@ cafe_data = [
 ]
 
 for c in cafe_data:
-    add(c[0], c[1], "cafe", c[2], c[3], c[4], c[5], c[6], c[7], c[8], c[9], c[10], c[11], c[12], c[13], c[14], c[15], c[16], c[17], c[18], c[19], c[20])
+    add(c[0], c[1], "cafe", c[2], c[3], c[4], c[5], c[6], c[7], c[8], c[9], c[10], c[11], c[12], c[13], c[14], c[15], c[16], c[17], c[18], c[19], "الصباح", c[20])
 
 # Generate more cafes programmatically
 cafe_templates = [
@@ -661,4 +662,103 @@ nature_templates = [
     ("منتزه جبل الحائر", "Jabal Al Hair Park", "حي جنوب الرياض", "South Riyadh", "منتزه جبلي مع إطلالات بانورامية ومسارات تسلق.", 24.4800, 46.7200, "جنوب الرياض"),
     ("حديقة الروضة العائلية", "Rawdah Family Park", "حي الروضة", "Al Rawdah", "حديقة عائلية هادئة مع مساحات لعب آمنة للأطفال.", 24.7340, 46.7290, "شرق الرياض"),
     ("واحة النخيل", "Palm Oasis", "حي العارض", "Al Arid", "واحة نخيل طبيعية مع مسارات مشي وأماكن استرخاء.", 24.8400, 46.6340, "شمال الرياض"),
-    ("حديقة الصحافة", "Al Sahafah Park", "حي الصحافة", "Al Sahafah", "حديقة حي الصحافة مع مرافق رياضية ومسارات مشي.", 24.7870
+    ("حديقة الصحافة", "Al Sahafah Park", "حي الصحافة", "Al Sahafah", "حديقة حي الصحافة مع مرافق رياضية ومسارات مشي.", 24.7870, 46.6550, "شمال الرياض"),
+]
+
+for et in ent_templates:
+    rating = round(random.uniform(3.9, 4.5), 1)
+    reviews = random.randint(500, 3500)
+    price = random.choice(["$$", "$$$"])
+    trending = random.random() < 0.15
+    is_new = random.random() < 0.2
+    audiences = random.sample(["شباب", "عوائل", "أطفال", "أصدقاء", "رياضيين"], 2)
+    
+    add(et[0], et[1], "entertainment", et[2], et[3], et[4],
+        rating, reviews, price, trending, is_new,
+        "تجربة ترفيهية ممتعة للجميع",
+        ["الأنشطة المتنوعة", "المرافق الحديثة", "مناسب للجميع"],
+        ["الأسعار مرتفعة", "يحتاج حجز مسبق"],
+        "المساء والويكند", f"{'٦٠-١٢٠' if price == '$$' else '١٢٠-٢٠٠'} ريال للشخص",
+        et[5], et[6], audiences, False, "16:00-00:00", "المساء", et[7])
+
+print(f"  Entertainment added: {sum(1 for p in new_places if p['category_en'] == 'entertainment')}")
+
+# ==========================================
+# DESSERTS (need ~95)
+# ==========================================
+print("Adding desserts...")
+
+dessert_templates = [
+    ("حلويات ليلى", "Layla Sweets", "حي الياسمين", "Al Yasmin", 24.8095, 46.6360, "شمال الرياض"),
+    ("كوكيز مونستر", "Cookie Monster Shop", "حي حطين", "Hittin", 24.7645, 46.6340, "شمال الرياض"),
+    ("جيلاتو إيطاليانو", "Gelato Italiano Riyadh", "حي العليا", "Olaya", 24.6940, 46.6845, "وسط الرياض"),
+    ("تشيز كيك بلس", "Cheesecake Plus", "حي النخيل", "An Nakheel", 24.7745, 46.6385, "شمال الرياض"),
+    ("كنافة الملك", "Kunafa Al Malik", "حي الملز", "Al Malaz", 24.6555, 46.7200, "وسط الرياض"),
+    ("بقلاوة الشام", "Baklava Al Sham Shop", "حي السليمانية", "Al Sulaymaniyyah", 24.6885, 46.6880, "وسط الرياض"),
+    ("كرامبل شوب", "Crumble Shop Riyadh", "حي الملقا", "Al Malqa", 24.7970, 46.6270, "شمال الرياض"),
+    ("ميلك شيك بار", "Milkshake Bar Riyadh", "حي الصحافة", "Al Sahafah", 24.7865, 46.6550, "شمال الرياض"),
+    ("تمور الملكة", "Royal Dates Shop", "حي الورود", "Al Wurud", 24.7095, 46.6890, "وسط الرياض"),
+    ("مكارون بوتيك", "Macaron Boutique Riyadh", "حي حطين", "Hittin", 24.7650, 46.6350, "شمال الرياض"),
+    ("حلويات التاج", "Crown Sweets Riyadh", "حي النرجس", "An Narjis", 24.8220, 46.6370, "شمال الرياض"),
+    ("آيس كريم رول", "Ice Cream Roll Shop", "حي الربيع", "Al Rabi", 24.7895, 46.6495, "شمال الرياض"),
+    ("كريب ستيشن", "Crepe Station Riyadh", "حي قرطبة", "Qurtubah", 24.7410, 46.7460, "شرق الرياض"),
+    ("وافل بار", "Waffle Bar Riyadh", "حي الغدير", "Al Ghadir", 24.8060, 46.6130, "شمال الرياض"),
+    ("دونات فاكتوري", "Donut Factory Riyadh", "حي المحمدية", "Mohammadiya", 24.7250, 46.7100, "شرق الرياض"),
+    ("فوندو شوكولا", "Fondue Chocolate Bar", "حي الياسمين", "Al Yasmin", 24.8085, 46.6365, "شمال الرياض"),
+    ("بسبوسة هاوس", "Basbousa House Riyadh", "حي الملز", "Al Malaz", 24.6560, 46.7205, "وسط الرياض"),
+    ("حلويات جنة", "Janna Sweets Shop", "حي السويدي", "Al Suwaidi", 24.6305, 46.6510, "غرب الرياض"),
+    ("لقمة القاضي", "Luqmat Al Qadi Shop", "حي المربع", "Al Murabba", 24.6515, 46.7085, "وسط الرياض"),
+    ("شوكو فاكتوري", "Choco Factory Riyadh", "حي العارض", "Al Arid", 24.8370, 46.6325, "شمال الرياض"),
+    ("كنافة نابلسية", "Nablus Kunafa Riyadh", "حي البطحاء", "Al Batha", 24.6350, 46.7160, "وسط الرياض"),
+    ("تشورو بار", "Churro Bar Riyadh", "حي النخيل", "An Nakheel", 24.7750, 46.6395, "شمال الرياض"),
+    ("براوني بلس", "Brownie Plus Riyadh", "حي الملقا", "Al Malqa", 24.7975, 46.6265, "شمال الرياض"),
+    ("كريم بروليه", "Creme Brulee Bar", "حي حطين", "Hittin", 24.7655, 46.6355, "شمال الرياض"),
+    ("حلويات الخان", "Khan Sweets Riyadh", "حي الورود", "Al Wurud", 24.7100, 46.6895, "وسط الرياض"),
+    ("بان كيك هاوس", "Pancake House Riyadh", "حي الصحافة", "Al Sahafah", 24.7875, 46.6545, "شمال الرياض"),
+    ("آيس كريم لاند", "Ice Cream Land Riyadh", "حي الشفاء", "Al Shifa", 24.5910, 46.6810, "جنوب الرياض"),
+    ("حلويات الأميرة", "Princess Sweets Shop", "حي ظهرة البديعة", "Dhahrat Al Badiah", 24.6400, 46.6310, "غرب الرياض"),
+    ("حلويات الورد", "Rose Sweets Riyadh", "حي الريان", "Al Rayyan", 24.7060, 46.7590, "شرق الرياض"),
+    ("تمرية فاخرة", "Premium Tamriya Shop", "حي الملقا", "Al Malqa", 24.7965, 46.6275, "شمال الرياض"),
+    ("حلويات القمر", "Moon Sweets Riyadh", "حي المنصورية", "Al Mansouriyah", 24.5410, 46.7210, "جنوب الرياض"),
+    ("حلويات المعمول", "Maamoul Sweets Shop", "حي العريجاء", "Al Uraija", 24.6110, 46.6200, "غرب الرياض"),
+    ("حلويات البلد", "Balad Sweets Diriyah", "حي الدرعية", "Diriyah", 24.7360, 46.5745, "خارج المدينة"),
+    ("حلويات دمشقية", "Damascus Sweets RUH", "حي الروابي", "Al Rawabi", 24.7155, 46.7545, "شرق الرياض"),
+    ("حلويات الشرق", "Eastern Sweets Shop", "حي الحمراء", "Al Hamra", 24.7050, 46.7445, "شرق الرياض"),
+    ("مافن هاوس", "Muffin House Riyadh", "حي اليرموك", "Al Yarmuk", 24.7210, 46.7510, "شرق الرياض"),
+    ("حلويات العيد", "Eid Sweets Riyadh", "حي الحزم", "Al Hazm", 24.5510, 46.7010, "جنوب الرياض"),
+    ("حلويات الوزير", "Al Wazir Sweets", "حي المنار", "Al Manar", 24.7260, 46.7390, "شرق الرياض"),
+    ("بودينق بار", "Pudding Bar Riyadh", "حي المروج", "Al Muruj", 24.7810, 46.6610, "شمال الرياض"),
+    ("حلويات السنبلة", "Sunbula Sweets Shop", "حي الدار البيضاء", "Al Dar Al Baida", 24.5700, 46.7060, "جنوب الرياض"),
+]
+
+for dt in dessert_templates:
+    desc = f"محل حلويات مميز في {dt[2]} يقدم تشكيلة واسعة من الحلويات الطازجة يومياً بجودة عالية ومكونات طبيعية."
+    rating = round(random.uniform(4.0, 4.6), 1)
+    reviews = random.randint(300, 4000)
+    price = random.choice(["$", "$$"])
+    audiences = random.sample(["عوائل", "بنات", "أطفال", "أزواج", "شباب"], 2)
+    
+    add(dt[0], dt[1], "desserts", dt[2], dt[3], desc,
+        rating, reviews, price, random.random()<0.1, random.random()<0.2,
+        "حلويات لذيذة وطازجة",
+        ["الحلويات الطازجة يومياً", "التنوع في الخيارات", "الجودة العالية"],
+        ["الأسعار مرتفعة", "ينتهي بعض الأصناف مبكراً"],
+        "بعد العصر", f"{'١٥-٣٥' if price == '$' else '٣٥-٧٠'} ريال للشخص",
+        dt[4], dt[5], audiences, False, "16:00-00:00", "المساء", dt[6])
+
+print(f"  Desserts added: {sum(1 for p in new_places if p['category_en'] == 'desserts')}")
+
+# ==========================================
+# SAVE BATCH
+# ==========================================
+print(f"\nTotal new places generated: {len(new_places)}")
+
+# Count by category
+from collections import Counter
+cats = Counter(p['category_en'] for p in new_places)
+for k, v in cats.most_common():
+    print(f"  {k}: {v}")
+
+with open('new-batch-2026.json', 'w', encoding='utf-8') as f:
+    json.dump(new_places, f, ensure_ascii=False, indent=2)
+print("Saved to new-batch-2026.json")
