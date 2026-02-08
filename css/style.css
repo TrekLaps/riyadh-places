@@ -654,6 +654,8 @@ img {
   border-top: 3px solid var(--gold);
   animation: fadeInUp 0.5s ease forwards;
   opacity: 0;
+  content-visibility: auto;
+  contain-intrinsic-size: 0 420px;
 }
 
 .place-card:nth-child(1) { animation-delay: 0.05s; }

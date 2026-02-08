@@ -7,11 +7,22 @@ let placesData = [];
 
 async function loadPlaces() {
   try {
-    const response = await fetch('data/places.json');
+    const response = await fetch('data/places-light.json');
     placesData = await response.json();
     return placesData;
   } catch (error) {
     console.error('Error loading places:', error);
+    return [];
+  }
+}
+
+async function loadPlacesDetail() {
+  try {
+    const response = await fetch('data/places-detail.json');
+    placesData = await response.json();
+    return placesData;
+  } catch (error) {
+    console.error('Error loading places detail:', error);
     return [];
   }
 }
@@ -118,7 +129,7 @@ function generatePlaceCard(place) {
   return `
     <article class="place-card" data-category="${place.category}" data-id="${place.id}" data-neighborhood="${place.neighborhood}" data-price="${place.price_level}">
       <div class="place-card-image">
-        ${place.image_url ? `<img src="${place.image_url}" alt="${place.name_ar}" class="card-image" loading="lazy" onerror="this.style.display='none'">` : (categoryIcons[place.category] || '📍')}
+        ${place.image_url ? `<img src="${place.image_url}" alt="${place.name_ar}" class="card-image" loading="lazy" decoding="async" onerror="this.style.display='none'">` : (categoryIcons[place.category] || '📍')}
         ${place.trending ? '<span class="trending-badge">🔥 رائج</span>' : ''}
         ${place.is_new ? '<span class="new-badge">جديد</span>' : ''}
         <button class="fav-btn ${isFav ? 'is-fav' : ''}" data-id="${place.id}" title="${isFav ? 'إزالة من المفضلة' : 'أضف للمفضلة'}" onclick="toggleFavorite('${place.id}')">${isFav ? '❤️' : '🤍'}</button>
