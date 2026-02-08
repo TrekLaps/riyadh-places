@@ -672,30 +672,32 @@ img {
 
 .place-card-image {
   width: 100%;
-  height: 200px;
-  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+  height: 160px;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--gold);
-  font-size: 48px;
   position: relative;
   overflow: hidden;
+  transition: all 0.3s ease;
 }
 
-.place-card-image .card-image {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  left: 0;
-  background-color: #e8e8e8;
+.place-card-image .card-category-icon {
+  font-size: 56px;
+  filter: drop-shadow(0 4px 12px rgba(0,0,0,0.3));
   transition: transform 0.3s ease;
+  z-index: 1;
 }
 
-.place-card:hover .card-image {
-  transform: scale(1.05);
+.place-card:hover .card-category-icon {
+  transform: scale(1.15);
+}
+
+.place-card-image::after {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: radial-gradient(circle at 30% 50%, rgba(255,255,255,0.1) 0%, transparent 70%);
+  pointer-events: none;
 }
 
 .place-card-image .trending-badge {

@@ -1,6 +1,7 @@
 // ===== وين نروح الرياض - Main JavaScript v2 =====
 
-const categoryIcons = { 'cafe': '☕', 'restaurant': '🍽️', 'activity': '🎭', 'تسوق': '🛍️', 'طبيعة': '🏞️', 'كافيه': '☕', 'مطعم': '🍽️', 'ترفيه': '🎭', 'حلويات': '🍰', 'فعاليات': '🎪' };
+const categoryIcons = { 'cafe': '☕', 'restaurant': '🍽️', 'activity': '🎭', 'تسوق': '🛍️', 'طبيعة': '🏞️', 'كافيه': '☕', 'مطعم': '🍽️', 'ترفيه': '🎭', 'حلويات': '🍰', 'فعاليات': '🎪', 'شاليه': '🏕️', 'فنادق': '🏨', 'مولات': '🛒', 'متاحف': '🏛️' };
+const categoryGradients = { 'مطعم': 'linear-gradient(135deg, #c0392b, #e74c3c)', 'كافيه': 'linear-gradient(135deg, #6F4E37, #A0785A)', 'ترفيه': 'linear-gradient(135deg, #8e44ad, #9b59b6)', 'حلويات': 'linear-gradient(135deg, #e84393, #fd79a8)', 'طبيعة': 'linear-gradient(135deg, #27ae60, #2ecc71)', 'تسوق': 'linear-gradient(135deg, #2980b9, #3498db)', 'شاليه': 'linear-gradient(135deg, #d35400, #e67e22)', 'فنادق': 'linear-gradient(135deg, #1a1a2e, #16213e)', 'مولات': 'linear-gradient(135deg, #2c3e50, #34495e)', 'متاحف': 'linear-gradient(135deg, #7f8c8d, #95a5a6)', 'فعاليات': 'linear-gradient(135deg, #f39c12, #f1c40f)' };
 const categoryNames = { 'cafe': 'كافيه', 'restaurant': 'مطعم', 'activity': 'ترفيه', 'تسوق': 'تسوق', 'طبيعة': 'طبيعة', 'كافيه': 'كافيه', 'مطعم': 'مطعم', 'ترفيه': 'ترفيه', 'حلويات': 'حلويات', 'فعاليات': 'فعاليات' };
 
 let placesData = [];
@@ -128,8 +129,8 @@ function generatePlaceCard(place) {
   const isFav = isFavorite(place.id);
   return `
     <article class="place-card" data-category="${place.category}" data-id="${place.id}" data-neighborhood="${place.neighborhood}" data-price="${place.price_level}">
-      <div class="place-card-image">
-        ${place.image_url ? `<img src="${place.image_url}" alt="${place.name_ar}" class="card-image" loading="lazy" decoding="async" onerror="this.style.display='none'">` : (categoryIcons[place.category] || '📍')}
+      <div class="place-card-image" style="background:${categoryGradients[place.category] || 'linear-gradient(135deg, #0a1628, #162040)'}">
+        <span class="card-category-icon">${categoryIcons[place.category] || '📍'}</span>
         ${place.trending ? '<span class="trending-badge">🔥 رائج</span>' : ''}
         ${place.is_new ? '<span class="new-badge">جديد</span>' : ''}
         <button class="fav-btn ${isFav ? 'is-fav' : ''}" data-id="${place.id}" title="${isFav ? 'إزالة من المفضلة' : 'أضف للمفضلة'}" onclick="toggleFavorite('${place.id}')">${isFav ? '❤️' : '🤍'}</button>
