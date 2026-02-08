@@ -461,12 +461,14 @@
     }
   }
   </script>
+  <link rel="stylesheet" href="css/ramadan.css">
 </head>
 <body>
 
   <header class="header">
     <div class="header-inner">
       <a href="index.html" class="logo"><span>🏙️</span><h1>وين نروح بالرياض؟</h1></a>
+      <button class="dark-mode-toggle" aria-label="الوضع الليلي">🌙</button>
       <button class="menu-toggle" aria-label="القائمة">☰</button>
       <nav class="nav">
         <a href="index.html">الرئيسية</a>
@@ -797,6 +799,7 @@
 
   <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
 
+  <script src="js/darkmode.js"></script>
   <script src="js/main.js"></script>
   <script>
     // Ramadan Countdown
@@ -845,7 +848,7 @@
     updateCountdown();
     setInterval(updateCountdown, 1000);
 
-    // Load and render Ramadan places (including new 2026 places)
+    // Load and render Ramadan places (including new 2026 places + tagged places)
     document.addEventListener('DOMContentLoaded', async () => {
       const allPlaces = await loadPlaces();
       // Also load ramadan-2026 specific places
@@ -855,14 +858,35 @@
         if (res.ok) ramadan2026Places = await res.json();
       } catch(e) { console.log('No ramadan-2026-places.json found'); }
       const combinedPlaces = [...allPlaces, ...ramadan2026Places];
-      const ramadanPlaces = combinedPlaces.filter(p => p.ramadan === true);
 
-      const iftarPlaces = ramadanPlaces.filter(p => p.ramadan_category === 'iftar');
-      const suhoorPlaces = ramadanPlaces.filter(p => p.ramadan_category === 'suhoor');
-      const dessertPlaces = ramadanPlaces.filter(p => p.ramadan_category === 'desserts');
-      const taraweehPlaces = ramadanPlaces.filter(p => p.ramadan_category === 'after_taraweeh');
-      const majlisPlaces = ramadanPlaces.filter(p => p.ramadan_category === 'majlis');
-      const eventPlaces = ramadanPlaces.filter(p => p.ramadan_category === 'events');
+      // Merge: ramadan-2026 specific places + newly tagged places from places.json
+      const ramadanSpecific = combinedPlaces.filter(p => p.ramadan === true);
+      const taggedIftar = allPlaces.filter(p => p.ramadan_iftar && !p.ramadan);
+      const taggedSuhoor = allPlaces.filter(p => p.ramadan_suhoor && !p.ramadan);
+      const taggedTent = allPlaces.filter(p => p.ramadan_tent && !p.ramadan);
+
+      // Build category arrays combining both sources
+      const iftarPlaces = [
+        ...ramadanSpecific.filter(p => p.ramadan_category === 'iftar'),
+        ...taggedIftar
+      ];
+      const suhoorPlaces = [
+        ...ramadanSpecific.filter(p => p.ramadan_category === 'suhoor'),
+        ...taggedSuhoor
+      ];
+      const dessertPlaces = [
+        ...ramadanSpecific.filter(p => p.ramadan_category === 'desserts'),
+        ...allPlaces.filter(p => p.category === 'حلويات' && !p.ramadan)
+      ];
+      const taraweehPlaces = [
+        ...ramadanSpecific.filter(p => p.ramadan_category === 'after_taraweeh'),
+        ...allPlaces.filter(p => p.category === 'كافيه' && p.ramadan_suhoor && !p.ramadan)
+      ];
+      const majlisPlaces = [
+        ...ramadanSpecific.filter(p => p.ramadan_category === 'majlis'),
+        ...taggedTent.filter(p => !iftarPlaces.find(ip => ip.id === p.id))
+      ];
+      const eventPlaces = ramadanSpecific.filter(p => p.ramadan_category === 'events');
 
       // Update counts
       const updateCount = (id, count, label) => {
@@ -876,11 +900,12 @@
       updateCount('majlis-count', majlisPlaces.length, 'مجلس');
       updateCount('events-count', eventPlaces.length, 'فعالية');
 
-      // Render each section
-      const renderSection = (places, containerId) => {
+      // Render each section (limit to top 20 for performance, sorted by rating)
+      const renderSection = (places, containerId, limit = 20) => {
         const container = document.getElementById(containerId);
         if (!container || places.length === 0) return;
-        renderCardsWithAds(sortPlaces(places, 'rating-desc'), container);
+        const sorted = sortPlaces(places, 'rating-desc').slice(0, limit);
+        renderCardsWithAds(sorted, container);
       };
 
       renderSection(iftarPlaces, 'iftar-container');
@@ -890,8 +915,18 @@
       renderSection(majlisPlaces, 'majlis-container');
       renderSection(eventPlaces, 'events-container');
 
-      // Schema markup for all ramadan places
-      ramadanPlaces.forEach(p => addSchemaToPage(generateSchemaMarkup(p)));
+      // Schema markup for ramadan-specific places
+      ramadanSpecific.forEach(p => addSchemaToPage(generateSchemaMarkup(p)));
+
+      // Integrate with RamadanMode countdown on this page
+      if (typeof RamadanMode !== 'undefined') {
+        const countdownEl = document.getElementById('cd-message');
+        if (countdownEl && RamadanMode.isRamadanActive()) {
+          const period = RamadanMode.getPeriodMessage();
+          countdownEl.innerHTML = `${period.icon} ${period.text}`;
+          countdownEl.style.cssText = 'font-size:20px;color:var(--ramadan-accent);font-weight:700;margin-top:16px;';
+        }
+      }
     });
   </script>
   <script>
@@ -913,5 +948,6 @@
     });
   </script>
   <script src="js/analytics.js"></script>
+  <script src="js/ramadan.js"></script>
 </body>
 </html>

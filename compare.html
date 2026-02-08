@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>قارن بين مكانين | وين نروح بالرياض؟</title>
+  <meta name="description" content="قارن بين أي مكانين في الرياض جنب بجنب — التقييم، السعر، المميزات والعيوب. اختر الأفضل لك!">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    /* ===== Compare Page Styles ===== */
+    .compare-hero {
+      background: var(--primary);
+      color: white;
+      text-align: center;
+      padding: 40px 20px 30px;
+    }
+    .compare-hero h2 {
+      font-size: 2rem;
+      margin-bottom: 8px;
+    }
+    .compare-hero h2 span { color: var(--gold); }
+    .compare-hero p {
+      color: rgba(255,255,255,0.7);
+      font-size: 1rem;
+    }
+
+    .compare-selectors {
+      max-width: 900px;
+      margin: -20px auto 30px;
+      display: flex;
+      gap: 16px;
+      padding: 0 20px;
+      position: relative;
+      z-index: 10;
+    }
+    .selector-card {
+      flex: 1;
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      padding: 20px;
+      box-shadow: var(--shadow);
+      border: 2px solid var(--border);
+      transition: var(--transition);
+    }
+    .selector-card:hover, .selector-card:focus-within {
+      border-color: var(--gold);
+      box-shadow: var(--shadow-gold);
+    }
+    .selector-card label {
+      display: block;
+      font-weight: 700;
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      margin-bottom: 8px;
+    }
+    .selector-card select {
+      width: 100%;
+      padding: 12px 16px;
+      border: 2px solid var(--border);
+      border-radius: var(--radius-sm);
+      font-family: 'Tajawal', sans-serif;
+      font-size: 1rem;
+      font-weight: 600;
+      background: var(--sand);
+      color: var(--text);
+      cursor: pointer;
+      direction: rtl;
+      appearance: none;
+      -webkit-appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23888' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: 16px center;
+    }
+    .selector-card select:focus {
+      outline: none;
+      border-color: var(--gold);
+    }
+    .vs-badge {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      align-self: center;
+      width: 50px;
+      height: 50px;
+      background: var(--gold);
+      color: var(--primary);
+      font-weight: 900;
+      font-size: 1.1rem;
+      border-radius: 50%;
+      flex-shrink: 0;
+      box-shadow: var(--shadow-gold);
+    }
+
+    /* Comparison Container */
+    .compare-container {
+      max-width: 900px;
+      margin: 0 auto 40px;
+      padding: 0 20px;
+    }
+    .compare-empty {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-muted);
+    }
+    .compare-empty .emoji { font-size: 3rem; margin-bottom: 16px; }
+    .compare-empty h3 { font-size: 1.3rem; color: var(--text); margin-bottom: 8px; }
+
+    /* Comparison Table */
+    .compare-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+
+    .compare-header {
+      grid-column: 1 / -1;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      background: var(--primary);
+      color: white;
+    }
+    .compare-header-cell {
+      padding: 24px 20px;
+      text-align: center;
+    }
+    .compare-header-cell h3 {
+      font-size: 1.3rem;
+      margin-bottom: 4px;
+      color: var(--gold);
+    }
+    .compare-header-cell .subtitle {
+      font-size: 0.85rem;
+      color: rgba(255,255,255,0.6);
+    }
+    .compare-header-cell img {
+      width: 80px;
+      height: 80px;
+      object-fit: cover;
+      border-radius: 12px;
+      margin: 0 auto 12px;
+      border: 2px solid var(--gold);
+    }
+
+    /* Comparison Row */
+    .compare-row {
+      grid-column: 1 / -1;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      border-top: 1px solid var(--border);
+    }
+    .compare-row:nth-child(odd) {
+      background: rgba(244, 237, 228, 0.3);
+    }
+    .compare-row-label {
+      grid-column: 1 / -1;
+      background: var(--primary-light);
+      color: var(--gold);
+      padding: 10px 20px;
+      font-weight: 700;
+      font-size: 0.9rem;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .compare-cell {
+      padding: 16px 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      position: relative;
+    }
+    .compare-cell.winner {
+      background: rgba(201, 168, 76, 0.08);
+    }
+    .winner-badge {
+      display: inline-block;
+      background: var(--gold);
+      color: var(--primary);
+      font-size: 0.7rem;
+      font-weight: 800;
+      padding: 2px 10px;
+      border-radius: 20px;
+      margin-top: 6px;
+    }
+
+    /* Rating Bar */
+    .rating-bar-wrap {
+      width: 100%;
+      max-width: 180px;
+      margin-top: 8px;
+    }
+    .rating-bar {
+      height: 10px;
+      background: var(--border);
+      border-radius: 5px;
+      overflow: hidden;
+    }
+    .rating-bar-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--gold), var(--gold-light));
+      border-radius: 5px;
+      transition: width 0.6s ease;
+    }
+    .rating-value {
+      font-size: 1.5rem;
+      font-weight: 800;
+      color: var(--primary);
+    }
+    .rating-stars {
+      color: var(--gold);
+      font-size: 0.9rem;
+    }
+
+    /* Pros & Cons */
+    .compare-list {
+      list-style: none;
+      text-align: right;
+      width: 100%;
+    }
+    .compare-list li {
+      padding: 4px 0;
+      font-size: 0.85rem;
+      line-height: 1.6;
+    }
+    .compare-list.pros li::before {
+      content: "✅ ";
+    }
+    .compare-list.cons li::before {
+      content: "❌ ";
+    }
+
+    /* Tags */
+    .compare-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      justify-content: center;
+    }
+    .compare-tag {
+      background: var(--sand);
+      border: 1px solid var(--border);
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--text);
+    }
+    .compare-tag.match {
+      background: rgba(201, 168, 76, 0.15);
+      border-color: var(--gold);
+      color: var(--gold-dark);
+    }
+
+    /* Price Display */
+    .price-display {
+      font-size: 1.2rem;
+      font-weight: 800;
+      color: var(--primary);
+    }
+
+    /* Audience chips */
+    .audience-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      justify-content: center;
+    }
+    .audience-tag {
+      background: var(--primary);
+      color: var(--gold);
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+
+    /* Share Comparison */
+    .compare-actions {
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      margin-top: 24px;
+    }
+    .compare-actions .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 28px;
+      border-radius: var(--radius-sm);
+      font-family: 'Tajawal', sans-serif;
+      font-size: 0.95rem;
+      font-weight: 700;
+      cursor: pointer;
+      border: none;
+      transition: var(--transition);
+    }
+    .btn-share {
+      background: var(--gold);
+      color: var(--primary);
+    }
+    .btn-share:hover {
+      background: var(--gold-light);
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-gold);
+    }
+    .btn-reset {
+      background: var(--primary);
+      color: white;
+    }
+    .btn-reset:hover {
+      background: var(--primary-light);
+    }
+
+    /* Responsive */
+    @media (max-width: 640px) {
+      .compare-selectors {
+        flex-direction: column;
+      }
+      .vs-badge {
+        width: 40px;
+        height: 40px;
+        font-size: 0.9rem;
+        margin: -8px auto;
+      }
+      .compare-header-cell h3 {
+        font-size: 1rem;
+      }
+      .compare-cell {
+        padding: 12px 10px;
+      }
+      .rating-value {
+        font-size: 1.2rem;
+      }
+      .compare-list li {
+        font-size: 0.8rem;
+      }
+      .compare-actions {
+        flex-direction: column;
+      }
+    }
+  </style>
+  <link rel="stylesheet" href="css/ramadan.css">
+</head>
+<body>
+
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><span>🏙️</span><h1>وين نروح بالرياض؟</h1></a>
+      <button class="dark-mode-toggle" aria-label="الوضع الليلي">🌙</button>
+      <button class="menu-toggle" aria-label="القائمة">☰</button>
+      <nav class="nav">
+        <a href="index.html">الرئيسية</a>
+        <a href="cafes.html">كافيهات</a>
+        <a href="restaurants.html">مطاعم</a>
+        <a href="activities.html">ترفيه</a>
+        <a href="events.html">فعاليات</a>
+        <a href="new-places.html">جديد</a>
+        <a href="discover.html">🎲 وين نروح؟</a>
+        <a href="compare.html" class="active">⚖️ قارن</a>
+        <div class="nav-dropdown">
+          <a href="#">المزيد</a>
+          <div class="dropdown-menu">
+            <a href="shopping.html">🛍️ تسوق</a>
+            <a href="nature.html">🏞️ طبيعة</a>
+            <a href="desserts.html">🍰 حلويات</a>
+            <a href="top-rated.html">⭐ الأعلى تقييماً</a>
+            <div class="dropdown-divider"></div>
+            <a href="neighborhoods.html">🏘️ أحياء الرياض</a>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <section class="compare-hero">
+    <h2>⚖️ قارن بين <span>مكانين</span></h2>
+    <p>اختر مكانين وشوف المقارنة الكاملة جنب بجنب</p>
+  </section>
+
+  <div class="compare-selectors">
+    <div class="selector-card">
+      <label>🏠 المكان الأول</label>
+      <select id="place1-select">
+        <option value="">— اختر مكان —</option>
+      </select>
+    </div>
+    <div class="vs-badge">VS</div>
+    <div class="selector-card">
+      <label>🏠 المكان الثاني</label>
+      <select id="place2-select">
+        <option value="">— اختر مكان —</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="compare-container" id="compare-result">
+    <div class="compare-empty">
+      <div class="emoji">⚖️</div>
+      <h3>اختر مكانين للمقارنة</h3>
+      <p>حدد المكان الأول والثاني من القوائم أعلاه</p>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div>
+        <h3>وين نروح بالرياض؟</h3>
+        <p>دليلك الشامل لأفضل الأماكن في الرياض مع تقييمات قوقل الحقيقية.</p>
+      </div>
+    </div>
+    <div class="footer-heart">صنع بـ <span>❤️</span> في الرياض</div>
+    <div class="footer-bottom"><p>© 2025-2026 وين نروح بالرياض؟ جميع الحقوق محفوظة.</p></div>
+  </footer>
+
+  <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
+
+  <script src="js/darkmode.js"></script>
+  <script src="js/main.js"></script>
+  <script>
+    // ===== Compare Page Logic =====
+    const categoryIcn = { 'cafe': '☕', 'كافيه': '☕', 'restaurant': '🍽️', 'مطعم': '🍽️', 'activity': '🎭', 'ترفيه': '🎭', 'hotel': '🏨', 'فنادق': '🏨', 'nature': '🏞️', 'طبيعة': '🏞️', 'shopping': '🛍️', 'تسوق': '🛍️', 'desserts': '🍰', 'حلويات': '🍰', 'entertainment': '🎭', 'chalet': '🏡', 'شاليه': '🏡', 'museum': '🏛️', 'متاحف': '🏛️', 'mall': '🛍️', 'مولات': '🛍️', 'event': '🎪', 'events': '🎪', 'فعاليات': '🎪' };
+    
+    function generateStarsCompare(rating) {
+      const full = Math.floor(rating);
+      const half = rating % 1 >= 0.3;
+      const empty = 5 - full - (half ? 1 : 0);
+      return '★'.repeat(full) + (half ? '★' : '') + '☆'.repeat(empty);
+    }
+
+    function priceToNumber(price) {
+      const map = { '$': 1, '$$': 2, '$$$': 3, '$$$$': 4, 'مجاني': 0 };
+      return map[price] || 0;
+    }
+
+    function buildComparison(p1, p2) {
+      const ratingWinner = p1.google_rating > p2.google_rating ? 1 : p1.google_rating < p2.google_rating ? 2 : 0;
+      const reviewsWinner = p1.review_count > p2.review_count ? 1 : p1.review_count < p2.review_count ? 2 : 0;
+      const priceNum1 = priceToNumber(p1.price_level);
+      const priceNum2 = priceToNumber(p2.price_level);
+      // Lower price = better for budget
+      const priceWinner = priceNum1 < priceNum2 ? 1 : priceNum1 > priceNum2 ? 2 : 0;
+
+      // Find shared perfect_for tags
+      const pf1 = p1.perfect_for || [];
+      const pf2 = p2.perfect_for || [];
+      const sharedTags = pf1.filter(t => pf2.includes(t));
+
+      function winnerClass(cell, winner) {
+        return cell === winner ? 'compare-cell winner' : 'compare-cell';
+      }
+      function winnerBadge(cell, winner) {
+        return cell === winner ? '<span class="winner-badge">🏆 الفائز</span>' : '';
+      }
+
+      return `
+        <div class="compare-grid">
+          <!-- Header -->
+          <div class="compare-header">
+            <div class="compare-header-cell">
+              ${p1.image_url ? `<img src="${p1.image_url}" alt="${p1.name_ar}">` : ''}
+              <h3>${p1.name_ar}</h3>
+              <div class="subtitle">${categoryIcn[p1.category_en] || categoryIcn[p1.category] || '📍'} ${p1.category_ar || p1.category} · ${p1.neighborhood}</div>
+            </div>
+            <div class="compare-header-cell">
+              ${p2.image_url ? `<img src="${p2.image_url}" alt="${p2.name_ar}">` : ''}
+              <h3>${p2.name_ar}</h3>
+              <div class="subtitle">${categoryIcn[p2.category_en] || categoryIcn[p2.category] || '📍'} ${p2.category_ar || p2.category} · ${p2.neighborhood}</div>
+            </div>
+          </div>
+
+          <!-- Rating -->
+          <div class="compare-row-label">⭐ التقييم</div>
+          <div class="compare-row">
+            <div class="${winnerClass(1, ratingWinner)}">
+              <div class="rating-value">${p1.google_rating}</div>
+              <div class="rating-stars">${generateStarsCompare(p1.google_rating)}</div>
+              <div class="rating-bar-wrap">
+                <div class="rating-bar">
+                  <div class="rating-bar-fill" style="width: ${(p1.google_rating / 5) * 100}%"></div>
+                </div>
+              </div>
+              ${winnerBadge(1, ratingWinner)}
+            </div>
+            <div class="${winnerClass(2, ratingWinner)}">
+              <div class="rating-value">${p2.google_rating}</div>
+              <div class="rating-stars">${generateStarsCompare(p2.google_rating)}</div>
+              <div class="rating-bar-wrap">
+                <div class="rating-bar">
+                  <div class="rating-bar-fill" style="width: ${(p2.google_rating / 5) * 100}%"></div>
+                </div>
+              </div>
+              ${winnerBadge(2, ratingWinner)}
+            </div>
+          </div>
+
+          <!-- Review Count -->
+          <div class="compare-row-label">💬 عدد التقييمات</div>
+          <div class="compare-row">
+            <div class="${winnerClass(1, reviewsWinner)}">
+              <div class="rating-value">${p1.review_count.toLocaleString('ar-SA')}</div>
+              <div style="font-size:0.8rem;color:var(--text-muted);">تقييم على قوقل</div>
+              ${winnerBadge(1, reviewsWinner)}
+            </div>
+            <div class="${winnerClass(2, reviewsWinner)}">
+              <div class="rating-value">${p2.review_count.toLocaleString('ar-SA')}</div>
+              <div style="font-size:0.8rem;color:var(--text-muted);">تقييم على قوقل</div>
+              ${winnerBadge(2, reviewsWinner)}
+            </div>
+          </div>
+
+          <!-- Price -->
+          <div class="compare-row-label">💰 مستوى الأسعار</div>
+          <div class="compare-row">
+            <div class="${winnerClass(1, priceWinner)}">
+              <div class="price-display">${p1.price_level}</div>
+              <div style="font-size:0.8rem;color:var(--text-muted);">${p1.avg_spend || ''}</div>
+              ${winnerBadge(1, priceWinner)}
+            </div>
+            <div class="${winnerClass(2, priceWinner)}">
+              <div class="price-display">${p2.price_level}</div>
+              <div style="font-size:0.8rem;color:var(--text-muted);">${p2.avg_spend || ''}</div>
+              ${winnerBadge(2, priceWinner)}
+            </div>
+          </div>
+
+          <!-- Best Time -->
+          <div class="compare-row-label">🕐 أفضل وقت للزيارة</div>
+          <div class="compare-row">
+            <div class="compare-cell">
+              <div style="font-weight:600;">${p1.best_time || p1.best_visit_time || 'غير محدد'}</div>
+            </div>
+            <div class="compare-cell">
+              <div style="font-weight:600;">${p2.best_time || p2.best_visit_time || 'غير محدد'}</div>
+            </div>
+          </div>
+
+          <!-- Audience -->
+          <div class="compare-row-label">👥 الجمهور المستهدف</div>
+          <div class="compare-row">
+            <div class="compare-cell">
+              <div class="audience-tags">
+                ${(p1.audience || []).map(a => `<span class="audience-tag">${a}</span>`).join('')}
+              </div>
+            </div>
+            <div class="compare-cell">
+              <div class="audience-tags">
+                ${(p2.audience || []).map(a => `<span class="audience-tag">${a}</span>`).join('')}
+              </div>
+            </div>
+          </div>
+
+          <!-- Perfect For -->
+          <div class="compare-row-label">🎯 مثالي لـ</div>
+          <div class="compare-row">
+            <div class="compare-cell">
+              <div class="compare-tags">
+                ${pf1.map(t => `<span class="compare-tag ${sharedTags.includes(t) ? 'match' : ''}">${t}</span>`).join('')}
+              </div>
+            </div>
+            <div class="compare-cell">
+              <div class="compare-tags">
+                ${pf2.map(t => `<span class="compare-tag ${sharedTags.includes(t) ? 'match' : ''}">${t}</span>`).join('')}
+              </div>
+            </div>
+          </div>
+
+          <!-- Pros -->
+          <div class="compare-row-label">👍 المميزات</div>
+          <div class="compare-row">
+            <div class="compare-cell">
+              <ul class="compare-list pros">
+                ${(p1.pros_ar || p1.pros || []).map(p => `<li>${p}</li>`).join('')}
+              </ul>
+            </div>
+            <div class="compare-cell">
+              <ul class="compare-list pros">
+                ${(p2.pros_ar || p2.pros || []).map(p => `<li>${p}</li>`).join('')}
+              </ul>
+            </div>
+          </div>
+
+          <!-- Cons -->
+          <div class="compare-row-label">👎 العيوب</div>
+          <div class="compare-row">
+            <div class="compare-cell">
+              <ul class="compare-list cons">
+                ${(p1.cons_ar || p1.cons || []).map(c => `<li>${c}</li>`).join('')}
+              </ul>
+            </div>
+            <div class="compare-cell">
+              <ul class="compare-list cons">
+                ${(p2.cons_ar || p2.cons || []).map(c => `<li>${c}</li>`).join('')}
+              </ul>
+            </div>
+          </div>
+
+          <!-- Maps Links -->
+          <div class="compare-row-label">📍 الموقع</div>
+          <div class="compare-row">
+            <div class="compare-cell">
+              <a href="${p1.google_maps_url}" target="_blank" style="color:var(--gold);font-weight:700;">📍 افتح في خرائط قوقل</a>
+              <div style="font-size:0.8rem;color:var(--text-muted);margin-top:4px;">${p1.neighborhood}</div>
+            </div>
+            <div class="compare-cell">
+              <a href="${p2.google_maps_url}" target="_blank" style="color:var(--gold);font-weight:700;">📍 افتح في خرائط قوقل</a>
+              <div style="font-size:0.8rem;color:var(--text-muted);margin-top:4px;">${p2.neighborhood}</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Actions -->
+        <div class="compare-actions">
+          <button class="btn btn-share" onclick="shareComparison('${p1.id}', '${p2.id}')">
+            📤 شارك المقارنة
+          </button>
+          <button class="btn btn-reset" onclick="resetComparison()">
+            🔄 مقارنة جديدة
+          </button>
+        </div>
+      `;
+    }
+
+    function shareComparison(id1, id2) {
+      const url = `${window.location.origin}/compare.html?p1=${id1}&p2=${id2}`;
+      const p1 = placesData.find(p => p.id === id1);
+      const p2 = placesData.find(p => p.id === id2);
+      const text = `⚖️ مقارنة: ${p1?.name_ar || id1} vs ${p2?.name_ar || id2}\n\n${url}\n\nمن موقع وين نروح بالرياض؟`;
+      
+      if (navigator.share) {
+        navigator.share({ title: 'مقارنة أماكن', text, url }).catch(() => {});
+      } else {
+        navigator.clipboard.writeText(text).then(() => {
+          showToast('✅ تم نسخ رابط المقارنة');
+        }).catch(() => {
+          // Fallback
+          const ta = document.createElement('textarea');
+          ta.value = text;
+          document.body.appendChild(ta);
+          ta.select();
+          document.execCommand('copy');
+          document.body.removeChild(ta);
+          showToast('✅ تم نسخ رابط المقارنة');
+        });
+      }
+    }
+
+    function resetComparison() {
+      document.getElementById('place1-select').value = '';
+      document.getElementById('place2-select').value = '';
+      document.getElementById('compare-result').innerHTML = `
+        <div class="compare-empty">
+          <div class="emoji">⚖️</div>
+          <h3>اختر مكانين للمقارنة</h3>
+          <p>حدد المكان الأول والثاني من القوائم أعلاه</p>
+        </div>
+      `;
+      // Clear URL params
+      history.replaceState(null, '', 'compare.html');
+    }
+
+    function runComparison() {
+      const id1 = document.getElementById('place1-select').value;
+      const id2 = document.getElementById('place2-select').value;
+      const result = document.getElementById('compare-result');
+
+      if (!id1 || !id2) {
+        result.innerHTML = `
+          <div class="compare-empty">
+            <div class="emoji">⚖️</div>
+            <h3>اختر مكانين للمقارنة</h3>
+            <p>حدد المكان الأول والثاني من القوائم أعلاه</p>
+          </div>
+        `;
+        return;
+      }
+      if (id1 === id2) {
+        result.innerHTML = `
+          <div class="compare-empty">
+            <div class="emoji">🤔</div>
+            <h3>اختر مكانين مختلفين</h3>
+            <p>لازم تختار مكانين مختلفين عشان تقارن بينهم</p>
+          </div>
+        `;
+        return;
+      }
+
+      const p1 = placesData.find(p => p.id === id1);
+      const p2 = placesData.find(p => p.id === id2);
+
+      if (!p1 || !p2) return;
+
+      result.innerHTML = buildComparison(p1, p2);
+      
+      // Update URL
+      history.replaceState(null, '', `compare.html?p1=${id1}&p2=${id2}`);
+
+      // Smooth scroll to result
+      result.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    document.addEventListener('DOMContentLoaded', async () => {
+      const places = await loadPlaces();
+      const select1 = document.getElementById('place1-select');
+      const select2 = document.getElementById('place2-select');
+
+      // Group places by category for optgroups
+      const groups = {};
+      places.forEach(p => {
+        const cat = p.category_ar || p.category || 'أخرى';
+        if (!groups[cat]) groups[cat] = [];
+        groups[cat].push(p);
+      });
+
+      // Sort groups and places within
+      const sortedCats = Object.keys(groups).sort();
+      
+      [select1, select2].forEach(sel => {
+        sortedCats.forEach(cat => {
+          const optgroup = document.createElement('optgroup');
+          optgroup.label = `${categoryIcn[cat] || '📍'} ${cat}`;
+          groups[cat]
+            .sort((a, b) => b.google_rating - a.google_rating)
+            .forEach(p => {
+              const opt = document.createElement('option');
+              opt.value = p.id;
+              opt.textContent = `${p.name_ar} — ⭐ ${p.google_rating} · ${p.neighborhood}`;
+              optgroup.appendChild(opt);
+            });
+          sel.appendChild(optgroup);
+        });
+      });
+
+      select1.addEventListener('change', runComparison);
+      select2.addEventListener('change', runComparison);
+
+      // Check URL params for pre-selected comparison
+      const params = new URLSearchParams(window.location.search);
+      const p1Param = params.get('p1');
+      const p2Param = params.get('p2');
+      if (p1Param && p2Param) {
+        select1.value = p1Param;
+        select2.value = p2Param;
+        runComparison();
+      }
+
+      // Check localStorage for compare selections from main site
+      const compareList = JSON.parse(localStorage.getItem('wain_compare') || '[]');
+      if (compareList.length >= 2 && !p1Param && !p2Param) {
+        select1.value = compareList[0];
+        select2.value = compareList[1];
+        runComparison();
+        localStorage.removeItem('wain_compare');
+      }
+    });
+  </script>
+  <script>
+    document.querySelectorAll('.nav-dropdown > a').forEach(a => {
+      a.addEventListener('click', (e) => {
+        if (window.innerWidth <= 768) {
+          e.preventDefault();
+          a.parentElement.classList.toggle('open');
+        }
+      });
+    });
+  </script>
+  <script src="js/ramadan.js"></script>
+</body>
+</html>

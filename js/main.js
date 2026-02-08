@@ -122,6 +122,7 @@ function generatePlaceCard(place) {
         ${place.trending ? '<span class="trending-badge">🔥 رائج</span>' : ''}
         ${place.is_new ? '<span class="new-badge">جديد</span>' : ''}
         <button class="fav-btn ${isFav ? 'is-fav' : ''}" data-id="${place.id}" title="${isFav ? 'إزالة من المفضلة' : 'أضف للمفضلة'}" onclick="toggleFavorite('${place.id}')">${isFav ? '❤️' : '🤍'}</button>
+        <button class="compare-btn ${isInCompare(place.id) ? 'in-compare' : ''}" data-id="${place.id}" title="${isInCompare(place.id) ? 'إزالة من المقارنة' : 'أضف للمقارنة'}" onclick="event.stopPropagation();toggleCompare('${place.id}')">${isInCompare(place.id) ? '⚖️ ✓' : '⚖️'}</button>
       </div>
       <div class="place-card-body">
         <span class="category-badge">${categoryNames[place.category] || place.category}</span>
@@ -395,6 +396,94 @@ function getTrendingPlaces() { return placesData.filter(p => p.trending).slice(0
 function getNewPlaces() { return placesData.filter(p => p.is_new); }
 function getPlaceById(id) { return placesData.find(p => p.id === id); }
 
+// ===== Compare System =====
+function getCompareList() {
+  try { return JSON.parse(localStorage.getItem('wain_compare') || '[]'); }
+  catch { return []; }
+}
+
+function isInCompare(placeId) {
+  return getCompareList().includes(placeId);
+}
+
+function toggleCompare(placeId) {
+  let list = getCompareList();
+  const index = list.indexOf(placeId);
+  if (index > -1) {
+    list.splice(index, 1);
+  } else {
+    if (list.length >= 2) {
+      // Replace the oldest
+      list.shift();
+    }
+    list.push(placeId);
+  }
+  localStorage.setItem('wain_compare', JSON.stringify(list));
+  updateCompareButtons();
+  updateCompareBar();
+  return list.includes(placeId);
+}
+
+function updateCompareButtons() {
+  const list = getCompareList();
+  document.querySelectorAll('.compare-btn').forEach(btn => {
+    const id = btn.dataset.id;
+    const inList = list.includes(id);
+    btn.classList.toggle('in-compare', inList);
+    btn.innerHTML = inList ? '⚖️ ✓' : '⚖️';
+    btn.title = inList ? 'إزالة من المقارنة' : 'أضف للمقارنة';
+  });
+}
+
+function updateCompareBar() {
+  const list = getCompareList();
+  let bar = document.getElementById('compare-floating-bar');
+  
+  if (list.length === 0) {
+    if (bar) bar.remove();
+    return;
+  }
+
+  if (!bar) {
+    bar = document.createElement('div');
+    bar.id = 'compare-floating-bar';
+    bar.style.cssText = `
+      position:fixed;bottom:20px;left:50%;transform:translateX(-50%);
+      background:var(--primary,#0a1628);color:white;
+      padding:12px 24px;border-radius:16px;
+      font-family:'Tajawal',sans-serif;font-size:14px;font-weight:700;
+      box-shadow:0 8px 30px rgba(0,0,0,0.3);z-index:9998;
+      display:flex;align-items:center;gap:12px;
+      transition:all 0.3s ease;
+    `;
+    document.body.appendChild(bar);
+  }
+
+  const names = list.map(id => {
+    const p = placesData.find(x => x.id === id);
+    return p ? p.name_ar : id;
+  });
+
+  bar.innerHTML = `
+    <span>⚖️ ${names.join(' vs ')}</span>
+    ${list.length === 2 ? `<a href="compare.html?p1=${list[0]}&p2=${list[1]}" style="background:#c9a84c;color:#0a1628;padding:6px 16px;border-radius:8px;font-weight:800;text-decoration:none;">قارن الآن</a>` : `<span style="color:rgba(255,255,255,0.5);">اختر مكان ثاني</span>`}
+    <button onclick="clearCompare()" style="background:none;border:none;color:rgba(255,255,255,0.5);cursor:pointer;font-size:18px;padding:0 4px;">✕</button>
+  `;
+}
+
+function clearCompare() {
+  localStorage.removeItem('wain_compare');
+  updateCompareButtons();
+  updateCompareBar();
+}
+
+function goToCompare() {
+  const list = getCompareList();
+  if (list.length === 2) {
+    window.location.href = `compare.html?p1=${list[0]}&p2=${list[1]}`;
+  }
+}
+
 // Render trending sidebar widget
 function renderTrendingSidebar(container) {
   const trending = getTrendingPlaces();
@@ -583,6 +672,9 @@ function installPWA() {
 
 document.addEventListener('DOMContentLoaded', () => {
   initMobileMenu();
+  
+  // Initialize compare bar if items selected
+  updateCompareBar();
 
   // Scroll to top button
   const scrollTopBtn = document.getElementById('scrollTop');

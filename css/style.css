@@ -26,6 +26,217 @@
   --max-width: 1200px;
 }
 
+/* ===== Dark Mode ===== */
+[data-theme="dark"] {
+  --primary: #0a1628;
+  --primary-light: #162040;
+  --sand: #0d1117;
+  --white: #161b22;
+  --card-bg: #1c2333;
+  --text: #e6edf3;
+  --text-light: #8b949e;
+  --text-muted: #6e7681;
+  --border: #30363d;
+  --shadow: 0 4px 20px rgba(0,0,0,0.3);
+  --shadow-hover: 0 12px 40px rgba(0,0,0,0.4);
+  --shadow-gold: 0 8px 30px rgba(201,168,76,0.15);
+}
+
+/* Dark mode smooth transition */
+[data-theme] body,
+[data-theme] .header,
+[data-theme] .category-card,
+[data-theme] .place-card,
+[data-theme] .widget,
+[data-theme] .sort-filter-bar,
+[data-theme] .footer,
+[data-theme] .info-box,
+[data-theme] .rating-analysis,
+[data-theme] .seo-article .article-content,
+[data-theme] .review-card,
+[data-theme] .rating-distribution {
+  transition: background-color 0.4s ease, color 0.4s ease, border-color 0.4s ease, box-shadow 0.4s ease;
+}
+
+/* Dark mode specific overrides */
+[data-theme="dark"] body {
+  background: var(--sand);
+  color: var(--text);
+}
+
+[data-theme="dark"] .category-card h3,
+[data-theme="dark"] .place-card-body h3,
+[data-theme="dark"] .section-title h2,
+[data-theme="dark"] .categories > h2,
+[data-theme="dark"] .widget h3,
+[data-theme="dark"] .info-box h3,
+[data-theme="dark"] .rating-analysis h2,
+[data-theme="dark"] .seo-article h2,
+[data-theme="dark"] .seo-article h3 {
+  color: #e6edf3;
+}
+
+[data-theme="dark"] .place-card-body .category-badge {
+  background: rgba(201,168,76,0.15);
+  color: var(--gold);
+}
+
+[data-theme="dark"] .card-rating-block {
+  background: rgba(201,168,76,0.06);
+  border-color: rgba(201,168,76,0.12);
+}
+
+[data-theme="dark"] .card-rating-big .big-number {
+  color: var(--gold);
+}
+
+[data-theme="dark"] .card-rating-meta .review-count .count-num {
+  color: var(--gold);
+}
+
+[data-theme="dark"] .review-quote-line {
+  background: rgba(201,168,76,0.04);
+  color: var(--text-light);
+}
+
+[data-theme="dark"] .sort-select,
+[data-theme="dark"] .filter-select {
+  background-color: var(--card-bg);
+  color: var(--text);
+  border-color: var(--border);
+}
+
+[data-theme="dark"] .audience-chip,
+[data-theme="dark"] .toggle-chip {
+  background: var(--card-bg);
+  color: var(--text);
+  border-color: var(--border);
+}
+
+[data-theme="dark"] .share-btn {
+  background: var(--card-bg);
+  color: var(--text-light);
+  border-color: var(--border);
+}
+
+[data-theme="dark"] .fav-btn {
+  background: rgba(28,35,51,0.9);
+}
+
+[data-theme="dark"] .search-box input {
+  background: rgba(255,255,255,0.06);
+  color: #e6edf3;
+}
+
+[data-theme="dark"] .no-results {
+  color: var(--text-muted);
+}
+
+[data-theme="dark"] .no-results h3 {
+  color: var(--text);
+}
+
+[data-theme="dark"] .breadcrumb {
+  color: var(--text-muted);
+}
+
+[data-theme="dark"] .breadcrumb a {
+  color: var(--gold);
+}
+
+[data-theme="dark"] .pros-section {
+  background: rgba(46, 204, 113, 0.08);
+  border-color: rgba(46, 204, 113, 0.15);
+}
+
+[data-theme="dark"] .cons-section {
+  background: rgba(231, 76, 60, 0.08);
+  border-color: rgba(231, 76, 60, 0.15);
+}
+
+[data-theme="dark"] .visit-info-card {
+  background: rgba(255,255,255,0.03);
+  border-color: var(--border);
+}
+
+[data-theme="dark"] .visit-info-card .info-value {
+  color: var(--gold);
+}
+
+[data-theme="dark"] .dist-bar-bg {
+  background: #30363d;
+}
+
+[data-theme="dark"] .review-source-badge {
+  background: rgba(255,255,255,0.06);
+  color: var(--text-muted);
+}
+
+[data-theme="dark"] .review-avatar {
+  opacity: 0.9;
+}
+
+[data-theme="dark"] .seo-article .highlight-box {
+  background: rgba(201,168,76,0.06);
+}
+
+[data-theme="dark"] .seo-article p,
+[data-theme="dark"] .seo-article li {
+  color: var(--text);
+}
+
+[data-theme="dark"] .fd-card {
+  background: var(--card-bg);
+  border-color: #2d5a3f;
+}
+
+[data-theme="dark"] .fd-card h3 {
+  color: #7bc67e;
+}
+
+[data-theme="dark"] .season-zone {
+  background: var(--card-bg);
+}
+
+[data-theme="dark"] .season-zone h3 {
+  color: #c084fc;
+}
+
+[data-theme="dark"] .dropdown-menu,
+[data-theme="dark"] .submenu {
+  background: #1c2333;
+  border-color: rgba(201,168,76,0.15);
+}
+
+[data-theme="dark"] .review-dot {
+  background: var(--border);
+}
+
+/* Dark mode toggle button */
+.dark-mode-toggle {
+  background: none;
+  border: 2px solid rgba(201,168,76,0.3);
+  color: var(--gold);
+  font-size: 20px;
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: var(--radius-sm);
+  transition: var(--transition);
+  min-width: 40px;
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+.dark-mode-toggle:hover {
+  background: rgba(201,168,76,0.1);
+  border-color: var(--gold);
+  transform: scale(1.05);
+}
+
 /* ===== Reset & Base ===== */
 *, *::before, *::after {
   margin: 0;
@@ -2713,4 +2924,365 @@ img {
   .review-source-badge {
     display: none;
   }
+}
+
+/* ===== Weather & Prayer Banner ===== */
+.wp-banner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.wp-banner-top {
+  display: flex;
+  align-items: stretch;
+  gap: 16px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+
+.wp-weather-strip {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: var(--card-bg);
+  padding: 12px 18px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  border-top: 3px solid var(--gold);
+  flex-shrink: 0;
+}
+
+.wp-temp {
+  font-size: 28px;
+  font-weight: 900;
+  color: var(--gold);
+}
+
+.wp-desc {
+  font-size: 14px;
+  color: var(--text);
+  font-weight: 600;
+}
+
+.wp-range {
+  font-size: 13px;
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.wp-prayer-strip {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  background: var(--card-bg);
+  padding: 10px 14px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  border-top: 3px solid var(--gold);
+  flex: 1;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.wp-prayer-strip::-webkit-scrollbar { display: none; }
+
+.wp-prayer-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 6px 10px;
+  border-radius: var(--radius-sm);
+  min-width: 65px;
+  transition: var(--transition);
+  position: relative;
+}
+
+.wp-prayer-item.past {
+  opacity: 0.4;
+}
+
+.wp-prayer-item.next {
+  background: linear-gradient(135deg, rgba(201,168,76,0.15), rgba(201,168,76,0.05));
+  border: 1.5px solid var(--gold);
+}
+
+.wp-prayer-name {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.wp-prayer-time {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-light);
+  direction: ltr;
+}
+
+.wp-prayer-countdown {
+  font-size: 10px;
+  color: var(--gold);
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.wp-prayer-warning {
+  background: linear-gradient(135deg, rgba(231,76,60,0.1), rgba(231,76,60,0.05));
+  border: 1.5px solid rgba(231,76,60,0.3);
+  color: #e74c3c;
+  padding: 10px 18px;
+  border-radius: var(--radius-sm);
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 12px;
+  animation: prayerWarningPulse 2s infinite;
+}
+
+[data-theme="dark"] .wp-prayer-warning {
+  background: rgba(231,76,60,0.12);
+  color: #ff6b6b;
+}
+
+@keyframes prayerWarningPulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.85; }
+}
+
+.wp-suggestions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.wp-suggestion-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--card-bg);
+  padding: 8px 16px;
+  border-radius: 50px;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text);
+  box-shadow: var(--shadow);
+  border: 1.5px solid var(--border);
+  transition: var(--transition);
+  white-space: nowrap;
+}
+
+.wp-suggestion-badge[data-filter]:hover {
+  border-color: var(--gold);
+  background: rgba(201,168,76,0.08);
+  transform: translateY(-2px);
+}
+
+.wp-suggestion-badge.wp-badge-active {
+  background: var(--gold);
+  color: var(--primary);
+  border-color: var(--gold);
+}
+
+/* Weather Suggestion Banner (below hero) */
+.wp-weather-suggestion {
+  max-width: var(--max-width);
+  margin: 20px auto;
+  padding: 20px 24px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  border-top: 3px solid var(--gold);
+  background: var(--card-bg);
+}
+
+.wp-weather-suggestion.wp-hot {
+  border-top-color: #e74c3c;
+  background: linear-gradient(135deg, var(--card-bg) 0%, rgba(231,76,60,0.04) 100%);
+}
+
+.wp-weather-suggestion.wp-nice {
+  border-top-color: #27ae60;
+  background: linear-gradient(135deg, var(--card-bg) 0%, rgba(39,174,96,0.04) 100%);
+}
+
+.wp-weather-suggestion.wp-cool {
+  border-top-color: #3498db;
+  background: linear-gradient(135deg, var(--card-bg) 0%, rgba(52,152,219,0.04) 100%);
+}
+
+.wp-weather-suggestion.wp-rain {
+  border-top-color: #8e44ad;
+  background: linear-gradient(135deg, var(--card-bg) 0%, rgba(142,68,173,0.04) 100%);
+}
+
+.wp-suggestion-text {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 16px;
+}
+
+.wp-suggestion-icon-big {
+  font-size: 36px;
+  line-height: 1;
+}
+
+.wp-suggestion-text strong {
+  display: block;
+  font-size: 18px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.wp-suggestion-temp {
+  font-size: 14px;
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.wp-suggested-places {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  padding-bottom: 6px;
+  scrollbar-width: none;
+}
+
+.wp-suggested-places::-webkit-scrollbar { display: none; }
+
+.wp-suggested-card {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(10,22,40,0.04);
+  padding: 10px 16px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border);
+  white-space: nowrap;
+  transition: var(--transition);
+  flex-shrink: 0;
+  cursor: pointer;
+}
+
+[data-theme="dark"] .wp-suggested-card {
+  background: rgba(255,255,255,0.04);
+}
+
+.wp-suggested-card:hover {
+  border-color: var(--gold);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(201,168,76,0.15);
+}
+
+.wp-suggested-icon { font-size: 20px; }
+
+.wp-suggested-name {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.wp-suggested-rating {
+  font-size: 12px;
+  color: var(--gold-dark);
+  font-weight: 600;
+}
+
+/* After Prayer Badge (on place cards) */
+.wp-after-prayer-badge {
+  display: none;
+  align-items: center;
+  gap: 4px;
+  background: rgba(201,168,76,0.1);
+  color: var(--gold-dark);
+  padding: 3px 10px;
+  border-radius: var(--radius-sm);
+  font-size: 12px;
+  font-weight: 700;
+  border: 1px solid rgba(201,168,76,0.2);
+  margin-right: 6px;
+}
+
+/* ===== Weather/Prayer Responsive ===== */
+@media (max-width: 768px) {
+  .wp-banner {
+    padding: 0 16px;
+  }
+
+  .wp-banner-top {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .wp-weather-strip {
+    padding: 10px 14px;
+  }
+
+  .wp-temp {
+    font-size: 22px;
+  }
+
+  .wp-prayer-strip {
+    padding: 8px 10px;
+    gap: 2px;
+  }
+
+  .wp-prayer-item {
+    padding: 4px 7px;
+    min-width: 55px;
+  }
+
+  .wp-prayer-name { font-size: 11px; }
+  .wp-prayer-time { font-size: 12px; }
+  .wp-prayer-countdown { font-size: 9px; }
+
+  .wp-suggestions {
+    gap: 6px;
+  }
+
+  .wp-suggestion-badge {
+    padding: 6px 12px;
+    font-size: 12px;
+  }
+
+  .wp-weather-suggestion {
+    margin: 14px 16px;
+    padding: 16px 18px;
+  }
+
+  .wp-suggestion-icon-big { font-size: 28px; }
+  .wp-suggestion-text strong { font-size: 15px; }
+  .wp-suggestion-temp { font-size: 13px; }
+  .wp-suggested-card { padding: 8px 12px; }
+  .wp-suggested-name { font-size: 13px; }
+}
+
+/* ===== Compare Button on Cards ===== */
+.compare-btn {
+  position: absolute;
+  top: 12px;
+  right: 48px;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255,255,255,0.9);
+  backdrop-filter: blur(4px);
+  cursor: pointer;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  z-index: 5;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+.compare-btn:hover {
+  transform: scale(1.15);
+  background: #c9a84c;
+}
+.compare-btn.in-compare {
+  background: #c9a84c;
+  color: #0a1628;
+  box-shadow: 0 2px 12px rgba(201,168,76,0.4);
 }

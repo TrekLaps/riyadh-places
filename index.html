@@ -37,12 +37,14 @@
     }
   }
   </script>
+  <link rel="stylesheet" href="css/ramadan.css">
 </head>
 <body>
 
   <header class="header">
     <div class="header-inner">
       <a href="index.html" class="logo"><span>🏙️</span><h1>وين نروح بالرياض؟</h1></a>
+      <button class="dark-mode-toggle" aria-label="الوضع الليلي">🌙</button>
       <button class="menu-toggle" aria-label="القائمة">☰</button>
       <nav class="nav">
         <a href="index.html" class="active">الرئيسية</a>
@@ -52,6 +54,7 @@
         <a href="events.html">فعاليات</a>
         <a href="new-places.html">جديد</a>
         <a href="discover.html">🎲 وين نروح؟</a>
+        <a href="compare.html">⚖️ قارن</a>
         <div class="nav-dropdown">
           <a href="#">المزيد</a>
           <div class="dropdown-menu">
@@ -62,6 +65,7 @@
             <div class="dropdown-divider"></div>
             <a href="neighborhoods.html">🏘️ أحياء الرياض</a>
             <a href="foundation-day.html">🇸🇦 يوم التأسيس</a>
+            <a href="ramadan.html">🌙 رمضان</a>
             <a href="riyadh-season.html">✨ موسم الرياض</a>
             <div class="dropdown-divider"></div>
             <div class="dropdown-submenu">
@@ -103,6 +107,12 @@
       <input type="text" class="search-input" placeholder="ابحث عن مكان... (مثال: كافيه، سوشي، برج المملكة)">
     </div>
   </section>
+
+  <!-- Weather-Smart Suggestion Banner -->
+  <div id="weather-suggestion-banner" style="display:none;padding:0 20px;"></div>
+
+  <!-- Weather + Prayer Combined Banner -->
+  <div id="weather-prayer-banner" style="display:none;margin:16px 0;"></div>
 
   <section class="categories">
     <h2>اكتشف أماكن الرياض</h2>
@@ -221,8 +231,10 @@
 
   <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
 
+  <script src="js/darkmode.js"></script>
   <script src="js/crowd.js"></script>
   <script src="js/main.js"></script>
+  <script src="js/weather-prayer.js"></script>
   <script>
     document.addEventListener('DOMContentLoaded', async () => {
       const places = await loadPlaces();
@@ -248,6 +260,11 @@
       });
 
       places.filter(p => p.trending).forEach(p => addSchemaToPage(generateSchemaMarkup(p)));
+
+      // Initialize weather & prayer suggestions
+      if (typeof WeatherPrayer !== 'undefined') {
+        WeatherPrayer.init(places);
+      }
     });
   </script>
 <script>
@@ -269,5 +286,6 @@
     });
   </script>
   <script src="js/analytics.js"></script>
+  <script src="js/ramadan.js"></script>
 </body>
 </html>

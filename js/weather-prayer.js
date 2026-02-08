@@ -1,4 +1,4 @@
-// ===== Weather & Prayer Times — Smart Suggestions =====
+// ===== Weather & Prayer Times — Smart Suggestions v2 =====
 // وين نروح بالرياض؟ — اقتراحات ذكية حسب الطقس وأوقات الصلاة
 
 const WeatherPrayer = (() => {
@@ -7,7 +7,7 @@ const WeatherPrayer = (() => {
   let placesData = [];
 
   const WEATHER_API = 'https://wttr.in/Riyadh?format=j1';
-  const PRAYER_API = 'https://api.aladhan.com/v1/timingsByCity?city=Riyadh&country=SA&method=4';
+  const PRAYER_API = 'https://api.aladhan.com/v1/timingsByCity?city=Riyadh&country=Saudi+Arabia&method=4';
 
   const prayerNames = {
     Fajr: 'الفجر',
@@ -20,7 +20,7 @@ const WeatherPrayer = (() => {
 
   const prayerOrder = ['Fajr', 'Sunrise', 'Dhuhr', 'Asr', 'Maghrib', 'Isha'];
 
-  // Fetch weather data
+  // ===== Fetch Weather =====
   async function fetchWeather() {
     try {
       const res = await fetch(WEATHER_API);
@@ -42,7 +42,7 @@ const WeatherPrayer = (() => {
     }
   }
 
-  // Fetch prayer times
+  // ===== Fetch Prayer Times =====
   async function fetchPrayerTimes() {
     try {
       const res = await fetch(PRAYER_API);
@@ -57,20 +57,24 @@ const WeatherPrayer = (() => {
     return null;
   }
 
-  // Get current time in Riyadh (UTC+3)
+  // ===== Time Helpers =====
   function getRiyadhTime() {
     const now = new Date();
     const utc = now.getTime() + (now.getTimezoneOffset() * 60000);
     return new Date(utc + (3 * 3600000));
   }
 
-  // Parse prayer time string "HH:MM" to minutes since midnight
   function prayerToMinutes(timeStr) {
     const [h, m] = timeStr.split(':').map(Number);
     return h * 60 + m;
   }
 
-  // Get next prayer
+  function toArabicNumerals(num) {
+    const arabicDigits = ['٠', '١', '٢', '٣', '٤', '٥', '٦', '٧', '٨', '٩'];
+    return String(num).replace(/[0-9]/g, d => arabicDigits[parseInt(d)]);
+  }
+
+  // ===== Next Prayer with Countdown =====
   function getNextPrayer() {
     if (!prayerData) return null;
     const now = getRiyadhTime();
@@ -89,7 +93,6 @@ const WeatherPrayer = (() => {
     return { name: 'Fajr', nameAr: 'الفجر', time: prayerData.Fajr, minutesLeft: diff };
   }
 
-  // Get time period
   function getTimePeriod() {
     const now = getRiyadhTime();
     const h = now.getHours();
@@ -100,7 +103,6 @@ const WeatherPrayer = (() => {
     return 'night';
   }
 
-  // Is after Maghrib?
   function isAfterMaghrib() {
     if (!prayerData) return false;
     const now = getRiyadhTime();
@@ -108,48 +110,62 @@ const WeatherPrayer = (() => {
     return nowMinutes >= prayerToMinutes(prayerData.Maghrib);
   }
 
-  // Generate smart suggestion based on context
+  // ===== Weather-Smart Suggestion =====
+  function getWeatherSuggestion() {
+    if (!weatherData) return null;
+
+    const temp = weatherData.temp;
+    const code = weatherData.weatherCode;
+    const isRaining = code >= 200 && code < 400;
+
+    if (isRaining) {
+      return {
+        icon: '🌧️',
+        text: 'يوم ممطر نادر! استمتع بكافيه دافي',
+        filter: 'indoor',
+        class: 'wp-rain'
+      };
+    }
+    if (temp > 40) {
+      return {
+        icon: '🌡️',
+        text: 'حار اليوم! أماكن مكيفة تناسبك',
+        filter: 'indoor',
+        class: 'wp-hot'
+      };
+    }
+    if (temp >= 25 && temp <= 40) {
+      return {
+        icon: '☀️',
+        text: 'جو حلو! جرب أماكن خارجية',
+        filter: 'outdoor',
+        class: 'wp-nice'
+      };
+    }
+    if (temp < 25) {
+      return {
+        icon: '🌤️',
+        text: 'جو رايق! وقت مثالي للمشي والطبيعة',
+        filter: 'outdoor',
+        class: 'wp-cool'
+      };
+    }
+    return null;
+  }
+
+  // ===== Get Smart Suggestions (all) =====
   function getSmartSuggestion() {
     const suggestions = [];
     const period = getTimePeriod();
     const nextPrayer = getNextPrayer();
 
-    // Weather-based suggestions
-    if (weatherData) {
-      if (weatherData.temp > 38) {
-        suggestions.push({
-          icon: '🌡️',
-          text: `حار اليوم ${weatherData.temp}°! جرب أماكن داخلية مكيّفة`,
-          filter: 'indoor',
-          priority: 3
-        });
-      } else if (weatherData.temp < 25 && weatherData.temp >= 15) {
-        suggestions.push({
-          icon: '🌤️',
-          text: `الجو حلو ${weatherData.temp}°! روح أماكن مفتوحة`,
-          filter: 'outdoor',
-          priority: 3
-        });
-      } else if (weatherData.temp < 15) {
-        suggestions.push({
-          icon: '🧥',
-          text: `الجو بارد ${weatherData.temp}°! كافيه دافي أو مطعم داخلي`,
-          filter: 'indoor',
-          priority: 2
-        });
-      }
-
-      if (weatherData.weatherCode >= 200 && weatherData.weatherCode < 400) {
-        suggestions.push({
-          icon: '🌧️',
-          text: 'ممطر اليوم! أماكن داخلية أفضل',
-          filter: 'indoor',
-          priority: 4
-        });
-      }
+    // Weather-based
+    const ws = getWeatherSuggestion();
+    if (ws) {
+      suggestions.push({ ...ws, priority: 3 });
     }
 
-    // Time-based suggestions
+    // Time-based
     if (isAfterMaghrib()) {
       suggestions.push({
         icon: '🌙',
@@ -159,7 +175,7 @@ const WeatherPrayer = (() => {
       });
     }
 
-    // Prayer-based suggestions
+    // Prayer-based
     if (nextPrayer && nextPrayer.minutesLeft <= 60 && nextPrayer.minutesLeft > 0) {
       const hrs = Math.floor(nextPrayer.minutesLeft / 60);
       const mins = nextPrayer.minutesLeft % 60;
@@ -172,12 +188,11 @@ const WeatherPrayer = (() => {
       });
     }
 
-    // Sort by priority
     suggestions.sort((a, b) => b.priority - a.priority);
     return suggestions;
   }
 
-  // Filter places by suggestion type
+  // ===== Filter Places by Context =====
   function filterByContext(places, filterType) {
     if (!filterType) return places.slice(0, 6);
 
@@ -207,18 +222,69 @@ const WeatherPrayer = (() => {
     }
   }
 
-  // Render the banner
+  // ===== Prayer Countdown Formatter =====
+  function formatCountdown(minutesLeft) {
+    const hrs = Math.floor(minutesLeft / 60);
+    const mins = minutesLeft % 60;
+    if (hrs > 0) {
+      return `${toArabicNumerals(hrs)} ساعة و ${toArabicNumerals(mins)} دقيقة`;
+    }
+    return `${toArabicNumerals(mins)} دقيقة`;
+  }
+
+  // ===== Render Weather Suggestion Banner =====
+  function renderWeatherSuggestionBanner(containerId) {
+    const container = document.getElementById(containerId);
+    if (!container) return;
+
+    const ws = getWeatherSuggestion();
+    if (!ws && !weatherData) {
+      container.style.display = 'none';
+      return;
+    }
+
+    const filtered = ws ? filterByContext(placesData, ws.filter) : [];
+
+    let placesHtml = '';
+    if (filtered.length > 0) {
+      placesHtml = `
+        <div class="wp-suggested-places">
+          ${filtered.map(p => `
+            <a href="place.html?id=${p.id}" class="wp-suggested-card">
+              <span class="wp-suggested-icon">${p.category === 'كافيه' ? '☕' : p.category === 'مطعم' ? '🍽️' : p.category === 'طبيعة' ? '🏞️' : p.category === 'ترفيه' ? '🎭' : p.category === 'تسوق' ? '🛍️' : p.category === 'حلويات' ? '🍰' : '📍'}</span>
+              <span class="wp-suggested-name">${p.name_ar}</span>
+              <span class="wp-suggested-rating">⭐ ${p.google_rating}</span>
+            </a>
+          `).join('')}
+        </div>
+      `;
+    }
+
+    container.innerHTML = `
+      <div class="wp-weather-suggestion ${ws ? ws.class : ''}">
+        <div class="wp-suggestion-text">
+          <span class="wp-suggestion-icon-big">${ws ? ws.icon : '🌡️'}</span>
+          <div>
+            <strong>${ws ? ws.text : `درجة الحرارة ${weatherData.temp}°`}</strong>
+            <span class="wp-suggestion-temp">${weatherData.temp}° | ${weatherData.desc}</span>
+          </div>
+        </div>
+        ${placesHtml}
+      </div>
+    `;
+    container.style.display = 'block';
+  }
+
+  // ===== Render Main Banner (Weather + Prayer Combined) =====
   function renderBanner(containerId) {
     const container = document.getElementById(containerId);
     if (!container) return;
 
     const suggestions = getSmartSuggestion();
-    if (suggestions.length === 0) {
+    if (suggestions.length === 0 && !weatherData && !prayerData) {
       container.style.display = 'none';
       return;
     }
-
-    const mainSuggestion = suggestions[0];
 
     // Weather info strip
     let weatherStrip = '';
@@ -232,9 +298,10 @@ const WeatherPrayer = (() => {
       `;
     }
 
-    // Prayer times strip
+    // Prayer times strip with next prayer highlight
     let prayerStrip = '';
     if (prayerData) {
+      const nextPrayer = getNextPrayer();
       prayerStrip = '<div class="wp-prayer-strip">';
       const now = getRiyadhTime();
       const nowMinutes = now.getHours() * 60 + now.getMinutes();
@@ -242,18 +309,30 @@ const WeatherPrayer = (() => {
       for (const name of prayerOrder) {
         const pm = prayerToMinutes(prayerData[name]);
         const isPast = pm < nowMinutes;
-        const isNext = !isPast && getNextPrayer()?.name === name;
+        const isNext = !isPast && nextPrayer?.name === name;
         prayerStrip += `
           <span class="wp-prayer-item ${isPast ? 'past' : ''} ${isNext ? 'next' : ''}">
             <span class="wp-prayer-name">${prayerNames[name]}</span>
             <span class="wp-prayer-time">${prayerData[name]}</span>
+            ${isNext ? `<span class="wp-prayer-countdown">بعد ${formatCountdown(nextPrayer.minutesLeft)}</span>` : ''}
           </span>
         `;
       }
       prayerStrip += '</div>';
     }
 
-    // All suggestion badges
+    // Prayer break warning
+    let prayerWarning = '';
+    const nextPrayer = getNextPrayer();
+    if (nextPrayer && nextPrayer.minutesLeft <= 30 && nextPrayer.minutesLeft > 0) {
+      prayerWarning = `
+        <div class="wp-prayer-warning">
+          ⚠️ المحلات تقفل وقت الصلاة — الصلاة الجاية: ${nextPrayer.nameAr} بعد ${formatCountdown(nextPrayer.minutesLeft)}
+        </div>
+      `;
+    }
+
+    // Suggestion badges
     let badgesHtml = suggestions.map(s => `
       <span class="wp-suggestion-badge" ${s.filter ? `data-filter="${s.filter}"` : ''}>
         ${s.icon} ${s.text}
@@ -266,6 +345,7 @@ const WeatherPrayer = (() => {
           ${weatherStrip}
           ${prayerStrip}
         </div>
+        ${prayerWarning}
         <div class="wp-suggestions">
           ${badgesHtml}
         </div>
@@ -273,7 +353,7 @@ const WeatherPrayer = (() => {
     `;
     container.style.display = 'block';
 
-    // Add click listeners for filter badges
+    // Click listeners for filter badges
     container.querySelectorAll('.wp-suggestion-badge[data-filter]').forEach(badge => {
       badge.style.cursor = 'pointer';
       badge.addEventListener('click', () => {
@@ -291,17 +371,81 @@ const WeatherPrayer = (() => {
     });
   }
 
-  // Initialize
+  // ===== Start Countdown Timer (auto-update every minute) =====
+  function startCountdown() {
+    setInterval(() => {
+      // Update prayer countdown in banner
+      const nextPrayer = getNextPrayer();
+      if (nextPrayer) {
+        // Update countdown elements
+        document.querySelectorAll('.wp-prayer-countdown').forEach(el => {
+          el.textContent = `بعد ${formatCountdown(nextPrayer.minutesLeft)}`;
+        });
+
+        // Update/show/hide prayer warning
+        const warningEl = document.querySelector('.wp-prayer-warning');
+        if (nextPrayer.minutesLeft <= 30 && nextPrayer.minutesLeft > 0) {
+          if (warningEl) {
+            warningEl.innerHTML = `⚠️ المحلات تقفل وقت الصلاة — الصلاة الجاية: ${nextPrayer.nameAr} بعد ${formatCountdown(nextPrayer.minutesLeft)}`;
+            warningEl.style.display = '';
+          }
+        } else if (warningEl) {
+          warningEl.style.display = 'none';
+        }
+
+        // Update "open after prayer" badges
+        document.querySelectorAll('.wp-after-prayer-badge').forEach(el => {
+          if (nextPrayer.minutesLeft <= 30) {
+            el.style.display = 'inline-flex';
+          } else {
+            el.style.display = 'none';
+          }
+        });
+      }
+    }, 60000); // Every minute
+  }
+
+  // ===== Generate "Open After Prayer" Badge HTML =====
+  function getAfterPrayerBadge() {
+    const next = getNextPrayer();
+    if (!next || next.minutesLeft > 30) return '';
+    return `<span class="wp-after-prayer-badge" style="display:inline-flex;">🕌 مفتوح بعد الصلاة</span>`;
+  }
+
+  // ===== Initialize =====
   async function init(places) {
     placesData = places || [];
     const [w, p] = await Promise.all([fetchWeather(), fetchPrayerTimes()]);
+
+    // Render main banner (sidebar/combined)
     renderBanner('weather-prayer-banner');
+
+    // Render weather suggestion banner (below hero on index)
+    renderWeatherSuggestionBanner('weather-suggestion-banner');
+
+    // Start countdown timer
+    startCountdown();
 
     // Auto-refresh every 5 minutes
     setInterval(() => {
-      fetchWeather().then(() => fetchPrayerTimes()).then(() => renderBanner('weather-prayer-banner'));
+      fetchWeather().then(() => fetchPrayerTimes()).then(() => {
+        renderBanner('weather-prayer-banner');
+        renderWeatherSuggestionBanner('weather-suggestion-banner');
+      });
     }, 300000);
   }
 
-  return { init, fetchWeather, fetchPrayerTimes, getSmartSuggestion, filterByContext, getNextPrayer, getRiyadhTime };
+  return {
+    init,
+    fetchWeather,
+    fetchPrayerTimes,
+    getSmartSuggestion,
+    getWeatherSuggestion,
+    filterByContext,
+    getNextPrayer,
+    getRiyadhTime,
+    getAfterPrayerBadge,
+    formatCountdown,
+    toArabicNumerals
+  };
 })();
