@@ -530,8 +530,8 @@
 
   <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
 
-  <script src="js/darkmode.js"></script>
-  <script src="js/main.js"></script>
+  <script defer src="js/darkmode.js"></script>
+  <script defer src="js/main.js"></script>
   <script>
     // ===== Compare Page Logic =====
     let pricesLookup = {};
@@ -633,7 +633,7 @@
               <div class="subtitle">${categoryIcn[p1.category_en] || categoryIcn[p1.category] || '📍'} ${p1.category_ar || p1.category} · ${p1.neighborhood}</div>
             </div>
             <div class="compare-header-cell">
-              ${p2.image_url ? `<img src="${p2.image_url}" alt="${p2.name_ar}">` : ''}
+              ${p2.image_url ? `<img loading="lazy" src="${p2.image_url}" alt="${p2.name_ar}">` : ''}
               <h3>${p2.name_ar}</h3>
               <div class="subtitle">${categoryIcn[p2.category_en] || categoryIcn[p2.category] || '📍'} ${p2.category_ar || p2.category} · ${p2.neighborhood}</div>
             </div>

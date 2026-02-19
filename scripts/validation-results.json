@@ -1,0 +1,22 @@
+{
+  "issues": [
+    "- **google-site-verification.html**: Missing <title>",
+    "- **google-site-verification.html**: Missing meta description",
+    "- **google-site-verification.html**: Missing lang='ar'",
+    "- **google-site-verification.html**: Missing dir='rtl'",
+    "- **google-site-verification.html**: Missing viewport meta",
+    "- **places.json**: Coordinates outside Riyadh: ['edge-of-world-camp: (24.85,46.15)', 'rawdhat-khoraim-camp: (25.2,47.1)', 'al-majmaah-sports-city: (25.9,45.34)', 'rawdat-khoraim: (25.37,47.27)', 'rawdhat-khoraim: (25.2,47.1)']"
+  ],
+  "perf_issues": [
+    "compare.html: img without lazy loading",
+    "stats.html: img without lazy loading"
+  ],
+  "fixes": [],
+  "stats": {
+    "total_html": 86,
+    "passed": 85,
+    "fixed": 0,
+    "data_ok": 4,
+    "data_issues": 1
+  }
+}
