@@ -86943,5 +86943,229 @@
       "شباب"
     ],
     "perfect_for": []
+  },
+  {
+    "id": "fi-glbak",
+    "name_ar": "في قلبك",
+    "name_en": "Fi Glbak",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مطعم سعودي حاصل على Bib Gourmand من دليل ميشلان السعودية 2026. يقدم أطباق سعودية أصيلة بلمسة عصرية وأسعار ممتازة",
+    "google_rating": 4.5,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "MICHELIN Guide Saudi Arabia 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Fi+Glbak+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "أكل سعودي",
+      "ميشلان"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "michelin": "Bib Gourmand 2026"
+  },
+  {
+    "id": "mirzam-riyadh",
+    "name_ar": "مرزم",
+    "name_en": "Mirzam",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مطعم حاصل على Bib Gourmand من دليل ميشلان السعودية 2026. يقدم مأكولات مميزة بقيمة استثنائية",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "MICHELIN Guide Saudi Arabia 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mirzam+Restaurant+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فاين داينينق",
+      "ميشلان"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "michelin": "Bib Gourmand 2026"
+  },
+  {
+    "id": "tameesa-riyadh",
+    "name_ar": "تميسة",
+    "name_en": "Tameesa",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مطعم حاصل على Bib Gourmand من دليل ميشلان السعودية 2026. متخصص في الخبز والتميس السعودي التقليدي",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "MICHELIN Guide Saudi Arabia 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tameesa+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فطور",
+      "ميشلان"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "michelin": "Bib Gourmand 2026"
+  },
+  {
+    "id": "cafe-boulud-riyadh",
+    "name_ar": "كافيه بولود",
+    "name_en": "Café Boulud",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مطعم فرنسي راقي من الشيف دانيال بولود. مختار في دليل ميشلان السعودية 2026",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "MICHELIN Guide Saudi Arabia 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Cafe+Boulud+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فاين داينينق",
+      "ميشلان"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "michelin": "Selected 2026"
+  },
+  {
+    "id": "ruhi-riyadh",
+    "name_ar": "روحي",
+    "name_en": "Ruhi",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مطعم مختار في دليل ميشلان السعودية 2026. يقدم تجربة طعام راقية ومميزة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "MICHELIN Guide Saudi Arabia 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ruhi+Restaurant+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فاين داينينق",
+      "ميشلان"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "michelin": "Selected 2026"
+  },
+  {
+    "id": "tanjiah-riyadh",
+    "name_ar": "طانجية",
+    "name_en": "Tanjiah",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "مطعم مغربي مختار في دليل ميشلان السعودية 2026. يقدم أطباق مغربية أصيلة بطريقة عصرية",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "MICHELIN Guide Saudi Arabia 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tanjiah+Restaurant+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مغربي",
+      "ميشلان"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "michelin": "Selected 2026"
+  },
+  {
+    "id": "rubi-room-hocho",
+    "name_ar": "ذا روبي روم",
+    "name_en": "The Rubi Room at Hōchō",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الرياض",
+    "neighborhood_en": "Riyadh",
+    "description_ar": "تجربة طعام حصرية داخل مطعم هوتشو الياباني. مختار في دليل ميشلان السعودية 2026",
+    "google_rating": 4.5,
+    "price_level": "$$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "MICHELIN Guide Saudi Arabia 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Rubi+Room+Hocho+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ياباني",
+      "ميشلان"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ],
+    "michelin": "Selected 2026"
   }
 ]
