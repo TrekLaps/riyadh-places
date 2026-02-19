@@ -18,8 +18,9 @@
 4. 🏘️ neighborhood-builder — صفحات أحياء جديدة
 5. 🛵 delivery-page-builder — صفحة مقارنة التوصيل
 
-## ⏳ Queued (Next)
-1. 🧪 validator — validation شامل + أداء + إصلاحات
-2. 📍 places-collector-2 — أماكن batch 2 (طبيعة + شاليهات + متاحف)
-3. 🏗️ system-architect — هيكل النظام الكامل (architecture doc)
-4. 🔧 data-integrator-2 — دمج batch 2 + أسعار جديدة
+## ⏳ Queued (Next — auto-launch when slot frees)
+1. 🤖 **ai-engine-builder** — AI Search بالعربي السعودي + Recommendations + صفحة بحث ذكي
+2. 🏗️ **system-architect** — هيكل النظام الكامل (architecture doc)
+3. 🔧 **data-integrator-2** — دمج batch 2 + أسعار جديدة + git push
+4. 📍 **places-collector-3** — المزيد من الأماكن (مطاعم + كافيهات أحياء محددة)
+5. 📱 **ios-scaffold** — Xcode project structure + Swift models + data layer

@@ -1,0 +1,3958 @@
+[
+  {
+    "id": "b2-nature-001",
+    "name_ar": "حديقة الشهداء",
+    "name_en": "Al Shuhada Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي غرناطة",
+    "neighborhood_en": "Granada",
+    "description_ar": "حديقة كبيرة في حي غرناطة بمساحات خضراء واسعة ومسارات مشي وألعاب أطفال ومنطقة شواء وإضاءة ليلية متطورة",
+    "google_rating": 4.3,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps",
+      "Bostangy 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Shuhada+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "مشي",
+      "أطفال"
+    ],
+    "lat": 24.7948,
+    "lng": 46.7254,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "أطفال"
+    ]
+  },
+  {
+    "id": "b2-nature-002",
+    "name_ar": "حديقة الإحسان",
+    "name_en": "Al Ihsan Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "حديقة بتنسيق طبيعي فريد يحاكي الحدائق الجبلية، تجمع بين المسطحات الخضراء والمسارات الرياضية المتكاملة",
+    "google_rating": 4.4,
+    "price_level": "مجاني",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Bostangy 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Ihsan+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "رياضة",
+      "استرخاء"
+    ],
+    "lat": 24.8234,
+    "lng": 46.6312,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "رياضيين"
+    ]
+  },
+  {
+    "id": "b2-nature-003",
+    "name_ar": "حديقة حي اليرموك",
+    "name_en": "Al Yarmouk Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي اليرموك",
+    "neighborhood_en": "Al Yarmouk",
+    "description_ar": "حديقة واسعة في حي اليرموك بمساحات خضراء وممرات مشي ومناطق أطفال ومرافق رياضية متنوعة",
+    "google_rating": 4.2,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Mosafeir 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Yarmouk+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "رياضة",
+      "أطفال"
+    ],
+    "lat": 24.7512,
+    "lng": 46.7589,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "أطفال"
+    ]
+  },
+  {
+    "id": "b2-nature-004",
+    "name_ar": "حديقة محمد بن القاسم",
+    "name_en": "Mohammed bin Al Qasim Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الروابي",
+    "neighborhood_en": "Al Rawabi",
+    "description_ar": "حديقة كبيرة في حي الروابي تضم مساحات خضراء واسعة وأشجار متنوعة ومناطق ألعاب أطفال ومسارات مشي على مدار الساعة",
+    "google_rating": 4.3,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Mosafeir 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mohammed+bin+Al+Qasim+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "مشي",
+      "نزهة"
+    ],
+    "lat": 24.7345,
+    "lng": 46.7423,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "أطفال"
+    ]
+  },
+  {
+    "id": "b2-nature-005",
+    "name_ar": "حديقة حي القادسية",
+    "name_en": "Al Qadisiyah Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي القادسية",
+    "neighborhood_en": "Al Qadisiyah",
+    "description_ar": "حديقة هادئة في حي القادسية بمسارات مشي ومناطق جلوس ظليلة ومسطحات خضراء واسعة",
+    "google_rating": 4.1,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Mosafeir 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Qadisiyah+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "مشي",
+      "استرخاء"
+    ],
+    "lat": 24.7456,
+    "lng": 46.7612,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-006",
+    "name_ar": "حديقة حي الرمال",
+    "name_en": "Al Rimal Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الرمال",
+    "neighborhood_en": "Al Rimal",
+    "description_ar": "حديقة في حي الرمال شرق الرياض بمساحات مفتوحة ومسارات رياضية وألعاب أطفال",
+    "google_rating": 4.0,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Mosafeir 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Rimal+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "رياضة"
+    ],
+    "lat": 24.7389,
+    "lng": 46.8123,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "أطفال"
+    ]
+  },
+  {
+    "id": "b2-nature-007",
+    "name_ar": "حديقة الملك عبدالله - الملز",
+    "name_en": "King Abdullah Park Malaz East",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "حديقة ضخمة في حي الملز تضم بحيرات صناعية ومناطق ألعاب أطفال ومسارات مشي ودراجات وفعاليات ثقافية واجتماعية",
+    "google_rating": 4.5,
+    "price_level": "مجاني",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Mosafeir 2026",
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=King+Abdullah+Park+Malaz+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "أطفال",
+      "نزهة"
+    ],
+    "lat": 24.6423,
+    "lng": 46.7312,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "أطفال",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-nature-008",
+    "name_ar": "منتزه الملك سلمان البري",
+    "name_en": "King Salman Wildlife Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "منتزه وطني ضخم يمتد على مساحة 7 كم² شمال الرياض، يضم محميات حيوانات برية ومسارات طبيعية ومناطق تخييم وبرامج بيئية",
+    "google_rating": 4.6,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=King+Salman+Wildlife+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "طبيعة",
+      "حيوانات برية"
+    ],
+    "lat": 24.9145,
+    "lng": 46.6234,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "أطفال",
+      "مغامرين"
+    ]
+  },
+  {
+    "id": "b2-nature-010",
+    "name_ar": "منتزه البحيرات",
+    "name_en": "Lakes Park Riyadh",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الحائر",
+    "neighborhood_en": "Al Hair",
+    "description_ar": "منتزه طبيعي ضمن قرية الحائر التاريخية يضم بحيرات طبيعية ومسارات مشي ومناطق نزهة وتخييم",
+    "google_rating": 4.2,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "SaudiGates 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Lakes+Park+Al+Hair+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "نزهة",
+      "تخييم"
+    ],
+    "lat": 24.3789,
+    "lng": 46.7123,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "مغامرين"
+    ]
+  },
+  {
+    "id": "b2-nature-012",
+    "name_ar": "حديقة حي النرجس",
+    "name_en": "Al Narjis Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "Al Narjis",
+    "description_ar": "حديقة حديثة في حي النرجس شمال الرياض بمساحات خضراء ومسارات مشي ودراجات ومناطق ألعاب أطفال",
+    "google_rating": 4.3,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Narjis+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "دراجات",
+      "أطفال"
+    ],
+    "lat": 24.8456,
+    "lng": 46.6534,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "رياضيين"
+    ]
+  },
+  {
+    "id": "b2-nature-013",
+    "name_ar": "حديقة حي العقيق",
+    "name_en": "Al Aqiq Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي العقيق",
+    "neighborhood_en": "Al Aqiq",
+    "description_ar": "حديقة مميزة في حي العقيق بتصميم عصري ومسارات مشي محاطة بالأشجار ومناطق جلوس مريحة",
+    "google_rating": 4.2,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Aqiq+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "استرخاء"
+    ],
+    "lat": 24.7734,
+    "lng": 46.6345,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-014",
+    "name_ar": "حديقة حي الصحافة",
+    "name_en": "Al Sahafa Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "Al Sahafa",
+    "description_ar": "حديقة عامة في حي الصحافة بمساحات خضراء ومسارات رياضية ومناطق جلوس عائلية",
+    "google_rating": 4.1,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Sahafa+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "عائلات"
+    ],
+    "lat": 24.8123,
+    "lng": 46.6789,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-015",
+    "name_ar": "حديقة حي الوادي",
+    "name_en": "Al Wadi Neighborhood Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الوادي",
+    "neighborhood_en": "Al Wadi",
+    "description_ar": "حديقة في حي الوادي شمال الرياض بتصميم حديث ومساحات لعب ومسارات مشي",
+    "google_rating": 4.0,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Wadi+Neighborhood+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "أطفال"
+    ],
+    "lat": 24.8012,
+    "lng": 46.6456,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-016",
+    "name_ar": "حديقة حي الغدير",
+    "name_en": "Al Ghadir Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الغدير",
+    "neighborhood_en": "Al Ghadir",
+    "description_ar": "حديقة عامة في حي الغدير بمسطحات خضراء ومسارات مشي ومنطقة ألعاب أطفال",
+    "google_rating": 4.0,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Ghadir+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "أطفال"
+    ],
+    "lat": 24.8289,
+    "lng": 46.7023,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-017",
+    "name_ar": "حديقة حي الورود",
+    "name_en": "Al Wurud Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الورود",
+    "neighborhood_en": "Al Wurud",
+    "description_ar": "حديقة في حي الورود وسط الرياض بمساحات خضراء هادئة ومسارات مشي ومقاعد استراحة",
+    "google_rating": 4.1,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Wurud+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "استرخاء"
+    ],
+    "lat": 24.7234,
+    "lng": 46.6923,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-018",
+    "name_ar": "حديقة حي السليمانية",
+    "name_en": "Al Sulaimaniyah Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "Al Sulaimaniyah",
+    "description_ar": "حديقة في حي السليمانية بمساحات خضراء ومنطقة مشي وجلسات هادئة قريبة من وسط الرياض",
+    "google_rating": 4.0,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Sulaimaniyah+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "استرخاء"
+    ],
+    "lat": 24.7056,
+    "lng": 46.6812,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-019",
+    "name_ar": "حديقة حي المصيف",
+    "name_en": "Al Masif Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي المصيف",
+    "neighborhood_en": "Al Masif",
+    "description_ar": "حديقة في حي المصيف بمساحات خضراء ومسارات مشي ومقاعد مظللة",
+    "google_rating": 4.0,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Masif+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي"
+    ],
+    "lat": 24.7423,
+    "lng": 46.6534,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-020",
+    "name_ar": "حديقة حي الفلاح",
+    "name_en": "Al Falah Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الفلاح",
+    "neighborhood_en": "Al Falah",
+    "description_ar": "حديقة عامة في حي الفلاح شمال الرياض بمساحات خضراء ومرافق رياضية وألعاب أطفال",
+    "google_rating": 4.1,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Falah+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "رياضة"
+    ],
+    "lat": 24.7889,
+    "lng": 46.6945,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "رياضيين"
+    ]
+  },
+  {
+    "id": "b2-nature-021",
+    "name_ar": "حديقة حي الربيع",
+    "name_en": "Al Rabi Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الربيع",
+    "neighborhood_en": "Ar Rabi",
+    "description_ar": "حديقة واسعة في حي الربيع بمسطحات خضراء ومنطقة مشي ومرافق عائلية",
+    "google_rating": 4.2,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Rabi+Park+North+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "عائلات"
+    ],
+    "lat": 24.8156,
+    "lng": 46.6567,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-022",
+    "name_ar": "حديقة حي الندوة",
+    "name_en": "Al Nadwa Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الندوة",
+    "neighborhood_en": "Al Nadwa",
+    "description_ar": "حديقة في حي الندوة شرق الرياض بمساحات خضراء ومناطق لعب أطفال",
+    "google_rating": 3.9,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Nadwa+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "أطفال",
+      "مشي"
+    ],
+    "lat": 24.7234,
+    "lng": 46.8345,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-023",
+    "name_ar": "حديقة حي طويق",
+    "name_en": "Tuwaiq Neighborhood Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي طويق",
+    "neighborhood_en": "Tuwaiq",
+    "description_ar": "حديقة عامة في حي طويق غرب الرياض بمساحات خضراء وممرات مشي ومرافق رياضية",
+    "google_rating": 4.0,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Tuwaiq+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "رياضة"
+    ],
+    "lat": 24.6312,
+    "lng": 46.5678,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-024",
+    "name_ar": "حديقة حي الحزم",
+    "name_en": "Al Hazm Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الحزم",
+    "neighborhood_en": "Al Hazm",
+    "description_ar": "حديقة في حي الحزم بمسطحات خضراء ومنطقة ألعاب أطفال ومسارات مشي",
+    "google_rating": 3.9,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Hazm+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "أطفال"
+    ],
+    "lat": 24.6789,
+    "lng": 46.6123,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-025",
+    "name_ar": "حديقة حي الخليج",
+    "name_en": "Al Khaleej Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الخليج",
+    "neighborhood_en": "Al Khaleej",
+    "description_ar": "حديقة في حي الخليج بمساحات خضراء وأشجار ظليلة ومرافق للأطفال",
+    "google_rating": 4.0,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Khaleej+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "أطفال"
+    ],
+    "lat": 24.7567,
+    "lng": 46.7834,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-027",
+    "name_ar": "حديقة السويدي الكبرى",
+    "name_en": "Al Suwaidi Grand Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي السويدي",
+    "neighborhood_en": "Al Suwaidi",
+    "description_ar": "حديقة كبيرة مطورة في حي السويدي استضافت فعاليات ثقافية متنوعة ضمن موسم الرياض",
+    "google_rating": 4.3,
+    "price_level": "مجاني",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Suwaidi+Grand+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "ثقافة",
+      "فعاليات"
+    ],
+    "lat": 24.5978,
+    "lng": 46.6523,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-nature-028",
+    "name_ar": "حديقة حي العارض",
+    "name_en": "Al Arid Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي العارض",
+    "neighborhood_en": "Al Arid",
+    "description_ar": "حديقة جديدة في حي العارض شمال الرياض بمسارات مشي حديثة ومساحات خضراء",
+    "google_rating": 4.1,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Arid+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "عائلات"
+    ],
+    "lat": 24.8534,
+    "lng": 46.6423,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-029",
+    "name_ar": "وادي نمار المطور",
+    "name_en": "Wadi Namar Development",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "نمار",
+    "neighborhood_en": "Namar",
+    "description_ar": "وادي نمار المطور يضم شلالات وبحيرة ومسارات مشي طبيعية ومناطق جلوس مطلة على المناظر الطبيعية",
+    "google_rating": 4.4,
+    "price_level": "مجاني",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Namar+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي",
+      "تصوير"
+    ],
+    "lat": 24.5423,
+    "lng": 46.6234,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب",
+      "مغامرين"
+    ]
+  },
+  {
+    "id": "b2-nature-030",
+    "name_ar": "حديقة حي لبن",
+    "name_en": "Laban Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي لبن",
+    "neighborhood_en": "Laban",
+    "description_ar": "حديقة عامة في حي لبن بمساحات خضراء ومرافق للعائلات ومسارات مشي",
+    "google_rating": 3.9,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Laban+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "عائلات"
+    ],
+    "lat": 24.6123,
+    "lng": 46.5923,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-031",
+    "name_ar": "مسار وادي حنيفة للدراجات",
+    "name_en": "Wadi Hanifah Cycling Path",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "وادي حنيفة",
+    "neighborhood_en": "Wadi Hanifah",
+    "description_ar": "مسار مخصص للدراجات الهوائية على امتداد وادي حنيفة بطول 30 كم وسط مناظر طبيعية خلابة",
+    "google_rating": 4.5,
+    "price_level": "مجاني",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Hanifah+Cycling+Path+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "دراجات",
+      "رياضة",
+      "طبيعة"
+    ],
+    "lat": 24.5867,
+    "lng": 46.6478,
+    "is_free": true,
+    "audience": [
+      "رياضيين",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-nature-032",
+    "name_ar": "حديقة حي العريجاء",
+    "name_en": "Al Uraija Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي العريجاء",
+    "neighborhood_en": "Al Uraija",
+    "description_ar": "حديقة عامة في حي العريجاء بمساحات خضراء ومرافق رياضية ومناطق لعب أطفال",
+    "google_rating": 3.9,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Uraija+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "أطفال"
+    ],
+    "lat": 24.6234,
+    "lng": 46.6123,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-033",
+    "name_ar": "حديقة حي بدر",
+    "name_en": "Badr Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي بدر",
+    "neighborhood_en": "Badr",
+    "description_ar": "حديقة عامة في حي بدر جنوب الرياض بمساحات خضراء ومرافق ترفيهية",
+    "google_rating": 3.8,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Badr+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "أطفال"
+    ],
+    "lat": 24.5789,
+    "lng": 46.7234,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-034",
+    "name_ar": "حديقة حي الدار البيضاء",
+    "name_en": "Al Dar Al Baida Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الدار البيضاء",
+    "neighborhood_en": "Al Dar Al Baida",
+    "description_ar": "حديقة عامة في حي الدار البيضاء بمساحات خضراء وممرات مشي ومرافق ترفيهية",
+    "google_rating": 3.9,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Dar+Al+Baida+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "أطفال"
+    ],
+    "lat": 24.5456,
+    "lng": 46.7567,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-035",
+    "name_ar": "حديقة حي المنار",
+    "name_en": "Al Manar Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي المنار",
+    "neighborhood_en": "Al Manar",
+    "description_ar": "حديقة عامة في حي المنار بمساحات خضراء ومسارات مشي وأشجار ظليلة",
+    "google_rating": 4.0,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Manar+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي"
+    ],
+    "lat": 24.7645,
+    "lng": 46.6678,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-036",
+    "name_ar": "ممشى حي حطين الأخضر",
+    "name_en": "Hittin Green Walk",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي حطين",
+    "neighborhood_en": "Hittin",
+    "description_ar": "ممشى أخضر ممتد في حي حطين بمسارات مشي وجري ودراجات محاطة بالأشجار والإنارة الليلية",
+    "google_rating": 4.4,
+    "price_level": "مجاني",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Hittin+Green+Walk+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "جري",
+      "دراجات"
+    ],
+    "lat": 24.7456,
+    "lng": 46.6123,
+    "is_free": true,
+    "audience": [
+      "رياضيين",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-037",
+    "name_ar": "مسار شعيب المقير",
+    "name_en": "Shuaib Al Muqayr Trail",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "غرب الرياض",
+    "neighborhood_en": "West Riyadh",
+    "description_ar": "مسار هايكنق طبيعي في شعيب المقير بتكوينات صخرية ومناظر صحراوية خلابة",
+    "google_rating": 4.3,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Shuaib+Al+Muqayr+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "هايكنق",
+      "مغامرة",
+      "تصوير"
+    ],
+    "lat": 24.6534,
+    "lng": 46.4567,
+    "is_free": true,
+    "audience": [
+      "مغامرين",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-nature-038",
+    "name_ar": "وادي حريملاء",
+    "name_en": "Huraymila Valley",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حريملاء",
+    "neighborhood_en": "Huraymila",
+    "description_ar": "وادي طبيعي خلاب في محافظة حريملاء شمال غرب الرياض بمياه جارية وأشجار نخيل ومزارع تقليدية",
+    "google_rating": 4.4,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Huraymila+Valley+Riyadh",
+    "district": "حريملاء",
+    "perfect_for": [
+      "طبيعة",
+      "تصوير",
+      "نزهة"
+    ],
+    "lat": 25.1234,
+    "lng": 46.3456,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "مغامرين"
+    ]
+  },
+  {
+    "id": "b2-nature-039",
+    "name_ar": "جبل فهرين",
+    "name_en": "Fihrayn Mountain",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "شمال غرب الرياض",
+    "neighborhood_en": "Northwest Riyadh",
+    "description_ar": "جبل فهرين وجهة هايكنق شهيرة بتكوينات صخرية فريدة ومنظر بانورامي للصحراء وفرص تخييم",
+    "google_rating": 4.5,
+    "price_level": "مجاني",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Fihrayn+Mountain+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "هايكنق",
+      "تخييم",
+      "تصوير"
+    ],
+    "lat": 25.0345,
+    "lng": 46.2789,
+    "is_free": true,
+    "audience": [
+      "مغامرين",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-nature-040",
+    "name_ar": "مسار وادي البير",
+    "name_en": "Wadi Al Bir Trail",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "جنوب غرب الرياض",
+    "neighborhood_en": "Southwest Riyadh",
+    "description_ar": "مسار هايكنق في وادي البير بتكوينات جيولوجية مميزة ومناظر صحراوية وكهوف صغيرة",
+    "google_rating": 4.2,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Al+Bir+Trail+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "هايكنق",
+      "مغامرة"
+    ],
+    "lat": 24.4567,
+    "lng": 46.5123,
+    "is_free": true,
+    "audience": [
+      "مغامرين"
+    ]
+  },
+  {
+    "id": "b2-nature-041",
+    "name_ar": "حديقة حي الأندلس",
+    "name_en": "Al Andalus Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الأندلس",
+    "neighborhood_en": "Al Andalus",
+    "description_ar": "حديقة عامة في حي الأندلس بمسطحات خضراء واسعة ومرافق ترفيهية للأطفال",
+    "google_rating": 4.0,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Andalus+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "أطفال"
+    ],
+    "lat": 24.7123,
+    "lng": 46.7567,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-042",
+    "name_ar": "حديقة حي المروج",
+    "name_en": "Al Muruj Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي المروج",
+    "neighborhood_en": "Al Muruj",
+    "description_ar": "حديقة في حي المروج بمساحات خضراء وأشجار ظليلة ومسارات مشي",
+    "google_rating": 4.1,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Muruj+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "استرخاء"
+    ],
+    "lat": 24.7345,
+    "lng": 46.6789,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-043",
+    "name_ar": "حديقة حي الشفا",
+    "name_en": "Al Shifa Neighborhood Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الشفا",
+    "neighborhood_en": "Al Shifa",
+    "description_ar": "حديقة عامة في حي الشفا جنوب الرياض بمساحات خضراء ومرافق ترفيهية",
+    "google_rating": 3.9,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Shifa+Park+South+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "أطفال"
+    ],
+    "lat": 24.5567,
+    "lng": 46.6456,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-044",
+    "name_ar": "حديقة حي إشبيلية الأولى",
+    "name_en": "Ishbiliya First Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي إشبيلية",
+    "neighborhood_en": "Ishbiliya",
+    "description_ar": "حديقة في حي إشبيلية شرق الرياض تختلف عن الحديقة الثانية بموقعها ومرافقها المتنوعة",
+    "google_rating": 4.0,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Ishbiliya+First+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "أطفال"
+    ],
+    "lat": 24.7645,
+    "lng": 46.7912,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-045",
+    "name_ar": "مسار ركوب الخيل - الثمامة",
+    "name_en": "Thumamah Horse Riding Trail",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الثمامة",
+    "neighborhood_en": "Al Thumamah",
+    "description_ar": "مسار لركوب الخيل في منطقة الثمامة الصحراوية مع مناظر طبيعية رملية وفرص تصوير",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Thumamah+Horse+Riding+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "خيل",
+      "مغامرة",
+      "طبيعة"
+    ],
+    "lat": 25.0567,
+    "lng": 46.6345,
+    "is_free": false,
+    "audience": [
+      "مغامرين",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-046",
+    "name_ar": "حديقة حي التعاون",
+    "name_en": "Al Taawun Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي التعاون",
+    "neighborhood_en": "Al Taawun",
+    "description_ar": "حديقة عامة في حي التعاون بمسارات مشي ومساحات خضراء ومرافق جلوس",
+    "google_rating": 4.0,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Taawun+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي"
+    ],
+    "lat": 24.7812,
+    "lng": 46.7123,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-047",
+    "name_ar": "منتزه وادي السلي الأعلى",
+    "name_en": "Upper Wadi Sulay Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "جنوب شرق الرياض",
+    "neighborhood_en": "Southeast Riyadh",
+    "description_ar": "منتزه طبيعي في الجزء الأعلى من وادي السلي بمسارات مشي ومناطق نزهة وسط الطبيعة",
+    "google_rating": 4.1,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Upper+Wadi+Sulay+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "مشي",
+      "نزهة"
+    ],
+    "lat": 24.5234,
+    "lng": 46.7789,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "مغامرين"
+    ]
+  },
+  {
+    "id": "b2-nature-048",
+    "name_ar": "حديقة حي النسيم الغربي",
+    "name_en": "Al Naseem West Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي النسيم الغربي",
+    "neighborhood_en": "Al Naseem West",
+    "description_ar": "حديقة في حي النسيم الغربي بمساحات خضراء وأشجار ومرافق ترفيهية",
+    "google_rating": 3.9,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Naseem+West+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "أطفال"
+    ],
+    "lat": 24.6978,
+    "lng": 46.7723,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-049",
+    "name_ar": "حديقة حي المونسية الجديدة",
+    "name_en": "Al Munsiyah New Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي المونسية",
+    "neighborhood_en": "Al Munsiyah",
+    "description_ar": "حديقة مطورة حديثاً في حي المونسية بتصميم عصري ومرافق متكاملة",
+    "google_rating": 4.2,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Mosafeir 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Munsiyah+New+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "أطفال",
+      "عائلات"
+    ],
+    "lat": 24.7678,
+    "lng": 46.8234,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-050",
+    "name_ar": "حديقة حي الملقا الثانية",
+    "name_en": "Al Malqa Second Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "حديقة ثانية في حي الملقا بمسارات مشي ومساحات خضراء ومنطقة ألعاب أطفال",
+    "google_rating": 4.1,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Malqa+Second+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "أطفال"
+    ],
+    "lat": 24.8345,
+    "lng": 46.6234,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-051",
+    "name_ar": "مزرعة البراري المفتوحة",
+    "name_en": "Al Barari Open Farm",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "مزرعة مفتوحة للزوار تضم حيوانات أليفة وحقول زراعية ونشاطات تعليمية للأطفال",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Barari+Farm+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "أطفال",
+      "طبيعة",
+      "تعليمي"
+    ],
+    "lat": 24.8967,
+    "lng": 46.6123,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "أطفال"
+    ]
+  },
+  {
+    "id": "b2-nature-052",
+    "name_ar": "حديقة الأمير سعود بن عبدالمحسن",
+    "name_en": "Prince Saud bin Abdulmohsen Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "حديقة في حي العليا بمساحات خضراء ونوافير مائية ومسارات مشي",
+    "google_rating": 4.2,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Prince+Saud+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "استرخاء"
+    ],
+    "lat": 24.7189,
+    "lng": 46.6934,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-chalet-001",
+    "name_ar": "منتجع ماربيلا الرياض",
+    "name_en": "Marbella Resort Riyadh",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "العمارية",
+    "neighborhood_en": "Al Ammariyah",
+    "description_ar": "منتجع صحراوي فاخر بفلل متنوعة من غرفة إلى ثلاث غرف نوم مع مطابخ وحدائق ساحرة وخدمة غرف متميزة",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Marbella+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "استرخاء",
+      "رومانسي"
+    ],
+    "lat": 24.8723,
+    "lng": 46.5234,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "أزواج"
+    ]
+  },
+  {
+    "id": "b2-chalet-002",
+    "name_ar": "منتجع نجدارة",
+    "name_en": "Najdarah Resort",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "العمارية",
+    "neighborhood_en": "Al Ammariyah",
+    "description_ar": "منتجع صحراوي عصري بشاليهات تطل على مناظر طبيعية مع مسابح وأسرّة خارجية ومراقبة نجوم",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Najdarah+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "رومانسي",
+      "استرخاء",
+      "نجوم"
+    ],
+    "lat": 24.8812,
+    "lng": 46.5123,
+    "is_free": false,
+    "audience": [
+      "أزواج",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-chalet-003",
+    "name_ar": "شاليه ريڤون",
+    "name_en": "Revon Chalet",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليه عصري أنيق بمسبح وجاكوزي ومنطقة خارجية فاخرة مناسب للعرسان والمجموعات",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Revon+Chalet+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "رومانسي",
+      "عرسان",
+      "مجموعات"
+    ],
+    "lat": 24.8456,
+    "lng": 46.6234,
+    "is_free": false,
+    "audience": [
+      "أزواج",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-chalet-004",
+    "name_ar": "منتجع النخلة",
+    "name_en": "Al Nakhlah Resort",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "منتجع بشاليهات واسعة مع مسابح خارجية وداخلية وشاليه يوم العسل بمسبح 7 أمتار",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "TimeOut Riyadh 2025"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Nakhlah+Resort+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "أطفال",
+      "عرسان"
+    ],
+    "lat": 24.5678,
+    "lng": 46.6789,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "أزواج"
+    ]
+  },
+  {
+    "id": "b2-chalet-005",
+    "name_ar": "شاليهات الورد",
+    "name_en": "Al Ward Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "شرق الرياض",
+    "neighborhood_en": "East Riyadh",
+    "description_ar": "شاليهات بتصميم رومانسي مع ورود ومسبح خاص وجاكوزي وديكورات أنيقة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Gathern"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Ward+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "رومانسي",
+      "عرسان"
+    ],
+    "lat": 24.7345,
+    "lng": 46.8123,
+    "is_free": false,
+    "audience": [
+      "أزواج"
+    ]
+  },
+  {
+    "id": "b2-chalet-006",
+    "name_ar": "شاليهات فيردي",
+    "name_en": "Verdi Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "Al Narjis",
+    "description_ar": "شاليهات عصرية بتصميم أنيق ومسبح خاص وحديقة ومرافق ترفيه متكاملة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Gathern"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Verdi+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "مجموعات"
+    ],
+    "lat": 24.8567,
+    "lng": 46.6456,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-chalet-007",
+    "name_ar": "شاليهات ذا كابين",
+    "name_en": "The Cabin Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "أكواخ خشبية بطابع ريفي مع مسبح ومنطقة شواء وحديقة خضراء",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Gathern"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Cabin+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "مجموعات",
+      "شواء"
+    ],
+    "lat": 24.8789,
+    "lng": 46.6345,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-chalet-008",
+    "name_ar": "شاليهات الرونق",
+    "name_en": "Al Rawnaq Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "شرق الرياض",
+    "neighborhood_en": "East Riyadh",
+    "description_ar": "شاليهات فاخرة بتصميم عربي عصري مع مسبح وجلسات خارجية ومنطقة شواء",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Aqar.fm"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Rawnaq+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "شواء"
+    ],
+    "lat": 24.7456,
+    "lng": 46.8234,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-chalet-009",
+    "name_ar": "شاليهات وايت هاوس",
+    "name_en": "White House Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات بتصميم أبيض أنيق مع مسبح خاص وحديقة ومرافق متكاملة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Gathern"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=White+House+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "مجموعات"
+    ],
+    "lat": 24.8345,
+    "lng": 46.6567,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-chalet-010",
+    "name_ar": "شاليهات لافيدا",
+    "name_en": "La Vida Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "حي الرمال",
+    "neighborhood_en": "Al Rimal",
+    "description_ar": "شاليهات بتصميم إسباني مع مسبح ومنطقة شواء وملعب بادل",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Gathern"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=La+Vida+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مجموعات",
+      "رياضة",
+      "شواء"
+    ],
+    "lat": 24.7567,
+    "lng": 46.8345,
+    "is_free": false,
+    "audience": [
+      "شباب",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-chalet-011",
+    "name_ar": "شاليهات ذا غاردن",
+    "name_en": "The Garden Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات محاطة بحدائق خضراء مع مسبح ومنطقة ألعاب أطفال ومرافق شواء",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Gathern"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Garden+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "أطفال"
+    ],
+    "lat": 24.8678,
+    "lng": 46.6123,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-chalet-012",
+    "name_ar": "شاليهات ريف الرياض",
+    "name_en": "Reef Al Riyadh Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "غرب الرياض",
+    "neighborhood_en": "West Riyadh",
+    "description_ar": "شاليهات بطابع ريفي سعودي مع مزرعة صغيرة ومسبح ومنطقة شواء",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Aqar.fm"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Reef+Al+Riyadh+Chalets",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "طبيعة"
+    ],
+    "lat": 24.6789,
+    "lng": 46.5234,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-chalet-013",
+    "name_ar": "شاليهات سيلا",
+    "name_en": "Sila Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "حي الرمال",
+    "neighborhood_en": "Al Rimal",
+    "description_ar": "شاليهات حديثة بتصميم مينمالست مع مسبح وجاكوزي ومرافق متكاملة",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Gathern"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sila+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "أزواج",
+      "استرخاء"
+    ],
+    "lat": 24.7423,
+    "lng": 46.8156,
+    "is_free": false,
+    "audience": [
+      "أزواج",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-chalet-014",
+    "name_ar": "شاليهات المنتزه الأخضر",
+    "name_en": "Green Park Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "العمارية",
+    "neighborhood_en": "Al Ammariyah",
+    "description_ar": "شاليهات في منطقة العمارية بحدائق واسعة ومسبح كبير ومناطق ترفيه",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Aqar.fm"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Green+Park+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "مجموعات"
+    ],
+    "lat": 24.8567,
+    "lng": 46.5345,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-chalet-015",
+    "name_ar": "شاليهات فور سيزونز",
+    "name_en": "Four Seasons Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات فاخرة بأربع تصاميم مختلفة تناسب كل فصل مع مسابح ومرافق VIP",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Gathern"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Four+Seasons+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فاخر",
+      "أزواج",
+      "مناسبات"
+    ],
+    "lat": 24.8912,
+    "lng": 46.6456,
+    "is_free": false,
+    "audience": [
+      "أزواج",
+      "VIP"
+    ]
+  },
+  {
+    "id": "b2-chalet-016",
+    "name_ar": "استراحة الجبيلة",
+    "name_en": "Al Jubailah Rest House",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "الجبيلة",
+    "neighborhood_en": "Al Jubailah",
+    "description_ar": "استراحة يومية واسعة في الجبيلة بخيمة معزولة ومسبح ومنطقة شواء ومدخل منفصل",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Aqar.fm"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Jubailah+Rest+House+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "شواء",
+      "اقتصادي"
+    ],
+    "lat": 24.9234,
+    "lng": 46.5678,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-chalet-017",
+    "name_ar": "شاليهات ذا ليك",
+    "name_en": "The Lake Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "شرق الرياض",
+    "neighborhood_en": "East Riyadh",
+    "description_ar": "شاليهات مع بحيرة صناعية خاصة ومسبح وجلسات مائية وتصميم فاخر",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Gathern"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Lake+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فاخر",
+      "رومانسي"
+    ],
+    "lat": 24.7234,
+    "lng": 46.8456,
+    "is_free": false,
+    "audience": [
+      "أزواج",
+      "VIP"
+    ]
+  },
+  {
+    "id": "b2-chalet-018",
+    "name_ar": "شاليهات الصفوة",
+    "name_en": "Al Safwa Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "شاليهات بأسعار اقتصادية مع مسبح ومنطقة شواء ومرافق أساسية",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Aqar.fm"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Safwa+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "اقتصادي",
+      "عائلات"
+    ],
+    "lat": 24.5345,
+    "lng": 46.6789,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-chalet-019",
+    "name_ar": "شاليهات ذا بيتش",
+    "name_en": "The Beach Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات بتصميم شاطئي مع رمال وألعاب مائية ومسبح كبير وأجواء بحرية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Gathern"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Beach+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "أطفال",
+      "عائلات",
+      "مرح"
+    ],
+    "lat": 24.8645,
+    "lng": 46.6789,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "أطفال"
+    ]
+  },
+  {
+    "id": "b2-chalet-020",
+    "name_ar": "استراحة العيينة التراثية",
+    "name_en": "Al Uyaynah Heritage Rest House",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "العيينة",
+    "neighborhood_en": "Al Uyaynah",
+    "description_ar": "استراحة بتصميم تراثي نجدي في العيينة مع فناء داخلي وخيمة ومنطقة شواء",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Aqar.fm"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Uyaynah+Heritage+Rest+Riyadh",
+    "district": "العيينة",
+    "perfect_for": [
+      "تراث",
+      "عائلات",
+      "شواء"
+    ],
+    "lat": 24.9567,
+    "lng": 46.3789,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-chalet-021",
+    "name_ar": "مخيم نجوم الصحراء",
+    "name_en": "Desert Stars Camp",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "الثمامة",
+    "neighborhood_en": "Al Thumamah",
+    "description_ar": "مخيم فاخر في الثمامة بخيام مكيفة ومراقبة نجوم ونشاطات صحراوية",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Gathern"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Desert+Stars+Camp+Thumamah+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تخييم",
+      "نجوم",
+      "رومانسي"
+    ],
+    "lat": 25.0789,
+    "lng": 46.6234,
+    "is_free": false,
+    "audience": [
+      "أزواج",
+      "مغامرين"
+    ]
+  },
+  {
+    "id": "b2-chalet-022",
+    "name_ar": "شاليهات أرابيسك",
+    "name_en": "Arabesque Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "شرق الرياض",
+    "neighborhood_en": "East Riyadh",
+    "description_ar": "شاليهات بتصميم عربي أندلسي فاخر مع مسبح وحديقة ومرافق VIP",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Gathern"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Arabesque+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فاخر",
+      "مناسبات"
+    ],
+    "lat": 24.7678,
+    "lng": 46.8345,
+    "is_free": false,
+    "audience": [
+      "VIP",
+      "أزواج"
+    ]
+  },
+  {
+    "id": "b2-museum-001",
+    "name_ar": "متحف الآثار - جامعة الملك سعود",
+    "name_en": "Archaeology Museum - King Saud University",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي الدرعية",
+    "neighborhood_en": "Ad Diriyah",
+    "description_ar": "متحف أثري تابع لجامعة الملك سعود تأسس عام 1967 يضم قطع أثرية نادرة واكتشافات من مواقع تنقيب سعودية",
+    "google_rating": 4.2,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "TravelWD"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Archaeology+Museum+King+Saud+University+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "تاريخ",
+      "تعليم"
+    ],
+    "lat": 24.7234,
+    "lng": 46.6156,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "طلاب"
+    ]
+  },
+  {
+    "id": "b2-museum-002",
+    "name_ar": "متحف التراث الشعبي",
+    "name_en": "Folk Heritage Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي الديرة",
+    "neighborhood_en": "Ad Dirah",
+    "description_ar": "متحف يعرض التراث الشعبي السعودي من أدوات تقليدية وملابس ومقتنيات تراثية",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Folk+Heritage+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تراث",
+      "ثقافة"
+    ],
+    "lat": 24.6345,
+    "lng": 46.7123,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "سياح"
+    ]
+  },
+  {
+    "id": "b2-museum-003",
+    "name_ar": "متحف المبارزة - الدرعية",
+    "name_en": "Sword Museum Diriyah",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "متحف في الدرعية متخصص في السيوف والأسلحة التقليدية والدروع التاريخية السعودية",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Diriyah Gate"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sword+Museum+Diriyah+Riyadh",
+    "district": "الدرعية",
+    "perfect_for": [
+      "تاريخ",
+      "ثقافة"
+    ],
+    "lat": 24.7345,
+    "lng": 46.5734,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "سياح"
+    ]
+  },
+  {
+    "id": "b2-museum-004",
+    "name_ar": "متحف الحياة البرية السعودية",
+    "name_en": "Saudi Wildlife Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "متحف يعرض الحياة البرية في المملكة من حيوانات محنطة وبيئات طبيعية محاكاة",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Saudi+Wildlife+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "أطفال",
+      "تعليم",
+      "طبيعة"
+    ],
+    "lat": 24.6367,
+    "lng": 46.7289,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "أطفال"
+    ]
+  },
+  {
+    "id": "b2-museum-005",
+    "name_ar": "متحف الخط العربي",
+    "name_en": "Arabic Calligraphy Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "متحف مخصص لفن الخط العربي يعرض مخطوطات نادرة وأعمال خطاطين سعوديين وعرب",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Diriyah Biennale"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Arabic+Calligraphy+Museum+Riyadh",
+    "district": "الدرعية",
+    "perfect_for": [
+      "فن",
+      "ثقافة",
+      "تاريخ"
+    ],
+    "lat": 24.7389,
+    "lng": 46.5689,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "فنانين"
+    ]
+  },
+  {
+    "id": "b2-museum-006",
+    "name_ar": "معرض الرياض للفن المعاصر",
+    "name_en": "Riyadh Contemporary Art Gallery",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "معرض فني معاصر في حي العليا يستضيف فنانين سعوديين وعالميين بشكل دوري",
+    "google_rating": 4.3,
+    "price_level": "مجاني",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Riyadh Art"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Contemporary+Art+Gallery",
+    "district": "الرياض",
+    "perfect_for": [
+      "فن",
+      "ثقافة"
+    ],
+    "lat": 24.7123,
+    "lng": 46.6789,
+    "is_free": true,
+    "audience": [
+      "شباب",
+      "فنانين"
+    ]
+  },
+  {
+    "id": "b2-museum-007",
+    "name_ar": "مكتبة الملك عبدالعزيز العامة",
+    "name_en": "King Abdulaziz Public Library",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مكتبة عامة ضخمة تضم أكثر من مليون كتاب ومخطوطات نادرة ومعارض ثقافية دورية",
+    "google_rating": 4.5,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=King+Abdulaziz+Public+Library+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "قراءة",
+      "ثقافة",
+      "دراسة"
+    ],
+    "lat": 24.7156,
+    "lng": 46.6823,
+    "is_free": true,
+    "audience": [
+      "طلاب",
+      "قراء"
+    ]
+  },
+  {
+    "id": "b2-museum-008",
+    "name_ar": "مركز الملك عبدالعزيز الثقافي العالمي - فرع الرياض",
+    "name_en": "King Abdulaziz Center for World Culture - Riyadh",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مركز ثقافي يستضيف معارض فنية وعروض مسرحية وورش عمل إبداعية",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=King+Abdulaziz+Cultural+Center+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "ثقافة",
+      "فن",
+      "ورش عمل"
+    ],
+    "lat": 24.7189,
+    "lng": 46.6912,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-museum-009",
+    "name_ar": "غاليري بريت الفنون",
+    "name_en": "Brait Art Gallery",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي السفارات",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "غاليري فنون تشكيلية في الحي الدبلوماسي يعرض أعمال فنانين سعوديين وعرب",
+    "google_rating": 4.2,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Brait+Art+Gallery+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فن",
+      "ثقافة"
+    ],
+    "lat": 24.6878,
+    "lng": 46.6234,
+    "is_free": true,
+    "audience": [
+      "فنانين",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-museum-010",
+    "name_ar": "متحف البريد السعودي",
+    "name_en": "Saudi Post Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي المربع",
+    "neighborhood_en": "Al Murabba",
+    "description_ar": "متحف يوثق تاريخ البريد السعودي من الطوابع والمراسلات التاريخية والأدوات البريدية",
+    "google_rating": 3.9,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Saudi+Post+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تاريخ",
+      "ثقافة"
+    ],
+    "lat": 24.6534,
+    "lng": 46.7067,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "هواة"
+    ]
+  },
+  {
+    "id": "b2-museum-011",
+    "name_ar": "متحف الأمير فيصل بن بندر",
+    "name_en": "Prince Faisal bin Bandar Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي المربع",
+    "neighborhood_en": "Al Murabba",
+    "description_ar": "متحف خاص يعرض مقتنيات تاريخية ومخطوطات وأسلحة تقليدية نادرة",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Prince+Faisal+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تاريخ",
+      "مقتنيات"
+    ],
+    "lat": 24.6512,
+    "lng": 46.7134,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "هواة"
+    ]
+  },
+  {
+    "id": "b2-museum-012",
+    "name_ar": "مركز الفنون - مسك",
+    "name_en": "Misk Art Center",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "مركز فنون تابع لمؤسسة مسك يقدم ورش عمل فنية ومعارض ومقاهي ثقافية",
+    "google_rating": 4.5,
+    "price_level": "مجاني",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Misk Foundation"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Misk+Art+Center+Diriyah+Riyadh",
+    "district": "الدرعية",
+    "perfect_for": [
+      "فن",
+      "ورش عمل",
+      "ثقافة"
+    ],
+    "lat": 24.7367,
+    "lng": 46.5723,
+    "is_free": true,
+    "audience": [
+      "شباب",
+      "فنانين"
+    ]
+  },
+  {
+    "id": "b2-museum-013",
+    "name_ar": "متحف سدوس التراثي",
+    "name_en": "Sadus Heritage Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "سدوس",
+    "neighborhood_en": "Sadus",
+    "description_ar": "متحف تراثي في قرية سدوس التاريخية يعرض الحياة النجدية القديمة والأدوات التقليدية",
+    "google_rating": 4.1,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sadus+Heritage+Museum+Riyadh",
+    "district": "سدوس",
+    "perfect_for": [
+      "تراث",
+      "تاريخ"
+    ],
+    "lat": 24.8234,
+    "lng": 46.2567,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "سياح"
+    ]
+  },
+  {
+    "id": "b2-museum-014",
+    "name_ar": "غاليري ثنائي للفنون",
+    "name_en": "Thunaiy Art Gallery",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "غاليري فنون معاصرة متخصص في الأعمال الثنائية والتركيبية بمعارض دورية",
+    "google_rating": 4.2,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Riyadh Art"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Thunaiy+Art+Gallery+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فن",
+      "ثقافة"
+    ],
+    "lat": 24.7078,
+    "lng": 46.6845,
+    "is_free": true,
+    "audience": [
+      "فنانين",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-museum-015",
+    "name_ar": "متحف القهوة السعودية",
+    "name_en": "Saudi Coffee Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "متحف تفاعلي يروي تاريخ القهوة السعودية من البن إلى الفنجان مع تجربة تذوق",
+    "google_rating": 4.4,
+    "price_level": "$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Diriyah Gate"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Saudi+Coffee+Museum+Diriyah",
+    "district": "الدرعية",
+    "perfect_for": [
+      "ثقافة",
+      "تذوق",
+      "تجربة"
+    ],
+    "lat": 24.7312,
+    "lng": 46.5756,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "سياح",
+      "هواة قهوة"
+    ]
+  },
+  {
+    "id": "b2-museum-016",
+    "name_ar": "متحف الرياض للفلك",
+    "name_en": "Riyadh Astronomy Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي المربع",
+    "neighborhood_en": "Al Murabba",
+    "description_ar": "متحف متخصص في علم الفلك والفضاء يضم مرصد ومعروضات تفاعلية وقبة سماوية",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Astronomy+Museum",
+    "district": "الرياض",
+    "perfect_for": [
+      "علوم",
+      "أطفال",
+      "تعليم"
+    ],
+    "lat": 24.6489,
+    "lng": 46.7145,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "أطفال",
+      "طلاب"
+    ]
+  },
+  {
+    "id": "b2-museum-017",
+    "name_ar": "مكتبة الأمير محمد بن فهد",
+    "name_en": "Prince Mohammed bin Fahd Library",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي السليمانية",
+    "neighborhood_en": "Al Sulaimaniyah",
+    "description_ar": "مكتبة عامة بتصميم معماري حديث تضم كتب ومخطوطات وقاعات دراسية",
+    "google_rating": 4.1,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Prince+Mohammed+bin+Fahd+Library+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "قراءة",
+      "دراسة"
+    ],
+    "lat": 24.7012,
+    "lng": 46.6889,
+    "is_free": true,
+    "audience": [
+      "طلاب",
+      "قراء"
+    ]
+  },
+  {
+    "id": "b2-museum-018",
+    "name_ar": "مركز إبداع الرياض",
+    "name_en": "Riyadh Creativity Center",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مركز ثقافي إبداعي يقدم ورش عمل في الفنون والتصميم والتصوير والكتابة الإبداعية",
+    "google_rating": 4.2,
+    "price_level": "$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Creativity+Center",
+    "district": "الرياض",
+    "perfect_for": [
+      "فن",
+      "ورش عمل",
+      "إبداع"
+    ],
+    "lat": 24.6378,
+    "lng": 46.7245,
+    "is_free": false,
+    "audience": [
+      "شباب",
+      "فنانين"
+    ]
+  },
+  {
+    "id": "b2-museum-019",
+    "name_ar": "متحف الغوص واللؤلؤ",
+    "name_en": "Diving & Pearl Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي المربع",
+    "neighborhood_en": "Al Murabba",
+    "description_ar": "متحف يروي تاريخ الغوص واللؤلؤ في الخليج العربي مع معروضات تراثية وأدوات غوص تقليدية",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Diving+Pearl+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تاريخ",
+      "ثقافة"
+    ],
+    "lat": 24.6523,
+    "lng": 46.7078,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "سياح"
+    ]
+  },
+  {
+    "id": "b2-museum-020",
+    "name_ar": "متحف الحرف اليدوية السعودية",
+    "name_en": "Saudi Handicrafts Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "متحف يعرض الحرف اليدوية التقليدية السعودية من نسيج وفخار وسدو وأعمال خشبية مع ورش حية",
+    "google_rating": 4.3,
+    "price_level": "$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Diriyah Gate"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Saudi+Handicrafts+Museum+Diriyah",
+    "district": "الدرعية",
+    "perfect_for": [
+      "تراث",
+      "حرف يدوية",
+      "تسوق"
+    ],
+    "lat": 24.7356,
+    "lng": 46.5712,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "سياح"
+    ]
+  },
+  {
+    "id": "b2-mall-001",
+    "name_ar": "ذا بوينت مول",
+    "name_en": "The Point Mall",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "حي الياسمين",
+    "neighborhood_en": "Al Yasmin",
+    "description_ar": "مول حديث في حي الياسمين يضم متاجر متنوعة ومطاعم ومناطق ترفيه عصرية",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Point+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق",
+      "مطاعم",
+      "ترفيه"
+    ],
+    "lat": 24.8123,
+    "lng": 46.6534,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-mall-002",
+    "name_ar": "مول العرب",
+    "name_en": "Mall of Arabia",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "غرب الرياض",
+    "neighborhood_en": "West Riyadh",
+    "description_ar": "مول كبير غرب الرياض يضم أكثر من 200 متجر ومنطقة ترفيه ومطاعم متنوعة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Mall+of+Arabia+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق",
+      "ترفيه",
+      "مطاعم"
+    ],
+    "lat": 24.6712,
+    "lng": 46.5789,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-mall-003",
+    "name_ar": "مجمع الراشد",
+    "name_en": "Al Rashid Mall",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "حي الملز",
+    "neighborhood_en": "Al Malaz",
+    "description_ar": "مجمع تجاري عريق في حي الملز يضم متاجر ومطاعم بأسعار متوسطة",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Rashid+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق",
+      "اقتصادي"
+    ],
+    "lat": 24.6389,
+    "lng": 46.7234,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-mall-004",
+    "name_ar": "مجمع العروبة",
+    "name_en": "Al Uruba Complex",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "حي العروبة",
+    "neighborhood_en": "Al Uruba",
+    "description_ar": "مجمع تجاري في حي العروبة يضم محلات تجزئة ومطاعم وخدمات",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Uruba+Complex+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق"
+    ],
+    "lat": 24.6923,
+    "lng": 46.7156,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-mall-005",
+    "name_ar": "العمارية بلازا",
+    "name_en": "Al Ammariyah Plaza",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "العمارية",
+    "neighborhood_en": "Al Ammariyah",
+    "description_ar": "مركز تجاري في منطقة العمارية يضم متاجر متنوعة ومطاعم",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Ammariyah+Plaza+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق"
+    ],
+    "lat": 24.8567,
+    "lng": 46.5234,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-mall-006",
+    "name_ar": "العزيزية مول",
+    "name_en": "Al Aziziyah Mall",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "حي العزيزية",
+    "neighborhood_en": "Al Aziziyah",
+    "description_ar": "مول متوسط الحجم في حي العزيزية بمتاجر متنوعة ومنطقة مطاعم وسينما",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Aziziyah+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق",
+      "سينما"
+    ],
+    "lat": 24.6234,
+    "lng": 46.7456,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-mall-007",
+    "name_ar": "مجمع ذا غروف",
+    "name_en": "The Grove Mall",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "حي الملقا",
+    "neighborhood_en": "Al Malqa",
+    "description_ar": "مجمع تسوق عصري في حي الملقا يضم ماركات عالمية ومطاعم فاخرة",
+    "google_rating": 4.3,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Grove+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق فاخر",
+      "مطاعم"
+    ],
+    "lat": 24.8234,
+    "lng": 46.6312,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-mall-009",
+    "name_ar": "النور مول",
+    "name_en": "Al Noor Mall",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "شرق الرياض",
+    "neighborhood_en": "East Riyadh",
+    "description_ar": "مول في شرق الرياض يضم متاجر تجزئة ومطاعم ومنطقة ألعاب أطفال",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Noor+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق",
+      "أطفال"
+    ],
+    "lat": 24.7345,
+    "lng": 46.8123,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-mall-010",
+    "name_ar": "الديوان مول",
+    "name_en": "Al Diwan Mall",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "حي الورود",
+    "neighborhood_en": "Al Wurud",
+    "description_ar": "مول بتصميم عربي أنيق يضم محلات تجارية ومطاعم شرقية وسبا",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Diwan+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق",
+      "مطاعم"
+    ],
+    "lat": 24.7234,
+    "lng": 46.6912,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-mall-011",
+    "name_ar": "هاي ستريت مول",
+    "name_en": "High Street Mall",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "حي الصحافة",
+    "neighborhood_en": "Al Sahafa",
+    "description_ar": "مول عصري بتصميم شارع مفتوح يضم ماركات عالمية وكافيهات ومطاعم",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=High+Street+Mall+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق",
+      "كافيهات"
+    ],
+    "lat": 24.8123,
+    "lng": 46.6789,
+    "is_free": true,
+    "audience": [
+      "شباب",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-mall-012",
+    "name_ar": "سوق المزرعة الشعبي",
+    "name_en": "Al Mazraa Traditional Market",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "سوق شعبي تراثي يبيع منتجات زراعية طازجة وتمور وعسل ومنتجات محلية",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Mazraa+Market+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق",
+      "منتجات محلية"
+    ],
+    "lat": 24.5678,
+    "lng": 46.7012,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-mall-013",
+    "name_ar": "سوق العويس للإلكترونيات",
+    "name_en": "Al Owais Electronics Market",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "حي العويس",
+    "neighborhood_en": "Al Owais",
+    "description_ar": "سوق متخصص في الإلكترونيات وقطع الكمبيوتر والهواتف بأسعار تنافسية",
+    "google_rating": 3.8,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Owais+Electronics+Market+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "إلكترونيات",
+      "تقنية"
+    ],
+    "lat": 24.6512,
+    "lng": 46.7345,
+    "is_free": true,
+    "audience": [
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-mall-014",
+    "name_ar": "سوق الخضار المركزي",
+    "name_en": "Central Vegetable Market",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "حي السلي",
+    "neighborhood_en": "Al Sulay",
+    "description_ar": "سوق مركزي ضخم للخضار والفواكه الطازجة بأسعار جملة ويعمل من الفجر",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Central+Vegetable+Market+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "خضار",
+      "جملة"
+    ],
+    "lat": 24.5923,
+    "lng": 46.7456,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-mall-015",
+    "name_ar": "مجمع العقارية",
+    "name_en": "Al Aqariah Complex",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "مجمع تجاري في حي العليا يضم متاجر ماركات وبنوك وخدمات",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Aqariah+Complex+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق",
+      "خدمات"
+    ],
+    "lat": 24.7089,
+    "lng": 46.6834,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-mall-016",
+    "name_ar": "مجمع الحمرا للتسوق",
+    "name_en": "Al Hamra Shopping Complex",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "حي الحمراء",
+    "neighborhood_en": "Al Hamra",
+    "description_ar": "مجمع تسوق في حي الحمراء يضم محلات تجزئة ومطاعم",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Hamra+Shopping+Complex+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق"
+    ],
+    "lat": 24.7512,
+    "lng": 46.7623,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-mall-017",
+    "name_ar": "سنتر بوينت بلازا",
+    "name_en": "Centerpoint Plaza",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "حي النخيل",
+    "neighborhood_en": "Al Nakheel",
+    "description_ar": "مركز تجاري في حي النخيل يضم متاجر أزياء ومطاعم ومقاهي",
+    "google_rating": 4.1,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Centerpoint+Plaza+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق",
+      "كافيهات"
+    ],
+    "lat": 24.7889,
+    "lng": 46.6567,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-mall-018",
+    "name_ar": "سوق الجمعة المركزي",
+    "name_en": "Central Friday Market",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "سوق أسبوعي شعبي كبير يقام كل جمعة لبيع المستعمل والأنتيكات والملابس والإلكترونيات",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Central+Friday+Market+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "أنتيكات",
+      "مستعمل",
+      "اقتصادي"
+    ],
+    "lat": 24.5345,
+    "lng": 46.7234,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "هواة"
+    ]
+  },
+  {
+    "id": "b2-mall-019",
+    "name_ar": "مركز المروج التجاري",
+    "name_en": "Al Muruj Commercial Center",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "حي المروج",
+    "neighborhood_en": "Al Muruj",
+    "description_ar": "مركز تجاري في حي المروج يضم متاجر ومطاعم ومكاتب",
+    "google_rating": 3.9,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Muruj+Commercial+Center+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تسوق"
+    ],
+    "lat": 24.7345,
+    "lng": 46.6789,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-mall-020",
+    "name_ar": "الدرعية سكوير مول",
+    "name_en": "Diriyah Square Mall",
+    "category": "مولات",
+    "category_ar": "مولات",
+    "category_en": "mall",
+    "neighborhood": "الدرعية",
+    "neighborhood_en": "Diriyah",
+    "description_ar": "مول فاخر جديد ضمن مشروع بوابة الدرعية يضم ماركات عالمية ومطاعم فاخرة وسينما ومعارض",
+    "google_rating": 4.5,
+    "price_level": "$$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Diriyah Gate"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Diriyah+Square+Mall+Riyadh",
+    "district": "الدرعية",
+    "perfect_for": [
+      "تسوق فاخر",
+      "سينما",
+      "مطاعم"
+    ],
+    "lat": 24.7389,
+    "lng": 46.5712,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "شباب",
+      "VIP"
+    ]
+  },
+  {
+    "id": "b2-nature-053",
+    "name_ar": "حديقة حي الرحمانية",
+    "name_en": "Al Rahmaniyah Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الرحمانية",
+    "neighborhood_en": "Al Rahmaniyah",
+    "description_ar": "حديقة جديدة في حي الرحمانية شمال الرياض بمسارات مشي وملاعب أطفال",
+    "google_rating": 4.1,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Rahmaniyah+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "أطفال"
+    ],
+    "lat": 24.8389,
+    "lng": 46.6189,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-054",
+    "name_ar": "حديقة حي الملك فيصل",
+    "name_en": "King Faisal Neighborhood Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الملك فيصل",
+    "neighborhood_en": "King Faisal",
+    "description_ar": "حديقة في حي الملك فيصل بمساحات خضراء ومرافق رياضية",
+    "google_rating": 3.9,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=King+Faisal+Neighborhood+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي",
+      "رياضة"
+    ],
+    "lat": 24.6712,
+    "lng": 46.7389,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-055",
+    "name_ar": "حديقة حي العوالي",
+    "name_en": "Al Awali Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي العوالي",
+    "neighborhood_en": "Al Awali",
+    "description_ar": "حديقة في حي العوالي بمساحات خضراء ومسارات مشي وأشجار ظليلة",
+    "google_rating": 4.0,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Awali+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي"
+    ],
+    "lat": 24.7823,
+    "lng": 46.6423,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-056",
+    "name_ar": "مسار الدراجات - بوليفارد الرياض",
+    "name_en": "Riyadh Boulevard Bike Path",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "وسط الرياض",
+    "neighborhood_en": "Central Riyadh",
+    "description_ar": "مسار دراجات ممتد على طول بوليفارد الرياض مع محطات راحة ونقاط استئجار دراجات",
+    "google_rating": 4.4,
+    "price_level": "مجاني",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Riyadh+Boulevard+Bike+Path",
+    "district": "الرياض",
+    "perfect_for": [
+      "دراجات",
+      "رياضة"
+    ],
+    "lat": 24.7234,
+    "lng": 46.6723,
+    "is_free": true,
+    "audience": [
+      "رياضيين",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-nature-057",
+    "name_ar": "حديقة حي الخالدية",
+    "name_en": "Al Khalidiyah Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الخالدية",
+    "neighborhood_en": "Al Khalidiyah",
+    "description_ar": "حديقة في حي الخالدية بمساحات خضراء ومرافق للعائلات",
+    "google_rating": 3.9,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Khalidiyah+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي"
+    ],
+    "lat": 24.6567,
+    "lng": 46.6934,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-058",
+    "name_ar": "حديقة حي الموسى",
+    "name_en": "Al Mousa Park",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "حي الموسى",
+    "neighborhood_en": "Al Mousa",
+    "description_ar": "حديقة عامة في حي الموسى بمسطحات خضراء ومسارات مشي",
+    "google_rating": 3.8,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Mousa+Park+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مشي"
+    ],
+    "lat": 24.7456,
+    "lng": 46.7145,
+    "is_free": true,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-nature-059",
+    "name_ar": "مسار هايكنق الحصاة",
+    "name_en": "Al Hasah Hiking Trail",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "غرب الرياض",
+    "neighborhood_en": "West Riyadh",
+    "description_ar": "مسار هايكنق صحراوي بتكوينات صخرية فريدة ومناظر بانورامية خلابة",
+    "google_rating": 4.3,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Hasah+Hiking+Trail+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "هايكنق",
+      "مغامرة",
+      "تصوير"
+    ],
+    "lat": 24.6234,
+    "lng": 46.4234,
+    "is_free": true,
+    "audience": [
+      "مغامرين",
+      "شباب"
+    ]
+  },
+  {
+    "id": "b2-nature-060",
+    "name_ar": "واحة الخرج الطبيعية",
+    "name_en": "Al Kharj Natural Oasis",
+    "category": "طبيعة",
+    "category_ar": "طبيعة",
+    "category_en": "nature",
+    "neighborhood": "الخرج",
+    "neighborhood_en": "Al Kharj",
+    "description_ar": "واحة طبيعية في الخرج بنخيل ومياه جوفية ومزارع تقليدية ومناظر خضراء",
+    "google_rating": 4.2,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Kharj+Natural+Oasis",
+    "district": "الخرج",
+    "perfect_for": [
+      "طبيعة",
+      "نزهة"
+    ],
+    "lat": 24.1567,
+    "lng": 47.3234,
+    "is_free": true,
+    "audience": [
+      "عوائل",
+      "مغامرين"
+    ]
+  },
+  {
+    "id": "b2-chalet-023",
+    "name_ar": "شاليهات ذا فيلا ريزورت",
+    "name_en": "The Villa Resort Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "فلل شاليه فاخرة بمسابح خاصة وحدائق منسقة ومرافق VIP",
+    "google_rating": 4.4,
+    "price_level": "$$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Gathern"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=The+Villa+Resort+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "فاخر",
+      "عائلات"
+    ],
+    "lat": 24.8734,
+    "lng": 46.6345,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "VIP"
+    ]
+  },
+  {
+    "id": "b2-chalet-024",
+    "name_ar": "استراحة وادي حنيفة",
+    "name_en": "Wadi Hanifah Rest House",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "وادي حنيفة",
+    "neighborhood_en": "Wadi Hanifah",
+    "description_ar": "استراحة مطلة على وادي حنيفة بجلسات خارجية ومنطقة شواء ومناظر طبيعية",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Aqar.fm"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Wadi+Hanifah+Rest+House+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "طبيعة",
+      "شواء"
+    ],
+    "lat": 24.5912,
+    "lng": 46.6423,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-chalet-025",
+    "name_ar": "مخيم القمر الصحراوي",
+    "name_en": "Moon Desert Camp",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "الثمامة",
+    "neighborhood_en": "Al Thumamah",
+    "description_ar": "مخيم صحراوي فاخر في الثمامة بخيام مكيفة وأنشطة رمال وركوب جمال",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Gathern"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Moon+Desert+Camp+Thumamah",
+    "district": "الرياض",
+    "perfect_for": [
+      "تخييم",
+      "مغامرة",
+      "صحراء"
+    ],
+    "lat": 25.0456,
+    "lng": 46.6512,
+    "is_free": false,
+    "audience": [
+      "مغامرين",
+      "أزواج"
+    ]
+  },
+  {
+    "id": "b2-chalet-026",
+    "name_ar": "شاليهات بيت الريف",
+    "name_en": "Bait Al Reef Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "شرق الرياض",
+    "neighborhood_en": "East Riyadh",
+    "description_ar": "شاليهات بطابع ريفي مع حديقة ومسبح ومنطقة حيوانات أليفة",
+    "google_rating": 4.0,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Aqar.fm"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bait+Al+Reef+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "أطفال"
+    ],
+    "lat": 24.7234,
+    "lng": 46.8234,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "أطفال"
+    ]
+  },
+  {
+    "id": "b2-chalet-027",
+    "name_ar": "شاليهات الأجواء",
+    "name_en": "Al Ajwaa Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "شمال الرياض",
+    "neighborhood_en": "North Riyadh",
+    "description_ar": "شاليهات عائلية بأسعار معتدلة مع مسبح ومنطقة شواء ومرافق أساسية",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Aqar.fm"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Al+Ajwaa+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عائلات",
+      "اقتصادي"
+    ],
+    "lat": 24.8567,
+    "lng": 46.6678,
+    "is_free": false,
+    "audience": [
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-chalet-028",
+    "name_ar": "شاليهات سنابل",
+    "name_en": "Sanabel Chalets",
+    "category": "شاليه",
+    "category_ar": "شاليه",
+    "category_en": "chalet",
+    "neighborhood": "جنوب الرياض",
+    "neighborhood_en": "South Riyadh",
+    "description_ar": "شاليهات بتصميم حديث مع مسبح داخلي وخارجي وملعب بادل",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": false,
+    "is_new": true,
+    "sources": [
+      "Gathern"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Sanabel+Chalets+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "مجموعات",
+      "رياضة"
+    ],
+    "lat": 24.5423,
+    "lng": 46.6912,
+    "is_free": false,
+    "audience": [
+      "شباب",
+      "عوائل"
+    ]
+  },
+  {
+    "id": "b2-museum-021",
+    "name_ar": "متحف النقوش الصخرية",
+    "name_en": "Rock Art Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي المربع",
+    "neighborhood_en": "Al Murabba",
+    "description_ar": "متحف يعرض نقوش صخرية ورسوم قديمة من مواقع أثرية في المملكة",
+    "google_rating": 4.1,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Rock+Art+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تاريخ",
+      "آثار"
+    ],
+    "lat": 24.6478,
+    "lng": 46.7089,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "طلاب"
+    ]
+  },
+  {
+    "id": "b2-museum-022",
+    "name_ar": "معرض الفوتوغرافيا العربية",
+    "name_en": "Arab Photography Gallery",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي العليا",
+    "neighborhood_en": "Al Olaya",
+    "description_ar": "معرض متخصص في التصوير الفوتوغرافي العربي بمعارض دورية وورش تصوير",
+    "google_rating": 4.3,
+    "price_level": "مجاني",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "Riyadh Art"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Arab+Photography+Gallery+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تصوير",
+      "فن"
+    ],
+    "lat": 24.7145,
+    "lng": 46.6867,
+    "is_free": true,
+    "audience": [
+      "شباب",
+      "فنانين"
+    ]
+  },
+  {
+    "id": "b2-museum-024",
+    "name_ar": "متحف بيت نصيف التراثي",
+    "name_en": "Bait Nassif Heritage Museum",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي الديرة",
+    "neighborhood_en": "Ad Dirah",
+    "description_ar": "بيت تراثي نجدي محول إلى متحف يعرض الحياة اليومية في الرياض القديمة",
+    "google_rating": 4.0,
+    "price_level": "$",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Bait+Nassif+Heritage+Museum+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "تراث",
+      "تاريخ"
+    ],
+    "lat": 24.6312,
+    "lng": 46.7167,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "سياح"
+    ]
+  },
+  {
+    "id": "b2-museum-025",
+    "name_ar": "مكتبة جامعة الأميرة نورة",
+    "name_en": "Princess Nourah University Library",
+    "category": "متاحف",
+    "category_ar": "متاحف",
+    "category_en": "museum",
+    "neighborhood": "حي النرجس",
+    "neighborhood_en": "Al Narjis",
+    "description_ar": "مكتبة جامعية ضخمة بتصميم معماري حديث تضم مجموعات كتب متنوعة ومعارض",
+    "google_rating": 4.3,
+    "price_level": "مجاني",
+    "trending": false,
+    "is_new": false,
+    "sources": [
+      "Google Maps"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Princess+Nourah+University+Library+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "قراءة",
+      "دراسة"
+    ],
+    "lat": 24.8456,
+    "lng": 46.7234,
+    "is_free": true,
+    "audience": [
+      "طلاب",
+      "قراء"
+    ]
+  }
+]

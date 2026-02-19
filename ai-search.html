@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>بحث ذكي | وين نروح بالرياض؟</title>
+  <meta name="description" content="ابحث بالعربي عن أفضل الأماكن في الرياض — مطاعم، كافيهات، ترفيه. بحث ذكي يفهم وش تبي!">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .ai-hero {
+      background: linear-gradient(135deg, #0a1628 0%, #1a2a4a 50%, #0a1628 100%);
+      padding: 60px 20px 40px;
+      text-align: center;
+    }
+    .ai-hero h2 { font-size: 2.2rem; margin-bottom: 8px; }
+    .ai-hero h2 span { color: #c9a84c; }
+    .ai-hero p { color: rgba(255,255,255,0.6); font-size: 1rem; margin-bottom: 30px; }
+    
+    .ai-search-box {
+      max-width: 700px;
+      margin: 0 auto;
+      position: relative;
+    }
+    .ai-search-input {
+      width: 100%;
+      padding: 18px 24px 18px 50px;
+      border: 2px solid #c9a84c;
+      border-radius: 16px;
+      background: #111b2e;
+      color: #fff;
+      font-size: 1.2rem;
+      font-family: 'Tajawal', sans-serif;
+      direction: rtl;
+      outline: none;
+      transition: all 0.3s;
+    }
+    .ai-search-input:focus { border-color: #e8c55a; box-shadow: 0 0 20px rgba(201,168,76,0.2); }
+    .ai-search-input::placeholder { color: rgba(255,255,255,0.3); }
+    .ai-search-icon {
+      position: absolute;
+      left: 18px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 1.4rem;
+    }
+
+    .ai-suggestions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+      margin-top: 16px;
+    }
+    .ai-suggestion {
+      background: rgba(201,168,76,0.15);
+      border: 1px solid rgba(201,168,76,0.3);
+      color: #c9a84c;
+      padding: 6px 14px;
+      border-radius: 20px;
+      cursor: pointer;
+      font-size: 0.85rem;
+      transition: all 0.2s;
+      font-family: 'Tajawal', sans-serif;
+    }
+    .ai-suggestion:hover { background: rgba(201,168,76,0.3); }
+
+    .ai-response {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 0 20px;
+      display: none;
+    }
+    .ai-response-text {
+      background: linear-gradient(135deg, #1a2a4a, #111b2e);
+      border: 1px solid rgba(201,168,76,0.2);
+      border-radius: 12px;
+      padding: 16px 20px;
+      color: #c9a84c;
+      font-size: 1.05rem;
+      margin-bottom: 16px;
+    }
+    .ai-filters-used {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 16px;
+    }
+    .ai-filter-tag {
+      background: rgba(201,168,76,0.2);
+      color: #c9a84c;
+      padding: 4px 10px;
+      border-radius: 12px;
+      font-size: 0.8rem;
+    }
+
+    .ai-results { max-width: 900px; margin: 0 auto; padding: 0 20px 40px; }
+    .ai-result-card {
+      background: #111b2e;
+      border-radius: 12px;
+      padding: 16px 20px;
+      margin-bottom: 12px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      transition: transform 0.2s;
+      border: 1px solid transparent;
+    }
+    .ai-result-card:hover { transform: translateY(-2px); border-color: rgba(201,168,76,0.3); }
+    .ai-result-info { flex: 1; }
+    .ai-result-rank { color: #c9a84c; font-weight: bold; font-size: 1.2rem; margin-left: 16px; min-width: 30px; }
+    .ai-result-name { font-size: 1.1rem; font-weight: 600; color: #fff; }
+    .ai-result-name-en { font-size: 0.85rem; color: rgba(255,255,255,0.5); }
+    .ai-result-meta { display: flex; gap: 12px; margin-top: 6px; flex-wrap: wrap; }
+    .ai-result-meta span { font-size: 0.85rem; color: rgba(255,255,255,0.6); }
+    .ai-result-rating { color: #c9a84c !important; font-weight: 600; }
+    .ai-result-actions { display: flex; gap: 8px; }
+    .ai-result-btn {
+      background: rgba(201,168,76,0.15);
+      border: 1px solid rgba(201,168,76,0.3);
+      color: #c9a84c;
+      padding: 6px 12px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 0.8rem;
+      text-decoration: none;
+      font-family: 'Tajawal', sans-serif;
+    }
+    .ai-result-btn:hover { background: rgba(201,168,76,0.3); }
+    .ai-no-results { text-align: center; padding: 40px; color: rgba(255,255,255,0.5); }
+
+    @media (max-width: 600px) {
+      .ai-hero h2 { font-size: 1.6rem; }
+      .ai-search-input { font-size: 1rem; padding: 14px 18px 14px 40px; }
+      .ai-result-card { flex-direction: column; align-items: flex-start; }
+      .ai-result-actions { margin-top: 10px; }
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><h1>🏙️ وين نروح؟</h1></a>
+      <nav>
+        <a href="index.html">الرئيسية</a>
+        <a href="best.html">🏆 الأفضل</a>
+        <a href="prices.html">💰 أسعار</a>
+        <a href="delivery-compare.html">🛵 التوصيل</a>
+        <a href="map.html">🗺️ الخريطة</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- AI Search Hero -->
+  <section class="ai-hero">
+    <h2>🤖 <span>بحث ذكي</span> بالعربي</h2>
+    <p>قول لنا وش تبي وبنلقي لك أفضل مكان!</p>
+    
+    <div class="ai-search-box">
+      <input type="text" class="ai-search-input" id="aiSearchInput" 
+             placeholder="مثال: أبي مطعم ياباني رخيص بالعليا..." 
+             autocomplete="off">
+      <span class="ai-search-icon">🔍</span>
+    </div>
+
+    <div class="ai-suggestions">
+      <span class="ai-suggestion" data-query="أبي مطعم ياباني رخيص بالعليا">🍣 مطعم ياباني رخيص بالعليا</span>
+      <span class="ai-suggestion" data-query="أفضل كافيه للدراسة">☕ كافيه هادي للدراسة</span>
+      <span class="ai-suggestion" data-query="وين ألقى كنافة زينة">🍮 كنافة زينة</span>
+      <span class="ai-suggestion" data-query="مكان رومانسي للعشاء">🕯️ عشاء رومانسي</span>
+      <span class="ai-suggestion" data-query="أماكن أطفال مجانية">👶 أماكن أطفال مجانية</span>
+      <span class="ai-suggestion" data-query="أفضل 5 برجر بالرياض">🍔 أفضل 5 برجر</span>
+      <span class="ai-suggestion" data-query="كافيه بالملقا">☕ كافيهات الملقا</span>
+      <span class="ai-suggestion" data-query="أفضل فطور بالرياض">🥐 أفضل فطور</span>
+    </div>
+  </section>
+
+  <!-- Response Area -->
+  <div class="ai-response" id="aiResponse">
+    <div class="ai-response-text" id="aiResponseText"></div>
+    <div class="ai-filters-used" id="aiFilters"></div>
+  </div>
+
+  <!-- Results -->
+  <div class="ai-results" id="aiResults"></div>
+
+  <script src="js/ai-search.js"></script>
+  <script src="js/darkmode.js" defer></script>
+  <script src="js/analytics.js" defer></script>
+  <script>
+    let allPlaces = [];
+
+    // Load data
+    fetch('data/places.json')
+      .then(r => r.json())
+      .then(data => { allPlaces = data; })
+      .catch(e => console.error('Failed to load places:', e));
+
+    const input = document.getElementById('aiSearchInput');
+    const responseDiv = document.getElementById('aiResponse');
+    const responseText = document.getElementById('aiResponseText');
+    const filtersDiv = document.getElementById('aiFilters');
+    const resultsDiv = document.getElementById('aiResults');
+
+    let debounceTimer;
+
+    input.addEventListener('input', function() {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => doSearch(this.value), 300);
+    });
+
+    input.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') {
+        clearTimeout(debounceTimer);
+        doSearch(this.value);
+      }
+    });
+
+    // Suggestion chips
+    document.querySelectorAll('.ai-suggestion').forEach(chip => {
+      chip.addEventListener('click', function() {
+        const query = this.dataset.query;
+        input.value = query;
+        doSearch(query);
+        input.focus();
+      });
+    });
+
+    function doSearch(query) {
+      if (!query || query.length < 2 || allPlaces.length === 0) {
+        responseDiv.style.display = 'none';
+        resultsDiv.innerHTML = '';
+        return;
+      }
+
+      // Try AI search first
+      const aiResult = WaynroohAI.search(allPlaces, query);
+      let results = aiResult.results;
+
+      // Fallback to fuzzy if no AI results
+      if (results.length === 0) {
+        results = WaynroohAI.fuzzySearch(allPlaces, query);
+      }
+
+      // Show response
+      responseDiv.style.display = 'block';
+      
+      if (aiResult.filters.matchedFilters.length > 0) {
+        responseText.textContent = '🤖 ' + aiResult.responseText;
+        filtersDiv.innerHTML = aiResult.filters.matchedFilters
+          .map(f => `<span class="ai-filter-tag">${f}</span>`).join('');
+      } else if (results.length > 0) {
+        responseText.textContent = `🔍 لقيت ${results.length} نتيجة لـ "${query}"`;
+        filtersDiv.innerHTML = '';
+      } else {
+        responseText.textContent = '😕 ما لقيت نتائج — جرب كلمات ثانية';
+        filtersDiv.innerHTML = '';
+      }
+
+      // Render results
+      resultsDiv.innerHTML = results.map((p, i) => `
+        <div class="ai-result-card">
+          <span class="ai-result-rank">${i + 1}</span>
+          <div class="ai-result-info">
+            <div class="ai-result-name">${p.name_ar || p.name_en}</div>
+            <div class="ai-result-name-en">${p.name_en || ''}</div>
+            <div class="ai-result-meta">
+              <span class="ai-result-rating">⭐ ${p.google_rating || '—'}</span>
+              <span>${p.price_level || ''}</span>
+              <span>📍 ${p.neighborhood || ''}</span>
+              <span>${p.category_ar || p.category || ''}</span>
+            </div>
+          </div>
+          <div class="ai-result-actions">
+            ${p.google_maps_url ? `<a href="${p.google_maps_url}" target="_blank" class="ai-result-btn">📍 خريطة</a>` : ''}
+          </div>
+        </div>
+      `).join('');
+    }
+  </script>
+</body>
+</html>
