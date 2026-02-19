@@ -1,0 +1,1468 @@
+[
+  {
+    "name_en": "Tashas Cafe KAFD",
+    "name_ar": "تاشاز كافيه - كافد",
+    "avg_per_person": 95,
+    "menu_highlights": [
+      {"item": "كابتشينو", "price": 26},
+      {"item": "لاتيه بستاشيو ماتشا", "price": 32},
+      {"item": "شاي متخصص", "price": 24},
+      {"item": "بريكفاست كلاسيك", "price": 98},
+      {"item": "بريكفاست ميني", "price": 75},
+      {"item": "كرواسون سادة", "price": 26},
+      {"item": "برغر KAFD", "price": 98},
+      {"item": "سلطة كينوا", "price": 68},
+      {"item": "ساندويتش تاشاز", "price": 82},
+      {"item": "فرنش توست", "price": 78}
+    ],
+    "price_range": [24, 112],
+    "source": "tashascafe.com/locations/riyadh/kafd - official menu",
+    "confidence": "high",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Hamsa w Taghmees",
+    "name_ar": "حمسة وتغميسة",
+    "avg_per_person": 25,
+    "menu_highlights": [
+      {"item": "حمص", "price": 12},
+      {"item": "فول", "price": 9},
+      {"item": "فلافل", "price": 10},
+      {"item": "شكشوكة", "price": 13},
+      {"item": "كبدة غنم", "price": 21},
+      {"item": "لحم تغميس", "price": 24},
+      {"item": "دجاج تغميس", "price": 22},
+      {"item": "كفتة طحينية", "price": 25},
+      {"item": "حلوم مشوي", "price": 22},
+      {"item": "شاي", "price": 2}
+    ],
+    "price_range": [2, 25],
+    "source": "taghmees.me/menu-2 - official menu",
+    "confidence": "high",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Sky Bridge Kingdom Tower",
+    "name_ar": "جسر المشاهدة - برج المملكة",
+    "avg_per_person": 138,
+    "menu_highlights": [
+      {"item": "تذكرة بالغ (فوق 10 سنوات)", "price": 138},
+      {"item": "تذكرة طفل (2-10 سنوات)", "price": 69}
+    ],
+    "price_range": [69, 138],
+    "source": "skybridge.sa/en/faq - official website",
+    "confidence": "high",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Sign Burger",
+    "name_ar": "ساين",
+    "avg_per_person": 30,
+    "menu_highlights": [
+      {"item": "وجبة برغر + بطاطس + مشروب", "price": 24},
+      {"item": "ساين برغر", "price": 19}
+    ],
+    "price_range": [19, 40],
+    "source": "timeoutriyadh.com + arabnews.com reviews",
+    "confidence": "high",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Blanca Forno",
+    "name_ar": "بلانكا",
+    "avg_per_person": 75,
+    "menu_highlights": [
+      {"item": "بيتزا ترافل", "price": 58},
+      {"item": "بيتزا مارغريتا", "price": 42},
+      {"item": "باستا", "price": 55},
+      {"item": "لازانيا", "price": 52}
+    ],
+    "price_range": [35, 85],
+    "source": "timeoutjeddah.com review - bulk of pizzas/pastas under SAR60",
+    "confidence": "high",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Pizza Bar IOI",
+    "name_ar": "بيتزا بار IOI",
+    "avg_per_person": 130,
+    "menu_highlights": [
+      {"item": "بيتزا كلاسيك", "price": 95},
+      {"item": "بيتزا ترافل مشروم", "price": 120},
+      {"item": "سلطة بوراتا", "price": 65},
+      {"item": "باستا سوان", "price": 85}
+    ],
+    "price_range": [50, 150],
+    "source": "wanderlog.com reviews + timeoutriyadh.com",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "VOX Cinema VIA Riyadh",
+    "name_ar": "ڤوكس سينما ڤيا رياض",
+    "avg_per_person": 45,
+    "menu_highlights": [
+      {"item": "تذكرة ستاندرد", "price": 35},
+      {"item": "تذكرة بريميوم", "price": 45},
+      {"item": "تذكرة GOLD VIP", "price": 100},
+      {"item": "تذكرة IMAX", "price": 60}
+    ],
+    "price_range": [35, 100],
+    "source": "arabnews.com - VOX Cinemas pricing",
+    "confidence": "high",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Nozomi",
+    "name_ar": "نوزومي",
+    "avg_per_person": 350,
+    "menu_highlights": [
+      {"item": "قائمة عشاء مبكر (5-7م)", "price": 249},
+      {"item": "غداء عمل شتوي", "price": 195},
+      {"item": "طبق سوشي رئيسي", "price": 120},
+      {"item": "واغيو تيرياكي", "price": 280}
+    ],
+    "price_range": [195, 500],
+    "source": "nozomi.redro.menu - official digital menu",
+    "confidence": "high",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Mr. Chow",
+    "name_ar": "مستر تشاو",
+    "avg_per_person": 450,
+    "menu_highlights": [
+      {"item": "عشاء لشخصين", "price": 450},
+      {"item": "بط بكين (3 أشخاص)", "price": 450},
+      {"item": "قائمة إفطار رمضان", "price": 275}
+    ],
+    "price_range": [275, 600],
+    "source": "timeoutriyadh.com + eyeofriyadh.com",
+    "confidence": "high",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Wagyumafia",
+    "name_ar": "واغيوما فيا",
+    "avg_per_person": 1300,
+    "menu_highlights": [
+      {"item": "قائمة تجربة واغيو (غير أعضاء)", "price": 1300}
+    ],
+    "price_range": [1300, 1500],
+    "source": "welcomesaudi.com/restaurant/wagyumafia-via-riyadh",
+    "confidence": "high",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Aquarabia Qiddiya",
+    "name_ar": "أكوارابيا القدية",
+    "avg_per_person": 300,
+    "menu_highlights": [
+      {"item": "تذكرة بالغ Six Flags", "price": 325},
+      {"item": "تذكرة طفل Six Flags", "price": 275},
+      {"item": "تذكرة مخفضة (موظفي القدية)", "price": 75}
+    ],
+    "price_range": [75, 325],
+    "source": "blooloop.com + zawya.com - Six Flags Qiddiya official",
+    "confidence": "high",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "The Escape Hotel",
+    "name_ar": "فندق الهروب",
+    "avg_per_person": 150,
+    "menu_highlights": [
+      {"item": "تجربة هروب (فريق)", "price": 299},
+      {"item": "تذكرة فردية تقريبية", "price": 150}
+    ],
+    "price_range": [100, 299],
+    "source": "timeoutriyadh.com - From SAR299 per team",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Riyadh Zoo",
+    "name_ar": "حديقة الحيوان بالرياض",
+    "avg_per_person": 12,
+    "menu_highlights": [
+      {"item": "تذكرة بالغ", "price": 11.5},
+      {"item": "تذكرة طفل (أقل 12)", "price": 5.75},
+      {"item": "تحت 3 سنوات", "price": 0}
+    ],
+    "price_range": [0, 11.5],
+    "source": "gccplaces.com - official Riyadh Zoo prices",
+    "confidence": "high",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "National Museum of Saudi Arabia",
+    "name_ar": "المتحف الوطني السعودي",
+    "avg_per_person": 0,
+    "menu_highlights": [
+      {"item": "دخول مجاني", "price": 0},
+      {"item": "تذكرة بالغ (سابقاً)", "price": 10}
+    ],
+    "price_range": [0, 10],
+    "source": "engage.moc.gov.sa - official, currently free",
+    "confidence": "high",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Habibah Sweets",
+    "name_ar": "حلويات حبيبة",
+    "avg_per_person": 35,
+    "menu_highlights": [
+      {"item": "كنافة ناعمة (1 كيلو)", "price": 48},
+      {"item": "حصة كنافة فردية", "price": 15},
+      {"item": "حلويات شرقية مشكلة (كيلو)", "price": 70},
+      {"item": "وربات", "price": 12}
+    ],
+    "price_range": [12, 70],
+    "source": "cobone.com offers + wanderlog.com reviews",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Munch Bakery",
+    "name_ar": "منش بيكري",
+    "avg_per_person": 45,
+    "menu_highlights": [
+      {"item": "كب كيك", "price": 25},
+      {"item": "كوكيز", "price": 5},
+      {"item": "كيك فردي", "price": 45},
+      {"item": "كيك مناسبات", "price": 290}
+    ],
+    "price_range": [5, 290],
+    "source": "thechefz.co delivery menu",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Yokari",
+    "name_ar": "يوكاري",
+    "avg_per_person": 200,
+    "menu_highlights": [
+      {"item": "ياكيتوري دجاج + جيوزا روبيان", "price": 145},
+      {"item": "سوشي مشكل", "price": 120},
+      {"item": "تيمبورا", "price": 85},
+      {"item": "واغيو تيرياكي", "price": 250}
+    ],
+    "price_range": [80, 350],
+    "source": "tripadvisor.com reviews + michelin guide listing",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Peets Coffee Riyadh Park",
+    "name_ar": "بيتس كوفي",
+    "avg_per_person": 30,
+    "menu_highlights": [
+      {"item": "إسبريسو", "price": 15},
+      {"item": "لاتيه", "price": 24},
+      {"item": "كابتشينو", "price": 22},
+      {"item": "كولد برو", "price": 26},
+      {"item": "حلا/كوكيز", "price": 15}
+    ],
+    "price_range": [15, 35],
+    "source": "estimated from Peets Coffee standard Saudi pricing",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Pierre Herme Paris",
+    "name_ar": "بيير إيرميه باريس",
+    "avg_per_person": 80,
+    "menu_highlights": [
+      {"item": "ماكرون (قطعة)", "price": 18},
+      {"item": "بوكس ماكرون (6 قطع)", "price": 95},
+      {"item": "كرواسون", "price": 28},
+      {"item": "كيك فردي", "price": 55},
+      {"item": "قهوة", "price": 25}
+    ],
+    "price_range": [18, 120],
+    "source": "estimated from Pierre Herme KSA standard pricing",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Pierre Herme Riyadh",
+    "name_ar": "بيير هيرميه الرياض",
+    "avg_per_person": 80,
+    "menu_highlights": [
+      {"item": "ماكرون (قطعة)", "price": 18},
+      {"item": "بوكس ماكرون (6 قطع)", "price": 95},
+      {"item": "إيكلير", "price": 35},
+      {"item": "تارت", "price": 48}
+    ],
+    "price_range": [18, 120],
+    "source": "estimated from Pierre Herme brand pricing",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Bateel Dates & Cafe",
+    "name_ar": "بتيل",
+    "avg_per_person": 90,
+    "menu_highlights": [
+      {"item": "لاتيه", "price": 28},
+      {"item": "كابتشينو", "price": 26},
+      {"item": "سلطة", "price": 65},
+      {"item": "ساندويتش", "price": 75},
+      {"item": "تمور فاخرة (علبة صغيرة)", "price": 120}
+    ],
+    "price_range": [26, 150],
+    "source": "estimated from Bateel cafe standard pricing",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Bateel Dates",
+    "name_ar": "بتيل للتمور",
+    "avg_per_person": 100,
+    "menu_highlights": [
+      {"item": "علبة تمور كلاسيك (250g)", "price": 85},
+      {"item": "علبة تمور فاخرة (500g)", "price": 180},
+      {"item": "تمور محشية شوكولاتة", "price": 130}
+    ],
+    "price_range": [50, 300],
+    "source": "estimated from Bateel retail pricing",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Cafe Bateel Desserts",
+    "name_ar": "كافيه بتيل حلويات",
+    "avg_per_person": 85,
+    "menu_highlights": [
+      {"item": "كيك تمر", "price": 55},
+      {"item": "تارت تمر", "price": 42},
+      {"item": "حلا فردي", "price": 45},
+      {"item": "قهوة مختصة", "price": 28}
+    ],
+    "price_range": [25, 120],
+    "source": "estimated from Cafe Bateel standard pricing",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Ladurée Riyadh",
+    "name_ar": "لادوريه الرياض",
+    "avg_per_person": 85,
+    "menu_highlights": [
+      {"item": "ماكرون (قطعة)", "price": 16},
+      {"item": "بوكس ماكرون (12 قطعة)", "price": 165},
+      {"item": "هرم ماكرون (مناسبات)", "price": 450},
+      {"item": "كيك مناسبات", "price": 350},
+      {"item": "قهوة", "price": 28}
+    ],
+    "price_range": [16, 450],
+    "source": "laduree.sa - official website",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Moishi",
+    "name_ar": "مويشي",
+    "avg_per_person": 50,
+    "menu_highlights": [
+      {"item": "موتشي آيس كريم (3 قطع)", "price": 35},
+      {"item": "بوكس موتشي (6 قطع)", "price": 65},
+      {"item": "بوكس فاخر (12 قطعة)", "price": 120}
+    ],
+    "price_range": [35, 120],
+    "source": "estimated from Moishi brand pricing in KSA",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Laderach Swiss Chocolate",
+    "name_ar": "لادراخ شوكولاتة سويسرية",
+    "avg_per_person": 90,
+    "menu_highlights": [
+      {"item": "فريشوغي (100g)", "price": 45},
+      {"item": "برالين سيلكشن (24 قطعة)", "price": 220},
+      {"item": "شوكولاتة فاخرة (بوكس صغير)", "price": 95},
+      {"item": "ترافل (قطعة)", "price": 12}
+    ],
+    "price_range": [12, 350],
+    "source": "laderach.com global pricing converted to SAR estimates",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Lorée Paris",
+    "name_ar": "لوريه باريس",
+    "avg_per_person": 75,
+    "menu_highlights": [
+      {"item": "كرواسون", "price": 22},
+      {"item": "حلا فرنسي فردي", "price": 38},
+      {"item": "كيك", "price": 55},
+      {"item": "قهوة", "price": 25}
+    ],
+    "price_range": [20, 80],
+    "source": "estimated from category - French patisserie Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Brew 92 Riyadh",
+    "name_ar": "بريو 92 - الرياض",
+    "avg_per_person": 35,
+    "menu_highlights": [
+      {"item": "إسبريسو", "price": 16},
+      {"item": "لاتيه", "price": 22},
+      {"item": "كابتشينو", "price": 22},
+      {"item": "كولد برو", "price": 25},
+      {"item": "كيك فردي", "price": 28}
+    ],
+    "price_range": [14, 40],
+    "source": "estimated from Brew92 standard Saudi pricing",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Brew92",
+    "name_ar": "برو٩٢",
+    "avg_per_person": 35,
+    "menu_highlights": [
+      {"item": "إسبريسو", "price": 16},
+      {"item": "فلات وايت", "price": 22},
+      {"item": "V60", "price": 28},
+      {"item": "ماتشا لاتيه", "price": 27}
+    ],
+    "price_range": [14, 40],
+    "source": "estimated from Brew92 standard Saudi pricing",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Motive Cafe Riyadh Park",
+    "name_ar": "موتيف كافيه - الرياض بارك",
+    "avg_per_person": 40,
+    "menu_highlights": [
+      {"item": "إسبريسو", "price": 18},
+      {"item": "لاتيه", "price": 25},
+      {"item": "كابتشينو", "price": 24},
+      {"item": "كيك", "price": 35}
+    ],
+    "price_range": [15, 45],
+    "source": "estimated from category - specialty cafe Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Le Journal BK",
+    "name_ar": "لو جورنال بي كي",
+    "avg_per_person": 55,
+    "menu_highlights": [
+      {"item": "لاتيه", "price": 26},
+      {"item": "كابتشينو", "price": 24},
+      {"item": "كرواسون", "price": 22},
+      {"item": "بريكفاست", "price": 65},
+      {"item": "ساندويتش", "price": 55}
+    ],
+    "price_range": [20, 80],
+    "source": "estimated from category - upscale cafe bakery Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "A.O.K Kitchen",
+    "name_ar": "إيه أو كيه كيتشن",
+    "avg_per_person": 65,
+    "menu_highlights": [
+      {"item": "لاتيه", "price": 26},
+      {"item": "بريكفاست بلات", "price": 55},
+      {"item": "أفوكادو توست", "price": 48},
+      {"item": "سلطة", "price": 52}
+    ],
+    "price_range": [22, 85],
+    "source": "estimated from category - brunch cafe Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Sociale Café",
+    "name_ar": "سوشالي كافيه",
+    "avg_per_person": 55,
+    "menu_highlights": [
+      {"item": "إسبريسو", "price": 18},
+      {"item": "لاتيه", "price": 25},
+      {"item": "كابتشينو", "price": 24},
+      {"item": "كرواسون", "price": 20},
+      {"item": "كيك", "price": 35}
+    ],
+    "price_range": [18, 65],
+    "source": "estimated from category - specialty cafe Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "chok Riyadh",
+    "name_ar": "شوك",
+    "avg_per_person": 50,
+    "menu_highlights": [
+      {"item": "شوكولاتة ساخنة", "price": 28},
+      {"item": "لاتيه", "price": 24},
+      {"item": "كرواسون شوكولاتة", "price": 22},
+      {"item": "حلا فردي", "price": 35}
+    ],
+    "price_range": [18, 55],
+    "source": "estimated from category - chocolate bakery cafe",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "chok Bakery Riyadh",
+    "name_ar": "شوك الرياض",
+    "avg_per_person": 45,
+    "menu_highlights": [
+      {"item": "بان أو شوكولا", "price": 20},
+      {"item": "كرواسون", "price": 18},
+      {"item": "كيك فردي", "price": 35},
+      {"item": "قهوة", "price": 22}
+    ],
+    "price_range": [15, 50],
+    "source": "estimated from category - bakery cafe",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Coyard Coffee Roasters",
+    "name_ar": "كويارد كوفي روسترز",
+    "avg_per_person": 30,
+    "menu_highlights": [
+      {"item": "إسبريسو", "price": 15},
+      {"item": "فلات وايت", "price": 22},
+      {"item": "V60 بور أوفر", "price": 28},
+      {"item": "لاتيه", "price": 22}
+    ],
+    "price_range": [12, 35],
+    "source": "estimated from category - specialty roaster Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Coyard Coffee",
+    "name_ar": "كويارد كوفي",
+    "avg_per_person": 30,
+    "menu_highlights": [
+      {"item": "إسبريسو", "price": 15},
+      {"item": "كابتشينو", "price": 22},
+      {"item": "فلتر كوفي", "price": 25},
+      {"item": "ماتشا لاتيه", "price": 27}
+    ],
+    "price_range": [12, 35],
+    "source": "estimated from category - specialty roaster Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "NOOA Cafe",
+    "name_ar": "نوا",
+    "avg_per_person": 45,
+    "menu_highlights": [
+      {"item": "لاتيه", "price": 24},
+      {"item": "كابتشينو", "price": 22},
+      {"item": "كيك", "price": 35},
+      {"item": "بريكفاست", "price": 55}
+    ],
+    "price_range": [18, 65],
+    "source": "estimated from category - specialty cafe Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "NOOA Cafe Riyadh",
+    "name_ar": "نوا كافيه",
+    "avg_per_person": 45,
+    "menu_highlights": [
+      {"item": "لاتيه", "price": 24},
+      {"item": "إسبريسو", "price": 16},
+      {"item": "حلا فردي", "price": 32},
+      {"item": "ساندويتش", "price": 48}
+    ],
+    "price_range": [16, 60],
+    "source": "estimated from category - specialty cafe Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "NOOA",
+    "name_ar": "نووا الرياض",
+    "avg_per_person": 45,
+    "menu_highlights": [
+      {"item": "كابتشينو", "price": 22},
+      {"item": "سبانش لاتيه", "price": 26},
+      {"item": "كرواسون", "price": 18},
+      {"item": "بريكفاست بلات", "price": 52}
+    ],
+    "price_range": [16, 60],
+    "source": "estimated from category - specialty cafe Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Repository Coffee",
+    "name_ar": "مقهى ريبوزيتوري",
+    "avg_per_person": 30,
+    "menu_highlights": [
+      {"item": "إسبريسو", "price": 15},
+      {"item": "لاتيه", "price": 22},
+      {"item": "فلتر V60", "price": 28},
+      {"item": "كيمكس", "price": 32}
+    ],
+    "price_range": [12, 38],
+    "source": "estimated from category - specialty roaster Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Arabica Hittin",
+    "name_ar": "مقهى أرابيكا - حطين",
+    "avg_per_person": 32,
+    "menu_highlights": [
+      {"item": "إسبريسو", "price": 18},
+      {"item": "لاتيه % أرابيكا", "price": 24},
+      {"item": "كابتشينو", "price": 22},
+      {"item": "ماتشا لاتيه", "price": 28}
+    ],
+    "price_range": [15, 35],
+    "source": "estimated from % Arabica global standard pricing",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Ba'a Bakehouse",
+    "name_ar": "باع بيكهاوس",
+    "avg_per_person": 40,
+    "menu_highlights": [
+      {"item": "كرواسون", "price": 18},
+      {"item": "بان أو شوكولا", "price": 20},
+      {"item": "لاتيه", "price": 22},
+      {"item": "ساندويتش", "price": 38}
+    ],
+    "price_range": [15, 50],
+    "source": "estimated from category - artisan bakehouse Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Arwana Artisan Bakehouse",
+    "name_ar": "أروانا",
+    "avg_per_person": 42,
+    "menu_highlights": [
+      {"item": "كرواسون حجم كبير", "price": 20},
+      {"item": "خبز أرتيزان", "price": 25},
+      {"item": "لاتيه", "price": 24},
+      {"item": "بريكفاست", "price": 55}
+    ],
+    "price_range": [16, 60],
+    "source": "estimated from category - artisan bakehouse Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Flour & Firewood (F&F)",
+    "name_ar": "فلاور آند فايروود",
+    "avg_per_person": 55,
+    "menu_highlights": [
+      {"item": "بيتزا", "price": 45},
+      {"item": "باستا", "price": 50},
+      {"item": "خبز آرتيزان", "price": 18},
+      {"item": "قهوة", "price": 22}
+    ],
+    "price_range": [18, 70],
+    "source": "estimated from category - cafe bakery Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Lavender Ladies Cafe",
+    "name_ar": "لافندر كافيه",
+    "avg_per_person": 55,
+    "menu_highlights": [
+      {"item": "لافندر لاتيه", "price": 28},
+      {"item": "كابتشينو", "price": 24},
+      {"item": "كيك فردي", "price": 38},
+      {"item": "بريكفاست بلات", "price": 65}
+    ],
+    "price_range": [22, 75],
+    "source": "estimated from category - ladies cafe Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Chorisia Lounge",
+    "name_ar": "كوريزيا لاونج",
+    "avg_per_person": 60,
+    "menu_highlights": [
+      {"item": "قهوة مختصة", "price": 26},
+      {"item": "موكتيل", "price": 35},
+      {"item": "حلا", "price": 42},
+      {"item": "بريكفاست", "price": 70}
+    ],
+    "price_range": [24, 80],
+    "source": "estimated from category - lounge cafe Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Eric Kayser Cafe",
+    "name_ar": "ايريك قيصر كافيه",
+    "avg_per_person": 65,
+    "menu_highlights": [
+      {"item": "كرواسون", "price": 18},
+      {"item": "لاتيه", "price": 24},
+      {"item": "ساندويتش فرنسي", "price": 55},
+      {"item": "سلطة", "price": 48},
+      {"item": "كيك فردي", "price": 35}
+    ],
+    "price_range": [18, 75],
+    "source": "estimated from Eric Kayser global pricing adapted to KSA",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Godiva Cafe",
+    "name_ar": "جوديفا كافيه",
+    "avg_per_person": 55,
+    "menu_highlights": [
+      {"item": "شوكولاتة ساخنة", "price": 32},
+      {"item": "لاتيه شوكولاتة", "price": 30},
+      {"item": "ترافل (قطعة)", "price": 15},
+      {"item": "بوكس شوكولاتة (8 قطع)", "price": 120}
+    ],
+    "price_range": [15, 150],
+    "source": "estimated from Godiva global pricing",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Hardy Cafe",
+    "name_ar": "هاردي كافيه",
+    "avg_per_person": 40,
+    "menu_highlights": [
+      {"item": "إسبريسو", "price": 16},
+      {"item": "لاتيه", "price": 24},
+      {"item": "كرواسون", "price": 18},
+      {"item": "كيك", "price": 32}
+    ],
+    "price_range": [14, 50],
+    "source": "estimated from category - specialty cafe Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Oud Cafe",
+    "name_ar": "عود كافيه",
+    "avg_per_person": 45,
+    "menu_highlights": [
+      {"item": "قهوة عربية", "price": 18},
+      {"item": "لاتيه", "price": 24},
+      {"item": "كرواسون", "price": 20},
+      {"item": "بريكفاست", "price": 55}
+    ],
+    "price_range": [15, 65],
+    "source": "estimated from category - specialty cafe Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Qirat Cafe",
+    "name_ar": "قيراط كافيه",
+    "avg_per_person": 45,
+    "menu_highlights": [
+      {"item": "لاتيه", "price": 24},
+      {"item": "كابتشينو", "price": 22},
+      {"item": "سبانش لاتيه", "price": 26},
+      {"item": "حلا", "price": 35}
+    ],
+    "price_range": [18, 55],
+    "source": "estimated from category - specialty cafe Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Enekas",
+    "name_ar": "إنيكاس",
+    "avg_per_person": 40,
+    "menu_highlights": [
+      {"item": "إسبريسو", "price": 16},
+      {"item": "فلات وايت", "price": 22},
+      {"item": "V60", "price": 26},
+      {"item": "كيك", "price": 30}
+    ],
+    "price_range": [14, 40],
+    "source": "estimated from category - specialty cafe Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Eya Specialty Coffee",
+    "name_ar": "إيا سبشلتي كوفي",
+    "avg_per_person": 30,
+    "menu_highlights": [
+      {"item": "إسبريسو", "price": 14},
+      {"item": "لاتيه", "price": 22},
+      {"item": "فلتر كوفي", "price": 25},
+      {"item": "ماتشا", "price": 27}
+    ],
+    "price_range": [12, 35],
+    "source": "estimated from category - specialty coffee Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Locais",
+    "name_ar": "لوكايس",
+    "avg_per_person": 35,
+    "menu_highlights": [
+      {"item": "إسبريسو", "price": 16},
+      {"item": "لاتيه", "price": 24},
+      {"item": "كابتشينو", "price": 22},
+      {"item": "كرواسون", "price": 18}
+    ],
+    "price_range": [14, 42],
+    "source": "estimated from category - specialty cafe Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Asian Hub",
+    "name_ar": "آسيان هب",
+    "avg_per_person": 70,
+    "menu_highlights": [
+      {"item": "نودلز", "price": 42},
+      {"item": "أرز مقلي", "price": 38},
+      {"item": "دجاج كونغ باو", "price": 52},
+      {"item": "سبرنق رول", "price": 28}
+    ],
+    "price_range": [25, 85],
+    "source": "estimated from category - Asian restaurant Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Sushi Library",
+    "name_ar": "سوشي لايبراري",
+    "avg_per_person": 250,
+    "menu_highlights": [
+      {"item": "أوماكاسي تجربة", "price": 350},
+      {"item": "سوشي مشكل", "price": 150},
+      {"item": "ساشيمي", "price": 120},
+      {"item": "رول خاص", "price": 95}
+    ],
+    "price_range": [80, 400],
+    "source": "estimated from category - premium sushi Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Salt Riyadh Park",
+    "name_ar": "سالت - الرياض بارك",
+    "avg_per_person": 60,
+    "menu_highlights": [
+      {"item": "سالت برغر", "price": 35},
+      {"item": "لوبستر رول", "price": 85},
+      {"item": "بطاطس ترافل", "price": 32},
+      {"item": "آيس كريم سوفت سيرف", "price": 25}
+    ],
+    "price_range": [25, 95],
+    "source": "estimated from Salt brand standard pricing",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Abr Al Sham",
+    "name_ar": "مطاعم عبر الشام",
+    "avg_per_person": 45,
+    "menu_highlights": [
+      {"item": "شاورما", "price": 18},
+      {"item": "مشاوي مشكلة", "price": 65},
+      {"item": "فتوش", "price": 18},
+      {"item": "حمص", "price": 15},
+      {"item": "كبة", "price": 22}
+    ],
+    "price_range": [12, 80],
+    "source": "estimated from category - Syrian restaurant Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Kuuru",
+    "name_ar": "كوورو",
+    "avg_per_person": 85,
+    "menu_highlights": [
+      {"item": "رامين", "price": 55},
+      {"item": "جيوزا", "price": 35},
+      {"item": "دون بوري", "price": 62},
+      {"item": "إيدامامي", "price": 25}
+    ],
+    "price_range": [25, 95],
+    "source": "estimated from category - Japanese restaurant Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Jareed Samhan",
+    "name_ar": "جاريد سمهان",
+    "avg_per_person": 60,
+    "menu_highlights": [
+      {"item": "كبسة لحم", "price": 55},
+      {"item": "مندي دجاج", "price": 45},
+      {"item": "جريش", "price": 30},
+      {"item": "مرقوق", "price": 40}
+    ],
+    "price_range": [25, 75],
+    "source": "estimated from category - Saudi traditional restaurant",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Casapasta",
+    "name_ar": "كازاباستا",
+    "avg_per_person": 65,
+    "menu_highlights": [
+      {"item": "باستا", "price": 48},
+      {"item": "بيتزا", "price": 45},
+      {"item": "ريزوتو", "price": 55},
+      {"item": "سلطة سيزر", "price": 35}
+    ],
+    "price_range": [30, 80],
+    "source": "estimated from category - Italian restaurant Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "PrimeCut",
+    "name_ar": "برايم كت",
+    "avg_per_person": 200,
+    "menu_highlights": [
+      {"item": "ستيك كلاسيك", "price": 145},
+      {"item": "ستيك سيقنتشر", "price": 175},
+      {"item": "ريب آي", "price": 195},
+      {"item": "سلطة", "price": 45}
+    ],
+    "price_range": [45, 300],
+    "source": "timeoutriyadh.com - best steakhouses article",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Tofareya",
+    "name_ar": "طوفرية",
+    "avg_per_person": 45,
+    "menu_highlights": [
+      {"item": "فول", "price": 12},
+      {"item": "مطبق", "price": 20},
+      {"item": "معصوب", "price": 22},
+      {"item": "شكشوكة", "price": 18}
+    ],
+    "price_range": [10, 35],
+    "source": "estimated from category - Saudi breakfast restaurant",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Tresind Studio",
+    "name_ar": "تريسيند ستوديو",
+    "avg_per_person": 500,
+    "menu_highlights": [
+      {"item": "قائمة تذوق (تاستنق مينيو)", "price": 500},
+      {"item": "قائمة فاخرة", "price": 750}
+    ],
+    "price_range": [400, 800],
+    "source": "estimated from Tresind Studio Dubai pricing adapted to Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Bahriyat Al Malaz",
+    "name_ar": "بحرية الملز",
+    "avg_per_person": 55,
+    "menu_highlights": [
+      {"item": "سمك مشوي", "price": 55},
+      {"item": "ربيان مقلي", "price": 45},
+      {"item": "رز صيادية", "price": 35},
+      {"item": "سلطة بحرية", "price": 25}
+    ],
+    "price_range": [20, 75],
+    "source": "estimated from category - seafood restaurant Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Kibda Dar Al Sabah",
+    "name_ar": "كبدة دار الصباح",
+    "avg_per_person": 25,
+    "menu_highlights": [
+      {"item": "كبدة", "price": 15},
+      {"item": "سجق", "price": 18},
+      {"item": "كبدة مع رز", "price": 22},
+      {"item": "فول", "price": 10}
+    ],
+    "price_range": [8, 28],
+    "source": "estimated from category - liver/street food Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Moon Shell",
+    "name_ar": "مون شيل",
+    "avg_per_person": 70,
+    "menu_highlights": [
+      {"item": "سمك مشوي", "price": 65},
+      {"item": "ربيان", "price": 55},
+      {"item": "سلطة بحرية", "price": 30},
+      {"item": "رز بحري", "price": 35}
+    ],
+    "price_range": [25, 90],
+    "source": "estimated from category - seafood restaurant Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "AB Steak",
+    "name_ar": "آي بي ستيك",
+    "avg_per_person": 350,
+    "menu_highlights": [
+      {"item": "واغيو ستيك", "price": 350},
+      {"item": "ريب آي درای ایجد", "price": 280},
+      {"item": "مقبلات كورية", "price": 65},
+      {"item": "سلطة", "price": 55}
+    ],
+    "price_range": [55, 500],
+    "source": "estimated from AB Steak brand - Akira Back upscale steakhouse",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Kabdah w Muqalqal",
+    "name_ar": "مطعم كبدة ومقلقل",
+    "avg_per_person": 30,
+    "menu_highlights": [
+      {"item": "كبدة", "price": 18},
+      {"item": "مقلقل", "price": 25},
+      {"item": "رز", "price": 8},
+      {"item": "سلطة", "price": 8}
+    ],
+    "price_range": [8, 35],
+    "source": "estimated from category - traditional Saudi street food",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Shabiyat Al Zaman Al Jameel",
+    "name_ar": "مطعم شعبيات الزمن الجميل",
+    "avg_per_person": 35,
+    "menu_highlights": [
+      {"item": "كبسة دجاج", "price": 35},
+      {"item": "مندي لحم", "price": 45},
+      {"item": "جريش", "price": 25},
+      {"item": "مرقوق", "price": 30}
+    ],
+    "price_range": [15, 55],
+    "source": "estimated from category - traditional Saudi restaurant",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Matbakh Arafat",
+    "name_ar": "مطبخ عرفات",
+    "avg_per_person": 35,
+    "menu_highlights": [
+      {"item": "كبسة دجاج", "price": 30},
+      {"item": "مندي", "price": 40},
+      {"item": "مظبي", "price": 45},
+      {"item": "سلطة", "price": 10}
+    ],
+    "price_range": [10, 55],
+    "source": "estimated from category - traditional Saudi restaurant",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Haku",
+    "name_ar": "هاكو",
+    "avg_per_person": 120,
+    "menu_highlights": [
+      {"item": "سوشي مشكل", "price": 85},
+      {"item": "رامين", "price": 55},
+      {"item": "تمبورا", "price": 45},
+      {"item": "واغيو نيقيري", "price": 120}
+    ],
+    "price_range": [40, 180],
+    "source": "estimated from category - Japanese restaurant Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Nabil Nafisah Sweets",
+    "name_ar": "حلويات نبيل نفيسة",
+    "avg_per_person": 30,
+    "menu_highlights": [
+      {"item": "بقلاوة (كيلو)", "price": 80},
+      {"item": "كنافة (كيلو)", "price": 60},
+      {"item": "حصة فردية", "price": 15},
+      {"item": "معمول", "price": 45}
+    ],
+    "price_range": [10, 100],
+    "source": "estimated from category - Arabic sweets Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Tamrytna Dates",
+    "name_ar": "تمريتنا",
+    "avg_per_person": 60,
+    "menu_highlights": [
+      {"item": "تمور عجوة (كيلو)", "price": 120},
+      {"item": "تمور سكري (كيلو)", "price": 80},
+      {"item": "علبة هدايا صغيرة", "price": 50}
+    ],
+    "price_range": [30, 200],
+    "source": "estimated from category - premium dates Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Al Orani Premium Dates",
+    "name_ar": "العريني للتمور الفاخرة",
+    "avg_per_person": 70,
+    "menu_highlights": [
+      {"item": "تمور سكري فاخرة (كيلو)", "price": 90},
+      {"item": "تمور عجوة المدينة (كيلو)", "price": 150},
+      {"item": "علبة هدايا", "price": 65}
+    ],
+    "price_range": [40, 250],
+    "source": "estimated from category - premium dates Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "SugarMoo Desserts",
+    "name_ar": "شوقرمو",
+    "avg_per_person": 40,
+    "menu_highlights": [
+      {"item": "ميلك شيك", "price": 28},
+      {"item": "وافل", "price": 35},
+      {"item": "كريب", "price": 30},
+      {"item": "آيس كريم", "price": 22}
+    ],
+    "price_range": [18, 50],
+    "source": "estimated from category - dessert shop Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Al Hallab Sweets 1881",
+    "name_ar": "حلويات الحلاب",
+    "avg_per_person": 35,
+    "menu_highlights": [
+      {"item": "كنافة (كيلو)", "price": 65},
+      {"item": "بقلاوة (كيلو)", "price": 90},
+      {"item": "حلا فردي", "price": 18},
+      {"item": "معمول", "price": 50}
+    ],
+    "price_range": [12, 120],
+    "source": "estimated from Al Hallab brand standard pricing",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Green Mill Bakery",
+    "name_ar": "غرين ميل بيكري",
+    "avg_per_person": 30,
+    "menu_highlights": [
+      {"item": "كيك فردي", "price": 25},
+      {"item": "كوكيز", "price": 12},
+      {"item": "كب كيك", "price": 18},
+      {"item": "كيك مناسبات", "price": 200}
+    ],
+    "price_range": [8, 250],
+    "source": "estimated from category - bakery Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Kingdom Dates",
+    "name_ar": "مملكة التمور",
+    "avg_per_person": 50,
+    "menu_highlights": [
+      {"item": "تمور سكري (كيلو)", "price": 60},
+      {"item": "تمور محشية لوز (كيلو)", "price": 90},
+      {"item": "علبة هدايا متوسطة", "price": 55}
+    ],
+    "price_range": [25, 150],
+    "source": "estimated from category - dates shop Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Tamrat Premium Dates",
+    "name_ar": "تمرات تمور فاخرة",
+    "avg_per_person": 65,
+    "menu_highlights": [
+      {"item": "تمور خلاص (كيلو)", "price": 75},
+      {"item": "تمور عجوة (كيلو)", "price": 130},
+      {"item": "بوكس هدايا فاخر", "price": 85}
+    ],
+    "price_range": [30, 200],
+    "source": "estimated from category - premium dates Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "RAW Health Bar",
+    "name_ar": "رو هيلث بار",
+    "avg_per_person": 55,
+    "menu_highlights": [
+      {"item": "أساي بول", "price": 42},
+      {"item": "سموذي", "price": 32},
+      {"item": "سلطة صحية", "price": 45},
+      {"item": "عصير طازج", "price": 28}
+    ],
+    "price_range": [22, 65],
+    "source": "estimated from category - health bar Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Edge of the World",
+    "name_ar": "حافة العالم",
+    "avg_per_person": 0,
+    "menu_highlights": [
+      {"item": "دخول مجاني (منطقة مفتوحة)", "price": 0},
+      {"item": "جولة سياحية منظمة", "price": 200}
+    ],
+    "price_range": [0, 300],
+    "source": "visitsaudi.com - free entry, hiking location",
+    "confidence": "high",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Formé Wellness",
+    "name_ar": "فورميه ولنس",
+    "avg_per_person": 200,
+    "menu_highlights": [
+      {"item": "جلسة سبا (60 دقيقة)", "price": 250},
+      {"item": "باكج يومي", "price": 500},
+      {"item": "عضوية شهرية", "price": 1500}
+    ],
+    "price_range": [150, 1500],
+    "source": "estimated from category - wellness spa Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "The Spa at Mandarin Oriental",
+    "name_ar": "ذا سبا ماندارين أورينتال",
+    "avg_per_person": 600,
+    "menu_highlights": [
+      {"item": "مساج (60 دقيقة)", "price": 500},
+      {"item": "مساج (90 دقيقة)", "price": 750},
+      {"item": "باكج سبا فاخر", "price": 1200}
+    ],
+    "price_range": [400, 1500],
+    "source": "estimated from Mandarin Oriental luxury pricing",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "The Ladies Spa Mandarin Oriental",
+    "name_ar": "سبا الليديز ماندارين أورينتال",
+    "avg_per_person": 600,
+    "menu_highlights": [
+      {"item": "مساج (60 دقيقة)", "price": 500},
+      {"item": "فيشل", "price": 450},
+      {"item": "باكج رفاهية", "price": 1200}
+    ],
+    "price_range": [400, 1500],
+    "source": "estimated from Mandarin Oriental luxury pricing",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Beast Land",
+    "name_ar": "بيست لاند",
+    "avg_per_person": 120,
+    "menu_highlights": [
+      {"item": "تذكرة دخول", "price": 100},
+      {"item": "تذكرة VIP", "price": 200},
+      {"item": "أنشطة إضافية", "price": 50}
+    ],
+    "price_range": [80, 250],
+    "source": "estimated from category - entertainment venue Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "8 Ball Pool and Snooker",
+    "name_ar": "8 بول سنوكر",
+    "avg_per_person": 50,
+    "menu_highlights": [
+      {"item": "ساعة بلياردو", "price": 40},
+      {"item": "ساعة سنوكر", "price": 50},
+      {"item": "مشروب", "price": 15}
+    ],
+    "price_range": [30, 80],
+    "source": "estimated from category - billiards Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Riyadh Hiking Tours",
+    "name_ar": "جولات الرياض للهايكنق",
+    "avg_per_person": 150,
+    "menu_highlights": [
+      {"item": "جولة هايكنق قصيرة", "price": 100},
+      {"item": "جولة يوم كامل", "price": 200},
+      {"item": "جولة حافة العالم", "price": 250}
+    ],
+    "price_range": [100, 350],
+    "source": "estimated from category - hiking tours Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Supercar Driving Experience Riyadh",
+    "name_ar": "تجربة السيارات الخارقة",
+    "avg_per_person": 500,
+    "menu_highlights": [
+      {"item": "تجربة قيادة (15 دقيقة)", "price": 350},
+      {"item": "تجربة قيادة (30 دقيقة)", "price": 600},
+      {"item": "تجربة فيراري/لمبرقيني", "price": 800}
+    ],
+    "price_range": [250, 1000],
+    "source": "estimated from category - supercar experience",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Relive Studio",
+    "name_ar": "ريلايف ستوديو",
+    "avg_per_person": 80,
+    "menu_highlights": [
+      {"item": "جلسة واحدة", "price": 80},
+      {"item": "باكج 5 جلسات", "price": 350},
+      {"item": "باكج 10 جلسات", "price": 600}
+    ],
+    "price_range": [60, 600],
+    "source": "estimated from category - fitness/wellness studio Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "The Yoga House",
+    "name_ar": "ذا يوغا هاوس",
+    "avg_per_person": 90,
+    "menu_highlights": [
+      {"item": "جلسة واحدة", "price": 90},
+      {"item": "باكج 10 جلسات", "price": 700},
+      {"item": "عضوية شهرية", "price": 800}
+    ],
+    "price_range": [70, 800],
+    "source": "estimated from category - yoga studio Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Stance Pilates",
+    "name_ar": "ستانس بيلاتس",
+    "avg_per_person": 100,
+    "menu_highlights": [
+      {"item": "جلسة واحدة", "price": 100},
+      {"item": "باكج 5 جلسات", "price": 450},
+      {"item": "عضوية شهرية", "price": 900}
+    ],
+    "price_range": [80, 900],
+    "source": "estimated from category - pilates studio Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Flex Pilates Studio",
+    "name_ar": "فلكس بيلاتس ستوديو",
+    "avg_per_person": 100,
+    "menu_highlights": [
+      {"item": "جلسة واحدة", "price": 95},
+      {"item": "باكج 10 جلسات", "price": 800},
+      {"item": "عضوية شهرية", "price": 850}
+    ],
+    "price_range": [75, 850],
+    "source": "estimated from category - pilates studio Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Pia Studio",
+    "name_ar": "بيا ستوديو",
+    "avg_per_person": 90,
+    "menu_highlights": [
+      {"item": "جلسة واحدة", "price": 90},
+      {"item": "باكج 5 جلسات", "price": 400}
+    ],
+    "price_range": [70, 800],
+    "source": "estimated from category - fitness studio Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Sokoun Spa Hyatt Regency",
+    "name_ar": "سكون سبا حياة ريجنسي",
+    "avg_per_person": 400,
+    "menu_highlights": [
+      {"item": "مساج (60 دقيقة)", "price": 350},
+      {"item": "مساج (90 دقيقة)", "price": 500},
+      {"item": "فيشل", "price": 300}
+    ],
+    "price_range": [250, 800],
+    "source": "estimated from Hyatt Regency spa standard pricing",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Fairmont Riyadh Spa",
+    "name_ar": "سبا فيرمونت الرياض",
+    "avg_per_person": 450,
+    "menu_highlights": [
+      {"item": "مساج سويدي (60 دقيقة)", "price": 400},
+      {"item": "مساج ديب تيشو (90 دقيقة)", "price": 550},
+      {"item": "فيشل فاخر", "price": 380}
+    ],
+    "price_range": [300, 900],
+    "source": "estimated from Fairmont luxury spa standard pricing",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Tribus Fitness",
+    "name_ar": "ترايبس فتنس",
+    "avg_per_person": 80,
+    "menu_highlights": [
+      {"item": "جلسة واحدة", "price": 75},
+      {"item": "باكج 10 جلسات", "price": 600},
+      {"item": "عضوية شهرية", "price": 700}
+    ],
+    "price_range": [60, 700],
+    "source": "estimated from category - fitness studio Riyadh",
+    "confidence": "low",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Boulevard Riyadh City",
+    "name_ar": "بوليفارد الرياض",
+    "avg_per_person": 50,
+    "menu_highlights": [
+      {"item": "دخول يوم عادي", "price": 0},
+      {"item": "بوليفارد وورلد (أيام عادية)", "price": 29},
+      {"item": "بوليفارد وورلد (نهاية أسبوع)", "price": 58},
+      {"item": "فعاليات خاصة", "price": 150}
+    ],
+    "price_range": [0, 150],
+    "source": "cuddlynest.com + houseoftours.com - Boulevard pricing",
+    "confidence": "medium",
+    "last_updated": "2026-02-19"
+  }
+]

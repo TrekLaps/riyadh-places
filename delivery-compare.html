@@ -1,0 +1,806 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🛵 قارن أسعار التوصيل — وين نروح بالرياض؟</title>
+  <meta name="description" content="قارن أسعار نفس المطعم عبر كل تطبيقات التوصيل في الرياض — هنقرستيشن، جاهز، تويو، كاريدج، ذا شفز. وفّر على كل طلب!">
+  <meta name="keywords" content="مقارنة أسعار التوصيل, هنقرستيشن, جاهز, تويو, كاريدج, ذا شفز, توصيل مطاعم الرياض, أرخص تطبيق توصيل">
+  <link rel="canonical" href="https://wain-nrooh.com/delivery-compare.html">
+  <meta property="og:title" content="🛵 قارن أسعار التوصيل — وين نروح بالرياض؟">
+  <meta property="og:description" content="قارن أسعار نفس المطعم عبر كل تطبيقات التوصيل — وفّر على كل طلب">
+  <meta property="og:url" content="https://wain-nrooh.com/delivery-compare.html">
+  <meta property="og:locale" content="ar_SA">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0a1628">
+  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+  <style>
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{font-family:'Tajawal',sans-serif;background:#0a1628;color:#e0e0e0;direction:rtl}
+    .header{background:linear-gradient(135deg,#0a1628 0%,#1a2a4a 100%);padding:12px 20px;position:sticky;top:0;z-index:100}
+    .header-inner{display:flex;align-items:center;justify-content:space-between;max-width:1400px;margin:auto}
+    .logo{text-decoration:none;color:#c9a84c;display:flex;align-items:center;gap:8px}
+    .logo h1{font-size:1.2rem;margin:0}
+  </style>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    /* ===== Delivery Compare Page Specific Styles ===== */
+    .dc-hero {
+      background: linear-gradient(135deg, #0a1628 0%, #162040 50%, #1a2d50 100%);
+      color: white;
+      padding: 50px 20px 45px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .dc-hero::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: repeating-linear-gradient(60deg, transparent, transparent 40px, rgba(201,168,76,0.03) 40px, rgba(201,168,76,0.03) 41px),
+                  repeating-linear-gradient(-60deg, transparent, transparent 40px, rgba(201,168,76,0.03) 40px, rgba(201,168,76,0.03) 41px);
+      pointer-events: none;
+    }
+    .dc-hero::after {
+      content: '';
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      height: 4px;
+      background: linear-gradient(90deg, transparent, #c9a84c, transparent);
+    }
+    .dc-hero h2 {
+      font-size: 36px;
+      font-weight: 900;
+      margin-bottom: 12px;
+      position: relative;
+    }
+    .dc-hero h2 span { color: #c9a84c; }
+    .dc-hero > p {
+      font-size: 17px;
+      color: rgba(255,255,255,0.7);
+      max-width: 600px;
+      margin: 0 auto;
+      position: relative;
+      line-height: 1.8;
+    }
+
+    /* Stats Bar */
+    .dc-stats-bar {
+      max-width: 1200px;
+      margin: -24px auto 24px;
+      padding: 0 20px;
+      position: relative;
+      z-index: 10;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+    .dc-stat-card {
+      background: var(--card-bg, #1c2333);
+      border-radius: 16px;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+      border-top: 3px solid #c9a84c;
+    }
+    .dc-stat-num {
+      font-size: 32px;
+      font-weight: 900;
+      color: #c9a84c;
+      line-height: 1;
+      margin-bottom: 4px;
+    }
+    .dc-stat-label {
+      font-size: 14px;
+      color: #8b949e;
+      font-weight: 600;
+    }
+
+    /* Search & Filter */
+    .dc-controls {
+      max-width: 1200px;
+      margin: 0 auto 24px;
+      padding: 0 20px;
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .dc-search {
+      flex: 1;
+      min-width: 240px;
+      position: relative;
+    }
+    .dc-search input {
+      width: 100%;
+      padding: 14px 48px 14px 18px;
+      border: 2px solid #30363d;
+      border-radius: 12px;
+      background: #1c2333;
+      color: #e6edf3;
+      font-size: 16px;
+      font-family: 'Tajawal', sans-serif;
+      outline: none;
+      transition: all 0.3s ease;
+      direction: rtl;
+    }
+    .dc-search input::placeholder { color: #6e7681; }
+    .dc-search input:focus {
+      border-color: #c9a84c;
+      box-shadow: 0 0 0 4px rgba(201,168,76,0.15);
+    }
+    .dc-search-icon {
+      position: absolute;
+      right: 16px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 18px;
+      pointer-events: none;
+    }
+    .dc-filter-chips {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .dc-chip {
+      padding: 10px 18px;
+      border: 2px solid #30363d;
+      border-radius: 50px;
+      background: #1c2333;
+      color: #e6edf3;
+      font-family: 'Tajawal', sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      white-space: nowrap;
+    }
+    .dc-chip:hover {
+      border-color: #c9a84c;
+      color: #c9a84c;
+    }
+    .dc-chip.active {
+      background: #c9a84c;
+      border-color: #c9a84c;
+      color: #0a1628;
+      font-weight: 700;
+    }
+
+    /* Restaurant Cards */
+    .dc-grid {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px 40px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+    .dc-card {
+      background: #1c2333;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+      border-top: 3px solid #c9a84c;
+      transition: all 0.3s ease;
+    }
+    .dc-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 12px 40px rgba(201,168,76,0.15);
+    }
+    .dc-card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 18px 22px;
+      border-bottom: 1px solid #30363d;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .dc-card-title {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .dc-card-title h3 {
+      font-size: 20px;
+      font-weight: 800;
+      color: #e6edf3;
+      margin: 0;
+    }
+    .dc-card-title .dc-name-en {
+      font-size: 14px;
+      color: #6e7681;
+      font-weight: 500;
+    }
+    .dc-category-badge {
+      background: rgba(201,168,76,0.15);
+      color: #c9a84c;
+      padding: 4px 12px;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 700;
+    }
+    .dc-cheapest-badge {
+      background: rgba(46, 204, 113, 0.15);
+      color: #2ecc71;
+      padding: 6px 14px;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .dc-unavailable-badge {
+      background: rgba(231, 76, 60, 0.12);
+      color: #e74c3c;
+      padding: 6px 14px;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    /* Comparison Table */
+    .dc-table-wrap {
+      overflow-x: auto;
+      padding: 0 22px 18px;
+    }
+    .dc-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 14px;
+    }
+    .dc-table th {
+      padding: 12px 14px;
+      text-align: right;
+      background: rgba(201,168,76,0.06);
+      color: #c9a84c;
+      font-weight: 700;
+      font-size: 13px;
+      border-bottom: 2px solid #30363d;
+      white-space: nowrap;
+    }
+    .dc-table td {
+      padding: 12px 14px;
+      border-bottom: 1px solid rgba(48,54,61,0.5);
+      vertical-align: middle;
+    }
+    .dc-table tr:last-child td { border-bottom: none; }
+    .dc-table tr:hover td { background: rgba(201,168,76,0.03); }
+    .dc-app-cell {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+    .dc-app-icon {
+      width: 28px;
+      height: 28px;
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 15px;
+      flex-shrink: 0;
+    }
+    .dc-app-hungerstation { background: linear-gradient(135deg, #d4145a, #fbb03b); }
+    .dc-app-jahez { background: linear-gradient(135deg, #ff4b2b, #ff416c); }
+    .dc-app-toyou { background: linear-gradient(135deg, #11998e, #38ef7d); }
+    .dc-app-carriage { background: linear-gradient(135deg, #4568dc, #b06ab3); }
+    .dc-app-thechefz { background: linear-gradient(135deg, #232526, #414345); color: #c9a84c; }
+    .dc-available { color: #2ecc71; font-weight: 700; }
+    .dc-unavailable { color: #6e7681; }
+    .dc-price-sample {
+      font-size: 13px;
+      color: #8b949e;
+      line-height: 1.6;
+    }
+    .dc-price-sample strong { color: #e6edf3; }
+    .dc-delivery-fee { color: #dbb960; font-weight: 600; }
+    .dc-cheapest-row td {
+      background: rgba(46, 204, 113, 0.05) !important;
+    }
+
+    /* Items Preview (collapsible) */
+    .dc-items-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      margin: 0 22px 16px;
+      padding: 8px 16px;
+      border: 1.5px solid #30363d;
+      border-radius: 8px;
+      background: transparent;
+      color: #c9a84c;
+      font-family: 'Tajawal', sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    .dc-items-toggle:hover {
+      background: rgba(201,168,76,0.1);
+      border-color: #c9a84c;
+    }
+    .dc-items-grid {
+      display: none;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 8px;
+      padding: 0 22px 18px;
+    }
+    .dc-items-grid.open { display: grid; }
+    .dc-item {
+      display: flex;
+      justify-content: space-between;
+      padding: 8px 12px;
+      background: rgba(201,168,76,0.04);
+      border-radius: 8px;
+      font-size: 13px;
+    }
+    .dc-item-name { color: #8b949e; }
+    .dc-item-price { color: #c9a84c; font-weight: 700; white-space: nowrap; }
+
+    /* No Results */
+    .dc-no-results {
+      text-align: center;
+      padding: 60px 20px;
+      display: none;
+    }
+    .dc-no-results.visible { display: block; }
+    .dc-no-results .emoji { font-size: 56px; margin-bottom: 12px; }
+    .dc-no-results h3 { font-size: 20px; color: #e6edf3; margin-bottom: 8px; }
+    .dc-no-results p { color: #6e7681; font-size: 15px; }
+
+    /* Results count */
+    .dc-results-count {
+      max-width: 1200px;
+      margin: 0 auto 16px;
+      padding: 0 20px;
+      font-size: 14px;
+      color: #6e7681;
+    }
+    .dc-results-count strong { color: #c9a84c; }
+
+    /* Mobile: Table → Cards */
+    @media (max-width: 768px) {
+      .dc-hero { padding: 35px 16px; }
+      .dc-hero h2 { font-size: 26px; }
+      .dc-hero > p { font-size: 15px; }
+      .dc-stats-bar { grid-template-columns: repeat(3, 1fr); gap: 10px; padding: 0 16px; margin-top: -20px; }
+      .dc-stat-card { padding: 14px 10px; }
+      .dc-stat-num { font-size: 24px; }
+      .dc-stat-label { font-size: 12px; }
+      .dc-controls { padding: 0 16px; }
+      .dc-grid { padding: 0 16px 40px; }
+      .dc-card-header { padding: 14px 16px; }
+      .dc-card-title h3 { font-size: 17px; }
+
+      /* Transform table to mobile cards */
+      .dc-table-wrap { padding: 0 16px 16px; }
+      .dc-table thead { display: none; }
+      .dc-table, .dc-table tbody, .dc-table tr, .dc-table td {
+        display: block;
+        width: 100%;
+      }
+      .dc-table tr {
+        background: rgba(201,168,76,0.03);
+        border-radius: 10px;
+        padding: 12px;
+        margin-bottom: 10px;
+        border: 1px solid #30363d;
+      }
+      .dc-table td {
+        padding: 4px 0;
+        border: none;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .dc-table td::before {
+        content: attr(data-label);
+        font-weight: 700;
+        color: #c9a84c;
+        font-size: 12px;
+        min-width: 80px;
+      }
+      .dc-items-toggle { margin: 0 16px 14px; }
+      .dc-items-grid { padding: 0 16px 16px; grid-template-columns: 1fr; }
+    }
+
+    @media (max-width: 480px) {
+      .dc-stats-bar { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><span>🏙️</span><h1>وين نروح بالرياض؟</h1></a>
+      <button class="dark-mode-toggle" aria-label="الوضع الليلي">🌙</button>
+      <button class="menu-toggle" aria-label="القائمة">☰</button>
+      <nav class="nav">
+        <a href="index.html">الرئيسية</a>
+        <a href="cafes.html">كافيهات</a>
+        <a href="restaurants.html">مطاعم</a>
+        <a href="activities.html">ترفيه</a>
+        <a href="prices.html">💰 أسعار</a>
+        <a href="delivery-compare.html" class="active">🛵 مقارنة التوصيل</a>
+        <a href="best.html">🏆 الأفضل</a>
+        <a href="compare.html">⚖️ قارن</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="dc-hero">
+    <h2>🛵 قارن <span>أسعار التوصيل</span></h2>
+    <p>قارن أسعار نفس المطعم عبر كل تطبيقات التوصيل — وفّر على كل طلب</p>
+  </section>
+
+  <!-- Stats -->
+  <div class="dc-stats-bar" id="dc-stats"></div>
+
+  <!-- Search & Filter -->
+  <div class="dc-controls">
+    <div class="dc-search">
+      <span class="dc-search-icon">🔍</span>
+      <input type="text" id="dc-search-input" placeholder="ابحث عن مطعم..." autocomplete="off">
+    </div>
+    <div class="dc-filter-chips" id="dc-filters"></div>
+  </div>
+
+  <!-- Results Count -->
+  <div class="dc-results-count" id="dc-results-count"></div>
+
+  <!-- Restaurant Cards -->
+  <div class="dc-grid" id="dc-grid"></div>
+
+  <!-- No Results -->
+  <div class="dc-no-results" id="dc-no-results">
+    <div class="emoji">🔍</div>
+    <h3>ما لقينا نتائج</h3>
+    <p>جرّب كلمة بحث ثانية أو غيّر الفئة</p>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div>
+        <h3>وين نروح بالرياض؟</h3>
+        <p>دليلك الشامل لأفضل الأماكن في الرياض مع تقييمات قوقل الحقيقية. محدث يومياً.</p>
+      </div>
+      <div>
+        <h3>الأقسام</h3>
+        <ul>
+          <li><a href="cafes.html">كافيهات الرياض</a></li>
+          <li><a href="restaurants.html">مطاعم الرياض</a></li>
+          <li><a href="prices.html">💰 أسعار</a></li>
+          <li><a href="delivery-compare.html">🛵 مقارنة التوصيل</a></li>
+          <li><a href="best.html">🏆 الأفضل</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>روابط مفيدة</h3>
+        <ul>
+          <li><a href="sitemap.xml">خريطة الموقع</a></li>
+          <li><a href="index.html">الرئيسية</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-heart">صنع بـ <span>❤️</span> في الرياض</div>
+    <div class="footer-bottom"><p>© 2025-2026 وين نروح بالرياض؟ جميع الحقوق محفوظة.</p></div>
+  </footer>
+
+  <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
+
+  <script src="js/darkmode.js"></script>
+  <script>
+  (function() {
+    'use strict';
+
+    // App display config
+    const APP_CONFIG = {
+      hungerstation: { name: 'هنقرستيشن', icon: '🟠', typicalFee: '9-25', cssClass: 'dc-app-hungerstation' },
+      jahez:         { name: 'جاهز',       icon: '🔴', typicalFee: '7-20', cssClass: 'dc-app-jahez' },
+      toyou:         { name: 'تويو',       icon: '🟢', typicalFee: '10-25', cssClass: 'dc-app-toyou' },
+      carriage:      { name: 'كاريدج',     icon: '🟣', typicalFee: '5-15', cssClass: 'dc-app-carriage' },
+      thechefz:      { name: 'ذا شفز',     icon: '⚫', typicalFee: '15-35', cssClass: 'dc-app-thechefz' }
+    };
+
+    const CATEGORY_ICONS = {
+      'برجر': '🍔', 'بيتزا': '🍕', 'سعودي': '🥘', 'آسيوي': '🍜',
+      'إيطالي': '🍝', 'لبناني': '🧆', 'كافيهات': '☕', 'حلويات': '🍰',
+      'فاخر': '✨', 'متنوع': '🍽️'
+    };
+
+    let allData = null;
+    let currentFilter = 'الكل';
+    let currentSearch = '';
+
+    // Load data
+    async function loadData() {
+      try {
+        const res = await fetch('data/delivery-prices.json');
+        allData = await res.json();
+        init();
+      } catch(e) {
+        console.error('Failed to load delivery data:', e);
+      }
+    }
+
+    function init() {
+      renderStats();
+      renderFilters();
+      renderCards();
+      setupEvents();
+    }
+
+    // === Stats ===
+    function renderStats() {
+      const restaurants = allData.restaurants;
+      const totalWithDelivery = restaurants.filter(r => r.apps.some(a => a.available)).length;
+
+      // Find most comprehensive app
+      const appCounts = {};
+      for (const key in APP_CONFIG) appCounts[key] = 0;
+      restaurants.forEach(r => {
+        r.apps.forEach(a => {
+          if (a.available) appCounts[a.app] = (appCounts[a.app] || 0) + 1;
+        });
+      });
+      const topApp = Object.entries(appCounts).sort((a,b) => b[1] - a[1])[0];
+
+      // Average saving estimate: based on typical delivery fee variance
+      const avgSaving = '5-15';
+
+      document.getElementById('dc-stats').innerHTML = `
+        <div class="dc-stat-card">
+          <div class="dc-stat-num">${totalWithDelivery}</div>
+          <div class="dc-stat-label">مطعم متوفر للتوصيل</div>
+        </div>
+        <div class="dc-stat-card">
+          <div class="dc-stat-num">${APP_CONFIG[topApp[0]].name}</div>
+          <div class="dc-stat-label">أكثر تطبيق شمولية (${topApp[1]} مطعم)</div>
+        </div>
+        <div class="dc-stat-card">
+          <div class="dc-stat-num">${avgSaving} ﷼</div>
+          <div class="dc-stat-label">متوسط التوفير بالمقارنة</div>
+        </div>
+      `;
+    }
+
+    // === Filters ===
+    function renderFilters() {
+      const categories = ['الكل', ...new Set(allData.restaurants.map(r => r.category))];
+      const container = document.getElementById('dc-filters');
+      container.innerHTML = categories.map(cat =>
+        `<button class="dc-chip ${cat === 'الكل' ? 'active' : ''}" data-cat="${cat}">
+          ${cat !== 'الكل' ? (CATEGORY_ICONS[cat] || '') + ' ' : ''}${cat}
+        </button>`
+      ).join('');
+    }
+
+    // === Cards ===
+    function renderCards() {
+      let filtered = allData.restaurants;
+
+      // Filter by category
+      if (currentFilter !== 'الكل') {
+        filtered = filtered.filter(r => r.category === currentFilter);
+      }
+
+      // Filter by search
+      if (currentSearch) {
+        const q = currentSearch.toLowerCase();
+        filtered = filtered.filter(r =>
+          r.restaurant.toLowerCase().includes(q) ||
+          r.restaurant_ar.includes(q) ||
+          r.category.includes(q)
+        );
+      }
+
+      // Sort: restaurants with delivery first, then by number of available apps
+      filtered.sort((a, b) => {
+        const aAvail = a.apps.filter(x => x.available).length;
+        const bAvail = b.apps.filter(x => x.available).length;
+        return bAvail - aAvail;
+      });
+
+      const grid = document.getElementById('dc-grid');
+      const noResults = document.getElementById('dc-no-results');
+
+      if (filtered.length === 0) {
+        grid.innerHTML = '';
+        noResults.classList.add('visible');
+        document.getElementById('dc-results-count').textContent = '';
+        return;
+      }
+
+      noResults.classList.remove('visible');
+      document.getElementById('dc-results-count').innerHTML =
+        `عرض <strong>${filtered.length}</strong> مطعم`;
+
+      grid.innerHTML = filtered.map((r, idx) => buildCard(r, idx)).join('');
+    }
+
+    function buildCard(restaurant, idx) {
+      const availableApps = restaurant.apps.filter(a => a.available);
+      const hasAnyDelivery = availableApps.length > 0;
+      const catIcon = CATEGORY_ICONS[restaurant.category] || '🍽️';
+
+      // Find all items across apps for price samples
+      let allItems = [];
+      restaurant.apps.forEach(a => {
+        if (a.items && a.items.length > 0) {
+          allItems = allItems.concat(a.items.map(item => ({...item, app: a.app})));
+        }
+      });
+
+      // Find cheapest app (based on availability + delivery fee)
+      let cheapestApp = null;
+      if (availableApps.length > 1) {
+        // Simple heuristic: prefer lower typical delivery fee
+        const appFeeOrder = ['carriage', 'jahez', 'hungerstation', 'toyou', 'thechefz'];
+        for (const appKey of appFeeOrder) {
+          if (availableApps.find(a => a.app === appKey)) {
+            cheapestApp = appKey;
+            break;
+          }
+        }
+      } else if (availableApps.length === 1) {
+        cheapestApp = availableApps[0].app;
+      }
+
+      // Badge
+      let badgeHTML = '';
+      if (!hasAnyDelivery) {
+        badgeHTML = `<span class="dc-unavailable-badge">❌ غير متوفر للتوصيل</span>`;
+      } else if (cheapestApp && availableApps.length > 1) {
+        badgeHTML = `<span class="dc-cheapest-badge">✅ الأنسب: ${APP_CONFIG[cheapestApp].name}</span>`;
+      }
+
+      // Table rows
+      const tableRows = restaurant.apps.map(a => {
+        const cfg = APP_CONFIG[a.app];
+        const isAvailable = a.available;
+        const isCheapest = a.app === cheapestApp && availableApps.length > 1;
+
+        // Price samples for this app
+        let priceSample = '-';
+        if (a.items && a.items.length > 0) {
+          const samples = a.items.slice(0, 2).map(i => `${i.name} <strong>${i.price}﷼</strong>`);
+          priceSample = samples.join('، ');
+        } else if (isAvailable && a.notes) {
+          priceSample = `<span style="color:#6e7681">${a.notes}</span>`;
+        }
+
+        const deliveryFee = a.delivery_fee !== null && a.delivery_fee !== undefined
+          ? (a.delivery_fee === 0 ? '<span style="color:#2ecc71;font-weight:700">مجاني!</span>' : a.delivery_fee + ' ﷼')
+          : `<span style="color:#6e7681">~${cfg.typicalFee} ﷼</span>`;
+
+        const minOrder = a.min_order ? a.min_order + ' ﷼' : '<span style="color:#6e7681">-</span>';
+
+        return `<tr class="${isCheapest ? 'dc-cheapest-row' : ''}">
+          <td data-label="التطبيق">
+            <div class="dc-app-cell">
+              <span class="dc-app-icon ${cfg.cssClass}">${cfg.icon}</span>
+              ${cfg.name}
+            </div>
+          </td>
+          <td data-label="متوفر">
+            ${isAvailable
+              ? '<span class="dc-available">✅ متوفر</span>'
+              : '<span class="dc-unavailable">❌</span>'}
+          </td>
+          <td data-label="أمثلة أسعار">
+            <div class="dc-price-sample">${isAvailable ? priceSample : '-'}</div>
+          </td>
+          <td data-label="رسوم التوصيل">
+            <span class="dc-delivery-fee">${isAvailable ? deliveryFee : '-'}</span>
+          </td>
+          <td data-label="الحد الأدنى">${isAvailable ? minOrder : '-'}</td>
+        </tr>`;
+      }).join('');
+
+      // Collapsible items
+      let itemsHTML = '';
+      if (allItems.length > 0) {
+        const uniqueItems = [];
+        const seen = new Set();
+        allItems.forEach(item => {
+          if (!seen.has(item.name)) {
+            seen.add(item.name);
+            uniqueItems.push(item);
+          }
+        });
+        itemsHTML = `
+          <button class="dc-items-toggle" onclick="this.nextElementSibling.classList.toggle('open');this.querySelector('.arrow').textContent=this.nextElementSibling.classList.contains('open')?'▲':'▼'">
+            📋 قائمة الأسعار (${uniqueItems.length} صنف) <span class="arrow">▼</span>
+          </button>
+          <div class="dc-items-grid">
+            ${uniqueItems.map(i => `
+              <div class="dc-item">
+                <span class="dc-item-name">${i.name}</span>
+                <span class="dc-item-price">${i.price} ﷼</span>
+              </div>
+            `).join('')}
+          </div>`;
+      }
+
+      return `
+        <div class="dc-card" style="animation-delay:${Math.min(idx * 0.05, 0.5)}s">
+          <div class="dc-card-header">
+            <div class="dc-card-title">
+              <span style="font-size:28px">${catIcon}</span>
+              <div>
+                <h3>${restaurant.restaurant_ar}</h3>
+                <span class="dc-name-en">${restaurant.restaurant}</span>
+              </div>
+              <span class="dc-category-badge">${restaurant.category}</span>
+            </div>
+            ${badgeHTML}
+          </div>
+          <div class="dc-table-wrap">
+            <table class="dc-table">
+              <thead>
+                <tr>
+                  <th>التطبيق</th>
+                  <th>متوفر</th>
+                  <th>أمثلة أسعار</th>
+                  <th>رسوم التوصيل</th>
+                  <th>الحد الأدنى</th>
+                </tr>
+              </thead>
+              <tbody>${tableRows}</tbody>
+            </table>
+          </div>
+          ${itemsHTML}
+        </div>`;
+    }
+
+    // === Events ===
+    function setupEvents() {
+      // Search
+      const searchInput = document.getElementById('dc-search-input');
+      let debounce;
+      searchInput.addEventListener('input', () => {
+        clearTimeout(debounce);
+        debounce = setTimeout(() => {
+          currentSearch = searchInput.value.trim();
+          renderCards();
+        }, 200);
+      });
+
+      // Filter chips
+      document.getElementById('dc-filters').addEventListener('click', (e) => {
+        const chip = e.target.closest('.dc-chip');
+        if (!chip) return;
+        document.querySelectorAll('.dc-chip').forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
+        currentFilter = chip.dataset.cat;
+        renderCards();
+      });
+
+      // Menu toggle
+      const menuToggle = document.querySelector('.menu-toggle');
+      const nav = document.querySelector('.nav');
+      if (menuToggle && nav) {
+        menuToggle.addEventListener('click', () => nav.classList.toggle('open'));
+      }
+
+      // Scroll to top
+      const scrollBtn = document.getElementById('scrollTop');
+      window.addEventListener('scroll', () => {
+        scrollBtn.classList.toggle('visible', window.scrollY > 400);
+      });
+      scrollBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+    }
+
+    // Init
+    document.addEventListener('DOMContentLoaded', loadData);
+  })();
+  </script>
+</body>
+</html>

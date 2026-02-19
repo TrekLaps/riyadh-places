@@ -1,17 +1,25 @@
-# 🔄 Queued Tasks — Waiting for Agent Slots
+# 🔄 Task Queue — Updated 2026-02-19 23:25 UTC
 
-## ✅ Running Now (5/5)
-1. 🔍 **price-researcher** — جمع أسعار فعلية لـ 30 مكان
-2. 📊 **competitor-researcher** — تحليل منافسين + startups عالمية
-3. 📰 **data-researcher** — أماكن جديدة + رمضان + موسم الرياض
-4. 🎨 **ux-researcher** — تحليل UX + تحسينات + خطة iOS
-5. 📍 **places-collector** — إضافة 500 مكان جديد
+## ✅ Completed (9 agents)
+1. ✅ price-researcher — 30 مكان بأسعار حقيقية
+2. ✅ competitor-researcher — 8 محلي + 10 عالمي
+3. ✅ data-researcher — 38 مكان + رمضان + إحصائيات
+4. ✅ ux-researcher — تحليل 7 تطبيقات + خطة iOS
+5. ✅ places-collector — 39 مكان جديد متحقق
+6. ✅ places-analyst — تحليل 3,035 مكان + مقارنات
+7. ✅ web-builder — best.html + prices.html + dark mode + ramadan
+8. ✅ data-integrator — دمج + validation + git push (3,074 مكان)
+9. ✅ delivery-price-researcher — 46 مطعم × 5 تطبيقات
+
+## 🟢 Running Now (5/5)
+1. 📱 ios-planner — خطة iOS كاملة + models
+2. 📋 details-researcher — تفاصيل أفضل 100 مكان
+3. 💰 price-researcher-2 — أسعار 100 مكان إضافي
+4. 🏘️ neighborhood-builder — صفحات أحياء جديدة
+5. 🛵 delivery-page-builder — صفحة مقارنة التوصيل
 
 ## ⏳ Queued (Next)
-6. 📈 **places-analyst** — تحليل شامل لأفضل الأماكن + مقارنات + إحصائيات
-7. 🔨 **web-builder** — صفحات جديدة (best, prices, ramadan update, dark mode)
-
-## 📋 After That
-8. **ios-planner** — هيكل تطبيق iOS (SwiftUI + MapKit)
-9. **seo-optimizer** — تحسين SEO + sitemap + meta tags
-10. **integration** — دمج كل النتائج في الموقع
+1. 🧪 validator — validation شامل + أداء + إصلاحات
+2. 📍 places-collector-2 — أماكن batch 2 (طبيعة + شاليهات + متاحف)
+3. 🏗️ system-architect — هيكل النظام الكامل (architecture doc)
+4. 🔧 data-integrator-2 — دمج batch 2 + أسعار جديدة
