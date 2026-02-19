@@ -87167,5 +87167,98 @@
       "شباب"
     ],
     "michelin": "Selected 2026"
+  },
+  {
+    "id": "attache-dq",
+    "name_ar": "أتاشيه",
+    "name_en": "attaché",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "الحي الدبلوماسي",
+    "neighborhood_en": "Diplomatic Quarter",
+    "description_ar": "مطعم عصري بالحي الدبلوماسي يقدم مأكولات متنوعة مع عروض رمضان ولايف ميوزك. إفطار مميز بـ125 ريال",
+    "google_rating": 4.4,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "DestinationKSA Ramadan 2026",
+      "Instagram @attache.dq"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=attache+restaurant+Diplomatic+Quarter+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "عشاء",
+      "رمضان"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "12-cups-kafd",
+    "name_ar": "12 كبس",
+    "name_en": "12 Cups",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "كافيه قهوة مختصة في كافد. حبوب محمصة خاصة مع شو بيستري بالكراميل ودونات بالزعتر والشوكولاتة",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh KAFD Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=12+Cups+KAFD+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "قهوة مختصة"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
+  },
+  {
+    "id": "cafe-tale-kafd",
+    "name_ar": "كافيه تيل",
+    "name_en": "Café Tale",
+    "category": "كافيه",
+    "category_ar": "كافيه",
+    "category_en": "cafe",
+    "neighborhood": "كافد",
+    "neighborhood_en": "KAFD",
+    "description_ar": "كافيه في كافد يقدم أمريكانو وبيري موهيتو وحلويات مثل راسبيري تشيزكيك وكيكة التمر والليمون",
+    "google_rating": 4.2,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TimeOut Riyadh KAFD Guide"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Cafe+Tale+KAFD+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [
+      "قهوة",
+      "حلويات"
+    ],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
   }
 ]
