@@ -1,0 +1,6160 @@
+{
+  "summary": {
+    "total_places": 3035,
+    "total_categories": 11,
+    "total_neighborhoods": 360,
+    "avg_rating": 4.27,
+    "new_places": 1659,
+    "free_places": 69
+  },
+  "categories": {
+    "كافيه": {
+      "count": 588,
+      "top_rating": [
+        {
+          "name_ar": "بول",
+          "name_en": "PAUL Riyadh Park",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "بيتس كوفي",
+          "name_en": "Peets Coffee Riyadh Park",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "سو ماتشا",
+          "name_en": "So Matcha",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "حي الندى"
+        },
+        {
+          "name_ar": "ناك",
+          "name_en": "NAC",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "ليسن فالي"
+        },
+        {
+          "name_ar": "موتيف كافيه - الرياض بارك",
+          "name_en": "Motive Cafe Riyadh Park",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "قهوة بوح",
+          "name_en": "Qahwat Bouh",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "حي العقيق"
+        },
+        {
+          "name_ar": "موش كافيه",
+          "name_en": "Moosh Cafe",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي الياسمين"
+        },
+        {
+          "name_ar": "اي بليس بيكهاوس",
+          "name_en": "A Place Bakehouse",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "اير سبشلتي كوفي",
+          "name_en": "Air Specialty Coffee",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي الورود"
+        },
+        {
+          "name_ar": "وجار كافيه",
+          "name_en": "Wijar Cafe",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "الدرعية"
+        }
+      ],
+      "top_value": [
+        {
+          "name_ar": "قهوة بوح",
+          "name_en": "Qahwat Bouh",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "حي العقيق",
+          "value_score": 4.5
+        },
+        {
+          "name_ar": "قهوة كندة",
+          "name_en": "Kindah Coffee",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "حي الرمال",
+          "value_score": 4.5
+        },
+        {
+          "name_ar": "المذاق المغربي",
+          "name_en": "Moroccan Taste Cafe",
+          "rating": 4.3,
+          "price": "$",
+          "neighborhood": "حي الياسمين",
+          "value_score": 4.3
+        },
+        {
+          "name_ar": "كافيه المجلس للقهوة العربية",
+          "name_en": "Al Majlis Arabic Coffee Cafe",
+          "rating": 4.3,
+          "price": "$",
+          "neighborhood": "حي الصحافة",
+          "value_score": 4.3
+        },
+        {
+          "name_ar": "صادق كافيه",
+          "name_en": "Sadiq Cafe",
+          "rating": 4.3,
+          "price": "$",
+          "neighborhood": "الشفا - جنوب الرياض",
+          "value_score": 4.3
+        },
+        {
+          "name_ar": "شاي وسمسم",
+          "name_en": "Tea and Sesame",
+          "rating": 4.3,
+          "price": "$",
+          "neighborhood": "حي الوادي",
+          "value_score": 4.3
+        },
+        {
+          "name_ar": "قهوة الأولين",
+          "name_en": "Qahwat Al Awwaleen",
+          "rating": 4.3,
+          "price": "$",
+          "neighborhood": "الرياض",
+          "value_score": 4.3
+        },
+        {
+          "name_ar": "المختار كافيه",
+          "name_en": "Al Mukhtar Cafe",
+          "rating": 4.2,
+          "price": "$",
+          "neighborhood": "حي العزيزية",
+          "value_score": 4.2
+        },
+        {
+          "name_ar": "أهلاً كافيه",
+          "name_en": "Ahlan Cafe",
+          "rating": 4.2,
+          "price": "$",
+          "neighborhood": "حي الملقا",
+          "value_score": 4.2
+        },
+        {
+          "name_ar": "قهوة نحاسية",
+          "name_en": "Nahasiya Coffee",
+          "rating": 4.2,
+          "price": "$",
+          "neighborhood": "جنوب الرياض",
+          "value_score": 4.2
+        }
+      ],
+      "top_family": [
+        {
+          "name_ar": "بول",
+          "name_en": "PAUL Riyadh Park",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "بيتس كوفي",
+          "name_en": "Peets Coffee Riyadh Park",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "سو ماتشا",
+          "name_en": "So Matcha",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "حي الندى"
+        },
+        {
+          "name_ar": "ناك",
+          "name_en": "NAC",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "ليسن فالي"
+        },
+        {
+          "name_ar": "موتيف كافيه - الرياض بارك",
+          "name_en": "Motive Cafe Riyadh Park",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "قهوة بوح",
+          "name_en": "Qahwat Bouh",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "حي العقيق"
+        },
+        {
+          "name_ar": "موش كافيه",
+          "name_en": "Moosh Cafe",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي الياسمين"
+        },
+        {
+          "name_ar": "اي بليس بيكهاوس",
+          "name_en": "A Place Bakehouse",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "اير سبشلتي كوفي",
+          "name_en": "Air Specialty Coffee",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي الورود"
+        },
+        {
+          "name_ar": "وجار كافيه",
+          "name_en": "Wijar Cafe",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "الدرعية"
+        }
+      ],
+      "top_new": [
+        {
+          "name_ar": "بول",
+          "name_en": "PAUL Riyadh Park",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "بيتس كوفي",
+          "name_en": "Peets Coffee Riyadh Park",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "ناك",
+          "name_en": "NAC",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "ليسن فالي"
+        },
+        {
+          "name_ar": "موتيف كافيه - الرياض بارك",
+          "name_en": "Motive Cafe Riyadh Park",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "قهوة بوح",
+          "name_en": "Qahwat Bouh",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "حي العقيق"
+        },
+        {
+          "name_ar": "موش كافيه",
+          "name_en": "Moosh Cafe",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي الياسمين"
+        },
+        {
+          "name_ar": "اي بليس بيكهاوس",
+          "name_en": "A Place Bakehouse",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "اير سبشلتي كوفي",
+          "name_en": "Air Specialty Coffee",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي الورود"
+        },
+        {
+          "name_ar": "وجار كافيه",
+          "name_en": "Wijar Cafe",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "لو جورنال بي كي",
+          "name_en": "Le Journal BK",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "حي النرجس"
+        }
+      ]
+    },
+    "شاليه": {
+      "count": 124,
+      "top_rating": [
+        {
+          "name_ar": "منتجعات قوت",
+          "name_en": "Goot Resorts",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "حي المونسية"
+        },
+        {
+          "name_ar": "منتجع توباز العمارية",
+          "name_en": "Topaz Resort Al Ammariyah",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "العمارية"
+        },
+        {
+          "name_ar": "قلامبينغ الصحراء الرياض",
+          "name_en": "Desert Glamping Riyadh",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "خارج الرياض"
+        },
+        {
+          "name_ar": "ديزرت ستار قلامبينغ",
+          "name_en": "Desert Star Glamping",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "خارج الرياض"
+        },
+        {
+          "name_ar": "شاليهات قولدن هوست",
+          "name_en": "Golden Host Chalets",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "شمال الرياض"
+        },
+        {
+          "name_ar": "شاليهات ذا ريزورت",
+          "name_en": "The Resort Chalets",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "شمال الرياض"
+        },
+        {
+          "name_ar": "شاليهات أوتيل",
+          "name_en": "Otel Chalets",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "شمال الرياض"
+        },
+        {
+          "name_ar": "شاليهات ميراكي",
+          "name_en": "Meraki Chalets",
+          "rating": 4.4,
+          "price": "$$$",
+          "neighborhood": "حي النرجس"
+        },
+        {
+          "name_ar": "شاليهات لينورا",
+          "name_en": "Lenora Chalets",
+          "rating": 4.4,
+          "price": "$$$",
+          "neighborhood": "حي القيروان"
+        },
+        {
+          "name_ar": "منتجع نوفا للحياة البرية",
+          "name_en": "Nofa Wildlife Park & Resort",
+          "rating": 4.4,
+          "price": "$$$",
+          "neighborhood": "جنوب الرياض"
+        }
+      ],
+      "top_value": [
+        {
+          "name_ar": "مخيمات الرمال الحمراء",
+          "name_en": "Red Sands Camping Experience",
+          "rating": 4.4,
+          "price": "$",
+          "neighborhood": "نفود الخرارة",
+          "value_score": 4.4
+        },
+        {
+          "name_ar": "تخييم بري الثمامة",
+          "name_en": "Al Thumamah Wild Camping Experience",
+          "rating": 4.3,
+          "price": "$",
+          "neighborhood": "الثمامة",
+          "value_score": 4.3
+        },
+        {
+          "name_ar": "مخيم روضة خريم",
+          "name_en": "Rawdhat Khoraim Camp",
+          "rating": 4.2,
+          "price": "$",
+          "neighborhood": "شمال شرق الرياض",
+          "value_score": 4.2
+        },
+        {
+          "name_ar": "مخيم وادي حنيفة",
+          "name_en": "Wadi Hanifah Campsite",
+          "rating": 4.2,
+          "price": "$",
+          "neighborhood": "وادي حنيفة",
+          "value_score": 4.2
+        },
+        {
+          "name_ar": "استراحات يومية جنوب الرياض",
+          "name_en": "South Riyadh Daily Rest",
+          "rating": 4.1,
+          "price": "$",
+          "neighborhood": "جنوب الرياض",
+          "value_score": 4.1
+        },
+        {
+          "name_ar": "مخيم حافة العالم",
+          "name_en": "Edge of the World Camp",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "شمال غرب الرياض",
+          "value_score": 2.2
+        },
+        {
+          "name_ar": "مزرعة واحة الرياض",
+          "name_en": "Riyadh Oasis Farm Stay",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "خارج الرياض",
+          "value_score": 2.2
+        },
+        {
+          "name_ar": "شاليهات كاندل لايت",
+          "name_en": "Candle Light Chalets",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "شمال الرياض",
+          "value_score": 2.2
+        },
+        {
+          "name_ar": "مخيم ستارلايت الصحراوي",
+          "name_en": "Starlight Desert Camp",
+          "rating": 4.3,
+          "price": "$$",
+          "neighborhood": "ضواحي الرياض",
+          "value_score": 2.15
+        },
+        {
+          "name_ar": "شاليهات أتلانتس الثمامة",
+          "name_en": "Atlantis Chalets Al Thumama",
+          "rating": 4.3,
+          "price": "$$",
+          "neighborhood": "الثمامة",
+          "value_score": 2.15
+        }
+      ],
+      "top_family": [
+        {
+          "name_ar": "منتجعات قوت",
+          "name_en": "Goot Resorts",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "حي المونسية"
+        },
+        {
+          "name_ar": "منتجع توباز العمارية",
+          "name_en": "Topaz Resort Al Ammariyah",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "العمارية"
+        },
+        {
+          "name_ar": "قلامبينغ الصحراء الرياض",
+          "name_en": "Desert Glamping Riyadh",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "خارج الرياض"
+        },
+        {
+          "name_ar": "ديزرت ستار قلامبينغ",
+          "name_en": "Desert Star Glamping",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "خارج الرياض"
+        },
+        {
+          "name_ar": "شاليهات قولدن هوست",
+          "name_en": "Golden Host Chalets",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "شمال الرياض"
+        },
+        {
+          "name_ar": "شاليهات ذا ريزورت",
+          "name_en": "The Resort Chalets",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "شمال الرياض"
+        },
+        {
+          "name_ar": "شاليهات أوتيل",
+          "name_en": "Otel Chalets",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "شمال الرياض"
+        },
+        {
+          "name_ar": "شاليهات ميراكي",
+          "name_en": "Meraki Chalets",
+          "rating": 4.4,
+          "price": "$$$",
+          "neighborhood": "حي النرجس"
+        },
+        {
+          "name_ar": "شاليهات لينورا",
+          "name_en": "Lenora Chalets",
+          "rating": 4.4,
+          "price": "$$$",
+          "neighborhood": "حي القيروان"
+        },
+        {
+          "name_ar": "منتجع نوفا للحياة البرية",
+          "name_en": "Nofa Wildlife Park & Resort",
+          "rating": 4.4,
+          "price": "$$$",
+          "neighborhood": "جنوب الرياض"
+        }
+      ],
+      "top_new": [
+        {
+          "name_ar": "منتجع توباز العمارية",
+          "name_en": "Topaz Resort Al Ammariyah",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "العمارية"
+        },
+        {
+          "name_ar": "قلامبينغ الصحراء الرياض",
+          "name_en": "Desert Glamping Riyadh",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "خارج الرياض"
+        },
+        {
+          "name_ar": "ديزرت ستار قلامبينغ",
+          "name_en": "Desert Star Glamping",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "خارج الرياض"
+        },
+        {
+          "name_ar": "شاليهات قولدن هوست",
+          "name_en": "Golden Host Chalets",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "شمال الرياض"
+        },
+        {
+          "name_ar": "شاليهات ذا ريزورت",
+          "name_en": "The Resort Chalets",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "شمال الرياض"
+        },
+        {
+          "name_ar": "شاليهات أوتيل",
+          "name_en": "Otel Chalets",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "شمال الرياض"
+        },
+        {
+          "name_ar": "منتجع تلال العمارية",
+          "name_en": "Al Ammariyah Hills Resort",
+          "rating": 4.4,
+          "price": "$$$",
+          "neighborhood": "العمارية"
+        },
+        {
+          "name_ar": "منتجع بانوراما العمارية",
+          "name_en": "Al Ammariyah Panorama Resort",
+          "rating": 4.4,
+          "price": "$$$",
+          "neighborhood": "العمارية"
+        },
+        {
+          "name_ar": "شاليهات ابانت الرياض",
+          "name_en": "Abant Chalets Riyadh Extension",
+          "rating": 4.4,
+          "price": "$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "مزرعة واحة الرياض",
+          "name_en": "Riyadh Oasis Farm Stay",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "خارج الرياض"
+        }
+      ]
+    },
+    "حلويات": {
+      "count": 284,
+      "top_rating": [
+        {
+          "name_ar": "بيير إيرميه باريس",
+          "name_en": "Pierre Herme Paris",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "بتيل",
+          "name_en": "Bateel Dates & Cafe",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "بتيل للتمور",
+          "name_en": "Bateel Dates",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "كافيه بتيل حلويات",
+          "name_en": "Cafe Bateel Desserts",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "فروع متعددة"
+        },
+        {
+          "name_ar": "لادراخ شوكولاتة سويسرية",
+          "name_en": "Laderach Swiss Chocolate",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "بيير هيرميه الرياض",
+          "name_en": "Pierre Herme Riyadh",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "مويشي",
+          "name_en": "Moishi",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "النخيل مول"
+        },
+        {
+          "name_ar": "لادوريه الرياض",
+          "name_en": "Ladurée Riyadh",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "النخيل مول"
+        },
+        {
+          "name_ar": "لوريه باريس",
+          "name_en": "Lorée Paris",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "حلويات اللازينة",
+          "name_en": "Ellazena Sweets",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي الحمراء"
+        }
+      ],
+      "top_value": [
+        {
+          "name_ar": "بوظة عربية",
+          "name_en": "Boutha Arabiya",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "السليمانية",
+          "value_score": 4.5
+        },
+        {
+          "name_ar": "بسبوستي اللذيذة",
+          "name_en": "Basbusti Al Ladhidha",
+          "rating": 4.4,
+          "price": "$",
+          "neighborhood": "حي الرياض",
+          "value_score": 4.4
+        },
+        {
+          "name_ar": "فروتيلا للعصائر",
+          "name_en": "Frutella Juices",
+          "rating": 4.4,
+          "price": "$",
+          "neighborhood": "حي السليمانية",
+          "value_score": 4.4
+        },
+        {
+          "name_ar": "أبو شاكر للعصائر",
+          "name_en": "Abo Shaker Juice",
+          "rating": 4.4,
+          "price": "$",
+          "neighborhood": "حي السليمانية",
+          "value_score": 4.4
+        },
+        {
+          "name_ar": "عصائر مز",
+          "name_en": "Mzz Juice",
+          "rating": 4.4,
+          "price": "$",
+          "neighborhood": "حي الصحافة",
+          "value_score": 4.4
+        },
+        {
+          "name_ar": "فخر الكيف للقهوة العربية",
+          "name_en": "Fakhr Al Kaif Arabic Coffee",
+          "rating": 4.4,
+          "price": "$",
+          "neighborhood": "حي المونسية",
+          "value_score": 4.4
+        },
+        {
+          "name_ar": "بيفاين",
+          "name_en": "Befine",
+          "rating": 4.4,
+          "price": "$",
+          "neighborhood": "حي الصحافة",
+          "value_score": 4.4
+        },
+        {
+          "name_ar": "دونات البندق",
+          "name_en": "Donut Al Bunduq",
+          "rating": 4.3,
+          "price": "$",
+          "neighborhood": "أسواق السدحان - حي الورود",
+          "value_score": 4.3
+        },
+        {
+          "name_ar": "سنابل السلام",
+          "name_en": "Sanabel Al Salam",
+          "rating": 4.3,
+          "price": "$",
+          "neighborhood": "حي العقيق",
+          "value_score": 4.3
+        },
+        {
+          "name_ar": "حلويات مشهود",
+          "name_en": "Mashhoud Sweets",
+          "rating": 4.3,
+          "price": "$",
+          "neighborhood": "حي الغافقي",
+          "value_score": 4.3
+        }
+      ],
+      "top_family": [
+        {
+          "name_ar": "بيير إيرميه باريس",
+          "name_en": "Pierre Herme Paris",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "بتيل",
+          "name_en": "Bateel Dates & Cafe",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "بتيل للتمور",
+          "name_en": "Bateel Dates",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "كافيه بتيل حلويات",
+          "name_en": "Cafe Bateel Desserts",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "فروع متعددة"
+        },
+        {
+          "name_ar": "لادراخ شوكولاتة سويسرية",
+          "name_en": "Laderach Swiss Chocolate",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "بيير هيرميه الرياض",
+          "name_en": "Pierre Herme Riyadh",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "مويشي",
+          "name_en": "Moishi",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "النخيل مول"
+        },
+        {
+          "name_ar": "لادوريه الرياض",
+          "name_en": "Ladurée Riyadh",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "النخيل مول"
+        },
+        {
+          "name_ar": "لوريه باريس",
+          "name_en": "Lorée Paris",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "حلويات اللازينة",
+          "name_en": "Ellazena Sweets",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي الحمراء"
+        }
+      ],
+      "top_new": [
+        {
+          "name_ar": "بيير إيرميه باريس",
+          "name_en": "Pierre Herme Paris",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "بتيل للتمور",
+          "name_en": "Bateel Dates",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "كافيه بتيل حلويات",
+          "name_en": "Cafe Bateel Desserts",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "فروع متعددة"
+        },
+        {
+          "name_ar": "لادراخ شوكولاتة سويسرية",
+          "name_en": "Laderach Swiss Chocolate",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "بيير هيرميه الرياض",
+          "name_en": "Pierre Herme Riyadh",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "مويشي",
+          "name_en": "Moishi",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "النخيل مول"
+        },
+        {
+          "name_ar": "لادوريه الرياض",
+          "name_en": "Ladurée Riyadh",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "النخيل مول"
+        },
+        {
+          "name_ar": "لوريه باريس",
+          "name_en": "Lorée Paris",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "حلويات اللازينة",
+          "name_en": "Ellazena Sweets",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي الحمراء"
+        },
+        {
+          "name_ar": "باتشي",
+          "name_en": "Patchi",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "حي العليا"
+        }
+      ]
+    },
+    "ترفيه": {
+      "count": 420,
+      "top_rating": [
+        {
+          "name_ar": "فورميه ولنس",
+          "name_en": "Formé Wellness",
+          "rating": 4.8,
+          "price": "$$$",
+          "neighborhood": "حي الربيع"
+        },
+        {
+          "name_ar": "ذا سبا ماندارين أورينتال",
+          "name_en": "The Spa at Mandarin Oriental",
+          "rating": 4.8,
+          "price": "$$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "سبا الليديز ماندارين أورينتال",
+          "name_en": "The Ladies Spa Mandarin Oriental",
+          "rating": 4.8,
+          "price": "$$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "حافة العالم",
+          "name_en": "Edge of the World",
+          "rating": 4.7,
+          "price": "$",
+          "neighborhood": "شمال غرب الرياض"
+        },
+        {
+          "name_ar": "ريلايف ستوديو",
+          "name_en": "Relive Studio",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "حي العقيق"
+        },
+        {
+          "name_ar": "ذا يوغا هاوس",
+          "name_en": "The Yoga House",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "حي الياسمين"
+        },
+        {
+          "name_ar": "ستانس بيلاتس",
+          "name_en": "Stance Pilates",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "فلكس بيلاتس ستوديو",
+          "name_en": "Flex Pilates Studio",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "حي غرناطة"
+        },
+        {
+          "name_ar": "بيا ستوديو",
+          "name_en": "Pia Studio",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "حي القيروان"
+        },
+        {
+          "name_ar": "سكون سبا حياة ريجنسي",
+          "name_en": "Sokoun Spa Hyatt Regency",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "حي العليا"
+        }
+      ],
+      "top_value": [
+        {
+          "name_ar": "وادي حنيفة",
+          "name_en": "Wadi Hanifah",
+          "rating": 4.5,
+          "price": "مجاني",
+          "neighborhood": "غرب الرياض",
+          "value_score": 9.0
+        },
+        {
+          "name_ar": "قلعة المصمك",
+          "name_en": "Al Masmak Fortress",
+          "rating": 4.5,
+          "price": "مجاني",
+          "neighborhood": "حي الديرة",
+          "value_score": 9.0
+        },
+        {
+          "name_ar": "حديقة الملك فهد",
+          "name_en": "King Fahd Park",
+          "rating": 4.4,
+          "price": "مجاني",
+          "neighborhood": "حي العليا",
+          "value_score": 8.8
+        },
+        {
+          "name_ar": "وادي نمار",
+          "name_en": "Wadi Namar",
+          "rating": 4.4,
+          "price": "مجاني",
+          "neighborhood": "جنوب الرياض",
+          "value_score": 8.8
+        },
+        {
+          "name_ar": "بوليفارد الرياضة",
+          "name_en": "Spa & Sports Boulevard",
+          "rating": 4.4,
+          "price": "مجاني",
+          "neighborhood": "حي حطين",
+          "value_score": 8.8
+        },
+        {
+          "name_ar": "منتزه سلام",
+          "name_en": "Salam Park",
+          "rating": 4.3,
+          "price": "مجاني",
+          "neighborhood": "حي السلام",
+          "value_score": 8.6
+        },
+        {
+          "name_ar": "فن الرياض",
+          "name_en": "Riyadh Art",
+          "rating": 4.3,
+          "price": "مجاني",
+          "neighborhood": "أحياء متعددة",
+          "value_score": 8.6
+        },
+        {
+          "name_ar": "ممشى فن الرياض",
+          "name_en": "Riyadh Art Walk",
+          "rating": 4.3,
+          "price": "مجاني",
+          "neighborhood": "حي العليا",
+          "value_score": 8.6
+        },
+        {
+          "name_ar": "حديقة الوطن",
+          "name_en": "Al Watan Park",
+          "rating": 4.2,
+          "price": "مجاني",
+          "neighborhood": "حي الملز",
+          "value_score": 8.4
+        },
+        {
+          "name_ar": "حافة العالم",
+          "name_en": "Edge of the World",
+          "rating": 4.7,
+          "price": "$",
+          "neighborhood": "شمال غرب الرياض",
+          "value_score": 4.7
+        }
+      ],
+      "top_family": [
+        {
+          "name_ar": "سبا الليديز ماندارين أورينتال",
+          "name_en": "The Ladies Spa Mandarin Oriental",
+          "rating": 4.8,
+          "price": "$$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "حافة العالم",
+          "name_en": "Edge of the World",
+          "rating": 4.7,
+          "price": "$",
+          "neighborhood": "شمال غرب الرياض"
+        },
+        {
+          "name_ar": "سبا فيرمونت الرياض",
+          "name_en": "Fairmont Riyadh Spa",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "أكوارابيا القدية",
+          "name_en": "Aquarabia Qiddiya",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "القدية"
+        },
+        {
+          "name_ar": "بيست لاند",
+          "name_en": "Beast Land",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "جسر المشاهدة - برج المملكة",
+          "name_en": "Sky Bridge Kingdom Tower",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "فندق الهروب",
+          "name_en": "The Escape Hotel",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "حي الملقا"
+        },
+        {
+          "name_ar": "ڤوكس سينما ڤيا رياض",
+          "name_en": "VOX Cinema VIA Riyadh",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "8 بول سنوكر",
+          "name_en": "8 Ball Pool and Snooker",
+          "rating": 4.6,
+          "price": "$",
+          "neighborhood": "حي الملز"
+        },
+        {
+          "name_ar": "جولات الرياض للهايكنق",
+          "name_en": "Riyadh Hiking Tours",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "ضواحي الرياض"
+        }
+      ],
+      "top_new": [
+        {
+          "name_ar": "فورميه ولنس",
+          "name_en": "Formé Wellness",
+          "rating": 4.8,
+          "price": "$$$",
+          "neighborhood": "حي الربيع"
+        },
+        {
+          "name_ar": "ذا سبا ماندارين أورينتال",
+          "name_en": "The Spa at Mandarin Oriental",
+          "rating": 4.8,
+          "price": "$$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "سبا الليديز ماندارين أورينتال",
+          "name_en": "The Ladies Spa Mandarin Oriental",
+          "rating": 4.8,
+          "price": "$$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "حافة العالم",
+          "name_en": "Edge of the World",
+          "rating": 4.7,
+          "price": "$",
+          "neighborhood": "شمال غرب الرياض"
+        },
+        {
+          "name_ar": "ريلايف ستوديو",
+          "name_en": "Relive Studio",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "حي العقيق"
+        },
+        {
+          "name_ar": "ذا يوغا هاوس",
+          "name_en": "The Yoga House",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "حي الياسمين"
+        },
+        {
+          "name_ar": "ستانس بيلاتس",
+          "name_en": "Stance Pilates",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "فلكس بيلاتس ستوديو",
+          "name_en": "Flex Pilates Studio",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "حي غرناطة"
+        },
+        {
+          "name_ar": "بيا ستوديو",
+          "name_en": "Pia Studio",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "حي القيروان"
+        },
+        {
+          "name_ar": "سكون سبا حياة ريجنسي",
+          "name_en": "Sokoun Spa Hyatt Regency",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "حي العليا"
+        }
+      ]
+    },
+    "فعاليات": {
+      "count": 101,
+      "top_rating": [
+        {
+          "name_ar": "احتفالات يوم التأسيس 2026",
+          "name_en": "Saudi Founding Day Celebrations 2026",
+          "rating": 4.7,
+          "price": "free",
+          "neighborhood": "متعدد المواقع"
+        },
+        {
+          "name_ar": "كأس السعودية 2026",
+          "name_en": "The Saudi Cup 2026",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "ميدان الملك عبدالعزيز"
+        },
+        {
+          "name_ar": "مهرجان نور الرياض",
+          "name_en": "Noor Riyadh Festival",
+          "rating": 4.7,
+          "price": "$",
+          "neighborhood": "مناطق متعددة"
+        },
+        {
+          "name_ar": "ديزرت اكس العلا",
+          "name_en": "Desert X AlUla",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "العلا"
+        },
+        {
+          "name_ar": "كأس السعودية لسباق الخيل",
+          "name_en": "Saudi Cup Horse Racing",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "ميدان الملك عبدالعزيز"
+        },
+        {
+          "name_ar": "ساوندستورم",
+          "name_en": "Soundstorm Festival",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "بنبان"
+        },
+        {
+          "name_ar": "حفل جوي أواردز 2026",
+          "name_en": "Joy Awards 2026",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "بوليفارد الرياض"
+        },
+        {
+          "name_ar": "ساوندستورم MDL Beast 2026",
+          "name_en": "MDL Beast Soundstorm 2026",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "بنبان"
+        },
+        {
+          "name_ar": "فعاليات ميدل بيست",
+          "name_en": "MDLBEAST Events Riyadh",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "حي الرياض"
+        },
+        {
+          "name_ar": "متحف الفن المعاصر السعودي",
+          "name_en": "SAMoCA Museum",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "حي جاكس"
+        }
+      ],
+      "top_value": [
+        {
+          "name_ar": "احتفالات يوم التأسيس 2026",
+          "name_en": "Saudi Founding Day Celebrations 2026",
+          "rating": 4.7,
+          "price": "free",
+          "neighborhood": "متعدد المواقع",
+          "value_score": 9.4
+        },
+        {
+          "name_ar": "احتفالات اليوم الوطني",
+          "name_en": "Saudi National Day Celebrations",
+          "rating": 4.5,
+          "price": "مجاني",
+          "neighborhood": "مناطق متعددة",
+          "value_score": 9.0
+        },
+        {
+          "name_ar": "فعاليات يوم التأسيس",
+          "name_en": "Founding Day Events",
+          "rating": 4.4,
+          "price": "مجاني",
+          "neighborhood": "مناطق متعددة",
+          "value_score": 8.8
+        },
+        {
+          "name_ar": "برنامج الرياض آرت",
+          "name_en": "Riyadh Art Program",
+          "rating": 4.3,
+          "price": "مجاني",
+          "neighborhood": "مناطق متعددة",
+          "value_score": 8.6
+        },
+        {
+          "name_ar": "مهرجان نور الرياض",
+          "name_en": "Noor Riyadh Festival",
+          "rating": 4.7,
+          "price": "$",
+          "neighborhood": "مناطق متعددة",
+          "value_score": 4.7
+        },
+        {
+          "name_ar": "معرض الرياض الدولي للكتاب 2026",
+          "name_en": "Riyadh International Book Fair 2026",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "جامعة الملك سعود",
+          "value_score": 4.5
+        },
+        {
+          "name_ar": "معرض طويق للنحت",
+          "name_en": "Tuwaiq Sculpture",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "مناطق متعددة",
+          "value_score": 4.5
+        },
+        {
+          "name_ar": "مهرجان الجنادرية الثقافي",
+          "name_en": "Janadriyah Cultural Festival",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "الجنادرية",
+          "value_score": 4.5
+        },
+        {
+          "name_ar": "معرض الرياض الدولي للكتاب",
+          "name_en": "Riyadh International Book Fair",
+          "rating": 4.4,
+          "price": "$",
+          "neighborhood": "جامعة الملك سعود",
+          "value_score": 4.4
+        },
+        {
+          "name_ar": "ماراثون الرياض 2026",
+          "name_en": "Riyadh Marathon 2026",
+          "rating": 4.3,
+          "price": "$",
+          "neighborhood": "وسط الرياض",
+          "value_score": 4.3
+        }
+      ],
+      "top_family": [
+        {
+          "name_ar": "احتفالات يوم التأسيس 2026",
+          "name_en": "Saudi Founding Day Celebrations 2026",
+          "rating": 4.7,
+          "price": "free",
+          "neighborhood": "متعدد المواقع"
+        },
+        {
+          "name_ar": "كأس السعودية 2026",
+          "name_en": "The Saudi Cup 2026",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "ميدان الملك عبدالعزيز"
+        },
+        {
+          "name_ar": "مهرجان نور الرياض",
+          "name_en": "Noor Riyadh Festival",
+          "rating": 4.7,
+          "price": "$",
+          "neighborhood": "مناطق متعددة"
+        },
+        {
+          "name_ar": "ديزرت اكس العلا",
+          "name_en": "Desert X AlUla",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "العلا"
+        },
+        {
+          "name_ar": "كأس السعودية لسباق الخيل",
+          "name_en": "Saudi Cup Horse Racing",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "ميدان الملك عبدالعزيز"
+        },
+        {
+          "name_ar": "ساوندستورم",
+          "name_en": "Soundstorm Festival",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "بنبان"
+        },
+        {
+          "name_ar": "حفل جوي أواردز 2026",
+          "name_en": "Joy Awards 2026",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "بوليفارد الرياض"
+        },
+        {
+          "name_ar": "ساوندستورم MDL Beast 2026",
+          "name_en": "MDL Beast Soundstorm 2026",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "بنبان"
+        },
+        {
+          "name_ar": "فعاليات ميدل بيست",
+          "name_en": "MDLBEAST Events Riyadh",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "حي الرياض"
+        },
+        {
+          "name_ar": "متحف الفن المعاصر السعودي",
+          "name_en": "SAMoCA Museum",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "حي جاكس"
+        }
+      ],
+      "top_new": [
+        {
+          "name_ar": "احتفالات يوم التأسيس 2026",
+          "name_en": "Saudi Founding Day Celebrations 2026",
+          "rating": 4.7,
+          "price": "free",
+          "neighborhood": "متعدد المواقع"
+        },
+        {
+          "name_ar": "مهرجان نور الرياض",
+          "name_en": "Noor Riyadh Festival",
+          "rating": 4.7,
+          "price": "$",
+          "neighborhood": "مناطق متعددة"
+        },
+        {
+          "name_ar": "ديزرت اكس العلا",
+          "name_en": "Desert X AlUla",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "العلا"
+        },
+        {
+          "name_ar": "كأس السعودية لسباق الخيل",
+          "name_en": "Saudi Cup Horse Racing",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "ميدان الملك عبدالعزيز"
+        },
+        {
+          "name_ar": "ساوندستورم",
+          "name_en": "Soundstorm Festival",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "بنبان"
+        },
+        {
+          "name_ar": "متحف الفن المعاصر السعودي",
+          "name_en": "SAMoCA Museum",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "حي جاكس"
+        },
+        {
+          "name_ar": "معرض أثر جاكس",
+          "name_en": "Athr Gallery JAX",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "حي جاكس"
+        },
+        {
+          "name_ar": "المعهد الملكي للفنون التقليدية",
+          "name_en": "Royal Institute of Traditional Arts",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "مدل بيست ساوندستورم",
+          "name_en": "MDLBeast Soundstorm",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "بوليفارد سيتي",
+          "name_en": "Boulevard City",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "بوليفارد الرياض"
+        }
+      ]
+    },
+    "فنادق": {
+      "count": 174,
+      "top_rating": [
+        {
+          "name_ar": "فندق أمان الرياض",
+          "name_en": "Aman Riyadh",
+          "rating": 4.9,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "فندق كابيلا الرياض",
+          "name_en": "Capella Riyadh",
+          "rating": 4.8,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "فندق ون آند أونلي الرياض",
+          "name_en": "One and Only Riyadh",
+          "rating": 4.8,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "ذا سانت ريجيس الرياض - ڤيا",
+          "name_en": "The St. Regis Riyadh (VIA)",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "باب سمحان لاكشري كوليكشن",
+          "name_en": "Bab Samhan Luxury Collection",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "رافلز الرياض",
+          "name_en": "Raffles Riyadh",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "فندق الدرعية",
+          "name_en": "Bab Samhan Diriyah Hotel",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "فندق سانت ريجيس الرياض الجديد",
+          "name_en": "St. Regis Riyadh New",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "ماندارين أورينتال الرياض",
+          "name_en": "Mandarin Oriental Riyadh",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "كافد"
+        },
+        {
+          "name_ar": "كيمبتون كافد الرياض",
+          "name_en": "Kimpton KAFD Riyadh",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "كافد"
+        }
+      ],
+      "top_value": [
+        {
+          "name_ar": "فندق كريستال أماكن",
+          "name_en": "Cristal Amaken Hotel",
+          "rating": 4.1,
+          "price": "$",
+          "neighborhood": "حي الرياض",
+          "value_score": 4.1
+        },
+        {
+          "name_ar": "فندق المطلق",
+          "name_en": "Al Mutlaq Hotel",
+          "rating": 4.1,
+          "price": "$",
+          "neighborhood": "حي الرياض",
+          "value_score": 4.1
+        },
+        {
+          "name_ar": "رست نايت النفل",
+          "name_en": "Rest Night Serviced Apartments Al Nafal",
+          "rating": 4.1,
+          "price": "$",
+          "neighborhood": "حي النفل",
+          "value_score": 4.1
+        },
+        {
+          "name_ar": "فندق دايموند جاردن",
+          "name_en": "Diamond Garden Hotel",
+          "rating": 4.0,
+          "price": "$",
+          "neighborhood": "قرب المطار",
+          "value_score": 4.0
+        },
+        {
+          "name_ar": "شقق نسيمة الفندقية الاقتصادية",
+          "name_en": "Nasima Serviced Apartments Economy",
+          "rating": 4.0,
+          "price": "$",
+          "neighborhood": "حي العقيق",
+          "value_score": 4.0
+        },
+        {
+          "name_ar": "فندق ميرا بزنس",
+          "name_en": "MIRA Business Hotel",
+          "rating": 4.0,
+          "price": "$",
+          "neighborhood": "حي الرياض",
+          "value_score": 4.0
+        },
+        {
+          "name_ar": "فندق دوسيت سويتس",
+          "name_en": "Duset Hotel Suites",
+          "rating": 4.0,
+          "price": "$",
+          "neighborhood": "حي الرياض",
+          "value_score": 4.0
+        },
+        {
+          "name_ar": "فندق مينا النصرية",
+          "name_en": "Mena Hotel Nasiriah",
+          "rating": 4.0,
+          "price": "$",
+          "neighborhood": "حي النصرية",
+          "value_score": 4.0
+        },
+        {
+          "name_ar": "كروان الخليج العليا",
+          "name_en": "Carawan Al Khaleej Olaya",
+          "rating": 4.0,
+          "price": "$",
+          "neighborhood": "حي العليا",
+          "value_score": 4.0
+        },
+        {
+          "name_ar": "فندق سيبا الرياض",
+          "name_en": "Seiba Hotel Riyadh",
+          "rating": 4.0,
+          "price": "$",
+          "neighborhood": "حي الرياض",
+          "value_score": 4.0
+        }
+      ],
+      "top_family": [
+        {
+          "name_ar": "فندق أمان الرياض",
+          "name_en": "Aman Riyadh",
+          "rating": 4.9,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "فندق كابيلا الرياض",
+          "name_en": "Capella Riyadh",
+          "rating": 4.8,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "فندق ون آند أونلي الرياض",
+          "name_en": "One and Only Riyadh",
+          "rating": 4.8,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "ذا سانت ريجيس الرياض - ڤيا",
+          "name_en": "The St. Regis Riyadh (VIA)",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "باب سمحان لاكشري كوليكشن",
+          "name_en": "Bab Samhan Luxury Collection",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "رافلز الرياض",
+          "name_en": "Raffles Riyadh",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "فندق الدرعية",
+          "name_en": "Bab Samhan Diriyah Hotel",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "فندق سانت ريجيس الرياض الجديد",
+          "name_en": "St. Regis Riyadh New",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "ماندارين أورينتال الرياض",
+          "name_en": "Mandarin Oriental Riyadh",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "كافد"
+        },
+        {
+          "name_ar": "كيمبتون كافد الرياض",
+          "name_en": "Kimpton KAFD Riyadh",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "كافد"
+        }
+      ],
+      "top_new": [
+        {
+          "name_ar": "فندق أمان الرياض",
+          "name_en": "Aman Riyadh",
+          "rating": 4.9,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "فندق كابيلا الرياض",
+          "name_en": "Capella Riyadh",
+          "rating": 4.8,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "فندق ون آند أونلي الرياض",
+          "name_en": "One and Only Riyadh",
+          "rating": 4.8,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "ذا سانت ريجيس الرياض - ڤيا",
+          "name_en": "The St. Regis Riyadh (VIA)",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "باب سمحان لاكشري كوليكشن",
+          "name_en": "Bab Samhan Luxury Collection",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "رافلز الرياض",
+          "name_en": "Raffles Riyadh",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "فندق الدرعية",
+          "name_en": "Bab Samhan Diriyah Hotel",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "فندق سانت ريجيس الرياض الجديد",
+          "name_en": "St. Regis Riyadh New",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "ماندارين أورينتال الرياض",
+          "name_en": "Mandarin Oriental Riyadh",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "كافد"
+        },
+        {
+          "name_ar": "كيمبتون كافد الرياض",
+          "name_en": "Kimpton KAFD Riyadh",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "كافد"
+        }
+      ]
+    },
+    "مولات": {
+      "count": 76,
+      "top_rating": [
+        {
+          "name_ar": "مجمع ڤيا رياض",
+          "name_en": "VIA Riyadh Complex",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "سوليتير مول",
+          "name_en": "Solitaire Mall",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "سوليتير مول الرياض",
+          "name_en": "Solitaire Mall Riyadh",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "وسط الرياض"
+        },
+        {
+          "name_ar": "بوليفارد رياض سيتي (تسوق)",
+          "name_en": "Boulevard Riyadh City (Shopping)",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "حي بوابة الدرعية",
+          "name_en": "Diriyah Gate District",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "ذا أفنيوز الرياض",
+          "name_en": "The Avenues Riyadh",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "مود الفيصلية",
+          "name_en": "Mode Al Faisaliah",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "ديرة سكوير الدرعية",
+          "name_en": "Diriyah Square",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "مول السعودية",
+          "name_en": "Mall of Saudi",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "شمال الرياض"
+        },
+        {
+          "name_ar": "مول الفيصلية",
+          "name_en": "Al Faisaliyah Mall",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "حي العليا"
+        }
+      ],
+      "top_value": [
+        {
+          "name_ar": "مركز الربوة التجاري",
+          "name_en": "Al Rabwah Center",
+          "rating": 4.1,
+          "price": "$",
+          "neighborhood": "حي الربوة",
+          "value_score": 4.1
+        },
+        {
+          "name_ar": "البديعة مول البطحاء",
+          "name_en": "Al Badia Mall Batha",
+          "rating": 4.1,
+          "price": "$",
+          "neighborhood": "البطحاء",
+          "value_score": 4.1
+        },
+        {
+          "name_ar": "مركز البطحاء التجاري المجدد",
+          "name_en": "Al Batha Commercial Center (Renovated)",
+          "rating": 3.8,
+          "price": "$",
+          "neighborhood": "البطحاء",
+          "value_score": 3.8
+        },
+        {
+          "name_ar": "يو ووك الرياض",
+          "name_en": "U Walk Riyadh",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "جامعة الملك سعود",
+          "value_score": 2.2
+        },
+        {
+          "name_ar": "غرناطة مول",
+          "name_en": "Granada Mall",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "حي غرناطة",
+          "value_score": 2.2
+        },
+        {
+          "name_ar": "مارينا مول الرياض",
+          "name_en": "Marina Mall Riyadh",
+          "rating": 4.3,
+          "price": "$$",
+          "neighborhood": "شمال الرياض",
+          "value_score": 2.15
+        },
+        {
+          "name_ar": "الرياض فرونت - التوسع",
+          "name_en": "Riyadh Front Expansion",
+          "rating": 4.3,
+          "price": "$$",
+          "neighborhood": "شمال الرياض",
+          "value_score": 2.15
+        },
+        {
+          "name_ar": "ذا أوتلت الرياض",
+          "name_en": "The Outlet Riyadh Event",
+          "rating": 4.3,
+          "price": "$$",
+          "neighborhood": "حي الرياض",
+          "value_score": 2.15
+        },
+        {
+          "name_ar": "سلام مول",
+          "name_en": "Salam Mall",
+          "rating": 4.3,
+          "price": "$$",
+          "neighborhood": "حي الأوالي",
+          "value_score": 2.15
+        },
+        {
+          "name_ar": "قصر مول",
+          "name_en": "Qasr Mall",
+          "rating": 4.3,
+          "price": "$$",
+          "neighborhood": "حي السويدي",
+          "value_score": 2.15
+        }
+      ],
+      "top_family": [
+        {
+          "name_ar": "مجمع ڤيا رياض",
+          "name_en": "VIA Riyadh Complex",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "سوليتير مول",
+          "name_en": "Solitaire Mall",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "سوليتير مول الرياض",
+          "name_en": "Solitaire Mall Riyadh",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "وسط الرياض"
+        },
+        {
+          "name_ar": "بوليفارد رياض سيتي (تسوق)",
+          "name_en": "Boulevard Riyadh City (Shopping)",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "حي بوابة الدرعية",
+          "name_en": "Diriyah Gate District",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "ذا أفنيوز الرياض",
+          "name_en": "The Avenues Riyadh",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "مود الفيصلية",
+          "name_en": "Mode Al Faisaliah",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "ديرة سكوير الدرعية",
+          "name_en": "Diriyah Square",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "مول السعودية",
+          "name_en": "Mall of Saudi",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "شمال الرياض"
+        },
+        {
+          "name_ar": "مول الفيصلية",
+          "name_en": "Al Faisaliyah Mall",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "حي العليا"
+        }
+      ],
+      "top_new": [
+        {
+          "name_ar": "مجمع ڤيا رياض",
+          "name_en": "VIA Riyadh Complex",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "سوليتير مول الرياض",
+          "name_en": "Solitaire Mall Riyadh",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "وسط الرياض"
+        },
+        {
+          "name_ar": "حي بوابة الدرعية",
+          "name_en": "Diriyah Gate District",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "ذا أفنيوز الرياض",
+          "name_en": "The Avenues Riyadh",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "مود الفيصلية",
+          "name_en": "Mode Al Faisaliah",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "ديرة سكوير الدرعية",
+          "name_en": "Diriyah Square",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "مول السعودية",
+          "name_en": "Mall of Saudi",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "شمال الرياض"
+        },
+        {
+          "name_ar": "مول الفيصلية",
+          "name_en": "Al Faisaliyah Mall",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "كينغدم مول",
+          "name_en": "Kingdom Mall",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "غرناطة مول",
+          "name_en": "Granada Mall",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "حي غرناطة"
+        }
+      ]
+    },
+    "مطعم": {
+      "count": 779,
+      "top_rating": [
+        {
+          "name_ar": "أوبريشن فلافل",
+          "name_en": "Operation Falafel",
+          "rating": 4.8,
+          "price": "$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "آسيان هب",
+          "name_en": "Asian Hub",
+          "rating": 4.8,
+          "price": "$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "سوشي لايبراري",
+          "name_en": "Sushi Library",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "سالت - الرياض بارك",
+          "name_en": "Salt Riyadh Park",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "جوليان الرياض",
+          "name_en": "Julien",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "العليا - فور سيزونز"
+        },
+        {
+          "name_ar": "مطاعم عبر الشام",
+          "name_en": "Abr Al Sham",
+          "rating": 4.6,
+          "price": "$",
+          "neighborhood": "حي النسيم"
+        },
+        {
+          "name_ar": "نامو",
+          "name_en": "Namu",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "إسبلاناد مول"
+        },
+        {
+          "name_ar": "كوورو",
+          "name_en": "Kuuru",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "جاريد سمهان",
+          "name_en": "Jareed Samhan",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "كازاباستا",
+          "name_en": "Casapasta",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "الرياض بارك"
+        }
+      ],
+      "top_value": [
+        {
+          "name_ar": "أوبريشن فلافل",
+          "name_en": "Operation Falafel",
+          "rating": 4.8,
+          "price": "$",
+          "neighborhood": "الرياض بارك",
+          "value_score": 4.8
+        },
+        {
+          "name_ar": "مطاعم عبر الشام",
+          "name_en": "Abr Al Sham",
+          "rating": 4.6,
+          "price": "$",
+          "neighborhood": "حي النسيم",
+          "value_score": 4.6
+        },
+        {
+          "name_ar": "برايم كت",
+          "name_en": "PrimeCut",
+          "rating": 4.6,
+          "price": "$",
+          "neighborhood": "الشروفات",
+          "value_score": 4.6
+        },
+        {
+          "name_ar": "ساين",
+          "name_en": "Sign Burger",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "الصحافة",
+          "value_score": 4.5
+        },
+        {
+          "name_ar": "حمسة وتغميسة",
+          "name_en": "Hamsa w Taghmees",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "التعاون",
+          "value_score": 4.5
+        },
+        {
+          "name_ar": "مطعم كبدة ومقلقل",
+          "name_en": "Kabdah w Muqalqal",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "حي العريجاء",
+          "value_score": 4.5
+        },
+        {
+          "name_ar": "البيك - طريق الخرج",
+          "name_en": "AlBaik Kharj Road",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "طريق الخرج",
+          "value_score": 4.5
+        },
+        {
+          "name_ar": "البيك - العزيزية",
+          "name_en": "AlBaik Al Aziziyah",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "العزيزية",
+          "value_score": 4.5
+        },
+        {
+          "name_ar": "البيك - الفيحاء",
+          "name_en": "AlBaik Al Fayha",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "الفيحاء",
+          "value_score": 4.5
+        },
+        {
+          "name_ar": "البيك - قرطبة",
+          "name_en": "AlBaik Qurtubah",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "قرطبة",
+          "value_score": 4.5
+        }
+      ],
+      "top_family": [
+        {
+          "name_ar": "أوبريشن فلافل",
+          "name_en": "Operation Falafel",
+          "rating": 4.8,
+          "price": "$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "آسيان هب",
+          "name_en": "Asian Hub",
+          "rating": 4.8,
+          "price": "$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "سوشي لايبراري",
+          "name_en": "Sushi Library",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "سالت - الرياض بارك",
+          "name_en": "Salt Riyadh Park",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "مطاعم عبر الشام",
+          "name_en": "Abr Al Sham",
+          "rating": 4.6,
+          "price": "$",
+          "neighborhood": "حي النسيم"
+        },
+        {
+          "name_ar": "نامو",
+          "name_en": "Namu",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "إسبلاناد مول"
+        },
+        {
+          "name_ar": "كوورو",
+          "name_en": "Kuuru",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "جاريد سمهان",
+          "name_en": "Jareed Samhan",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "كازاباستا",
+          "name_en": "Casapasta",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "زوما",
+          "name_en": "Zuma Riyadh KAFD",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "كافد"
+        }
+      ],
+      "top_new": [
+        {
+          "name_ar": "أوبريشن فلافل",
+          "name_en": "Operation Falafel",
+          "rating": 4.8,
+          "price": "$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "آسيان هب",
+          "name_en": "Asian Hub",
+          "rating": 4.8,
+          "price": "$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "سوشي لايبراري",
+          "name_en": "Sushi Library",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "سالت - الرياض بارك",
+          "name_en": "Salt Riyadh Park",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "جوليان الرياض",
+          "name_en": "Julien",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "العليا - فور سيزونز"
+        },
+        {
+          "name_ar": "جاريد سمهان",
+          "name_en": "Jareed Samhan",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "كازاباستا",
+          "name_en": "Casapasta",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "زوما",
+          "name_en": "Zuma Riyadh KAFD",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "كافد"
+        },
+        {
+          "name_ar": "تريسيند ستوديو",
+          "name_en": "Tresind Studio",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "كافد"
+        },
+        {
+          "name_ar": "بحرية الملز",
+          "name_en": "Bahriyat Al Malaz",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي الملز"
+        }
+      ]
+    },
+    "تسوق": {
+      "count": 266,
+      "top_rating": [
+        {
+          "name_ar": "بن مشعل لصيانة الهواتف",
+          "name_en": "Bin Mishaal Phone Repair",
+          "rating": 4.9,
+          "price": "$",
+          "neighborhood": "حي الملقا"
+        },
+        {
+          "name_ar": "آبل ستور الدرعية",
+          "name_en": "Apple Store Diriyah",
+          "rating": 4.8,
+          "price": "$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "في آي ايه الرياض",
+          "name_en": "VIA Riyadh Luxury",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "سوليتير الرياض",
+          "name_en": "Solitaire Riyadh",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "فان كليف آند آربلز الرياض",
+          "name_en": "Van Cleef & Arpels Riyadh",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "ڤيا رياض - تسوق",
+          "name_en": "VIA Riyadh Shopping",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "ديبتيك الرياض",
+          "name_en": "Diptyque Riyadh",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "عبايات نوف السديري",
+          "name_en": "Nouf Al Sudairi Abayas",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "دارا للأدوات الفنية",
+          "name_en": "Dara Art Supply Store",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "عبد الصمد القرشي",
+          "name_en": "Abdul Samad Al Qurashi",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "حي العليا"
+        }
+      ],
+      "top_value": [
+        {
+          "name_ar": "البيت الثقافي - مكتبة التعاون العامة",
+          "name_en": "The Cultural House - Altaawun Public Library",
+          "rating": 4.4,
+          "price": "free",
+          "neighborhood": "حي التعاون",
+          "value_score": 8.8
+        },
+        {
+          "name_ar": "بن مشعل لصيانة الهواتف",
+          "name_en": "Bin Mishaal Phone Repair",
+          "rating": 4.9,
+          "price": "$",
+          "neighborhood": "حي الملقا",
+          "value_score": 4.9
+        },
+        {
+          "name_ar": "مكتبة دار السلام",
+          "name_en": "Darussalam Bookstore",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "الطريق الدائري الشرقي",
+          "value_score": 4.5
+        },
+        {
+          "name_ar": "آيوا الرياض",
+          "name_en": "Eyewa Riyadh",
+          "rating": 4.4,
+          "price": "$",
+          "neighborhood": "فروع متعددة",
+          "value_score": 4.4
+        },
+        {
+          "name_ar": "بودي كوميونيتي ثريفت",
+          "name_en": "Bodi Community Thrift",
+          "rating": 4.4,
+          "price": "$",
+          "neighborhood": "حي الملقا",
+          "value_score": 4.4
+        },
+        {
+          "name_ar": "سوق الكتب القديمة - الديرة",
+          "name_en": "Antique Book Market Dirah",
+          "rating": 4.3,
+          "price": "$",
+          "neighborhood": "الديرة",
+          "value_score": 4.3
+        },
+        {
+          "name_ar": "سوق التمور - الرياض",
+          "name_en": "Riyadh Date Market (Souq Al Tamoor)",
+          "rating": 4.3,
+          "price": "$",
+          "neighborhood": "الدرعية",
+          "value_score": 4.3
+        },
+        {
+          "name_ar": "سوق التمور شرق الرياض",
+          "name_en": "East Riyadh Dates Market",
+          "rating": 4.3,
+          "price": "$",
+          "neighborhood": "حي العزيزية",
+          "value_score": 4.3
+        },
+        {
+          "name_ar": "ساكو الرياض",
+          "name_en": "SACO Hardware Riyadh",
+          "rating": 4.3,
+          "price": "$",
+          "neighborhood": "فروع متعددة",
+          "value_score": 4.3
+        },
+        {
+          "name_ar": "لولو هايبرماركت الرياض",
+          "name_en": "LuLu Hypermarket Riyadh",
+          "rating": 4.3,
+          "price": "$",
+          "neighborhood": "فروع متعددة",
+          "value_score": 4.3
+        }
+      ],
+      "top_family": [
+        {
+          "name_ar": "بن مشعل لصيانة الهواتف",
+          "name_en": "Bin Mishaal Phone Repair",
+          "rating": 4.9,
+          "price": "$",
+          "neighborhood": "حي الملقا"
+        },
+        {
+          "name_ar": "آبل ستور الدرعية",
+          "name_en": "Apple Store Diriyah",
+          "rating": 4.8,
+          "price": "$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "في آي ايه الرياض",
+          "name_en": "VIA Riyadh Luxury",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "سوليتير الرياض",
+          "name_en": "Solitaire Riyadh",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "فان كليف آند آربلز الرياض",
+          "name_en": "Van Cleef & Arpels Riyadh",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "ڤيا رياض - تسوق",
+          "name_en": "VIA Riyadh Shopping",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "ديبتيك الرياض",
+          "name_en": "Diptyque Riyadh",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "دارا للأدوات الفنية",
+          "name_en": "Dara Art Supply Store",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "عبد الصمد القرشي",
+          "name_en": "Abdul Samad Al Qurashi",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "فيا الرياض",
+          "name_en": "VIA Riyadh",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        }
+      ],
+      "top_new": [
+        {
+          "name_ar": "بن مشعل لصيانة الهواتف",
+          "name_en": "Bin Mishaal Phone Repair",
+          "rating": 4.9,
+          "price": "$",
+          "neighborhood": "حي الملقا"
+        },
+        {
+          "name_ar": "آبل ستور الدرعية",
+          "name_en": "Apple Store Diriyah",
+          "rating": 4.8,
+          "price": "$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "في آي ايه الرياض",
+          "name_en": "VIA Riyadh Luxury",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "ڤيا رياض - تسوق",
+          "name_en": "VIA Riyadh Shopping",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "حي حطين"
+        },
+        {
+          "name_ar": "ديبتيك الرياض",
+          "name_en": "Diptyque Riyadh",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "عبايات نوف السديري",
+          "name_en": "Nouf Al Sudairi Abayas",
+          "rating": 4.6,
+          "price": "$$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "دارا للأدوات الفنية",
+          "name_en": "Dara Art Supply Store",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "حي العليا"
+        },
+        {
+          "name_ar": "بوجيري تراس - تسوق",
+          "name_en": "Bujairi Terrace Shopping",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "نيش للعطور",
+          "name_en": "Niche Perfumes SA",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "لاروميوس عطور نيش",
+          "name_en": "Laromious Niche Perfumes",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "الرياض"
+        }
+      ]
+    },
+    "طبيعة": {
+      "count": 145,
+      "top_rating": [
+        {
+          "name_ar": "جبال طويق - المنحدرات",
+          "name_en": "Jabal Tuwaiq Escarpment",
+          "rating": 4.6,
+          "price": "free",
+          "neighborhood": "غرب الرياض"
+        },
+        {
+          "name_ar": "حافة العالم - جبل طويق",
+          "name_en": "Edge of the World - Tuwaiq Escarpment",
+          "rating": 4.6,
+          "price": "$",
+          "neighborhood": "شمال غرب الرياض"
+        },
+        {
+          "name_ar": "مسار وادي حنيفة",
+          "name_en": "Wadi Hanifah Trail",
+          "rating": 4.6,
+          "price": "$",
+          "neighborhood": "وادي حنيفة"
+        },
+        {
+          "name_ar": "منتزه البجيري",
+          "name_en": "Al Bujairi Terrace",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "بوجيري تراس - الدرعية",
+          "name_en": "Bujairi Terrace - Diriyah",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "حديقة الملك سلمان (المشروع)",
+          "name_en": "King Salman Park (Mega Project)",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "شمال وسط الرياض"
+        },
+        {
+          "name_ar": "وادي معاوان المخفي",
+          "name_en": "Mawan Hidden Canyon",
+          "rating": 4.5,
+          "price": "free",
+          "neighborhood": "جنوب الرياض"
+        },
+        {
+          "name_ar": "ممشى وادي حنيفة الممتد",
+          "name_en": "Wadi Hanifah Extended Walkway",
+          "rating": 4.5,
+          "price": "free",
+          "neighborhood": "وادي حنيفة"
+        },
+        {
+          "name_ar": "حديقة الملك سلمان الكبرى",
+          "name_en": "King Salman Park (New Development)",
+          "rating": 4.5,
+          "price": "free",
+          "neighborhood": "وسط الرياض"
+        },
+        {
+          "name_ar": "حدائق الحي الدبلوماسي الموسعة",
+          "name_en": "DQ Gardens & Walking Trails (Expanded)",
+          "rating": 4.5,
+          "price": "free",
+          "neighborhood": "الحي الدبلوماسي"
+        }
+      ],
+      "top_value": [
+        {
+          "name_ar": "جبال طويق - المنحدرات",
+          "name_en": "Jabal Tuwaiq Escarpment",
+          "rating": 4.6,
+          "price": "free",
+          "neighborhood": "غرب الرياض",
+          "value_score": 9.2
+        },
+        {
+          "name_ar": "وادي معاوان المخفي",
+          "name_en": "Mawan Hidden Canyon",
+          "rating": 4.5,
+          "price": "free",
+          "neighborhood": "جنوب الرياض",
+          "value_score": 9.0
+        },
+        {
+          "name_ar": "ممشى وادي حنيفة الممتد",
+          "name_en": "Wadi Hanifah Extended Walkway",
+          "rating": 4.5,
+          "price": "free",
+          "neighborhood": "وادي حنيفة",
+          "value_score": 9.0
+        },
+        {
+          "name_ar": "حديقة الملك سلمان الكبرى",
+          "name_en": "King Salman Park (New Development)",
+          "rating": 4.5,
+          "price": "free",
+          "neighborhood": "وسط الرياض",
+          "value_score": 9.0
+        },
+        {
+          "name_ar": "حدائق الحي الدبلوماسي الموسعة",
+          "name_en": "DQ Gardens & Walking Trails (Expanded)",
+          "rating": 4.5,
+          "price": "free",
+          "neighborhood": "الحي الدبلوماسي",
+          "value_score": 9.0
+        },
+        {
+          "name_ar": "جبال طويق",
+          "name_en": "Tuwaiq Mountains",
+          "rating": 4.5,
+          "price": "مجاني",
+          "neighborhood": "غرب الرياض",
+          "value_score": 9.0
+        },
+        {
+          "name_ar": "ممشى وادي حنيفة",
+          "name_en": "Wadi Hanifah Walkway",
+          "rating": 4.4,
+          "price": "مجاني",
+          "neighborhood": "وادي حنيفة",
+          "value_score": 8.8
+        },
+        {
+          "name_ar": "المساحات المفتوحة بالحي الدبلوماسي",
+          "name_en": "DQ Open Spaces & Walking Trails",
+          "rating": 4.4,
+          "price": "مجاني",
+          "neighborhood": "الحي الدبلوماسي",
+          "value_score": 8.8
+        },
+        {
+          "name_ar": "روضة خريم (الطبيعية)",
+          "name_en": "Rawdat Khoraim Nature Reserve",
+          "rating": 4.4,
+          "price": "مجاني",
+          "neighborhood": "شمال شرق الرياض",
+          "value_score": 8.8
+        },
+        {
+          "name_ar": "درب الجمل",
+          "name_en": "Darb Al-Jamal (Camel Trail)",
+          "rating": 4.4,
+          "price": "free",
+          "neighborhood": "ضواحي الرياض",
+          "value_score": 8.8
+        }
+      ],
+      "top_family": [
+        {
+          "name_ar": "جبال طويق - المنحدرات",
+          "name_en": "Jabal Tuwaiq Escarpment",
+          "rating": 4.6,
+          "price": "free",
+          "neighborhood": "غرب الرياض"
+        },
+        {
+          "name_ar": "حافة العالم - جبل طويق",
+          "name_en": "Edge of the World - Tuwaiq Escarpment",
+          "rating": 4.6,
+          "price": "$",
+          "neighborhood": "شمال غرب الرياض"
+        },
+        {
+          "name_ar": "مسار وادي حنيفة",
+          "name_en": "Wadi Hanifah Trail",
+          "rating": 4.6,
+          "price": "$",
+          "neighborhood": "وادي حنيفة"
+        },
+        {
+          "name_ar": "منتزه البجيري",
+          "name_en": "Al Bujairi Terrace",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "بوجيري تراس - الدرعية",
+          "name_en": "Bujairi Terrace - Diriyah",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "حديقة الملك سلمان (المشروع)",
+          "name_en": "King Salman Park (Mega Project)",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "شمال وسط الرياض"
+        },
+        {
+          "name_ar": "وادي معاوان المخفي",
+          "name_en": "Mawan Hidden Canyon",
+          "rating": 4.5,
+          "price": "free",
+          "neighborhood": "جنوب الرياض"
+        },
+        {
+          "name_ar": "ممشى وادي حنيفة الممتد",
+          "name_en": "Wadi Hanifah Extended Walkway",
+          "rating": 4.5,
+          "price": "free",
+          "neighborhood": "وادي حنيفة"
+        },
+        {
+          "name_ar": "حديقة الملك سلمان الكبرى",
+          "name_en": "King Salman Park (New Development)",
+          "rating": 4.5,
+          "price": "free",
+          "neighborhood": "وسط الرياض"
+        },
+        {
+          "name_ar": "حدائق الحي الدبلوماسي الموسعة",
+          "name_en": "DQ Gardens & Walking Trails (Expanded)",
+          "rating": 4.5,
+          "price": "free",
+          "neighborhood": "الحي الدبلوماسي"
+        }
+      ],
+      "top_new": [
+        {
+          "name_ar": "مسار وادي حنيفة",
+          "name_en": "Wadi Hanifah Trail",
+          "rating": 4.6,
+          "price": "$",
+          "neighborhood": "وادي حنيفة"
+        },
+        {
+          "name_ar": "منتزه البجيري",
+          "name_en": "Al Bujairi Terrace",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "حديقة الملك سلمان الكبرى",
+          "name_en": "King Salman Park (New Development)",
+          "rating": 4.5,
+          "price": "free",
+          "neighborhood": "وسط الرياض"
+        },
+        {
+          "name_ar": "حديقة بحيرة نمار",
+          "name_en": "Lake Park Namar",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "نمار"
+        },
+        {
+          "name_ar": "حديقة الصخور الحي الدبلوماسي",
+          "name_en": "Rock Park DQ",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "حي السفارات"
+        },
+        {
+          "name_ar": "مسار بوليفارد الرياضي للدراجات",
+          "name_en": "Sports Boulevard Cycling",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "وجهة وادي حنيفة",
+          "name_en": "Wadi Hanifah Destination",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "وادي حنيفة"
+        },
+        {
+          "name_ar": "مسار كهف عين هيت",
+          "name_en": "Ain Heet Cave Trail",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "جنوب الرياض"
+        },
+        {
+          "name_ar": "مسار جبال طويق",
+          "name_en": "Tuwaiq Escarpment Trail",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "غرب الرياض"
+        },
+        {
+          "name_ar": "مسار مشي الدرعية",
+          "name_en": "Al Diriyah Walk Trail",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "الدرعية"
+        }
+      ]
+    },
+    "متاحف": {
+      "count": 78,
+      "top_rating": [
+        {
+          "name_ar": "نور الرياض - منشآت ضوئية",
+          "name_en": "Noor Riyadh Light Art Installations",
+          "rating": 4.7,
+          "price": "free",
+          "neighborhood": "متعدد المواقع"
+        },
+        {
+          "name_ar": "موقع التريف التراثي اليونسكو",
+          "name_en": "Turaif UNESCO Heritage Site",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "بينالي الفنون الإسلامية الدرعية",
+          "name_en": "Biennale of Islamic Arts Diriyah",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "نور الرياض (فن الضوء)",
+          "name_en": "Noor Riyadh Light Art",
+          "rating": 4.6,
+          "price": "مجاني",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "معرض الهجرة - المتحف الوطني",
+          "name_en": "The Hijrah Exhibition - National Museum",
+          "rating": 4.6,
+          "price": "$",
+          "neighborhood": "حي المربع"
+        },
+        {
+          "name_ar": "متحف الدرعية الجديد",
+          "name_en": "Diriyah Museum (New)",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "جاليري أثر - جاكس",
+          "name_en": "ATHR Gallery JAX Riyadh",
+          "rating": 4.6,
+          "price": "free",
+          "neighborhood": "جاكس ديستركت"
+        },
+        {
+          "name_ar": "مجمع جاكس الفني",
+          "name_en": "JAX District Art Complex",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "حي جاكس"
+        },
+        {
+          "name_ar": "استوديو أحمد ماطر",
+          "name_en": "Ahmed Mater Studio",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "حي جاكس"
+        },
+        {
+          "name_ar": "متحف إثراء",
+          "name_en": "Ithra Museum",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "الرياض"
+        }
+      ],
+      "top_value": [
+        {
+          "name_ar": "نور الرياض - منشآت ضوئية",
+          "name_en": "Noor Riyadh Light Art Installations",
+          "rating": 4.7,
+          "price": "free",
+          "neighborhood": "متعدد المواقع",
+          "value_score": 9.4
+        },
+        {
+          "name_ar": "نور الرياض (فن الضوء)",
+          "name_en": "Noor Riyadh Light Art",
+          "rating": 4.6,
+          "price": "مجاني",
+          "neighborhood": "الرياض",
+          "value_score": 9.2
+        },
+        {
+          "name_ar": "جاليري أثر - جاكس",
+          "name_en": "ATHR Gallery JAX Riyadh",
+          "rating": 4.6,
+          "price": "free",
+          "neighborhood": "جاكس ديستركت",
+          "value_score": 9.2
+        },
+        {
+          "name_ar": "جاليري نايلا للفنون",
+          "name_en": "Naila Art Gallery",
+          "rating": 4.5,
+          "price": "مجاني",
+          "neighborhood": "الرياض",
+          "value_score": 9.0
+        },
+        {
+          "name_ar": "جاليري مونو",
+          "name_en": "Mono Gallery",
+          "rating": 4.4,
+          "price": "مجاني",
+          "neighborhood": "الرياض",
+          "value_score": 8.8
+        },
+        {
+          "name_ar": "جاليري لآرت بور",
+          "name_en": "L'Art Pur Gallery",
+          "rating": 4.4,
+          "price": "مجاني",
+          "neighborhood": "حي الغربية",
+          "value_score": 8.8
+        },
+        {
+          "name_ar": "مكتبة الملك فهد الوطنية",
+          "name_en": "King Fahd National Library",
+          "rating": 4.4,
+          "price": "مجاني",
+          "neighborhood": "حي العليا",
+          "value_score": 8.8
+        },
+        {
+          "name_ar": "برنامج الرياض آرت (معارض)",
+          "name_en": "Riyadh Art Program (Exhibitions)",
+          "rating": 4.4,
+          "price": "مجاني",
+          "neighborhood": "الرياض",
+          "value_score": 8.8
+        },
+        {
+          "name_ar": "جاليري حافظ",
+          "name_en": "Hafez Gallery",
+          "rating": 4.4,
+          "price": "free",
+          "neighborhood": "حي العليا",
+          "value_score": 8.8
+        },
+        {
+          "name_ar": "متحف قصر المصمك",
+          "name_en": "Al Masmak Palace Museum",
+          "rating": 4.4,
+          "price": "مجاني",
+          "neighborhood": "حي الديرة",
+          "value_score": 8.8
+        }
+      ],
+      "top_family": [
+        {
+          "name_ar": "نور الرياض - منشآت ضوئية",
+          "name_en": "Noor Riyadh Light Art Installations",
+          "rating": 4.7,
+          "price": "free",
+          "neighborhood": "متعدد المواقع"
+        },
+        {
+          "name_ar": "موقع التريف التراثي اليونسكو",
+          "name_en": "Turaif UNESCO Heritage Site",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "بينالي الفنون الإسلامية الدرعية",
+          "name_en": "Biennale of Islamic Arts Diriyah",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "نور الرياض (فن الضوء)",
+          "name_en": "Noor Riyadh Light Art",
+          "rating": 4.6,
+          "price": "مجاني",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "معرض الهجرة - المتحف الوطني",
+          "name_en": "The Hijrah Exhibition - National Museum",
+          "rating": 4.6,
+          "price": "$",
+          "neighborhood": "حي المربع"
+        },
+        {
+          "name_ar": "متحف الدرعية الجديد",
+          "name_en": "Diriyah Museum (New)",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "جاليري أثر - جاكس",
+          "name_en": "ATHR Gallery JAX Riyadh",
+          "rating": 4.6,
+          "price": "free",
+          "neighborhood": "جاكس ديستركت"
+        },
+        {
+          "name_ar": "مجمع جاكس الفني",
+          "name_en": "JAX District Art Complex",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "حي جاكس"
+        },
+        {
+          "name_ar": "استوديو أحمد ماطر",
+          "name_en": "Ahmed Mater Studio",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "حي جاكس"
+        },
+        {
+          "name_ar": "متحف إثراء",
+          "name_en": "Ithra Museum",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "الرياض"
+        }
+      ],
+      "top_new": [
+        {
+          "name_ar": "موقع التريف التراثي اليونسكو",
+          "name_en": "Turaif UNESCO Heritage Site",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "بينالي الفنون الإسلامية الدرعية",
+          "name_en": "Biennale of Islamic Arts Diriyah",
+          "rating": 4.7,
+          "price": "$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "معرض الهجرة - المتحف الوطني",
+          "name_en": "The Hijrah Exhibition - National Museum",
+          "rating": 4.6,
+          "price": "$",
+          "neighborhood": "حي المربع"
+        },
+        {
+          "name_ar": "متحف الدرعية الجديد",
+          "name_en": "Diriyah Museum (New)",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "الدرعية"
+        },
+        {
+          "name_ar": "جاليري أثر - جاكس",
+          "name_en": "ATHR Gallery JAX Riyadh",
+          "rating": 4.6,
+          "price": "free",
+          "neighborhood": "جاكس ديستركت"
+        },
+        {
+          "name_ar": "مجمع جاكس الفني",
+          "name_en": "JAX District Art Complex",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "حي جاكس"
+        },
+        {
+          "name_ar": "استوديو أحمد ماطر",
+          "name_en": "Ahmed Mater Studio",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "حي جاكس"
+        },
+        {
+          "name_ar": "متحف إثراء",
+          "name_en": "Ithra Museum",
+          "rating": 4.6,
+          "price": "$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "نور الرياض",
+          "name_en": "Noor Riyadh",
+          "rating": 4.6,
+          "price": "$",
+          "neighborhood": "مواقع متعددة"
+        },
+        {
+          "name_ar": "إثراء - الرياض",
+          "name_en": "Ithra - Riyadh Branch",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "كافد"
+        }
+      ]
+    }
+  },
+  "neighborhoods": {
+    "الرياض": {
+      "count": 274,
+      "avg_rating": 4.31,
+      "top_category": [
+        "ترفيه",
+        51
+      ],
+      "dominant_price": [
+        "$$",
+        156
+      ],
+      "top_5": [
+        {
+          "name_ar": "رافلز الرياض",
+          "name_en": "Raffles Riyadh",
+          "rating": 4.7,
+          "category": "فنادق",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "لادراخ شوكولاتة سويسرية",
+          "name_en": "Laderach Swiss Chocolate",
+          "rating": 4.6,
+          "category": "حلويات",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "بيير هيرميه الرياض",
+          "name_en": "Pierre Herme Riyadh",
+          "rating": 4.6,
+          "category": "حلويات",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "هلا فتنس",
+          "name_en": "Hala Fitness",
+          "rating": 4.6,
+          "category": "ترفيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "ليونايزر كروسفت",
+          "name_en": "Lionizer CrossFit",
+          "rating": 4.6,
+          "category": "ترفيه",
+          "price": "$$"
+        }
+      ],
+      "category_breakdown": {
+        "ترفيه": 51,
+        "حلويات": 50,
+        "فنادق": 42,
+        "كافيه": 33,
+        "تسوق": 30,
+        "فعاليات": 16,
+        "مطعم": 15,
+        "متاحف": 14,
+        "طبيعة": 10,
+        "مولات": 8,
+        "شاليه": 5
+      },
+      "price_breakdown": {
+        "$$": 156,
+        "$$$": 57,
+        "$": 37,
+        "$$$$": 14,
+        "مجاني": 10
+      }
+    },
+    "حي العليا": {
+      "count": 239,
+      "avg_rating": 4.32,
+      "top_category": [
+        "كافيه",
+        50
+      ],
+      "dominant_price": [
+        "$$",
+        130
+      ],
+      "top_5": [
+        {
+          "name_ar": "ذا سبا ماندارين أورينتال",
+          "name_en": "The Spa at Mandarin Oriental",
+          "rating": 4.8,
+          "category": "ترفيه",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "سبا الليديز ماندارين أورينتال",
+          "name_en": "The Ladies Spa Mandarin Oriental",
+          "rating": 4.8,
+          "category": "ترفيه",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "بيير إيرميه باريس",
+          "name_en": "Pierre Herme Paris",
+          "rating": 4.7,
+          "category": "حلويات",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "سكون سبا حياة ريجنسي",
+          "name_en": "Sokoun Spa Hyatt Regency",
+          "rating": 4.7,
+          "category": "ترفيه",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "سبا فيرمونت الرياض",
+          "name_en": "Fairmont Riyadh Spa",
+          "rating": 4.7,
+          "category": "ترفيه",
+          "price": "$$$$"
+        }
+      ],
+      "category_breakdown": {
+        "كافيه": 50,
+        "فنادق": 47,
+        "ترفيه": 42,
+        "حلويات": 30,
+        "تسوق": 25,
+        "مطعم": 24,
+        "متاحف": 9,
+        "مولات": 8,
+        "طبيعة": 2,
+        "شاليه": 1,
+        "فعاليات": 1
+      },
+      "price_breakdown": {
+        "$$": 130,
+        "$$$": 74,
+        "$$$$": 17,
+        "مجاني": 9,
+        "$": 8,
+        "free": 1
+      }
+    },
+    "فروع متعددة": {
+      "count": 130,
+      "avg_rating": 4.18,
+      "top_category": [
+        "مطعم",
+        58
+      ],
+      "dominant_price": [
+        "$$",
+        61
+      ],
+      "top_5": [
+        {
+          "name_ar": "كافيه بتيل حلويات",
+          "name_en": "Cafe Bateel Desserts",
+          "rating": 4.6,
+          "category": "حلويات",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "باتشي شوكولاتة الرياض",
+          "name_en": "Patchi Chocolates Riyadh",
+          "rating": 4.5,
+          "category": "حلويات",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "غوديفا شوكولاتة الرياض",
+          "name_en": "Godiva Chocolate Riyadh",
+          "rating": 4.4,
+          "category": "حلويات",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "بول بيكري الرياض",
+          "name_en": "Paul Bakery Riyadh",
+          "rating": 4.4,
+          "category": "حلويات",
+          "price": "$$"
+        },
+        {
+          "name_ar": "هاغن داز الرياض",
+          "name_en": "Haagen Dazs Riyadh",
+          "rating": 4.4,
+          "category": "حلويات",
+          "price": "$$"
+        }
+      ],
+      "category_breakdown": {
+        "مطعم": 58,
+        "تسوق": 44,
+        "حلويات": 19,
+        "كافيه": 5,
+        "ترفيه": 4
+      },
+      "price_breakdown": {
+        "$$": 61,
+        "$": 60,
+        "$$$": 9
+      }
+    },
+    "حي الملقا": {
+      "count": 123,
+      "avg_rating": 4.29,
+      "top_category": [
+        "كافيه",
+        48
+      ],
+      "dominant_price": [
+        "$$",
+        96
+      ],
+      "top_5": [
+        {
+          "name_ar": "بن مشعل لصيانة الهواتف",
+          "name_en": "Bin Mishaal Phone Repair",
+          "rating": 4.9,
+          "category": "تسوق",
+          "price": "$"
+        },
+        {
+          "name_ar": "فندق الهروب",
+          "name_en": "The Escape Hotel",
+          "rating": 4.6,
+          "category": "ترفيه",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "دهنة للحلويات",
+          "name_en": "Dohna Sweets",
+          "rating": 4.5,
+          "category": "حلويات",
+          "price": "$$"
+        },
+        {
+          "name_ar": "رو هيلث بار",
+          "name_en": "RAW Health Bar",
+          "rating": 4.5,
+          "category": "حلويات",
+          "price": "$$"
+        },
+        {
+          "name_ar": "توكايند بيكري",
+          "name_en": "Tookind Bakery",
+          "rating": 4.5,
+          "category": "حلويات",
+          "price": "$$"
+        }
+      ],
+      "category_breakdown": {
+        "كافيه": 48,
+        "ترفيه": 29,
+        "حلويات": 15,
+        "تسوق": 13,
+        "مطعم": 7,
+        "فعاليات": 3,
+        "متاحف": 3,
+        "فنادق": 2,
+        "طبيعة": 2,
+        "مولات": 1
+      },
+      "price_breakdown": {
+        "$$": 96,
+        "$$$": 15,
+        "$": 11,
+        "مجاني": 1
+      }
+    },
+    "حي حطين": {
+      "count": 94,
+      "avg_rating": 4.36,
+      "top_category": [
+        "كافيه",
+        29
+      ],
+      "dominant_price": [
+        "$$",
+        55
+      ],
+      "top_5": [
+        {
+          "name_ar": "ستانس بيلاتس",
+          "name_en": "Stance Pilates",
+          "rating": 4.7,
+          "category": "ترفيه",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "ذا سانت ريجيس الرياض - ڤيا",
+          "name_en": "The St. Regis Riyadh (VIA)",
+          "rating": 4.7,
+          "category": "فنادق",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "مجمع ڤيا رياض",
+          "name_en": "VIA Riyadh Complex",
+          "rating": 4.7,
+          "category": "مولات",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "في آي ايه الرياض",
+          "name_en": "VIA Riyadh Luxury",
+          "rating": 4.7,
+          "category": "تسوق",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "بيست لاند",
+          "name_en": "Beast Land",
+          "rating": 4.6,
+          "category": "ترفيه",
+          "price": "$$$"
+        }
+      ],
+      "category_breakdown": {
+        "كافيه": 29,
+        "ترفيه": 28,
+        "تسوق": 20,
+        "حلويات": 5,
+        "مولات": 4,
+        "فعاليات": 3,
+        "فنادق": 2,
+        "مطعم": 2,
+        "طبيعة": 1
+      },
+      "price_breakdown": {
+        "$$": 55,
+        "$$$$": 19,
+        "$$$": 18,
+        "مجاني": 1,
+        "$": 1
+      }
+    },
+    "حي الياسمين": {
+      "count": 86,
+      "avg_rating": 4.28,
+      "top_category": [
+        "كافيه",
+        50
+      ],
+      "dominant_price": [
+        "$$",
+        72
+      ],
+      "top_5": [
+        {
+          "name_ar": "ذا يوغا هاوس",
+          "name_en": "The Yoga House",
+          "rating": 4.7,
+          "category": "ترفيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "تراكوتا ستوديو",
+          "name_en": "Terracotta Studio",
+          "rating": 4.6,
+          "category": "ترفيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "مانترا سبا",
+          "name_en": "Mantra Spa",
+          "rating": 4.6,
+          "category": "ترفيه",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "موش كافيه",
+          "name_en": "Moosh Cafe",
+          "rating": 4.5,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "غرين ميل بيكري",
+          "name_en": "Green Mill Bakery",
+          "rating": 4.5,
+          "category": "حلويات",
+          "price": "$$"
+        }
+      ],
+      "category_breakdown": {
+        "كافيه": 50,
+        "ترفيه": 14,
+        "حلويات": 8,
+        "مطعم": 5,
+        "تسوق": 3,
+        "فعاليات": 2,
+        "شاليه": 1,
+        "فنادق": 1,
+        "مولات": 1,
+        "طبيعة": 1
+      },
+      "price_breakdown": {
+        "$$": 72,
+        "$$$": 8,
+        "$": 6
+      }
+    },
+    "الدرعية": {
+      "count": 61,
+      "avg_rating": 4.47,
+      "top_category": [
+        "متاحف",
+        11
+      ],
+      "dominant_price": [
+        "$$",
+        24
+      ],
+      "top_5": [
+        {
+          "name_ar": "فندق أمان الرياض",
+          "name_en": "Aman Riyadh",
+          "rating": 4.9,
+          "category": "فنادق",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "فندق كابيلا الرياض",
+          "name_en": "Capella Riyadh",
+          "rating": 4.8,
+          "category": "فنادق",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "فندق ون آند أونلي الرياض",
+          "name_en": "One and Only Riyadh",
+          "rating": 4.8,
+          "category": "فنادق",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "آبل ستور الدرعية",
+          "name_en": "Apple Store Diriyah",
+          "rating": 4.8,
+          "category": "تسوق",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "باب سمحان لاكشري كوليكشن",
+          "name_en": "Bab Samhan Luxury Collection",
+          "rating": 4.7,
+          "category": "فنادق",
+          "price": "$$$$"
+        }
+      ],
+      "category_breakdown": {
+        "متاحف": 11,
+        "طبيعة": 9,
+        "ترفيه": 8,
+        "فنادق": 8,
+        "كافيه": 7,
+        "مطعم": 6,
+        "فعاليات": 5,
+        "تسوق": 4,
+        "مولات": 3
+      },
+      "price_breakdown": {
+        "$$": 24,
+        "$$$": 13,
+        "$$$$": 12,
+        "$": 6,
+        "مجاني": 4,
+        "free": 2
+      }
+    },
+    "كافد": {
+      "count": 61,
+      "avg_rating": 4.33,
+      "top_category": [
+        "مطعم",
+        38
+      ],
+      "dominant_price": [
+        "$$$",
+        29
+      ],
+      "top_5": [
+        {
+          "name_ar": "ماندارين أورينتال الرياض",
+          "name_en": "Mandarin Oriental Riyadh",
+          "rating": 4.7,
+          "category": "فنادق",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "لاباريه بيلاتس ستوديو",
+          "name_en": "La.barre Pilates Studio",
+          "rating": 4.6,
+          "category": "ترفيه",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "كيمبتون كافد الرياض",
+          "name_en": "Kimpton KAFD Riyadh",
+          "rating": 4.6,
+          "category": "فنادق",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "فندق دبليو الرياض كافد",
+          "name_en": "W Hotel Riyadh KAFD",
+          "rating": 4.6,
+          "category": "فنادق",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "زوما",
+          "name_en": "Zuma Riyadh KAFD",
+          "rating": 4.6,
+          "category": "مطعم",
+          "price": "$$$$"
+        }
+      ],
+      "category_breakdown": {
+        "مطعم": 38,
+        "كافيه": 11,
+        "فنادق": 8,
+        "ترفيه": 2,
+        "حلويات": 1,
+        "متاحف": 1
+      },
+      "price_breakdown": {
+        "$$$": 29,
+        "$$": 16,
+        "$$$$": 16
+      }
+    },
+    "العليا": {
+      "count": 52,
+      "avg_rating": 4.22,
+      "top_category": [
+        "مطعم",
+        42
+      ],
+      "dominant_price": [
+        "$$",
+        30
+      ],
+      "top_5": [
+        {
+          "name_ar": "نوا",
+          "name_en": "NOOA Cafe",
+          "rating": 4.5,
+          "category": "كافيه",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "نوا كافيه",
+          "name_en": "NOOA Cafe Riyadh",
+          "rating": 4.5,
+          "category": "كافيه",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "ذا روف",
+          "name_en": "The Roof",
+          "rating": 4.5,
+          "category": "مطعم",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "بوس كو روستري",
+          "name_en": "BOSS CO Roastery",
+          "rating": 4.4,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "شيري",
+          "name_en": "Cherie Cafe",
+          "rating": 4.4,
+          "category": "كافيه",
+          "price": "$$"
+        }
+      ],
+      "category_breakdown": {
+        "مطعم": 42,
+        "كافيه": 10
+      },
+      "price_breakdown": {
+        "$$": 30,
+        "$$$": 11,
+        "$": 10,
+        "$$$$": 1
+      }
+    },
+    "حي الرياض": {
+      "count": 52,
+      "avg_rating": 4.27,
+      "top_category": [
+        "حلويات",
+        18
+      ],
+      "dominant_price": [
+        "$$",
+        30
+      ],
+      "top_5": [
+        {
+          "name_ar": "فعاليات ميدل بيست",
+          "name_en": "MDLBEAST Events Riyadh",
+          "rating": 4.6,
+          "category": "فعاليات",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "تمريتنا",
+          "name_en": "Tamrytna Dates",
+          "rating": 4.5,
+          "category": "حلويات",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "شوقرمو",
+          "name_en": "SugarMoo Desserts",
+          "rating": 4.5,
+          "category": "حلويات",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "ميزون دي فلور",
+          "name_en": "Maison Des Fleurs",
+          "rating": 4.5,
+          "category": "تسوق",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "بسبوستي اللذيذة",
+          "name_en": "Basbusti Al Ladhidha",
+          "rating": 4.4,
+          "category": "حلويات",
+          "price": "$"
+        }
+      ],
+      "category_breakdown": {
+        "حلويات": 18,
+        "تسوق": 12,
+        "فنادق": 9,
+        "ترفيه": 6,
+        "فعاليات": 3,
+        "مولات": 3,
+        "متاحف": 1
+      },
+      "price_breakdown": {
+        "$$": 30,
+        "$": 13,
+        "$$$": 9
+      }
+    },
+    "شمال الرياض": {
+      "count": 50,
+      "avg_rating": 4.29,
+      "top_category": [
+        "شاليه",
+        35
+      ],
+      "dominant_price": [
+        "$$",
+        29
+      ],
+      "top_5": [
+        {
+          "name_ar": "لوكا بارك",
+          "name_en": "Luca Park",
+          "rating": 4.6,
+          "category": "ترفيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "شاليهات قولدن هوست",
+          "name_en": "Golden Host Chalets",
+          "rating": 4.5,
+          "category": "شاليه",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "شاليهات ذا ريزورت",
+          "name_en": "The Resort Chalets",
+          "rating": 4.5,
+          "category": "شاليه",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "شاليهات أوتيل",
+          "name_en": "Otel Chalets",
+          "rating": 4.5,
+          "category": "شاليه",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "مول السعودية",
+          "name_en": "Mall of Saudi",
+          "rating": 4.5,
+          "category": "مولات",
+          "price": "$$$"
+        }
+      ],
+      "category_breakdown": {
+        "شاليه": 35,
+        "ترفيه": 6,
+        "مولات": 5,
+        "كافيه": 1,
+        "فعاليات": 1,
+        "فنادق": 1,
+        "طبيعة": 1
+      },
+      "price_breakdown": {
+        "$$": 29,
+        "$$$": 18,
+        "$$$$": 2,
+        "مجاني": 1
+      }
+    },
+    "حي النرجس": {
+      "count": 49,
+      "avg_rating": 4.33,
+      "top_category": [
+        "كافيه",
+        21
+      ],
+      "dominant_price": [
+        "$$",
+        41
+      ],
+      "top_5": [
+        {
+          "name_ar": "لو جورنال بي كي",
+          "name_en": "Le Journal BK",
+          "rating": 4.5,
+          "category": "كافيه",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "بلومز كيك",
+          "name_en": "Blooms Cake",
+          "rating": 4.5,
+          "category": "حلويات",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "أهاجي - غرف الهروب",
+          "name_en": "Ahaji Escape Room",
+          "rating": 4.5,
+          "category": "ترفيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "رفد ستوديو تصميم",
+          "name_en": "Refd Design Studio",
+          "rating": 4.5,
+          "category": "ترفيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "فلورستنيشا",
+          "name_en": "Floristnicia",
+          "rating": 4.5,
+          "category": "ترفيه",
+          "price": "$$"
+        }
+      ],
+      "category_breakdown": {
+        "كافيه": 21,
+        "ترفيه": 12,
+        "حلويات": 8,
+        "شاليه": 3,
+        "فنادق": 1,
+        "مولات": 1,
+        "متاحف": 1,
+        "مطعم": 1,
+        "تسوق": 1
+      },
+      "price_breakdown": {
+        "$$": 41,
+        "$$$": 6,
+        "$": 1,
+        "مجاني": 1
+      }
+    },
+    "حي الملز": {
+      "count": 46,
+      "avg_rating": 4.26,
+      "top_category": [
+        "مطعم",
+        25
+      ],
+      "dominant_price": [
+        "$$",
+        36
+      ],
+      "top_5": [
+        {
+          "name_ar": "8 بول سنوكر",
+          "name_en": "8 Ball Pool and Snooker",
+          "rating": 4.6,
+          "category": "ترفيه",
+          "price": "$"
+        },
+        {
+          "name_ar": "تشوك الرياض",
+          "name_en": "Chok Riyadh",
+          "rating": 4.5,
+          "category": "حلويات",
+          "price": "$$"
+        },
+        {
+          "name_ar": "بحرية الملز",
+          "name_en": "Bahriyat Al Malaz",
+          "rating": 4.5,
+          "category": "مطعم",
+          "price": "$$"
+        },
+        {
+          "name_ar": "حلويات تركية",
+          "name_en": "Turkish Sweets Riyadh",
+          "rating": 4.4,
+          "category": "حلويات",
+          "price": "$$"
+        },
+        {
+          "name_ar": "سلطان ديلايت",
+          "name_en": "Sultan Delight",
+          "rating": 4.4,
+          "category": "حلويات",
+          "price": "$$"
+        }
+      ],
+      "category_breakdown": {
+        "مطعم": 25,
+        "ترفيه": 7,
+        "كافيه": 5,
+        "حلويات": 4,
+        "طبيعة": 4,
+        "فعاليات": 1
+      },
+      "price_breakdown": {
+        "$$": 36,
+        "$": 8,
+        "مجاني": 2
+      }
+    },
+    "حي الصحافة": {
+      "count": 45,
+      "avg_rating": 4.3,
+      "top_category": [
+        "كافيه",
+        14
+      ],
+      "dominant_price": [
+        "$$",
+        29
+      ],
+      "top_5": [
+        {
+          "name_ar": "سبا فورسيزونز الرياض",
+          "name_en": "Four Seasons Spa Riyadh",
+          "rating": 4.6,
+          "category": "ترفيه",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "ريكس كوفي",
+          "name_en": "Rex Coffee",
+          "rating": 4.5,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "بلينك كافيه",
+          "name_en": "Blink Cafe",
+          "rating": 4.5,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "إكسبيرينس ذا بوكس",
+          "name_en": "Experience the Box",
+          "rating": 4.5,
+          "category": "ترفيه",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "بيت السينما",
+          "name_en": "CineHouse Cinema",
+          "rating": 4.5,
+          "category": "ترفيه",
+          "price": "$$"
+        }
+      ],
+      "category_breakdown": {
+        "كافيه": 14,
+        "ترفيه": 12,
+        "فنادق": 7,
+        "حلويات": 6,
+        "مولات": 3,
+        "تسوق": 2,
+        "متاحف": 1
+      },
+      "price_breakdown": {
+        "$$": 29,
+        "$": 7,
+        "$$$": 6,
+        "$$$$": 2,
+        "free": 1
+      }
+    },
+    "حي الربيع": {
+      "count": 44,
+      "avg_rating": 4.29,
+      "top_category": [
+        "كافيه",
+        19
+      ],
+      "dominant_price": [
+        "$$",
+        40
+      ],
+      "top_5": [
+        {
+          "name_ar": "فورميه ولنس",
+          "name_en": "Formé Wellness",
+          "rating": 4.8,
+          "category": "ترفيه",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "مانسارد سبا لوكسيتان",
+          "name_en": "Mansard Spa by L'Occitane",
+          "rating": 4.6,
+          "category": "ترفيه",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "كنافة ليلى",
+          "name_en": "Kanafeh Layla",
+          "rating": 4.5,
+          "category": "حلويات",
+          "price": "$$"
+        },
+        {
+          "name_ar": "فيرمونت رملة الرياض",
+          "name_en": "Fairmont Ramla Riyadh",
+          "rating": 4.5,
+          "category": "فنادق",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "كانفس آرت سبلاي",
+          "name_en": "Canvas Art Supply",
+          "rating": 4.5,
+          "category": "تسوق",
+          "price": "$$"
+        }
+      ],
+      "category_breakdown": {
+        "كافيه": 19,
+        "ترفيه": 9,
+        "حلويات": 6,
+        "فعاليات": 2,
+        "مطعم": 2,
+        "تسوق": 2,
+        "فنادق": 1,
+        "مولات": 1,
+        "متاحف": 1,
+        "طبيعة": 1
+      },
+      "price_breakdown": {
+        "$$": 40,
+        "$$$": 2,
+        "$$$$": 1,
+        "$": 1
+      }
+    },
+    "السليمانية": {
+      "count": 35,
+      "avg_rating": 4.29,
+      "top_category": [
+        "مطعم",
+        30
+      ],
+      "dominant_price": [
+        "$$",
+        21
+      ],
+      "top_5": [
+        {
+          "name_ar": "بوظة عربية",
+          "name_en": "Boutha Arabiya",
+          "rating": 4.5,
+          "category": "حلويات",
+          "price": "$"
+        },
+        {
+          "name_ar": "بلانكا",
+          "name_en": "Blanca Forno",
+          "rating": 4.5,
+          "category": "مطعم",
+          "price": "$$"
+        },
+        {
+          "name_ar": "بيتزا بار IOI",
+          "name_en": "Pizza Bar IOI",
+          "rating": 4.5,
+          "category": "مطعم",
+          "price": "$$"
+        },
+        {
+          "name_ar": "بانتيرا",
+          "name_en": "Pantera",
+          "rating": 4.5,
+          "category": "مطعم",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "أوفن بيسترو",
+          "name_en": "Ovun Bistro",
+          "rating": 4.5,
+          "category": "مطعم",
+          "price": "$$"
+        }
+      ],
+      "category_breakdown": {
+        "مطعم": 30,
+        "كافيه": 4,
+        "حلويات": 1
+      },
+      "price_breakdown": {
+        "$$": 21,
+        "$$$": 8,
+        "$": 5,
+        "$$$$": 1
+      }
+    },
+    "الرياض بارك": {
+      "count": 35,
+      "avg_rating": 4.28,
+      "top_category": [
+        "كافيه",
+        13
+      ],
+      "dominant_price": [
+        "$$",
+        22
+      ],
+      "top_5": [
+        {
+          "name_ar": "أوبريشن فلافل",
+          "name_en": "Operation Falafel",
+          "rating": 4.8,
+          "category": "مطعم",
+          "price": "$"
+        },
+        {
+          "name_ar": "آسيان هب",
+          "name_en": "Asian Hub",
+          "rating": 4.8,
+          "category": "مطعم",
+          "price": "$$"
+        },
+        {
+          "name_ar": "بول",
+          "name_en": "PAUL Riyadh Park",
+          "rating": 4.7,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "بيتس كوفي",
+          "name_en": "Peets Coffee Riyadh Park",
+          "rating": 4.7,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "سوشي لايبراري",
+          "name_en": "Sushi Library",
+          "rating": 4.7,
+          "category": "مطعم",
+          "price": "$$$"
+        }
+      ],
+      "category_breakdown": {
+        "كافيه": 13,
+        "مطعم": 13,
+        "تسوق": 5,
+        "ترفيه": 4
+      },
+      "price_breakdown": {
+        "$$": 22,
+        "$$$": 8,
+        "$": 5
+      }
+    },
+    "حي العقيق": {
+      "count": 33,
+      "avg_rating": 4.38,
+      "top_category": [
+        "كافيه",
+        9
+      ],
+      "dominant_price": [
+        "$$",
+        19
+      ],
+      "top_5": [
+        {
+          "name_ar": "ريلايف ستوديو",
+          "name_en": "Relive Studio",
+          "rating": 4.7,
+          "category": "ترفيه",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "فندق جي دابليو ماريوت الرياض",
+          "name_en": "JW Marriott Riyadh",
+          "rating": 4.6,
+          "category": "فنادق",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "فندق إديشن الرياض",
+          "name_en": "The Edition Riyadh",
+          "rating": 4.6,
+          "category": "فنادق",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "قهوة بوح",
+          "name_en": "Qahwat Bouh",
+          "rating": 4.5,
+          "category": "كافيه",
+          "price": "$"
+        },
+        {
+          "name_ar": "آي فلاي الرياض",
+          "name_en": "iFly Riyadh",
+          "rating": 4.5,
+          "category": "ترفيه",
+          "price": "$$"
+        }
+      ],
+      "category_breakdown": {
+        "كافيه": 9,
+        "فنادق": 9,
+        "ترفيه": 8,
+        "حلويات": 4,
+        "تسوق": 2,
+        "متاحف": 1
+      },
+      "price_breakdown": {
+        "$$": 19,
+        "$$$$": 6,
+        "$$$": 5,
+        "$": 3
+      }
+    },
+    "جنوب الرياض": {
+      "count": 33,
+      "avg_rating": 4.16,
+      "top_category": [
+        "طبيعة",
+        12
+      ],
+      "dominant_price": [
+        "$$",
+        13
+      ],
+      "top_5": [
+        {
+          "name_ar": "فندق باب الشمس الرياض",
+          "name_en": "Bab Al Shams Riyadh",
+          "rating": 4.6,
+          "category": "فنادق",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "وادي معاوان المخفي",
+          "name_en": "Mawan Hidden Canyon",
+          "rating": 4.5,
+          "category": "طبيعة",
+          "price": "free"
+        },
+        {
+          "name_ar": "مسار كهف عين هيت",
+          "name_en": "Ain Heet Cave Trail",
+          "rating": 4.5,
+          "category": "طبيعة",
+          "price": "$"
+        },
+        {
+          "name_ar": "منتجع نوفا للحياة البرية",
+          "name_en": "Nofa Wildlife Park & Resort",
+          "rating": 4.4,
+          "category": "شاليه",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "وادي نمار",
+          "name_en": "Wadi Namar",
+          "rating": 4.4,
+          "category": "ترفيه",
+          "price": "مجاني"
+        }
+      ],
+      "category_breakdown": {
+        "طبيعة": 12,
+        "شاليه": 9,
+        "كافيه": 4,
+        "تسوق": 4,
+        "مولات": 2,
+        "ترفيه": 1,
+        "فنادق": 1
+      },
+      "price_breakdown": {
+        "$$": 13,
+        "$": 10,
+        "مجاني": 4,
+        "free": 4,
+        "$$$": 1,
+        "$$$$": 1
+      }
+    },
+    "حي النخيل": {
+      "count": 32,
+      "avg_rating": 4.28,
+      "top_category": [
+        "كافيه",
+        13
+      ],
+      "dominant_price": [
+        "$$",
+        28
+      ],
+      "top_5": [
+        {
+          "name_ar": "إلكسير بن",
+          "name_en": "Elixir Bunn",
+          "rating": 4.5,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "ريكسوس الرياض",
+          "name_en": "Rixos Riyadh",
+          "rating": 4.5,
+          "category": "فنادق",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "جوهرتش للعبايات",
+          "name_en": "Joharshii Abayas",
+          "rating": 4.5,
+          "category": "تسوق",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "سوهو شوت",
+          "name_en": "Soho Shot",
+          "rating": 4.4,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "راك كوفي",
+          "name_en": "Rack Coffee",
+          "rating": 4.4,
+          "category": "كافيه",
+          "price": "$$"
+        }
+      ],
+      "category_breakdown": {
+        "كافيه": 13,
+        "مطعم": 6,
+        "تسوق": 5,
+        "ترفيه": 3,
+        "حلويات": 2,
+        "فنادق": 1,
+        "مولات": 1,
+        "طبيعة": 1
+      },
+      "price_breakdown": {
+        "$$": 28,
+        "$$$": 2,
+        "$$$$": 1,
+        "$": 1
+      }
+    },
+    "الحي الدبلوماسي": {
+      "count": 30,
+      "avg_rating": 4.35,
+      "top_category": [
+        "كافيه",
+        12
+      ],
+      "dominant_price": [
+        "$$",
+        16
+      ],
+      "top_5": [
+        {
+          "name_ar": "سراي سبا ماريوت",
+          "name_en": "Saray Spa Marriott",
+          "rating": 4.6,
+          "category": "ترفيه",
+          "price": "$$$$"
+        },
+        {
+          "name_ar": "تشنك",
+          "name_en": "Chunk",
+          "rating": 4.5,
+          "category": "حلويات",
+          "price": "$$"
+        },
+        {
+          "name_ar": "شقق ماريوت الفندقية الحي الدبلوماسي",
+          "name_en": "Marriott Executive Apartments Riyadh DQ",
+          "rating": 4.5,
+          "category": "فنادق",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "حدائق الحي الدبلوماسي الموسعة",
+          "name_en": "DQ Gardens & Walking Trails (Expanded)",
+          "rating": 4.5,
+          "category": "طبيعة",
+          "price": "free"
+        },
+        {
+          "name_ar": "هوم بيكري",
+          "name_en": "Home Bakery",
+          "rating": 4.4,
+          "category": "كافيه",
+          "price": "$$"
+        }
+      ],
+      "category_breakdown": {
+        "كافيه": 12,
+        "مطعم": 6,
+        "ترفيه": 3,
+        "فنادق": 3,
+        "طبيعة": 3,
+        "حلويات": 2,
+        "مولات": 1
+      },
+      "price_breakdown": {
+        "$$": 16,
+        "$$$": 10,
+        "مجاني": 2,
+        "$$$$": 1,
+        "free": 1
+      }
+    },
+    "حي السليمانية": {
+      "count": 28,
+      "avg_rating": 4.28,
+      "top_category": [
+        "حلويات",
+        11
+      ],
+      "dominant_price": [
+        "$$",
+        21
+      ],
+      "top_5": [
+        {
+          "name_ar": "حلويات حبيبة",
+          "name_en": "Habibah Sweets",
+          "rating": 4.5,
+          "category": "حلويات",
+          "price": "$$"
+        },
+        {
+          "name_ar": "حلويات نبيل نفيسة",
+          "name_en": "Nabil Nafisah Sweets",
+          "rating": 4.5,
+          "category": "حلويات",
+          "price": "$$"
+        },
+        {
+          "name_ar": "حلويات الحلاب",
+          "name_en": "Al Hallab Sweets 1881",
+          "rating": 4.5,
+          "category": "حلويات",
+          "price": "$$"
+        },
+        {
+          "name_ar": "قمحة بيكري",
+          "name_en": "Qamha Bakery",
+          "rating": 4.4,
+          "category": "حلويات",
+          "price": "$$"
+        },
+        {
+          "name_ar": "فروتيلا للعصائر",
+          "name_en": "Frutella Juices",
+          "rating": 4.4,
+          "category": "حلويات",
+          "price": "$"
+        }
+      ],
+      "category_breakdown": {
+        "حلويات": 11,
+        "كافيه": 9,
+        "ترفيه": 4,
+        "مطعم": 2,
+        "تسوق": 2
+      },
+      "price_breakdown": {
+        "$$": 21,
+        "$": 5,
+        "$$$": 2
+      }
+    },
+    "الملقا": {
+      "count": 28,
+      "avg_rating": 4.19,
+      "top_category": [
+        "مطعم",
+        21
+      ],
+      "dominant_price": [
+        "$",
+        15
+      ],
+      "top_5": [
+        {
+          "name_ar": "طوفرية",
+          "name_en": "Tofareya",
+          "rating": 4.5,
+          "category": "مطعم",
+          "price": "$$"
+        },
+        {
+          "name_ar": "سبراوت",
+          "name_en": "Sprout",
+          "rating": 4.5,
+          "category": "مطعم",
+          "price": "$$"
+        },
+        {
+          "name_ar": "نورة سماش برجر",
+          "name_en": "Nora Smash Burger",
+          "rating": 4.5,
+          "category": "مطعم",
+          "price": "$"
+        },
+        {
+          "name_ar": "شاورما أبو ريان",
+          "name_en": "Shawarma Abu Rayan",
+          "rating": 4.4,
+          "category": "مطعم",
+          "price": "$"
+        },
+        {
+          "name_ar": "زووبا",
+          "name_en": "Zooba",
+          "rating": 4.4,
+          "category": "مطعم",
+          "price": "$"
+        }
+      ],
+      "category_breakdown": {
+        "مطعم": 21,
+        "كافيه": 7
+      },
+      "price_breakdown": {
+        "$": 15,
+        "$$": 13
+      }
+    },
+    "حي الورود": {
+      "count": 27,
+      "avg_rating": 4.27,
+      "top_category": [
+        "كافيه",
+        7
+      ],
+      "dominant_price": [
+        "$$",
+        20
+      ],
+      "top_5": [
+        {
+          "name_ar": "اير سبشلتي كوفي",
+          "name_en": "Air Specialty Coffee",
+          "rating": 4.5,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "روت ترايب كلوب",
+          "name_en": "Root Tribe Club",
+          "rating": 4.5,
+          "category": "ترفيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "إيا سبشلتي كوفي",
+          "name_en": "Eya Specialty Coffee",
+          "rating": 4.4,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "لوكايس",
+          "name_en": "Locais",
+          "rating": 4.4,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "تحالف القهوة",
+          "name_en": "Coffee Alliance",
+          "rating": 4.4,
+          "category": "حلويات",
+          "price": "$$"
+        }
+      ],
+      "category_breakdown": {
+        "كافيه": 7,
+        "مطعم": 7,
+        "حلويات": 6,
+        "ترفيه": 3,
+        "تسوق": 2,
+        "فنادق": 1,
+        "طبيعة": 1
+      },
+      "price_breakdown": {
+        "$$": 20,
+        "$": 5,
+        "$$$": 2
+      }
+    },
+    "الياسمين": {
+      "count": 26,
+      "avg_rating": 4.09,
+      "top_category": [
+        "مطعم",
+        18
+      ],
+      "dominant_price": [
+        "$$",
+        14
+      ],
+      "top_5": [
+        {
+          "name_ar": "وايت فليم",
+          "name_en": "White Flame",
+          "rating": 4.4,
+          "category": "مطعم",
+          "price": "$$"
+        },
+        {
+          "name_ar": "أسيب نجد",
+          "name_en": "Aseeb Najd",
+          "rating": 4.4,
+          "category": "مطعم",
+          "price": "$$"
+        },
+        {
+          "name_ar": "بارنز - الياسمين",
+          "name_en": "Barnz Al Yasmin",
+          "rating": 4.3,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "فش بان",
+          "name_en": "Fish Bun",
+          "rating": 4.3,
+          "category": "مطعم",
+          "price": "$$"
+        },
+        {
+          "name_ar": "دومن",
+          "name_en": "Domn",
+          "rating": 4.3,
+          "category": "مطعم",
+          "price": "$$"
+        }
+      ],
+      "category_breakdown": {
+        "مطعم": 18,
+        "كافيه": 8
+      },
+      "price_breakdown": {
+        "$$": 14,
+        "$": 11,
+        "$$$": 1
+      }
+    },
+    "حي الحمراء": {
+      "count": 25,
+      "avg_rating": 4.3,
+      "top_category": [
+        "ترفيه",
+        13
+      ],
+      "dominant_price": [
+        "$$",
+        16
+      ],
+      "top_5": [
+        {
+          "name_ar": "فندق الريتز كارلتون الرياض",
+          "name_en": "The Ritz-Carlton, Riyadh",
+          "rating": 4.6,
+          "category": "فنادق",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "حلويات اللازينة",
+          "name_en": "Ellazena Sweets",
+          "rating": 4.5,
+          "category": "حلويات",
+          "price": "$$"
+        },
+        {
+          "name_ar": "سيفن ترفيه الحمراء",
+          "name_en": "SEVEN Entertainment Al Hamra",
+          "rating": 4.5,
+          "category": "ترفيه",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "هوت ويلز كارتنغ كهربائي",
+          "name_en": "Hot Wheels E-Karting Riyadh",
+          "rating": 4.5,
+          "category": "ترفيه",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "القفز بالمظلة الداخلي",
+          "name_en": "Indoor Skydiving SEVEN Riyadh",
+          "rating": 4.5,
+          "category": "ترفيه",
+          "price": "$$$"
+        }
+      ],
+      "category_breakdown": {
+        "ترفيه": 13,
+        "مطعم": 4,
+        "حلويات": 3,
+        "كافيه": 2,
+        "تسوق": 2,
+        "فنادق": 1
+      },
+      "price_breakdown": {
+        "$$": 16,
+        "$$$": 7,
+        "$": 2
+      }
+    },
+    "حي الربوة": {
+      "count": 24,
+      "avg_rating": 4.16,
+      "top_category": [
+        "كافيه",
+        8
+      ],
+      "dominant_price": [
+        "$$",
+        20
+      ],
+      "top_5": [
+        {
+          "name_ar": "دي إن إيه لايف ستايل",
+          "name_en": "DNA Lifestyle Bookstore",
+          "rating": 4.4,
+          "category": "تسوق",
+          "price": "$$"
+        },
+        {
+          "name_ar": "سلالات القهوة",
+          "name_en": "Salalat Al Qahwa",
+          "rating": 4.3,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "عنقاء كوفي",
+          "name_en": "Anqaa Coffee",
+          "rating": 4.3,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "كافيه أروما",
+          "name_en": "Aroma Cafe",
+          "rating": 4.3,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "الساعة الأخيرة",
+          "name_en": "The Last Hour",
+          "rating": 4.3,
+          "category": "ترفيه",
+          "price": "$$"
+        }
+      ],
+      "category_breakdown": {
+        "كافيه": 8,
+        "ترفيه": 8,
+        "مولات": 3,
+        "مطعم": 3,
+        "طبيعة": 1,
+        "تسوق": 1
+      },
+      "price_breakdown": {
+        "$$": 20,
+        "$": 4
+      }
+    },
+    "حي الرمال": {
+      "count": 24,
+      "avg_rating": 4.2,
+      "top_category": [
+        "شاليه",
+        14
+      ],
+      "dominant_price": [
+        "$$",
+        17
+      ],
+      "top_5": [
+        {
+          "name_ar": "قهوة كندة",
+          "name_en": "Kindah Coffee",
+          "rating": 4.5,
+          "category": "كافيه",
+          "price": "$"
+        },
+        {
+          "name_ar": "تجربة قيادة السوبركار",
+          "name_en": "Supercar Driving Experience",
+          "rating": 4.5,
+          "category": "ترفيه",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "ثوى كافيه",
+          "name_en": "Thawa Cafe",
+          "rating": 4.4,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "فيرستينمنت بينتبول",
+          "name_en": "Firstainment Paintball",
+          "rating": 4.4,
+          "category": "ترفيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "قهوة جير",
+          "name_en": "Gear Coffee",
+          "rating": 4.3,
+          "category": "كافيه",
+          "price": "$$"
+        }
+      ],
+      "category_breakdown": {
+        "شاليه": 14,
+        "ترفيه": 6,
+        "كافيه": 4
+      },
+      "price_breakdown": {
+        "$$": 17,
+        "$$$": 5,
+        "$": 2
+      }
+    },
+    "حطين": {
+      "count": 24,
+      "avg_rating": 4.21,
+      "top_category": [
+        "مطعم",
+        13
+      ],
+      "dominant_price": [
+        "$$",
+        13
+      ],
+      "top_5": [
+        {
+          "name_ar": "مقهى أرابيكا - حطين",
+          "name_en": "Arabica Hittin",
+          "rating": 4.5,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "مقهى ذا نست",
+          "name_en": "The Nest Cafe",
+          "rating": 4.4,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "شوروز جوي",
+          "name_en": "Churros Joy",
+          "rating": 4.4,
+          "category": "حلويات",
+          "price": "$$"
+        },
+        {
+          "name_ar": "بيروت خانوم",
+          "name_en": "Beirut Khanum",
+          "rating": 4.4,
+          "category": "مطعم",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "سكشن بي",
+          "name_en": "Section B",
+          "rating": 4.4,
+          "category": "مطعم",
+          "price": "$"
+        }
+      ],
+      "category_breakdown": {
+        "مطعم": 13,
+        "كافيه": 10,
+        "حلويات": 1
+      },
+      "price_breakdown": {
+        "$$": 13,
+        "$": 8,
+        "$$$": 3
+      }
+    },
+    "أحياء متعددة": {
+      "count": 23,
+      "avg_rating": 4.15,
+      "top_category": [
+        "حلويات",
+        12
+      ],
+      "dominant_price": [
+        "$$",
+        14
+      ],
+      "top_5": [
+        {
+          "name_ar": "ضيافات رتيل",
+          "name_en": "Diwaniyat Rateel",
+          "rating": 4.4,
+          "category": "حلويات",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "إلكت",
+          "name_en": "ELCT",
+          "rating": 4.3,
+          "category": "كافيه",
+          "price": "$$"
+        },
+        {
+          "name_ar": "إلكت حلويات",
+          "name_en": "ELCT Desserts",
+          "rating": 4.3,
+          "category": "حلويات",
+          "price": "$$"
+        },
+        {
+          "name_ar": "مادو الرياض",
+          "name_en": "Mado Riyadh",
+          "rating": 4.3,
+          "category": "حلويات",
+          "price": "$$"
+        },
+        {
+          "name_ar": "فن الرياض",
+          "name_en": "Riyadh Art",
+          "rating": 4.3,
+          "category": "ترفيه",
+          "price": "مجاني"
+        }
+      ],
+      "category_breakdown": {
+        "حلويات": 12,
+        "ترفيه": 6,
+        "كافيه": 3,
+        "طبيعة": 1,
+        "تسوق": 1
+      },
+      "price_breakdown": {
+        "$$": 14,
+        "$": 6,
+        "$$$": 1,
+        "مجاني": 1,
+        "free": 1
+      }
+    },
+    "بوليفارد الرياض": {
+      "count": 20,
+      "avg_rating": 4.42,
+      "top_category": [
+        "فعاليات",
+        14
+      ],
+      "dominant_price": [
+        "$$",
+        14
+      ],
+      "top_5": [
+        {
+          "name_ar": "حفل جوي أواردز 2026",
+          "name_en": "Joy Awards 2026",
+          "rating": 4.6,
+          "category": "فعاليات",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "بوليفارد سيتي",
+          "name_en": "Boulevard City",
+          "rating": 4.6,
+          "category": "فعاليات",
+          "price": "$$"
+        },
+        {
+          "name_ar": "مهرجان الرياض للكوميديا",
+          "name_en": "Riyadh Comedy Festival",
+          "rating": 4.6,
+          "category": "فعاليات",
+          "price": "$$$"
+        },
+        {
+          "name_ar": "قيمرز 8 الرياض 2026",
+          "name_en": "Gamers8 Riyadh 2026",
+          "rating": 4.5,
+          "category": "فعاليات",
+          "price": "$$"
+        },
+        {
+          "name_ar": "ذا آرينا ريال مدريد",
+          "name_en": "The Arena Real Madrid",
+          "rating": 4.5,
+          "category": "فعاليات",
+          "price": "$$"
+        }
+      ],
+      "category_breakdown": {
+        "فعاليات": 14,
+        "ترفيه": 3,
+        "فنادق": 1,
+        "كافيه": 1,
+        "متاحف": 1
+      },
+      "price_breakdown": {
+        "$$": 14,
+        "$$$": 4,
+        "$": 1,
+        "$$$$": 1
+      }
+    }
+  },
+  "price_analysis": {
+    "distribution_by_category": {
+      "كافيه": {
+        "$$": 494,
+        "$$$": 52,
+        "$": 39,
+        "$$$$": 3
+      },
+      "شاليه": {
+        "$$": 71,
+        "$$$": 45,
+        "$": 5,
+        "$$$$": 3
+      },
+      "حلويات": {
+        "$$": 179,
+        "$": 53,
+        "$$$": 51,
+        "$$$$": 1
+      },
+      "ترفيه": {
+        "$$": 285,
+        "$$$": 70,
+        "$": 47,
+        "مجاني": 9,
+        "$$$$": 9
+      },
+      "فعاليات": {
+        "$$": 54,
+        "$$$": 31,
+        "$": 9,
+        "$$$$": 3,
+        "مجاني": 3,
+        "free": 1
+      },
+      "فنادق": {
+        "$$": 63,
+        "$$$": 58,
+        "$$$$": 31,
+        "$": 22
+      },
+      "مولات": {
+        "$$": 51,
+        "$$$": 14,
+        "$$$$": 8,
+        "$": 3
+      },
+      "مطعم": {
+        "$$": 390,
+        "$": 259,
+        "$$$": 98,
+        "$$$$": 32
+      },
+      "تسوق": {
+        "$$": 123,
+        "$$$": 63,
+        "$": 54,
+        "$$$$": 25,
+        "free": 1
+      },
+      "طبيعة": {
+        "$": 72,
+        "مجاني": 44,
+        "free": 21,
+        "$$": 5,
+        "$$$": 3
+      },
+      "متاحف": {
+        "$$": 27,
+        "$": 26,
+        "مجاني": 20,
+        "free": 5
+      }
+    },
+    "most_expensive_top10": [
+      {
+        "name_ar": "فندق أمان الرياض",
+        "name_en": "Aman Riyadh",
+        "rating": 4.9,
+        "price": "$$$$",
+        "category": "فنادق",
+        "neighborhood": "الدرعية"
+      },
+      {
+        "name_ar": "ذا سبا ماندارين أورينتال",
+        "name_en": "The Spa at Mandarin Oriental",
+        "rating": 4.8,
+        "price": "$$$$",
+        "category": "ترفيه",
+        "neighborhood": "حي العليا"
+      },
+      {
+        "name_ar": "سبا الليديز ماندارين أورينتال",
+        "name_en": "The Ladies Spa Mandarin Oriental",
+        "rating": 4.8,
+        "price": "$$$$",
+        "category": "ترفيه",
+        "neighborhood": "حي العليا"
+      },
+      {
+        "name_ar": "فندق كابيلا الرياض",
+        "name_en": "Capella Riyadh",
+        "rating": 4.8,
+        "price": "$$$$",
+        "category": "فنادق",
+        "neighborhood": "الدرعية"
+      },
+      {
+        "name_ar": "فندق ون آند أونلي الرياض",
+        "name_en": "One and Only Riyadh",
+        "rating": 4.8,
+        "price": "$$$$",
+        "category": "فنادق",
+        "neighborhood": "الدرعية"
+      },
+      {
+        "name_ar": "بيير إيرميه باريس",
+        "name_en": "Pierre Herme Paris",
+        "rating": 4.7,
+        "price": "$$$$",
+        "category": "حلويات",
+        "neighborhood": "حي العليا"
+      },
+      {
+        "name_ar": "سبا فيرمونت الرياض",
+        "name_en": "Fairmont Riyadh Spa",
+        "rating": 4.7,
+        "price": "$$$$",
+        "category": "ترفيه",
+        "neighborhood": "حي العليا"
+      },
+      {
+        "name_ar": "ذا سانت ريجيس الرياض - ڤيا",
+        "name_en": "The St. Regis Riyadh (VIA)",
+        "rating": 4.7,
+        "price": "$$$$",
+        "category": "فنادق",
+        "neighborhood": "حي حطين"
+      },
+      {
+        "name_ar": "باب سمحان لاكشري كوليكشن",
+        "name_en": "Bab Samhan Luxury Collection",
+        "rating": 4.7,
+        "price": "$$$$",
+        "category": "فنادق",
+        "neighborhood": "الدرعية"
+      },
+      {
+        "name_ar": "رافلز الرياض",
+        "name_en": "Raffles Riyadh",
+        "rating": 4.7,
+        "price": "$$$$",
+        "category": "فنادق",
+        "neighborhood": "الرياض"
+      }
+    ],
+    "cheapest_high_rated_top10": [
+      {
+        "name_ar": "بن مشعل لصيانة الهواتف",
+        "name_en": "Bin Mishaal Phone Repair",
+        "rating": 4.9,
+        "price": "$",
+        "category": "تسوق",
+        "neighborhood": "حي الملقا"
+      },
+      {
+        "name_ar": "أوبريشن فلافل",
+        "name_en": "Operation Falafel",
+        "rating": 4.8,
+        "price": "$",
+        "category": "مطعم",
+        "neighborhood": "الرياض بارك"
+      },
+      {
+        "name_ar": "حافة العالم",
+        "name_en": "Edge of the World",
+        "rating": 4.7,
+        "price": "$",
+        "category": "ترفيه",
+        "neighborhood": "شمال غرب الرياض"
+      },
+      {
+        "name_ar": "احتفالات يوم التأسيس 2026",
+        "name_en": "Saudi Founding Day Celebrations 2026",
+        "rating": 4.7,
+        "price": "free",
+        "category": "فعاليات",
+        "neighborhood": "متعدد المواقع"
+      },
+      {
+        "name_ar": "مهرجان نور الرياض",
+        "name_en": "Noor Riyadh Festival",
+        "rating": 4.7,
+        "price": "$",
+        "category": "فعاليات",
+        "neighborhood": "مناطق متعددة"
+      },
+      {
+        "name_ar": "نور الرياض - منشآت ضوئية",
+        "name_en": "Noor Riyadh Light Art Installations",
+        "rating": 4.7,
+        "price": "free",
+        "category": "متاحف",
+        "neighborhood": "متعدد المواقع"
+      },
+      {
+        "name_ar": "8 بول سنوكر",
+        "name_en": "8 Ball Pool and Snooker",
+        "rating": 4.6,
+        "price": "$",
+        "category": "ترفيه",
+        "neighborhood": "حي الملز"
+      },
+      {
+        "name_ar": "نور الرياض (فن الضوء)",
+        "name_en": "Noor Riyadh Light Art",
+        "rating": 4.6,
+        "price": "مجاني",
+        "category": "متاحف",
+        "neighborhood": "الرياض"
+      },
+      {
+        "name_ar": "معرض الهجرة - المتحف الوطني",
+        "name_en": "The Hijrah Exhibition - National Museum",
+        "rating": 4.6,
+        "price": "$",
+        "category": "متاحف",
+        "neighborhood": "حي المربع"
+      },
+      {
+        "name_ar": "جاليري أثر - جاكس",
+        "name_en": "ATHR Gallery JAX Riyadh",
+        "rating": 4.6,
+        "price": "free",
+        "category": "متاحف",
+        "neighborhood": "جاكس ديستركت"
+      }
+    ],
+    "best_value_top10": [
+      {
+        "name_ar": "احتفالات يوم التأسيس 2026",
+        "name_en": "Saudi Founding Day Celebrations 2026",
+        "rating": 4.7,
+        "price": "free",
+        "category": "فعاليات",
+        "neighborhood": "متعدد المواقع",
+        "value_score": 9.4
+      },
+      {
+        "name_ar": "نور الرياض - منشآت ضوئية",
+        "name_en": "Noor Riyadh Light Art Installations",
+        "rating": 4.7,
+        "price": "free",
+        "category": "متاحف",
+        "neighborhood": "متعدد المواقع",
+        "value_score": 9.4
+      },
+      {
+        "name_ar": "نور الرياض (فن الضوء)",
+        "name_en": "Noor Riyadh Light Art",
+        "rating": 4.6,
+        "price": "مجاني",
+        "category": "متاحف",
+        "neighborhood": "الرياض",
+        "value_score": 9.2
+      },
+      {
+        "name_ar": "جاليري أثر - جاكس",
+        "name_en": "ATHR Gallery JAX Riyadh",
+        "rating": 4.6,
+        "price": "free",
+        "category": "متاحف",
+        "neighborhood": "جاكس ديستركت",
+        "value_score": 9.2
+      },
+      {
+        "name_ar": "جبال طويق - المنحدرات",
+        "name_en": "Jabal Tuwaiq Escarpment",
+        "rating": 4.6,
+        "price": "free",
+        "category": "طبيعة",
+        "neighborhood": "غرب الرياض",
+        "value_score": 9.2
+      },
+      {
+        "name_ar": "وادي حنيفة",
+        "name_en": "Wadi Hanifah",
+        "rating": 4.5,
+        "price": "مجاني",
+        "category": "ترفيه",
+        "neighborhood": "غرب الرياض",
+        "value_score": 9.0
+      },
+      {
+        "name_ar": "قلعة المصمك",
+        "name_en": "Al Masmak Fortress",
+        "rating": 4.5,
+        "price": "مجاني",
+        "category": "ترفيه",
+        "neighborhood": "حي الديرة",
+        "value_score": 9.0
+      },
+      {
+        "name_ar": "احتفالات اليوم الوطني",
+        "name_en": "Saudi National Day Celebrations",
+        "rating": 4.5,
+        "price": "مجاني",
+        "category": "فعاليات",
+        "neighborhood": "مناطق متعددة",
+        "value_score": 9.0
+      },
+      {
+        "name_ar": "جاليري نايلا للفنون",
+        "name_en": "Naila Art Gallery",
+        "rating": 4.5,
+        "price": "مجاني",
+        "category": "متاحف",
+        "neighborhood": "الرياض",
+        "value_score": 9.0
+      },
+      {
+        "name_ar": "وادي معاوان المخفي",
+        "name_en": "Mawan Hidden Canyon",
+        "rating": 4.5,
+        "price": "free",
+        "category": "طبيعة",
+        "neighborhood": "جنوب الرياض",
+        "value_score": 9.0
+      }
+    ]
+  },
+  "comparisons": [
+    {
+      "title": "أفضل كافيه: العليا vs الملقا vs حطين",
+      "data": {
+        "العليا": {
+          "name_ar": "اي بليس بيكهاوس",
+          "name_en": "A Place Bakehouse",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي العليا"
+        },
+        "الملقا": {
+          "name_ar": "فلاور آند فايروود",
+          "name_en": "Flour & Firewood (F&F)",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي الملقا"
+        },
+        "حطين": {
+          "name_ar": "مقهى أرابيكا - حطين",
+          "name_en": "Arabica Hittin",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حطين"
+        }
+      }
+    },
+    {
+      "title": "أفضل المطاعم اليابانية",
+      "data": [
+        {
+          "name_ar": "سوشي لايبراري",
+          "name_en": "Sushi Library",
+          "rating": 4.7,
+          "price": "$$$",
+          "neighborhood": "الرياض بارك"
+        },
+        {
+          "name_ar": "نوبو هوتيل الرياض",
+          "name_en": "Nobu Hotel Riyadh",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "كوورو",
+          "name_en": "Kuuru",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "الرياض"
+        },
+        {
+          "name_ar": "زوما",
+          "name_en": "Zuma Riyadh KAFD",
+          "rating": 4.6,
+          "price": "$$$$",
+          "neighborhood": "كافد"
+        },
+        {
+          "name_ar": "فوا بان كيك",
+          "name_en": "Fuwa Japanese Pancakes",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "الرياض"
+        }
+      ]
+    },
+    {
+      "title": "أفضل أماكن الفطور",
+      "data": [
+        {
+          "name_ar": "تاشاز كافيه - كافد",
+          "name_en": "Tashas Cafe KAFD",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "كافد",
+          "category": "كافيه"
+        },
+        {
+          "name_ar": "أروانا",
+          "name_en": "Arwana Artisan Bakehouse",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي الملك سلمان",
+          "category": "كافيه"
+        },
+        {
+          "name_ar": "فلاور آند فايروود",
+          "name_en": "Flour & Firewood (F&F)",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي الملقا",
+          "category": "كافيه"
+        },
+        {
+          "name_ar": "حمسة وتغميسة",
+          "name_en": "Hamsa w Taghmees",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "التعاون",
+          "category": "مطعم"
+        },
+        {
+          "name_ar": "أوفن بيسترو",
+          "name_en": "Ovun Bistro",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "السليمانية",
+          "category": "مطعم"
+        },
+        {
+          "name_ar": "تاشاز كافيه",
+          "name_en": "Tashas Cafe",
+          "rating": 4.4,
+          "price": "$$$",
+          "neighborhood": "كافد",
+          "category": "كافيه"
+        },
+        {
+          "name_ar": "بانكيك هاوس",
+          "name_en": "The Pancake House",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "الحي الدبلوماسي",
+          "category": "كافيه"
+        },
+        {
+          "name_ar": "لو بان كوتيديان الرياض",
+          "name_en": "Le Pain Quotidien Riyadh",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "الرياض",
+          "category": "حلويات"
+        },
+        {
+          "name_ar": "بريد أهيد",
+          "name_en": "Bread Ahead",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "حي حطين",
+          "category": "حلويات"
+        },
+        {
+          "name_ar": "مطعم بسترينا",
+          "name_en": "Pistrina Bakery & Restaurant",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "حي الرائد",
+          "category": "مطعم"
+        }
+      ]
+    },
+    {
+      "title": "أفضل الأماكن الرومانسية",
+      "data": [
+        {
+          "name_ar": "جوليان الرياض",
+          "name_en": "Julien",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "العليا - فور سيزونز",
+          "category": "مطعم"
+        },
+        {
+          "name_ar": "منتجعات قوت",
+          "name_en": "Goot Resorts",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "حي المونسية",
+          "category": "شاليه"
+        },
+        {
+          "name_ar": "سكوتس الرياض",
+          "name_en": "Scott's Riyadh",
+          "rating": 4.5,
+          "price": "$$$$",
+          "neighborhood": "فيا رياض",
+          "category": "مطعم"
+        },
+        {
+          "name_ar": "جيمخانا الرياض",
+          "name_en": "Gymkhana Riyadh",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "فيا رياض",
+          "category": "مطعم"
+        },
+        {
+          "name_ar": "فيت فيت",
+          "name_en": "Phet Phet",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "التخصصي",
+          "category": "مطعم"
+        },
+        {
+          "name_ar": "مائز",
+          "name_en": "Maiz",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "بوجيري تيراس - الدرعية",
+          "category": "مطعم"
+        },
+        {
+          "name_ar": "كوريزيا لاونج",
+          "name_en": "Chorisia Lounge",
+          "rating": 4.4,
+          "price": "$$$",
+          "neighborhood": "حي حطين",
+          "category": "كافيه"
+        },
+        {
+          "name_ar": "شيري",
+          "name_en": "Cherie Cafe",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "العليا",
+          "category": "كافيه"
+        },
+        {
+          "name_ar": "شاليهات كاندل لايت",
+          "name_en": "Candle Light Chalets",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "شمال الرياض",
+          "category": "شاليه"
+        },
+        {
+          "name_ar": "النافورة",
+          "name_en": "Al Nafourah",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "العليا",
+          "category": "مطعم"
+        }
+      ]
+    },
+    {
+      "title": "أفضل الأماكن للأطفال",
+      "data": [
+        {
+          "name_ar": "هوت ويلز كارتنغ كهربائي",
+          "name_en": "Hot Wheels E-Karting Riyadh",
+          "rating": 4.5,
+          "price": "$$$",
+          "neighborhood": "حي الحمراء",
+          "category": "ترفيه"
+        },
+        {
+          "name_ar": "معرض الرياض الدولي للكتاب 2026",
+          "name_en": "Riyadh International Book Fair 2026",
+          "rating": 4.5,
+          "price": "$",
+          "neighborhood": "جامعة الملك سعود",
+          "category": "فعاليات"
+        },
+        {
+          "name_ar": "ليقو ستور رياض بارك",
+          "name_en": "Lego Store Riyadh Park",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "رياض بارك",
+          "category": "تسوق"
+        },
+        {
+          "name_ar": "حديقة الملك فهد",
+          "name_en": "King Fahd Park",
+          "rating": 4.4,
+          "price": "مجاني",
+          "neighborhood": "حي العليا",
+          "category": "ترفيه"
+        },
+        {
+          "name_ar": "فودسفير - قبة الفراشات وعالم النحل",
+          "name_en": "Foodsphere Riyadh",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "حي حطين",
+          "category": "ترفيه"
+        },
+        {
+          "name_ar": "ديسكفري أدفنتشرز",
+          "name_en": "Discovery Adventures Riyadh",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "حي الحمراء",
+          "category": "ترفيه"
+        },
+        {
+          "name_ar": "اسطبلات الرياض",
+          "name_en": "Riyadh Stables",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "حي الشرق",
+          "category": "ترفيه"
+        },
+        {
+          "name_ar": "ليغولاند ديسكفري الرياض",
+          "name_en": "Legoland Discovery Riyadh",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "الرياض",
+          "category": "ترفيه"
+        },
+        {
+          "name_ar": "كلب ان كلايم الرياض",
+          "name_en": "Clip n Climb Riyadh",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "الرياض",
+          "category": "ترفيه"
+        },
+        {
+          "name_ar": "المنهل سبا",
+          "name_en": "AlManahil Spa",
+          "rating": 4.4,
+          "price": "$$$",
+          "neighborhood": "الحي الدبلوماسي",
+          "category": "ترفيه"
+        }
+      ]
+    },
+    {
+      "title": "أفضل مطعم: العليا vs الملقا vs حطين",
+      "data": {
+        "العليا": {
+          "name_ar": "جوليان الرياض",
+          "name_en": "Julien",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "العليا - فور سيزونز"
+        },
+        "الملقا": {
+          "name_ar": "طوفرية",
+          "name_en": "Tofareya",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "الملقا"
+        },
+        "حطين": {
+          "name_ar": "آي بي ستيك",
+          "name_en": "AB Steak",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي حطين"
+        }
+      }
+    },
+    {
+      "title": "ترفيه داخلي vs خارجي",
+      "data": {
+        "indoor_top5": [
+          {
+            "name_ar": "سبا الليديز ماندارين أورينتال",
+            "name_en": "The Ladies Spa Mandarin Oriental",
+            "rating": 4.8,
+            "price": "$$$$"
+          },
+          {
+            "name_ar": "فيرمونت سبا الرياض",
+            "name_en": "Fairmont Spa Riyadh",
+            "rating": 4.6,
+            "price": "$$$$"
+          },
+          {
+            "name_ar": "لوكا بارك",
+            "name_en": "Luca Park",
+            "rating": 4.6,
+            "price": "$$"
+          },
+          {
+            "name_ar": "القفز بالمظلة الداخلي",
+            "name_en": "Indoor Skydiving SEVEN Riyadh",
+            "rating": 4.5,
+            "price": "$$$"
+          },
+          {
+            "name_ar": "بريزون آيلاند",
+            "name_en": "Prison Island",
+            "rating": 4.5,
+            "price": "$$"
+          }
+        ],
+        "outdoor_top5": [
+          {
+            "name_ar": "أكوارابيا القدية",
+            "name_en": "Aquarabia Qiddiya",
+            "rating": 4.7,
+            "price": "$$$"
+          },
+          {
+            "name_ar": "لوكا بارك",
+            "name_en": "Luca Park",
+            "rating": 4.6,
+            "price": "$$"
+          },
+          {
+            "name_ar": "حديقة الملك سلمان",
+            "name_en": "King Salman Park",
+            "rating": 4.5,
+            "price": "$$"
+          },
+          {
+            "name_ar": "ارينا كروسفت",
+            "name_en": "Arena CrossFit",
+            "rating": 4.5,
+            "price": "$$$"
+          },
+          {
+            "name_ar": "كوزيفان كافيه فني",
+            "name_en": "COSEFAN Art Cafe",
+            "rating": 4.5,
+            "price": "$$"
+          }
+        ]
+      }
+    },
+    {
+      "title": "أفضل حلويات حسب الحي",
+      "data": {
+        "العليا": {
+          "name_ar": "بيير إيرميه باريس",
+          "name_en": "Pierre Herme Paris",
+          "rating": 4.7,
+          "price": "$$$$",
+          "neighborhood": "حي العليا"
+        },
+        "الملقا": {
+          "name_ar": "دهنة للحلويات",
+          "name_en": "Dohna Sweets",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي الملقا"
+        },
+        "حطين": {
+          "name_ar": "جي كو دونات",
+          "name_en": "J.CO Donuts",
+          "rating": 4.4,
+          "price": "$$",
+          "neighborhood": "حطين - الثغر بلازا"
+        },
+        "الياسمين": {
+          "name_ar": "غرين ميل بيكري",
+          "name_en": "Green Mill Bakery",
+          "rating": 4.5,
+          "price": "$$",
+          "neighborhood": "حي الياسمين"
+        }
+      }
+    },
+    {
+      "title": "ترفيه مجاني vs مدفوع",
+      "data": {
+        "free_top5": [
+          {
+            "name_ar": "وادي حنيفة",
+            "name_en": "Wadi Hanifah",
+            "rating": 4.5
+          },
+          {
+            "name_ar": "قلعة المصمك",
+            "name_en": "Al Masmak Fortress",
+            "rating": 4.5
+          },
+          {
+            "name_ar": "حديقة الملك فهد",
+            "name_en": "King Fahd Park",
+            "rating": 4.4
+          },
+          {
+            "name_ar": "وادي نمار",
+            "name_en": "Wadi Namar",
+            "rating": 4.4
+          },
+          {
+            "name_ar": "بوليفارد الرياضة",
+            "name_en": "Spa & Sports Boulevard",
+            "rating": 4.4
+          }
+        ],
+        "paid_top5": [
+          {
+            "name_ar": "فورميه ولنس",
+            "name_en": "Formé Wellness",
+            "rating": 4.8,
+            "price": "$$$"
+          },
+          {
+            "name_ar": "ذا سبا ماندارين أورينتال",
+            "name_en": "The Spa at Mandarin Oriental",
+            "rating": 4.8,
+            "price": "$$$$"
+          },
+          {
+            "name_ar": "سبا الليديز ماندارين أورينتال",
+            "name_en": "The Ladies Spa Mandarin Oriental",
+            "rating": 4.8,
+            "price": "$$$$"
+          },
+          {
+            "name_ar": "حافة العالم",
+            "name_en": "Edge of the World",
+            "rating": 4.7,
+            "price": "$"
+          },
+          {
+            "name_ar": "ريلايف ستوديو",
+            "name_en": "Relive Studio",
+            "rating": 4.7,
+            "price": "$$$"
+          }
+        ]
+      }
+    },
+    {
+      "title": "أفضل فندق حسب مستوى السعر",
+      "data": {
+        "$": {
+          "name_ar": "فندق كريستال أماكن",
+          "name_en": "Cristal Amaken Hotel",
+          "rating": 4.1,
+          "neighborhood": "حي الرياض"
+        },
+        "$$": {
+          "name_ar": "دارنت سوبر لاكشري العقيق",
+          "name_en": "Darent Super Luxury Al Aqiq",
+          "rating": 4.3,
+          "neighborhood": "حي العقيق"
+        },
+        "$$$": {
+          "name_ar": "ماندارين أورينتال الرياض",
+          "name_en": "Mandarin Oriental Riyadh",
+          "rating": 4.7,
+          "neighborhood": "كافد"
+        },
+        "$$$$": {
+          "name_ar": "فندق أمان الرياض",
+          "name_en": "Aman Riyadh",
+          "rating": 4.9,
+          "neighborhood": "الدرعية"
+        }
+      }
+    }
+  ]
+}

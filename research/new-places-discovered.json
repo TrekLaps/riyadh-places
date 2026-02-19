@@ -1,0 +1,366 @@
+{
+  "metadata": {
+    "collected_date": "2026-02-19",
+    "total_places": 38,
+    "categories": {
+      "restaurants": 27,
+      "cafes": 5,
+      "hotels": 4,
+      "entertainment": 4,
+      "malls": 2
+    }
+  },
+  "places": [
+    {
+      "name_ar": "بنوا",
+      "name_en": "Benoit",
+      "category": "restaurant",
+      "neighborhood": "KAFD",
+      "description_ar": "مطعم فرنسي بيسترو للشيف العالمي آلان دوكاس. أجواء باريسية كلاسيكية مع ثريات وبانكيتات حمراء. قائمة تشمل حساء البصل الفرنسي والإسكارجو وستيك أنجوس",
+      "source": "factmagazines.com, tasteandflavors.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "تشوتو ماتي",
+      "name_en": "Chotto Matte",
+      "category": "restaurant",
+      "neighborhood": "KAFD",
+      "description_ar": "مطعم نيكي يدمج المطبخ الياباني والبيروفي. جريل روباتا، واجيو A5، ديكور جرافيتي ونباتات. فروع في لندن وميامي وسان فرانسيسكو",
+      "source": "factmagazines.com, tasteandflavors.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "إيزابيل مايفير",
+      "name_en": "Isabel Mayfair",
+      "category": "restaurant",
+      "neighborhood": "السليمانية",
+      "description_ar": "مطبخ متوسطي من لندن. أجواء فاخرة مستوحاة من عصر Gatsby. ديكور أنيق مع لمسات بريطانية",
+      "source": "tasteandflavors.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "تليد",
+      "name_en": "Taleed by Michael Mina",
+      "category": "restaurant",
+      "neighborhood": "الدرعية",
+      "description_ar": "مطبخ متوسطي بتأثيرات حجازية للشيف مايكل مينا. مكونات محلية بتقنيات عالمية في الدرعية التاريخية",
+      "source": "tasteandflavors.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "أبو السيد",
+      "name_en": "Abou el Sid",
+      "category": "restaurant",
+      "neighborhood": "الرياض",
+      "description_ar": "مطعم مصري أسطوري من القاهرة. 25 سنة تراث. كبدة إسكندراني، فول، بط مشوي، أم علي",
+      "source": "factmagazines.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "بلو بيتزيريا",
+      "name_en": "Blu Pizzeriá",
+      "category": "restaurant",
+      "neighborhood": "النخيل",
+      "description_ar": "بيتزا نابولي إماراتية المنشأ. أفران حطب مع نكهات شرق أوسطية. بيتزا شورت ريبز وبيتزا مسخن وتارتوفو",
+      "source": "factmagazines.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "بوتانيكا",
+      "name_en": "Botanica",
+      "category": "restaurant",
+      "neighborhood": "KAFD",
+      "description_ar": "مطعم طوال اليوم في فندق Kimpton KAFD. مكونات محلية سعودية، ديكور نباتات وخشب. تيراميسو بالقهوة السعودية والزعفران",
+      "source": "factmagazines.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "كافيه لوكسيتان",
+      "name_en": "Café L'Occitane",
+      "category": "cafe",
+      "neighborhood": "الحي الدبلوماسي",
+      "description_ar": "أول فرع في السعودية. كافيه بروفانسي فرنسي في 1364 مول. معجنات حرفية وسلطات وشاي أعشاب في أجواء بوتيكية",
+      "source": "factmagazines.com, tasteandflavors.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "كافيه نوار",
+      "name_en": "Cafe Noir",
+      "category": "restaurant",
+      "neighborhood": "ليسن فالي",
+      "description_ar": "من قطر. أطباق أوروبية وآسيوية فاخرة. حساء الكمأة والمشروم، واجيو تاي سلاد، بيتزا ترافل ذهبية",
+      "source": "factmagazines.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "كوتشينا",
+      "name_en": "Cucina",
+      "category": "restaurant",
+      "neighborhood": "الرياض",
+      "description_ar": "مطعم إيطالي في Riyadh Marriott Hotel. باستا يدوية وبيتزا. غداء سريع أو عشاء طويل مع طبخ حي",
+      "source": "factmagazines.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "دومن",
+      "name_en": "Domn",
+      "category": "restaurant",
+      "neighborhood": "الياسمين",
+      "description_ar": "مطبخ هندي. باتر تشيكن، كدهاي، تكا، برياني. ديكور بسيط بكراسي خشب وطاولات Terrazzo",
+      "source": "factmagazines.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "إيدو",
+      "name_en": "EDO",
+      "category": "restaurant",
+      "neighborhood": "الرياض",
+      "description_ar": "مطعم ياباني جديد في الرياض",
+      "source": "factmagazines.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "فيامّا",
+      "name_en": "Fiamma",
+      "category": "restaurant",
+      "neighborhood": "Centria Mall",
+      "description_ar": "مطعم إيطالي على السطح بإطلالات على العاصمة. مستوحى من التأثيرات الإيطالية في نيويورك. أنتيباستي وباستا وبيتزا",
+      "source": "factmagazines.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "هوتشو",
+      "name_en": "Hocho",
+      "category": "restaurant",
+      "neighborhood": "Via Riyadh",
+      "description_ar": "مطعم متخصص بلحم Kobe Beef الياباني الفاخر في منطقة Via Riyadh الفاخرة",
+      "source": "factmagazines.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "كازا ميرا",
+      "name_en": "Casa Myrra",
+      "category": "restaurant",
+      "neighborhood": "الرياض",
+      "description_ar": "مطبخ متوسطي يمزج نكهات اليونان وإسبانيا. أجواء دافئة بألوان ترابية وديكور ريفي أنيق",
+      "source": "tasteandflavors.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "جونو",
+      "name_en": "Juno",
+      "category": "restaurant",
+      "neighborhood": "الرياض",
+      "description_ar": "مطعم إيطالي أنيق من علامة خليجية. بوراتا كريمية، ريزوتو زعفران، بيتزا أفران حطب",
+      "source": "tasteandflavors.com, saudimoments.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "كو آسيان كيتشن",
+      "name_en": "Ko Asian Kitchen",
+      "category": "restaurant",
+      "neighborhood": "السليمانية",
+      "description_ar": "مطبخ آسيوي-لاتيني من بيرو. باو سريراتشا تشيكن، ديمسم هونغ كونغ، أطباق مشتركة مبتكرة",
+      "source": "tasteandflavors.com, destinationksa.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "فيت فيت",
+      "name_en": "Phet Phet",
+      "category": "restaurant",
+      "neighborhood": "الرياض",
+      "description_ar": "مطبخ تايلاندي street food محسّن. ديكور مينيمل مع نيون. توابل جريئة وأجواء حيوية",
+      "source": "tasteandflavors.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "ساساني",
+      "name_en": "Sasani",
+      "category": "restaurant",
+      "neighborhood": "الرياض",
+      "description_ar": "مطبخ معاصر راقي يدمج النكهات التقليدية مع التقنيات الحديثة",
+      "source": "tasteandflavors.com, saudimoments.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "وايز جايز",
+      "name_en": "Wise Guys",
+      "category": "restaurant",
+      "neighborhood": "Al Mamlaka Dining",
+      "description_ar": "ساندويتشات كاجوال بحشوات سخية ومكونات عالية الجودة. أسماء إبداعية",
+      "source": "tasteandflavors.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "برايم كت",
+      "name_en": "Prime Cut",
+      "category": "restaurant",
+      "neighborhood": "شروفات / العليا",
+      "description_ar": "برجر شهير بنكهات قوية وحشوات ضخمة. فرعين في الرياض. طوابير دائمة",
+      "source": "timeoutriyadh.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "عمر",
+      "name_en": "Amar",
+      "category": "restaurant",
+      "neighborhood": "شارع التحلية - La Corte Mall",
+      "description_ar": "مطعم لبناني راقي من جدة. مزة، شيش طاووق، شاورما، كنافة، غزل عمر. أجواء اجتماعية حديثة",
+      "source": "factmagazines.com",
+      "opened": "2026"
+    },
+    {
+      "name_ar": "آبل باتر",
+      "name_en": "Apple Butter",
+      "category": "cafe",
+      "neighborhood": "KAFD",
+      "description_ar": "كافيه-مطعم من لندن. برانش طوال اليوم. بيض ترافل مخفوق، برجر واجيو، أم علي بيستاشيو. شجرة تفاح إنستجرامية",
+      "source": "factmagazines.com",
+      "opened": "2026"
+    },
+    {
+      "name_ar": "ليزا",
+      "name_en": "LIZA",
+      "category": "restaurant",
+      "neighborhood": "تراس البجيري - الدرعية",
+      "description_ar": "مطعم لبناني من بيروت وباريس. شعار Beyrouth je t'aime. مزة، جريل فحم، أعشاب وحمضيات. أجواء أنيقة واجتماعية",
+      "source": "factmagazines.com",
+      "opened": "2026"
+    },
+    {
+      "name_ar": "ذا فاينل إمبر",
+      "name_en": "The Vinyl Ember",
+      "category": "restaurant",
+      "neighborhood": "KAFD - Kimpton Hotel",
+      "description_ar": "مطعم أمريكي جريل سبيك إيزي في Kimpton KAFD. مطبخ نار مفتوح، إضاءة خافتة، بلايليستات سول. كوكتيلات بدون كحول",
+      "source": "factmagazines.com",
+      "opened": "2026"
+    },
+    {
+      "name_ar": "زيبا",
+      "name_en": "Ziba",
+      "category": "restaurant",
+      "neighborhood": "الرياض",
+      "description_ar": "مطعم فارسي من الخبر. ديكور فارسي كالمتاحف. مشاويات مختلطة، قورمه سبزي، جوجه كباب، تاهتشين مرغ",
+      "source": "factmagazines.com",
+      "opened": "2026"
+    },
+    {
+      "name_ar": "رالف كوفي",
+      "name_en": "Ralph's Coffee",
+      "category": "cafe",
+      "neighborhood": "KAFD",
+      "description_ar": "كافيه Ralph Lauren. قهوة فاخرة بأجواء أنيقة. وجهة إنستجرام",
+      "source": "timeoutriyadh.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "كوفي بلانيت",
+      "name_en": "Coffee Planet",
+      "category": "cafe",
+      "neighborhood": "KAFD",
+      "description_ar": "فرع جديد في KAFD. افتتح أغسطس 2025",
+      "source": "qahwaworld.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "بوهيميا آرت كافيه",
+      "name_en": "Bohemia Art Cafe & Record Store",
+      "category": "cafe",
+      "neighborhood": "The Warehouse - الرياض",
+      "description_ar": "كافيه ومتجر تسجيلات من الخبر. شراكة مع The Warehouse الرياض. أجواء فنية بوهيمية",
+      "source": "whatsonsaudiarabia.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "فيني كوفي",
+      "name_en": "Veni Coffee",
+      "category": "cafe",
+      "neighborhood": "حي الملك سلمان",
+      "description_ar": "كافيه فايرل جديد. طوابير طويلة. في King Salman Neighbourhood",
+      "source": "whatsonsaudiarabia.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "كيمبتون KAFD الرياض",
+      "name_en": "Kimpton KAFD Riyadh",
+      "category": "hotel",
+      "neighborhood": "KAFD",
+      "description_ar": "أول فندق كيمبتون في الشرق الأوسط. 212 غرفة. 4 مطاعم (Botanica, The Vinyl Ember, وغيرها). مسبح سطح. أسلوب حياة فاخر",
+      "source": "ihgplc.com, hospitalitynet.org",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "باب سمحان",
+      "name_en": "Bab Samhan, Luxury Collection",
+      "category": "hotel",
+      "neighborhood": "الدرعية",
+      "description_ar": "فندق فاخر من مجموعة Luxury Collection في الدرعية التاريخية",
+      "source": "destinationksa.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "سانت ريجيس الرياض",
+      "name_en": "St. Regis Riyadh",
+      "category": "hotel",
+      "neighborhood": "Via Riyadh",
+      "description_ar": "في منطقة Via Riyadh الفاخرة. من أفخم فنادق الرياض 2026",
+      "source": "hotelandcatering.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "دبليو الرياض",
+      "name_en": "W Riyadh-KAFD",
+      "category": "hotel",
+      "neighborhood": "KAFD",
+      "description_ar": "أول فندق W في السعودية. متوقع الافتتاح Q1 2026 من ماريوت",
+      "source": "connectingtravel.com",
+      "opened": "2026"
+    },
+    {
+      "name_ar": "بيست لاند",
+      "name_en": "Beast Land",
+      "category": "entertainment",
+      "neighborhood": "حي حطين",
+      "description_ar": "منطقة MrBeast الحصرية في موسم الرياض. 40+ متجر ومطعم، 15 لعبة حركية، 12 تجربة ترفيهية مبتكرة. تحديات ومسابقات وجوائز",
+      "source": "timeoutriyadh.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "بوليفارد فلاورز",
+      "name_en": "Boulevard Flowers",
+      "category": "entertainment",
+      "neighborhood": "الرياض",
+      "description_ar": "بديل Wonder Garden. 214,000 م². 200 مليون زهرة مزروعة، 200 نحت عملاق زهري، 3 طائرات Boeing 777، 40 مطعم وكافيه",
+      "source": "timeoutriyadh.com",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "دوس كارتنق",
+      "name_en": "Doos Karting",
+      "category": "entertainment",
+      "neighborhood": "موسم الرياض",
+      "description_ar": "حلبة كارتنق في موسم الرياض. سباقات حقيقية وأدرينالين",
+      "source": "x.com/RiyadhSeason",
+      "opened": "2025"
+    },
+    {
+      "name_ar": "الأفنيوز الرياض",
+      "name_en": "The Avenues Riyadh",
+      "category": "mall",
+      "neighborhood": "الرياض",
+      "description_ar": "مشروع بـ 4.58 مليار دولار. أكبر مول قادم. متوقع الافتتاح Q1 2026",
+      "source": "welcomesaudi.com, thesaudiboom.com",
+      "opened": "2026"
+    },
+    {
+      "name_ar": "ظلال",
+      "name_en": "Zallal",
+      "category": "mall",
+      "neighborhood": "حي البجيري - الدرعية",
+      "description_ar": "أول مشروع تجاري مختلط كبير في الدرعية. مكاتب وتجزئة",
+      "source": "diriyahcompany.sa",
+      "opened": "2025"
+    }
+  ]
+}

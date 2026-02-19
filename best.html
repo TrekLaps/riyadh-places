@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>أفضل الأماكن في الرياض 2026 — أفضل 10 مطاعم، كافيهات، ترفيه، حلويات | وين نروح</title>
+  <meta name="description" content="أفضل 10 أماكن في الرياض لكل فئة: مطاعم، كافيهات، ترفيه، حلويات. مرتبة بالتقييم مع الأسعار والأحياء. فلتر حسب الحي والسعر والجمهور.">
+  <meta name="keywords" content="أفضل مطاعم الرياض, أفضل كافيهات الرياض, أفضل ترفيه الرياض, أفضل حلويات الرياض, top 10 riyadh">
+  <link rel="canonical" href="https://wain-nrooh.com/best.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="أفضل الأماكن في الرياض 2026 — أفضل 10 لكل فئة">
+  <meta property="og:description" content="أفضل 10 مطاعم، كافيهات، أماكن ترفيه، وحلويات في الرياض مع التقييم والسعر.">
+  <meta property="og:url" content="https://wain-nrooh.com/best.html">
+  <meta property="og:locale" content="ar_SA">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0a1628">
+  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+  <link rel="preload" href="data/places-light.json" as="fetch" crossorigin>
+  <style>
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{font-family:'Tajawal',sans-serif;background:#0a1628;color:#e0e0e0;direction:rtl}
+    .header{background:linear-gradient(135deg,#0a1628 0%,#1a2a4a 100%);padding:12px 20px;position:sticky;top:0;z-index:100}
+    .header-inner{display:flex;align-items:center;justify-content:space-between;max-width:1400px;margin:auto}
+    .logo{text-decoration:none;color:#c9a84c;display:flex;align-items:center;gap:8px}
+    .logo h1{font-size:1.2rem;margin:0}
+  </style>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    /* ===== Best Page Styles ===== */
+    .best-hero {
+      background: linear-gradient(135deg, var(--primary) 0%, #1a2d50 50%, var(--primary-light) 100%);
+      color: white;
+      text-align: center;
+      padding: 70px 20px 60px;
+      position: relative;
+      overflow: hidden;
+    }
+    .best-hero::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: repeating-linear-gradient(60deg, transparent, transparent 40px, rgba(201,168,76,0.03) 40px, rgba(201,168,76,0.03) 41px),
+        repeating-linear-gradient(-60deg, transparent, transparent 40px, rgba(201,168,76,0.03) 40px, rgba(201,168,76,0.03) 41px);
+      pointer-events: none;
+    }
+    .best-hero::after {
+      content: '';
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      height: 4px;
+      background: linear-gradient(90deg, transparent, var(--gold), transparent);
+    }
+    .best-hero h2 {
+      font-size: 42px;
+      font-weight: 900;
+      margin-bottom: 14px;
+      position: relative;
+    }
+    .best-hero h2 span { color: var(--gold); }
+    .best-hero p {
+      font-size: 18px;
+      color: rgba(255,255,255,0.7);
+      max-width: 600px;
+      margin: 0 auto;
+      position: relative;
+    }
+
+    /* Filters */
+    .best-filters {
+      max-width: var(--max-width);
+      margin: -25px auto 30px;
+      padding: 0 20px;
+      position: relative;
+      z-index: 10;
+    }
+    .filters-bar {
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      padding: 20px 24px;
+      box-shadow: var(--shadow);
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      align-items: center;
+      border-top: 3px solid var(--gold);
+    }
+    .filter-group {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      flex: 1;
+      min-width: 160px;
+    }
+    .filter-group label {
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--text-muted);
+    }
+    .filter-group select {
+      padding: 10px 14px;
+      border: 2px solid var(--border);
+      border-radius: var(--radius-sm);
+      font-family: 'Tajawal', sans-serif;
+      font-size: 0.95rem;
+      font-weight: 600;
+      background: var(--sand);
+      color: var(--text);
+      cursor: pointer;
+      direction: rtl;
+      appearance: none;
+      -webkit-appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23888' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: 14px center;
+    }
+    .filter-group select:focus {
+      outline: none;
+      border-color: var(--gold);
+    }
+
+    /* Category Tabs */
+    .category-tabs {
+      max-width: var(--max-width);
+      margin: 0 auto 10px;
+      padding: 0 20px;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .cat-tab {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 24px;
+      border-radius: var(--radius);
+      font-family: 'Tajawal', sans-serif;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      border: 2px solid var(--border);
+      background: var(--card-bg);
+      color: var(--text);
+      transition: var(--transition);
+    }
+    .cat-tab:hover {
+      border-color: var(--gold);
+      transform: translateY(-2px);
+    }
+    .cat-tab.active {
+      background: var(--gold);
+      color: var(--primary);
+      border-color: var(--gold);
+      box-shadow: var(--shadow-gold);
+    }
+    .cat-tab .tab-icon { font-size: 1.2rem; }
+
+    /* Section */
+    .best-section {
+      max-width: var(--max-width);
+      margin: 30px auto;
+      padding: 0 20px;
+    }
+    .best-section-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+    .best-section-header .section-icon {
+      font-size: 32px;
+      background: linear-gradient(135deg, var(--primary), var(--primary-light));
+      width: 56px;
+      height: 56px;
+      border-radius: 14px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .best-section-header h2 {
+      font-size: 26px;
+      font-weight: 800;
+      color: var(--text);
+      position: relative;
+      padding-bottom: 8px;
+    }
+    .best-section-header h2::after {
+      content: '';
+      position: absolute;
+      bottom: 0; right: 0;
+      width: 40px;
+      height: 3px;
+      background: var(--gold);
+      border-radius: 2px;
+    }
+
+    /* Rank Cards */
+    .best-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 20px;
+    }
+    .best-card {
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+      transition: var(--transition);
+      position: relative;
+      border: 1px solid var(--border);
+    }
+    .best-card:hover {
+      transform: translateY(-6px);
+      box-shadow: var(--shadow-hover);
+    }
+    .best-card-rank {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      width: 40px;
+      height: 40px;
+      background: var(--gold);
+      color: var(--primary);
+      font-weight: 900;
+      font-size: 1.1rem;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 5;
+      box-shadow: 0 4px 12px rgba(201,168,76,0.4);
+    }
+    .best-card-rank.top3 {
+      width: 48px;
+      height: 48px;
+      font-size: 1.3rem;
+      background: linear-gradient(135deg, #FFD700, #FFA500);
+      box-shadow: 0 4px 16px rgba(255,215,0,0.5);
+    }
+    .best-card-image {
+      height: 180px;
+      background: var(--primary-light);
+      position: relative;
+      overflow: hidden;
+    }
+    .best-card-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .best-card-body {
+      padding: 18px;
+    }
+    .best-card-body h3 {
+      font-size: 1.15rem;
+      font-weight: 800;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+    .best-card-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+    .meta-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 4px 10px;
+      border-radius: 20px;
+      font-size: 0.8rem;
+      font-weight: 600;
+    }
+    .meta-rating {
+      background: rgba(201,168,76,0.12);
+      color: var(--gold-dark);
+    }
+    .meta-price {
+      background: rgba(8,145,178,0.1);
+      color: var(--teal);
+    }
+    .meta-neighborhood {
+      background: var(--sand);
+      color: var(--text-light);
+      border: 1px solid var(--border);
+    }
+    .best-card-desc {
+      font-size: 0.85rem;
+      color: var(--text-light);
+      line-height: 1.7;
+      margin-bottom: 12px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .best-card-audience {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+    .audience-chip {
+      background: var(--primary);
+      color: var(--gold);
+      padding: 3px 10px;
+      border-radius: 14px;
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+    .best-card-actions {
+      display: flex;
+      gap: 8px;
+      margin-top: 12px;
+      padding-top: 12px;
+      border-top: 1px solid var(--border);
+    }
+    .best-card-actions a {
+      flex: 1;
+      text-align: center;
+      padding: 8px;
+      border-radius: var(--radius-sm);
+      font-size: 0.85rem;
+      font-weight: 700;
+      transition: var(--transition);
+    }
+    .btn-maps {
+      background: var(--gold);
+      color: var(--primary);
+    }
+    .btn-maps:hover {
+      background: var(--gold-light);
+    }
+    .btn-compare {
+      background: var(--primary);
+      color: white;
+    }
+    .btn-compare:hover {
+      background: var(--primary-light);
+    }
+
+    /* Best Value Badge */
+    .best-value-badge {
+      position: absolute;
+      top: 12px;
+      left: 12px;
+      background: linear-gradient(135deg, #27ae60, #2ecc71);
+      color: white;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      z-index: 5;
+    }
+
+    /* No results */
+    .no-results-best {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-muted);
+    }
+    .no-results-best .emoji { font-size: 3rem; margin-bottom: 12px; }
+    .no-results-best h3 { color: var(--text); font-size: 1.2rem; }
+
+    @media (max-width: 768px) {
+      .best-hero { padding: 50px 16px 45px; }
+      .best-hero h2 { font-size: 28px; }
+      .best-hero p { font-size: 15px; }
+      .filters-bar { flex-direction: column; }
+      .filter-group { min-width: 100%; }
+      .category-tabs { gap: 8px; }
+      .cat-tab { padding: 10px 16px; font-size: 0.9rem; }
+      .best-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+  <link rel="stylesheet" href="css/ramadan.css">
+  <link rel="stylesheet" href="css/search-header.css">
+</head>
+<body>
+
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><span>🏙️</span><h1>وين نروح بالرياض؟</h1></a>
+      <button class="dark-mode-toggle" aria-label="الوضع الليلي">🌙</button>
+      <button class="menu-toggle" aria-label="القائمة">☰</button>
+      <nav class="nav">
+        <a href="index.html">الرئيسية</a>
+        <a href="cafes.html">كافيهات</a>
+        <a href="restaurants.html">مطاعم</a>
+        <a href="activities.html">ترفيه</a>
+        <a href="events.html">فعاليات</a>
+        <a href="new-places.html">جديد</a>
+        <a href="discover.html">🎲 وين نروح؟</a>
+        <a href="best.html" class="active">🏆 الأفضل</a>
+        <a href="compare.html">⚖️ قارن</a>
+        <div class="nav-dropdown">
+          <a href="#">المزيد</a>
+          <div class="dropdown-menu">
+            <a href="prices.html">💰 أسعار</a>
+            <a href="shopping.html">🛍️ تسوق</a>
+            <a href="nature.html">🏞️ طبيعة</a>
+            <a href="desserts.html">🍰 حلويات</a>
+            <a href="top-rated.html">⭐ الأعلى تقييماً</a>
+            <div class="dropdown-divider"></div>
+            <a href="neighborhoods.html">🏘️ أحياء الرياض</a>
+            <a href="ramadan.html">🌙 رمضان</a>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <section class="best-hero">
+    <h2>🏆 أفضل <span>الأماكن</span> في الرياض</h2>
+    <p>أفضل 10 أماكن في كل فئة — مرتبة حسب تقييمات قوقل الحقيقية مع الأسعار والمواقع</p>
+  </section>
+
+  <!-- Breadcrumb -->
+  <div class="breadcrumb" style="max-width:var(--max-width);margin:16px auto 0;padding:0 20px;">
+    <a href="index.html">الرئيسية</a><span>›</span><strong>أفضل الأماكن</strong>
+  </div>
+
+  <!-- Category Tabs -->
+  <div class="category-tabs" id="category-tabs" style="margin-top:20px;">
+    <button class="cat-tab active" data-cat="all"><span class="tab-icon">🏆</span> الكل</button>
+    <button class="cat-tab" data-cat="مطعم"><span class="tab-icon">🍽️</span> مطاعم</button>
+    <button class="cat-tab" data-cat="كافيه"><span class="tab-icon">☕</span> كافيهات</button>
+    <button class="cat-tab" data-cat="ترفيه"><span class="tab-icon">🎭</span> ترفيه</button>
+    <button class="cat-tab" data-cat="حلويات"><span class="tab-icon">🍰</span> حلويات</button>
+  </div>
+
+  <!-- Filters -->
+  <div class="best-filters">
+    <div class="filters-bar">
+      <div class="filter-group">
+        <label>📍 الحي</label>
+        <select id="filter-neighborhood">
+          <option value="">كل الأحياء</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label>💰 السعر</label>
+        <select id="filter-price">
+          <option value="">كل الأسعار</option>
+          <option value="$">$ رخيص</option>
+          <option value="$$">$$ متوسط</option>
+          <option value="$$$">$$$ غالي</option>
+          <option value="$$$$">$$$$ فاخر</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label>👥 الجمهور</label>
+        <select id="filter-audience">
+          <option value="">الكل</option>
+          <option value="عوائل">عوائل</option>
+          <option value="شباب">شباب</option>
+          <option value="أزواج">أزواج</option>
+          <option value="أطفال">أطفال</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <!-- Sections Container -->
+  <div id="best-content"></div>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div>
+        <h3>وين نروح بالرياض؟</h3>
+        <p>دليلك الشامل لأفضل الأماكن في الرياض مع تقييمات قوقل الحقيقية.</p>
+      </div>
+      <div>
+        <h3>الأقسام</h3>
+        <ul>
+          <li><a href="cafes.html">كافيهات</a></li>
+          <li><a href="restaurants.html">مطاعم</a></li>
+          <li><a href="activities.html">ترفيه</a></li>
+          <li><a href="desserts.html">حلويات</a></li>
+          <li><a href="best.html">🏆 أفضل الأماكن</a></li>
+          <li><a href="prices.html">💰 أسعار</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-heart">صنع بـ <span>❤️</span> في الرياض</div>
+    <div class="footer-bottom"><p>© 2025-2026 وين نروح بالرياض؟ جميع الحقوق محفوظة.</p></div>
+  </footer>
+
+  <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
+
+  <script src="js/darkmode.js"></script>
+  <script src="js/main.js"></script>
+  <script>
+    const catConfig = {
+      'مطعم': { icon: '🍽️', title: 'أفضل 10 مطاعم في الرياض', gradient: 'linear-gradient(135deg, #c0392b, #e74c3c)' },
+      'كافيه': { icon: '☕', title: 'أفضل 10 كافيهات في الرياض', gradient: 'linear-gradient(135deg, #6F4E37, #A0785A)' },
+      'ترفيه': { icon: '🎭', title: 'أفضل 10 أماكن ترفيه في الرياض', gradient: 'linear-gradient(135deg, #8e44ad, #9b59b6)' },
+      'حلويات': { icon: '🍰', title: 'أفضل 10 محلات حلويات في الرياض', gradient: 'linear-gradient(135deg, #e84393, #fd79a8)' }
+    };
+
+    function priceToNum(p) {
+      return {'مجاني':0,'$':1,'$$':2,'$$$':3,'$$$$':4}[p] || 0;
+    }
+
+    function renderBestCard(place, rank) {
+      const isTop3 = rank <= 3;
+      const audiences = (place.audience || []).map(a => `<span class="audience-chip">${a}</span>`).join('');
+      const desc = place.description_ar || '';
+      const img = place.image_url ? `<img src="${place.image_url}" alt="${place.name_ar}" loading="lazy">` : `<div style="width:100%;height:100%;background:var(--primary-light);display:flex;align-items:center;justify-content:center;font-size:3rem;">${catConfig[place.category]?.icon || '📍'}</div>`;
+      
+      // Best value: high rating + low price
+      const isBestValue = place.google_rating >= 4.3 && (place.price_level === '$' || place.price_level === '$$');
+
+      return `
+        <div class="best-card" data-neighborhood="${place.neighborhood}" data-price="${place.price_level}" data-audience="${(place.audience||[]).join(',')}" data-category="${place.category}">
+          <div class="best-card-rank ${isTop3 ? 'top3' : ''}">${rank}</div>
+          ${isBestValue ? '<div class="best-value-badge">💎 أفضل قيمة</div>' : ''}
+          <div class="best-card-image">${img}</div>
+          <div class="best-card-body">
+            <h3>${place.name_ar}</h3>
+            <div class="best-card-meta">
+              <span class="meta-badge meta-rating">⭐ ${place.google_rating}</span>
+              <span class="meta-badge meta-price">${place.price_level || '--'}</span>
+              <span class="meta-badge meta-neighborhood">📍 ${place.neighborhood}</span>
+            </div>
+            ${desc ? `<p class="best-card-desc">${desc}</p>` : ''}
+            ${audiences ? `<div class="best-card-audience">${audiences}</div>` : ''}
+            <div class="best-card-actions">
+              <a href="${place.google_maps_url || '#'}" target="_blank" class="btn-maps">📍 الموقع</a>
+              <a href="compare.html?p1=${place.id}" class="btn-compare">⚖️ قارن</a>
+            </div>
+          </div>
+        </div>
+      `;
+    }
+
+    function renderSection(cat, places) {
+      const conf = catConfig[cat];
+      if (!conf) return '';
+      const top10 = places
+        .filter(p => p.category === cat)
+        .sort((a, b) => b.google_rating - a.google_rating || (b.review_count||0) - (a.review_count||0))
+        .slice(0, 10);
+
+      if (top10.length === 0) return '';
+
+      return `
+        <section class="best-section" id="section-${cat}" data-cat="${cat}">
+          <div class="best-section-header">
+            <div class="section-icon" style="background:${conf.gradient}">${conf.icon}</div>
+            <div><h2>${conf.title}</h2></div>
+          </div>
+          <div class="best-grid">
+            ${top10.map((p, i) => renderBestCard(p, i + 1)).join('')}
+          </div>
+        </section>
+      `;
+    }
+
+    function applyFilters() {
+      const neighborhood = document.getElementById('filter-neighborhood').value;
+      const price = document.getElementById('filter-price').value;
+      const audience = document.getElementById('filter-audience').value;
+
+      document.querySelectorAll('.best-card').forEach(card => {
+        let show = true;
+        if (neighborhood && card.dataset.neighborhood !== neighborhood) show = false;
+        if (price && card.dataset.price !== price) show = false;
+        if (audience && !(card.dataset.audience || '').includes(audience)) show = false;
+        card.style.display = show ? '' : 'none';
+      });
+    }
+
+    document.addEventListener('DOMContentLoaded', async () => {
+      const places = await loadPlaces();
+      const content = document.getElementById('best-content');
+
+      // Populate neighborhoods
+      const hoods = [...new Set(places.map(p => p.neighborhood).filter(Boolean))].sort();
+      const hoodSelect = document.getElementById('filter-neighborhood');
+      hoods.forEach(h => {
+        const opt = document.createElement('option');
+        opt.value = h;
+        opt.textContent = h;
+        hoodSelect.appendChild(opt);
+      });
+
+      // Render all sections
+      const categories = ['مطعم', 'كافيه', 'ترفيه', 'حلويات'];
+      content.innerHTML = categories.map(cat => renderSection(cat, places)).join('');
+
+      // Tab switching
+      document.querySelectorAll('.cat-tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+          document.querySelectorAll('.cat-tab').forEach(t => t.classList.remove('active'));
+          tab.classList.add('active');
+          const cat = tab.dataset.cat;
+          document.querySelectorAll('.best-section').forEach(s => {
+            s.style.display = (cat === 'all' || s.dataset.cat === cat) ? '' : 'none';
+          });
+        });
+      });
+
+      // Filters
+      ['filter-neighborhood', 'filter-price', 'filter-audience'].forEach(id => {
+        document.getElementById(id).addEventListener('change', applyFilters);
+      });
+    });
+  </script>
+  <script>
+    document.querySelectorAll('.nav-dropdown > a').forEach(a => {
+      a.addEventListener('click', (e) => {
+        if (window.innerWidth <= 768) { e.preventDefault(); a.parentElement.classList.toggle('open'); }
+      });
+    });
+  </script>
+  <script src="js/ramadan.js" defer></script>
+  <script src="js/analytics.js" defer></script>
+</body>
+</html>

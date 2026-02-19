@@ -1,0 +1,452 @@
+[
+  {
+    "name_en": "PAUL Riyadh Park",
+    "name_ar": "بول",
+    "avg_per_person": 85,
+    "menu_highlights": [
+      {"item": "كرواسون زبدة", "price": 16},
+      {"item": "كرواسون بستاشيو", "price": 22},
+      {"item": "لاتيه", "price": 24},
+      {"item": "سلطة نيسواز", "price": 52},
+      {"item": "ساندويش كلوب", "price": 55}
+    ],
+    "price_range": [16, 120],
+    "source": "hungerstation/tripadvisor",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "So Matcha",
+    "name_ar": "سو ماتشا",
+    "avg_per_person": 65,
+    "menu_highlights": [
+      {"item": "ماتشا لاتيه", "price": 30},
+      {"item": "ايس ماتشا", "price": 32},
+      {"item": "ماتشا كيك", "price": 35},
+      {"item": "ماتشا تيراميسو", "price": 38},
+      {"item": "هوجيشا لاتيه", "price": 28}
+    ],
+    "price_range": [25, 55],
+    "source": "welcomesaudi/google-reviews",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "NAC",
+    "name_ar": "ناك",
+    "avg_per_person": 130,
+    "menu_highlights": [
+      {"item": "شكشوكة", "price": 58},
+      {"item": "فرنش توست", "price": 55},
+      {"item": "آساي بول", "price": 52},
+      {"item": "بانكيك دولتشي كراميل", "price": 60},
+      {"item": "لاتيه", "price": 25}
+    ],
+    "price_range": [25, 120],
+    "source": "nacriyadh.com/welcomesaudi",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Qahwat Bouh",
+    "name_ar": "قهوة بوح",
+    "avg_per_person": 45,
+    "menu_highlights": [
+      {"item": "قهوة عربية (إبريق)", "price": 25},
+      {"item": "كرك أصلي", "price": 15},
+      {"item": "شاهي (إبريق وسط)", "price": 20},
+      {"item": "غرفة خاصة VIP", "price": 150},
+      {"item": "حليب بالزعفران", "price": 18}
+    ],
+    "price_range": [12, 150],
+    "source": "cafesriyadh.com/google-reviews",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Moosh Cafe",
+    "name_ar": "موش كافيه",
+    "avg_per_person": 55,
+    "menu_highlights": [
+      {"item": "لاتيه", "price": 22},
+      {"item": "فلات وايت", "price": 22},
+      {"item": "ساندويش عيشة", "price": 28},
+      {"item": "كروسان", "price": 18},
+      {"item": "V60", "price": 25}
+    ],
+    "price_range": [15, 45],
+    "source": "linktree/google-reviews",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "A Place Bakehouse",
+    "name_ar": "أ بليس بيكهاوس",
+    "avg_per_person": 75,
+    "menu_highlights": [
+      {"item": "كرواسون حلومي", "price": 28},
+      {"item": "إيقز بنديكت", "price": 55},
+      {"item": "لاتيه", "price": 25},
+      {"item": "تارت فواكه", "price": 32},
+      {"item": "آيس تي باشن فروت", "price": 28}
+    ],
+    "price_range": [20, 75],
+    "source": "wanderlog/google-reviews",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Air Specialty Coffee",
+    "name_ar": "اير سبيشالتي كوفي",
+    "avg_per_person": 40,
+    "menu_highlights": [
+      {"item": "V60 بور أوفر", "price": 28},
+      {"item": "فلات وايت", "price": 22},
+      {"item": "لاتيه", "price": 22},
+      {"item": "إسبريسو", "price": 16},
+      {"item": "كولد برو", "price": 25}
+    ],
+    "price_range": [14, 38],
+    "source": "daymarkcoffeeguide/google-reviews",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Wijar Cafe",
+    "name_ar": "وجار كافيه",
+    "avg_per_person": 45,
+    "menu_highlights": [
+      {"item": "V60", "price": 28},
+      {"item": "لاتيه", "price": 23},
+      {"item": "سبانش لاتيه", "price": 25},
+      {"item": "فلات وايت", "price": 23},
+      {"item": "كيمكس", "price": 32}
+    ],
+    "price_range": [15, 40],
+    "source": "google-reviews/soulofsaudi",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Kindah Coffee",
+    "name_ar": "كندة كوفي",
+    "avg_per_person": 40,
+    "menu_highlights": [
+      {"item": "V60", "price": 25},
+      {"item": "لاتيه", "price": 22},
+      {"item": "فلات وايت", "price": 22},
+      {"item": "إسبريسو", "price": 15},
+      {"item": "آيس لاتيه", "price": 24}
+    ],
+    "price_range": [12, 35],
+    "source": "google-reviews/daymarkcoffeeguide",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Rex Coffee",
+    "name_ar": "ركس كوفي",
+    "avg_per_person": 40,
+    "menu_highlights": [
+      {"item": "V60", "price": 26},
+      {"item": "لاتيه", "price": 22},
+      {"item": "إسبريسو", "price": 15},
+      {"item": "كولد برو", "price": 24},
+      {"item": "فلات وايت", "price": 22}
+    ],
+    "price_range": [12, 36],
+    "source": "google-reviews/daymarkcoffeeguide",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Blink Cafe",
+    "name_ar": "بلينك كافيه",
+    "avg_per_person": 45,
+    "menu_highlights": [
+      {"item": "فلات وايت", "price": 22},
+      {"item": "لاتيه", "price": 24},
+      {"item": "V60", "price": 28},
+      {"item": "حبوب قهوة (كيس)", "price": 85},
+      {"item": "إسبريسو", "price": 16}
+    ],
+    "price_range": [14, 95],
+    "source": "foursquare/google-reviews",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "12 Cups",
+    "name_ar": "12 كبس",
+    "avg_per_person": 45,
+    "menu_highlights": [
+      {"item": "V60", "price": 28},
+      {"item": "لاتيه", "price": 24},
+      {"item": "كولد برو", "price": 26},
+      {"item": "فلات وايت", "price": 24},
+      {"item": "كوفي أوف ذا داي (لارج)", "price": 12}
+    ],
+    "price_range": [12, 40],
+    "source": "wanderlog/google-reviews",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Café Tale",
+    "name_ar": "كافيه تيل",
+    "avg_per_person": 55,
+    "menu_highlights": [
+      {"item": "لاتيه", "price": 25},
+      {"item": "فلات وايت", "price": 25},
+      {"item": "بيكان تارت", "price": 30},
+      {"item": "كرواسون", "price": 22},
+      {"item": "V60", "price": 30}
+    ],
+    "price_range": [18, 45],
+    "source": "cafetale.com/foursquare",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Elixir Bunn",
+    "name_ar": "إلكسير بن",
+    "avg_per_person": 45,
+    "menu_highlights": [
+      {"item": "V60", "price": 30},
+      {"item": "لاتيه", "price": 24},
+      {"item": "فلات وايت", "price": 24},
+      {"item": "إسبريسو", "price": 16},
+      {"item": "كيمكس", "price": 35}
+    ],
+    "price_range": [14, 42],
+    "source": "google-reviews/soulofsaudi",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Barn's Coffee",
+    "name_ar": "بارنز كوفي",
+    "avg_per_person": 30,
+    "menu_highlights": [
+      {"item": "إسبريسو", "price": 9},
+      {"item": "كابتشينو", "price": 12},
+      {"item": "لاتيه", "price": 13},
+      {"item": "آيس كراميل لاتيه", "price": 16},
+      {"item": "فرابتشينو كراميل", "price": 18}
+    ],
+    "price_range": [8, 19],
+    "source": "arabsmenu.com/ksamenus.com",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Operation Falafel",
+    "name_ar": "عملية فلافل",
+    "avg_per_person": 50,
+    "menu_highlights": [
+      {"item": "راب فلافل", "price": 22},
+      {"item": "شاورما دجاج", "price": 25},
+      {"item": "حمص", "price": 18},
+      {"item": "فتوش", "price": 20},
+      {"item": "بروستد دجاج", "price": 35}
+    ],
+    "price_range": [15, 55],
+    "source": "hungerstation/tripadvisor",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Salt Riyadh",
+    "name_ar": "سولت",
+    "avg_per_person": 65,
+    "menu_highlights": [
+      {"item": "سولت برجر (واقيو)", "price": 43},
+      {"item": "تربل برجر", "price": 49},
+      {"item": "بطاطس", "price": 15},
+      {"item": "ميلك شيك لوتس", "price": 28},
+      {"item": "سوفت سيرف آيسكريم", "price": 22}
+    ],
+    "price_range": [15, 65],
+    "source": "ananinja.com/hungerstation",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Julien (Four Seasons)",
+    "name_ar": "جوليان (فور سيزونز)",
+    "avg_per_person": 350,
+    "menu_highlights": [
+      {"item": "ستيك فيليه", "price": 320},
+      {"item": "لوبستر ثيرمادور", "price": 380},
+      {"item": "سلطة سيزر", "price": 75},
+      {"item": "كريم بروليه", "price": 65},
+      {"item": "باستا ترافل", "price": 145}
+    ],
+    "price_range": [65, 450],
+    "source": "tripadvisor/opentable",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Namu",
+    "name_ar": "نامو",
+    "avg_per_person": 200,
+    "menu_highlights": [
+      {"item": "دمبلنج مقلي (روبيان/دجاج)", "price": 49},
+      {"item": "تيوبوكي أرز حار", "price": 39},
+      {"item": "كوري بي بي كيو", "price": 185},
+      {"item": "بيبيمباب", "price": 75},
+      {"item": "سي فود باجون", "price": 55}
+    ],
+    "price_range": [39, 250],
+    "source": "arabnews.com/timeoutriyadh",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Zuma Riyadh",
+    "name_ar": "زوما",
+    "avg_per_person": 500,
+    "menu_highlights": [
+      {"item": "سلمون نيغيري أبوري", "price": 110},
+      {"item": "واقيو نيغيري بالترفل", "price": 186},
+      {"item": "مكاي رول سلطعون", "price": 185},
+      {"item": "سلمون ساشيمي", "price": 65},
+      {"item": "دايكوكو تيستنغ مينو (للشخص)", "price": 159}
+    ],
+    "price_range": [31, 400],
+    "source": "zumarestaurant.com/timeoutriyadh",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Nobu Riyadh",
+    "name_ar": "نوبو",
+    "avg_per_person": 500,
+    "menu_highlights": [
+      {"item": "بلاك كود ميسو", "price": 195},
+      {"item": "يلوتيل جالابينو", "price": 120},
+      {"item": "روك شريمب تمبورا", "price": 110},
+      {"item": "واقيو تاتاكي", "price": 175},
+      {"item": "أوماكاسي تيستنغ مينو", "price": 450}
+    ],
+    "price_range": [65, 500],
+    "source": "tripadvisor/noburestaurants.com",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Din Tai Fung",
+    "name_ar": "دن تاي فنغ",
+    "avg_per_person": 120,
+    "menu_highlights": [
+      {"item": "شياو لونغ باو (10 حبات)", "price": 52},
+      {"item": "دمبلنج روبيان", "price": 58},
+      {"item": "نودلز لحم", "price": 48},
+      {"item": "أرز مقلي", "price": 45},
+      {"item": "تشيز كيك", "price": 35}
+    ],
+    "price_range": [28, 85],
+    "source": "tripadvisor/dintaifung-delivery",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "La Brasserie (Al Faisaliah)",
+    "name_ar": "لا براسيري (الفيصلية)",
+    "avg_per_person": 250,
+    "menu_highlights": [
+      {"item": "بوفيه فطور (للشخص)", "price": 210},
+      {"item": "ستيك ريب آي", "price": 280},
+      {"item": "سلمون مشوي", "price": 165},
+      {"item": "سلطة سيزر", "price": 72},
+      {"item": "تشيز كيك", "price": 65}
+    ],
+    "price_range": [65, 350],
+    "source": "mandarinoriental.com/opentable",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Café Boulud",
+    "name_ar": "كافيه بولود",
+    "avg_per_person": 300,
+    "menu_highlights": [
+      {"item": "ستيك فيليه", "price": 295},
+      {"item": "دجاج مشوي", "price": 155},
+      {"item": "باستا ترافل", "price": 140},
+      {"item": "سلطة بولود", "price": 75},
+      {"item": "كريم بروليه", "price": 60}
+    ],
+    "price_range": [60, 380],
+    "source": "fourseasons.com/tripadvisor",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "attaché",
+    "name_ar": "أتاشيه",
+    "avg_per_person": 250,
+    "menu_highlights": [
+      {"item": "واقيو تو ويز", "price": 110},
+      {"item": "بون مارو ريزوتو", "price": 160},
+      {"item": "واقيو سيرلوين MB7+", "price": 400},
+      {"item": "ندوجا ريغاتوني", "price": 125},
+      {"item": "سان سبستيان تشيزكيك", "price": 60}
+    ],
+    "price_range": [35, 400],
+    "source": "attache.redro.menu",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Lusin",
+    "name_ar": "لوسين",
+    "avg_per_person": 180,
+    "menu_highlights": [
+      {"item": "مشوي مشكل", "price": 145},
+      {"item": "كباب شيش", "price": 98},
+      {"item": "حمص لوسين", "price": 49},
+      {"item": "مانتي أرمني", "price": 95},
+      {"item": "كبة مقلية", "price": 54}
+    ],
+    "price_range": [16, 145],
+    "source": "saudimenuhub.com",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Em Sherif",
+    "name_ar": "إم شريف",
+    "avg_per_person": 250,
+    "menu_highlights": [
+      {"item": "ورق عنب", "price": 65},
+      {"item": "كبة نيئة", "price": 75},
+      {"item": "مشاوي مشكلة", "price": 180},
+      {"item": "فتوش", "price": 55},
+      {"item": "كنافة", "price": 70}
+    ],
+    "price_range": [45, 250],
+    "source": "tripadvisor (593 SAR لشخصين)",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Marble",
+    "name_ar": "ماربل",
+    "avg_per_person": 120,
+    "menu_highlights": [
+      {"item": "ماربل برجر", "price": 75},
+      {"item": "ستيك مشوي", "price": 145},
+      {"item": "ريب آي", "price": 185},
+      {"item": "بطاطس ماربل", "price": 30},
+      {"item": "ميلك شيك", "price": 35}
+    ],
+    "price_range": [25, 200],
+    "source": "theworlds50best/tripadvisor",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "The Globe (Al Faisaliah)",
+    "name_ar": "ذا غلوب (الفيصلية)",
+    "avg_per_person": 400,
+    "menu_highlights": [
+      {"item": "حد أدنى للإنفاق (للشخص)", "price": 350},
+      {"item": "هاي تي (للشخص)", "price": 195},
+      {"item": "ستيك فيليه", "price": 320},
+      {"item": "لوبستر", "price": 380},
+      {"item": "تشيز كيك", "price": 75}
+    ],
+    "price_range": [195, 500],
+    "source": "mandarinoriental.com/opentable/viator",
+    "last_updated": "2026-02-19"
+  },
+  {
+    "name_en": "Mama Noura",
+    "name_ar": "ماما نورة",
+    "avg_per_person": 35,
+    "menu_highlights": [
+      {"item": "شاورما دجاج ساندويش", "price": 10},
+      {"item": "طبق شاورما مشكل", "price": 63},
+      {"item": "فلافل ساندويش", "price": 10},
+      {"item": "حمص طبق", "price": 25},
+      {"item": "بروستد دجاج", "price": 30}
+    ],
+    "price_range": [7, 63],
+    "source": "hungerstation/mamanoura.com",
+    "last_updated": "2026-02-19"
+  }
+]

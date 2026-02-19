@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>أسعار ومقارنات — مقارنة أسعار مطاعم وكافيهات الرياض 2026 | وين نروح</title>
+  <meta name="description" content="قارن أسعار مطاعم وكافيهات وأماكن ترفيه الرياض. متوسط الفاتورة للشخص، فلتر حسب الميزانية والحي والفئة. أسعار حقيقية محدثة.">
+  <meta name="keywords" content="أسعار مطاعم الرياض, أسعار كافيهات الرياض, مقارنة أسعار الرياض, أرخص مطاعم الرياض, ميزانية">
+  <link rel="canonical" href="https://wain-nrooh.com/prices.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="أسعار ومقارنات — أسعار أماكن الرياض 2026">
+  <meta property="og:description" content="قارن أسعار مطاعم وكافيهات الرياض. متوسط الفاتورة مع فلتر ميزانية.">
+  <meta property="og:url" content="https://wain-nrooh.com/prices.html">
+  <meta property="og:locale" content="ar_SA">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0a1628">
+  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+  <link rel="preload" href="data/places-light.json" as="fetch" crossorigin>
+  <style>
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{font-family:'Tajawal',sans-serif;background:#0a1628;color:#e0e0e0;direction:rtl}
+    .header{background:linear-gradient(135deg,#0a1628 0%,#1a2a4a 100%);padding:12px 20px;position:sticky;top:0;z-index:100}
+    .header-inner{display:flex;align-items:center;justify-content:space-between;max-width:1400px;margin:auto}
+    .logo{text-decoration:none;color:#c9a84c;display:flex;align-items:center;gap:8px}
+    .logo h1{font-size:1.2rem;margin:0}
+  </style>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    /* ===== Prices Page Styles ===== */
+    .prices-hero {
+      background: linear-gradient(135deg, var(--primary) 0%, #1a3a2a 50%, var(--primary-light) 100%);
+      color: white;
+      text-align: center;
+      padding: 70px 20px 60px;
+      position: relative;
+      overflow: hidden;
+    }
+    .prices-hero::after {
+      content: '';
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      height: 4px;
+      background: linear-gradient(90deg, transparent, #27ae60, transparent);
+    }
+    .prices-hero h2 {
+      font-size: 42px;
+      font-weight: 900;
+      margin-bottom: 14px;
+      position: relative;
+    }
+    .prices-hero h2 span { color: #2ecc71; }
+    .prices-hero p {
+      font-size: 18px;
+      color: rgba(255,255,255,0.7);
+      max-width: 600px;
+      margin: 0 auto;
+      position: relative;
+    }
+
+    /* Controls */
+    .prices-controls {
+      max-width: var(--max-width);
+      margin: -25px auto 20px;
+      padding: 0 20px;
+      position: relative;
+      z-index: 10;
+    }
+    .controls-bar {
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      padding: 24px;
+      box-shadow: var(--shadow);
+      border-top: 3px solid #27ae60;
+    }
+    .controls-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      align-items: flex-end;
+      margin-bottom: 20px;
+    }
+    .controls-row:last-child { margin-bottom: 0; }
+    .ctrl-group {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      flex: 1;
+      min-width: 180px;
+    }
+    .ctrl-group label {
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: var(--text-muted);
+    }
+    .ctrl-group select {
+      padding: 10px 14px;
+      border: 2px solid var(--border);
+      border-radius: var(--radius-sm);
+      font-family: 'Tajawal', sans-serif;
+      font-size: 0.95rem;
+      font-weight: 600;
+      background: var(--sand);
+      color: var(--text);
+      cursor: pointer;
+      direction: rtl;
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23888' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: 14px center;
+    }
+    .ctrl-group select:focus {
+      outline: none;
+      border-color: var(--gold);
+    }
+
+    /* Budget Slider */
+    .budget-slider-wrap {
+      flex: 2;
+      min-width: 280px;
+    }
+    .budget-slider-wrap label {
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: var(--text-muted);
+      display: flex;
+      justify-content: space-between;
+    }
+    .budget-value {
+      color: #27ae60;
+      font-weight: 800;
+    }
+    .budget-slider {
+      width: 100%;
+      height: 8px;
+      -webkit-appearance: none;
+      appearance: none;
+      background: linear-gradient(to left, #27ae60, #e74c3c);
+      border-radius: 4px;
+      outline: none;
+      margin-top: 8px;
+    }
+    .budget-slider::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: #27ae60;
+      cursor: pointer;
+      border: 3px solid white;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    }
+    .budget-slider::-moz-range-thumb {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: #27ae60;
+      cursor: pointer;
+      border: 3px solid white;
+    }
+
+    /* Stats */
+    .price-stats {
+      max-width: var(--max-width);
+      margin: 0 auto 20px;
+      padding: 0 20px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 14px;
+    }
+    .stat-card {
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      padding: 20px;
+      text-align: center;
+      box-shadow: var(--shadow);
+      border-top: 3px solid var(--gold);
+    }
+    .stat-card .stat-icon { font-size: 2rem; margin-bottom: 8px; }
+    .stat-card .stat-value {
+      font-size: 1.8rem;
+      font-weight: 900;
+      color: var(--gold);
+    }
+    .stat-card .stat-label {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      margin-top: 4px;
+    }
+
+    /* Table */
+    .prices-table-wrap {
+      max-width: var(--max-width);
+      margin: 0 auto 40px;
+      padding: 0 20px;
+    }
+    .prices-table-container {
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+    .prices-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.95rem;
+    }
+    .prices-table thead {
+      background: var(--primary);
+      color: white;
+    }
+    .prices-table th {
+      padding: 14px 16px;
+      font-weight: 700;
+      text-align: right;
+      font-size: 0.85rem;
+      white-space: nowrap;
+    }
+    .prices-table td {
+      padding: 14px 16px;
+      border-top: 1px solid var(--border);
+      vertical-align: middle;
+    }
+    .prices-table tbody tr {
+      transition: background 0.2s;
+    }
+    .prices-table tbody tr:hover {
+      background: rgba(201,168,76,0.06);
+    }
+    .prices-table .place-name {
+      font-weight: 700;
+      color: var(--text);
+    }
+    .prices-table .place-name small {
+      display: block;
+      font-weight: 400;
+      color: var(--text-muted);
+      font-size: 0.8rem;
+    }
+    .price-cell {
+      font-weight: 800;
+      color: #27ae60;
+      font-size: 1.05rem;
+    }
+    .price-level-cell {
+      display: inline-flex;
+      align-items: center;
+      gap: 2px;
+    }
+    .price-level-cell .active-dollar {
+      color: var(--gold);
+      font-weight: 800;
+    }
+    .price-level-cell .inactive-dollar {
+      color: var(--border);
+    }
+    .rating-cell {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .rating-cell .stars { color: var(--gold); font-size: 0.85rem; }
+    .rating-cell .num { font-weight: 700; }
+
+    /* Row rank */
+    .row-rank {
+      width: 28px;
+      height: 28px;
+      background: var(--primary);
+      color: var(--gold);
+      border-radius: 50%;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 0.8rem;
+    }
+    .row-rank.cheap { background: #27ae60; color: white; }
+
+    /* Menu Highlights */
+    .menu-highlights {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+    }
+    .menu-item-tag {
+      background: var(--sand);
+      padding: 2px 8px;
+      border-radius: 10px;
+      font-size: 0.75rem;
+      color: var(--text-light);
+      border: 1px solid var(--border);
+      white-space: nowrap;
+    }
+
+    .no-results-prices {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-muted);
+    }
+    .no-results-prices .emoji { font-size: 3rem; margin-bottom: 12px; }
+    .no-results-prices h3 { color: var(--text); }
+
+    @media (max-width: 768px) {
+      .prices-hero { padding: 50px 16px 45px; }
+      .prices-hero h2 { font-size: 28px; }
+      .controls-row { flex-direction: column; }
+      .ctrl-group { min-width: 100%; }
+      .price-stats { grid-template-columns: repeat(2, 1fr); }
+      .prices-table { font-size: 0.85rem; }
+      .prices-table th, .prices-table td { padding: 10px 8px; }
+      .menu-highlights { display: none; }
+    }
+  </style>
+  <link rel="stylesheet" href="css/ramadan.css">
+  <link rel="stylesheet" href="css/search-header.css">
+</head>
+<body>
+
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><span>🏙️</span><h1>وين نروح بالرياض؟</h1></a>
+      <button class="dark-mode-toggle" aria-label="الوضع الليلي">🌙</button>
+      <button class="menu-toggle" aria-label="القائمة">☰</button>
+      <nav class="nav">
+        <a href="index.html">الرئيسية</a>
+        <a href="cafes.html">كافيهات</a>
+        <a href="restaurants.html">مطاعم</a>
+        <a href="activities.html">ترفيه</a>
+        <a href="events.html">فعاليات</a>
+        <a href="new-places.html">جديد</a>
+        <a href="best.html">🏆 الأفضل</a>
+        <a href="prices.html" class="active">💰 أسعار</a>
+        <a href="compare.html">⚖️ قارن</a>
+        <div class="nav-dropdown">
+          <a href="#">المزيد</a>
+          <div class="dropdown-menu">
+            <a href="shopping.html">🛍️ تسوق</a>
+            <a href="nature.html">🏞️ طبيعة</a>
+            <a href="desserts.html">🍰 حلويات</a>
+            <a href="top-rated.html">⭐ الأعلى تقييماً</a>
+            <div class="dropdown-divider"></div>
+            <a href="neighborhoods.html">🏘️ أحياء الرياض</a>
+            <a href="ramadan.html">🌙 رمضان</a>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <section class="prices-hero">
+    <h2>💰 أسعار <span>ومقارنات</span></h2>
+    <p>قارن أسعار مطاعم وكافيهات الرياض — متوسط الفاتورة للشخص مع فلتر الميزانية</p>
+  </section>
+
+  <div class="breadcrumb" style="max-width:var(--max-width);margin:16px auto 0;padding:0 20px;">
+    <a href="index.html">الرئيسية</a><span>›</span><strong>أسعار ومقارنات</strong>
+  </div>
+
+  <!-- Controls -->
+  <div class="prices-controls">
+    <div class="controls-bar">
+      <div class="controls-row">
+        <div class="ctrl-group">
+          <label>📂 الفئة</label>
+          <select id="price-category">
+            <option value="">كل الفئات</option>
+            <option value="كافيه">☕ كافيهات</option>
+            <option value="مطعم">🍽️ مطاعم</option>
+            <option value="ترفيه">🎭 ترفيه</option>
+            <option value="حلويات">🍰 حلويات</option>
+            <option value="تسوق">🛍️ تسوق</option>
+          </select>
+        </div>
+        <div class="ctrl-group">
+          <label>📍 الحي</label>
+          <select id="price-neighborhood">
+            <option value="">كل الأحياء</option>
+          </select>
+        </div>
+        <div class="ctrl-group">
+          <label>🔄 الترتيب</label>
+          <select id="price-sort">
+            <option value="cheap">الأرخص أولاً</option>
+            <option value="expensive">الأغلى أولاً</option>
+            <option value="rating">الأعلى تقييماً</option>
+            <option value="name">الاسم</option>
+          </select>
+        </div>
+      </div>
+      <div class="controls-row">
+        <div class="ctrl-group budget-slider-wrap">
+          <label>💸 الميزانية <span class="budget-value" id="budget-display">500 ر.س</span></label>
+          <input type="range" class="budget-slider" id="budget-slider" min="0" max="500" value="500" step="10">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Stats -->
+  <div class="price-stats" id="price-stats">
+    <div class="stat-card">
+      <div class="stat-icon">📊</div>
+      <div class="stat-value" id="stat-count">--</div>
+      <div class="stat-label">مكان</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon">💰</div>
+      <div class="stat-value" id="stat-avg">--</div>
+      <div class="stat-label">متوسط الفاتورة</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon">📉</div>
+      <div class="stat-value" id="stat-min">--</div>
+      <div class="stat-label">أقل سعر</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon">📈</div>
+      <div class="stat-value" id="stat-max">--</div>
+      <div class="stat-label">أعلى سعر</div>
+    </div>
+  </div>
+
+  <!-- Table -->
+  <div class="prices-table-wrap">
+    <div class="prices-table-container">
+      <table class="prices-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>المكان</th>
+            <th>الفئة</th>
+            <th>الحي</th>
+            <th>متوسط للشخص</th>
+            <th>مستوى السعر</th>
+            <th>التقييم</th>
+            <th>قائمة الأسعار</th>
+          </tr>
+        </thead>
+        <tbody id="prices-tbody"></tbody>
+      </table>
+    </div>
+    <div id="no-results" style="display:none;">
+      <div class="no-results-prices">
+        <div class="emoji">🔍</div>
+        <h3>لا توجد نتائج</h3>
+        <p>جرب تغيير الفلاتر أو رفع الميزانية</p>
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div>
+        <h3>وين نروح بالرياض؟</h3>
+        <p>دليلك الشامل لأفضل الأماكن في الرياض مع تقييمات قوقل الحقيقية.</p>
+      </div>
+    </div>
+    <div class="footer-heart">صنع بـ <span>❤️</span> في الرياض</div>
+    <div class="footer-bottom"><p>© 2025-2026 وين نروح بالرياض؟ جميع الحقوق محفوظة.</p></div>
+  </footer>
+
+  <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
+
+  <script src="js/darkmode.js"></script>
+  <script src="js/main.js"></script>
+  <script>
+    let allPlaces = [];
+    let pricesData = {};  // name_en -> price info from prices-initial.json
+
+    const priceLevelToAvg = { 'مجاني': 0, '$': 30, '$$': 75, '$$$': 150, '$$$$': 300 };
+    const catIcons = { 'كافيه': '☕', 'مطعم': '🍽️', 'ترفيه': '🎭', 'حلويات': '🍰', 'تسوق': '🛍️', 'طبيعة': '🏞️', 'شاليه': '🏡', 'فنادق': '🏨', 'مولات': '🛍️', 'متاحف': '🏛️', 'فعاليات': '🎪' };
+
+    function getAvgPrice(place) {
+      // Check prices-initial.json first
+      const priceInfo = pricesData[place.name_en] || pricesData[place.name_ar];
+      if (priceInfo && priceInfo.avg_per_person) return priceInfo.avg_per_person;
+      // Fallback to price_level estimation
+      return priceLevelToAvg[place.price_level] || 0;
+    }
+
+    function getMenuHighlights(place) {
+      const priceInfo = pricesData[place.name_en] || pricesData[place.name_ar];
+      if (priceInfo && priceInfo.menu_highlights) return priceInfo.menu_highlights;
+      return [];
+    }
+
+    function renderPriceDollars(level) {
+      const map = { 'مجاني': 0, '$': 1, '$$': 2, '$$$': 3, '$$$$': 4 };
+      const n = map[level] || 0;
+      let html = '';
+      for (let i = 1; i <= 4; i++) {
+        html += `<span class="${i <= n ? 'active-dollar' : 'inactive-dollar'}">$</span>`;
+      }
+      return html;
+    }
+
+    function renderTable() {
+      const cat = document.getElementById('price-category').value;
+      const hood = document.getElementById('price-neighborhood').value;
+      const sort = document.getElementById('price-sort').value;
+      const budget = parseInt(document.getElementById('budget-slider').value);
+
+      let filtered = allPlaces.filter(p => {
+        if (cat && p.category !== cat) return false;
+        if (hood && p.neighborhood !== hood) return false;
+        const avg = getAvgPrice(p);
+        if (avg > budget && avg > 0) return false;
+        return true;
+      });
+
+      // Sort
+      filtered.sort((a, b) => {
+        const avgA = getAvgPrice(a), avgB = getAvgPrice(b);
+        if (sort === 'cheap') return avgA - avgB;
+        if (sort === 'expensive') return avgB - avgA;
+        if (sort === 'rating') return b.google_rating - a.google_rating;
+        return (a.name_ar || '').localeCompare(b.name_ar || '', 'ar');
+      });
+
+      // Limit to 100 for performance
+      const display = filtered.slice(0, 100);
+
+      // Stats
+      const avgs = display.map(p => getAvgPrice(p)).filter(a => a > 0);
+      document.getElementById('stat-count').textContent = display.length;
+      document.getElementById('stat-avg').textContent = avgs.length ? Math.round(avgs.reduce((s, v) => s + v, 0) / avgs.length) + ' ر.س' : '--';
+      document.getElementById('stat-min').textContent = avgs.length ? Math.min(...avgs) + ' ر.س' : '--';
+      document.getElementById('stat-max').textContent = avgs.length ? Math.max(...avgs) + ' ر.س' : '--';
+
+      const tbody = document.getElementById('prices-tbody');
+      const noResults = document.getElementById('no-results');
+
+      if (display.length === 0) {
+        tbody.innerHTML = '';
+        noResults.style.display = '';
+        return;
+      }
+      noResults.style.display = 'none';
+
+      tbody.innerHTML = display.map((p, i) => {
+        const avg = getAvgPrice(p);
+        const menu = getMenuHighlights(p);
+        const menuHtml = menu.slice(0, 4).map(m => `<span class="menu-item-tag">${m.item} ${m.price}ر.س</span>`).join('');
+        const isCheap = avg > 0 && avg <= 50;
+
+        return `<tr>
+          <td><span class="row-rank ${isCheap ? 'cheap' : ''}">${i + 1}</span></td>
+          <td class="place-name">
+            ${p.name_ar}
+            <small>${p.name_en || ''}</small>
+          </td>
+          <td>${catIcons[p.category] || '📍'} ${p.category}</td>
+          <td>${p.neighborhood || '--'}</td>
+          <td class="price-cell">${avg > 0 ? avg + ' ر.س' : (p.is_free ? 'مجاني' : '--')}</td>
+          <td><span class="price-level-cell">${renderPriceDollars(p.price_level)}</span></td>
+          <td><div class="rating-cell"><span class="stars">★</span><span class="num">${p.google_rating}</span></div></td>
+          <td><div class="menu-highlights">${menuHtml || '<span style="color:var(--text-muted);font-size:0.8rem;">—</span>'}</div></td>
+        </tr>`;
+      }).join('');
+    }
+
+    document.addEventListener('DOMContentLoaded', async () => {
+      // Load prices data
+      try {
+        const res = await fetch('data/prices-initial.json');
+        if (res.ok) {
+          const arr = await res.json();
+          arr.forEach(p => {
+            if (p.name_en) pricesData[p.name_en] = p;
+            if (p.name_ar) pricesData[p.name_ar] = p;
+          });
+        }
+      } catch(e) { console.log('No prices data'); }
+
+      // Load places
+      allPlaces = await loadPlaces();
+
+      // Populate neighborhoods
+      const hoods = [...new Set(allPlaces.map(p => p.neighborhood).filter(Boolean))].sort();
+      const hoodSelect = document.getElementById('price-neighborhood');
+      hoods.forEach(h => {
+        const opt = document.createElement('option');
+        opt.value = h;
+        opt.textContent = h;
+        hoodSelect.appendChild(opt);
+      });
+
+      // Budget slider
+      const slider = document.getElementById('budget-slider');
+      const budgetDisplay = document.getElementById('budget-display');
+      slider.addEventListener('input', () => {
+        budgetDisplay.textContent = slider.value + ' ر.س';
+        renderTable();
+      });
+
+      // Filters
+      ['price-category', 'price-neighborhood', 'price-sort'].forEach(id => {
+        document.getElementById(id).addEventListener('change', renderTable);
+      });
+
+      renderTable();
+    });
+  </script>
+  <script>
+    document.querySelectorAll('.nav-dropdown > a').forEach(a => {
+      a.addEventListener('click', (e) => {
+        if (window.innerWidth <= 768) { e.preventDefault(); a.parentElement.classList.toggle('open'); }
+      });
+    });
+  </script>
+  <script src="js/ramadan.js" defer></script>
+  <script src="js/analytics.js" defer></script>
+</body>
+</html>
