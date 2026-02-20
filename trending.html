@@ -4,727 +4,215 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/svg+xml" href="images/icon-192.svg">
-  <title>هابّ الحين 🔥 - خريطة الحرارة | وين نروح بالرياض؟</title>
-  <meta name="description" content="خريطة حرارة أماكن الرياض — اكتشف أكثر 20 مكان رائج الحين! تقييمات، افتتاحات جديدة، والأماكن اللي الكل يتكلم عنها.">
-  <meta name="keywords" content="أماكن مزدحمة الرياض, الأماكن الرائجة الرياض, heat map riyadh, popular places riyadh">
-  <meta name="robots" content="index, follow">
+  <title>🔥 الأماكن الرائجة في الرياض — الأكثر بحثاً وزيارة | وين نروح</title>
+  <meta name="description" content="اكتشف الأماكن الرائجة والأكثر بحثاً في الرياض الآن. مطاعم، كافيهات، أماكن ترفيه جديدة ومميزة.">
+  <meta name="keywords" content="أماكن رائجة الرياض, ترند الرياض, أماكن جديدة, الأكثر زيارة">
   <link rel="canonical" href="https://treklaps.github.io/riyadh-places/trending.html">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="هابّ الحين 🔥 - خريطة حرارة أماكن الرياض">
-  <meta property="og:description" content="شوف أكثر 20 مكان رائج بالرياض على خريطة الحرارة التفاعلية!">
+  <meta property="og:title" content="🔥 الأماكن الرائجة في الرياض — الأكثر بحثاً وزيارة">
+  <meta property="og:description" content="اكتشف الأماكن الرائجة والأكثر بحثاً في الرياض الآن">
   <meta property="og:url" content="https://treklaps.github.io/riyadh-places/trending.html">
   <meta property="og:locale" content="ar_SA">
   <meta property="og:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="هابّ الحين 🔥 - خريطة حرارة أماكن الرياض">
-  <meta name="twitter:description" content="شوف أكثر 20 مكان رائج بالرياض على خريطة الحرارة التفاعلية!">
-  <meta name="twitter:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#0a1628">
-  <!-- Performance: preconnect & preload -->
-  <link rel="preconnect" href="https://images.unsplash.com" crossorigin>
   <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
-  <link rel="dns-prefetch" href="https://images.unsplash.com">
   <link rel="preload" href="data/places-light.json" as="fetch" crossorigin>
-  <!-- Critical inline CSS for above-the-fold -->
   <style>
     *{margin:0;padding:0;box-sizing:border-box}
-    body{font-family:'Tajawal',sans-serif;background:#0a1628;color:#e0e0e0;direction:rtl}
-    .header{background:linear-gradient(135deg,#0a1628 0%,#1a2a4a 100%);padding:12px 20px;position:sticky;top:0;z-index:100}
+    body{font-family:'Tajawal',sans-serif;background:#0a1628;color:#e0e0e0;direction:rtl;min-height:100vh}
+    a{color:#c9a84c;text-decoration:none}
+    .header{background:linear-gradient(135deg,#0a1628 0%,#1a2a4a 100%);padding:12px 20px;position:sticky;top:0;z-index:100;border-bottom:1px solid rgba(201,168,76,0.2)}
     .header-inner{display:flex;align-items:center;justify-content:space-between;max-width:1400px;margin:auto}
     .logo{text-decoration:none;color:#c9a84c;display:flex;align-items:center;gap:8px}
     .logo h1{font-size:1.2rem;margin:0}
-    .cards-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px}
-    .place-card{background:#111b2e;border-radius:16px;overflow:hidden;transition:transform .2s}
-    .place-card-image{height:180px;background:#1a2a4a;position:relative;overflow:hidden}
-    .card-image{width:100%;height:100%;object-fit:cover}
-    .skeleton{animation:skeleton-pulse 1.5s ease-in-out infinite}
-    @keyframes skeleton-pulse{0%,100%{opacity:.4}50%{opacity:.8}}
-    .place-card{content-visibility:auto;contain-intrinsic-size:0 420px}
+    .back-link{color:#c9a84c;font-size:14px}
   </style>
-
   <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/ramadan.css">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
-  <link rel="stylesheet" href="css/search-header.css">
-  <script type="application/ld+json">
-  {
-  "@context": "https://schema.org",
-  "@type": "ItemList",
-  "name": "هابّ الحين 🔥 - خريطة الحرارة | وين نروح بالرياض؟",
-  "url": "https://treklaps.github.io/riyadh-places/trending.html",
-  "numberOfItems": 0,
-  "itemListElement": []
-}
-  </script>
+  <style>
+    .hero{background:linear-gradient(135deg,#0a1628 0%,#2d1a0a 50%,#1a2d50 100%);padding:50px 20px 45px;text-align:center;position:relative}
+    .hero::after{content:'';position:absolute;bottom:0;left:0;right:0;height:4px;background:linear-gradient(90deg,transparent,#f59e0b,transparent)}
+    .hero h2{font-size:2rem;font-weight:900;margin-bottom:10px;color:#fff}
+    .hero h2 span{color:#f59e0b}
+    .hero p{color:rgba(255,255,255,0.7);font-size:16px;max-width:600px;margin:0 auto;line-height:1.8}
+    .stats-bar{display:flex;gap:16px;justify-content:center;flex-wrap:wrap;margin-top:20px}
+    .stat-item{background:rgba(245,158,11,0.1);border:1px solid rgba(245,158,11,0.2);border-radius:12px;padding:10px 18px;text-align:center}
+    .stat-item .num{font-size:1.4rem;font-weight:900;color:#f59e0b}
+    .stat-item .lbl{font-size:12px;color:rgba(255,255,255,0.6)}
+
+    .container{max-width:1200px;margin:0 auto;padding:20px}
+    .controls{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin-bottom:20px}
+    .search-input{flex:1;min-width:200px;padding:12px 16px;border-radius:12px;border:1px solid rgba(245,158,11,0.3);background:#1c2333;color:#e0e0e0;font-family:inherit;font-size:15px}
+    .search-input::placeholder{color:#666}
+    .search-input:focus{outline:none;border-color:#f59e0b}
+    select.filter-select{padding:12px 16px;border-radius:12px;border:1px solid rgba(245,158,11,0.3);background:#1c2333;color:#e0e0e0;font-family:inherit;font-size:14px}
+
+    .filter-tags{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:20px}
+    .filter-tag{padding:8px 16px;border-radius:20px;border:1px solid rgba(245,158,11,0.3);background:transparent;color:#f59e0b;font-family:inherit;font-size:13px;cursor:pointer;transition:all 0.2s;font-weight:600}
+    .filter-tag:hover,.filter-tag.active{background:#f59e0b;color:#0a1628}
+
+    .result-count{color:#888;font-size:14px;margin-bottom:16px}
+
+    .trending-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:16px}
+    .trend-card{background:#1c2333;border-radius:16px;overflow:hidden;border:1px solid rgba(245,158,11,0.1);transition:all 0.3s;text-decoration:none;color:inherit;display:block}
+    .trend-card:hover{border-color:rgba(245,158,11,0.3);transform:translateY(-2px)}
+    .trend-badge{display:inline-flex;align-items:center;gap:4px;padding:4px 10px;border-radius:8px;font-size:11px;font-weight:700;margin-bottom:8px}
+    .badge-trending{background:rgba(245,158,11,0.15);color:#f59e0b}
+    .badge-new{background:rgba(34,197,94,0.15);color:#22c55e}
+    .badge-featured{background:rgba(168,85,247,0.15);color:#a855f7}
+    .tcard-body{padding:16px 20px}
+    .tcard-name{font-size:17px;font-weight:700;color:#e0e0e0;margin-bottom:2px}
+    .tcard-name-en{font-size:12px;color:#888}
+    .tcard-meta{display:flex;gap:12px;flex-wrap:wrap;margin-top:6px;font-size:13px;color:#888}
+    .tcard-desc{font-size:13px;color:#aaa;margin-top:8px;line-height:1.6}
+    .tcard-footer{display:flex;justify-content:space-between;align-items:center;padding:12px 20px;border-top:1px solid rgba(255,255,255,0.06);background:rgba(0,0,0,0.1)}
+    .tcard-rating{display:flex;align-items:center;gap:4px;color:#f59e0b;font-weight:700}
+    .tcard-price{color:#c9a84c;font-size:13px}
+    .tcard-audiences{display:flex;gap:4px;flex-wrap:wrap}
+    .audience-tag{font-size:11px;padding:2px 8px;border-radius:6px;background:rgba(201,168,76,0.08);color:#888}
+
+    .loading{text-align:center;padding:60px;color:#888;font-size:18px}
+    .footer{background:#0d1117;padding:30px 20px;text-align:center;color:#555;font-size:13px;border-top:1px solid rgba(201,168,76,0.1);margin-top:40px}
+    .footer a{color:#c9a84c}
+
+    @media(max-width:768px){
+      .hero{padding:30px 16px 25px}
+      .hero h2{font-size:1.5rem}
+      .container{padding:16px}
+      .controls{flex-direction:column}
+      .search-input,.filter-select{width:100%}
+      .trending-grid{grid-template-columns:1fr}
+    }
+  </style>
 </head>
 <body>
-
   <header class="header">
     <div class="header-inner">
-      <a href="index.html" class="logo"><span>🏙️</span><h1>وين نروح بالرياض؟</h1></a>
-      <button class="dark-mode-toggle" aria-label="الوضع الليلي">🌙</button>
-      <button class="menu-toggle" aria-label="القائمة">☰</button>
-      <nav class="nav">
-        <a href="index.html">الرئيسية</a>
-        <a href="cafes.html">كافيهات</a>
-        <a href="restaurants.html">مطاعم</a>
-        <a href="activities.html">ترفيه</a>
-        <a href="events.html">فعاليات</a>
-        <a href="new-places.html">جديد</a>
-        <a href="discover.html">🎲 وين نروح؟</a>
-        <a href="lists.html">📋 قوائمي</a>
-        <div class="nav-dropdown">
-          <a href="#">المزيد</a>
-          <div class="dropdown-menu">
-            <a href="shopping.html">🛍️ تسوق</a>
-            <a href="nature.html">🏞️ طبيعة</a>
-            <a href="desserts.html">🍰 حلويات</a>
-            <a href="top-rated.html">⭐ الأعلى تقييماً</a>
-            <div class="dropdown-divider"></div>
-            <a href="neighborhoods.html">🏘️ أحياء الرياض</a>
-            <a href="events.html">🇸🇦 يوم التأسيس</a>
-            <a href="riyadh-season.html">✨ موسم الرياض</a>
-            <div class="dropdown-divider"></div>
-            <div class="dropdown-submenu">
-              <a href="#">🏘️ الأحياء</a>
-              <div class="submenu">
-                <a href="neighborhood-olaya.html">حي العليا</a>
-                <a href="neighborhood-malqa.html">حي الملقا</a>
-                <a href="neighborhood-hittin.html">حي حطين</a>
-                <a href="neighborhood-yasmin.html">حي الياسمين</a>
-                <a href="neighborhood-rabee.html">حي الربيع</a>
-                <a href="neighborhood-narjis.html">حي النرجس</a>
-                <a href="neighborhood-wurud.html">حي الورود</a>
-                <a href="neighborhood-sahafa.html">حي الصحافة</a>
-                <a href="neighborhood-muruj.html">حي المروج</a>
-                <a href="neighborhood-nakheel.html">حي النخيل</a>
-                <a href="neighborhood-diriyah.html">الدرعية</a>
-                <a href="neighborhood-kafd.html">KAFD</a>
-                <a href="neighborhood-safarat.html">حي السفارات</a>
-                <a href="neighborhood-malz.html">حي الملز</a>
-                <a href="neighborhood-aqiq.html">حي العقيق</a>
-                <a href="neighborhood-sulaymaniyah.html">حي السليمانية</a>
-                <a href="neighborhood-gharnata.html">غرناطة</a>
-                <a href="neighborhood-rabwa.html">حي الربوة</a>
-                <a href="neighborhood-arid.html">حي العارض</a>
-                <a href="neighborhood-ghdir.html">حي الغدير</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </nav>
+      <a href="index.html" class="logo"><h1>🏙️ وين نروح</h1></a>
+      <a href="index.html" class="back-link">← الرئيسية</a>
     </div>
   </header>
 
-  <section class="page-header">
-    <h2>🔥 هابّ <span>الحين</span></h2>
-    <p>خريطة الحرارة — أكثر 20 مكان رائج بالرياض مع أسباب الرواج والتقييمات</p>
+  <section class="hero">
+    <h2>🔥 <span>الأماكن الرائجة</span> في الرياض</h2>
+    <p>الأماكن اللي الكل يتكلم عنها الحين — اكتشف وش الجديد واللي يستاهل الزيارة</p>
+    <div class="stats-bar" id="heroStats"></div>
   </section>
 
-  <div class="breadcrumb">
-    <a href="index.html">الرئيسية</a> <span>›</span> هابّ الحين 🔥
-  </div>
-
-  <div class="heatmap-container">
-    <!-- Last Update Banner -->
-    <div class="heatmap-update-banner">
-      <div class="live-dot"></div>
-      <span id="live-time">جاري التحميل...</span>
-      <span class="update-separator">|</span>
-      <span id="last-update">آخر تحديث: ...</span>
+  <div class="container">
+    <div class="filter-tags" id="catTags"></div>
+    <div class="controls">
+      <input type="text" class="search-input" id="searchInput" placeholder="🔍 ابحث عن مكان رائج...">
+      <select class="filter-select" id="sortSelect">
+        <option value="trending">الأكثر رواجاً</option>
+        <option value="newest">الأحدث أولاً</option>
+        <option value="rating">الأعلى تقييماً</option>
+      </select>
     </div>
-
-    <!-- Heat Map Legend -->
-    <div class="heatmap-legend">
-      <span class="legend-title">مفتاح الخريطة:</span>
-      <span class="legend-item"><span class="legend-dot" style="background:#e74c3c;"></span> 🔴 حار جداً</span>
-      <span class="legend-item"><span class="legend-dot" style="background:#f39c12;"></span> 🟡 رائج</span>
-      <span class="legend-item"><span class="legend-dot" style="background:#2ecc71;"></span> 🟢 عادي</span>
-    </div>
-
-    <!-- Category Filter Tabs -->
-    <div class="filter-tabs" id="heat-category-filters">
-      <button class="filter-tab active" data-cat="all">🏙️ الكل</button>
-      <button class="filter-tab" data-cat="restaurant">🍽️ مطاعم</button>
-      <button class="filter-tab" data-cat="cafe">☕ كافيهات</button>
-      <button class="filter-tab" data-cat="entertainment">🎮 ترفيه</button>
-      <button class="filter-tab" data-cat="activity">🎭 أنشطة</button>
-      <button class="filter-tab" data-cat="shopping">🛍️ تسوق</button>
-      <button class="filter-tab" data-cat="desserts">🍰 حلويات</button>
-      <button class="filter-tab" data-cat="nature">🏞️ طبيعة</button>
-    </div>
-
-    <!-- Heat Map -->
-    <div id="heatmap" class="heatmap-map"></div>
-
-    <!-- Top 20 Section -->
-    <div class="heatmap-top-section">
-      <div class="heatmap-top-header">
-        <h2>🏆 أكثر 20 مكان رواجاً</h2>
-        <span id="top-count" class="heatmap-count"></span>
-      </div>
-
-      <div id="heatmap-cards" class="heatmap-cards-grid"></div>
-    </div>
+    <div class="result-count" id="resultCount"></div>
+    <div id="loading" class="loading">⏳ جاري تحميل البيانات...</div>
+    <div class="trending-grid" id="grid"></div>
   </div>
 
   <footer class="footer">
-    <div class="footer-inner">
-      <div>
-        <h3>وين نروح بالرياض؟</h3>
-        <p>دليلك الشامل لأفضل الأماكن في الرياض مع تقييمات قوقل الحقيقية. محدث يومياً بأحدث الأماكن والتقييمات.</p>
-      </div>
-      <div>
-        <h3>الأقسام</h3>
-        <ul>
-          <li><a href="cafes.html">كافيهات الرياض</a></li>
-          <li><a href="restaurants.html">مطاعم الرياض</a></li>
-          <li><a href="activities.html">ترفيه وأنشطة</a></li>
-          <li><a href="shopping.html">تسوق بالرياض</a></li>
-          <li><a href="nature.html">طبيعة ورحلات</a></li>
-          <li><a href="desserts.html">حلويات الرياض</a></li>
-          <li><a href="events.html">فعاليات الرياض</a></li>
-          <li><a href="trending.html">هابّ الحين 🔥</a></li>
-          <li><a href="top-rated.html">الأعلى تقييماً</a></li>
-          <li><a href="new-places.html">أماكن جديدة</a></li>
-          <li><a href="lists.html">📋 قوائمي</a></li>
-          <li><a href="map.html">🗺️ الخريطة</a></li>
-          <li><a href="favorites.html">❤️ المفضلة</a></li>
-        </ul>
-      </div>
-      <div>
-        <h3>روابط مفيدة</h3>
-        <ul>
-          <li><a href="sitemap.xml">خريطة الموقع</a></li>
-          <li><a href="#">سياسة الخصوصية</a></li>
-          <li><a href="#">تواصل معنا</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="footer-heart">صنع بـ <span>❤️</span> في الرياض</div>
-    <div class="footer-bottom"><p>© 2025-2026 وين نروح بالرياض؟ جميع الحقوق محفوظة.</p></div>
+    <p>🔄 يتم تحديث قائمة الرائج باستمرار</p>
+    <p style="margin-top:8px">وين نروح بالرياض؟ — <a href="index.html">الرئيسية</a> | <a href="best.html">أفضل الأماكن</a> | <a href="top-rated.html">الأعلى تقييماً</a></p>
   </footer>
 
-  <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
+<script>
+const toAr = n => n.toString().replace(/\d/g, d => '٠١٢٣٤٥٦٧٨٩'[d]);
+const CAT_EMOJIS = {'مطعم':'🍽️','كافيه':'☕','ترفيه':'🎮','حلويات':'🍰','تسوق':'🛍️','طبيعة':'🌿','فنادق':'🏨','شاليه':'🏡','مولات':'🏬','متاحف':'🏛️','فعاليات':'🎭'};
 
-  <style>
-    .heatmap-container {
-      max-width: var(--max-width, 1200px);
-      margin: 20px auto;
-      padding: 0 20px;
-    }
+let allPlaces = [];
+let trendingPlaces = [];
+let activeCat = '';
 
-    /* Update Banner */
-    .heatmap-update-banner {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      padding: 14px 20px;
-      background: linear-gradient(135deg, var(--primary), var(--primary-light));
-      color: white;
-      border-radius: var(--radius);
-      margin-bottom: 16px;
-      font-size: 14px;
-      font-weight: 600;
-      flex-wrap: wrap;
-    }
-    .live-dot {
-      width: 10px;
-      height: 10px;
-      background: #2ecc71;
-      border-radius: 50%;
-      animation: pulse 1.5s infinite;
-      flex-shrink: 0;
-    }
-    @keyframes pulse {
-      0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(46,204,113,0.4); }
-      50% { opacity: 0.7; box-shadow: 0 0 0 8px rgba(46,204,113,0); }
-    }
-    .update-separator { opacity: 0.4; }
-    #last-update { opacity: 0.8; font-size: 13px; }
+async function loadData() {
+  try {
+    allPlaces = await fetch('data/places-light.json').then(r => r.json());
+    
+    // Filter trending places (tr=1 means trending)
+    trendingPlaces = allPlaces.filter(p => p.tr === 1 || p.nw === 1 || p.fr === 1);
+    
+    document.getElementById('loading').style.display = 'none';
 
-    /* Legend */
-    .heatmap-legend {
-      display: flex;
-      align-items: center;
-      gap: 16px;
-      padding: 12px 18px;
-      background: var(--card-bg);
-      border-radius: var(--radius-sm);
-      margin-bottom: 16px;
-      box-shadow: var(--shadow);
-      flex-wrap: wrap;
-      font-size: 13px;
-    }
-    .legend-title { font-weight: 700; color: var(--primary); }
-    .legend-item { display: inline-flex; align-items: center; gap: 6px; color: var(--text-light); }
-    .legend-dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+    // Stats
+    const trendCount = allPlaces.filter(p => p.tr).length;
+    const newCount = allPlaces.filter(p => p.nw).length;
+    document.getElementById('heroStats').innerHTML = `
+      <div class="stat-item"><div class="num">${toAr(trendCount)}</div><div class="lbl">مكان رائج</div></div>
+      <div class="stat-item"><div class="num">${toAr(newCount)}</div><div class="lbl">مكان جديد</div></div>
+      <div class="stat-item"><div class="num">${toAr(allPlaces.filter(p=>p.fr).length)}</div><div class="lbl">مميز</div></div>
+    `;
 
-    /* Heat Map */
-    .heatmap-map {
-      width: 100%;
-      height: 50vh;
-      min-height: 350px;
-      border-radius: var(--radius);
-      box-shadow: var(--shadow);
-      margin-bottom: 24px;
-      z-index: 1;
-    }
+    // Category tags
+    const cats = [...new Set(trendingPlaces.map(p => p.c).filter(Boolean))].sort();
+    document.getElementById('catTags').innerHTML = `<button class="filter-tag active" data-cat="">🔥 الكل</button>` +
+      cats.map(c => `<button class="filter-tag" data-cat="${c}">${CAT_EMOJIS[c]||''} ${c}</button>`).join('');
 
-    /* Leaflet popup */
-    .leaflet-popup-content-wrapper {
-      border-radius: 16px !important;
-      font-family: 'Tajawal', sans-serif !important;
-      direction: rtl;
-      box-shadow: 0 8px 30px rgba(0,0,0,0.2) !important;
-    }
-    .leaflet-popup-content { margin: 12px 16px !important; }
-
-    /* Top section */
-    .heatmap-top-section { margin-top: 8px; }
-    .heatmap-top-header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      margin-bottom: 20px;
-      flex-wrap: wrap;
-      gap: 8px;
-    }
-    .heatmap-top-header h2 {
-      font-size: 24px;
-      font-weight: 800;
-      color: var(--primary);
-      margin: 0;
-    }
-    .heatmap-count {
-      font-size: 14px;
-      color: var(--text-muted);
-      font-weight: 600;
-    }
-
-    /* Heatmap card grid */
-    .heatmap-cards-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-      gap: 20px;
-    }
-
-    /* Individual Heat Card */
-    .heat-card {
-      background: var(--card-bg);
-      border-radius: var(--radius);
-      overflow: hidden;
-      box-shadow: var(--shadow);
-      transition: all 0.3s ease;
-      display: flex;
-      flex-direction: column;
-      position: relative;
-      border-top: 4px solid var(--gold);
-      animation: fadeInUp 0.5s ease forwards;
-      opacity: 0;
-    }
-    .heat-card:nth-child(1) { animation-delay: 0.03s; }
-    .heat-card:nth-child(2) { animation-delay: 0.06s; }
-    .heat-card:nth-child(3) { animation-delay: 0.09s; }
-    .heat-card:nth-child(4) { animation-delay: 0.12s; }
-    .heat-card:nth-child(5) { animation-delay: 0.15s; }
-    .heat-card:nth-child(6) { animation-delay: 0.18s; }
-    .heat-card:nth-child(7) { animation-delay: 0.21s; }
-    .heat-card:nth-child(8) { animation-delay: 0.24s; }
-    .heat-card:nth-child(9) { animation-delay: 0.27s; }
-    .heat-card:nth-child(10) { animation-delay: 0.30s; }
-    .heat-card:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 12px 40px rgba(10,22,40,0.15);
-    }
-
-    .heat-card-image {
-      width: 100%;
-      height: 160px;
-      background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
-      position: relative;
-      overflow: hidden;
-    }
-    .heat-card-image img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-    }
-
-    /* Rank badge */
-    .heat-rank {
-      position: absolute;
-      top: 12px;
-      right: 12px;
-      width: 40px;
-      height: 40px;
-      border-radius: 12px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 18px;
-      font-weight: 900;
-      box-shadow: 0 3px 12px rgba(0,0,0,0.3);
-      z-index: 2;
-    }
-    .heat-rank-1 { background: linear-gradient(135deg, #FFD700, #FFA500); color: #333; font-size: 20px; width: 46px; height: 46px; }
-    .heat-rank-2 { background: linear-gradient(135deg, #C0C0C0, #A0A0A0); color: #333; }
-    .heat-rank-3 { background: linear-gradient(135deg, #CD7F32, #A0522D); color: #fff; }
-    .heat-rank-default { background: var(--primary); color: var(--gold); }
-
-    /* Hotness badge on image */
-    .heat-tier-badge {
-      position: absolute;
-      bottom: 10px;
-      left: 10px;
-      padding: 5px 12px;
-      border-radius: 8px;
-      font-size: 12px;
-      font-weight: 700;
-      backdrop-filter: blur(6px);
-      color: #fff;
-      z-index: 2;
-    }
-
-    /* Card content */
-    .heat-card-body {
-      padding: 16px;
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-    }
-    .heat-card-body .category-tag {
-      display: inline-block;
-      background: rgba(10,22,40,0.06);
-      color: var(--primary);
-      padding: 3px 10px;
-      border-radius: 6px;
-      font-size: 12px;
-      font-weight: 600;
-      margin-bottom: 4px;
-      width: fit-content;
-    }
-    .heat-card-body h3 {
-      font-size: 17px;
-      font-weight: 800;
-      color: var(--primary);
-      margin: 4px 0;
-    }
-    .heat-card-body .neighborhood-line {
-      color: var(--text-muted);
-      font-size: 13px;
-      margin-bottom: 6px;
-    }
-    .heat-card-body .neighborhood-line::before { content: "📍 "; }
-
-    /* Rating row */
-    .heat-rating-row {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      font-size: 13px;
-      color: var(--text-light);
-      margin-bottom: 8px;
-    }
-    .heat-rating-row .stars { color: var(--gold); }
-
-    /* Trending Reasons */
-    .heat-reasons {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 6px;
-      margin-bottom: 10px;
-    }
-    .heat-reason {
-      display: inline-flex;
-      align-items: center;
-      gap: 4px;
-      background: rgba(201,168,76,0.1);
-      padding: 4px 10px;
-      border-radius: 6px;
-      font-size: 12px;
-      font-weight: 600;
-      color: var(--primary);
-    }
-
-    /* Hotness bar */
-    .heat-score-bar {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      margin-bottom: 10px;
-    }
-    .heat-score-track {
-      flex: 1;
-      height: 6px;
-      background: var(--border);
-      border-radius: 3px;
-      overflow: hidden;
-    }
-    .heat-score-fill {
-      height: 100%;
-      border-radius: 3px;
-      transition: width 0.6s ease;
-    }
-    .heat-score-label {
-      font-size: 13px;
-      font-weight: 800;
-      min-width: 50px;
-      text-align: center;
-    }
-
-    /* Actions */
-    .heat-card-actions {
-      display: flex;
-      gap: 8px;
-      margin-top: auto;
-      padding-top: 10px;
-    }
-
-    /* Empty state */
-    .heatmap-empty {
-      text-align: center;
-      padding: 60px 20px;
-      color: var(--text-muted);
-      grid-column: 1 / -1;
-    }
-    .heatmap-empty .emoji { font-size: 64px; margin-bottom: 16px; }
-    .heatmap-empty h3 { font-size: 20px; color: var(--text); margin-bottom: 8px; }
-
-    /* Responsive */
-    @media (max-width: 768px) {
-      .heatmap-map { height: 40vh; min-height: 280px; }
-      .heatmap-cards-grid { grid-template-columns: 1fr; }
-      .heatmap-top-header h2 { font-size: 20px; }
-      .heat-card-image { height: 140px; }
-      .heatmap-legend { gap: 10px; font-size: 12px; }
-    }
-    @media (max-width: 480px) {
-      .heatmap-container { padding: 0 12px; }
-      .heatmap-update-banner { font-size: 13px; padding: 12px 16px; }
-    }
-  </style>
-
-  <script defer src="js/main.js"></script>
-  <script defer src="js/darkmode.js"></script>
-  <script defer src="js/crowd.js"></script>
-  <script defer src="js/hotness.js"></script>
-  <script defer src="js/lists.js"></script>
-  <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script defer src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
-  <script>
-    const catIconMap = {
-      'cafe': '☕', 'restaurant': '🍽️', 'activity': '🎭',
-      'shopping': '🛍️', 'nature': '🏞️', 'entertainment': '🎮',
-      'desserts': '🍰', 'events': '🎪'
-    };
-    const catNameMap = {
-      'cafe': 'كافيه', 'restaurant': 'مطعم', 'activity': 'ترفيه',
-      'shopping': 'تسوق', 'nature': 'طبيعة', 'entertainment': 'ألعاب',
-      'desserts': 'حلويات', 'events': 'فعاليات'
-    };
-
-    let allPlaces = [];
-    let currentCategory = 'all';
-    let heatMap = null;
-    let heatClusterGroup = null;
-
-    function updateLiveTime() {
-      const now = new Date();
-      const riyadh = new Date(now.getTime() + (3 * 60 * 60 * 1000));
-      const h = riyadh.getUTCHours();
-      const m = riyadh.getUTCMinutes();
-      const ampm = h >= 12 ? 'م' : 'ص';
-      const dh = h > 12 ? h - 12 : (h === 0 ? 12 : h);
-      const dayNames = ['الأحد', 'الاثنين', 'الثلاثاء', 'الأربعاء', 'الخميس', 'الجمعة', 'السبت'];
-      const dayName = dayNames[riyadh.getUTCDay()];
-      document.getElementById('live-time').textContent =
-        `مباشر · ${dayName} ${dh}:${String(m).padStart(2, '0')} ${ampm} بتوقيت الرياض`;
-      
-      const months = ['يناير','فبراير','مارس','أبريل','مايو','يونيو','يوليو','أغسطس','سبتمبر','أكتوبر','نوفمبر','ديسمبر'];
-      document.getElementById('last-update').textContent = 
-        `آخر تحديث: ${riyadh.getUTCDate()} ${months[riyadh.getUTCMonth()]} ${riyadh.getUTCFullYear()} · ${dh}:${String(m).padStart(2, '0')} ${ampm}`;
-    }
-
-    function renderHeatCard(place, rank) {
-      const score = place.hotnessScore;
-      const tier = place.hotnessTier;
-      const reasons = place.trendingReasons;
-      const cat = place.category_en || place.category;
-      const maxScore = 100;
-      const pct = Math.min(Math.round((score / maxScore) * 100), 100);
-
-      const rankClass = rank <= 3 ? `heat-rank-${rank}` : 'heat-rank-default';
-
-      const reasonsHtml = reasons.map(r => 
-        `<span class="heat-reason">${r.icon} ${r.text}</span>`
-      ).join('');
-
-      return `
-        <article class="heat-card" data-id="${place.id}">
-          <div class="heat-card-image">
-            ${place.image_url ? `<img src="${place.image_url}" alt="${place.name_ar}" loading="lazy" onerror="this.style.display='none'">` : ''}
-            <div class="heat-rank ${rankClass}">${rank}</div>
-            <div class="heat-tier-badge" style="background:${tier.color};">${tier.label}</div>
-          </div>
-          <div class="heat-card-body">
-            <span class="category-tag">${catIconMap[cat] || '📍'} ${catNameMap[cat] || place.category}</span>
-            <h3>${place.name_ar}</h3>
-            <div class="neighborhood-line">${place.neighborhood}</div>
-            <div class="heat-rating-row">
-              <span class="stars">${generateStars(place.google_rating)}</span>
-              <span>${place.google_rating} · ${formatNumber(place.review_count)} تقييم</span>
-            </div>
-            ${reasons.length > 0 ? `<div class="heat-reasons">${reasonsHtml}</div>` : ''}
-            <div class="heat-score-bar">
-              <span style="font-size:12px;color:var(--text-muted);">🌡️</span>
-              <div class="heat-score-track">
-                <div class="heat-score-fill" style="width:${pct}%;background:${tier.color};"></div>
-              </div>
-              <span class="heat-score-label" style="color:${tier.color};">${Math.round(score)}</span>
-            </div>
-            <div class="heat-card-actions">
-              <a href="place.html?id=${place.id}" class="btn-primary">اعرف أكثر</a>
-              <a href="${place.google_maps_url}" target="_blank" class="btn-outline">📍 الموقع</a>
-              <button class="btn-outline" onclick="showAddToListModal('${place.id}')" title="أضف لقائمة">📋</button>
-            </div>
-          </div>
-        </article>
-      `;
-    }
-
-    function renderHeatMap(hotPlaces) {
-      if (!heatMap) {
-        heatMap = L.map('heatmap', { zoomControl: true }).setView([24.7136, 46.6753], 11);
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-          attribution: '© OpenStreetMap',
-          maxZoom: 18,
-        }).addTo(heatMap);
-      }
-
-      // Clear existing markers
-      if (heatClusterGroup) {
-        heatMap.removeLayer(heatClusterGroup);
-      }
-
-      heatClusterGroup = L.markerClusterGroup({
-        maxClusterRadius: 40,
-        spiderfyOnMaxZoom: true,
-        showCoverageOnHover: false,
-        chunkedLoading: true,
-        iconCreateFunction: function(cluster) {
-          const count = cluster.getChildCount();
-          const size = count > 10 ? 48 : 40;
-          return L.divIcon({
-            html: `<div style="
-              background:linear-gradient(135deg, #e74c3c, #c0392b);
-              color:#fff;border-radius:50%;
-              width:${size}px;height:${size}px;
-              display:flex;align-items:center;justify-content:center;
-              font-size:14px;font-weight:900;font-family:'Tajawal',sans-serif;
-              box-shadow:0 3px 12px rgba(231,76,60,0.4);
-              border:3px solid rgba(255,255,255,0.9);
-            ">${count}</div>`,
-            className: 'heat-cluster',
-            iconSize: [size, size],
-          });
-        }
-      });
-
-      hotPlaces.forEach((place, index) => {
-        if (!place.lat || !place.lng) return;
-        const rank = index + 1;
-        const marker = L.marker([place.lat, place.lng], {
-          icon: createHeatMarkerIcon(place, rank)
-        });
-        marker.bindPopup(createHeatPopup(place, rank), { maxWidth: 320 });
-        heatClusterGroup.addLayer(marker);
-      });
-
-      heatMap.addLayer(heatClusterGroup);
-
-      // Fit bounds if markers exist
-      if (hotPlaces.length > 0) {
-        const bounds = hotPlaces
-          .filter(p => p.lat && p.lng)
-          .map(p => [p.lat, p.lng]);
-        if (bounds.length > 0) {
-          heatMap.fitBounds(bounds, { padding: [30, 30], maxZoom: 13 });
-        }
-      }
-    }
-
-    function renderAll() {
-      const hotPlaces = getHottestPlaces(allPlaces, 20, currentCategory);
-      
-      // Update card count
-      document.getElementById('top-count').textContent = `عرض ${hotPlaces.length} مكان`;
-
-      // Render cards
-      const cardsContainer = document.getElementById('heatmap-cards');
-      if (hotPlaces.length === 0) {
-        cardsContainer.innerHTML = `
-          <div class="heatmap-empty">
-            <div class="emoji">🔍</div>
-            <h3>ما لقينا أماكن رائجة بهالتصنيف</h3>
-            <p>جرب تصنيف ثاني</p>
-          </div>
-        `;
-      } else {
-        cardsContainer.innerHTML = hotPlaces.map((p, i) => renderHeatCard(p, i + 1)).join('');
-      }
-
-      // Render map markers
-      renderHeatMap(hotPlaces);
-    }
-
-    document.addEventListener('DOMContentLoaded', async () => {
-      allPlaces = await loadPlaces();
-      
-      updateLiveTime();
-      setInterval(updateLiveTime, 30000);
-
-      renderAll();
-
-      // Category filter tabs
-      document.querySelectorAll('#heat-category-filters .filter-tab').forEach(tab => {
-        tab.addEventListener('click', () => {
-          document.querySelectorAll('#heat-category-filters .filter-tab').forEach(t => t.classList.remove('active'));
-          tab.classList.add('active');
-          currentCategory = tab.dataset.cat;
-          renderAll();
-        });
-      });
-
-      // Auto-refresh every 5 minutes
-      setInterval(renderAll, 5 * 60 * 1000);
-    });
-  </script>
-  <script>
-    document.querySelectorAll('.nav-dropdown > a').forEach(a => {
-      a.addEventListener('click', (e) => {
-        if (window.innerWidth <= 768) {
-          e.preventDefault();
-          a.parentElement.classList.toggle('open');
-        }
+    document.querySelectorAll('.filter-tag').forEach(tag => {
+      tag.addEventListener('click', () => {
+        document.querySelectorAll('.filter-tag').forEach(t => t.classList.remove('active'));
+        tag.classList.add('active');
+        activeCat = tag.dataset.cat;
+        render();
       });
     });
-    document.querySelectorAll('.dropdown-submenu > a').forEach(a => {
-      a.addEventListener('click', (e) => {
-        if (window.innerWidth <= 768) {
-          e.preventDefault();
-          a.nextElementSibling.style.display = a.nextElementSibling.style.display === 'block' ? 'none' : 'block';
-        }
-      });
-    });
-  </script>
-  <script src="js/analytics.js" defer></script>
-  <script src="js/ramadan.js" defer></script>
-  <script>
-    if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(function(){});}
-  </script>
+
+    render();
+  } catch(e) {
+    document.getElementById('loading').innerHTML = '❌ خطأ: ' + e.message;
+  }
+}
+
+function render() {
+  const query = document.getElementById('searchInput').value.trim().toLowerCase();
+  const sort = document.getElementById('sortSelect').value;
+
+  let filtered = trendingPlaces.filter(p => {
+    if (activeCat && p.c !== activeCat) return false;
+    if (query && !(p.n||'').includes(query) && !(p.ne||'').toLowerCase().includes(query) && !(p.h||'').includes(query)) return false;
+    return true;
+  });
+
+  // Sort
+  if (sort === 'rating') filtered.sort((a,b) => (b.r||0) - (a.r||0));
+  else if (sort === 'newest') filtered.sort((a,b) => (b.nw||0) - (a.nw||0) || (b.r||0) - (a.r||0));
+  else filtered.sort((a,b) => {
+    // Trending first, then featured, then new, then by rating
+    const aScore = (a.tr?3:0) + (a.fr?2:0) + (a.nw?1:0);
+    const bScore = (b.tr?3:0) + (b.fr?2:0) + (b.nw?1:0);
+    return bScore - aScore || (b.r||0) - (a.r||0);
+  });
+
+  document.getElementById('resultCount').textContent = `عرض ${toAr(filtered.length)} مكان رائج`;
+
+  document.getElementById('grid').innerHTML = filtered.slice(0, 100).map(p => `<a href="place.html?id=${p.id}" class="trend-card">
+    <div class="tcard-body">
+      <div>
+        ${p.tr ? '<span class="trend-badge badge-trending">🔥 رائج</span>' : ''}
+        ${p.nw ? '<span class="trend-badge badge-new">🆕 جديد</span>' : ''}
+        ${p.fr ? '<span class="trend-badge badge-featured">⭐ مميز</span>' : ''}
+      </div>
+      <div class="tcard-name">${p.n}</div>
+      ${p.ne ? `<div class="tcard-name-en">${p.ne}</div>` : ''}
+      <div class="tcard-meta">
+        <span>${CAT_EMOJIS[p.c]||''} ${p.c || 'أخرى'}</span>
+        <span>📍 ${p.h || 'غير محدد'}</span>
+      </div>
+      ${p.d ? `<div class="tcard-desc">${p.d.substring(0,100)}${p.d.length>100?'...':''}</div>` : ''}
+      ${p.au?.length ? `<div class="tcard-audiences" style="margin-top:8px">${p.au.map(a=>`<span class="audience-tag">${a}</span>`).join('')}</div>` : ''}
+    </div>
+    <div class="tcard-footer">
+      <div class="tcard-rating">${p.r ? `⭐ ${p.r}` : 'بدون تقييم'}</div>
+      ${p.p ? `<div class="tcard-price">${p.p}</div>` : ''}
+    </div>
+  </a>`).join('');
+}
+
+document.getElementById('searchInput').addEventListener('input', render);
+document.getElementById('sortSelect').addEventListener('change', render);
+
+loadData();
+</script>
 </body>
 </html>
