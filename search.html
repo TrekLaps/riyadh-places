@@ -19,12 +19,8 @@
   <link rel="canonical" href="https://treklaps.github.io/riyadh-places/search.html">
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#0a1628">
-  <!-- Performance: preconnect & preload -->
-  <link rel="preconnect" href="https://images.unsplash.com" crossorigin>
   <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
-  <link rel="dns-prefetch" href="https://images.unsplash.com">
   <link rel="preload" href="data/places-light.json" as="fetch" crossorigin>
-  <!-- Critical inline CSS for above-the-fold -->
   <style>
     *{margin:0;padding:0;box-sizing:border-box}
     body{font-family:'Tajawal',sans-serif;background:#0a1628;color:#e0e0e0;direction:rtl}
@@ -32,274 +28,84 @@
     .header-inner{display:flex;align-items:center;justify-content:space-between;max-width:1400px;margin:auto}
     .logo{text-decoration:none;color:#c9a84c;display:flex;align-items:center;gap:8px}
     .logo h1{font-size:1.2rem;margin:0}
-    .cards-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px}
-    .place-card{background:#111b2e;border-radius:16px;overflow:hidden;transition:transform .2s}
-    .place-card-image{height:180px;background:#1a2a4a;position:relative;overflow:hidden}
-    .card-image{width:100%;height:100%;object-fit:cover}
     .skeleton{animation:skeleton-pulse 1.5s ease-in-out infinite}
     @keyframes skeleton-pulse{0%,100%{opacity:.4}50%{opacity:.8}}
-    .place-card{content-visibility:auto;contain-intrinsic-size:0 420px}
   </style>
-
   <link rel="stylesheet" href="css/style.css">
   <style>
-    /* Search Hero */
-    .search-hero {
-      background: linear-gradient(135deg, var(--primary) 0%, #1a2d50 70%, #243656 100%);
-      padding: 40px 20px 60px;
-      text-align: center;
-    }
-    .search-hero h1 {
-      color: white;
-      font-size: 28px;
-      margin-bottom: 16px;
-    }
-    .search-hero-input-wrap {
-      max-width: 640px;
-      margin: 0 auto;
-      position: relative;
-    }
-    .search-hero-input {
-      width: 100%;
-      padding: 16px 20px 16px 50px;
-      border: 2px solid rgba(201,168,76,0.3);
-      border-radius: 14px;
-      background: rgba(255,255,255,0.08);
-      color: white;
-      font-size: 18px;
-      font-family: 'Tajawal', sans-serif;
-      outline: none;
-      transition: all 0.3s;
-      backdrop-filter: blur(4px);
-    }
-    .search-hero-input::placeholder { color: rgba(255,255,255,0.4); }
-    .search-hero-input:focus {
-      border-color: var(--gold);
-      background: rgba(255,255,255,0.12);
-      box-shadow: 0 0 0 4px rgba(201,168,76,0.15);
-    }
-    .search-hero-icon {
-      position: absolute;
-      left: 16px;
-      top: 50%;
-      transform: translateY(-50%);
-      font-size: 20px;
-      opacity: 0.5;
-    }
-    .search-hero-clear {
-      position: absolute;
-      right: 14px;
-      top: 50%;
-      transform: translateY(-50%);
-      background: none;
-      border: none;
-      color: rgba(255,255,255,0.4);
-      font-size: 20px;
-      cursor: pointer;
-      display: none;
-      padding: 4px;
-    }
-    .search-hero-clear.visible { display: block; }
-    .search-hero-hint {
-      color: rgba(255,255,255,0.4);
-      font-size: 13px;
-      margin-top: 10px;
-    }
+    /* ── Search Hero ── */
+    .search-hero{background:linear-gradient(135deg,#0a1628 0%,#1a2d50 70%,#243656 100%);padding:40px 20px 60px;text-align:center}
+    .search-hero h1{color:#fff;font-size:28px;margin-bottom:16px}
+    .search-hero-wrap{max-width:640px;margin:0 auto;position:relative}
+    .search-hero-input{width:100%;padding:16px 20px 16px 50px;border:2px solid rgba(201,168,76,.3);border-radius:14px;background:rgba(255,255,255,.08);color:#fff;font-size:18px;font-family:'Tajawal',sans-serif;outline:none;transition:all .3s;backdrop-filter:blur(4px)}
+    .search-hero-input::placeholder{color:rgba(255,255,255,.4)}
+    .search-hero-input:focus{border-color:#c9a84c;background:rgba(255,255,255,.12);box-shadow:0 0 0 4px rgba(201,168,76,.15)}
+    .search-hero-icon{position:absolute;left:16px;top:50%;transform:translateY(-50%);font-size:20px;opacity:.5}
+    .search-hero-clear{position:absolute;right:14px;top:50%;transform:translateY(-50%);background:none;border:none;color:rgba(255,255,255,.4);font-size:20px;cursor:pointer;display:none;padding:4px}
+    .search-hero-clear.visible{display:block}
+    .search-hero-hint{color:rgba(255,255,255,.4);font-size:13px;margin-top:10px}
+    .recent-searches{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;margin-top:12px}
+    .recent-chip{padding:5px 12px;border-radius:16px;background:rgba(201,168,76,.1);border:1px solid rgba(201,168,76,.25);color:#c9a84c;font-size:13px;cursor:pointer;font-family:'Tajawal',sans-serif;transition:all .2s}
+    .recent-chip:hover{background:rgba(201,168,76,.25)}
+    .recent-clear{padding:5px 10px;border-radius:16px;background:none;border:1px dashed rgba(255,255,255,.2);color:rgba(255,255,255,.3);font-size:12px;cursor:pointer;font-family:'Tajawal',sans-serif}
 
-    /* Filters */
-    .search-filters {
-      max-width: 1200px;
-      margin: -30px auto 0;
-      padding: 0 20px;
-      position: relative;
-      z-index: 10;
-    }
-    .filters-card {
-      background: var(--card-bg, #fff);
-      border-radius: var(--radius);
-      padding: 16px 20px;
-      box-shadow: var(--shadow);
-    }
-    .filter-row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      align-items: center;
-      margin-bottom: 8px;
-    }
-    .filter-row:last-child { margin-bottom: 0; }
-    .filter-label {
-      font-size: 13px;
-      font-weight: 700;
-      color: var(--text-light);
-      min-width: 50px;
-    }
-    .filter-chips {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 6px;
-      flex: 1;
-    }
-    .filter-chip {
-      padding: 6px 14px;
-      border-radius: 20px;
-      border: 1px solid var(--border);
-      background: transparent;
-      color: var(--text);
-      font-family: 'Tajawal', sans-serif;
-      font-size: 13px;
-      cursor: pointer;
-      transition: all 0.2s;
-      white-space: nowrap;
-    }
-    .filter-chip:hover {
-      border-color: var(--gold);
-      color: var(--gold);
-    }
-    .filter-chip.active {
-      background: var(--gold);
-      color: var(--primary);
-      border-color: var(--gold);
-      font-weight: 700;
-    }
-    .filter-chip .chip-count {
-      font-size: 11px;
-      opacity: 0.6;
-      margin-right: 4px;
-    }
-    .filter-more-btn {
-      padding: 6px 12px;
-      border-radius: 20px;
-      border: 1px dashed var(--border);
-      background: transparent;
-      color: var(--text-muted);
-      font-family: 'Tajawal', sans-serif;
-      font-size: 12px;
-      cursor: pointer;
-    }
-    .filters-actions {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-top: 12px;
-      padding-top: 12px;
-      border-top: 1px solid var(--border);
-    }
-    .active-filters-count {
-      font-size: 13px;
-      color: var(--text-muted);
-    }
-    .clear-filters-btn {
-      padding: 6px 16px;
-      border-radius: 8px;
-      border: none;
-      background: transparent;
-      color: var(--gold);
-      font-family: 'Tajawal', sans-serif;
-      font-size: 13px;
-      font-weight: 700;
-      cursor: pointer;
-      display: none;
-    }
-    .clear-filters-btn.visible { display: block; }
+    /* ── Filters ── */
+    .search-filters{max-width:1200px;margin:-30px auto 0;padding:0 20px;position:relative;z-index:10}
+    .filters-card{background:#111b2e;border-radius:16px;padding:16px 20px;border:1px solid rgba(201,168,76,.1)}
+    .filter-row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:8px}
+    .filter-row:last-child{margin-bottom:0}
+    .filter-label{font-size:13px;font-weight:700;color:rgba(255,255,255,.5);min-width:50px}
+    .filter-chips{display:flex;flex-wrap:wrap;gap:6px;flex:1}
+    .filter-chip{padding:6px 14px;border-radius:20px;border:1px solid rgba(255,255,255,.15);background:transparent;color:#e0e0e0;font-family:'Tajawal',sans-serif;font-size:13px;cursor:pointer;transition:all .2s;white-space:nowrap}
+    .filter-chip:hover{border-color:#c9a84c;color:#c9a84c}
+    .filter-chip.active{background:#c9a84c;color:#0a1628;border-color:#c9a84c;font-weight:700}
+    .chip-count{font-size:11px;opacity:.6;margin-right:4px}
+    .filter-more-btn{padding:6px 12px;border-radius:20px;border:1px dashed rgba(255,255,255,.2);background:transparent;color:rgba(255,255,255,.4);font-family:'Tajawal',sans-serif;font-size:12px;cursor:pointer}
+    .filters-actions{display:flex;justify-content:space-between;align-items:center;margin-top:12px;padding-top:12px;border-top:1px solid rgba(255,255,255,.08)}
+    .active-filters-count{font-size:13px;color:rgba(255,255,255,.4)}
+    .clear-filters-btn{padding:6px 16px;border-radius:8px;border:none;background:transparent;color:#c9a84c;font-family:'Tajawal',sans-serif;font-size:13px;font-weight:700;cursor:pointer;display:none}
+    .clear-filters-btn.visible{display:block}
 
-    /* Sort bar */
-    .search-sort-bar {
-      max-width: 1200px;
-      margin: 16px auto;
-      padding: 0 20px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-    .results-info {
-      font-size: 14px;
-      color: var(--text-light);
-    }
-    .results-info strong {
-      color: var(--gold);
-      font-weight: 800;
-    }
-    .sort-select {
-      padding: 8px 14px;
-      border-radius: 8px;
-      border: 1px solid var(--border);
-      background: var(--card-bg, #fff);
-      color: var(--text);
-      font-family: 'Tajawal', sans-serif;
-      font-size: 13px;
-      cursor: pointer;
-    }
+    /* ── Sort Bar ── */
+    .search-sort-bar{max-width:1200px;margin:16px auto;padding:0 20px;display:flex;justify-content:space-between;align-items:center}
+    .results-info{font-size:14px;color:rgba(255,255,255,.6)}
+    .results-info strong{color:#c9a84c;font-weight:800}
+    .sort-select{padding:8px 14px;border-radius:8px;border:1px solid rgba(255,255,255,.15);background:#111b2e;color:#e0e0e0;font-family:'Tajawal',sans-serif;font-size:13px;cursor:pointer}
 
-    /* Results */
-    .search-results {
-      max-width: 1200px;
-      margin: 0 auto 40px;
-      padding: 0 20px;
-    }
-    .search-results-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-      gap: 20px;
-    }
+    /* ── Results Grid ── */
+    .search-results{max-width:1200px;margin:0 auto 40px;padding:0 20px}
+    .search-results-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px}
 
-    /* No results */
-    .no-results {
-      text-align: center;
-      padding: 60px 20px;
-    }
-    .no-results .emoji { font-size: 64px; margin-bottom: 16px; }
-    .no-results h3 {
-      color: var(--text);
-      font-size: 22px;
-      margin-bottom: 8px;
-    }
-    .no-results p { color: var(--text-muted); margin-bottom: 20px; }
-    .no-results-suggestions {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 8px;
-    }
-    .suggestion-chip {
-      padding: 8px 16px;
-      border-radius: 20px;
-      border: 1px solid var(--gold);
-      color: var(--gold);
-      font-family: 'Tajawal', sans-serif;
-      font-size: 14px;
-      cursor: pointer;
-      text-decoration: none;
-      transition: all 0.2s;
-    }
-    .suggestion-chip:hover {
-      background: var(--gold);
-      color: var(--primary);
-    }
+    /* ── Skeleton Cards ── */
+    .skel-card{background:#111b2e;border-radius:16px;overflow:hidden}
+    .skel-img{height:180px;background:linear-gradient(135deg,#1a2a4a,#0f1a30)}
+    .skel-body{padding:16px}
+    .skel-line{height:14px;background:#1a2a4a;border-radius:6px;margin-bottom:10px}
+    .skel-line.w60{width:60%}
+    .skel-line.w40{width:40%}
+    .skel-line.w80{width:80%}
 
-    /* Search loading */
-    .search-loading {
-      text-align: center;
-      padding: 40px;
-      color: var(--text-muted);
-    }
-    .search-loading .spinner {
-      display: inline-block;
-      width: 32px;
-      height: 32px;
-      border: 3px solid var(--border);
-      border-top-color: var(--gold);
-      border-radius: 50%;
-      animation: spin 0.8s linear infinite;
-    }
-    @keyframes spin { to { transform: rotate(360deg); } }
+    /* ── No Results ── */
+    .no-results{text-align:center;padding:60px 20px;grid-column:1/-1}
+    .no-results .emoji{font-size:64px;margin-bottom:16px}
+    .no-results h3{color:#fff;font-size:22px;margin-bottom:8px}
+    .no-results p{color:rgba(255,255,255,.5);margin-bottom:20px}
+    .no-results-suggestions{display:flex;flex-wrap:wrap;justify-content:center;gap:8px}
+    .suggestion-chip{padding:8px 16px;border-radius:20px;border:1px solid #c9a84c;color:#c9a84c;font-family:'Tajawal',sans-serif;font-size:14px;cursor:pointer;text-decoration:none;transition:all .2s;background:none}
+    .suggestion-chip:hover{background:#c9a84c;color:#0a1628}
 
-    @media (max-width: 768px) {
-      .search-hero { padding: 30px 16px 50px; }
-      .search-hero h1 { font-size: 22px; }
-      .search-hero-input { font-size: 16px; padding: 14px 16px 14px 42px; }
-      .search-results-grid { grid-template-columns: 1fr; }
-      .filter-row { flex-direction: column; align-items: flex-start; }
+    /* ── Loading ── */
+    .search-loading{text-align:center;padding:40px;color:rgba(255,255,255,.4)}
+    .spinner{display:inline-block;width:32px;height:32px;border:3px solid rgba(255,255,255,.1);border-top-color:#c9a84c;border-radius:50%;animation:spin .8s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+
+    @media(max-width:768px){
+      .search-hero{padding:30px 16px 50px}
+      .search-hero h1{font-size:22px}
+      .search-hero-input{font-size:16px;padding:14px 16px 14px 42px}
+      .search-results-grid{grid-template-columns:1fr}
+      .filter-row{flex-direction:column;align-items:flex-start}
+      .search-sort-bar{flex-direction:column;gap:8px;align-items:flex-start}
     }
   </style>
   <link rel="stylesheet" href="css/ramadan.css">
@@ -328,18 +134,21 @@
   <!-- Search Hero -->
   <div class="search-hero">
     <h1>🔍 ابحث عن مكانك المفضل</h1>
-    <div class="search-hero-input-wrap">
+    <div class="search-hero-wrap">
       <input type="text" class="search-hero-input" id="search-input" placeholder="ابحث... كافيه، مطعم، حي، نشاط" autocomplete="off" autofocus>
       <span class="search-hero-icon">🔍</span>
       <button class="search-hero-clear" id="search-clear" title="مسح">✕</button>
     </div>
     <div class="search-hero-hint">💡 جرب: "كافيه العليا" — "مطعم إيطالي" — "عوائل" — "مجاني"</div>
+    <div class="recent-searches" id="recent-searches"></div>
   </div>
 
   <!-- Filters -->
   <div class="search-filters">
     <div class="filters-card" id="filters-card">
-      <div class="search-loading" id="filters-loading"><div class="spinner"></div></div>
+      <!-- Skeleton -->
+      <div class="skel-line w80 skeleton"></div>
+      <div class="skel-line w60 skeleton"></div>
     </div>
   </div>
 
@@ -359,16 +168,16 @@
   <!-- Results -->
   <div class="search-results">
     <div class="search-results-grid" id="results-container">
-      <div class="search-loading"><div class="spinner"></div><p>جاري تحميل الأماكن...</p></div>
+      <!-- Skeleton cards -->
+      <div class="skel-card skeleton"><div class="skel-img"></div><div class="skel-body"><div class="skel-line w60"></div><div class="skel-line w80"></div><div class="skel-line w40"></div></div></div>
+      <div class="skel-card skeleton"><div class="skel-img"></div><div class="skel-body"><div class="skel-line w60"></div><div class="skel-line w80"></div><div class="skel-line w40"></div></div></div>
+      <div class="skel-card skeleton"><div class="skel-img"></div><div class="skel-body"><div class="skel-line w60"></div><div class="skel-line w80"></div><div class="skel-line w40"></div></div></div>
     </div>
   </div>
 
   <footer class="footer">
     <div class="footer-inner">
-      <div>
-        <h3>وين نروح بالرياض؟</h3>
-        <p>دليلك الشامل لأفضل الأماكن في الرياض مع تقييمات قوقل الحقيقية.</p>
-      </div>
+      <div><h3>وين نروح بالرياض؟</h3><p>دليلك الشامل لأفضل الأماكن في الرياض مع تقييمات قوقل الحقيقية.</p></div>
       <div>
         <h3>الأقسام</h3>
         <ul>
@@ -386,232 +195,296 @@
 
   <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
 
-  <script defer src="js/darkmode.js"></script>
-  <script defer src="js/crowd.js"></script>
-  <script defer src="js/main.js"></script>
-  <script defer src="js/search.js"></script>
+  <script src="js/darkmode.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/search.js"></script>
   <script>
     (function() {
-      const searchInput = document.getElementById('search-input');
-      const clearBtn = document.getElementById('search-clear');
-      const filtersCard = document.getElementById('filters-card');
-      const resultsInfo = document.getElementById('results-info');
-      const resultsContainer = document.getElementById('results-container');
-      const sortSelect = document.getElementById('sort-select');
+      'use strict';
+      var searchInput = document.getElementById('search-input');
+      var clearBtn = document.getElementById('search-clear');
+      var filtersCard = document.getElementById('filters-card');
+      var resultsInfo = document.getElementById('results-info');
+      var resultsContainer = document.getElementById('results-container');
+      var sortSelect = document.getElementById('sort-select');
+      var recentDiv = document.getElementById('recent-searches');
 
-      let searchIndex = [];
-      let filterOptions = {};
-      let activeFilters = {};
-      let currentResults = [];
-      let debounceTimer = null;
+      var searchIndex = [];
+      var filterOptions = {};
+      var activeFilters = {};
+      var currentResults = [];
+      var debounceTimer = null;
+      var PAGE_SIZE = 30;
+      var shownCount = 0;
 
-      // Parse URL params
+      var catIcons = WaynSearch.categoryIcons;
+      var catGradients = typeof categoryGradients !== 'undefined' ? categoryGradients : {
+        'مطعم':'linear-gradient(135deg,#c0392b,#e74c3c)',
+        'كافيه':'linear-gradient(135deg,#6F4E37,#A0785A)',
+        'ترفيه':'linear-gradient(135deg,#8e44ad,#9b59b6)',
+        'حلويات':'linear-gradient(135deg,#e84393,#fd79a8)',
+        'طبيعة':'linear-gradient(135deg,#27ae60,#2ecc71)',
+        'تسوق':'linear-gradient(135deg,#2980b9,#3498db)',
+        'شاليه':'linear-gradient(135deg,#d35400,#e67e22)',
+        'فنادق':'linear-gradient(135deg,#1a1a2e,#16213e)',
+        'مولات':'linear-gradient(135deg,#2c3e50,#34495e)',
+        'متاحف':'linear-gradient(135deg,#7f8c8d,#95a5a6)',
+        'فعاليات':'linear-gradient(135deg,#f39c12,#f1c40f)'
+      };
+
+      // URL params
       function getParams() {
-        const p = new URLSearchParams(window.location.search);
-        return {
-          q: p.get('q') || '',
-          cat: p.get('cat') || '',
-          hood: p.get('hood') || '',
-          price: p.get('price') || '',
-          audience: p.get('audience') || '',
-          perfect_for: p.get('perfect_for') || '',
-          sort: p.get('sort') || 'relevance'
-        };
+        var p = new URLSearchParams(window.location.search);
+        return { q:p.get('q')||'', cat:p.get('cat')||'', hood:p.get('hood')||'', price:p.get('price')||'', audience:p.get('audience')||'', perfect_for:p.get('perfect_for')||'', sort:p.get('sort')||'relevance' };
       }
 
-      // Update URL without reload
       function updateURL() {
-        const params = new URLSearchParams();
-        if (searchInput.value) params.set('q', searchInput.value);
-        if (activeFilters.category) params.set('cat', activeFilters.category);
-        if (activeFilters.neighborhood) params.set('hood', activeFilters.neighborhood);
-        if (activeFilters.price) params.set('price', activeFilters.price);
-        if (activeFilters.audience) params.set('audience', activeFilters.audience);
-        if (activeFilters.perfect_for) params.set('perfect_for', activeFilters.perfect_for);
-        if (sortSelect.value !== 'relevance') params.set('sort', sortSelect.value);
-        
-        const url = params.toString() ? `search.html?${params}` : 'search.html';
+        var p = new URLSearchParams();
+        if (searchInput.value) p.set('q', searchInput.value);
+        if (activeFilters.category) p.set('cat', activeFilters.category);
+        if (activeFilters.neighborhood) p.set('hood', activeFilters.neighborhood);
+        if (activeFilters.price) p.set('price', activeFilters.price);
+        if (activeFilters.audience) p.set('audience', activeFilters.audience);
+        if (activeFilters.perfect_for) p.set('perfect_for', activeFilters.perfect_for);
+        if (sortSelect.value !== 'relevance') p.set('sort', sortSelect.value);
+        var url = p.toString() ? 'search.html?' + p : 'search.html';
         history.replaceState(null, '', url);
       }
 
-      // Build filter UI
+      // Recent searches
+      function showRecent() {
+        var recent = WaynSearch.getRecent();
+        if (!recent.length) { recentDiv.innerHTML = ''; return; }
+        recentDiv.innerHTML = recent.map(function(q) {
+          return '<button class="recent-chip" data-q="' + q + '">🕐 ' + q + '</button>';
+        }).join('') + '<button class="recent-clear" id="clear-recent">مسح السجل</button>';
+        recentDiv.querySelectorAll('.recent-chip').forEach(function(btn) {
+          btn.addEventListener('click', function() {
+            searchInput.value = this.dataset.q;
+            runSearch();
+            searchInput.focus();
+          });
+        });
+        var cr = document.getElementById('clear-recent');
+        if (cr) cr.addEventListener('click', function() { WaynSearch.clearRecent(); recentDiv.innerHTML = ''; });
+      }
+
+      // Render filters
       function renderFilters() {
-        const catIcons = WaynSearch.categoryIcons;
-        const maxChips = 8;
+        var maxChips = 8;
+        var html = '';
 
-        let html = '';
+        // Category
+        html += '<div class="filter-row"><span class="filter-label">القسم:</span><div class="filter-chips">';
+        filterOptions.categories.forEach(function(c) {
+          var icon = catIcons[c.label] || '📍';
+          var act = activeFilters.category === c.label ? ' active' : '';
+          html += '<button class="filter-chip' + act + '" data-filter="category" data-value="' + c.label + '">' + icon + ' ' + c.label + ' <span class="chip-count">' + c.count + '</span></button>';
+        });
+        html += '</div></div>';
 
-        // Category chips
-        html += `<div class="filter-row">
-          <span class="filter-label">القسم:</span>
-          <div class="filter-chips" id="filter-category">
-            ${filterOptions.categories.map(c => {
-              const icon = catIcons[c.label] || '📍';
-              const active = activeFilters.category === c.label ? ' active' : '';
-              return `<button class="filter-chip${active}" data-filter="category" data-value="${c.label}">${icon} ${c.label} <span class="chip-count">${c.count}</span></button>`;
-            }).join('')}
-          </div>
-        </div>`;
+        // Neighborhood (top 12)
+        var hoods = filterOptions.neighborhoods.slice(0, 12);
+        html += '<div class="filter-row"><span class="filter-label">الحي:</span><div class="filter-chips" id="filter-hood">';
+        hoods.forEach(function(n) {
+          var act = activeFilters.neighborhood === n.label ? ' active' : '';
+          html += '<button class="filter-chip' + act + '" data-filter="neighborhood" data-value="' + n.label + '">🏘️ ' + n.label + ' <span class="chip-count">' + n.count + '</span></button>';
+        });
+        if (filterOptions.neighborhoods.length > 12) {
+          html += '<button class="filter-more-btn" id="show-more-hoods">+' + (filterOptions.neighborhoods.length - 12) + ' حي</button>';
+        }
+        html += '</div></div>';
 
-        // Neighborhood chips (top 12)
-        const shownHoods = filterOptions.neighborhoods.slice(0, 12);
-        html += `<div class="filter-row">
-          <span class="filter-label">الحي:</span>
-          <div class="filter-chips" id="filter-neighborhood">
-            ${shownHoods.map(n => {
-              const active = activeFilters.neighborhood === n.label ? ' active' : '';
-              return `<button class="filter-chip${active}" data-filter="neighborhood" data-value="${n.label}">🏘️ ${n.label} <span class="chip-count">${n.count}</span></button>`;
-            }).join('')}
-            ${filterOptions.neighborhoods.length > 12 ? `<button class="filter-more-btn" id="show-more-hoods">+${filterOptions.neighborhoods.length - 12} حي</button>` : ''}
-          </div>
-        </div>`;
+        // Price
+        if (filterOptions.prices.length) {
+          html += '<div class="filter-row"><span class="filter-label">السعر:</span><div class="filter-chips">';
+          filterOptions.prices.forEach(function(p) {
+            var act = activeFilters.price === p ? ' active' : '';
+            var lbl = p === 'مجاني' ? '🆓 مجاني' : p;
+            html += '<button class="filter-chip' + act + '" data-filter="price" data-value="' + p + '">' + lbl + '</button>';
+          });
+          html += '</div></div>';
+        }
 
-        // Price chips
-        html += `<div class="filter-row">
-          <span class="filter-label">السعر:</span>
-          <div class="filter-chips" id="filter-price">
-            ${filterOptions.prices.map(p => {
-              const active = activeFilters.price === p ? ' active' : '';
-              const label = p === 'مجاني' ? '🆓 مجاني' : p;
-              return `<button class="filter-chip${active}" data-filter="price" data-value="${p}">${label}</button>`;
-            }).join('')}
-          </div>
-        </div>`;
+        // Audience
+        if (filterOptions.audiences.length) {
+          html += '<div class="filter-row"><span class="filter-label">مناسب لـ:</span><div class="filter-chips">';
+          filterOptions.audiences.slice(0, maxChips).forEach(function(a) {
+            var act = activeFilters.audience === a.label ? ' active' : '';
+            html += '<button class="filter-chip' + act + '" data-filter="audience" data-value="' + a.label + '">' + a.label + '</button>';
+          });
+          html += '</div></div>';
+        }
 
-        // Audience chips (top 8)
-        html += `<div class="filter-row">
-          <span class="filter-label">مناسب لـ:</span>
-          <div class="filter-chips" id="filter-audience">
-            ${filterOptions.audiences.slice(0, maxChips).map(a => {
-              const active = activeFilters.audience === a.label ? ' active' : '';
-              return `<button class="filter-chip${active}" data-filter="audience" data-value="${a.label}">${a.label}</button>`;
-            }).join('')}
-          </div>
-        </div>`;
+        // Perfect for
+        if (filterOptions.perfectFor.length) {
+          html += '<div class="filter-row"><span class="filter-label">مثالي لـ:</span><div class="filter-chips">';
+          filterOptions.perfectFor.slice(0, maxChips).forEach(function(pf) {
+            var act = activeFilters.perfect_for === pf.label ? ' active' : '';
+            html += '<button class="filter-chip' + act + '" data-filter="perfect_for" data-value="' + pf.label + '">' + pf.label + '</button>';
+          });
+          html += '</div></div>';
+        }
 
-        // Perfect for chips (top 8)
-        html += `<div class="filter-row">
-          <span class="filter-label">مثالي لـ:</span>
-          <div class="filter-chips" id="filter-perfect_for">
-            ${filterOptions.perfectFor.slice(0, maxChips).map(pf => {
-              const active = activeFilters.perfect_for === pf.label ? ' active' : '';
-              return `<button class="filter-chip${active}" data-filter="perfect_for" data-value="${pf.label}">${pf.label}</button>`;
-            }).join('')}
-          </div>
-        </div>`;
-
-        // Actions row
-        const filterCount = Object.values(activeFilters).filter(Boolean).length;
-        html += `<div class="filters-actions">
-          <span class="active-filters-count">${filterCount > 0 ? `${filterCount} فلتر نشط` : ''}</span>
-          <button class="clear-filters-btn ${filterCount > 0 ? 'visible' : ''}" id="clear-filters">مسح الفلاتر ✕</button>
-        </div>`;
+        // Actions
+        var fc = Object.values(activeFilters).filter(Boolean).length;
+        html += '<div class="filters-actions"><span class="active-filters-count">' + (fc > 0 ? fc + ' فلتر نشط' : '') + '</span>';
+        html += '<button class="clear-filters-btn ' + (fc > 0 ? 'visible' : '') + '" id="clear-filters">مسح الفلاتر ✕</button></div>';
 
         filtersCard.innerHTML = html;
+        bindFilterEvents();
+      }
 
-        // Bind chip clicks
-        filtersCard.querySelectorAll('.filter-chip').forEach(chip => {
-          chip.addEventListener('click', () => {
-            const filterName = chip.dataset.filter;
-            const value = chip.dataset.value;
-            if (activeFilters[filterName] === value) {
-              delete activeFilters[filterName];
-            } else {
-              activeFilters[filterName] = value;
-            }
+      function bindFilterEvents() {
+        filtersCard.querySelectorAll('.filter-chip').forEach(function(chip) {
+          chip.addEventListener('click', function() {
+            var f = this.dataset.filter, v = this.dataset.value;
+            if (activeFilters[f] === v) delete activeFilters[f];
+            else activeFilters[f] = v;
             renderFilters();
             runSearch();
           });
         });
-
-        // Show more neighborhoods
-        const moreBtn = document.getElementById('show-more-hoods');
+        var moreBtn = document.getElementById('show-more-hoods');
         if (moreBtn) {
-          moreBtn.addEventListener('click', () => {
-            const container = document.getElementById('filter-neighborhood');
-            const allHoods = filterOptions.neighborhoods;
-            container.innerHTML = allHoods.map(n => {
-              const active = activeFilters.neighborhood === n.label ? ' active' : '';
-              return `<button class="filter-chip${active}" data-filter="neighborhood" data-value="${n.label}">🏘️ ${n.label} <span class="chip-count">${n.count}</span></button>`;
+          moreBtn.addEventListener('click', function() {
+            var cont = document.getElementById('filter-hood');
+            cont.innerHTML = filterOptions.neighborhoods.map(function(n) {
+              var act = activeFilters.neighborhood === n.label ? ' active' : '';
+              return '<button class="filter-chip' + act + '" data-filter="neighborhood" data-value="' + n.label + '">🏘️ ' + n.label + ' <span class="chip-count">' + n.count + '</span></button>';
             }).join('');
-            container.querySelectorAll('.filter-chip').forEach(chip => {
-              chip.addEventListener('click', () => {
-                if (activeFilters.neighborhood === chip.dataset.value) delete activeFilters.neighborhood;
-                else activeFilters.neighborhood = chip.dataset.value;
+            cont.querySelectorAll('.filter-chip').forEach(function(chip) {
+              chip.addEventListener('click', function() {
+                if (activeFilters.neighborhood === this.dataset.value) delete activeFilters.neighborhood;
+                else activeFilters.neighborhood = this.dataset.value;
                 renderFilters();
                 runSearch();
               });
             });
           });
         }
+        var clr = document.getElementById('clear-filters');
+        if (clr) clr.addEventListener('click', function() { activeFilters = {}; renderFilters(); runSearch(); });
+      }
 
-        // Clear filters
-        const clearFiltersBtn = document.getElementById('clear-filters');
-        if (clearFiltersBtn) {
-          clearFiltersBtn.addEventListener('click', () => {
-            activeFilters = {};
-            renderFilters();
-            runSearch();
-          });
+      // Generate a search result card (standalone, no dependency on main.js generatePlaceCard)
+      function makeCard(place) {
+        var icon = catIcons[place.category] || '📍';
+        var grad = catGradients[place.category] || 'linear-gradient(135deg,#0a1628,#162040)';
+        var stars = '';
+        if (place.google_rating) {
+          var full = Math.floor(place.google_rating);
+          for (var s = 0; s < full; s++) stars += '★';
+          if (place.google_rating % 1 >= 0.3) stars += '★';
+          var empty = 5 - stars.length;
+          for (var e = 0; e < empty; e++) stars += '☆';
         }
+        var badges = '';
+        if (place.trending) badges += '<span style="position:absolute;top:10px;right:10px;background:#e74c3c;color:#fff;padding:3px 8px;border-radius:8px;font-size:12px">🔥 رائج</span>';
+        if (place.is_new) badges += '<span style="position:absolute;top:10px;' + (place.trending?'right:85px':'right:10px') + ';background:#c9a84c;color:#0a1628;padding:3px 8px;border-radius:8px;font-size:12px">جديد</span>';
+
+        return '<article class="place-card" style="background:#111b2e;border-radius:16px;overflow:hidden;transition:transform .2s;cursor:pointer" onclick="window.location.href=\'place.html?id=' + place.id + '\'">' +
+          '<div style="height:180px;background:' + grad + ';position:relative;display:flex;align-items:center;justify-content:center;overflow:hidden">' +
+            '<span style="font-size:48px;opacity:.6">' + icon + '</span>' + badges +
+          '</div>' +
+          '<div style="padding:16px">' +
+            '<span style="display:inline-block;background:rgba(201,168,76,.15);color:#c9a84c;padding:3px 10px;border-radius:10px;font-size:12px;margin-bottom:8px">' + (place.category_ar||place.category) + '</span>' +
+            '<h3 style="font-size:17px;color:#fff;margin-bottom:4px;font-weight:700">' + place.name_ar + '</h3>' +
+            (place.name_en ? '<div style="font-size:13px;color:rgba(255,255,255,.4);margin-bottom:6px">' + place.name_en + '</div>' : '') +
+            '<div style="font-size:13px;color:rgba(255,255,255,.5);margin-bottom:10px">📍 ' + (place.neighborhood||'') + '</div>' +
+            (place.google_rating ? '<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px"><span style="font-size:20px;font-weight:800;color:#c9a84c">' + place.google_rating + '</span><span style="color:#c9a84c;font-size:14px">' + stars + '</span>' + (place.review_count ? '<span style="font-size:12px;color:rgba(255,255,255,.4)">' + place.review_count + ' تقييم</span>' : '') + '</div>' : '') +
+            (place.description_ar ? '<div style="font-size:13px;color:rgba(255,255,255,.4);margin-bottom:10px;line-height:1.6;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden">' + place.description_ar + '</div>' : '') +
+            '<div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">' +
+              (place.price_level ? '<span style="font-size:13px;color:#c9a84c">' + place.price_level + '</span>' : '') +
+              (place.is_free ? '<span style="background:rgba(46,204,113,.15);color:#2ecc71;padding:2px 8px;border-radius:8px;font-size:12px">🆓 مجاني</span>' : '') +
+            '</div>' +
+            '<div style="display:flex;gap:8px;margin-top:12px">' +
+              '<a href="place.html?id=' + place.id + '" style="flex:1;text-align:center;padding:8px;background:#c9a84c;color:#0a1628;border-radius:10px;text-decoration:none;font-weight:700;font-size:14px" onclick="event.stopPropagation()">اعرف أكثر</a>' +
+              (place.google_maps_url ? '<a href="' + place.google_maps_url + '" target="_blank" style="padding:8px 12px;border:1px solid rgba(255,255,255,.15);border-radius:10px;text-decoration:none;color:#e0e0e0;font-size:14px" onclick="event.stopPropagation()">📍</a>' : '') +
+            '</div>' +
+          '</div>' +
+        '</article>';
       }
 
       // Run search
       function runSearch() {
-        const query = searchInput.value.trim();
-        const results = WaynSearch.searchPlaces(searchIndex, query, activeFilters);
-        currentResults = WaynSearch.sortResults(results, sortSelect.value);
+        var query = searchInput.value.trim();
+        if (query) WaynSearch.saveRecent(query);
 
-        // Update URL
+        var t0 = performance.now();
+        var results = WaynSearch.searchPlaces(searchIndex, query, activeFilters);
+        currentResults = WaynSearch.sortResults(results, sortSelect.value);
+        var dt = (performance.now() - t0).toFixed(1);
+
         updateURL();
 
-        // Results info
-        const count = currentResults.length;
-        if (query || Object.keys(activeFilters).length > 0) {
-          resultsInfo.innerHTML = `تم العثور على <strong>${count.toLocaleString('ar-SA')}</strong> مكان${query ? ` لـ "${query}"` : ''}`;
+        var count = currentResults.length;
+        var hasQuery = query || Object.keys(activeFilters).some(function(k){ return !!activeFilters[k]; });
+        if (hasQuery) {
+          resultsInfo.innerHTML = 'تم العثور على <strong>' + count.toLocaleString('ar-SA') + '</strong> مكان' + (query ? ' لـ "' + query + '"' : '') + ' <span style="font-size:11px;color:rgba(255,255,255,.3)">(' + dt + 'ms)</span>';
         } else {
-          resultsInfo.innerHTML = `<strong>${count.toLocaleString('ar-SA')}</strong> مكان`;
+          resultsInfo.innerHTML = '<strong>' + count.toLocaleString('ar-SA') + '</strong> مكان';
         }
 
-        // Clear button
         clearBtn.classList.toggle('visible', query.length > 0);
+        showRecent();
 
-        // Render
         if (count === 0) {
           renderNoResults(query);
         } else {
-          renderResults(currentResults);
+          shownCount = 0;
+          resultsContainer.innerHTML = '';
+          showMore();
         }
       }
 
-      // Render results using place cards from main.js
-      function renderResults(results) {
-        resultsContainer.innerHTML = results.map(r => generatePlaceCard(r.place)).join('');
+      // Lazy render (30 at a time)
+      function showMore() {
+        var end = Math.min(shownCount + PAGE_SIZE, currentResults.length);
+        var html = '';
+        for (var i = shownCount; i < end; i++) {
+          html += makeCard(currentResults[i].place);
+        }
+        resultsContainer.insertAdjacentHTML('beforeend', html);
+        shownCount = end;
       }
 
-      // Render no results
+      // Infinite scroll
+      var scrollTimer;
+      window.addEventListener('scroll', function() {
+        if (scrollTimer) return;
+        scrollTimer = setTimeout(function() {
+          scrollTimer = null;
+          if (shownCount < currentResults.length && (window.innerHeight + window.scrollY) >= document.body.offsetHeight - 600) {
+            showMore();
+          }
+        }, 100);
+      });
+
       function renderNoResults(query) {
-        const suggestions = ['كافيه', 'مطعم إيطالي', 'عوائل', 'العليا', 'مجاني', 'ترفيه'];
-        resultsContainer.innerHTML = `
-          <div class="no-results" style="grid-column: 1 / -1;">
-            <div class="emoji">🔍</div>
-            <h3>لا نتائج${query ? ` لـ "${query}"` : ''}</h3>
-            <p>جرب تغيير كلمات البحث أو إزالة بعض الفلاتر</p>
-            <div class="no-results-suggestions">
-              ${suggestions.map(s => `<a class="suggestion-chip" href="search.html?q=${encodeURIComponent(s)}">${s}</a>`).join('')}
-            </div>
-          </div>
-        `;
+        var suggestions = ['كافيه', 'مطعم برجر', 'حلويات', 'عوائل', 'العليا', 'شاليهات', 'مجاني', 'ترفيه'];
+        resultsContainer.innerHTML = '<div class="no-results"><div class="emoji">🔍</div>' +
+          '<h3>ما لقينا نتائج' + (query ? ' لـ "' + query + '"' : '') + '</h3>' +
+          '<p>جرب تغيير كلمات البحث أو إزالة بعض الفلاتر</p>' +
+          '<div class="no-results-suggestions">' +
+          suggestions.map(function(s) { return '<a class="suggestion-chip" href="search.html?q=' + encodeURIComponent(s) + '">' + s + '</a>'; }).join('') +
+          '</div></div>';
       }
 
-      // Initialize
+      // Init
       async function init() {
-        const places = await loadPlaces();
-        searchIndex = WaynSearch.buildSearchIndex(places);
-        filterOptions = WaynSearch.extractFilterOptions(places);
+        var places;
+        if (typeof loadPlaces === 'function') {
+          places = await loadPlaces();
+        } else {
+          var resp = await fetch('data/places-light.json');
+          places = await resp.json();
+        }
 
-        // Restore from URL
-        const params = getParams();
+        searchIndex = WaynSearch.buildSearchIndex(places);
+        filterOptions = WaynSearch.extractFilterOptions(places.map(function(p){ return p.name_ar ? p : WaynSearch.expand(p); }));
+
+        var params = getParams();
         searchInput.value = params.q;
         if (params.cat) activeFilters.category = params.cat;
         if (params.hood) activeFilters.neighborhood = params.hood;
@@ -621,49 +494,46 @@
         if (params.sort) sortSelect.value = params.sort;
 
         renderFilters();
+        showRecent();
         runSearch();
       }
 
       // Events
-      searchInput.addEventListener('input', () => {
+      searchInput.addEventListener('input', function() {
         clearTimeout(debounceTimer);
-        debounceTimer = setTimeout(runSearch, 250);
+        debounceTimer = setTimeout(runSearch, 200);
       });
-
-      searchInput.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter') {
-          clearTimeout(debounceTimer);
-          runSearch();
-        }
+      searchInput.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter') { clearTimeout(debounceTimer); runSearch(); }
       });
-
-      clearBtn.addEventListener('click', () => {
+      clearBtn.addEventListener('click', function() {
         searchInput.value = '';
         runSearch();
         searchInput.focus();
       });
-
-      sortSelect.addEventListener('change', () => {
+      sortSelect.addEventListener('change', function() {
         currentResults = WaynSearch.sortResults(currentResults, sortSelect.value);
-        renderResults(currentResults);
+        shownCount = 0;
+        resultsContainer.innerHTML = '';
+        showMore();
         updateURL();
       });
 
       // Mobile menu
-      document.addEventListener('DOMContentLoaded', () => {
-        const toggle = document.querySelector('.menu-toggle');
-        const nav = document.querySelector('.nav');
-        if (toggle && nav) {
-          toggle.addEventListener('click', () => nav.classList.toggle('open'));
-        }
+      var toggle = document.querySelector('.menu-toggle');
+      var nav = document.querySelector('.nav');
+      if (toggle && nav) toggle.addEventListener('click', function() { nav.classList.toggle('open'); });
+
+      // Start
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', init);
+      } else {
         init();
-      });
+      }
     })();
   </script>
   <script src="js/analytics.js" defer></script>
   <script src="js/ramadan.js" defer></script>
-  <script>
-    if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(function(){});}
-  </script>
+  <script>if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(function(){});}</script>
 </body>
 </html>
