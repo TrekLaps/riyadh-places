@@ -1,17 +1,17 @@
-# Automated Data Scraper — Runs daily to update prices
+# جمع البيانات التلقائي — مع التحقق بعد كل تحديث
 name: Data Scraper (Daily)
 
 on:
   schedule:
     - cron: '0 6 * * *'  # 9 AM Riyadh (UTC+3)
-  workflow_dispatch:  # Manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  scrape-prices:
-    name: Update Delivery Prices
+  scrape-and-validate:
+    name: "📊 Update & Validate Data"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -23,25 +23,75 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4
 
-      - name: Validate existing data
+      # التحقق من البيانات الحالية قبل التعديل
+      - name: Pre-scrape validation
         run: |
-          python3 -c "
+          python3 << 'PYEOF'
           import json, os
           for f in ['data/places.json', 'data/delivery-prices.json']:
               if os.path.exists(f):
                   data = json.load(open(f))
-                  size = len(data) if isinstance(data, list) else len(str(data))
-                  print(f'✅ {f}: valid ({size})')
-          "
+                  count = len(data) if isinstance(data, list) else len(data.get('places', data.get('prices', [])))
+                  print(f"✅ {f}: valid ({count} items)")
+          PYEOF
 
-      - name: Auto-commit if changes
+      # حفظ نسخة للمقارنة
+      - name: Snapshot before scrape
+        run: |
+          mkdir -p /tmp/data-backup
+          cp data/*.json /tmp/data-backup/ 2>/dev/null || true
+          echo "📸 Snapshot saved"
+
+      # التحقق بعد التعديل — لا نقبل بيانات فاسدة
+      - name: Post-scrape validation
+        id: validate
+        run: |
+          python3 << 'PYEOF'
+          import json, os, sys
+          errors = 0
+          for f in ['data/places.json', 'data/delivery-prices.json']:
+              if not os.path.exists(f): continue
+              try:
+                  data = json.load(open(f))
+                  items = data if isinstance(data, list) else data.get('places', data.get('prices', []))
+                  if len(items) == 0:
+                      print(f"❌ {f}: empty after scrape!"); errors += 1
+                  else:
+                      print(f"✅ {f}: {len(items)} items")
+              except json.JSONDecodeError:
+                  print(f"❌ {f}: invalid JSON!"); errors += 1
+          if errors:
+              print("🔄 Restoring backup...")
+              os.system("cp /tmp/data-backup/*.json data/ 2>/dev/null")
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as out:
+              out.write(f"errors={errors}\n")
+          sys.exit(1 if errors else 0)
+          PYEOF
+
+      # إرسال التعديلات فقط إذا البيانات سليمة
+      - name: Auto-commit if valid
+        if: steps.validate.outputs.errors == '0'
         run: |
           git config user.name "WainNrooh Bot"
           git config user.email "bot@wain-nrooh.com"
           git add data/
           if git diff --staged --quiet; then
-            echo "No data changes"
+            echo "📭 No data changes"
           else
-            git commit -m "🤖 Auto-update: prices $(date +%Y-%m-%d)"
+            # حساب الفرق
+            added=$(git diff --staged --stat | tail -1)
+            git commit -m "🤖 تحديث البيانات: $(date +%Y-%m-%d) — $added"
             git push
+            echo "✅ Data committed and pushed"
           fi
+
+      # دليل المتصفح — التأكد إن الموقع لسا شغال بعد التحديث
+      - name: Post-deploy smoke test
+        if: steps.validate.outputs.errors == '0'
+        run: |
+          sleep 30  # انتظار GitHub Pages
+          BASE="https://treklaps.github.io/riyadh-places"
+          for page in "/" "/discover.html"; do
+            status=$(curl -s -o /dev/null -w "%{http_code}" "${BASE}${page}")
+            echo "🌐 ${page} → HTTP ${status}"
+          done

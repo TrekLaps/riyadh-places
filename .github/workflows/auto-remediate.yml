@@ -1,0 +1,94 @@
+# إصلاح تلقائي — يكشف المشاكل ويفتح PR بالحل
+name: Auto Remediate
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  validate-and-fix:
+    name: "🔧 Validate & Auto-Fix"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run validation
+        id: validate
+        continue-on-error: true
+        run: |
+          python3 << 'PYEOF'
+          import json, glob, os, re, sys
+          issues = 0
+          for f in glob.glob('data/*.json'):
+              try: json.load(open(f))
+              except: issues += 1; print(f"❌ JSON: {f}")
+          for f in glob.glob('*.html'):
+              with open(f, encoding='utf-8', errors='ignore') as fh:
+                  for link in re.findall(r'href="([^"]*\.html)"', fh.read()):
+                      if not link.startswith('http') and not os.path.exists(link):
+                          issues += 1; print(f"❌ Link: {f} → {link}")
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as o: o.write(f"issues={issues}\n")
+          print(f"Found {issues} issues")
+          sys.exit(1 if issues else 0)
+          PYEOF
+
+      - name: Attempt auto-fix
+        if: steps.validate.outcome == 'failure'
+        id: fix
+        run: |
+          fixed=0
+          # إصلاح JSON trailing commas
+          for f in data/*.json; do
+            if ! python3 -c "import json; json.load(open('$f'))" 2>/dev/null; then
+              python3 -c "
+          import re
+          with open('$f') as fh: c = fh.read()
+          c = re.sub(r',(\s*[}\]])', r'\1', c)
+          with open('$f','w') as fh: fh.write(c)"
+              python3 -c "import json; json.load(open('$f'))" 2>/dev/null && fixed=$((fixed+1))
+            fi
+          done
+          # إصلاح DOCTYPE المفقود
+          for f in *.html; do
+            if ! grep -q "<!DOCTYPE html>" "$f"; then
+              sed -i '1i<!DOCTYPE html>' "$f"; fixed=$((fixed+1))
+            fi
+          done
+          echo "fixes=$fixed" >> "$GITHUB_OUTPUT"
+
+      - name: Create fix PR
+        if: steps.fix.outputs.fixes > 0
+        uses: actions/github-script@v7
+        env:
+          FIXES: ${{ steps.fix.outputs.fixes }}
+        with:
+          script: |
+            const branch = `auto-fix/${Date.now()}`;
+            const {execSync} = require('child_process');
+            execSync(`git config user.name "WainNrooh Bot"`);
+            execSync(`git config user.email "bot@wain-nrooh.com"`);
+            execSync(`git checkout -b ${branch}`);
+            execSync(`git add -A`);
+            execSync(`git commit -m "🤖 إصلاح تلقائي: ${process.env.FIXES} مشاكل"`);
+            execSync(`git push origin ${branch}`);
+            await github.rest.pulls.create({
+              owner: context.repo.owner, repo: context.repo.repo,
+              title: `🤖 إصلاح تلقائي: ${process.env.FIXES} مشاكل`,
+              head: branch, base: 'main',
+              body: 'تم الإنشاء تلقائياً بواسطة Auto Remediate workflow'
+            });
+
+      # دليل المتصفح — فحص الصفحات بعد النشر
+      - name: Browser evidence
+        if: always()
+        run: |
+          BASE="https://treklaps.github.io/riyadh-places"
+          for p in "/" "/about.html" "/cafes.html" "/discover.html"; do
+            s=$(curl -s -o /dev/null -w "%{http_code}" "${BASE}${p}" || echo "000")
+            echo "${s} == 200 ? ✅ : ⚠️  ${p} → HTTP ${s}"
+          done
