@@ -1,0 +1,1723 @@
+[
+  {
+    "restaurant": "البيك",
+    "restaurant_en": "Al Baik",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "وجبة دجاج بروستد (10 قطع)", "price": 37},
+          {"name": "وجبة فيليه دجاج (8 قطع)", "price": 37},
+          {"name": "وجبة ناجتس دجاج (20 قطعة)", "price": 37},
+          {"name": "وجبة جمبري (10 قطع)", "price": 40},
+          {"name": "وجبة فيليه سمك (8 قطع)", "price": 40},
+          {"name": "ساندوتش دجاج بروستد", "price": 10},
+          {"name": "ساندوتش فيليه دجاج", "price": 11},
+          {"name": "وجبة حلقات البصل", "price": 9},
+          {"name": "بطاطس مقلية", "price": 5},
+          {"name": "مشروب غازي", "price": 3}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 20,
+        "source": "https://menualbaik.com/albaik-menu-ar/"
+      },
+      "thechefz": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "restaurant": "ماكدونالدز",
+    "restaurant_en": "McDonald's",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "وجبة بيج ماك", "price": 32},
+          {"name": "وجبة تشيكن ماك", "price": 25},
+          {"name": "وجبة ماك تشيكن", "price": 17},
+          {"name": "وجبة كوارتر باوندر بالجبن", "price": 32},
+          {"name": "وجبة بيج تيستي", "price": 35},
+          {"name": "وجبة فيليه أو فيش", "price": 22},
+          {"name": "وجبة ماك رويال ديلوكس", "price": 35},
+          {"name": "تشيكن ناجتس 9 قطع", "price": 21},
+          {"name": "ساندوتش بيج ماك", "price": 22},
+          {"name": "آيس كريم صندي", "price": 5},
+          {"name": "هابي ميل", "price": 17}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 15,
+        "source": "https://www.pricesgulf.com/2022/02/mcDonalds-saudi-arabia-menu-prices.html"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "وجبة بيج ماك", "price": 32},
+          {"name": "وجبة بيج تيستي", "price": 35},
+          {"name": "تشيكن ناجتس 9 قطع", "price": 21}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "كنتاكي",
+    "restaurant_en": "KFC",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "وجبة تويستر", "price": 26},
+          {"name": "وجبة زنجر", "price": 32},
+          {"name": "وجبة مايتي زنجر", "price": 38},
+          {"name": "زنجر بوكس", "price": 40},
+          {"name": "مايتي زنجر بوكس", "price": 43},
+          {"name": "وجبة دينر", "price": 35},
+          {"name": "سوبر دينر ميل", "price": 39},
+          {"name": "باكيت 8 قطع دجاج", "price": 55},
+          {"name": "باكيت 12 قطعة دجاج", "price": 79},
+          {"name": "سناك بوكس الأجنحة", "price": 18},
+          {"name": "ديناميت برجر", "price": 12},
+          {"name": "تويستر ساندوتش", "price": 15}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 20,
+        "source": "https://egyptmenu.net/kfc-saudi-arabia-offers-menu/"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "وجبة زنجر", "price": 32},
+          {"name": "باكيت 8 قطع", "price": 55},
+          {"name": "وجبة تويستر", "price": 26}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "هرفي",
+    "restaurant_en": "Herfy",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "وجبة هرفي برجر", "price": 22},
+          {"name": "وجبة سوبر هرفي", "price": 28},
+          {"name": "وجبة هرفي دبل", "price": 30},
+          {"name": "وجبة تشيكن فيليه", "price": 25},
+          {"name": "وجبة ناجتس", "price": 20},
+          {"name": "وجبة أطفال", "price": 12},
+          {"name": "بطاطس مقلية عادي", "price": 8},
+          {"name": "بطاطس عائلي", "price": 15},
+          {"name": "كول سلو", "price": 5},
+          {"name": "آيس كريم", "price": 5}
+        ],
+        "delivery_fee": "7-12 SAR",
+        "min_order": 15,
+        "source": "https://www.pricesgulf.com/2022/10/herfy-menu-prices-ksa.html"
+      },
+      "thechefz": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "restaurant": "كودو",
+    "restaurant_en": "Kudu",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "وجبة كودو كلاسيك", "price": 25},
+          {"name": "وجبة كودو سبايسي", "price": 27},
+          {"name": "وجبة كودو كرسبي", "price": 25},
+          {"name": "وجبة ماك اند تشيز برجر", "price": 30},
+          {"name": "وجبة كودو تشيكن فيليه", "price": 28},
+          {"name": "وجبة أطفال", "price": 15},
+          {"name": "بطاطس عادي", "price": 7},
+          {"name": "ناجتس 6 قطع", "price": 14},
+          {"name": "آيس كريم صندي", "price": 8}
+        ],
+        "delivery_fee": "7-12 SAR",
+        "min_order": 15,
+        "source": "https://arabicmenu.net/kudu-menu/"
+      },
+      "thechefz": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "restaurant": "شاورمر",
+    "restaurant_en": "Shawarmer",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "شاورما عربي", "price": 7},
+          {"name": "شاورما صاجي", "price": 8},
+          {"name": "شاورما صامولي", "price": 9},
+          {"name": "لفة بطاطس", "price": 10},
+          {"name": "أبو الصواريخ", "price": 15},
+          {"name": "عربو", "price": 15},
+          {"name": "دبل عربو", "price": 41},
+          {"name": "الراهية وجبة", "price": 30},
+          {"name": "الصندوق وجبة", "price": 33},
+          {"name": "رجرج", "price": 18},
+          {"name": "سببوسة 3 حبات", "price": 10},
+          {"name": "العزيمة (جمعات)", "price": 97}
+        ],
+        "delivery_fee": "7-12 SAR",
+        "min_order": 15,
+        "source": "https://hungerpost.com/restaurants/ksa/491/shawarmer-saudi-arabia/"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "شاورما عربي", "price": 7},
+          {"name": "عربو وجبة", "price": 28},
+          {"name": "الراهية", "price": 25}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "برجر كنج",
+    "restaurant_en": "Burger King",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "ساندوتش وابر", "price": 27},
+          {"name": "وجبة وابر وسط", "price": 35},
+          {"name": "وجبة وابر كبير", "price": 38},
+          {"name": "وجبة تشيز وابر وسط", "price": 37},
+          {"name": "وجبة دبل وابر وسط", "price": 41},
+          {"name": "ساندوتش دبل وابر", "price": 33},
+          {"name": "وجبة بيج كنج XL وسط", "price": 42},
+          {"name": "وجبة ستيك هاوس وسط", "price": 42},
+          {"name": "وجبة تشيكن كرسبي وسط", "price": 30},
+          {"name": "وجبة أطفال كنج جونيور", "price": 17},
+          {"name": "وجبة عائلية 6 سندوتشات", "price": 95}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 15,
+        "source": "https://www.pricesgulf.com/2023/11/burger-king-menu-saudi-arabia.html"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "وجبة وابر وسط", "price": 35},
+          {"name": "وجبة دبل وابر", "price": 41},
+          {"name": "وجبة تشيكن رويال", "price": 35}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "بيتزا هت",
+    "restaurant_en": "Pizza Hut",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "بيتزا مارجاريتا كبير", "price": 52},
+          {"name": "بيتزا مارجاريتا وسط", "price": 42},
+          {"name": "بيتزا مارجاريتا صغير", "price": 29},
+          {"name": "بيتزا دجاج كبير", "price": 63},
+          {"name": "بيتزا دجاج وسط", "price": 52},
+          {"name": "بيتزا سوبريم كبير", "price": 63},
+          {"name": "بيتزا بيبروني كبير", "price": 63},
+          {"name": "بيتزا جمبري كبير", "price": 63},
+          {"name": "عرض 3 بيتزا كبير", "price": 124},
+          {"name": "عرض 3 بيتزا وسط", "price": 100}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 25,
+        "source": "https://www.pricesgulf.com/2022/02/pizza-hut-saudi-arabia-menu-prices.html"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "بيتزا دجاج كبير", "price": 63},
+          {"name": "بيتزا سوبريم كبير", "price": 63},
+          {"name": "بيتزا مارجاريتا وسط", "price": 42}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "دومينوز بيتزا",
+    "restaurant_en": "Domino's Pizza",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "بيتزا بيبروني", "price": 35},
+          {"name": "بيتزا دجاج", "price": 35},
+          {"name": "بيتزا ديلوكس", "price": 35},
+          {"name": "بيتزا نيويوركر", "price": 45},
+          {"name": "بيتزا دجاج الباربيكيو", "price": 45},
+          {"name": "بيتزا فيلي تشيز ستيك", "price": 45},
+          {"name": "داينمايت تشيكن", "price": 25},
+          {"name": "أجنحة دجاج 8 قطع", "price": 25},
+          {"name": "بطاطس ودجز", "price": 12},
+          {"name": "ستافت تشيزي بريد", "price": 25}
+        ],
+        "delivery_fee": "0-10 SAR",
+        "min_order": 25,
+        "source": "https://arabicmenu.net/dominos-menu/"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "بيتزا بيبروني", "price": 35},
+          {"name": "بيتزا نيويوركر", "price": 45},
+          {"name": "أجنحة دجاج 8 قطع", "price": 25}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "صب واي",
+    "restaurant_en": "Subway",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "دجاج تيكا 6 إنش كومبو", "price": 29},
+          {"name": "دجاج تيكا 12 إنش كومبو", "price": 39},
+          {"name": "بي إم تي الإيطالية 6 إنش كومبو", "price": 31},
+          {"name": "بي إم تي الإيطالية 12 إنش كومبو", "price": 41},
+          {"name": "ستيك وجبنة 6 إنش كومبو", "price": 31},
+          {"name": "تونة 6 إنش كومبو", "price": 29},
+          {"name": "دجاج فاهيتا 6 إنش كومبو", "price": 29},
+          {"name": "راب دجاج بانية", "price": 31},
+          {"name": "راب دجاج تيكا", "price": 29},
+          {"name": "خضار وجبنة كومبو", "price": 13}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 15,
+        "source": "https://arabicmenu.net/subway-menu/"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "دجاج تيكا 6 إنش كومبو", "price": 29},
+          {"name": "بي إم تي الإيطالية 6 إنش كومبو", "price": 31}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "شيك شاك",
+    "restaurant_en": "Shake Shack",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "شاك برغر", "price": 30},
+          {"name": "شاك برغر دبل", "price": 40},
+          {"name": "سموك شاك", "price": 40},
+          {"name": "سموك شاك دبل", "price": 50},
+          {"name": "تشيكن شاك", "price": 30},
+          {"name": "الدجاج الحار", "price": 33},
+          {"name": "وجبة شاك برغر", "price": 49},
+          {"name": "وجبة سموك شاك", "price": 59},
+          {"name": "هوت دوغ", "price": 13},
+          {"name": "بطاطا مقلية", "price": 15},
+          {"name": "بطاطا بالجبنة", "price": 21},
+          {"name": "شيك فانيلا", "price": 30},
+          {"name": "شيك شوكولاتة", "price": 30}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 25,
+        "source": "https://hungerpost.com/restaurants/ksa/379/shake-shack-saudi-arabia/"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "شاك برغر", "price": 30},
+          {"name": "وجبة شاك برغر", "price": 49},
+          {"name": "تشيكن شاك", "price": 30},
+          {"name": "شيك فانيلا", "price": 30}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "سولت",
+    "restaurant_en": "Salt",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "سولت برجر", "price": 43},
+          {"name": "كامب فاير برجر", "price": 48},
+          {"name": "سلايدر لحم اوريجينال قطعة", "price": 37},
+          {"name": "سلايدر لحم اوريجينال قطعتين", "price": 53},
+          {"name": "سلايدر كريسبي دجاج", "price": 43},
+          {"name": "ترفل سلايدر", "price": 47},
+          {"name": "اوريجينال فرايز", "price": 15},
+          {"name": "فرايز سولت", "price": 21},
+          {"name": "فرايز بالترفل", "price": 31},
+          {"name": "شرائح الدجاج", "price": 35},
+          {"name": "بوب كورن الدجاج", "price": 30}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 25,
+        "source": "https://hungerpost.com/restaurants/ksa/375/salt-riyadh-saudi-arabia/"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "سولت برجر", "price": 43},
+          {"name": "كامب فاير برجر", "price": 48},
+          {"name": "فرايز سولت", "price": 21}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "فايف قايز",
+    "restaurant_en": "Five Guys",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "تشيز برجر", "price": 45},
+          {"name": "همبرجر", "price": 40},
+          {"name": "بيكون تشيز برجر", "price": 50},
+          {"name": "ليتل تشيز برجر", "price": 35},
+          {"name": "هوت دوج", "price": 25},
+          {"name": "بطاطا مقلية صغير", "price": 19},
+          {"name": "بطاطا مقلية عادي", "price": 26},
+          {"name": "بطاطا مقلية كبير", "price": 31},
+          {"name": "مشروب غازي عادي", "price": 15},
+          {"name": "ميلك شيك", "price": 34}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 25,
+        "source": "https://rest-ksa.arbdar.com/five-guys-ksa/"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "تشيز برجر", "price": 45},
+          {"name": "بطاطا مقلية عادي", "price": 26},
+          {"name": "ميلك شيك", "price": 34}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "الطازج",
+    "restaurant_en": "Al Tazaj",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "وجبة فروج مشوي", "price": 31},
+          {"name": "وجبة بروست دجاج", "price": 31},
+          {"name": "وجبة دجاج تندوري", "price": 31},
+          {"name": "وجبة ساندويتش كباب", "price": 27},
+          {"name": "وجبة ساندويتش الدجاج", "price": 27},
+          {"name": "فروج مشوي بدون وجبة", "price": 25},
+          {"name": "وجبة كرسبي رول", "price": 24},
+          {"name": "وجبة تايستي مشوي", "price": 26},
+          {"name": "وجبة كبسة", "price": 31},
+          {"name": "ساندويتش كباب", "price": 11}
+        ],
+        "delivery_fee": "7-12 SAR",
+        "min_order": 15,
+        "source": "https://www.pricesgulf.com/2023/10/al-tazaj-menu-saudi-arabia.html"
+      },
+      "thechefz": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "restaurant": "بوبايز",
+    "restaurant_en": "Popeyes",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "وجبة 3 قطع دجاج مع بطاطس", "price": 10},
+          {"name": "وجبة 5 قطع دجاج", "price": 25},
+          {"name": "تشيكن ساندوتش", "price": 18},
+          {"name": "سبايسي تشيكن ساندوتش", "price": 20},
+          {"name": "وجبة عائلية 8 قطع", "price": 55},
+          {"name": "وجبة عائلية 12 قطعة", "price": 75},
+          {"name": "كاجن فرايز", "price": 8},
+          {"name": "بسكويت", "price": 3},
+          {"name": "كول سلو", "price": 5},
+          {"name": "ناجتس 8 قطع", "price": 15}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 15,
+        "source": "https://rest-ksa.arbdar.com/popeyes-ksa/"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "تشيكن ساندوتش", "price": 18},
+          {"name": "وجبة 5 قطع دجاج", "price": 25}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "ليتل سيزرز",
+    "restaurant_en": "Little Caesars",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "بيتزا بيبروني كبير", "price": 25},
+          {"name": "بيتزا تشيز كبير", "price": 20},
+          {"name": "بيتزا ديلوكس كبير", "price": 30},
+          {"name": "كريزي بريد", "price": 12},
+          {"name": "أجنحة دجاج 8 قطع", "price": 20},
+          {"name": "بيتزا إيطاليان تشيز بريد", "price": 15},
+          {"name": "بيبسي", "price": 5}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 15,
+        "source": "https://indexmenus.com/menu_little-caesars.php"
+      },
+      "thechefz": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "restaurant": "تشيليز",
+    "restaurant_en": "Chili's",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "بيج ماوث برجر", "price": 55},
+          {"name": "كريسبي تشيكن ساندوتش", "price": 45},
+          {"name": "فاهيتا دجاج", "price": 70},
+          {"name": "فاهيتا لحم", "price": 80},
+          {"name": "تشيكن كريسبرز", "price": 55},
+          {"name": "بيبي باك ريبز نص", "price": 75},
+          {"name": "بيبي باك ريبز كامل", "price": 110},
+          {"name": "قيصرية سلطة دجاج", "price": 40},
+          {"name": "ساوث ويست ايجرولز", "price": 35},
+          {"name": "موليتن تشوكلت كيك", "price": 35}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 30,
+        "source": "https://thesaudifood.com/تشيليز-في-جدة/"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "بيج ماوث برجر", "price": 55},
+          {"name": "فاهيتا دجاج", "price": 70},
+          {"name": "بيبي باك ريبز كامل", "price": 110}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "آبل بيز",
+    "restaurant_en": "Applebee's",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "كلاسيك برجر", "price": 45},
+          {"name": "كلاسيك تشيز برجر", "price": 49},
+          {"name": "أورينتال تشيكن سلطة", "price": 42},
+          {"name": "بونلس وينجز", "price": 40},
+          {"name": "ريب آي ستيك", "price": 95},
+          {"name": "فاهيتا دجاج", "price": 65},
+          {"name": "تشيكن تندرز", "price": 45},
+          {"name": "فرايد شريمب", "price": 55},
+          {"name": "بروني صندي", "price": 30}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 30,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "كلاسيك برجر", "price": 45},
+          {"name": "فاهيتا دجاج", "price": 65},
+          {"name": "ريب آي ستيك", "price": 95}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "فرايديز",
+    "restaurant_en": "TGI Fridays",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "فرايديز برجر", "price": 52},
+          {"name": "جاك دانيلز برجر", "price": 62},
+          {"name": "جاك دانيلز ريبز", "price": 95},
+          {"name": "سيزلينج فاهيتا دجاج", "price": 65},
+          {"name": "سيزلينج فاهيتا لحم", "price": 75},
+          {"name": "تشيكن فينجرز", "price": 45},
+          {"name": "بوتيتو سكينز", "price": 35},
+          {"name": "تشيز كيك", "price": 35}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 30,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "فرايديز برجر", "price": 52},
+          {"name": "جاك دانيلز ريبز", "price": 95}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "تيم هورتنز",
+    "restaurant_en": "Tim Hortons",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "أمريكانو صغير", "price": 14},
+          {"name": "أمريكانو وسط", "price": 16},
+          {"name": "كابتشينو وسط", "price": 20},
+          {"name": "سبانيش لاتيه وسط", "price": 24},
+          {"name": "آيس أمريكانو وسط", "price": 15},
+          {"name": "كولد برو وسط", "price": 14},
+          {"name": "أيسد فرينش فانيلا لاتيه وسط", "price": 23},
+          {"name": "قهوة دارك روست وسط", "price": 12},
+          {"name": "تيمز تيك 5", "price": 55},
+          {"name": "تيمز تيك 10", "price": 89}
+        ],
+        "delivery_fee": "7-12 SAR",
+        "min_order": 15,
+        "source": "https://www.ksarestaurantmenus.com/2026/02/tim-hortons-menu-ksa.html"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "أمريكانو وسط", "price": 16},
+          {"name": "كابتشينو وسط", "price": 20},
+          {"name": "كولد برو وسط", "price": 14}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "دانكن دونتس",
+    "restaurant_en": "Dunkin' Donuts",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "دونت عادي حبة", "price": 5},
+          {"name": "دونت فانسي حبة", "price": 6},
+          {"name": "نصف درزن عادي", "price": 22},
+          {"name": "درزن عادي", "price": 40},
+          {"name": "درزن فانسي", "price": 50},
+          {"name": "قهوة دانكن الأصلية وسط", "price": 9},
+          {"name": "كابتشينو وسط", "price": 12},
+          {"name": "آيس لاتيه وسط", "price": 12},
+          {"name": "قهوة فرابي وسط", "price": 16},
+          {"name": "سبانيش لاتيه وسط", "price": 15},
+          {"name": "كولد برو وسط", "price": 14},
+          {"name": "دنكن بوكس", "price": 80}
+        ],
+        "delivery_fee": "7-12 SAR",
+        "min_order": 10,
+        "source": "https://rowadalmal.com/8322/منيو-دانكن-دونتس-في-السعودية/"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "دونت فانسي حبة", "price": 6},
+          {"name": "درزن عادي", "price": 40},
+          {"name": "كابتشينو وسط", "price": 12}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "كريسبي كريم",
+    "restaurant_en": "Krispy Kreme",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "أوريجنال جليزد دونات", "price": 6},
+          {"name": "لوتس بيسكوف دونات", "price": 8},
+          {"name": "ثلاث قطع أوريجنال جليزد", "price": 16},
+          {"name": "نصف درزن أوريجنال جليزد", "price": 29},
+          {"name": "درزن أوريجنال جليزد", "price": 49},
+          {"name": "نصف درزن متنوعة", "price": 34},
+          {"name": "درزن متنوعة", "price": 59},
+          {"name": "كيك فانيلا", "price": 7},
+          {"name": "تشيز كيك كرسبي كريم", "price": 7},
+          {"name": "دونات محشو شوكلاته", "price": 7},
+          {"name": "أوريجنال جليزد 8 قطع", "price": 12}
+        ],
+        "delivery_fee": "7-12 SAR",
+        "min_order": 15,
+        "source": "https://arabicmenu.net/krispy-kreme-menu/"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "أوريجنال جليزد دونات", "price": 6},
+          {"name": "درزن أوريجنال جليزد", "price": 49},
+          {"name": "درزن متنوعة", "price": 59}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "باسكن روبنز",
+    "restaurant_en": "Baskin Robbins",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "سكوب واحد", "price": 14},
+          {"name": "سكوبين", "price": 22},
+          {"name": "3 سكوبات", "price": 30},
+          {"name": "صندي", "price": 22},
+          {"name": "بلاست وسط", "price": 25},
+          {"name": "بلاست كبير", "price": 30},
+          {"name": "كيك آيس كريم صغير", "price": 85},
+          {"name": "كيك آيس كريم وسط", "price": 120},
+          {"name": "شيك ميلك", "price": 25},
+          {"name": "واقل كون", "price": 16}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 20,
+        "source": "https://hungerstation.com"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "سكوب واحد", "price": 14},
+          {"name": "سكوبين", "price": 22},
+          {"name": "بلاست وسط", "price": 25}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "كولد ستون",
+    "restaurant_en": "Cold Stone Creamery",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "لايك ات (صغير)", "price": 18},
+          {"name": "لاف ات (وسط)", "price": 25},
+          {"name": "جوتا هاف ات (كبير)", "price": 32},
+          {"name": "شيك", "price": 28},
+          {"name": "واقل بول", "price": 22},
+          {"name": "كيك آيس كريم صغير", "price": 95},
+          {"name": "فاوندرز فيفوريت", "price": 25},
+          {"name": "بيري بيري جود", "price": 25}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 20,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "لاف ات (وسط)", "price": 25},
+          {"name": "شيك", "price": 28}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "سينابون",
+    "restaurant_en": "Cinnabon",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "كلاسيك سينابون", "price": 12},
+          {"name": "ميني بون 4 حبات", "price": 15},
+          {"name": "ميني بون 6 حبات", "price": 20},
+          {"name": "سينابون باك 6", "price": 55},
+          {"name": "تشوكو بون", "price": 14},
+          {"name": "كراميل بيكان بون", "price": 15},
+          {"name": "سينا شيلاتو", "price": 18},
+          {"name": "موكا تشيل وسط", "price": 16},
+          {"name": "كولد برو وسط", "price": 14}
+        ],
+        "delivery_fee": "7-12 SAR",
+        "min_order": 15,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "كلاسيك سينابون", "price": 12},
+          {"name": "سينابون باك 6", "price": 55}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "نوبو",
+    "restaurant_en": "Nobu",
+    "apps": {
+      "jahez": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "Salted Edamame", "price": 46},
+          {"name": "Spicy Edamame", "price": 63.25},
+          {"name": "Crispy Rice with Spicy Tuna or Salmon", "price": 138},
+          {"name": "Salmon New Style Sashimi", "price": 109.25},
+          {"name": "Black Cod Miso", "price": 299},
+          {"name": "Grilled Wagyu Tenderloin 150g", "price": 276},
+          {"name": "Rock Shrimp Tempura", "price": 184},
+          {"name": "Nobu Wagyu Sliders (2pcs)", "price": 281.75},
+          {"name": "Wagyu Dumplings", "price": 184},
+          {"name": "Grilled Lamb Chops", "price": 224.25},
+          {"name": "Tuna Nigiri", "price": 51.75},
+          {"name": "Salmon Nigiri", "price": 34.5},
+          {"name": "Chocolate Bento Box", "price": 92},
+          {"name": "Nobu Style Cheesecake", "price": 92}
+        ],
+        "delivery_fee": "20-35 SAR",
+        "source": "https://thechefz.co/ar/riyadh/nobu-%D9%86%D9%88%D8%A8%D9%88-182413/"
+      }
+    }
+  },
+  {
+    "restaurant": "نصرت",
+    "restaurant_en": "Nusr-Et",
+    "apps": {
+      "jahez": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "برجر نصرت مع فرايز وبقلاوة", "price": 108},
+          {"name": "ستيك (يبدأ من)", "price": 700},
+          {"name": "ستيك فاخر (الأغلى)", "price": 3700},
+          {"name": "سوشي اللحم", "price": 250},
+          {"name": "سلطة", "price": 75},
+          {"name": "مشروب غازي", "price": 35}
+        ],
+        "delivery_fee": "25-40 SAR",
+        "source": "https://cafesriyadh.com/2021/مطعم-نصرت-nusr-et-الرياض/"
+      }
+    }
+  },
+  {
+    "restaurant": "هاكاسان",
+    "restaurant_en": "Hakkasan",
+    "apps": {
+      "jahez": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "ديم سام مشكل", "price": 120},
+          {"name": "سلطة هاكاسان", "price": 85},
+          {"name": "بط بكين", "price": 350},
+          {"name": "كود أسود مشوي", "price": 280},
+          {"name": "لحم واغيو", "price": 450},
+          {"name": "جمبري مقرمش", "price": 160},
+          {"name": "أرز مقلي خاص", "price": 95},
+          {"name": "حلوى شوكولاتة", "price": 75}
+        ],
+        "delivery_fee": "25-40 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "ذا بوتشر شوب",
+    "restaurant_en": "The Butcher Shop & Grill",
+    "apps": {
+      "jahez": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "ريب آي ستيك 300g", "price": 195},
+          {"name": "فيليه مينيون 200g", "price": 220},
+          {"name": "تي بون ستيك", "price": 250},
+          {"name": "برجر بوتشر", "price": 75},
+          {"name": "سلطة سيزر", "price": 55},
+          {"name": "جمبري مشوي", "price": 120},
+          {"name": "بطاطس ترافل", "price": 45},
+          {"name": "تشيز كيك", "price": 50}
+        ],
+        "delivery_fee": "20-35 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "حاشي باشا",
+    "restaurant_en": "Hashi Basha",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "حاشي أصلي", "price": 25},
+          {"name": "حاشي سبايسي", "price": 27},
+          {"name": "وجبة حاشي", "price": 35},
+          {"name": "حاشي دبل", "price": 38},
+          {"name": "حاشي ترافل", "price": 32},
+          {"name": "فرايز عادي", "price": 10},
+          {"name": "فرايز بالجبنة", "price": 15},
+          {"name": "كول سلو", "price": 7}
+        ],
+        "delivery_fee": "7-12 SAR",
+        "min_order": 15,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "حاشي أصلي", "price": 25},
+          {"name": "وجبة حاشي", "price": 35}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "تكا",
+    "restaurant_en": "Taka",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "وجبة تكا مشوي", "price": 35},
+          {"name": "وجبة كباب دجاج", "price": 30},
+          {"name": "وجبة مشاوي مشكلة", "price": 55},
+          {"name": "شاورما تكا", "price": 12},
+          {"name": "فتة حمص", "price": 15},
+          {"name": "تبولة", "price": 12},
+          {"name": "حمص", "price": 10}
+        ],
+        "delivery_fee": "7-12 SAR",
+        "min_order": 15,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "restaurant": "بي اف تشانغز",
+    "restaurant_en": "P.F. Chang's",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "ليتس رابز دجاج", "price": 45},
+          {"name": "تشانغز سبايسي تشيكن", "price": 55},
+          {"name": "منغوليان بيف", "price": 75},
+          {"name": "كونج باو تشيكن", "price": 60},
+          {"name": "بكين دمبلينجز", "price": 40},
+          {"name": "فرايد رايس", "price": 35},
+          {"name": "نودلز سنغافورية", "price": 45},
+          {"name": "سبرنج رولز", "price": 35},
+          {"name": "كراب ونتون", "price": 40}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 30,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "تشانغز سبايسي تشيكن", "price": 55},
+          {"name": "منغوليان بيف", "price": 75},
+          {"name": "بكين دمبلينجز", "price": 40}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "واقاماما",
+    "restaurant_en": "Wagamama",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "كاتسو كاري دجاج", "price": 55},
+          {"name": "ياكيسوبا نودلز", "price": 50},
+          {"name": "رامن دجاج", "price": 50},
+          {"name": "بانقوكو كاري", "price": 55},
+          {"name": "تشيلي سكويد", "price": 40},
+          {"name": "إدامامي", "price": 25},
+          {"name": "جيوزا دجاج", "price": 35},
+          {"name": "تيبانياكي نودلز", "price": 55}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 25,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "كاتسو كاري دجاج", "price": 55},
+          {"name": "رامن دجاج", "price": 50},
+          {"name": "جيوزا دجاج", "price": 35}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "جوني روكتس",
+    "restaurant_en": "Johnny Rockets",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "أوريجنال برجر", "price": 35},
+          {"name": "سموكي هاوس برجر", "price": 42},
+          {"name": "هاوس سبيشال برجر", "price": 45},
+          {"name": "تشيكن تندرز", "price": 35},
+          {"name": "أمريكان فرايز", "price": 15},
+          {"name": "أونيون رينجز", "price": 18},
+          {"name": "ميلك شيك", "price": 25},
+          {"name": "أبل باي", "price": 22}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 25,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "أوريجنال برجر", "price": 35},
+          {"name": "ميلك شيك", "price": 25}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "هارديز",
+    "restaurant_en": "Hardee's",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "وجبة سوبر ستار", "price": 30},
+          {"name": "وجبة أنجوس ثيك برجر", "price": 38},
+          {"name": "وجبة مشروم اند سويس", "price": 35},
+          {"name": "وجبة تشيكن فيليه", "price": 28},
+          {"name": "وجبة تشيكن تندرز 5 قطع", "price": 30},
+          {"name": "وجبة نجوم الديرة 6 سندوتشات", "price": 115},
+          {"name": "بطاطس حلزونية", "price": 10},
+          {"name": "بطاطس بقشرها", "price": 8}
+        ],
+        "delivery_fee": "7-12 SAR",
+        "min_order": 15,
+        "source": "https://www.pricesgulf.com/2022/10/hardees-menu-prices-ksa.html"
+      },
+      "thechefz": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "restaurant": "لانتيكا",
+    "restaurant_en": "L'Antica",
+    "apps": {
+      "jahez": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "بيتزا مارجاريتا", "price": 55},
+          {"name": "بيتزا بروشوتو", "price": 75},
+          {"name": "باستا كاربونارا", "price": 65},
+          {"name": "ريزوتو ترافل", "price": 85},
+          {"name": "سلطة إيطالية", "price": 45},
+          {"name": "تيراميسو", "price": 40}
+        ],
+        "delivery_fee": "20-35 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "كالي برجر",
+    "restaurant_en": "Cali Burger",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "كالي برجر", "price": 35},
+          {"name": "دبل كالي برجر", "price": 45},
+          {"name": "تشيكن برجر", "price": 32},
+          {"name": "فرايز عادي", "price": 12},
+          {"name": "فرايز بالجبنة", "price": 18},
+          {"name": "أونيون رينجز", "price": 15},
+          {"name": "ميلك شيك", "price": 22}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 20,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "restaurant": "سماش برجر",
+    "restaurant_en": "Smashburger",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "كلاسيك سماش", "price": 32},
+          {"name": "دبل سماش", "price": 42},
+          {"name": "تشيكن سماش", "price": 30},
+          {"name": "سماش فرايز", "price": 14},
+          {"name": "سويت بوتيتو فرايز", "price": 16},
+          {"name": "أونيون رينجز", "price": 14},
+          {"name": "شيك", "price": 22}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 20,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "كلاسيك سماش", "price": 32},
+          {"name": "دبل سماش", "price": 42}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "يوسوشي",
+    "restaurant_en": "YO! Sushi",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "سالمون نجيري", "price": 25},
+          {"name": "تونا نجيري", "price": 28},
+          {"name": "كاليفورنيا رول", "price": 30},
+          {"name": "سبايسي تونا رول", "price": 35},
+          {"name": "دراجون رول", "price": 45},
+          {"name": "إدامامي", "price": 18},
+          {"name": "ميسو سوب", "price": 15},
+          {"name": "تشيكن كاتسو كاري", "price": 45},
+          {"name": "ياكيسوبا", "price": 40}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 25,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "كاليفورنيا رول", "price": 30},
+          {"name": "دراجون رول", "price": 45},
+          {"name": "تشيكن كاتسو كاري", "price": 45}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "لويقان",
+    "restaurant_en": "Luiegan",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "صحن كبسة لحم", "price": 45},
+          {"name": "صحن كبسة دجاج", "price": 35},
+          {"name": "مندي لحم", "price": 50},
+          {"name": "مندي دجاج", "price": 35},
+          {"name": "حنيذ", "price": 55},
+          {"name": "مظبي", "price": 45},
+          {"name": "سلطة خضراء", "price": 10},
+          {"name": "شوربة", "price": 12}
+        ],
+        "delivery_fee": "7-12 SAR",
+        "min_order": 20,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "restaurant": "المنسف",
+    "restaurant_en": "Al Mansaf",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "منسف لحم غنم", "price": 55},
+          {"name": "منسف دجاج", "price": 40},
+          {"name": "مندي لحم", "price": 50},
+          {"name": "كبسة لحم", "price": 45},
+          {"name": "كبسة دجاج", "price": 35},
+          {"name": "مشاوي مشكلة", "price": 65},
+          {"name": "شاورما لحم", "price": 12},
+          {"name": "فتة حمص", "price": 15}
+        ],
+        "delivery_fee": "7-12 SAR",
+        "min_order": 20,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "restaurant": "مشاوي",
+    "restaurant_en": "Mashawi",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "مشاوي مشكلة", "price": 65},
+          {"name": "كباب لحم", "price": 40},
+          {"name": "كباب دجاج", "price": 35},
+          {"name": "تكا دجاج", "price": 35},
+          {"name": "شيش طاووق", "price": 35},
+          {"name": "كفتة مشوية", "price": 30},
+          {"name": "حمص", "price": 10},
+          {"name": "متبل", "price": 12},
+          {"name": "تبولة", "price": 12},
+          {"name": "فتوش", "price": 12}
+        ],
+        "delivery_fee": "7-12 SAR",
+        "min_order": 20,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "restaurant": "نودلز",
+    "restaurant_en": "Noodles",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "باد تاي دجاج", "price": 40},
+          {"name": "ياكيسوبا", "price": 38},
+          {"name": "نودلز سنغافورية", "price": 42},
+          {"name": "رامن دجاج", "price": 40},
+          {"name": "فرايد رايس", "price": 35},
+          {"name": "سبرنج رولز", "price": 18},
+          {"name": "إدامامي", "price": 15}
+        ],
+        "delivery_fee": "7-12 SAR",
+        "min_order": 20,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "restaurant": "اليفيشن برجر",
+    "restaurant_en": "Elevation Burger",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "اليفيشن برجر", "price": 28},
+          {"name": "دبل اليفيشن", "price": 38},
+          {"name": "فيرتيقو برجر", "price": 32},
+          {"name": "تشيكن برجر", "price": 25},
+          {"name": "فرايز عادي", "price": 12},
+          {"name": "فرايز بالجبنة", "price": 18},
+          {"name": "شيك", "price": 20}
+        ],
+        "delivery_fee": "7-12 SAR",
+        "min_order": 15,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "restaurant": "دن تاي فونغ",
+    "restaurant_en": "Din Tai Fung",
+    "apps": {
+      "jahez": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "شياو لونج باو (زلابية) 10 قطع", "price": 65},
+          {"name": "فرايد رايس دجاج", "price": 45},
+          {"name": "ونتون سوب", "price": 40},
+          {"name": "نودلز بالسمسم", "price": 42},
+          {"name": "هوت اند ساور سوب", "price": 35},
+          {"name": "سبرنج رولز", "price": 30},
+          {"name": "شوكولاتة شياو لونج باو", "price": 45}
+        ],
+        "delivery_fee": "20-35 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "أربيز",
+    "restaurant_en": "Arby's",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "كلاسيك روست بيف", "price": 18},
+          {"name": "دبل روست بيف", "price": 25},
+          {"name": "كريسبي تشيكن", "price": 20},
+          {"name": "وجبة كلاسيك روست بيف", "price": 25},
+          {"name": "وجبة دبل روست بيف", "price": 32},
+          {"name": "كيرلي فرايز", "price": 10},
+          {"name": "موزاريلا ستيكس", "price": 15},
+          {"name": "جمال شيك", "price": 18}
+        ],
+        "delivery_fee": "7-12 SAR",
+        "min_order": 15,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "restaurant": "زوما",
+    "restaurant_en": "Zuma",
+    "apps": {
+      "jahez": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "سلطة زوما", "price": 85},
+          {"name": "إدامامي ترافل", "price": 65},
+          {"name": "ميسو كود أسود", "price": 260},
+          {"name": "روبيان تمبورا", "price": 150},
+          {"name": "واغيو تتاكي", "price": 220},
+          {"name": "سوشي مشكل", "price": 180},
+          {"name": "رز مقلي بالسلطعون", "price": 120},
+          {"name": "تشيز كيك يوزو", "price": 70}
+        ],
+        "delivery_fee": "25-40 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "لاجو",
+    "restaurant_en": "Lago",
+    "apps": {
+      "jahez": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "باستا ترافل", "price": 95},
+          {"name": "ريزوتو سي فود", "price": 110},
+          {"name": "ستيك فيليه", "price": 220},
+          {"name": "سالمون مشوي", "price": 150},
+          {"name": "سلطة بوراتا", "price": 65},
+          {"name": "بروشيتا", "price": 55},
+          {"name": "تيراميسو", "price": 55}
+        ],
+        "delivery_fee": "25-40 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "ذا جلوب",
+    "restaurant_en": "The Globe",
+    "apps": {
+      "jahez": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "برجر ذا جلوب", "price": 85},
+          {"name": "ستيك ريب آي", "price": 250},
+          {"name": "سالمون مشوي", "price": 140},
+          {"name": "سلطة سيزر", "price": 60},
+          {"name": "باستا ترافل", "price": 90},
+          {"name": "تشيز كيك", "price": 55}
+        ],
+        "delivery_fee": "25-40 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "ذا لاونج",
+    "restaurant_en": "The Lounge",
+    "apps": {
+      "jahez": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "سلطة فاخرة", "price": 65},
+          {"name": "سوب اليوم", "price": 45},
+          {"name": "ريزوتو", "price": 95},
+          {"name": "ستيك واغيو", "price": 350},
+          {"name": "سالمون", "price": 130},
+          {"name": "حلوى اليوم", "price": 50}
+        ],
+        "delivery_fee": "25-40 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "ناينتين",
+    "restaurant_en": "Nineteen",
+    "apps": {
+      "jahez": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "برجر فاخر", "price": 95},
+          {"name": "ستيك", "price": 200},
+          {"name": "سلطة", "price": 55},
+          {"name": "باستا", "price": 80},
+          {"name": "سي فود بلاتر", "price": 250},
+          {"name": "حلوى", "price": 50}
+        ],
+        "delivery_fee": "25-40 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "روبرتو",
+    "restaurant_en": "Roberto's",
+    "apps": {
+      "jahez": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "بيتزا مارجاريتا", "price": 65},
+          {"name": "بيتزا ترافل", "price": 95},
+          {"name": "باستا بولونيز", "price": 70},
+          {"name": "لازانيا", "price": 75},
+          {"name": "سلطة روبرتو", "price": 55},
+          {"name": "تيراميسو", "price": 45},
+          {"name": "بانا كوتا", "price": 40}
+        ],
+        "delivery_fee": "20-35 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "نامو",
+    "restaurant_en": "Namu",
+    "apps": {
+      "jahez": {
+        "available": true,
+        "items": [
+          {"name": "بولغوجي بيف", "price": 55},
+          {"name": "كوريان فرايد تشيكن", "price": 45},
+          {"name": "بيبيمباب", "price": 45},
+          {"name": "كيمتشي فرايد رايس", "price": 40},
+          {"name": "جابتشي نودلز", "price": 40},
+          {"name": "ماندو (دمبلينج)", "price": 30},
+          {"name": "كيمتشي", "price": 15}
+        ],
+        "delivery_fee": "7-15 SAR",
+        "min_order": 20,
+        "source": "https://hungerpost.com"
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "بولغوجي بيف", "price": 55},
+          {"name": "كوريان فرايد تشيكن", "price": 45},
+          {"name": "بيبيمباب", "price": 45}
+        ],
+        "delivery_fee": "15-25 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "لا ميزون",
+    "restaurant_en": "La Maison",
+    "apps": {
+      "jahez": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "كرواسون زبدة", "price": 18},
+          {"name": "كرواسون شوكولاتة", "price": 22},
+          {"name": "كيش لورين", "price": 35},
+          {"name": "ساندوتش كلوب", "price": 55},
+          {"name": "سلطة نيسواز", "price": 50},
+          {"name": "تارت فواكه", "price": 30},
+          {"name": "ميل فوي", "price": 35},
+          {"name": "إكلير شوكولاتة", "price": 20}
+        ],
+        "delivery_fee": "20-35 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "ساي ساي",
+    "restaurant_en": "Sai Sai",
+    "apps": {
+      "jahez": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "سوشي مشكل", "price": 150},
+          {"name": "ساشيمي سالمون", "price": 95},
+          {"name": "تمبورا مشكل", "price": 85},
+          {"name": "واغيو ستيك", "price": 300},
+          {"name": "رامن", "price": 65},
+          {"name": "إدامامي", "price": 35},
+          {"name": "ماتشا كيك", "price": 50}
+        ],
+        "delivery_fee": "25-40 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "أوتاي",
+    "restaurant_en": "Otai",
+    "apps": {
+      "jahez": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "ستيك واغيو", "price": 280},
+          {"name": "سالمون تيرياكي", "price": 120},
+          {"name": "سوشي سيت", "price": 140},
+          {"name": "تمبورا جمبري", "price": 90},
+          {"name": "ميسو سوب", "price": 35},
+          {"name": "إدامامي ترافل", "price": 50},
+          {"name": "يوزو تشيز كيك", "price": 55}
+        ],
+        "delivery_fee": "25-40 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  },
+  {
+    "restaurant": "بيرو",
+    "restaurant_en": "Piro",
+    "apps": {
+      "jahez": {
+        "available": false,
+        "items": [],
+        "delivery_fee": null,
+        "source": null
+      },
+      "thechefz": {
+        "available": true,
+        "items": [
+          {"name": "ستيك فيليه", "price": 180},
+          {"name": "سالمون مشوي", "price": 130},
+          {"name": "ريزوتو ترافل", "price": 95},
+          {"name": "سلطة بوراتا", "price": 60},
+          {"name": "بروشيتا", "price": 45},
+          {"name": "تيراميسو", "price": 45}
+        ],
+        "delivery_fee": "20-35 SAR",
+        "source": "https://thechefz.co"
+      }
+    }
+  }
+]

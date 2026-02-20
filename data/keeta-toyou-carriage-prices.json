@@ -1,0 +1,1535 @@
+{
+  "metadata": {
+    "collected_date": "2026-02-20",
+    "data_sources": [
+      "toyou.io (direct menu scraping)",
+      "saudigazette.com.sa (Keeta Q1 2025 report)",
+      "kr-asia.com (Keeta launch article)",
+      "keeta-global.com",
+      "eyeofriyadh.com (Carriage listing)",
+      "enatega.com (food delivery apps comparison)",
+      "codesorbit.com (delivery apps review)"
+    ],
+    "notes": "ToYou prices scraped directly from toyou.io menu pages. Keeta prices not publicly available on web (app-only). Carriage (trycarriage.com) website SSL error/down at time of collection. Prices in SAR.",
+    "keeta_overview": {
+      "parent_company": "Meituan (3690.HK)",
+      "launch_date": "September 9, 2024 (Al Kharj), expanded to Riyadh October 2024",
+      "investment": "1 billion SAR",
+      "restaurant_partners": "25,000+ across Kingdom (Q1 2025)",
+      "delivery_riders": "30,000+ registered",
+      "delivery_fee": "Free on orders over SAR 25",
+      "discounts": "Up to 70% on select meals at launch",
+      "delivery_promise": "30 minutes",
+      "coverage": "Riyadh, Jeddah, Makkah, Madinah, Dammam, Al Kharj, Al Ahsa",
+      "top_categories_riyadh": "Fast food #1, Arabic cuisine #2, Desserts & Beverages ~20% of orders",
+      "riyadh_trends": "Strong demand for grilled meats and Arabic platters",
+      "comparison_notes": "HungerStation has 55,000+ restaurants across 102+ cities. Keeta competes with free delivery and aggressive discounts. Saudi food delivery market projected at $11.74B (2024), growing 5.2% annually to $15.13B by 2029."
+    },
+    "toyou_overview": {
+      "website": "toyou.io",
+      "owner": "Aram Meem LLC",
+      "delivery_fee": "Varies by distance, typically SAR 5-15",
+      "cities": "60+ cities across KSA",
+      "restaurants_on_web": "58 merchants listed on Riyadh web page",
+      "tagline": "Fastest delivery in the kingdom"
+    },
+    "carriage_overview": {
+      "website": "trycarriage.com (currently down/SSL issues)",
+      "restaurants": "2,000+ restaurants (per Eye of Riyadh listing)",
+      "delivery_fee": null,
+      "notes": "Carriage still operates in KSA but appears less prominent. Website had SSL certificate issues during data collection. Available on iOS/Android app stores."
+    }
+  },
+  "restaurants": [
+    {
+      "restaurant": "البيك",
+      "restaurant_en": "AlBaik",
+      "category": "fried_chicken",
+      "apps": {
+        "keeta": {
+          "available": true,
+          "items": null,
+          "delivery_fee": "Free on orders over SAR 25",
+          "min_order": "SAR 25 for free delivery",
+          "source": "Keeta has 25,000+ restaurant partners; AlBaik is one of KSA's most popular chains and widely available on all major platforms",
+          "notes": "Prices only available in-app"
+        },
+        "toyou": {
+          "available": true,
+          "rating": 4.4,
+          "items": [
+            {"name": "ALBAIK 4 pcs Chicken Meal", "price": 21},
+            {"name": "ALBAIK BBQ", "price": 11},
+            {"name": "ALBAIK Shawarma", "price": 6.5},
+            {"name": "Big Baik", "price": 15},
+            {"name": "Big Baik with Cheese", "price": 17},
+            {"name": "Chicken Fillet Burger", "price": 6.5},
+            {"name": "Chicken Fillet Burger with Cheese", "price": 7},
+            {"name": "Chicken Fillet Sandwich", "price": 8.5},
+            {"name": "Double Baik Burger", "price": 10},
+            {"name": "Baikeez Breast", "price": 14.5},
+            {"name": "Baikeez Thighs", "price": 14.5},
+            {"name": "Fillet Nugget Snack", "price": 6.5},
+            {"name": "Saj DeLite with Delite Sauce", "price": 8.5},
+            {"name": "Super BAIK Grilled Chicken Regular", "price": 18.5},
+            {"name": "Super BAIK Grilled Chicken Spicy", "price": 18.5},
+            {"name": "Tawuk Sandwich", "price": 8.5},
+            {"name": "Fish Fillet Burger", "price": 7.5},
+            {"name": "Fish Fillet Meal", "price": 27.5},
+            {"name": "Fish Fillet Sandwich", "price": 10},
+            {"name": "Spicy Fish Fillet Meal", "price": 24.5},
+            {"name": "10 pcs Jumbo Shrimp Meal", "price": 36.5},
+            {"name": "12 pcs Jumbo Shrimp Meal", "price": 49.5},
+            {"name": "Regular Super BAIK Shrimp", "price": 23.5},
+            {"name": "Shrimp Sandwich", "price": 14},
+            {"name": "Value Shrimp Meal", "price": 27.5},
+            {"name": "ALBAIK Chips", "price": 6},
+            {"name": "French Fries", "price": 6},
+            {"name": "French Fries with Garlic Sauce", "price": 7},
+            {"name": "Falafel ALBAIK Meal", "price": 9},
+            {"name": "Falafel ALBAIK Snack", "price": 4},
+            {"name": "Water", "price": 2},
+            {"name": "Pepsi", "price": 4},
+            {"name": "Maamoul (dessert)", "price": 1.5}
+          ],
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/just-chicken/albaik/"
+        },
+        "carriage": {
+          "available": null,
+          "items": null,
+          "delivery_fee": null,
+          "source": "trycarriage.com was unreachable (SSL error)",
+          "notes": "Carriage has 2000+ restaurants; AlBaik likely available but unverified"
+        }
+      }
+    },
+    {
+      "restaurant": "ماكدونالدز",
+      "restaurant_en": "McDonald's KSA",
+      "category": "burgers",
+      "apps": {
+        "keeta": {
+          "available": true,
+          "items": null,
+          "delivery_fee": "Free on orders over SAR 25",
+          "source": "Major chain widely available on Keeta",
+          "notes": "Prices only available in-app"
+        },
+        "toyou": {
+          "available": true,
+          "rating": 4.3,
+          "items": [
+            {"name": "Big Mac", "price": 18},
+            {"name": "Big Mac Large Meal", "price": 28},
+            {"name": "Big Tasty", "price": 23},
+            {"name": "Big Tasty Large Meal", "price": 33},
+            {"name": "Big Tasty Chicken Sandwich", "price": 25},
+            {"name": "Big Tasty Mushroom Sandwich", "price": 24},
+            {"name": "McChicken Large Meal", "price": 28},
+            {"name": "Spicy McChicken Large Meal", "price": 29},
+            {"name": "Quarter Pounder with Cheese Large Meal", "price": 29},
+            {"name": "McArabia Large Meal", "price": 30},
+            {"name": "McRoyale Large Meal", "price": 30},
+            {"name": "Chicken Mac Large Meal", "price": 29},
+            {"name": "Grand Chicken Deluxe Large Meal", "price": 34},
+            {"name": "Grand Chicken Special Large Meal", "price": 35},
+            {"name": "Grand Chicken Spicy Large Meal", "price": 34},
+            {"name": "9 Pcs Nuggets Large Meal", "price": 28},
+            {"name": "Double Cheeseburger Large Meal", "price": 21},
+            {"name": "Triple Cheeseburger Large Meal", "price": 25},
+            {"name": "Beef Burger", "price": 6},
+            {"name": "Cheeseburger", "price": 7},
+            {"name": "9 Pcs Chicken McNuggets", "price": 17},
+            {"name": "Chipotle Chicken Sandwich", "price": 11},
+            {"name": "McWrap Peri Peri", "price": 12},
+            {"name": "McChicken Ghost Pepper Sandwich", "price": 19},
+            {"name": "Spicy McNuggets 6 Pcs", "price": 11},
+            {"name": "McFlurry Daim", "price": 10},
+            {"name": "Little Tasty Chicken Large Meal", "price": 23},
+            {"name": "McWrap Large Meal", "price": 21}
+          ],
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/burgers/mcdonalds-ksa/"
+        },
+        "carriage": {
+          "available": null,
+          "items": null,
+          "delivery_fee": null,
+          "source": "trycarriage.com unreachable"
+        }
+      }
+    },
+    {
+      "restaurant": "كنتاكي",
+      "restaurant_en": "KFC",
+      "category": "fried_chicken",
+      "apps": {
+        "keeta": {
+          "available": true,
+          "items": null,
+          "delivery_fee": "Free on orders over SAR 25",
+          "source": "Major chain widely available on Keeta"
+        },
+        "toyou": {
+          "available": true,
+          "rating": 4.3,
+          "items": [
+            {"name": "Zinger Sandwich", "price": 24},
+            {"name": "Zinger Combo – Medium", "price": 34},
+            {"name": "Zinger Combo – Large", "price": 36},
+            {"name": "Zinger Box – Medium", "price": 42},
+            {"name": "Zinger Box – Large", "price": 44},
+            {"name": "Mighty Zinger", "price": 29},
+            {"name": "Mighty Zinger Combo – Medium", "price": 39},
+            {"name": "Mighty Zinger Combo – Large", "price": 41},
+            {"name": "Mighty Zinger Box – Medium", "price": 47},
+            {"name": "Mighty Zinger Box – Large", "price": 49},
+            {"name": "Original Twister Sandwich", "price": 18},
+            {"name": "Spicy Twister Sandwich", "price": 18},
+            {"name": "Twister Combo – Medium", "price": 28},
+            {"name": "Twister Combo – Large", "price": 30},
+            {"name": "Twister Box – Medium", "price": 36},
+            {"name": "Twister Box – Large", "price": 38},
+            {"name": "Twister Max Sandwich – Original", "price": 28},
+            {"name": "Twister Max Combo – Medium", "price": 38},
+            {"name": "Twister Max Combo – Large", "price": 40},
+            {"name": "Dynamite Cruncher", "price": 9},
+            {"name": "Dynamite Cruncher Box – Medium", "price": 29},
+            {"name": "Dynamite Cruncher Box – Large", "price": 31},
+            {"name": "Pepper Mayo Original Cruncher", "price": 9},
+            {"name": "Mighty Cruncher Original", "price": 10},
+            {"name": "Mighty Cruncher Combo – Medium", "price": 23},
+            {"name": "Mighty Cruncher Combo – Large", "price": 25},
+            {"name": "Loaded Twister Sandwich", "price": 21},
+            {"name": "Loaded Twister Combo – Medium", "price": 30},
+            {"name": "My Bucket – Medium", "price": 26},
+            {"name": "My Bucket – Large", "price": 28},
+            {"name": "Snack Meal", "price": 15},
+            {"name": "Rizo Meal", "price": 15},
+            {"name": "Dinner Crispy Strips Meal – Large", "price": 38},
+            {"name": "Pepsi Can", "price": 9},
+            {"name": "7Up Can", "price": 9}
+          ],
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/burgers/kfc/"
+        },
+        "carriage": {
+          "available": null,
+          "items": null,
+          "delivery_fee": null,
+          "source": "trycarriage.com unreachable"
+        }
+      }
+    },
+    {
+      "restaurant": "شاورمر",
+      "restaurant_en": "Shawarmer",
+      "category": "shawarma",
+      "apps": {
+        "keeta": {
+          "available": true,
+          "items": null,
+          "delivery_fee": "Free on orders over SAR 25",
+          "source": "Popular Saudi chain, likely on Keeta"
+        },
+        "toyou": {
+          "available": true,
+          "rating": 4.5,
+          "items": [
+            {"name": "Two Shawarma Arabi", "price": 20},
+            {"name": "Two Shawarma Saji", "price": 22},
+            {"name": "Two Garsa", "price": 16},
+            {"name": "Abo Alsawarikh", "price": 21},
+            {"name": "Arabo", "price": 30},
+            {"name": "Arabo Meal", "price": 41},
+            {"name": "Arabo Double Meal", "price": 58},
+            {"name": "Double Arabo", "price": 47},
+            {"name": "Alsandouk", "price": 32},
+            {"name": "Alsandouk Meal", "price": 43},
+            {"name": "Sahen", "price": 35},
+            {"name": "Sahen Meal", "price": 46},
+            {"name": "Siiiiiii", "price": 30},
+            {"name": "Siiiiiii Meal", "price": 41},
+            {"name": "Muraba Alsada", "price": 30},
+            {"name": "Muraba Alsada Meal", "price": 41},
+            {"name": "Batreso", "price": 30},
+            {"name": "Rujha", "price": 29},
+            {"name": "Saluni", "price": 23},
+            {"name": "Raj Raj", "price": 23},
+            {"name": "Spicy Raj Raj", "price": 24},
+            {"name": "Duo For Gamers", "price": 38},
+            {"name": "Tamkies", "price": 37},
+            {"name": "Happy Lunch 1", "price": 29},
+            {"name": "Large Wiggs", "price": 14},
+            {"name": "Medium Wiggs", "price": 12},
+            {"name": "Shawiggs", "price": 31},
+            {"name": "Bites (10 Pcs)", "price": 30},
+            {"name": "Bites (3 Pcs)", "price": 11},
+            {"name": "Basbousa", "price": 7},
+            {"name": "Alazeima (gathering)", "price": 117},
+            {"name": "Tagamees (gathering)", "price": 63},
+            {"name": "Mineral Water", "price": 2},
+            {"name": "Pepsi Medium", "price": 11},
+            {"name": "Pepsi Large", "price": 13},
+            {"name": "Black Mojito", "price": 20}
+          ],
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/shawarma/shawarmer/"
+        },
+        "carriage": {
+          "available": null,
+          "items": null,
+          "delivery_fee": null,
+          "source": "trycarriage.com unreachable"
+        }
+      }
+    },
+    {
+      "restaurant": "هرفي",
+      "restaurant_en": "Herfy",
+      "category": "burgers",
+      "apps": {
+        "keeta": {
+          "available": true,
+          "items": null,
+          "delivery_fee": "Free on orders over SAR 25",
+          "source": "Major Saudi chain, likely on Keeta"
+        },
+        "toyou": {
+          "available": true,
+          "rating": 4.4,
+          "items": [
+            {"name": "Regular Double Herfy Combo", "price": 37},
+            {"name": "Medium Double Herfy Combo", "price": 38},
+            {"name": "Regular Triple Herfy Combo", "price": 43},
+            {"name": "Medium Triple Herfy Combo", "price": 44},
+            {"name": "Regular Super Herfy Combo", "price": 37},
+            {"name": "Regular Chicken Burger Combo", "price": 35},
+            {"name": "Regular Double Chicken Burger Combo", "price": 38},
+            {"name": "Regular Chili Chicken Combo", "price": 35},
+            {"name": "Regular Grilled Chicken Combo", "price": 34},
+            {"name": "Regular Super Chicken Combo", "price": 39},
+            {"name": "Regular Fish Fillet Combo", "price": 35},
+            {"name": "Regular Chicken Tortilla Combo", "price": 39},
+            {"name": "Regular Crunchy Tortilla Combo", "price": 39},
+            {"name": "Medium Crunchy Tortilla Combo", "price": 41},
+            {"name": "Medium Double Tower Combo", "price": 41},
+            {"name": "Medium Triple Tower Combo", "price": 47},
+            {"name": "Regular Large Herfy with Cheese Combo", "price": 33},
+            {"name": "Regular Herfy Wrap Combo", "price": 33},
+            {"name": "Mix Herfy Wrap", "price": 33},
+            {"name": "Medium Super Nachos Meal", "price": 37},
+            {"name": "Super Nachos Sandwich", "price": 36},
+            {"name": "Kiddie Meal Beef Burger", "price": 18},
+            {"name": "Kiddie Meal Cheese Burger", "price": 22},
+            {"name": "Kiddie Meal Chicken Burger", "price": 25},
+            {"name": "Kiddie Meal Chicken Nuggets", "price": 25}
+          ],
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/burgers/herfy/"
+        },
+        "carriage": {
+          "available": null,
+          "items": null,
+          "delivery_fee": null,
+          "source": "trycarriage.com unreachable"
+        }
+      }
+    },
+    {
+      "restaurant": "كودو",
+      "restaurant_en": "Kudu",
+      "category": "sandwiches",
+      "apps": {
+        "keeta": {
+          "available": true,
+          "items": null,
+          "delivery_fee": "Free on orders over SAR 25",
+          "source": "Major Saudi chain"
+        },
+        "toyou": {
+          "available": true,
+          "rating": 4.5,
+          "items": [
+            {"name": "Kudu Chicken Combo", "price": 35},
+            {"name": "Kudu Chicken Sandwich", "price": 27},
+            {"name": "Kudu Beef Combo", "price": 36},
+            {"name": "Kudu Beef Sandwich", "price": 28},
+            {"name": "Chicken Burger Combo", "price": 30},
+            {"name": "Chicken Burger Sandwich", "price": 22},
+            {"name": "Bigtime Burger Combo", "price": 38},
+            {"name": "Bigtime Burger", "price": 30},
+            {"name": "Club Sandwich with White Toast", "price": 28},
+            {"name": "Club Sandwich Multigrain Toast Combo", "price": 36},
+            {"name": "Philly Steak Combo", "price": 36},
+            {"name": "Philly Steak Sandwich", "price": 28},
+            {"name": "Lafino Chicken Combo", "price": 35},
+            {"name": "Lafino Chicken Sandwich", "price": 27},
+            {"name": "Lafino Philly Steak Combo", "price": 36},
+            {"name": "Lafino Philly Steak Sandwich", "price": 28},
+            {"name": "Spicy Chicken Combo", "price": 36},
+            {"name": "Spicy Chicken Sandwich", "price": 28},
+            {"name": "Smokey Combo", "price": 37},
+            {"name": "Smokey Sandwich", "price": 29},
+            {"name": "Muthalatha Combo", "price": 36},
+            {"name": "Muthalatha Sandwich", "price": 28},
+            {"name": "Quattro Chicken Combo", "price": 34},
+            {"name": "Quattro Chicken Classic Sandwich", "price": 26},
+            {"name": "Veggie Combo", "price": 23},
+            {"name": "Veggie Sandwich", "price": 15},
+            {"name": "Cheese Nachos", "price": 12},
+            {"name": "Cheesy Beef Bacon Fries", "price": 15},
+            {"name": "Chicken Nuggets", "price": 13},
+            {"name": "Large French Fries", "price": 10},
+            {"name": "Hash Brown", "price": 4}
+          ],
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/sandwiches/kudu/"
+        },
+        "carriage": {
+          "available": null,
+          "items": null,
+          "delivery_fee": null,
+          "source": "trycarriage.com unreachable"
+        }
+      }
+    },
+    {
+      "restaurant": "بيتزا هت",
+      "restaurant_en": "Pizza Hut",
+      "category": "pizza",
+      "apps": {
+        "keeta": {
+          "available": true,
+          "items": null,
+          "delivery_fee": "Free on orders over SAR 25",
+          "source": "Major international chain"
+        },
+        "toyou": {
+          "available": true,
+          "rating": 4.4,
+          "items": [
+            {"name": "Large Pizza (most flavors)", "price": 44},
+            {"name": "Medium Pizza (most flavors)", "price": 33},
+            {"name": "Large Chicken Ranch Delight", "price": 33},
+            {"name": "Large Fajita Delight", "price": 33},
+            {"name": "Large Pepperoni Delight", "price": 33},
+            {"name": "Large Veggie Delight", "price": 33},
+            {"name": "Crunchy Box", "price": 89},
+            {"name": "2 Large Pizza Offer", "price": 66},
+            {"name": "2 Medium Pizza Offer", "price": 46},
+            {"name": "My Box", "price": 35},
+            {"name": "Dynamite Chicken (New)", "price": 22},
+            {"name": "Peri Peri Chicken (New)", "price": 22},
+            {"name": "Double Hershey Cookies", "price": 29},
+            {"name": "Pepsi", "price": 6},
+            {"name": "Water", "price": 4},
+            {"name": "Orange Juice", "price": 14}
+          ],
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/pizza/pizza-hut/"
+        },
+        "carriage": {
+          "available": null,
+          "items": null,
+          "delivery_fee": null,
+          "source": "trycarriage.com unreachable"
+        }
+      }
+    },
+    {
+      "restaurant": "برجر كنج",
+      "restaurant_en": "Burger King",
+      "category": "burgers",
+      "apps": {
+        "keeta": {
+          "available": true,
+          "items": null,
+          "delivery_fee": "Free on orders over SAR 25",
+          "source": "Major international chain"
+        },
+        "toyou": {
+          "available": true,
+          "rating": 4.3,
+          "items": [
+            {"name": "Hamburger", "price": 6},
+            {"name": "Cheeseburger", "price": 7},
+            {"name": "Chicken Burger", "price": 7},
+            {"name": "Chicken Burger with Cheese", "price": 8},
+            {"name": "Double Cheeseburger", "price": 11},
+            {"name": "King Chicken Tasty", "price": 12},
+            {"name": "Double King Chicken Tasty", "price": 14},
+            {"name": "Big King", "price": 21},
+            {"name": "Big King Chicken", "price": 21},
+            {"name": "Big King XL", "price": 35},
+            {"name": "Chicken Crispy", "price": 22},
+            {"name": "Chicken Royale", "price": 27},
+            {"name": "Double Chicken Royale", "price": 36},
+            {"name": "Double Chicken Deluxe", "price": 29},
+            {"name": "Double Whopper", "price": 34},
+            {"name": "Chicken Steakhouse", "price": 36},
+            {"name": "Chicken Steakhouse XL", "price": 43},
+            {"name": "Grilled Chicken", "price": 31},
+            {"name": "Chicken Pesto Sandwich", "price": 34},
+            {"name": "Tikka Chicken Sandwich", "price": 34},
+            {"name": "Truffle King Fries", "price": 17},
+            {"name": "Cheesy Chicken Fries 7 Pcs", "price": 16},
+            {"name": "Cheesy Chicken Fries 10 Pcs", "price": 20},
+            {"name": "5 For 30 – Double Cheeseburger", "price": 30},
+            {"name": "Snack Box", "price": 36},
+            {"name": "Share Deal", "price": 69},
+            {"name": "Grand Share Deal", "price": 85}
+          ],
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/burgers/burger-king/"
+        },
+        "carriage": {
+          "available": null,
+          "items": null,
+          "delivery_fee": null,
+          "source": "trycarriage.com unreachable"
+        }
+      }
+    },
+    {
+      "restaurant": "دومينوز بيتزا",
+      "restaurant_en": "Domino's Pizza",
+      "category": "pizza",
+      "apps": {
+        "keeta": {
+          "available": true,
+          "items": null,
+          "delivery_fee": "Free on orders over SAR 25",
+          "source": "Major international chain"
+        },
+        "toyou": {
+          "available": true,
+          "rating": 4.6,
+          "items": [
+            {"name": "Chicken BBQ Medium", "price": 27},
+            {"name": "Chicken Dynamite Medium", "price": 27},
+            {"name": "Chicken Hot Dynamite Medium", "price": 27},
+            {"name": "Chicken Dynamite Large", "price": 37},
+            {"name": "Chicken Hot Dynamite Large", "price": 37},
+            {"name": "Chicken Kickers Large", "price": 37},
+            {"name": "Chicken BBQ New Yorker XL", "price": 47},
+            {"name": "Chicken Dynamite New Yorker XL", "price": 47},
+            {"name": "2 Chicken Kickers for 44", "price": 44},
+            {"name": "Family Offer", "price": 99},
+            {"name": "Chicken Crunchy Fold", "price": 24},
+            {"name": "Chicken Kickers", "price": 27},
+            {"name": "Chicken Wings 8 Pcs (BBQ/Classic/Hot)", "price": 27},
+            {"name": "Classic Dynamite Chicken 20 Pcs", "price": 27},
+            {"name": "Premium Chicken Hot 12 Pcs", "price": 27},
+            {"name": "Garlic Twist 8 Pcs", "price": 20},
+            {"name": "Potato Wedges", "price": 13},
+            {"name": "Stuffed Cheesy Bread 8 Pcs", "price": 25},
+            {"name": "Chocolate Lava Souffle 1 Pc", "price": 12},
+            {"name": "Cinnamon Twist 8 Pcs", "price": 20},
+            {"name": "Crownies 3 Pcs", "price": 12},
+            {"name": "Large Domino's Gathering Box", "price": 155},
+            {"name": "Medium Domino's Gathering Box", "price": 115},
+            {"name": "Pepsi Can", "price": 5},
+            {"name": "Water", "price": 2},
+            {"name": "Pepsi 1Ltr", "price": 7},
+            {"name": "Pepsi 2.25Ltr", "price": 10}
+          ],
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/pizza/dominos-pizza/"
+        },
+        "carriage": {
+          "available": null,
+          "items": null,
+          "delivery_fee": null,
+          "source": "trycarriage.com unreachable"
+        }
+      }
+    },
+    {
+      "restaurant": "حاشي باشا",
+      "restaurant_en": "Hashi Basha",
+      "category": "traditional_saudi",
+      "apps": {
+        "keeta": {
+          "available": true,
+          "items": null,
+          "delivery_fee": "Free on orders over SAR 25",
+          "source": "Popular Saudi traditional restaurant"
+        },
+        "toyou": {
+          "available": true,
+          "rating": 4.7,
+          "items": [
+            {"name": "Basha Kabsah Chicken", "price": 28},
+            {"name": "Basha Kabsah Hashi", "price": 73},
+            {"name": "Half Chicken Kabsah", "price": 28},
+            {"name": "Half Chicken Madghot", "price": 28},
+            {"name": "Half Shawaya Chicken", "price": 28},
+            {"name": "Nafar Kabsah Hashi", "price": 73},
+            {"name": "Nafar Lamb Kabsah", "price": 91},
+            {"name": "Nafar Lamb Madghot", "price": 91},
+            {"name": "Nafar Madghot Hashi", "price": 73},
+            {"name": "Mixed Vegetables with Chicken", "price": 11},
+            {"name": "Moussaka", "price": 11},
+            {"name": "Mulukhiyah", "price": 11},
+            {"name": "Cheese Cake Galaxy", "price": 10},
+            {"name": "Cheese Cake Ice Cream", "price": 10},
+            {"name": "Green Salad", "price": 6},
+            {"name": "Cucumber Yoghurt Salad", "price": 6},
+            {"name": "Water", "price": 2},
+            {"name": "Pepsi 360ml", "price": 4},
+            {"name": "Laban 180 ML", "price": 3},
+            {"name": "Pepsi 2.25ltr", "price": 11}
+          ],
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/local-flavours/hashi-basha/"
+        },
+        "carriage": {
+          "available": null,
+          "items": null,
+          "delivery_fee": null,
+          "source": "trycarriage.com unreachable"
+        }
+      }
+    },
+    {
+      "restaurant": "صب واي",
+      "restaurant_en": "Subway",
+      "category": "sandwiches",
+      "apps": {
+        "keeta": {
+          "available": true,
+          "items": null,
+          "delivery_fee": "Free on orders over SAR 25"
+        },
+        "toyou": {
+          "available": true,
+          "rating": 4.3,
+          "items": [
+            {"name": "Chicken Caesar Crunch", "price": 33},
+            {"name": "Chicken Doritos Crunch", "price": 28},
+            {"name": "Supreme Doritos Crunch", "price": 28},
+            {"name": "Footlong Cheesy Doritos", "price": 24},
+            {"name": "Footlong Loaded Doritos", "price": 38},
+            {"name": "Halloum Sunshine", "price": 25},
+            {"name": "Halloum Sunshine Meal", "price": 34},
+            {"name": "Loaded BMT", "price": 27},
+            {"name": "Loaded BMT Meal", "price": 36},
+            {"name": "Spicy Mexican", "price": 23},
+            {"name": "Spicy Mexican Meal", "price": 32},
+            {"name": "The Big Supreme", "price": 27},
+            {"name": "The Big Supreme Meal", "price": 36},
+            {"name": "The Great Caesar", "price": 23},
+            {"name": "Breakfast Offer", "price": 14},
+            {"name": "Pepperoni & Cheese Toasties", "price": 6},
+            {"name": "Footlong Cookies", "price": 25},
+            {"name": "Pepsi", "price": 6},
+            {"name": "Water", "price": 2},
+            {"name": "Red Bull Energy Drink", "price": 16}
+          ],
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/sandwiches/subway/"
+        },
+        "carriage": {
+          "available": null,
+          "items": null,
+          "delivery_fee": null,
+          "source": "trycarriage.com unreachable"
+        }
+      }
+    },
+    {
+      "restaurant": "الرومانسية",
+      "restaurant_en": "Al Romansiah",
+      "category": "traditional_saudi",
+      "apps": {
+        "keeta": {
+          "available": true,
+          "items": null,
+          "delivery_fee": "Free on orders over SAR 25"
+        },
+        "toyou": {
+          "available": true,
+          "rating": 4.6,
+          "items": [
+            {"name": "Chicken Kabsa", "price": 27},
+            {"name": "Chicken with Mandy Rice", "price": 28},
+            {"name": "Chicken with Red Rice", "price": 26},
+            {"name": "Grilled Chicken with Bukhari Rice", "price": 29},
+            {"name": "Half Grill Chicken", "price": 29},
+            {"name": "Half Madfon Chicken", "price": 29},
+            {"name": "Half Madhbi Chicken", "price": 29},
+            {"name": "Half Chicken Magloba", "price": 38},
+            {"name": "Grill Chicken (whole)", "price": 58},
+            {"name": "Charcoal Grilled Chicken", "price": 26},
+            {"name": "Five Persons Share Meal - Saudi Rice", "price": 140},
+            {"name": "Five Persons Share Meal - Peshawar Rice", "price": 145},
+            {"name": "Chicken Kebab", "price": 31},
+            {"name": "Meat Kebab", "price": 38},
+            {"name": "Meat Awsal", "price": 38},
+            {"name": "Mixed Chicken BBQ", "price": 31},
+            {"name": "Mixed Meat BBQ", "price": 38},
+            {"name": "Shish Taouk", "price": 31},
+            {"name": "Alromansiah Grilled Box", "price": 34.5},
+            {"name": "Alromansiah Mathbi Box", "price": 37},
+            {"name": "Biryani Box", "price": 31},
+            {"name": "Butter Chicken", "price": 31},
+            {"name": "Chicken Curry Box", "price": 30},
+            {"name": "Chicken with Rice Box", "price": 25},
+            {"name": "Quarter Grill Box", "price": 32},
+            {"name": "Family Meal", "price": 135},
+            {"name": "Grill Offer", "price": 69},
+            {"name": "Savings Meal", "price": 79}
+          ],
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/local-flavours/alromansiah/"
+        },
+        "carriage": {
+          "available": null,
+          "items": null,
+          "delivery_fee": null,
+          "source": "trycarriage.com unreachable"
+        }
+      }
+    },
+    {
+      "restaurant": "هارديز",
+      "restaurant_en": "Hardee's",
+      "category": "burgers",
+      "apps": {
+        "keeta": {
+          "available": true,
+          "items": null,
+          "delivery_fee": "Free on orders over SAR 25"
+        },
+        "toyou": {
+          "available": true,
+          "rating": 4.4,
+          "items": [
+            {"name": "Chicken Fillet Combo", "price": 34},
+            {"name": "Chicken Fillet Combo Large", "price": 36},
+            {"name": "Jalapeno Chicken Combo Medium", "price": 36},
+            {"name": "Jalapeno Chicken Combo Large", "price": 38},
+            {"name": "Super Star Chicken Combo Original Medium", "price": 39},
+            {"name": "Super Star Chicken Combo Original Large", "price": 41},
+            {"name": "Super Star Chicken Spicy Combo Medium", "price": 40},
+            {"name": "Super Star Chicken Spicy Combo Large", "price": 42},
+            {"name": "Santa Fe Chicken Spicy Combo Medium", "price": 35},
+            {"name": "Mighty Tenders Combo Original Medium", "price": 33},
+            {"name": "Mighty Tenders Combo Original Large", "price": 35},
+            {"name": "Family Meal – Big Deluxe Burger", "price": 89},
+            {"name": "Family Meal – Chicken Fillet Sandwich", "price": 89},
+            {"name": "Rizer Chili Garlic Bowl", "price": 15}
+          ],
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/burgers/hardees/"
+        },
+        "carriage": {
+          "available": null,
+          "items": null,
+          "delivery_fee": null,
+          "source": "trycarriage.com unreachable"
+        }
+      }
+    },
+    {
+      "restaurant": "بوبايز",
+      "restaurant_en": "Popeyes",
+      "category": "fried_chicken",
+      "apps": {
+        "keeta": {
+          "available": true,
+          "items": null,
+          "delivery_fee": "Free on orders over SAR 25"
+        },
+        "toyou": {
+          "available": true,
+          "rating": 4.5,
+          "items": [
+            {"name": "15 Piece Tenders Family Meal", "price": 99},
+            {"name": "Cajun Fries – Regular", "price": 10},
+            {"name": "Cajun Fries – Large", "price": 14},
+            {"name": "Cajun Fries – Family", "price": 20},
+            {"name": "Cheesy Fries", "price": 12},
+            {"name": "Chicken Bites – Regular", "price": 15},
+            {"name": "Chicken Bites – Large", "price": 19},
+            {"name": "Mashed Potato – Regular", "price": 10},
+            {"name": "Mashed Potato – Large", "price": 16},
+            {"name": "Mini Wrap", "price": 10},
+            {"name": "Mini Wrap Spicy", "price": 10},
+            {"name": "Biscuit 1 Pc", "price": 4},
+            {"name": "Biscuits 6 Pc", "price": 20},
+            {"name": "Choco Biscuit 1 Pc", "price": 6},
+            {"name": "Pepsi Can", "price": 7},
+            {"name": "7Up", "price": 7},
+            {"name": "Bottle Water 500ml", "price": 3}
+          ],
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/just-chicken/popeyes/"
+        },
+        "carriage": {
+          "available": null,
+          "items": null,
+          "delivery_fee": null,
+          "source": "trycarriage.com unreachable"
+        }
+      }
+    },
+    {
+      "restaurant": "سولت",
+      "restaurant_en": "Salt",
+      "category": "burgers",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null, "source": "Not verified - app-only data"},
+        "toyou": {"available": false, "items": null, "delivery_fee": null, "source": "Not listed on toyou.io/en/riyadh/all/"},
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "شيك شاك",
+      "restaurant_en": "Shake Shack",
+      "category": "burgers",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null, "source": "Not verified - app-only data"},
+        "toyou": {"available": false, "items": null, "delivery_fee": null, "source": "Not listed on toyou.io/en/riyadh/all/"},
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "فايف قايز",
+      "restaurant_en": "Five Guys",
+      "category": "burgers",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null, "source": "Not verified"},
+        "toyou": {"available": false, "items": null, "delivery_fee": null, "source": "Not listed on toyou.io/en/riyadh/all/"},
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "بابا جونز",
+      "restaurant_en": "Papa John's",
+      "category": "pizza",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null, "source": "Not verified"},
+        "toyou": {"available": false, "items": null, "delivery_fee": null, "source": "Not listed on toyou.io/en/riyadh/all/"},
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "دانكن دونتس",
+      "restaurant_en": "Dunkin'",
+      "category": "coffee_desserts",
+      "apps": {
+        "keeta": {"available": true, "items": null, "delivery_fee": "Free on orders over SAR 25"},
+        "toyou": {
+          "available": true,
+          "rating": 4.4,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/desserts-coffee/dunkin/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "ستاربكس",
+      "restaurant_en": "Starbucks",
+      "category": "coffee_desserts",
+      "apps": {
+        "keeta": {"available": true, "items": null, "delivery_fee": "Free on orders over SAR 25"},
+        "toyou": {
+          "available": true,
+          "rating": 4.5,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/desserts-coffee/starbucks/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "باسكن روبنز",
+      "restaurant_en": "Baskin Robbins",
+      "category": "desserts",
+      "apps": {
+        "keeta": {"available": true, "items": null, "delivery_fee": "Free on orders over SAR 25"},
+        "toyou": {
+          "available": true,
+          "rating": 4.6,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/desserts-coffee/baskin-robbins/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "كريسبي كريم",
+      "restaurant_en": "Krispy Kreme",
+      "category": "desserts",
+      "apps": {
+        "keeta": {"available": true, "items": null, "delivery_fee": "Free on orders over SAR 25"},
+        "toyou": {
+          "available": true,
+          "rating": 4.5,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/desserts-coffee/krispy-kreme-doughnuts-coffee/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "سينابون",
+      "restaurant_en": "Cinnabon",
+      "category": "desserts",
+      "apps": {
+        "keeta": {"available": true, "items": null, "delivery_fee": "Free on orders over SAR 25"},
+        "toyou": {
+          "available": true,
+          "rating": 4.6,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/desserts-coffee/cinnabon/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "تم هورتنز",
+      "restaurant_en": "Tim Hortons",
+      "category": "coffee_breakfast",
+      "apps": {
+        "keeta": {"available": true, "items": null, "delivery_fee": "Free on orders over SAR 25"},
+        "toyou": {
+          "available": true,
+          "rating": 4.5,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/breakfast-bakery/tim-hortons/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "التازج",
+      "restaurant_en": "Al Tazaj",
+      "category": "grilled_chicken",
+      "apps": {
+        "keeta": {"available": true, "items": null, "delivery_fee": "Free on orders over SAR 25"},
+        "toyou": {
+          "available": true,
+          "rating": 4.4,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/just-chicken/al-tazaj/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "ريزنق كينز",
+      "restaurant_en": "Raising Cane's",
+      "category": "fried_chicken",
+      "apps": {
+        "keeta": {"available": true, "items": null, "delivery_fee": "Free on orders over SAR 25"},
+        "toyou": {
+          "available": true,
+          "rating": 4.6,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/just-chicken/raising-canes/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "ليتل سيزرز",
+      "restaurant_en": "Little Caesars",
+      "category": "pizza",
+      "apps": {
+        "keeta": {"available": true, "items": null, "delivery_fee": "Free on orders over SAR 25"},
+        "toyou": {
+          "available": true,
+          "rating": 4.6,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/pizza/little-caesars-pizza/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "مايسترو بيتزا",
+      "restaurant_en": "Maestro Pizza",
+      "category": "pizza",
+      "apps": {
+        "keeta": {"available": true, "items": null, "delivery_fee": "Free on orders over SAR 25"},
+        "toyou": {
+          "available": true,
+          "rating": 4.6,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/pizza/maestro-pizza/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "لورينزو بيتزا",
+      "restaurant_en": "Lorenzo Pizza",
+      "category": "pizza",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.6,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/pizza/lorenzo-pizza/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "بيتزاراتي",
+      "restaurant_en": "Pizzarati",
+      "category": "pizza",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.4,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/pizza/pizzaratti/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "بارتي بوكس",
+      "restaurant_en": "Party Box",
+      "category": "pizza_shawarma",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.7,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/pizza/party-box/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "برقرايزر",
+      "restaurant_en": "Burgerizzr",
+      "category": "burgers",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.5,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/burgers/burgerizzr/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "همبرجيني",
+      "restaurant_en": "Hamburgini Burger",
+      "category": "burgers",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.5,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/burgers/hamburgini-burger/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "وحمي برجر",
+      "restaurant_en": "Wahmy Burger",
+      "category": "burgers",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.4,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/burgers/wahmy-burger/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "سلطان دلايت برجر",
+      "restaurant_en": "Sultan Delight Burger",
+      "category": "burgers",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.6,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/burgers/sultan-delight-burger/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "جان برجر",
+      "restaurant_en": "Jan Burger",
+      "category": "burgers",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.4,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/burgers/jan-burger/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "دانك ساندوتش",
+      "restaurant_en": "Dank Sandwich",
+      "category": "sandwiches",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.7,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/sandwiches/dank-sandwich/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "بيت الشاورما",
+      "restaurant_en": "Shawarma House",
+      "category": "shawarma",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.4,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/shawarma/shawarma-house/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "شواية هاوس",
+      "restaurant_en": "Shawaya House",
+      "category": "traditional_saudi",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.4,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/local-flavours/shawaya-house/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "شويات الخليج",
+      "restaurant_en": "Shawyat Al Khalij",
+      "category": "traditional_saudi",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.6,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/local-flavours/shawyat-al-khalij/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "ناز البخاري",
+      "restaurant_en": "Naz El Bukhari",
+      "category": "traditional_saudi",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.7,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/local-flavours/naz-al-bukhari/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "ديب فرايز",
+      "restaurant_en": "Deep Fries",
+      "category": "fried_chicken",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.6,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/just-chicken/deep-fries/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "كاسا باستا",
+      "restaurant_en": "Casa Pasta",
+      "category": "italian",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.6,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/italian/casa-pasta/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "كانتون",
+      "restaurant_en": "Canton",
+      "category": "asian",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.3,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/asian/canton/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "بيتوتي",
+      "restaurant_en": "Baytoti",
+      "category": "asian_seafood",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.7,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/asian/baytoti/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "ووك",
+      "restaurant_en": "Wok",
+      "category": "asian",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.7,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/asian/wok/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "ماكي هاوس",
+      "restaurant_en": "Maki House",
+      "category": "sushi",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.7,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/sushi/maki-house/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "بوقا",
+      "restaurant_en": "Boga",
+      "category": "healthy",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.6,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/healthy-food/boga/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "فريش هاوس",
+      "restaurant_en": "Fresh House",
+      "category": "healthy",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.6,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/healthy-food/freshhouse/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "أوك بيري",
+      "restaurant_en": "Oak Berry",
+      "category": "healthy_juices",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.7,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/healthy-food/oak-berry/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "نامق",
+      "restaurant_en": "Namq",
+      "category": "coffee_desserts",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.5,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/desserts-coffee/namq/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "عنوان القهوة",
+      "restaurant_en": "Coffee Address",
+      "category": "coffee",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.6,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/desserts-coffee/coffee-address/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "سعدالدين",
+      "restaurant_en": "Saadeddin",
+      "category": "sweets",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.6,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/desserts-coffee/saadeddin/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "كناف",
+      "restaurant_en": "Kanaf",
+      "category": "desserts",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.9,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/desserts-coffee/kanaf/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "عصير تايم",
+      "restaurant_en": "Aseer Time",
+      "category": "juices_desserts",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.7,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/juices/aseer-time/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "سيقنتشر",
+      "restaurant_en": "Signature",
+      "category": "juices_drinks",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.7,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/juices/signature/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "النبي قريل",
+      "restaurant_en": "Ennabi Grill",
+      "category": "middle_eastern",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.6,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/middle-eastern/ennabi-grill/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "فلافل باي",
+      "restaurant_en": "Falafel Pie",
+      "category": "breakfast",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.5,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/breakfast-bakery/falafel-pie/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "دوار السعادة",
+      "restaurant_en": "Dawar Al Saadah",
+      "category": "breakfast",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.8,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/breakfast-bakery/dawar-al-saadah/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "هاشم",
+      "restaurant_en": "Hashem",
+      "category": "breakfast",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.3,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/breakfast-bakery/hashem/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    },
+    {
+      "restaurant": "شوباك",
+      "restaurant_en": "Shobak",
+      "category": "breakfast_shawarma",
+      "apps": {
+        "keeta": {"available": null, "items": null, "delivery_fee": null},
+        "toyou": {
+          "available": true,
+          "rating": 4.6,
+          "items": null,
+          "delivery_fee": "Varies by distance",
+          "source": "https://toyou.io/en/riyadh/breakfast-bakery/shobak/"
+        },
+        "carriage": {"available": null, "items": null, "delivery_fee": null, "source": "trycarriage.com unreachable"}
+      }
+    }
+  ],
+  "summary": {
+    "total_restaurants": 60,
+    "restaurants_with_detailed_prices": 14,
+    "restaurants_toyou_confirmed": 58,
+    "restaurants_keeta_estimated": "25,000+ partners across KSA (per Q1 2025 report)",
+    "restaurants_carriage_claimed": "2,000+ (per Eye of Riyadh)",
+    "price_source": "ToYou (toyou.io) - direct web scraping, Feb 2026",
+    "keeta_price_note": "Keeta prices are app-only and not available on their website. Keeta is known for competitive pricing with free delivery on orders over SAR 25.",
+    "carriage_note": "Carriage website (trycarriage.com) was inaccessible during data collection. They have a Facebook page (CarriageKSA) with 5,294 likes. The app is still available on app stores.",
+    "key_comparison": {
+      "delivery_fee": {
+        "keeta": "Free on orders over SAR 25 (no subscription needed)",
+        "toyou": "Varies by distance, typically SAR 5-15",
+        "carriage": "Unknown (website down)",
+        "hungerstation": "Varies, subscription available for free delivery",
+        "jahez": "Varies, plus subscription available"
+      },
+      "market_position": {
+        "hungerstation": "#1 - 55,000+ restaurants, 102+ cities (Delivery Hero owned)",
+        "jahez": "#2 - strong local player, IPO'd on Saudi market",
+        "keeta": "New entrant - 25,000+ restaurants, aggressive growth with Meituan backing",
+        "mrsool": "Popular courier service, broad delivery",
+        "toyou": "Growing player, 60+ cities, fast delivery focus",
+        "carriage": "Declining presence, still operational"
+      }
+    }
+  }
+}

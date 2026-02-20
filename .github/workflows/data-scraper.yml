@@ -1,0 +1,47 @@
+# Automated Data Scraper — Runs daily to update prices
+name: Data Scraper (Daily)
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 9 AM Riyadh (UTC+3)
+  workflow_dispatch:  # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-prices:
+    name: Update Delivery Prices
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Validate existing data
+        run: |
+          python3 -c "
+          import json, os
+          for f in ['data/places.json', 'data/delivery-prices.json']:
+              if os.path.exists(f):
+                  data = json.load(open(f))
+                  size = len(data) if isinstance(data, list) else len(str(data))
+                  print(f'✅ {f}: valid ({size})')
+          "
+
+      - name: Auto-commit if changes
+        run: |
+          git config user.name "WainNrooh Bot"
+          git config user.email "bot@wain-nrooh.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "🤖 Auto-update: prices $(date +%Y-%m-%d)"
+            git push
+          fi

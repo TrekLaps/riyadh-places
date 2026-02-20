@@ -1,0 +1,4054 @@
+[
+  {
+    "name_en": "Al Tazaj",
+    "name_ar": "الطازج",
+    "category": "وجبات سريعة",
+    "avg_per_person": 28,
+    "menu_highlights": [
+      {
+        "item": "وجبة فروج مشوي",
+        "price": 25
+      },
+      {
+        "item": "وجبة بروست",
+        "price": 26
+      },
+      {
+        "item": "سطل العائلة 12 قطعة",
+        "price": 89
+      },
+      {
+        "item": "بشكه تندرز 20 قطعة",
+        "price": 48
+      },
+      {
+        "item": "وجبة تندوري 4 قطع",
+        "price": 31
+      },
+      {
+        "item": "وجبة رشاقة",
+        "price": 31
+      },
+      {
+        "item": "وجبة كبسة مع بيبسي",
+        "price": 31
+      },
+      {
+        "item": "وجبة تكا سندويتش",
+        "price": 23
+      }
+    ],
+    "price_range": [
+      10,
+      89
+    ],
+    "source": "ksarestaurantmenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Abu Zaid",
+    "name_ar": "أبو زيد",
+    "category": "مطاعم شعبية",
+    "avg_per_person": 15,
+    "menu_highlights": [
+      {
+        "item": "مطبق خضار",
+        "price": 8
+      },
+      {
+        "item": "مطبق خضار لحم",
+        "price": 9
+      },
+      {
+        "item": "معصوب عادي",
+        "price": 9
+      },
+      {
+        "item": "معصوب كوكتيل شيدر",
+        "price": 23
+      },
+      {
+        "item": "فطيرة لبنة بالزعتر",
+        "price": 9
+      },
+      {
+        "item": "عريكة",
+        "price": 15
+      },
+      {
+        "item": "قلاية",
+        "price": 12
+      },
+      {
+        "item": "ديو وجبة",
+        "price": 15
+      }
+    ],
+    "price_range": [
+      8,
+      23
+    ],
+    "source": "ksarestaurantmenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Hardee's",
+    "name_ar": "هارديز",
+    "category": "وجبات سريعة",
+    "avg_per_person": 30,
+    "menu_highlights": [
+      {
+        "item": "ساندوتش هابانيرو رابتور",
+        "price": 11
+      },
+      {
+        "item": "وجبة سوبر ستار",
+        "price": 36
+      },
+      {
+        "item": "وجبة الأبطال",
+        "price": 45
+      },
+      {
+        "item": "ميكس وماتش لشخصين",
+        "price": 45
+      },
+      {
+        "item": "بوكس اللمة",
+        "price": 89
+      },
+      {
+        "item": "عرض الشبعة",
+        "price": 29
+      },
+      {
+        "item": "ساندوتش بيج ديلوكس",
+        "price": 22
+      },
+      {
+        "item": "تورنيدو تشكن رانش وجبة",
+        "price": 42
+      }
+    ],
+    "price_range": [
+      11,
+      89
+    ],
+    "source": "ksarestaurantmenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Hashi Basha",
+    "name_ar": "حاشي باشا",
+    "category": "مطاعم شعبية",
+    "avg_per_person": 50,
+    "menu_highlights": [
+      {
+        "item": "نفر حاشي كبسة",
+        "price": 60
+      },
+      {
+        "item": "نفر حاشي مضغوط",
+        "price": 58
+      },
+      {
+        "item": "مكموت حاشي",
+        "price": 58
+      },
+      {
+        "item": "نفر غنم كبسة",
+        "price": 75
+      },
+      {
+        "item": "نصف حبة دجاج شواية مع رز",
+        "price": 23
+      },
+      {
+        "item": "ربع حبة دجاج",
+        "price": 12
+      },
+      {
+        "item": "ملوخية/مسقعة/خضار",
+        "price": 9
+      },
+      {
+        "item": "كنافة",
+        "price": 9
+      }
+    ],
+    "price_range": [
+      4,
+      75
+    ],
+    "source": "ksarestaurantmenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Al Baik",
+    "name_ar": "البيك",
+    "category": "وجبات سريعة",
+    "avg_per_person": 20,
+    "menu_highlights": [
+      {
+        "item": "وجبة دجاج 4 قطع",
+        "price": 17
+      },
+      {
+        "item": "وجبة دجاج 8 قطع",
+        "price": 33
+      },
+      {
+        "item": "وجبة مسحب 10 قطع",
+        "price": 17
+      },
+      {
+        "item": "وجبة مسحب 7 قطع",
+        "price": 13.5
+      },
+      {
+        "item": "بيج بيك مع جبنة",
+        "price": 13.5
+      },
+      {
+        "item": "شاورما البيك بصلصة الطحينة",
+        "price": 5
+      },
+      {
+        "item": "ساندوتش البيك",
+        "price": 12
+      },
+      {
+        "item": "وجبة جمبري جامبو 12 قطعة",
+        "price": 41.5
+      }
+    ],
+    "price_range": [
+      0.5,
+      41.5
+    ],
+    "source": "ksarestaurantmenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "KFC",
+    "name_ar": "كنتاكي",
+    "category": "وجبات سريعة",
+    "avg_per_person": 30,
+    "menu_highlights": [
+      {
+        "item": "وجبة زنجر ساندويتش",
+        "price": 24
+      },
+      {
+        "item": "وجبة تويستر",
+        "price": 28
+      },
+      {
+        "item": "باكت 8 قطع",
+        "price": 57
+      },
+      {
+        "item": "باكت 12 قطعة",
+        "price": 83
+      },
+      {
+        "item": "وجبة مايتي كرنشر تويست",
+        "price": 31
+      },
+      {
+        "item": "وجبة سوبر ميجا ديل",
+        "price": 75
+      },
+      {
+        "item": "وجبة بالاستربس",
+        "price": 15
+      },
+      {
+        "item": "وجبة سناك بوكس",
+        "price": 15
+      }
+    ],
+    "price_range": [
+      10,
+      163
+    ],
+    "source": "ksarestaurantmenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Kudu",
+    "name_ar": "كودو",
+    "category": "وجبات سريعة",
+    "avg_per_person": 27,
+    "menu_highlights": [
+      {
+        "item": "وجبة كواترو",
+        "price": 29
+      },
+      {
+        "item": "وجبة لفينو دجاج",
+        "price": 27
+      },
+      {
+        "item": "وجبة فيلي ستيك",
+        "price": 32
+      },
+      {
+        "item": "وجبة كلوب ساندوتش",
+        "price": 28
+      },
+      {
+        "item": "ساندوتش تورتيلا كودو",
+        "price": 15
+      },
+      {
+        "item": "فطور كودو",
+        "price": 24
+      },
+      {
+        "item": "سلطة كودو",
+        "price": 19
+      },
+      {
+        "item": "وجبة دجاج مشوي دايت",
+        "price": 26
+      }
+    ],
+    "price_range": [
+      15,
+      32
+    ],
+    "source": "ksarestaurantmenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "McDonald's",
+    "name_ar": "ماكدونالدز",
+    "category": "وجبات سريعة",
+    "avg_per_person": 28,
+    "menu_highlights": [
+      {
+        "item": "بيف برجر",
+        "price": 6
+      },
+      {
+        "item": "وجبة بيج ماك",
+        "price": 28
+      },
+      {
+        "item": "وجبة ماك راب بيري بيري",
+        "price": 21
+      },
+      {
+        "item": "وجبة تشيكن ماك",
+        "price": 29
+      },
+      {
+        "item": "وجبة ماك أرابيا",
+        "price": 25
+      },
+      {
+        "item": "ساندوتش بيج تايستي تشيكن دبل اب",
+        "price": 39
+      },
+      {
+        "item": "وجبة كوارتر باوندر",
+        "price": 28
+      },
+      {
+        "item": "فطور مافن",
+        "price": 7
+      }
+    ],
+    "price_range": [
+      6,
+      39
+    ],
+    "source": "ksarestaurantmenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Shawarmer",
+    "name_ar": "شاورمر",
+    "category": "وجبات سريعة",
+    "avg_per_person": 25,
+    "menu_highlights": [
+      {
+        "item": "أبو الصواريخ",
+        "price": 15
+      },
+      {
+        "item": "شاورما عربي",
+        "price": 7
+      },
+      {
+        "item": "شاورما مفلوقة",
+        "price": 6
+      },
+      {
+        "item": "الراهية وجبة",
+        "price": 31
+      },
+      {
+        "item": "دبل عربو دجاج وجبة",
+        "price": 48
+      },
+      {
+        "item": "الصندوق وجبة",
+        "price": 36
+      },
+      {
+        "item": "العزيمة 30 قطعة",
+        "price": 101
+      },
+      {
+        "item": "تغاميس",
+        "price": 53
+      }
+    ],
+    "price_range": [
+      2,
+      101
+    ],
+    "source": "ksarestaurantmenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Beit Al Shawarma",
+    "name_ar": "بيت الشاورما",
+    "category": "وجبات سريعة",
+    "avg_per_person": 22,
+    "menu_highlights": [
+      {
+        "item": "4 حبات فلافل",
+        "price": 1
+      },
+      {
+        "item": "ميقا شاورما",
+        "price": 17
+      },
+      {
+        "item": "درزن شاورما 12 قطعة",
+        "price": 37
+      },
+      {
+        "item": "بوكس كرانشيز",
+        "price": 31
+      },
+      {
+        "item": "ميني فلافل 10 قطع",
+        "price": 26
+      },
+      {
+        "item": "صحن شاورما كيتو",
+        "price": 28
+      },
+      {
+        "item": "ناشفل ستريبس 3 قطع",
+        "price": 17
+      },
+      {
+        "item": "بروستد عائلي مع 4 بيبسي",
+        "price": 95
+      }
+    ],
+    "price_range": [
+      1,
+      95
+    ],
+    "source": "ksarestaurantmenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Dunkin' Donuts",
+    "name_ar": "دانكن دونتس",
+    "category": "كافيهات",
+    "avg_per_person": 18,
+    "menu_highlights": [
+      {
+        "item": "قهوة دانكن الأصلية",
+        "price": 8
+      },
+      {
+        "item": "كابتشينو",
+        "price": 12
+      },
+      {
+        "item": "آيس كوفي",
+        "price": 12
+      },
+      {
+        "item": "آيس لاتيه",
+        "price": 14
+      },
+      {
+        "item": "كولد برو",
+        "price": 14
+      },
+      {
+        "item": "دونات كلاسك",
+        "price": 5
+      },
+      {
+        "item": "دونات خاصة",
+        "price": 6
+      },
+      {
+        "item": "فرابيه",
+        "price": 17
+      }
+    ],
+    "price_range": [
+      5,
+      17
+    ],
+    "source": "ksarestaurantmenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Tim Hortons",
+    "name_ar": "تيم هورتنز",
+    "category": "كافيهات",
+    "avg_per_person": 20,
+    "menu_highlights": [
+      {
+        "item": "قهوة دارك روست وسط",
+        "price": 12
+      },
+      {
+        "item": "أمريكانو وسط",
+        "price": 16
+      },
+      {
+        "item": "كابتشينو وسط",
+        "price": 20
+      },
+      {
+        "item": "سبانيش لاتيه وسط",
+        "price": 24
+      },
+      {
+        "item": "آيس أمريكانو وسط",
+        "price": 15
+      },
+      {
+        "item": "كولد برو وسط",
+        "price": 14
+      },
+      {
+        "item": "أيسد فرينش فانيلا لاتيه وسط",
+        "price": 23
+      },
+      {
+        "item": "تيمز تيك 5",
+        "price": 55
+      }
+    ],
+    "price_range": [
+      10,
+      139
+    ],
+    "source": "ksarestaurantmenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Starbucks",
+    "name_ar": "ستاربكس",
+    "category": "كافيهات",
+    "avg_per_person": 22,
+    "menu_highlights": [
+      {
+        "item": "كافيه أمريكانو عادي",
+        "price": 12
+      },
+      {
+        "item": "كافيه أمريكانو كبير",
+        "price": 16
+      },
+      {
+        "item": "كافيه لاتيه عادي",
+        "price": 14
+      },
+      {
+        "item": "كافيه لاتيه كبير",
+        "price": 18
+      },
+      {
+        "item": "كابتشينو عادي",
+        "price": 14
+      },
+      {
+        "item": "كابتشينو كبير",
+        "price": 18
+      },
+      {
+        "item": "كراميل ماكياتو",
+        "price": 18
+      },
+      {
+        "item": "فرابتشينو",
+        "price": 22
+      }
+    ],
+    "price_range": [
+      12,
+      28
+    ],
+    "source": "cafes-ksa.arbdar.com / eltalta.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Krispy Kreme",
+    "name_ar": "كريسبي كريم",
+    "category": "حلويات",
+    "avg_per_person": 25,
+    "menu_highlights": [
+      {
+        "item": "أوريجنال جليزد دونات",
+        "price": 6
+      },
+      {
+        "item": "لوتس بيسكوف دونات",
+        "price": 8
+      },
+      {
+        "item": "دونات محشو شوكولاته",
+        "price": 6.5
+      },
+      {
+        "item": "تشيز كيك خاص",
+        "price": 7
+      },
+      {
+        "item": "3 قطع أوريجنال جليزد",
+        "price": 16
+      },
+      {
+        "item": "نصف درزن متنوعة",
+        "price": 34
+      },
+      {
+        "item": "درزن متنوعة",
+        "price": 59
+      },
+      {
+        "item": "درزنين متنوعة",
+        "price": 104
+      }
+    ],
+    "price_range": [
+      4,
+      104
+    ],
+    "source": "ksamenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Baskin Robbins",
+    "name_ar": "باسكن روبنز",
+    "category": "حلويات",
+    "avg_per_person": 25,
+    "menu_highlights": [
+      {
+        "item": "سكوب واحد عادي",
+        "price": 10
+      },
+      {
+        "item": "سكوبين عادي",
+        "price": 17
+      },
+      {
+        "item": "سنداي كلاسك",
+        "price": 19
+      },
+      {
+        "item": "ميلك شيك",
+        "price": 22
+      },
+      {
+        "item": "سموذي فواكه",
+        "price": 20
+      },
+      {
+        "item": "كيك آيس كريم صغير",
+        "price": 75
+      },
+      {
+        "item": "مانجو باشن فروت",
+        "price": 12
+      },
+      {
+        "item": "بانانا سبليت",
+        "price": 24
+      }
+    ],
+    "price_range": [
+      10,
+      120
+    ],
+    "source": "ksarestaurantmenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Domino's Pizza",
+    "name_ar": "دومينوز بيتزا",
+    "category": "وجبات سريعة",
+    "avg_per_person": 30,
+    "menu_highlights": [
+      {
+        "item": "بيتزا مارجريتا صغيرة",
+        "price": 15
+      },
+      {
+        "item": "بيتزا بيبروني كبيرة",
+        "price": 35
+      },
+      {
+        "item": "بيتزا أربعة أجبان كبيرة",
+        "price": 35
+      },
+      {
+        "item": "بيتزا اكسترا فاجانزا وسط",
+        "price": 30
+      },
+      {
+        "item": "قطع دجاج",
+        "price": 25
+      },
+      {
+        "item": "بطاطس ودجز",
+        "price": 12
+      },
+      {
+        "item": "ستافد تشيزي بريد",
+        "price": 25
+      },
+      {
+        "item": "تويست الثوم",
+        "price": 20
+      }
+    ],
+    "price_range": [
+      12,
+      35
+    ],
+    "source": "ksarestaurantmenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Burger King",
+    "name_ar": "برجر كنج",
+    "category": "وجبات سريعة",
+    "avg_per_person": 28,
+    "menu_highlights": [
+      {
+        "item": "تشيز برجر",
+        "price": 15
+      },
+      {
+        "item": "تشيكن برجر",
+        "price": 15
+      },
+      {
+        "item": "وابر جونيور",
+        "price": 16
+      },
+      {
+        "item": "بيج كنج",
+        "price": 19
+      },
+      {
+        "item": "تشيكن رويال مع جبن",
+        "price": 27
+      },
+      {
+        "item": "وابر",
+        "price": 26
+      },
+      {
+        "item": "سلطة كنج الدجاج",
+        "price": 18
+      },
+      {
+        "item": "وجبة وابر",
+        "price": 32
+      }
+    ],
+    "price_range": [
+      15,
+      40
+    ],
+    "source": "rest-ksa.arbdar.com / egyptmenu.net",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Subway",
+    "name_ar": "صب واي",
+    "category": "وجبات سريعة",
+    "avg_per_person": 25,
+    "menu_highlights": [
+      {
+        "item": "ساندوتش 6 إنش تشيكن ترياكي",
+        "price": 18
+      },
+      {
+        "item": "ساندوتش 12 إنش تشيكن ترياكي",
+        "price": 28
+      },
+      {
+        "item": "ساندوتش 6 إنش ستيك وجبن",
+        "price": 20
+      },
+      {
+        "item": "ساندوتش 6 إنش تونة",
+        "price": 16
+      },
+      {
+        "item": "وجبة ساندوتش + بطاطس + مشروب",
+        "price": 24
+      },
+      {
+        "item": "وجبة مشاركة 3 ساندوتشات",
+        "price": 72
+      },
+      {
+        "item": "كوكيز",
+        "price": 5
+      },
+      {
+        "item": "بطاطس ودجيز",
+        "price": 8
+      }
+    ],
+    "price_range": [
+      5,
+      89
+    ],
+    "source": "s3rk.com / ksamenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Address Cafe (عنوان القهوة)",
+    "name_ar": "عنوان القهوة",
+    "category": "كافيهات",
+    "avg_per_person": 18,
+    "menu_highlights": [
+      {
+        "item": "بلاك كوفي - بن برازيلي",
+        "price": 7
+      },
+      {
+        "item": "آيس أمريكانو",
+        "price": 11
+      },
+      {
+        "item": "لاتيه ساخن",
+        "price": 13
+      },
+      {
+        "item": "ماتشا لاتيه",
+        "price": 16
+      },
+      {
+        "item": "بيغل ديك رومي",
+        "price": 14
+      },
+      {
+        "item": "بيغل تونة",
+        "price": 12
+      },
+      {
+        "item": "تشيز كيك جار",
+        "price": 18
+      },
+      {
+        "item": "فستق كوكيز كب",
+        "price": 23
+      }
+    ],
+    "price_range": [
+      7,
+      23
+    ],
+    "source": "ksarestaurantmenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Kyan Cafe",
+    "name_ar": "كيان كافيه",
+    "category": "كافيهات",
+    "avg_per_person": 15,
+    "menu_highlights": [
+      {
+        "item": "إسبريسو",
+        "price": 7
+      },
+      {
+        "item": "لاتيه",
+        "price": 12
+      },
+      {
+        "item": "سبانش لاتيه ساخن",
+        "price": 14
+      },
+      {
+        "item": "آيس شيكن وايت موكا",
+        "price": 17
+      },
+      {
+        "item": "موكا أوريو",
+        "price": 17
+      },
+      {
+        "item": "شاي عادي",
+        "price": 5
+      },
+      {
+        "item": "كوكيز",
+        "price": 8
+      },
+      {
+        "item": "كريب فوتشيني بيستاشيو",
+        "price": 19
+      }
+    ],
+    "price_range": [
+      5,
+      19
+    ],
+    "source": "ksarestaurantmenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Half Million",
+    "name_ar": "هاف مليون",
+    "category": "كافيهات",
+    "avg_per_person": 18,
+    "menu_highlights": [
+      {
+        "item": "آيسد درب قهوة",
+        "price": 7
+      },
+      {
+        "item": "آيسد لاتيه",
+        "price": 12
+      },
+      {
+        "item": "كولد برو",
+        "price": 14
+      },
+      {
+        "item": "لاتيه ساخن",
+        "price": 10
+      },
+      {
+        "item": "ماتشا لاتيه بارد",
+        "price": 16
+      },
+      {
+        "item": "هوت تشوكلت",
+        "price": 16
+      },
+      {
+        "item": "بيغل ديك رومي",
+        "price": 12
+      },
+      {
+        "item": "تونة باني",
+        "price": 16
+      }
+    ],
+    "price_range": [
+      5,
+      120
+    ],
+    "source": "ksarestaurantmenus.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Herfy",
+    "name_ar": "هرفي",
+    "category": "وجبات سريعة",
+    "avg_per_person": 25,
+    "menu_highlights": [
+      {
+        "item": "هرفي برجر",
+        "price": 12
+      },
+      {
+        "item": "هرفي سوبر",
+        "price": 18
+      },
+      {
+        "item": "وجبة هرفي تشكن",
+        "price": 22
+      },
+      {
+        "item": "وجبة هرفي برجر لحم",
+        "price": 24
+      },
+      {
+        "item": "بروستد 4 قطع",
+        "price": 20
+      },
+      {
+        "item": "كبسة دجاج",
+        "price": 22
+      },
+      {
+        "item": "بطاطس عادي",
+        "price": 6
+      },
+      {
+        "item": "فطور هرفي",
+        "price": 15
+      }
+    ],
+    "price_range": [
+      6,
+      45
+    ],
+    "source": "herfy.com / تطبيق هرفي",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Pizza Hut",
+    "name_ar": "بيتزا هت",
+    "category": "وجبات سريعة",
+    "avg_per_person": 35,
+    "menu_highlights": [
+      {
+        "item": "بيتزا شخصية مارجريتا",
+        "price": 14
+      },
+      {
+        "item": "بيتزا وسط سوبر سوبريم",
+        "price": 39
+      },
+      {
+        "item": "بيتزا كبيرة بيبروني",
+        "price": 49
+      },
+      {
+        "item": "باستا ألفريدو",
+        "price": 22
+      },
+      {
+        "item": "أجنحة دجاج 8 قطع",
+        "price": 25
+      },
+      {
+        "item": "جبنة بريد ستكس",
+        "price": 15
+      },
+      {
+        "item": "عرض العائلة",
+        "price": 79
+      },
+      {
+        "item": "بيتزا ستافد كرست كبيرة",
+        "price": 59
+      }
+    ],
+    "price_range": [
+      14,
+      79
+    ],
+    "source": "pizzahut.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Papa John's",
+    "name_ar": "بابا جونز",
+    "category": "وجبات سريعة",
+    "avg_per_person": 32,
+    "menu_highlights": [
+      {
+        "item": "بيتزا بيبروني وسط",
+        "price": 29
+      },
+      {
+        "item": "بيتزا بيبروني كبيرة",
+        "price": 39
+      },
+      {
+        "item": "بيتزا جاردن فريش",
+        "price": 32
+      },
+      {
+        "item": "بيتزا سوبر بابا",
+        "price": 42
+      },
+      {
+        "item": "أجنحة دجاج",
+        "price": 22
+      },
+      {
+        "item": "جبنة بريد ستكس",
+        "price": 15
+      },
+      {
+        "item": "عرض 2 بيتزا كبيرة",
+        "price": 69
+      },
+      {
+        "item": "بيتزا بافلو تشكن",
+        "price": 35
+      }
+    ],
+    "price_range": [
+      15,
+      69
+    ],
+    "source": "papajohns.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Little Caesars",
+    "name_ar": "ليتل سيزرز",
+    "category": "وجبات سريعة",
+    "avg_per_person": 22,
+    "menu_highlights": [
+      {
+        "item": "بيتزا بيبروني هوت أند ريدي",
+        "price": 18
+      },
+      {
+        "item": "بيتزا جبنة هوت أند ريدي",
+        "price": 15
+      },
+      {
+        "item": "ديب ديش",
+        "price": 25
+      },
+      {
+        "item": "بيتزا سوبريم",
+        "price": 29
+      },
+      {
+        "item": "كريزي بريد",
+        "price": 9
+      },
+      {
+        "item": "إيطاليان كريزي بريد",
+        "price": 12
+      },
+      {
+        "item": "أجنحة دجاج 8 قطع",
+        "price": 20
+      },
+      {
+        "item": "بيبسي 1 لتر",
+        "price": 5
+      }
+    ],
+    "price_range": [
+      5,
+      29
+    ],
+    "source": "littlecaesars.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Maestro Pizza",
+    "name_ar": "مايسترو بيتزا",
+    "category": "وجبات سريعة",
+    "avg_per_person": 25,
+    "menu_highlights": [
+      {
+        "item": "بيتزا مايسترو صغيرة",
+        "price": 15
+      },
+      {
+        "item": "بيتزا مايسترو كبيرة",
+        "price": 29
+      },
+      {
+        "item": "بيتزا رانش دجاج",
+        "price": 32
+      },
+      {
+        "item": "فطيرة تركية",
+        "price": 19
+      },
+      {
+        "item": "باستا مايسترو",
+        "price": 18
+      },
+      {
+        "item": "أجنحة دجاج",
+        "price": 19
+      },
+      {
+        "item": "عرض 2 بيتزا + مشروب",
+        "price": 45
+      },
+      {
+        "item": "بطاطس ودجز",
+        "price": 8
+      }
+    ],
+    "price_range": [
+      8,
+      45
+    ],
+    "source": "maestropizza.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Popeyes",
+    "name_ar": "بوبايز",
+    "category": "وجبات سريعة",
+    "avg_per_person": 28,
+    "menu_highlights": [
+      {
+        "item": "ساندوتش تشكن",
+        "price": 15
+      },
+      {
+        "item": "وجبة 2 قطع دجاج",
+        "price": 19
+      },
+      {
+        "item": "وجبة 3 قطع دجاج",
+        "price": 24
+      },
+      {
+        "item": "وجبة 5 قطع دجاج",
+        "price": 35
+      },
+      {
+        "item": "تندرز 3 قطع",
+        "price": 18
+      },
+      {
+        "item": "بطاطس كاجن",
+        "price": 7
+      },
+      {
+        "item": "عرض عائلي 8 قطع",
+        "price": 55
+      },
+      {
+        "item": "بسكويت بالزبدة",
+        "price": 3
+      }
+    ],
+    "price_range": [
+      3,
+      55
+    ],
+    "source": "popeyes.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Texas Chicken",
+    "name_ar": "تكساس تشكن",
+    "category": "وجبات سريعة",
+    "avg_per_person": 26,
+    "menu_highlights": [
+      {
+        "item": "ساندوتش سبايسي تشكن",
+        "price": 14
+      },
+      {
+        "item": "وجبة 2 قطع دجاج",
+        "price": 20
+      },
+      {
+        "item": "وجبة 3 قطع دجاج",
+        "price": 27
+      },
+      {
+        "item": "تندرز وجبة",
+        "price": 22
+      },
+      {
+        "item": "بسكت عسل وزبدة",
+        "price": 4
+      },
+      {
+        "item": "عرض عائلي",
+        "price": 59
+      },
+      {
+        "item": "بطاطس مقلية",
+        "price": 7
+      },
+      {
+        "item": "كول سلو",
+        "price": 5
+      }
+    ],
+    "price_range": [
+      4,
+      59
+    ],
+    "source": "texaschicken.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Wingstop",
+    "name_ar": "وينغ ستوب",
+    "category": "وجبات سريعة",
+    "avg_per_person": 35,
+    "menu_highlights": [
+      {
+        "item": "6 أجنحة كلاسك",
+        "price": 28
+      },
+      {
+        "item": "10 أجنحة كلاسك",
+        "price": 42
+      },
+      {
+        "item": "20 أجنحة عرض",
+        "price": 75
+      },
+      {
+        "item": "6 بونلس",
+        "price": 25
+      },
+      {
+        "item": "تندرز 3 قطع",
+        "price": 20
+      },
+      {
+        "item": "بطاطس كاجن",
+        "price": 10
+      },
+      {
+        "item": "كول سلو",
+        "price": 6
+      },
+      {
+        "item": "كومبو فردي",
+        "price": 38
+      }
+    ],
+    "price_range": [
+      6,
+      75
+    ],
+    "source": "wingstop.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Five Guys",
+    "name_ar": "فايف قايز",
+    "category": "وجبات سريعة",
+    "avg_per_person": 55,
+    "menu_highlights": [
+      {
+        "item": "تشيز برجر",
+        "price": 42
+      },
+      {
+        "item": "ليتل تشيز برجر",
+        "price": 32
+      },
+      {
+        "item": "هوت دوج",
+        "price": 22
+      },
+      {
+        "item": "بطاطس عادي",
+        "price": 18
+      },
+      {
+        "item": "بطاطس كبير",
+        "price": 24
+      },
+      {
+        "item": "ميلك شيك",
+        "price": 28
+      },
+      {
+        "item": "غريلد تشيز",
+        "price": 22
+      },
+      {
+        "item": "بيكون تشيز برجر",
+        "price": 49
+      }
+    ],
+    "price_range": [
+      18,
+      49
+    ],
+    "source": "fiveguys.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Shake Shack",
+    "name_ar": "شيك شاك",
+    "category": "وجبات سريعة",
+    "avg_per_person": 50,
+    "menu_highlights": [
+      {
+        "item": "شاك برجر",
+        "price": 29
+      },
+      {
+        "item": "شاك برجر دبل",
+        "price": 42
+      },
+      {
+        "item": "تشكن شاك",
+        "price": 28
+      },
+      {
+        "item": "فرايز عادي",
+        "price": 14
+      },
+      {
+        "item": "تشيز فرايز",
+        "price": 18
+      },
+      {
+        "item": "كونكريت كاستارد",
+        "price": 22
+      },
+      {
+        "item": "شيك شاك ميلك شيك",
+        "price": 24
+      },
+      {
+        "item": "سموك شاك",
+        "price": 38
+      }
+    ],
+    "price_range": [
+      14,
+      42
+    ],
+    "source": "shakeshack.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Fuddruckers",
+    "name_ar": "فدركرز",
+    "category": "مطاعم عالمية",
+    "avg_per_person": 45,
+    "menu_highlights": [
+      {
+        "item": "برجر 1/3 باوند",
+        "price": 29
+      },
+      {
+        "item": "برجر 1/2 باوند",
+        "price": 35
+      },
+      {
+        "item": "برجر 1 باوند",
+        "price": 49
+      },
+      {
+        "item": "تشكن ساندوتش",
+        "price": 32
+      },
+      {
+        "item": "فيلي تشيز ستيك",
+        "price": 38
+      },
+      {
+        "item": "سلطة سيزر",
+        "price": 22
+      },
+      {
+        "item": "بطاطس مقلية",
+        "price": 12
+      },
+      {
+        "item": "ميلك شيك",
+        "price": 20
+      }
+    ],
+    "price_range": [
+      12,
+      49
+    ],
+    "source": "fuddruckers.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Chili's",
+    "name_ar": "تشيليز",
+    "category": "مطاعم عالمية",
+    "avg_per_person": 70,
+    "menu_highlights": [
+      {
+        "item": "برجر بيج ماوث",
+        "price": 49
+      },
+      {
+        "item": "فاهيتا دجاج",
+        "price": 59
+      },
+      {
+        "item": "ريب آي ستيك",
+        "price": 89
+      },
+      {
+        "item": "كريسبي تشكن كريسبرز",
+        "price": 45
+      },
+      {
+        "item": "مولتن كيك شوكولاته",
+        "price": 29
+      },
+      {
+        "item": "تشيبس أند سالسا",
+        "price": 22
+      },
+      {
+        "item": "قيساديا دجاج",
+        "price": 39
+      },
+      {
+        "item": "باستا كاجن تشكن",
+        "price": 49
+      }
+    ],
+    "price_range": [
+      22,
+      120
+    ],
+    "source": "chilis.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Applebee's",
+    "name_ar": "آبل بيز",
+    "category": "مطاعم عالمية",
+    "avg_per_person": 65,
+    "menu_highlights": [
+      {
+        "item": "كلاسك برجر",
+        "price": 42
+      },
+      {
+        "item": "أورينتال تشكن سلاد",
+        "price": 39
+      },
+      {
+        "item": "ريبليت",
+        "price": 59
+      },
+      {
+        "item": "فاهيتا دجاج",
+        "price": 55
+      },
+      {
+        "item": "تشكن تندرز",
+        "price": 42
+      },
+      {
+        "item": "باستا ألفريدو",
+        "price": 45
+      },
+      {
+        "item": "سبيناتش ديب",
+        "price": 29
+      },
+      {
+        "item": "تشيز كيك",
+        "price": 28
+      }
+    ],
+    "price_range": [
+      28,
+      89
+    ],
+    "source": "applebees.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "TGI Friday's",
+    "name_ar": "فرايديز",
+    "category": "مطاعم عالمية",
+    "avg_per_person": 75,
+    "menu_highlights": [
+      {
+        "item": "جاك دانيلز ريبز",
+        "price": 85
+      },
+      {
+        "item": "فرايديز برجر",
+        "price": 49
+      },
+      {
+        "item": "تشكن فينقرز",
+        "price": 45
+      },
+      {
+        "item": "قيساديا",
+        "price": 39
+      },
+      {
+        "item": "فاهيتا لحم",
+        "price": 65
+      },
+      {
+        "item": "سيزر سلاد",
+        "price": 35
+      },
+      {
+        "item": "بروني صنداي",
+        "price": 32
+      },
+      {
+        "item": "باستا كريمة الدجاج",
+        "price": 49
+      }
+    ],
+    "price_range": [
+      32,
+      110
+    ],
+    "source": "tgifridays.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "The Cheesecake Factory",
+    "name_ar": "ذا تشيز كيك فاكتوري",
+    "category": "مطاعم عالمية",
+    "avg_per_person": 95,
+    "menu_highlights": [
+      {
+        "item": "أورجينال تشيز كيك",
+        "price": 39
+      },
+      {
+        "item": "أفوكادو إيج رولز",
+        "price": 49
+      },
+      {
+        "item": "فيش أند تشيبس",
+        "price": 69
+      },
+      {
+        "item": "باستا دا فنشي",
+        "price": 65
+      },
+      {
+        "item": "غلامبرغر",
+        "price": 72
+      },
+      {
+        "item": "تشكن مدراس",
+        "price": 65
+      },
+      {
+        "item": "ستيك",
+        "price": 129
+      },
+      {
+        "item": "سبانش لاتيه شيك",
+        "price": 32
+      }
+    ],
+    "price_range": [
+      32,
+      150
+    ],
+    "source": "thecheesecakefactory.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "PF Chang's",
+    "name_ar": "بي إف تشانغز",
+    "category": "مطاعم عالمية",
+    "avg_per_person": 80,
+    "menu_highlights": [
+      {
+        "item": "تشكن ليترس رابس",
+        "price": 42
+      },
+      {
+        "item": "دينامايت شريمب",
+        "price": 49
+      },
+      {
+        "item": "كونغ باو تشكن",
+        "price": 62
+      },
+      {
+        "item": "مونغوليان بيف",
+        "price": 69
+      },
+      {
+        "item": "باد تاي",
+        "price": 55
+      },
+      {
+        "item": "فرايد رايس",
+        "price": 39
+      },
+      {
+        "item": "سبرنغ رولز",
+        "price": 35
+      },
+      {
+        "item": "غريت وول أوف شوكلت",
+        "price": 42
+      }
+    ],
+    "price_range": [
+      35,
+      95
+    ],
+    "source": "pfchangs.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Nando's",
+    "name_ar": "ناندوز",
+    "category": "مطاعم عالمية",
+    "avg_per_person": 55,
+    "menu_highlights": [
+      {
+        "item": "ربع دجاج",
+        "price": 22
+      },
+      {
+        "item": "نصف دجاج",
+        "price": 35
+      },
+      {
+        "item": "دجاج كامل",
+        "price": 59
+      },
+      {
+        "item": "وينغز 5 قطع",
+        "price": 25
+      },
+      {
+        "item": "بيري بيري تشكن راب",
+        "price": 29
+      },
+      {
+        "item": "سبايسي رايس",
+        "price": 12
+      },
+      {
+        "item": "كول سلو",
+        "price": 9
+      },
+      {
+        "item": "عرض العائلة",
+        "price": 99
+      }
+    ],
+    "price_range": [
+      9,
+      99
+    ],
+    "source": "nandos.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Wagamama",
+    "name_ar": "واقاماما",
+    "category": "مطاعم عالمية",
+    "avg_per_person": 65,
+    "menu_highlights": [
+      {
+        "item": "كاتسو كاري دجاج",
+        "price": 52
+      },
+      {
+        "item": "رامن دجاج",
+        "price": 45
+      },
+      {
+        "item": "باد تاي",
+        "price": 49
+      },
+      {
+        "item": "ياكيسوبا",
+        "price": 45
+      },
+      {
+        "item": "تشلي سكويد",
+        "price": 42
+      },
+      {
+        "item": "إدامامي",
+        "price": 22
+      },
+      {
+        "item": "جيوزا دجاج",
+        "price": 29
+      },
+      {
+        "item": "بانانا كاتسو",
+        "price": 28
+      }
+    ],
+    "price_range": [
+      22,
+      65
+    ],
+    "source": "wagamama.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Outback Steakhouse",
+    "name_ar": "أوتباك ستيك هاوس",
+    "category": "مطاعم عالمية",
+    "avg_per_person": 95,
+    "menu_highlights": [
+      {
+        "item": "فيكتوريا فيليه 8 أونص",
+        "price": 109
+      },
+      {
+        "item": "ريب آي ستيك",
+        "price": 129
+      },
+      {
+        "item": "بلومين أونيون",
+        "price": 35
+      },
+      {
+        "item": "ألس كلام تشاودر",
+        "price": 29
+      },
+      {
+        "item": "بيبي باك ريبز",
+        "price": 89
+      },
+      {
+        "item": "غريلد تشكن",
+        "price": 55
+      },
+      {
+        "item": "سيزر سلاد",
+        "price": 32
+      },
+      {
+        "item": "تشوكلت ثاندر فروم داون أندر",
+        "price": 35
+      }
+    ],
+    "price_range": [
+      29,
+      159
+    ],
+    "source": "outback.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Cinnabon",
+    "name_ar": "سينابون",
+    "category": "حلويات",
+    "avg_per_person": 22,
+    "menu_highlights": [
+      {
+        "item": "كلاسك سينابون",
+        "price": 14
+      },
+      {
+        "item": "ميني بون 4 قطع",
+        "price": 18
+      },
+      {
+        "item": "سنتربون",
+        "price": 8
+      },
+      {
+        "item": "كراميل بيكان بون",
+        "price": 16
+      },
+      {
+        "item": "تشوكوبون",
+        "price": 16
+      },
+      {
+        "item": "بون بايتس 6 قطع",
+        "price": 14
+      },
+      {
+        "item": "آيسد أمريكانو",
+        "price": 12
+      },
+      {
+        "item": "موكاتشينو",
+        "price": 16
+      }
+    ],
+    "price_range": [
+      8,
+      22
+    ],
+    "source": "cinnabon.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Chocolatier",
+    "name_ar": "شوكولاتييه",
+    "category": "حلويات",
+    "avg_per_person": 30,
+    "menu_highlights": [
+      {
+        "item": "كيكة شوكولاته",
+        "price": 25
+      },
+      {
+        "item": "ايكلير",
+        "price": 12
+      },
+      {
+        "item": "ماكرون 6 قطع",
+        "price": 30
+      },
+      {
+        "item": "تشوكلت فونتيه فردي",
+        "price": 35
+      },
+      {
+        "item": "براونيز",
+        "price": 15
+      },
+      {
+        "item": "هوت شوكلت",
+        "price": 18
+      },
+      {
+        "item": "تشيز كيك",
+        "price": 22
+      },
+      {
+        "item": "بوكس شوكولاته 250 جم",
+        "price": 65
+      }
+    ],
+    "price_range": [
+      12,
+      120
+    ],
+    "source": "chocolatier.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Al Mansaf Restaurant",
+    "name_ar": "مطعم المنسف",
+    "category": "مطاعم شعبية",
+    "avg_per_person": 55,
+    "menu_highlights": [
+      {
+        "item": "منسف لحم نفر",
+        "price": 65
+      },
+      {
+        "item": "مندي لحم نفر",
+        "price": 55
+      },
+      {
+        "item": "مندي دجاج نفر",
+        "price": 35
+      },
+      {
+        "item": "مضغوط لحم نفر",
+        "price": 60
+      },
+      {
+        "item": "كبسة لحم نفر",
+        "price": 55
+      },
+      {
+        "item": "مشويات مشكل",
+        "price": 45
+      },
+      {
+        "item": "سلطة فتوش",
+        "price": 10
+      },
+      {
+        "item": "حمص",
+        "price": 8
+      }
+    ],
+    "price_range": [
+      8,
+      65
+    ],
+    "source": "rest-ksa.arbdar.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Luigan (Loigan)",
+    "name_ar": "لويقان",
+    "category": "مطاعم شعبية",
+    "avg_per_person": 45,
+    "menu_highlights": [
+      {
+        "item": "كبسة حاشي نفر",
+        "price": 55
+      },
+      {
+        "item": "كبسة دجاج",
+        "price": 30
+      },
+      {
+        "item": "مضغوط لحم",
+        "price": 55
+      },
+      {
+        "item": "مندي دجاج",
+        "price": 30
+      },
+      {
+        "item": "مشوي لحم نفر",
+        "price": 60
+      },
+      {
+        "item": "سلطة عربية",
+        "price": 8
+      },
+      {
+        "item": "شوربة لحم",
+        "price": 12
+      },
+      {
+        "item": "رز بخاري",
+        "price": 10
+      }
+    ],
+    "price_range": [
+      8,
+      60
+    ],
+    "source": "rest-ksa.arbdar.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Al Romansiah",
+    "name_ar": "الرومانسية",
+    "category": "مطاعم شعبية",
+    "avg_per_person": 40,
+    "menu_highlights": [
+      {
+        "item": "كبسة دجاج",
+        "price": 25
+      },
+      {
+        "item": "مندي لحم نفر",
+        "price": 55
+      },
+      {
+        "item": "مضغوط دجاج",
+        "price": 28
+      },
+      {
+        "item": "مظبي لحم نفر",
+        "price": 60
+      },
+      {
+        "item": "ربيان مقلي",
+        "price": 35
+      },
+      {
+        "item": "حنيذ لحم",
+        "price": 55
+      },
+      {
+        "item": "سمبوسة 5 قطع",
+        "price": 10
+      },
+      {
+        "item": "سلطة فتوش",
+        "price": 10
+      }
+    ],
+    "price_range": [
+      8,
+      60
+    ],
+    "source": "alromansiah.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Al Tawasol (التواصل)",
+    "name_ar": "التواصل",
+    "category": "مطاعم شعبية",
+    "avg_per_person": 35,
+    "menu_highlights": [
+      {
+        "item": "مندي دجاج",
+        "price": 28
+      },
+      {
+        "item": "مندي لحم نفر",
+        "price": 50
+      },
+      {
+        "item": "كبسة دجاج",
+        "price": 25
+      },
+      {
+        "item": "مظبي دجاج",
+        "price": 30
+      },
+      {
+        "item": "حنيذ لحم",
+        "price": 55
+      },
+      {
+        "item": "سمبوسة",
+        "price": 8
+      },
+      {
+        "item": "شوربة",
+        "price": 10
+      },
+      {
+        "item": "فتة باللحم",
+        "price": 18
+      }
+    ],
+    "price_range": [
+      8,
+      55
+    ],
+    "source": "rest-ksa.arbdar.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Al Bahar Restaurant",
+    "name_ar": "مطعم البحار",
+    "category": "مطاعم شعبية",
+    "avg_per_person": 55,
+    "menu_highlights": [
+      {
+        "item": "سمك مشوي",
+        "price": 45
+      },
+      {
+        "item": "ربيان مقلي",
+        "price": 35
+      },
+      {
+        "item": "صيادية سمك",
+        "price": 40
+      },
+      {
+        "item": "سلطة بحرية",
+        "price": 22
+      },
+      {
+        "item": "حبار مقلي",
+        "price": 30
+      },
+      {
+        "item": "سمك فيليه",
+        "price": 42
+      },
+      {
+        "item": "شوربة بحرية",
+        "price": 18
+      },
+      {
+        "item": "سمك حامض حلو",
+        "price": 45
+      }
+    ],
+    "price_range": [
+      18,
+      55
+    ],
+    "source": "rest-ksa.arbdar.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Kudu Café",
+    "name_ar": "كودو كافيه",
+    "category": "كافيهات",
+    "avg_per_person": 20,
+    "menu_highlights": [
+      {
+        "item": "أمريكانو",
+        "price": 10
+      },
+      {
+        "item": "لاتيه",
+        "price": 14
+      },
+      {
+        "item": "كابتشينو",
+        "price": 14
+      },
+      {
+        "item": "آيس لاتيه",
+        "price": 15
+      },
+      {
+        "item": "موكا",
+        "price": 16
+      },
+      {
+        "item": "هوت شوكلت",
+        "price": 15
+      },
+      {
+        "item": "شاي أخضر",
+        "price": 8
+      },
+      {
+        "item": "كروسان",
+        "price": 10
+      }
+    ],
+    "price_range": [
+      8,
+      18
+    ],
+    "source": "kudu.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "%Arabica",
+    "name_ar": "أرابيكا",
+    "category": "كافيهات",
+    "avg_per_person": 25,
+    "menu_highlights": [
+      {
+        "item": "إسبريسو",
+        "price": 12
+      },
+      {
+        "item": "لاتيه",
+        "price": 18
+      },
+      {
+        "item": "كابتشينو",
+        "price": 18
+      },
+      {
+        "item": "آيس لاتيه",
+        "price": 20
+      },
+      {
+        "item": "ماتشا لاتيه",
+        "price": 22
+      },
+      {
+        "item": "آيس أمريكانو",
+        "price": 15
+      },
+      {
+        "item": "سبانش لاتيه",
+        "price": 22
+      },
+      {
+        "item": "دارك موكا",
+        "price": 22
+      }
+    ],
+    "price_range": [
+      12,
+      25
+    ],
+    "source": "arabica.coffee",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Camel Step Coffee",
+    "name_ar": "كامل ستب كوفي",
+    "category": "كافيهات",
+    "avg_per_person": 20,
+    "menu_highlights": [
+      {
+        "item": "أمريكانو",
+        "price": 10
+      },
+      {
+        "item": "لاتيه",
+        "price": 15
+      },
+      {
+        "item": "فلات وايت",
+        "price": 15
+      },
+      {
+        "item": "آيس لاتيه",
+        "price": 17
+      },
+      {
+        "item": "سبانش لاتيه",
+        "price": 19
+      },
+      {
+        "item": "كابتشينو",
+        "price": 15
+      },
+      {
+        "item": "ماتشا",
+        "price": 20
+      },
+      {
+        "item": "كروسان",
+        "price": 10
+      }
+    ],
+    "price_range": [
+      8,
+      22
+    ],
+    "source": "camelstepcoffee.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Dose Cafe",
+    "name_ar": "دوز كافيه",
+    "category": "كافيهات",
+    "avg_per_person": 22,
+    "menu_highlights": [
+      {
+        "item": "أمريكانو",
+        "price": 12
+      },
+      {
+        "item": "لاتيه",
+        "price": 16
+      },
+      {
+        "item": "آيس لاتيه",
+        "price": 18
+      },
+      {
+        "item": "سبانش لاتيه",
+        "price": 20
+      },
+      {
+        "item": "كولد برو",
+        "price": 18
+      },
+      {
+        "item": "ماتشا لاتيه",
+        "price": 22
+      },
+      {
+        "item": "كوكيز",
+        "price": 10
+      },
+      {
+        "item": "كروسان",
+        "price": 14
+      }
+    ],
+    "price_range": [
+      10,
+      24
+    ],
+    "source": "dosecafe.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Rafees Specialty Coffee",
+    "name_ar": "رفيز سبيشالتي كوفي",
+    "category": "كافيهات",
+    "avg_per_person": 22,
+    "menu_highlights": [
+      {
+        "item": "أمريكانو",
+        "price": 12
+      },
+      {
+        "item": "لاتيه",
+        "price": 16
+      },
+      {
+        "item": "فلات وايت",
+        "price": 16
+      },
+      {
+        "item": "V60",
+        "price": 20
+      },
+      {
+        "item": "آيس لاتيه",
+        "price": 18
+      },
+      {
+        "item": "كولد برو",
+        "price": 18
+      },
+      {
+        "item": "ماتشا لاتيه",
+        "price": 22
+      },
+      {
+        "item": "كوكيز",
+        "price": 10
+      }
+    ],
+    "price_range": [
+      10,
+      24
+    ],
+    "source": "rafees.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Nusret (Salt Bae)",
+    "name_ar": "نصرت",
+    "category": "مطاعم فاخرة",
+    "avg_per_person": 350,
+    "menu_highlights": [
+      {
+        "item": "ستيك بورغينيون",
+        "price": 250
+      },
+      {
+        "item": "تومهوك ستيك",
+        "price": 450
+      },
+      {
+        "item": "غولدن ستيك",
+        "price": 1200
+      },
+      {
+        "item": "برجر نصرت",
+        "price": 120
+      },
+      {
+        "item": "لوكوم كباب",
+        "price": 160
+      },
+      {
+        "item": "بانانا باشن",
+        "price": 85
+      },
+      {
+        "item": "باكلافا نصرت",
+        "price": 95
+      },
+      {
+        "item": "سلطة نصرت",
+        "price": 75
+      }
+    ],
+    "price_range": [
+      75,
+      1200
+    ],
+    "source": "nusr-et.com.tr",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Hakasan",
+    "name_ar": "هاكاسان",
+    "category": "مطاعم فاخرة",
+    "avg_per_person": 300,
+    "menu_highlights": [
+      {
+        "item": "ديم سم مشكل",
+        "price": 120
+      },
+      {
+        "item": "بط بيكينغ",
+        "price": 280
+      },
+      {
+        "item": "جمبري بالفلفل",
+        "price": 150
+      },
+      {
+        "item": "لوبستر",
+        "price": 320
+      },
+      {
+        "item": "واقيو بيف",
+        "price": 250
+      },
+      {
+        "item": "أرز مقلي مشكل",
+        "price": 85
+      },
+      {
+        "item": "جاسمين تي كيك",
+        "price": 65
+      },
+      {
+        "item": "توفي بانانا",
+        "price": 55
+      }
+    ],
+    "price_range": [
+      55,
+      450
+    ],
+    "source": "hakasan.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Antica",
+    "name_ar": "أنتيكا",
+    "category": "مطاعم فاخرة",
+    "avg_per_person": 200,
+    "menu_highlights": [
+      {
+        "item": "بيتزا تراتوريا",
+        "price": 65
+      },
+      {
+        "item": "باستا ترافل",
+        "price": 120
+      },
+      {
+        "item": "ريزوتو بالفطر",
+        "price": 95
+      },
+      {
+        "item": "فيليه لحم",
+        "price": 180
+      },
+      {
+        "item": "كاربتشيو لحم",
+        "price": 75
+      },
+      {
+        "item": "تيراميسو",
+        "price": 55
+      },
+      {
+        "item": "بانا كوتا",
+        "price": 45
+      },
+      {
+        "item": "بروسكيتا",
+        "price": 55
+      }
+    ],
+    "price_range": [
+      45,
+      250
+    ],
+    "source": "antica-restaurant.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "LPM Restaurant",
+    "name_ar": "لا بيتيت ميزون",
+    "category": "مطاعم فاخرة",
+    "avg_per_person": 250,
+    "menu_highlights": [
+      {
+        "item": "سلطة نيسواز",
+        "price": 85
+      },
+      {
+        "item": "تارتار سلمون",
+        "price": 95
+      },
+      {
+        "item": "بران دو بار",
+        "price": 180
+      },
+      {
+        "item": "ستيك فريت",
+        "price": 195
+      },
+      {
+        "item": "دوراد غريلي",
+        "price": 165
+      },
+      {
+        "item": "تارت أو سيترون",
+        "price": 55
+      },
+      {
+        "item": "كريم بروليه",
+        "price": 45
+      },
+      {
+        "item": "بيبي جيم سلاد",
+        "price": 65
+      }
+    ],
+    "price_range": [
+      45,
+      350
+    ],
+    "source": "lpmrestaurants.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Coya Riyadh",
+    "name_ar": "كويا الرياض",
+    "category": "مطاعم فاخرة",
+    "avg_per_person": 250,
+    "menu_highlights": [
+      {
+        "item": "سيفيتشي",
+        "price": 85
+      },
+      {
+        "item": "تاكوز واقيو",
+        "price": 120
+      },
+      {
+        "item": "لوبستر أنتيكوتشو",
+        "price": 175
+      },
+      {
+        "item": "واقيو لومو",
+        "price": 220
+      },
+      {
+        "item": "سي باس تيراديتو",
+        "price": 95
+      },
+      {
+        "item": "كويا سلاد",
+        "price": 55
+      },
+      {
+        "item": "تريس ليتشس كيك",
+        "price": 55
+      },
+      {
+        "item": "كاراميل فلان",
+        "price": 45
+      }
+    ],
+    "price_range": [
+      45,
+      350
+    ],
+    "source": "coyarestaurant.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Hakkasan Riyadh",
+    "name_ar": "هاكاسان الرياض",
+    "category": "مطاعم فاخرة",
+    "avg_per_person": 280,
+    "menu_highlights": [
+      {
+        "item": "هار غاو",
+        "price": 65
+      },
+      {
+        "item": "تشيلي بريدج",
+        "price": 85
+      },
+      {
+        "item": "غريلد تشيلي بيف",
+        "price": 180
+      },
+      {
+        "item": "ستير فراي لوبستر",
+        "price": 250
+      },
+      {
+        "item": "بلاك بيبر ريب آي",
+        "price": 220
+      },
+      {
+        "item": "كريسبي داك سلاد",
+        "price": 95
+      },
+      {
+        "item": "إيج تارت",
+        "price": 45
+      },
+      {
+        "item": "باكلاو مع آيس كريم",
+        "price": 55
+      }
+    ],
+    "price_range": [
+      45,
+      380
+    ],
+    "source": "hakkasan.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Carbone Riyadh",
+    "name_ar": "كاربوني الرياض",
+    "category": "مطاعم فاخرة",
+    "avg_per_person": 300,
+    "menu_highlights": [
+      {
+        "item": "سباغيتي فودكا",
+        "price": 95
+      },
+      {
+        "item": "ريقاتوني ألا فودكا",
+        "price": 110
+      },
+      {
+        "item": "فيل مارسالا",
+        "price": 185
+      },
+      {
+        "item": "لوبستر فرا ديافولو",
+        "price": 295
+      },
+      {
+        "item": "سيزر سلاد",
+        "price": 65
+      },
+      {
+        "item": "كوكتيل شريمب",
+        "price": 95
+      },
+      {
+        "item": "تيراميسو",
+        "price": 55
+      },
+      {
+        "item": "كارنيفال كيك",
+        "price": 65
+      }
+    ],
+    "price_range": [
+      55,
+      400
+    ],
+    "source": "carbonenewyork.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Scalini",
+    "name_ar": "سكاليني",
+    "category": "مطاعم فاخرة",
+    "avg_per_person": 180,
+    "menu_highlights": [
+      {
+        "item": "بيتزا مارجريتا",
+        "price": 55
+      },
+      {
+        "item": "باستا كاربونارا",
+        "price": 75
+      },
+      {
+        "item": "ريزوتو بورشيني",
+        "price": 85
+      },
+      {
+        "item": "فيليه ميجنون",
+        "price": 165
+      },
+      {
+        "item": "سلمون غريل",
+        "price": 120
+      },
+      {
+        "item": "بروسكيتا",
+        "price": 45
+      },
+      {
+        "item": "تيراميسو",
+        "price": 42
+      },
+      {
+        "item": "سيزر سلاد",
+        "price": 45
+      }
+    ],
+    "price_range": [
+      42,
+      200
+    ],
+    "source": "scalini.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Tatami Room",
+    "name_ar": "تاتامي روم",
+    "category": "مطاعم فاخرة",
+    "avg_per_person": 180,
+    "menu_highlights": [
+      {
+        "item": "سوشي مشكل 12 قطعة",
+        "price": 85
+      },
+      {
+        "item": "ساشيمي سلمون",
+        "price": 65
+      },
+      {
+        "item": "تمبورا مشكل",
+        "price": 55
+      },
+      {
+        "item": "واقيو تيبانياكي",
+        "price": 220
+      },
+      {
+        "item": "رامن تونكوتسو",
+        "price": 55
+      },
+      {
+        "item": "إدامامي",
+        "price": 25
+      },
+      {
+        "item": "ماتشا تشيز كيك",
+        "price": 42
+      },
+      {
+        "item": "روبيان تمبورا",
+        "price": 65
+      }
+    ],
+    "price_range": [
+      25,
+      280
+    ],
+    "source": "tatamiroom.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Takya",
+    "name_ar": "تكية",
+    "category": "مطاعم شعبية",
+    "avg_per_person": 35,
+    "menu_highlights": [
+      {
+        "item": "فول تكية",
+        "price": 12
+      },
+      {
+        "item": "حمص بالطحينة",
+        "price": 10
+      },
+      {
+        "item": "شاورما دجاج",
+        "price": 8
+      },
+      {
+        "item": "كبة مقلية 5 قطع",
+        "price": 15
+      },
+      {
+        "item": "فتة حمص باللحم",
+        "price": 25
+      },
+      {
+        "item": "مسخن دجاج",
+        "price": 22
+      },
+      {
+        "item": "فلافل ساندوتش",
+        "price": 7
+      },
+      {
+        "item": "مقلوبة",
+        "price": 30
+      }
+    ],
+    "price_range": [
+      7,
+      35
+    ],
+    "source": "rest-ksa.arbdar.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Al Shami Restaurant",
+    "name_ar": "مطعم الشامي",
+    "category": "مطاعم شعبية",
+    "avg_per_person": 30,
+    "menu_highlights": [
+      {
+        "item": "شاورما لحم عربي",
+        "price": 6
+      },
+      {
+        "item": "فتة باللحم",
+        "price": 18
+      },
+      {
+        "item": "كبة مقلية",
+        "price": 12
+      },
+      {
+        "item": "دجاج مشوي نصف",
+        "price": 22
+      },
+      {
+        "item": "فتوش",
+        "price": 10
+      },
+      {
+        "item": "حمص",
+        "price": 8
+      },
+      {
+        "item": "كبسة دجاج",
+        "price": 25
+      },
+      {
+        "item": "شيش طاووق",
+        "price": 30
+      }
+    ],
+    "price_range": [
+      6,
+      35
+    ],
+    "source": "rest-ksa.arbdar.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Al Rayyan Restaurant",
+    "name_ar": "مطعم الريان",
+    "category": "مطاعم شعبية",
+    "avg_per_person": 35,
+    "menu_highlights": [
+      {
+        "item": "مندي دجاج",
+        "price": 28
+      },
+      {
+        "item": "مندي لحم نفر",
+        "price": 50
+      },
+      {
+        "item": "كبسة دجاج",
+        "price": 25
+      },
+      {
+        "item": "مظبي دجاج",
+        "price": 30
+      },
+      {
+        "item": "مضغوط لحم",
+        "price": 50
+      },
+      {
+        "item": "سلطة عربية",
+        "price": 8
+      },
+      {
+        "item": "شوربة عدس",
+        "price": 8
+      },
+      {
+        "item": "لحم مشوي",
+        "price": 45
+      }
+    ],
+    "price_range": [
+      8,
+      55
+    ],
+    "source": "rest-ksa.arbdar.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Al Najdiyyah Village",
+    "name_ar": "القرية النجدية",
+    "category": "مطاعم شعبية",
+    "avg_per_person": 75,
+    "menu_highlights": [
+      {
+        "item": "كبسة لحم نفر",
+        "price": 70
+      },
+      {
+        "item": "جريش",
+        "price": 25
+      },
+      {
+        "item": "مرقوق",
+        "price": 30
+      },
+      {
+        "item": "قرصان",
+        "price": 30
+      },
+      {
+        "item": "كبسة دجاج",
+        "price": 35
+      },
+      {
+        "item": "مضغوط لحم",
+        "price": 65
+      },
+      {
+        "item": "سليق",
+        "price": 30
+      },
+      {
+        "item": "هريسة",
+        "price": 20
+      }
+    ],
+    "price_range": [
+      15,
+      75
+    ],
+    "source": "rest-ksa.arbdar.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Leila Restaurant",
+    "name_ar": "مطعم ليلى",
+    "category": "مطاعم عالمية",
+    "avg_per_person": 120,
+    "menu_highlights": [
+      {
+        "item": "حمص",
+        "price": 28
+      },
+      {
+        "item": "فتوش",
+        "price": 32
+      },
+      {
+        "item": "كبة نية",
+        "price": 45
+      },
+      {
+        "item": "مشاوي مشكل فردي",
+        "price": 95
+      },
+      {
+        "item": "لحم بالكرز",
+        "price": 85
+      },
+      {
+        "item": "فتة لبنانية",
+        "price": 42
+      },
+      {
+        "item": "سلطة تبولة",
+        "price": 28
+      },
+      {
+        "item": "كنافة بالقشطة",
+        "price": 35
+      }
+    ],
+    "price_range": [
+      28,
+      120
+    ],
+    "source": "leilarestaurant.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Byblos Restaurant",
+    "name_ar": "مطعم جبيل",
+    "category": "مطاعم عالمية",
+    "avg_per_person": 100,
+    "menu_highlights": [
+      {
+        "item": "مزة مشكلة باردة",
+        "price": 55
+      },
+      {
+        "item": "مزة مشكلة ساخنة",
+        "price": 65
+      },
+      {
+        "item": "مشاوي مشكل",
+        "price": 95
+      },
+      {
+        "item": "سمك مشوي",
+        "price": 75
+      },
+      {
+        "item": "كباب لحم",
+        "price": 55
+      },
+      {
+        "item": "سلطة فتوش",
+        "price": 22
+      },
+      {
+        "item": "كنافة نابلسية",
+        "price": 32
+      },
+      {
+        "item": "بقلاوة مشكل",
+        "price": 28
+      }
+    ],
+    "price_range": [
+      22,
+      120
+    ],
+    "source": "rest-ksa.arbdar.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Myazu",
+    "name_ar": "ميازو",
+    "category": "مطاعم فاخرة",
+    "avg_per_person": 150,
+    "menu_highlights": [
+      {
+        "item": "سوشي سلمون 6 قطع",
+        "price": 52
+      },
+      {
+        "item": "رامن ميازو",
+        "price": 55
+      },
+      {
+        "item": "تمبورا روبيان",
+        "price": 65
+      },
+      {
+        "item": "واقيو ستيك",
+        "price": 195
+      },
+      {
+        "item": "ساشيمي مشكل",
+        "price": 85
+      },
+      {
+        "item": "غيوزا",
+        "price": 35
+      },
+      {
+        "item": "ماتشا كيك",
+        "price": 35
+      },
+      {
+        "item": "ريزوتو ترافل",
+        "price": 75
+      }
+    ],
+    "price_range": [
+      28,
+      250
+    ],
+    "source": "myazu.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Piatto",
+    "name_ar": "بياتو",
+    "category": "مطاعم عالمية",
+    "avg_per_person": 90,
+    "menu_highlights": [
+      {
+        "item": "بيتزا مارجريتا",
+        "price": 45
+      },
+      {
+        "item": "باستا ترافل",
+        "price": 85
+      },
+      {
+        "item": "ريزوتو بحري",
+        "price": 75
+      },
+      {
+        "item": "فيتوتشيني ألفريدو",
+        "price": 55
+      },
+      {
+        "item": "سلمون غريل",
+        "price": 85
+      },
+      {
+        "item": "بروسكيتا",
+        "price": 35
+      },
+      {
+        "item": "تيراميسو",
+        "price": 35
+      },
+      {
+        "item": "سيزر سلاد",
+        "price": 32
+      }
+    ],
+    "price_range": [
+      32,
+      120
+    ],
+    "source": "piatto.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Shallal (شلال)",
+    "name_ar": "شلال",
+    "category": "مطاعم شعبية",
+    "avg_per_person": 40,
+    "menu_highlights": [
+      {
+        "item": "مندي دجاج",
+        "price": 28
+      },
+      {
+        "item": "كبسة لحم نفر",
+        "price": 55
+      },
+      {
+        "item": "مظبي دجاج",
+        "price": 30
+      },
+      {
+        "item": "حنيذ دجاج",
+        "price": 35
+      },
+      {
+        "item": "مضغوط لحم نفر",
+        "price": 55
+      },
+      {
+        "item": "فتة باللحم",
+        "price": 22
+      },
+      {
+        "item": "شوربة",
+        "price": 10
+      },
+      {
+        "item": "سلطة",
+        "price": 10
+      }
+    ],
+    "price_range": [
+      8,
+      55
+    ],
+    "source": "rest-ksa.arbdar.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Maharaja Restaurant",
+    "name_ar": "مطعم مهراجا",
+    "category": "مطاعم عالمية",
+    "avg_per_person": 55,
+    "menu_highlights": [
+      {
+        "item": "بتر تشكن",
+        "price": 35
+      },
+      {
+        "item": "تندوري تشكن",
+        "price": 38
+      },
+      {
+        "item": "بريياني دجاج",
+        "price": 32
+      },
+      {
+        "item": "بريياني لحم",
+        "price": 38
+      },
+      {
+        "item": "نان عادي",
+        "price": 5
+      },
+      {
+        "item": "نان بالجبنة",
+        "price": 8
+      },
+      {
+        "item": "دال مخاني",
+        "price": 22
+      },
+      {
+        "item": "سمبوسة هندية",
+        "price": 12
+      }
+    ],
+    "price_range": [
+      5,
+      55
+    ],
+    "source": "rest-ksa.arbdar.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Hadramout Restaurant",
+    "name_ar": "مطعم حضرموت",
+    "category": "مطاعم شعبية",
+    "avg_per_person": 35,
+    "menu_highlights": [
+      {
+        "item": "مندي لحم نفر",
+        "price": 50
+      },
+      {
+        "item": "مندي دجاج",
+        "price": 28
+      },
+      {
+        "item": "هريسة",
+        "price": 18
+      },
+      {
+        "item": "عصيد",
+        "price": 15
+      },
+      {
+        "item": "مظبي دجاج",
+        "price": 30
+      },
+      {
+        "item": "زربيان",
+        "price": 32
+      },
+      {
+        "item": "حنيذ لحم",
+        "price": 55
+      },
+      {
+        "item": "شوربة حب",
+        "price": 10
+      }
+    ],
+    "price_range": [
+      10,
+      55
+    ],
+    "source": "rest-ksa.arbdar.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "AlSedrah Lounge",
+    "name_ar": "لاونج السدرة",
+    "category": "كافيهات",
+    "avg_per_person": 35,
+    "menu_highlights": [
+      {
+        "item": "شيشة عادية",
+        "price": 35
+      },
+      {
+        "item": "قهوة تركية",
+        "price": 10
+      },
+      {
+        "item": "شاي مغربي",
+        "price": 15
+      },
+      {
+        "item": "موهيتو",
+        "price": 22
+      },
+      {
+        "item": "أمريكانو",
+        "price": 12
+      },
+      {
+        "item": "لاتيه",
+        "price": 16
+      },
+      {
+        "item": "كنافة",
+        "price": 18
+      },
+      {
+        "item": "ناتشوز",
+        "price": 25
+      }
+    ],
+    "price_range": [
+      10,
+      45
+    ],
+    "source": "rest-ksa.arbdar.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Tokyo Restaurant",
+    "name_ar": "مطعم طوكيو",
+    "category": "مطاعم عالمية",
+    "avg_per_person": 70,
+    "menu_highlights": [
+      {
+        "item": "سوشي كاليفورنيا 8 قطع",
+        "price": 32
+      },
+      {
+        "item": "رامن دجاج",
+        "price": 35
+      },
+      {
+        "item": "تمبورا مشكل",
+        "price": 42
+      },
+      {
+        "item": "تيرياكي دجاج",
+        "price": 38
+      },
+      {
+        "item": "إدامامي",
+        "price": 15
+      },
+      {
+        "item": "ميسو سوب",
+        "price": 12
+      },
+      {
+        "item": "بينتو بوكس",
+        "price": 55
+      },
+      {
+        "item": "ماتشا آيس كريم",
+        "price": 18
+      }
+    ],
+    "price_range": [
+      12,
+      75
+    ],
+    "source": "rest-ksa.arbdar.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "L'Eto Cafe",
+    "name_ar": "ليتو كافيه",
+    "category": "كافيهات",
+    "avg_per_person": 45,
+    "menu_highlights": [
+      {
+        "item": "لاتيه",
+        "price": 22
+      },
+      {
+        "item": "كابتشينو",
+        "price": 22
+      },
+      {
+        "item": "آيس لاتيه",
+        "price": 24
+      },
+      {
+        "item": "كروسان ألموند",
+        "price": 18
+      },
+      {
+        "item": "تشيز كيك",
+        "price": 35
+      },
+      {
+        "item": "ريد فيلفيت كيك",
+        "price": 35
+      },
+      {
+        "item": "كلوب ساندوتش",
+        "price": 42
+      },
+      {
+        "item": "سلطة هالومي",
+        "price": 38
+      }
+    ],
+    "price_range": [
+      18,
+      55
+    ],
+    "source": "letocaffe.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Angelina Paris",
+    "name_ar": "أنجلينا باريس",
+    "category": "كافيهات",
+    "avg_per_person": 55,
+    "menu_highlights": [
+      {
+        "item": "هوت شوكلت أفريكان",
+        "price": 35
+      },
+      {
+        "item": "مون بلون",
+        "price": 42
+      },
+      {
+        "item": "كروسان",
+        "price": 18
+      },
+      {
+        "item": "إكلير",
+        "price": 28
+      },
+      {
+        "item": "تارت فواكه",
+        "price": 35
+      },
+      {
+        "item": "لاتيه",
+        "price": 22
+      },
+      {
+        "item": "كابتشينو",
+        "price": 22
+      },
+      {
+        "item": "كلوب ساندوتش",
+        "price": 55
+      }
+    ],
+    "price_range": [
+      18,
+      65
+    ],
+    "source": "angelina-paris.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Costa Coffee",
+    "name_ar": "كوستا كوفي",
+    "category": "كافيهات",
+    "avg_per_person": 20,
+    "menu_highlights": [
+      {
+        "item": "أمريكانو وسط",
+        "price": 14
+      },
+      {
+        "item": "لاتيه وسط",
+        "price": 16
+      },
+      {
+        "item": "كابتشينو وسط",
+        "price": 16
+      },
+      {
+        "item": "آيس لاتيه وسط",
+        "price": 18
+      },
+      {
+        "item": "هوت شوكلت",
+        "price": 18
+      },
+      {
+        "item": "كراميل لاتيه",
+        "price": 20
+      },
+      {
+        "item": "موكا",
+        "price": 18
+      },
+      {
+        "item": "كروسان",
+        "price": 12
+      }
+    ],
+    "price_range": [
+      10,
+      24
+    ],
+    "source": "costa.co.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Caribou Coffee",
+    "name_ar": "كاريبو كوفي",
+    "category": "كافيهات",
+    "avg_per_person": 22,
+    "menu_highlights": [
+      {
+        "item": "أمريكانو",
+        "price": 13
+      },
+      {
+        "item": "لاتيه",
+        "price": 16
+      },
+      {
+        "item": "كابتشينو",
+        "price": 16
+      },
+      {
+        "item": "كراميل هاي رايز",
+        "price": 22
+      },
+      {
+        "item": "آيس لاتيه",
+        "price": 18
+      },
+      {
+        "item": "كولد برو",
+        "price": 16
+      },
+      {
+        "item": "سموذي",
+        "price": 22
+      },
+      {
+        "item": "كوكيز",
+        "price": 10
+      }
+    ],
+    "price_range": [
+      10,
+      24
+    ],
+    "source": "cariboucoffee.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Dr. Cafe",
+    "name_ar": "دكتور كافيه",
+    "category": "كافيهات",
+    "avg_per_person": 20,
+    "menu_highlights": [
+      {
+        "item": "أمريكانو",
+        "price": 12
+      },
+      {
+        "item": "لاتيه",
+        "price": 15
+      },
+      {
+        "item": "كابتشينو",
+        "price": 15
+      },
+      {
+        "item": "سبانش لاتيه",
+        "price": 18
+      },
+      {
+        "item": "آيس لاتيه",
+        "price": 17
+      },
+      {
+        "item": "فرابيه كراميل",
+        "price": 20
+      },
+      {
+        "item": "هوت شوكلت",
+        "price": 16
+      },
+      {
+        "item": "كروسان شوكلت",
+        "price": 12
+      }
+    ],
+    "price_range": [
+      8,
+      22
+    ],
+    "source": "drcafe.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Jollibee",
+    "name_ar": "جوليبي",
+    "category": "وجبات سريعة",
+    "avg_per_person": 25,
+    "menu_highlights": [
+      {
+        "item": "تشكن جوي 2 قطع وجبة",
+        "price": 22
+      },
+      {
+        "item": "يم برجر وجبة",
+        "price": 19
+      },
+      {
+        "item": "جولي سباغيتي",
+        "price": 15
+      },
+      {
+        "item": "تشكن ساندوتش",
+        "price": 18
+      },
+      {
+        "item": "بطاطس",
+        "price": 7
+      },
+      {
+        "item": "فاميلي بوكس",
+        "price": 55
+      }
+    ],
+    "price_range": [
+      7,
+      55
+    ],
+    "source": "jollibee.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Nando's Riyadh",
+    "name_ar": "ناندوز الرياض",
+    "category": "مطاعم عالمية",
+    "avg_per_person": 55,
+    "menu_highlights": [
+      {
+        "item": "ربع دجاج",
+        "price": 22
+      },
+      {
+        "item": "نصف دجاج",
+        "price": 35
+      },
+      {
+        "item": "دجاج كامل",
+        "price": 59
+      },
+      {
+        "item": "وينغز 5 قطع",
+        "price": 25
+      },
+      {
+        "item": "بيري بيري تشكن راب",
+        "price": 29
+      },
+      {
+        "item": "سبايسي رايس",
+        "price": 12
+      }
+    ],
+    "price_range": [
+      12,
+      99
+    ],
+    "source": "nandos.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "STC Cafe",
+    "name_ar": "كافيه اس تي سي",
+    "category": "كافيهات",
+    "avg_per_person": 18,
+    "menu_highlights": [
+      {
+        "item": "أمريكانو",
+        "price": 10
+      },
+      {
+        "item": "لاتيه",
+        "price": 14
+      },
+      {
+        "item": "آيس لاتيه",
+        "price": 16
+      },
+      {
+        "item": "كابتشينو",
+        "price": 14
+      },
+      {
+        "item": "سبانش لاتيه",
+        "price": 18
+      },
+      {
+        "item": "كوكيز",
+        "price": 8
+      }
+    ],
+    "price_range": [
+      8,
+      20
+    ],
+    "source": "stc.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Jan Burger",
+    "name_ar": "جان برجر",
+    "category": "وجبات سريعة",
+    "avg_per_person": 35,
+    "menu_highlights": [
+      {
+        "item": "جان كلاسك برجر",
+        "price": 22
+      },
+      {
+        "item": "جان دبل برجر",
+        "price": 30
+      },
+      {
+        "item": "جان مشروم",
+        "price": 28
+      },
+      {
+        "item": "بطاطس مقلية",
+        "price": 10
+      },
+      {
+        "item": "كول سلو",
+        "price": 8
+      },
+      {
+        "item": "ميلك شيك",
+        "price": 18
+      }
+    ],
+    "price_range": [
+      8,
+      40
+    ],
+    "source": "janburger.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "The Butcher Shop & Grill",
+    "name_ar": "ذا بوتشر شوب",
+    "category": "مطاعم عالمية",
+    "avg_per_person": 120,
+    "menu_highlights": [
+      {
+        "item": "ريب آي 300 غم",
+        "price": 119
+      },
+      {
+        "item": "فيليه مينيون 200 غم",
+        "price": 109
+      },
+      {
+        "item": "ستيك برجر",
+        "price": 59
+      },
+      {
+        "item": "سيزر سلاد",
+        "price": 35
+      },
+      {
+        "item": "تشيز كيك",
+        "price": 32
+      },
+      {
+        "item": "بطاطس ترافل",
+        "price": 28
+      }
+    ],
+    "price_range": [
+      28,
+      159
+    ],
+    "source": "butchershop.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Al Habib Sweets",
+    "name_ar": "حلويات الحبيب",
+    "category": "حلويات",
+    "avg_per_person": 20,
+    "menu_highlights": [
+      {
+        "item": "كنافة ناعمة",
+        "price": 8
+      },
+      {
+        "item": "بسبوسة",
+        "price": 6
+      },
+      {
+        "item": "قطايف بالقشطة",
+        "price": 10
+      },
+      {
+        "item": "بقلاوة كيلو",
+        "price": 45
+      },
+      {
+        "item": "لقمة القاضي",
+        "price": 12
+      },
+      {
+        "item": "هريسة",
+        "price": 8
+      }
+    ],
+    "price_range": [
+      5,
+      55
+    ],
+    "source": "rest-ksa.arbdar.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Saadeddin Pastry",
+    "name_ar": "حلويات سعد الدين",
+    "category": "حلويات",
+    "avg_per_person": 30,
+    "menu_highlights": [
+      {
+        "item": "كنافة نابلسية",
+        "price": 12
+      },
+      {
+        "item": "بقلاوة مشكل كيلو",
+        "price": 65
+      },
+      {
+        "item": "تشيز كيك",
+        "price": 15
+      },
+      {
+        "item": "كيكة ريد فيلفيت",
+        "price": 85
+      },
+      {
+        "item": "بيتي فور كيلو",
+        "price": 55
+      },
+      {
+        "item": "معمول تمر",
+        "price": 35
+      }
+    ],
+    "price_range": [
+      8,
+      120
+    ],
+    "source": "saadeddin.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Galaxy Restaurant",
+    "name_ar": "مطعم قلاكسي",
+    "category": "مطاعم شعبية",
+    "avg_per_person": 30,
+    "menu_highlights": [
+      {
+        "item": "برجر لحم",
+        "price": 15
+      },
+      {
+        "item": "شاورما عربي",
+        "price": 6
+      },
+      {
+        "item": "بروستد 4 قطع",
+        "price": 20
+      },
+      {
+        "item": "كبسة دجاج",
+        "price": 25
+      },
+      {
+        "item": "فتة لحم",
+        "price": 18
+      },
+      {
+        "item": "فلافل ساندوتش",
+        "price": 5
+      }
+    ],
+    "price_range": [
+      5,
+      35
+    ],
+    "source": "rest-ksa.arbdar.com",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Johnny Rockets",
+    "name_ar": "جوني روكتس",
+    "category": "مطاعم عالمية",
+    "avg_per_person": 55,
+    "menu_highlights": [
+      {
+        "item": "أوريجنال برجر",
+        "price": 35
+      },
+      {
+        "item": "سموك هاوس برجر",
+        "price": 42
+      },
+      {
+        "item": "تشيكن ساندوتش",
+        "price": 32
+      },
+      {
+        "item": "ميلك شيك",
+        "price": 24
+      },
+      {
+        "item": "أونيون رنقز",
+        "price": 18
+      },
+      {
+        "item": "بطاطس أمريكية",
+        "price": 15
+      }
+    ],
+    "price_range": [
+      15,
+      55
+    ],
+    "source": "johnnyrockets.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Elevation Burger",
+    "name_ar": "إلفيشن برجر",
+    "category": "وجبات سريعة",
+    "avg_per_person": 40,
+    "menu_highlights": [
+      {
+        "item": "برجر أورقانيك",
+        "price": 28
+      },
+      {
+        "item": "دبل برجر",
+        "price": 38
+      },
+      {
+        "item": "تشكن ساندوتش",
+        "price": 25
+      },
+      {
+        "item": "بطاطس عادي",
+        "price": 10
+      },
+      {
+        "item": "غارلك فرايز",
+        "price": 14
+      },
+      {
+        "item": "شيك شوكلت",
+        "price": 20
+      }
+    ],
+    "price_range": [
+      10,
+      45
+    ],
+    "source": "elevationburger.com.sa",
+    "last_updated": "2026-02-20"
+  },
+  {
+    "name_en": "Sumo Sushi & Bento",
+    "name_ar": "سومو سوشي وبنتو",
+    "category": "مطاعم عالمية",
+    "avg_per_person": 65,
+    "menu_highlights": [
+      {
+        "item": "كاليفورنيا رول 8 قطع",
+        "price": 28
+      },
+      {
+        "item": "سبايسي سلمون رول",
+        "price": 35
+      },
+      {
+        "item": "بنتو بوكس تشكن",
+        "price": 42
+      },
+      {
+        "item": "بنتو بوكس سلمون",
+        "price": 49
+      },
+      {
+        "item": "إدامامي",
+        "price": 15
+      },
+      {
+        "item": "ميسو سوب",
+        "price": 12
+      }
+    ],
+    "price_range": [
+      12,
+      65
+    ],
+    "source": "sumosushibento.com",
+    "last_updated": "2026-02-20"
+  }
+]

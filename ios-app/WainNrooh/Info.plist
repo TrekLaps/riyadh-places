@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- معلومات التطبيق الأساسية -->
+    <key>CFBundleDevelopmentRegion</key>
+    <string>ar</string>
+    
+    <key>CFBundleDisplayName</key>
+    <string>وين نروح</string>
+    
+    <key>CFBundleExecutable</key>
+    <string>$(EXECUTABLE_NAME)</string>
+    
+    <key>CFBundleIdentifier</key>
+    <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+    
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    
+    <key>CFBundleName</key>
+    <string>$(PRODUCT_NAME)</string>
+    
+    <key>CFBundlePackageType</key>
+    <string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
+    
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    
+    <!-- دعم اللغة العربية و RTL -->
+    <key>CFBundleLocalizations</key>
+    <array>
+        <string>ar</string>
+        <string>en</string>
+    </array>
+    
+    <!-- اللغة الافتراضية -->
+    <key>CFBundleAllowMixedLocalizations</key>
+    <true/>
+    
+    <!-- اتجاه الواجهة RTL -->
+    <key>UIUserInterfaceLayoutDirection</key>
+    <string>UIUserInterfaceLayoutDirectionRightToLeft</string>
+    
+    <!-- الحد الأدنى لنسخة iOS -->
+    <key>MinimumOSVersion</key>
+    <string>17.0</string>
+    
+    <!-- صلاحيات الموقع -->
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>نحتاج موقعك عشان نعرض لك الأماكن القريبة منك بالرياض</string>
+    
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>نحتاج موقعك عشان نعرض لك الأماكن القريبة منك بالرياض ونرسل لك اقتراحات</string>
+    
+    <!-- صلاحيات الكاميرا (للتقييمات بالصور) -->
+    <key>NSCameraUsageDescription</key>
+    <string>نحتاج الكاميرا عشان تقدر ترفع صور للأماكن والتقييمات</string>
+    
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>نحتاج الوصول للصور عشان تقدر ترفع صور للأماكن والتقييمات</string>
+    
+    <!-- اتجاهات الشاشة -->
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+        <string>UIInterfaceOrientationPortrait</string>
+    </array>
+    
+    <key>UISupportedInterfaceOrientations~ipad</key>
+    <array>
+        <string>UIInterfaceOrientationPortrait</string>
+        <string>UIInterfaceOrientationLandscapeLeft</string>
+        <string>UIInterfaceOrientationLandscapeRight</string>
+    </array>
+    
+    <!-- شريط الحالة -->
+    <key>UIStatusBarStyle</key>
+    <string>UIStatusBarStyleLightContent</string>
+    
+    <key>UIViewControllerBasedStatusBarAppearance</key>
+    <true/>
+    
+    <!-- مظهر التطبيق -->
+    <key>UIUserInterfaceStyle</key>
+    <string>Dark</string>
+    
+    <!-- App Transport Security -->
+    <key>NSAppTransportSecurity</key>
+    <dict>
+        <key>NSAllowsArbitraryLoads</key>
+        <false/>
+        <key>NSExceptionDomains</key>
+        <dict>
+            <key>supabase.co</key>
+            <dict>
+                <key>NSIncludesSubdomains</key>
+                <true/>
+                <key>NSThirdPartyExceptionRequiresForwardSecrecy</key>
+                <false/>
+            </dict>
+        </dict>
+    </dict>
+    
+    <!-- Deep Links -->
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleURLName</key>
+            <string>com.wainnrooh.app</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>wainnrooh</string>
+            </array>
+        </dict>
+    </array>
+    
+    <!-- Universal Links -->
+    <key>com.apple.developer.associated-domains</key>
+    <array>
+        <string>applinks:wainnrooh.com</string>
+        <string>applinks:www.wainnrooh.com</string>
+    </array>
+    
+    <!-- Launch Screen -->
+    <key>UILaunchScreen</key>
+    <dict>
+        <key>UIColorName</key>
+        <string>LaunchBackgroundColor</string>
+        <key>UIImageName</key>
+        <string>LaunchLogo</string>
+    </dict>
+</dict>
+</plist>
