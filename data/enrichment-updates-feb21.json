@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "date": "2026-02-21",
+    "description": "Enrichment data for existing places in the Riyadh database - phone numbers, Instagram handles, websites, and updated info",
+    "sources": [
+      "timeoutriyadh.com",
+      "riyadhgallerymall.com",
+      "destinationksa.com",
+      "livelovesaudi.net",
+      "mosafeir.com",
+      "boulevardriyadhsa.com"
+    ]
+  },
+  "updates": [
+    {
+      "match_name_en": "Brew 92",
+      "match_name_ar": "بريو 92",
+      "updates": {
+        "phone": "054 282 5536",
+        "website": "https://www.brew92.com/",
+        "description_ar": "أفضل كافيه في الرياض 2025 حسب تايم أوت. قهوة مختصة بدرجة 92 مئوية من حبوب أرابيكا 100%"
+      }
+    },
+    {
+      "match_name_en": "Cafe Bateel",
+      "match_name_ar": "كافيه بتيل",
+      "updates": {
+        "description_ar": "كافيه أنيق بطابع أوروبي على شارع التحلية. فطور وبرانش وتمور فاخرة ومعجنات فرنسية",
+        "neighborhood": "العليا - شارع التحلية"
+      }
+    },
+    {
+      "match_name_en": "Mama Noura",
+      "match_name_ar": "ماما نورة",
+      "updates": {
+        "description_ar": "مطعم لبناني شعبي يقدم وجبات سريعة بجودة عالية وأسعار مناسبة. شعبية كبيرة بين السكان"
+      }
+    },
+    {
+      "match_name_en": "Al Najdiyah Village",
+      "match_name_ar": "القرية النجدية",
+      "updates": {
+        "description_ar": "وجهة مثالية لعشاق المأكولات الشعبية الشرق أوسطية. أطباق تقليدية مميزة في بيئة شعبية وأصيلة"
+      }
+    },
+    {
+      "match_name_en": "Karam Beirut",
+      "match_name_ar": "كرم بيروت",
+      "updates": {
+        "description_ar": "مطعم لبناني متوسطي يقدم مأكولات متنوعة بنكهة مميزة. معروف بجودة الطعام وخدمة العملاء الممتازة"
+      }
+    },
+    {
+      "match_name_en": "Starbucks",
+      "match_name_ar": "ستاربكس",
+      "updates": {
+        "description_ar": "3 فروع في بوليفارد الرياض تخدم عدد كبير من الزوار يومياً مع تشكيلة واسعة من مشروبات القهوة"
+      }
+    },
+    {
+      "match_name_en": "Five Guys",
+      "match_name_ar": "فايف غايز",
+      "updates": {
+        "description_ar": "سلسلة برجر أمريكية دخلت السعودية 2019. متواجد في بوليفارد سيتي. برجر من لحم طازج غير مجمد"
+      }
+    },
+    {
+      "match_name_en": "Elixir Bunn Coffee Roasters",
+      "match_name_ar": "إلكسير بن",
+      "updates": {
+        "phone": "92 001 3926",
+        "website": "https://elixirbunn.com/",
+        "description_ar": "محمصة قهوة سعودية رائدة منذ 2014. فرعين في الرياض - النخيل وأم الحمام الشرقية. تصميم أبيض بسيط"
+      }
+    },
+    {
+      "match_name_en": "Camel Step",
+      "match_name_ar": "كامل ستيب",
+      "updates": {
+        "phone": "92 000 0689",
+        "website": "http://camelstep.com/",
+        "description_ar": "كافيه مختصة منذ 2014 يأخذ القهوة بجدية. حبوب طازجة محمصة ساخنة وباردة. يبيع حبوب قهوة للمنزل"
+      }
+    },
+    {
+      "match_name_en": "Namq Cafe",
+      "match_name_ar": "نمق",
+      "updates": {
+        "website": "http://namqcafe.com/",
+        "description_ar": "13 فرعاً في السعودية. قهوة مختصة ومعجنات كلاسيكية. أمريكانو وV60 وقهوة سعودية مع حلويات"
+      }
+    },
+    {
+      "match_name_en": "Wadi Namar",
+      "match_name_ar": "منتزه وادي نمار",
+      "updates": {
+        "description_ar": "تحفة طبيعية فريدة وواحدة من أكبر وأجمل الوجهات الترفيهية في الرياض. مساحات شاسعة خضراء"
+      }
+    },
+    {
+      "match_name_en": "Nofa Wildlife Park",
+      "match_name_ar": "منتزه نوفا للحياة البرية",
+      "updates": {
+        "description_ar": "من أفضل حدائق الرياض العائلية. يجمع بين الترفيه والتعليم في أجواء طبيعية خلابة"
+      }
+    },
+    {
+      "match_name_en": "Panorama Mall",
+      "match_name_ar": "بانوراما مول",
+      "updates": {
+        "website": "https://www.hamat.sa/en/panorama-mall",
+        "description_ar": "مول فاخر على تقاطع شارعي التخصصي والتحية. تسوق متكامل ومطاعم ومقاهي راقية. يفتح 10ص-11م وجمعة 4ع-11م"
+      }
+    },
+    {
+      "match_name_en": "Riyadh Gallery Mall",
+      "match_name_ar": "الرياض غاليري مول",
+      "updates": {
+        "description_ar": "مول تسوق شامل في الرياض مع تشكيلة واسعة من المتاجر والمطاعم"
+      }
+    },
+    {
+      "match_name_en": "Kingdom Tower",
+      "match_name_ar": "برج المملكة",
+      "updates": {
+        "description_ar": "أبرز معلم في الرياض. يضم مركز المملكة للتسوق ومطاعم وجسر المشاهدة"
+      }
+    },
+    {
+      "match_name_en": "Wadi Hanifah",
+      "match_name_ar": "وادي حنيفة",
+      "updates": {
+        "description_ar": "وجهة طبيعية رئيسية في الرياض للعائلات والمتنزهين. مسارات مشي ومناطق جلوس على ضفاف الوادي"
+      }
+    }
+  ]
+}
