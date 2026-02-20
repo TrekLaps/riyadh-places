@@ -96348,5 +96348,34 @@
       "طلاب",
       "قراء"
     ]
+  },
+  {
+    "id": "pinks-burger",
+    "name_ar": "بينكس برجر",
+    "name_en": "Pink's Burger",
+    "category": "مطعم",
+    "category_ar": "مطعم",
+    "category_en": "restaurant",
+    "neighborhood": "شرق الرياض",
+    "neighborhood_en": "East Riyadh",
+    "description_ar": "مطعم برجر جديد ترندنق على تيك توك. برجر مميز بأسعار معقولة وأجواء شبابية.",
+    "google_rating": 4.3,
+    "price_level": "$$",
+    "trending": true,
+    "is_new": true,
+    "sources": [
+      "TikTok @pinksburger.sa",
+      "Fact Magazines 2026"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Pinks+Burger+Riyadh",
+    "district": "الرياض",
+    "perfect_for": [],
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "is_free": false,
+    "audience": [
+      "عوائل",
+      "شباب"
+    ]
   }
 ]
