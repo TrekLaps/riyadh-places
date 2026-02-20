@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/svg+xml" href="images/icon-192.svg">
+  <title>الصفحة غير موجودة — وين نروح بالرياض؟</title>
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#0a1628">
+  <link rel="manifest" href="manifest.json">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Tajawal', sans-serif;
+      background: #0a1628;
+      color: #e0e0e0;
+      direction: rtl;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+    @import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700;900&display=swap');
+    .header {
+      background: linear-gradient(135deg, #0a1628 0%, #1a2a4a 100%);
+      padding: 16px 20px;
+      text-align: center;
+    }
+    .logo {
+      text-decoration: none;
+      color: #c9a84c;
+      font-size: 1.2rem;
+      font-weight: 700;
+    }
+    .error-container {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    .error-content {
+      max-width: 500px;
+    }
+    .error-emoji {
+      font-size: 80px;
+      margin-bottom: 20px;
+      animation: float 3s ease-in-out infinite;
+    }
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-15px); }
+    }
+    .error-code {
+      font-size: 72px;
+      font-weight: 900;
+      color: #c9a84c;
+      margin-bottom: 8px;
+      line-height: 1;
+    }
+    .error-title {
+      font-size: 28px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 12px;
+    }
+    .error-desc {
+      font-size: 16px;
+      color: #8899aa;
+      line-height: 1.8;
+      margin-bottom: 30px;
+    }
+    .error-suggestions {
+      text-align: right;
+      background: #111b2e;
+      border-radius: 12px;
+      padding: 20px 24px;
+      margin-bottom: 24px;
+      border: 1px solid rgba(201,168,76,0.15);
+    }
+    .error-suggestions h3 {
+      color: #c9a84c;
+      font-size: 16px;
+      margin-bottom: 12px;
+    }
+    .error-suggestions ul {
+      list-style: none;
+      padding: 0;
+    }
+    .error-suggestions li {
+      padding: 6px 0;
+      font-size: 14px;
+      color: #8899aa;
+    }
+    .error-suggestions li::before {
+      content: '←';
+      margin-left: 8px;
+      color: #c9a84c;
+    }
+    .error-suggestions a {
+      color: #c9a84c;
+      text-decoration: none;
+    }
+    .error-suggestions a:hover {
+      text-decoration: underline;
+    }
+    .btn-home {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 14px 32px;
+      background: linear-gradient(135deg, #c9a84c, #dbb960);
+      color: #0a1628;
+      border: none;
+      border-radius: 50px;
+      font-family: 'Tajawal', sans-serif;
+      font-size: 16px;
+      font-weight: 700;
+      text-decoration: none;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 15px rgba(201,168,76,0.3);
+    }
+    .btn-home:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 25px rgba(201,168,76,0.4);
+    }
+    .footer-mini {
+      text-align: center;
+      padding: 16px;
+      color: #556677;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <a href="index.html" class="logo">🏙️ وين نروح بالرياض؟</a>
+  </div>
+
+  <div class="error-container">
+    <div class="error-content">
+      <div class="error-emoji">🏜️</div>
+      <div class="error-code">404</div>
+      <h1 class="error-title">الصفحة غير موجودة</h1>
+      <p class="error-desc">يبدو إنك ضعت! الصفحة اللي تدور عليها مو موجودة أو انتقلت لمكان ثاني.</p>
+
+      <div class="error-suggestions">
+        <h3>🧭 جرّب هالروابط:</h3>
+        <ul>
+          <li><a href="index.html">🏠 الصفحة الرئيسية</a></li>
+          <li><a href="cafes.html">☕ كافيهات الرياض</a></li>
+          <li><a href="restaurants.html">🍽️ مطاعم الرياض</a></li>
+          <li><a href="search.html">🔍 بحث عن مكان</a></li>
+          <li><a href="discover.html">🎲 ما تدري وين تروح؟</a></li>
+          <li><a href="neighborhoods.html">🏘️ أحياء الرياض</a></li>
+        </ul>
+      </div>
+
+      <a href="index.html" class="btn-home">🏙️ ارجع للرئيسية</a>
+    </div>
+  </div>
+
+  <div class="footer-mini">© 2025-2026 وين نروح بالرياض؟</div>
+</body>
+</html>

@@ -86,7 +86,7 @@ const RamadanMode = (() => {
         return prayerTimes;
       }
     } catch (e) {
-      console.warn('Ramadan: Prayer API error:', e);
+      void 0;
     }
     return null;
   }

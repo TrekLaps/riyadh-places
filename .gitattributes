@@ -1,0 +1,5 @@
+# Mark Python scripts as non-web content (data processing only)
+*.py linguist-detectable=false
+*.py linguist-documentation=true
+# These scripts are publicly accessible on GitHub Pages but are harmless
+# data processing/extraction utilities, not part of the web application.

@@ -37,7 +37,7 @@ const WeatherPrayer = (() => {
       };
       return weatherData;
     } catch (e) {
-      console.warn('Weather API error:', e);
+      void 0;
       return null;
     }
   }
@@ -52,7 +52,7 @@ const WeatherPrayer = (() => {
         return prayerData;
       }
     } catch (e) {
-      console.warn('Prayer API error:', e);
+      void 0;
     }
     return null;
   }

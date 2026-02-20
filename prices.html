@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/svg+xml" href="images/icon-192.svg">
   <title>أسعار ومقارنات — مقارنة أسعار مطاعم وكافيهات الرياض 2026 | وين نروح</title>
   <meta name="description" content="قارن أسعار مطاعم وكافيهات وأماكن ترفيه الرياض. متوسط الفاتورة للشخص، فلتر حسب الميزانية والحي والفئة. أسعار حقيقية محدثة.">
   <meta name="keywords" content="أسعار مطاعم الرياض, أسعار كافيهات الرياض, مقارنة أسعار الرياض, أرخص مطاعم الرياض, ميزانية">
@@ -585,7 +586,7 @@
             if (p.name_ar) pricesData[p.name_ar] = p;
           });
         }
-      } catch(e) { console.log('No prices data'); }
+      } catch(e) { void 0; }
 
       // Load places
       allPlaces = await loadPlaces();

@@ -12,7 +12,7 @@ async function loadPlaces() {
     placesData = await response.json();
     return placesData;
   } catch (error) {
-    console.error('Error loading places:', error);
+    void 0;
     return [];
   }
 }
@@ -23,7 +23,7 @@ async function loadPlacesDetail() {
     placesData = await response.json();
     return placesData;
   } catch (error) {
-    console.error('Error loading places detail:', error);
+    void 0;
     return [];
   }
 }

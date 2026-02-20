@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/svg+xml" href="images/icon-192.svg">
   <title>🛵 قارن أسعار التوصيل — وين نروح بالرياض؟</title>
   <meta name="description" content="قارن أسعار نفس المطعم عبر كل تطبيقات التوصيل في الرياض — هنقرستيشن، جاهز، تويو، كاريدج، ذا شفز. وفّر على كل طلب!">
   <meta name="keywords" content="مقارنة أسعار التوصيل, هنقرستيشن, جاهز, تويو, كاريدج, ذا شفز, توصيل مطاعم الرياض, أرخص تطبيق توصيل">
@@ -28,6 +29,8 @@
     .logo h1{font-size:1.2rem;margin:0}
   </style>
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/ramadan.css">
+  <link rel="stylesheet" href="css/search-header.css">
   <style>
     /* ===== Delivery Compare Page Specific Styles ===== */
     .dc-hero {
@@ -541,7 +544,7 @@
         allData = await res.json();
         init();
       } catch(e) {
-        console.error('Failed to load delivery data:', e);
+        void 0;
       }
     }
 
@@ -821,5 +824,6 @@
   <script>
     if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(function(){});}
   </script>
+  <script src="js/main.js" defer></script>
 </body>
 </html>

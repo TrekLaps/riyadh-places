@@ -11,7 +11,7 @@ async function loadReviews() {
     reviewsData = await response.json();
     return reviewsData;
   } catch (error) {
-    console.error('Error loading reviews:', error);
+    void 0;
     return [];
   }
 }

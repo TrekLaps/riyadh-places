@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="google-site-verification" content="fsoLYFcBn1bK30V4OvI0U5U78wsZx4LcBG8ADB28QXU" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/svg+xml" href="images/icon-192.svg">
   <title>دليل رمضان في الرياض 2026 🌙 | إفطار، سحور، تحلية، فعاليات | وين نروح</title>
   <meta name="description" content="دليلك الشامل لرمضان 2026 في الرياض. أفضل أماكن الإفطار والسحور والتحلية بعد التراويح. خيم رمضان الفاخرة، بوفيهات الإفطار، مجالس رمضانية، وفعاليات موسمية.">
   <meta name="keywords" content="إفطار رمضان الرياض 2026, أفضل أماكن سحور الرياض, خيم رمضان الرياض, بوفيه إفطار الرياض, أماكن تحلية بعد التراويح الرياض, مجالس رمضانية الرياض, حلويات رمضانية الرياض, فعاليات رمضان الرياض 2026">
@@ -1012,7 +1013,7 @@
       try {
         const res = await fetch('data/ramadan-2026-places.json');
         if (res.ok) ramadan2026Places = await res.json();
-      } catch(e) { console.log('No ramadan-2026-places.json found'); }
+      } catch(e) { void 0; }
       const combinedPlaces = [...allPlaces, ...ramadan2026Places];
 
       // Merge: ramadan-2026 specific places + newly tagged places from places.json

@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/svg+xml" href="images/icon-192.svg">
   <title>خريطة أماكن الرياض التفاعلية | وين نروح بالرياض؟</title>
   <meta name="description" content="خريطة تفاعلية لأفضل أماكن الرياض. اكتشف الكافيهات والمطاعم والأماكن الترفيهية القريبة منك على الخريطة.">
   <meta property="og:title" content="خريطة أماكن الرياض التفاعلية | وين نروح بالرياض؟">
@@ -356,6 +357,12 @@
   <script defer src="js/hotness.js"></script>
   <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script defer src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script>
+    // Leaflet CDN fallback
+    if (typeof L === 'undefined') {
+      document.getElementById('map').innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100%;background:#0a1628;color:#e0e0e0;font-family:Tajawal,sans-serif;text-align:center;padding:40px;"><div><h2 style="color:#c9a84c;margin-bottom:16px;">⚠️ تعذر تحميل الخريطة</h2><p>فشل تحميل مكتبة الخرائط. تأكد من اتصالك بالإنترنت وأعد المحاولة.</p><button onclick="location.reload()" style="margin-top:16px;padding:10px 24px;background:#c9a84c;color:#0a1628;border:none;border-radius:8px;font-family:Tajawal;font-size:16px;cursor:pointer;">🔄 إعادة المحاولة</button></div></div>';
+    }
+  </script>
   <script>
     const CATEGORY_COLORS = {
       'كافيه':   { color: '#8B4513', icon: '☕', bg: '#F5DEB3' },
