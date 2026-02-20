@@ -1,64 +1,236 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
-  <title>تفاصيل المكان - وين نروح بالرياض؟</title>
   <meta charset="UTF-8">
-  <meta name="google-site-verification" content="fsoLYFcBn1bK30V4OvI0U5U78wsZx4LcBG8ADB28QXU" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="google-site-verification" content="fsoLYFcBn1bK30V4OvI0U5U78wsZx4LcBG8ADB28QXU" />
   <link rel="icon" type="image/svg+xml" href="images/icon-192.svg">
   <title id="page-title">تفاصيل المكان | وين نروح بالرياض؟</title>
-  <meta name="description" id="page-description" content="تفاصيل المكان - وين نروح بالرياض؟">
+  <meta name="description" id="page-description" content="اكتشف أفضل الأماكن في الرياض — مطاعم، كافيهات، ترفيه والمزيد">
   <meta name="robots" content="index, follow">
   <link rel="canonical" id="page-canonical" href="https://treklaps.github.io/riyadh-places/place.html">
+
+  <!-- Open Graph -->
   <meta property="og:type" content="place">
-  <meta property="og:title" id="og-title" content="تفاصيل المكان | وين نروح بالرياض؟">
-  <meta property="og:description" id="og-description" content="">
+  <meta property="og:title" id="og-title" content="وين نروح بالرياض؟">
+  <meta property="og:description" id="og-description" content="اكتشف أفضل الأماكن في الرياض">
   <meta property="og:url" id="og-url" content="https://treklaps.github.io/riyadh-places/place.html">
   <meta property="og:locale" content="ar_SA">
-  <meta property="og:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
+  <meta property="og:image" id="og-image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
+  <meta property="og:site_name" content="وين نروح بالرياض؟">
+
+  <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="وين نروح بالرياض؟">
-  <meta name="twitter:description" content="دليلك الشامل لأفضل أماكن الرياض">
+  <meta name="twitter:title" id="tw-title" content="وين نروح بالرياض؟">
+  <meta name="twitter:description" id="tw-description" content="دليلك الشامل لأفضل أماكن الرياض">
   <meta name="twitter:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
+
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#0a1628">
-  <!-- Performance: preconnect & preload -->
-  <link rel="preconnect" href="https://images.unsplash.com" crossorigin>
+
   <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
-  <link rel="dns-prefetch" href="https://images.unsplash.com">
   <link rel="preload" href="data/places-detail.json" as="fetch" crossorigin>
-  <!-- Critical inline CSS for above-the-fold -->
+
+  <!-- Critical inline CSS -->
   <style>
     *{margin:0;padding:0;box-sizing:border-box}
-    body{font-family:'Tajawal',sans-serif;background:#0a1628;color:#e0e0e0;direction:rtl}
-    .header{background:linear-gradient(135deg,#0a1628 0%,#1a2a4a 100%);padding:12px 20px;position:sticky;top:0;z-index:100}
+    body{font-family:'Tajawal',sans-serif;background:#0a1628;color:#e0e0e0;direction:rtl;min-height:100vh}
+    .header{background:linear-gradient(135deg,#0a1628 0%,#1a2a4a 100%);padding:12px 20px;position:sticky;top:0;z-index:100;border-bottom:1px solid rgba(201,168,76,0.1)}
     .header-inner{display:flex;align-items:center;justify-content:space-between;max-width:1400px;margin:auto}
     .logo{text-decoration:none;color:#c9a84c;display:flex;align-items:center;gap:8px}
     .logo h1{font-size:1.2rem;margin:0}
-    .cards-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px}
-    .place-card{background:#111b2e;border-radius:16px;overflow:hidden;transition:transform .2s}
-    .place-card-image{height:180px;background:#1a2a4a;position:relative;overflow:hidden}
-    .card-image{width:100%;height:100%;object-fit:cover}
-    .skeleton{animation:skeleton-pulse 1.5s ease-in-out infinite}
-    @keyframes skeleton-pulse{0%,100%{opacity:.4}50%{opacity:.8}}
-    .place-card{content-visibility:auto;contain-intrinsic-size:0 420px}
+
+    /* Loading state */
+    .place-loading{display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:60vh;gap:16px}
+    .place-loading .spinner{width:48px;height:48px;border:4px solid rgba(201,168,76,0.2);border-top-color:#c9a84c;border-radius:50%;animation:spin 0.8s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+
+    /* Not found */
+    .not-found{text-align:center;padding:80px 20px;min-height:60vh;display:flex;flex-direction:column;align-items:center;justify-content:center}
+    .not-found .emoji{font-size:64px;margin-bottom:16px}
+    .not-found h2{color:#c9a84c;margin-bottom:12px;font-size:1.5rem}
+    .not-found p{color:#8899aa;margin-bottom:24px}
+
+    /* Hero */
+    .place-hero{position:relative;height:320px;background:#111b2e;overflow:hidden}
+    .place-hero-img{width:100%;height:100%;object-fit:cover;display:block}
+    .place-hero-fallback{width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:80px;background:linear-gradient(135deg,#0a1628 0%,#1a2a4a 50%,#0a1628 100%)}
+    .place-hero-overlay{position:absolute;bottom:0;left:0;right:0;padding:24px 32px;background:linear-gradient(transparent,rgba(10,22,40,0.95))}
+    .place-hero-badges{display:flex;gap:8px;margin-bottom:10px;flex-wrap:wrap}
+    .place-hero-badges .badge{padding:4px 12px;border-radius:20px;font-size:12px;font-weight:700}
+    .badge-category{background:rgba(201,168,76,0.2);color:#c9a84c;border:1px solid rgba(201,168,76,0.3)}
+    .badge-trending{background:rgba(255,107,53,0.2);color:#ff6b35;border:1px solid rgba(255,107,53,0.3)}
+    .badge-new{background:rgba(0,200,150,0.2);color:#00c896;border:1px solid rgba(0,200,150,0.3)}
+    .badge-free{background:rgba(52,152,219,0.2);color:#3498db;border:1px solid rgba(52,152,219,0.3)}
+    .place-hero h1{font-size:2rem;color:#fff;margin-bottom:4px;text-shadow:0 2px 8px rgba(0,0,0,0.5)}
+    .place-hero .name-en{font-size:0.95rem;color:rgba(255,255,255,0.6);font-weight:400}
+    .place-hero .hero-neighborhood{color:rgba(255,255,255,0.7);font-size:0.9rem;margin-top:6px}
+    .place-hero .hero-neighborhood span{margin-left:12px}
+
+    /* Main layout */
+    .place-main{max-width:1200px;margin:0 auto;padding:24px 20px;display:grid;grid-template-columns:1fr 360px;gap:28px}
+
+    /* Action bar */
+    .action-bar{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:24px}
+    .action-btn{display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:12px;border:1px solid rgba(201,168,76,0.3);background:rgba(201,168,76,0.08);color:#c9a84c;text-decoration:none;font-family:'Tajawal',sans-serif;font-size:14px;font-weight:600;cursor:pointer;transition:all 0.2s}
+    .action-btn:hover{background:rgba(201,168,76,0.18);border-color:#c9a84c;transform:translateY(-1px)}
+    .action-btn svg{width:18px;height:18px;fill:currentColor}
+    .action-btn-primary{background:#c9a84c;color:#0a1628;border-color:#c9a84c}
+    .action-btn-primary:hover{background:#d4b85c}
+
+    /* Rating card */
+    .rating-card{background:#111b2e;border-radius:16px;padding:20px;margin-bottom:24px;border:1px solid rgba(201,168,76,0.1)}
+    .rating-card-inner{display:flex;align-items:center;gap:20px}
+    .rating-big{text-align:center}
+    .rating-big .number{font-size:48px;font-weight:800;color:#c9a84c;line-height:1}
+    .rating-big .stars{color:#f1c40f;font-size:16px;margin-top:4px;letter-spacing:2px}
+    .rating-big .count{font-size:13px;color:#8899aa;margin-top:4px}
+    .rating-meta{flex:1}
+    .rating-meta .google-label{display:inline-flex;align-items:center;gap:4px;background:rgba(66,133,244,0.1);color:#4285f4;padding:4px 10px;border-radius:8px;font-size:12px;font-weight:600;margin-bottom:8px}
+    .rating-meta .review-quote{font-size:14px;color:#a0b0c0;font-style:italic;line-height:1.6;padding-right:12px;border-right:3px solid rgba(201,168,76,0.3)}
+
+    /* Section blocks */
+    .detail-section{background:#111b2e;border-radius:16px;padding:24px;margin-bottom:24px;border:1px solid rgba(201,168,76,0.08)}
+    .detail-section h2{color:#c9a84c;font-size:1.15rem;margin-bottom:16px;display:flex;align-items:center;gap:8px}
+
+    /* Description */
+    .description-text{font-size:15px;line-height:1.9;color:#c0d0e0}
+
+    /* Tags / Audience */
+    .tags-list{display:flex;flex-wrap:wrap;gap:8px}
+    .tag-chip{padding:6px 14px;border-radius:20px;background:rgba(201,168,76,0.1);color:#c9a84c;font-size:13px;border:1px solid rgba(201,168,76,0.2);cursor:default;transition:background 0.2s}
+    .tag-chip:hover{background:rgba(201,168,76,0.2)}
+    .tag-chip-audience{background:rgba(52,152,219,0.1);color:#5dade2;border-color:rgba(52,152,219,0.2)}
+    .tag-chip-audience:hover{background:rgba(52,152,219,0.2)}
+
+    /* Pros / Cons */
+    .pros-cons{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+    .pros-list,.cons-list{list-style:none;padding:0}
+    .pros-list li,.cons-list li{padding:8px 0;font-size:14px;line-height:1.6;display:flex;align-items:flex-start;gap:8px}
+    .pros-list li::before{content:'👍';flex-shrink:0}
+    .cons-list li::before{content:'👎';flex-shrink:0}
+
+    /* Visit info grid */
+    .visit-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px}
+    .visit-item{background:rgba(201,168,76,0.05);border-radius:12px;padding:14px;text-align:center;border:1px solid rgba(201,168,76,0.1)}
+    .visit-item .vi-icon{font-size:24px;margin-bottom:6px}
+    .visit-item .vi-label{font-size:12px;color:#8899aa;margin-bottom:4px}
+    .visit-item .vi-value{font-size:14px;color:#e0e0e0;font-weight:600}
+
+    /* Map section */
+    .map-container{border-radius:12px;overflow:hidden;height:220px;background:#111b2e;position:relative}
+    .map-container iframe{width:100%;height:100%;border:0}
+    .map-overlay-link{position:absolute;top:10px;left:10px;background:rgba(10,22,40,0.8);color:#c9a84c;padding:6px 12px;border-radius:8px;font-size:12px;text-decoration:none;font-weight:600;z-index:2;transition:background 0.2s}
+    .map-overlay-link:hover{background:rgba(10,22,40,0.95)}
+
+    /* Sidebar */
+    .place-sidebar{}
+    .sidebar-card{background:#111b2e;border-radius:16px;padding:20px;margin-bottom:20px;border:1px solid rgba(201,168,76,0.08)}
+    .sidebar-card h3{color:#c9a84c;font-size:1rem;margin-bottom:14px}
+    .info-row{display:flex;justify-content:space-between;align-items:center;padding:10px 0;border-bottom:1px solid rgba(255,255,255,0.05);font-size:14px}
+    .info-row:last-child{border-bottom:0}
+    .info-row .label{color:#8899aa}
+    .info-row .value{color:#e0e0e0;font-weight:600;text-align:left;max-width:60%}
+
+    /* Share buttons */
+    .share-row{display:flex;gap:8px;flex-wrap:wrap}
+    .share-btn{flex:1;min-width:80px;display:flex;align-items:center;justify-content:center;gap:6px;padding:10px;border-radius:10px;border:none;font-family:'Tajawal',sans-serif;font-size:13px;font-weight:600;cursor:pointer;transition:all 0.2s}
+    .share-whatsapp{background:rgba(37,211,102,0.15);color:#25d366}
+    .share-whatsapp:hover{background:rgba(37,211,102,0.25)}
+    .share-twitter{background:rgba(29,161,242,0.15);color:#1da1f2}
+    .share-twitter:hover{background:rgba(29,161,242,0.25)}
+    .share-copy{background:rgba(201,168,76,0.15);color:#c9a84c}
+    .share-copy:hover{background:rgba(201,168,76,0.25)}
+
+    /* Similar places */
+    .similar-section{max-width:1200px;margin:0 auto 40px;padding:0 20px}
+    .similar-section h2{color:#c9a84c;font-size:1.2rem;margin-bottom:20px;display:flex;align-items:center;gap:8px}
+    .similar-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
+    .similar-card{background:#111b2e;border-radius:14px;padding:16px;border:1px solid rgba(201,168,76,0.08);text-decoration:none;color:inherit;transition:all 0.2s;display:block}
+    .similar-card:hover{border-color:rgba(201,168,76,0.3);transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,0,0,0.3)}
+    .similar-card-top{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:10px}
+    .similar-card h3{font-size:1rem;color:#e0e0e0;margin-bottom:2px}
+    .similar-card .sc-en{font-size:12px;color:#6a7a8a}
+    .similar-card .sc-rating{text-align:center}
+    .similar-card .sc-rating .num{font-size:20px;font-weight:800;color:#c9a84c}
+    .similar-card .sc-rating .stars{font-size:11px;color:#f1c40f}
+    .similar-card .sc-meta{display:flex;gap:12px;font-size:13px;color:#8899aa;margin-top:8px}
+
+    /* Breadcrumb */
+    .breadcrumb{max-width:1200px;margin:0 auto;padding:12px 20px;font-size:13px;color:#6a7a8a;display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+    .breadcrumb a{color:#8899aa;text-decoration:none}
+    .breadcrumb a:hover{color:#c9a84c}
+    .breadcrumb .sep{color:#4a5a6a}
+
+    /* Footer */
+    .footer{background:#060e1a;border-top:1px solid rgba(201,168,76,0.1);padding:40px 20px 20px;margin-top:40px}
+    .footer-inner{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:30px}
+    .footer h3{color:#c9a84c;margin-bottom:12px;font-size:1rem}
+    .footer p,.footer li,.footer a{color:#6a7a8a;font-size:14px;line-height:1.8}
+    .footer a{text-decoration:none}
+    .footer a:hover{color:#c9a84c}
+    .footer ul{list-style:none;padding:0}
+    .footer-heart{text-align:center;padding:20px 0 10px;color:#6a7a8a;font-size:14px}
+    .footer-bottom{text-align:center;padding:10px 0;color:#4a5a6a;font-size:12px;border-top:1px solid rgba(255,255,255,0.05);margin-top:10px}
+
+    /* Responsive */
+    @media (max-width:768px) {
+      .place-hero{height:240px}
+      .place-hero h1{font-size:1.5rem}
+      .place-hero-overlay{padding:16px 20px}
+      .place-main{grid-template-columns:1fr;padding:16px}
+      .rating-card-inner{flex-direction:column;text-align:center}
+      .rating-meta .review-quote{border-right:0;padding-right:0;text-align:center}
+      .pros-cons{grid-template-columns:1fr}
+      .action-bar{justify-content:center}
+      .similar-grid{grid-template-columns:1fr}
+    }
+
+    /* Nav styles */
+    .nav{display:flex;gap:16px;align-items:center}
+    .nav a{color:#a0b0c0;text-decoration:none;font-size:14px;transition:color 0.2s}
+    .nav a:hover{color:#c9a84c}
+    .menu-toggle,.dark-mode-toggle{background:none;border:none;color:#a0b0c0;font-size:20px;cursor:pointer;display:none}
+    .nav-dropdown{position:relative}
+    .dropdown-menu{display:none;position:absolute;top:100%;right:0;background:#111b2e;border:1px solid rgba(201,168,76,0.15);border-radius:12px;padding:8px 0;min-width:200px;z-index:200;box-shadow:0 8px 32px rgba(0,0,0,0.4)}
+    .nav-dropdown:hover .dropdown-menu{display:block}
+    .dropdown-menu a{display:block;padding:8px 16px;color:#a0b0c0;text-decoration:none;font-size:14px}
+    .dropdown-menu a:hover{color:#c9a84c;background:rgba(201,168,76,0.05)}
+    .dropdown-divider{height:1px;background:rgba(255,255,255,0.05);margin:4px 0}
+    .dropdown-submenu{position:relative}
+    .submenu{display:none;position:absolute;right:100%;top:0;background:#111b2e;border:1px solid rgba(201,168,76,0.15);border-radius:12px;padding:8px 0;min-width:160px;box-shadow:0 8px 32px rgba(0,0,0,0.4)}
+    .dropdown-submenu:hover .submenu{display:block}
+
+    @media (max-width:768px){
+      .nav{display:none;position:fixed;top:0;right:0;bottom:0;width:280px;background:#0a1628;flex-direction:column;padding:60px 20px 20px;z-index:300;box-shadow:-4px 0 20px rgba(0,0,0,0.5)}
+      .nav.open{display:flex}
+      .menu-toggle{display:block}
+      .dropdown-menu{position:static;display:none;box-shadow:none;border:0;background:transparent;padding-right:12px}
+      .nav-dropdown.open .dropdown-menu{display:block}
+      .submenu{position:static;box-shadow:none;border:0;background:transparent;padding-right:12px}
+    }
+
+    .scroll-top{position:fixed;bottom:20px;left:20px;width:44px;height:44px;border-radius:50%;background:#c9a84c;color:#0a1628;border:none;font-size:20px;cursor:pointer;opacity:0;transition:opacity 0.3s;z-index:100}
+    .scroll-top.visible{opacity:1}
   </style>
 
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/ramadan.css">
   <link rel="stylesheet" href="css/search-header.css">
-  <script type="application/ld+json">
+
+  <!-- Structured data placeholder — replaced dynamically -->
+  <script type="application/ld+json" id="schema-ld">
   {
-  "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "name": "{{place_name}}",
-  "description": "{{place_description}}",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "الرياض",
-    "addressCountry": "SA"
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "وين نروح بالرياض",
+    "description": "دليلك الشامل لأفضل الأماكن في الرياض",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "الرياض",
+      "addressCountry": "SA"
+    }
   }
-}
   </script>
 </head>
 <body>
@@ -67,7 +239,7 @@
     <div class="header-inner">
       <a href="index.html" class="logo"><span>🏙️</span><h1>وين نروح بالرياض؟</h1></a>
       <button class="dark-mode-toggle" aria-label="الوضع الليلي">🌙</button>
-      <button class="menu-toggle" aria-label="القائمة">☰</button>
+      <button class="menu-toggle" aria-label="القائمة" onclick="document.querySelector('.nav').classList.toggle('open')">☰</button>
       <nav class="nav">
         <a href="index.html">الرئيسية</a>
         <a href="cafes.html">كافيهات</a>
@@ -89,7 +261,7 @@
             <a href="riyadh-season.html">✨ موسم الرياض</a>
             <div class="dropdown-divider"></div>
             <div class="dropdown-submenu">
-              <a href="#">🏘️ الأحياء</a>
+              <a href="neighborhoods.html">🏘️ الأحياء</a>
               <div class="submenu">
                 <a href="neighborhood-olaya.html">حي العليا</a>
                 <a href="neighborhood-malqa.html">حي الملقا</a>
@@ -104,21 +276,111 @@
     </div>
   </header>
 
-  <div id="breadcrumb-container" class="breadcrumb">
-    <a href="index.html">الرئيسية</a><span>›</span><span id="breadcrumb-category"></span><span>›</span><strong id="breadcrumb-place"></strong>
+  <!-- Breadcrumb -->
+  <div class="breadcrumb" id="breadcrumb">
+    <a href="index.html">الرئيسية</a>
+    <span class="sep">‹</span>
+    <span id="bc-category">...</span>
+    <span class="sep">‹</span>
+    <strong id="bc-place">تحميل...</strong>
   </div>
 
-  <div class="place-detail" id="place-detail-container"></div>
+  <!-- Loading state (shown before JS loads data) -->
+  <div id="place-loading" class="place-loading">
+    <div class="spinner"></div>
+    <p style="color:#8899aa;">جاري تحميل بيانات المكان...</p>
+  </div>
 
-  <div style="max-width:1200px;margin:0 auto;padding:0 20px;" id="rating-analysis-container"></div>
+  <!-- Not found state (hidden by default) -->
+  <div id="place-not-found" class="not-found" style="display:none;">
+    <div class="emoji">😕</div>
+    <h2>المكان غير موجود</h2>
+    <p>ما لقينا هالمكان — ممكن الرابط قديم أو فيه خطأ</p>
+    <a href="index.html" class="action-btn action-btn-primary">🏠 العودة للرئيسية</a>
+  </div>
 
-  <div style="max-width:1200px;margin:0 auto;padding:0 20px;" id="reviews-container"></div>
+  <!-- Main content (hidden until data loads) -->
+  <div id="place-content" style="display:none;">
 
-  <div style="max-width:1200px;margin:0 auto;padding:0 20px;" id="popular-times-container"></div>
+    <!-- Hero Section -->
+    <div class="place-hero" id="hero-section">
+      <!-- Filled by JS -->
+    </div>
 
-  <div style="max-width:1200px;margin:24px auto;padding:0 20px;">
-    <div class="section-title"><div><h2>أماكن مشابهة</h2></div></div>
-    <div id="related-places-container"></div>
+    <!-- Main Layout: Content + Sidebar -->
+    <div class="place-main">
+      <div class="place-content-col">
+
+        <!-- Action buttons -->
+        <div class="action-bar" id="action-bar"></div>
+
+        <!-- Rating Card -->
+        <div class="rating-card" id="rating-card"></div>
+
+        <!-- Description -->
+        <div class="detail-section" id="description-section" style="display:none;">
+          <h2>📝 عن المكان</h2>
+          <p class="description-text" id="description-text"></p>
+        </div>
+
+        <!-- Tags & Audience -->
+        <div class="detail-section" id="tags-section" style="display:none;">
+          <h2>🏷️ مناسب لـ</h2>
+          <div class="tags-list" id="tags-list"></div>
+        </div>
+
+        <!-- Pros & Cons -->
+        <div class="detail-section" id="pros-cons-section" style="display:none;">
+          <h2>📊 تحليل التقييمات</h2>
+          <div class="pros-cons" id="pros-cons"></div>
+        </div>
+
+        <!-- Visit Info -->
+        <div class="detail-section" id="visit-section" style="display:none;">
+          <h2>ℹ️ معلومات الزيارة</h2>
+          <div class="visit-grid" id="visit-grid"></div>
+        </div>
+
+        <!-- Map -->
+        <div class="detail-section" id="map-section" style="display:none;">
+          <h2>📍 الموقع على الخريطة</h2>
+          <div class="map-container" id="map-container"></div>
+        </div>
+
+      </div>
+
+      <!-- Sidebar -->
+      <div class="place-sidebar">
+
+        <!-- Quick Info -->
+        <div class="sidebar-card" id="quick-info"></div>
+
+        <!-- Share -->
+        <div class="sidebar-card">
+          <h3>📤 شارك المكان</h3>
+          <div class="share-row" id="share-row"></div>
+        </div>
+
+        <!-- SEO text block -->
+        <div class="sidebar-card" id="seo-text" style="display:none;">
+          <p id="seo-paragraph" style="font-size:13px;color:#6a7a8a;line-height:1.8;"></p>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Reviews Section -->
+    <div style="max-width:1200px;margin:0 auto;padding:0 20px;" id="reviews-container"></div>
+
+    <!-- Popular Times -->
+    <div style="max-width:1200px;margin:0 auto;padding:0 20px;" id="popular-times-container"></div>
+
+    <!-- Similar Places -->
+    <div class="similar-section" id="similar-section" style="display:none;">
+      <h2>🔗 أماكن مشابهة</h2>
+      <div class="similar-grid" id="similar-grid"></div>
+    </div>
+
   </div>
 
   <footer class="footer">
@@ -138,8 +400,6 @@
           <li><a href="desserts.html">حلويات الرياض</a></li>
           <li><a href="events.html">فعاليات الرياض</a></li>
           <li><a href="top-rated.html">الأعلى تقييماً</a></li>
-          <li><a href="trending.html">هابّ الحين 🔥</a>
-        <a href="new-places.html">أماكن جديدة</a></li>
         </ul>
       </div>
       <div>
@@ -155,135 +415,415 @@
     <div class="footer-bottom"><p>© 2025-2026 وين نروح بالرياض؟ جميع الحقوق محفوظة.</p></div>
   </footer>
 
-  <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
+  <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</button>
 
   <script defer src="js/main.js"></script>
   <script defer src="js/darkmode.js"></script>
   <script defer src="js/crowd.js"></script>
   <script defer src="js/reviews.js"></script>
+
   <script>
-    const categoryPages = { 'cafe': 'cafes.html', 'restaurant': 'restaurants.html', 'activity': 'activities.html', 'تسوق': 'shopping.html', 'طبيعة': 'nature.html', 'كافيه': 'cafes.html', 'مطعم': 'restaurants.html', 'ترفيه': 'activities.html', 'حلويات': 'desserts.html', 'فعاليات': 'events.html' };
+  (function() {
+    'use strict';
 
-    document.addEventListener('DOMContentLoaded', async () => {
-      const [allPlaces] = await Promise.all([loadPlacesDetail(), loadReviews()]);
-      const placeId = getUrlParam('id') || 'elixir-bunn';
-      const place = getPlaceById(placeId);
+    const BASE_URL = 'https://treklaps.github.io/riyadh-places';
 
-      if (!place) {
-        document.getElementById('place-detail-container').innerHTML = `
-          <div class="no-results"><div class="emoji">😕</div><h3>المكان غير موجود</h3><p><a href="index.html" class="btn-primary">العودة للرئيسية</a></p></div>`;
+    const catIcons = { 'كافيه':'☕','مطعم':'🍽️','ترفيه':'🎭','تسوق':'🛍️','طبيعة':'🏞️','حلويات':'🍰','فعاليات':'🎪','شاليه':'🏕️','فنادق':'🏨','مولات':'🛒','متاحف':'🏛️' };
+    const catNames = { 'cafe':'كافيه','restaurant':'مطعم','activity':'ترفيه','كافيه':'كافيه','مطعم':'مطعم','ترفيه':'ترفيه','تسوق':'تسوق','طبيعة':'طبيعة','حلويات':'حلويات','فعاليات':'فعاليات','شاليه':'شاليه','فنادق':'فنادق','مولات':'مولات','متاحف':'متاحف' };
+    const catPages = { 'كافيه':'cafes.html','مطعم':'restaurants.html','ترفيه':'activities.html','تسوق':'shopping.html','طبيعة':'nature.html','حلويات':'desserts.html','فعاليات':'events.html','شاليه':'activities.html','فنادق':'activities.html','مولات':'shopping.html','متاحف':'activities.html' };
+    const catGradients = { 'مطعم':'linear-gradient(135deg,#c0392b,#e74c3c)','كافيه':'linear-gradient(135deg,#6F4E37,#A0785A)','ترفيه':'linear-gradient(135deg,#8e44ad,#9b59b6)','حلويات':'linear-gradient(135deg,#e84393,#fd79a8)','طبيعة':'linear-gradient(135deg,#27ae60,#2ecc71)','تسوق':'linear-gradient(135deg,#2980b9,#3498db)','شاليه':'linear-gradient(135deg,#d35400,#e67e22)','فنادق':'linear-gradient(135deg,#1a1a2e,#16213e)','مولات':'linear-gradient(135deg,#2c3e50,#34495e)','متاحف':'linear-gradient(135deg,#7f8c8d,#95a5a6)','فعاليات':'linear-gradient(135deg,#f39c12,#f1c40f)' };
+
+    function fmtNum(n) { return n ? n.toLocaleString('ar-SA') : '—'; }
+    function stars(r) {
+      if (!r) return '';
+      const full = Math.floor(r), half = r % 1 >= 0.3, empty = 5 - full - (half ? 1 : 0);
+      return '★'.repeat(full) + (half ? '★' : '') + '☆'.repeat(empty);
+    }
+    function safe(v, fallback) { return (v !== null && v !== undefined && v !== '') ? v : (fallback || 'غير متوفر'); }
+    function getParam(p) { return new URLSearchParams(window.location.search).get(p); }
+
+    // Find place by id or slug name
+    function findPlace(places, id) {
+      if (!id) return null;
+      return places.find(p => p.id === id) || places.find(p => p.id === id.toLowerCase()) || null;
+    }
+
+    // Update meta tags
+    function updateMeta(place) {
+      const title = place.name_ar + (place.google_rating ? ` | ⭐ ${place.google_rating}` : '') + ' | وين نروح بالرياض؟';
+      const desc = `${place.name_ar}${place.neighborhood ? ' في ' + place.neighborhood : ''}. ${place.google_rating ? 'تقييم قوقل ' + place.google_rating : ''} ${place.review_count ? 'من ' + fmtNum(place.review_count) + ' تقييم' : ''}. ${(place.description_ar || '').slice(0,120)}`;
+      const url = `${BASE_URL}/place.html?id=${place.id}`;
+
+      document.getElementById('page-title').textContent = title;
+      document.title = title;
+      document.getElementById('page-description').content = desc;
+      document.getElementById('page-canonical').href = url;
+      document.getElementById('og-title').content = title;
+      document.getElementById('og-description').content = desc;
+      document.getElementById('og-url').content = url;
+      document.getElementById('tw-title').content = title;
+      document.getElementById('tw-description').content = desc;
+
+      if (place.image_url) {
+        document.getElementById('og-image').content = place.image_url;
+      }
+    }
+
+    // Update structured data
+    function updateSchema(place) {
+      const schema = {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": place.name_en || place.name_ar,
+        "alternateName": place.name_ar,
+        "description": place.description_ar || '',
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "الرياض",
+          "addressRegion": place.neighborhood_en || place.neighborhood || '',
+          "addressCountry": "SA"
+        }
+      };
+      if (place.lat && place.lng) {
+        schema.geo = { "@type": "GeoCoordinates", "latitude": place.lat, "longitude": place.lng };
+      }
+      if (place.google_rating) {
+        schema.aggregateRating = {
+          "@type": "AggregateRating",
+          "ratingValue": place.google_rating,
+          "bestRating": "5",
+          "worstRating": "1"
+        };
+        if (place.review_count) schema.aggregateRating.reviewCount = place.review_count;
+      }
+      if (place.price_level) schema.priceRange = place.price_level;
+      if (place.google_maps_url) schema.url = place.google_maps_url;
+
+      document.getElementById('schema-ld').textContent = JSON.stringify(schema);
+    }
+
+    // Render hero
+    function renderHero(place) {
+      const icon = catIcons[place.category] || '📍';
+      const gradient = catGradients[place.category] || 'linear-gradient(135deg,#0a1628,#1a2a4a)';
+      const catName = catNames[place.category] || place.category || '';
+
+      let badges = `<span class="badge badge-category">${icon} ${catName}</span>`;
+      if (place.trending) badges += '<span class="badge badge-trending">🔥 رائج</span>';
+      if (place.is_new) badges += '<span class="badge badge-new">✨ جديد</span>';
+      if (place.is_free) badges += '<span class="badge badge-free">🆓 مجاني</span>';
+
+      document.getElementById('hero-section').innerHTML = `
+        ${place.image_url
+          ? `<img class="place-hero-img" src="${place.image_url}" alt="${place.name_ar}" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">`
+          : ''}
+        <div class="place-hero-fallback" style="${place.image_url ? 'display:none;' : ''}background:${gradient}">
+          <span>${icon}</span>
+        </div>
+        <div class="place-hero-overlay">
+          <div class="place-hero-badges">${badges}</div>
+          <h1>${place.name_ar}</h1>
+          ${place.name_en ? `<div class="name-en">${place.name_en}</div>` : ''}
+          <div class="hero-neighborhood">
+            ${place.neighborhood ? `<span>📍 ${place.neighborhood}</span>` : ''}
+            ${place.price_level ? `<span>💰 ${place.price_level}</span>` : ''}
+          </div>
+        </div>`;
+    }
+
+    // Render action buttons
+    function renderActions(place) {
+      let html = '';
+      if (place.google_maps_url) {
+        html += `<a href="${place.google_maps_url}" target="_blank" rel="noopener" class="action-btn action-btn-primary">📍 الموقع والتوجيه</a>`;
+      }
+      if (place.lat && place.lng) {
+        html += `<a href="https://www.google.com/maps/dir/?api=1&destination=${place.lat},${place.lng}" target="_blank" rel="noopener" class="action-btn">🧭 اتجاهات</a>`;
+      }
+      if (place.phone) {
+        html += `<a href="tel:${place.phone}" class="action-btn">📞 اتصل</a>`;
+      }
+      if (place.website) {
+        html += `<a href="${place.website}" target="_blank" rel="noopener" class="action-btn">🌐 الموقع</a>`;
+      }
+      if (place.instagram) {
+        html += `<a href="${place.instagram}" target="_blank" rel="noopener" class="action-btn">📸 انستقرام</a>`;
+      }
+      document.getElementById('action-bar').innerHTML = html;
+    }
+
+    // Render rating card
+    function renderRating(place) {
+      if (!place.google_rating) {
+        document.getElementById('rating-card').style.display = 'none';
+        return;
+      }
+      const quote = place.review_quote_ar || place.review_quote || '';
+      document.getElementById('rating-card').innerHTML = `
+        <div class="rating-card-inner">
+          <div class="rating-big">
+            <div class="number">${place.google_rating}</div>
+            <div class="stars">${stars(place.google_rating)}</div>
+            ${place.review_count ? `<div class="count">${fmtNum(place.review_count)} تقييم</div>` : ''}
+          </div>
+          <div class="rating-meta">
+            <div class="google-label">⭐ تقييم Google</div>
+            ${quote ? `<div class="review-quote">"${quote}"</div>` : ''}
+          </div>
+        </div>`;
+    }
+
+    // Render description
+    function renderDescription(place) {
+      if (!place.description_ar) return;
+      document.getElementById('description-section').style.display = '';
+      document.getElementById('description-text').textContent = place.description_ar;
+    }
+
+    // Render tags + audience
+    function renderTags(place) {
+      const tags = [];
+      if (place.perfect_for && place.perfect_for.length) tags.push(...place.perfect_for.map(t => ({text:t,type:''})));
+      if (place.audience && place.audience.length) tags.push(...place.audience.map(t => ({text:t,type:'audience'})));
+      if (!tags.length) return;
+
+      document.getElementById('tags-section').style.display = '';
+      document.getElementById('tags-list').innerHTML = tags.map(t =>
+        `<span class="tag-chip ${t.type === 'audience' ? 'tag-chip-audience' : ''}">${t.text}</span>`
+      ).join('');
+    }
+
+    // Render pros/cons
+    function renderProsCons(place) {
+      const pros = place.pros_ar || place.pros || [];
+      const cons = place.cons_ar || place.cons || [];
+      if (!pros.length && !cons.length) return;
+
+      document.getElementById('pros-cons-section').style.display = '';
+      let html = '';
+      if (pros.length) {
+        html += `<div><h3 style="color:#2ecc71;margin-bottom:10px;font-size:15px;">👍 الناس تمدح</h3><ul class="pros-list">${pros.map(p => `<li>${p}</li>`).join('')}</ul></div>`;
+      }
+      if (cons.length) {
+        html += `<div><h3 style="color:#e74c3c;margin-bottom:10px;font-size:15px;">👎 الناس تنتقد</h3><ul class="cons-list">${cons.map(c => `<li>${c}</li>`).join('')}</ul></div>`;
+      }
+      document.getElementById('pros-cons').innerHTML = html;
+    }
+
+    // Render visit info
+    function renderVisitInfo(place) {
+      const items = [];
+      if (place.best_time) items.push({icon:'🕐',label:'أفضل وقت',value:place.best_time});
+      if (place.avg_spend) items.push({icon:'💰',label:'متوسط الإنفاق',value:place.avg_spend});
+      if (place.price_level) items.push({icon:'📊',label:'مستوى الأسعار',value:place.price_level + (place.price_level==='$'?' (اقتصادي)':place.price_level==='$$'?' (متوسط)':place.price_level==='$$$'?' (مرتفع)':place.price_level==='$$$$'?' (فاخر)':'')});
+      if (place.review_count) items.push({icon:'💬',label:'التقييمات',value:fmtNum(place.review_count)+' تقييم على قوقل'});
+
+      if (!items.length) return;
+      document.getElementById('visit-section').style.display = '';
+      document.getElementById('visit-grid').innerHTML = items.map(i => `
+        <div class="visit-item">
+          <div class="vi-icon">${i.icon}</div>
+          <div class="vi-label">${i.label}</div>
+          <div class="vi-value">${i.value}</div>
+        </div>
+      `).join('');
+    }
+
+    // Render map
+    function renderMap(place) {
+      if (!place.lat || !place.lng) return;
+      document.getElementById('map-section').style.display = '';
+      const q = encodeURIComponent(place.name_en || place.name_ar);
+      document.getElementById('map-container').innerHTML = `
+        <iframe src="https://maps.google.com/maps?q=${place.lat},${place.lng}&z=15&output=embed" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" title="موقع ${place.name_ar}"></iframe>
+        ${place.google_maps_url ? `<a href="${place.google_maps_url}" target="_blank" rel="noopener" class="map-overlay-link">🔗 فتح في قوقل ماب</a>` : ''}`;
+    }
+
+    // Render quick info sidebar
+    function renderQuickInfo(place) {
+      const rows = [
+        {label:'الاسم',value:place.name_ar},
+        {label:'بالإنجليزي',value:place.name_en},
+        {label:'التصنيف',value:catNames[place.category]||place.category},
+        {label:'الحي',value:place.neighborhood},
+        {label:'تقييم قوقل',value:place.google_rating ? `⭐ ${place.google_rating} / 5` : 'غير متوفر'},
+        {label:'عدد التقييمات',value:place.review_count ? fmtNum(place.review_count) : 'غير متوفر'},
+        {label:'مستوى الأسعار',value:place.price_level||'غير متوفر'},
+      ];
+      if (place.avg_spend) rows.push({label:'متوسط الإنفاق',value:place.avg_spend});
+      if (place.best_time) rows.push({label:'أفضل وقت',value:place.best_time});
+      rows.push({label:'الحالة',value:place.trending?'🔥 رائج':'✅ نشط'});
+
+      document.getElementById('quick-info').innerHTML = `
+        <h3>📋 معلومات سريعة</h3>
+        ${rows.map(r => `<div class="info-row"><span class="label">${r.label}</span><span class="value">${safe(r.value)}</span></div>`).join('')}`;
+    }
+
+    // Render share buttons
+    function renderShare(place) {
+      const url = `${BASE_URL}/place.html?id=${place.id}`;
+      const text = `🏙️ ${place.name_ar}${place.google_rating ? '\n⭐ '+place.google_rating : ''}\n📍 ${place.neighborhood||''}\n\n${(place.description_ar||'').slice(0,100)}\n\n${url}\n\nمن موقع وين نروح بالرياض؟`;
+      const tweetText = `🏙️ ${place.name_ar}${place.google_rating ? ' — ⭐ '+place.google_rating : ''}\n📍 ${place.neighborhood||''}`;
+
+      document.getElementById('share-row').innerHTML = `
+        <button class="share-btn share-whatsapp" onclick="window.open('https://wa.me/?text='+encodeURIComponent(\`${text.replace(/`/g,"\\`")}\`),'_blank')">📱 واتساب</button>
+        <button class="share-btn share-twitter" onclick="window.open('https://twitter.com/intent/tweet?text='+encodeURIComponent(\`${tweetText.replace(/`/g,"\\`")}\`)+'&url='+encodeURIComponent('${url}'),'_blank')">𝕏</button>
+        <button class="share-btn share-copy" onclick="navigator.clipboard.writeText('${url}');this.textContent='✅ تم النسخ';setTimeout(()=>this.textContent='🔗 نسخ الرابط',2000)">🔗 نسخ الرابط</button>`;
+    }
+
+    // Render SEO paragraph
+    function renderSEO(place) {
+      const catName = catNames[place.category] || place.category || '';
+      const parts = [
+        `${place.name_ar}`,
+        place.name_en ? `(${place.name_en})` : '',
+        place.neighborhood ? `يقع في ${place.neighborhood} بمدينة الرياض.` : 'في مدينة الرياض.',
+        place.google_rating ? `حاصل على تقييم ${place.google_rating} من 5 على قوقل` : '',
+        place.review_count ? `من ${fmtNum(place.review_count)} تقييم حقيقي.` : '',
+        catName ? `يعتبر من أفضل الأماكن في تصنيف "${catName}" بالرياض.` : '',
+        place.trending ? 'يعد حالياً من الأماكن الأكثر رواجاً في الرياض.' : '',
+        place.is_new ? 'تم إضافته مؤخراً كمكان جديد.' : '',
+        'ننصح بزيارته والاستمتاع بالتجربة الفريدة التي يقدمها.'
+      ];
+      const text = parts.filter(Boolean).join(' ');
+      document.getElementById('seo-text').style.display = '';
+      document.getElementById('seo-paragraph').textContent = text;
+    }
+
+    // Render breadcrumb
+    function renderBreadcrumb(place) {
+      const catName = catNames[place.category] || place.category || '';
+      const catPage = catPages[place.category] || 'index.html';
+      document.getElementById('bc-category').innerHTML = `<a href="${catPage}">${catName}</a>`;
+      document.getElementById('bc-place').textContent = place.name_ar;
+    }
+
+    // Render similar places
+    function renderSimilar(allPlaces, place) {
+      // Same category + same neighborhood first, then same category
+      const sameNeighborhood = allPlaces.filter(p => p.id !== place.id && p.category === place.category && p.neighborhood === place.neighborhood);
+      const sameCategory = allPlaces.filter(p => p.id !== place.id && p.category === place.category && p.neighborhood !== place.neighborhood);
+
+      // Shuffle for variety
+      const shuffle = arr => arr.sort(() => Math.random() - 0.5);
+      const similar = [...shuffle(sameNeighborhood).slice(0,3), ...shuffle(sameCategory).slice(0,3)].slice(0,6);
+
+      if (!similar.length) return;
+
+      document.getElementById('similar-section').style.display = '';
+      document.getElementById('similar-grid').innerHTML = similar.map(p => `
+        <a href="place.html?id=${p.id}" class="similar-card">
+          <div class="similar-card-top">
+            <div>
+              <h3>${p.name_ar}</h3>
+              ${p.name_en ? `<div class="sc-en">${p.name_en}</div>` : ''}
+            </div>
+            ${p.google_rating ? `<div class="sc-rating"><div class="num">${p.google_rating}</div><div class="stars">${stars(p.google_rating)}</div></div>` : ''}
+          </div>
+          <div class="sc-meta">
+            ${p.neighborhood ? `<span>📍 ${p.neighborhood}</span>` : ''}
+            ${p.price_level ? `<span>💰 ${p.price_level}</span>` : ''}
+            ${p.trending ? '<span>🔥 رائج</span>' : ''}
+          </div>
+        </a>
+      `).join('');
+    }
+
+    // ===== MAIN INIT =====
+    async function init() {
+      const placeId = getParam('id');
+
+      if (!placeId) {
+        document.getElementById('place-loading').style.display = 'none';
+        document.getElementById('place-not-found').style.display = '';
         return;
       }
 
-      // Update page meta
-      document.getElementById('page-title').textContent = `${place.name_ar} - ${place.neighborhood} | تقييم ${place.google_rating} ⭐ | وين نروح بالرياض؟`;
-      document.getElementById('page-description').content = `${place.name_ar} في ${place.neighborhood}. تقييم قوقل ${place.google_rating} من ${formatNumber(place.review_count)} تقييم. ${place.description_ar.slice(0, 120)}`;
-      document.getElementById('page-canonical').href = `https://treklaps.github.io/riyadh-places/place.html?id=${place.id}`;
-      document.getElementById('og-title').content = `${place.name_ar} | ⭐ ${place.google_rating} | وين نروح بالرياض؟`;
-      document.getElementById('og-description').content = `تقييم ${place.google_rating} من ${formatNumber(place.review_count)} تقييم. ${place.description_ar.slice(0, 150)}`;
-      document.getElementById('og-url').content = `https://treklaps.github.io/riyadh-places/place.html?id=${place.id}`;
+      try {
+        const response = await fetch('data/places-detail.json');
+        if (!response.ok) throw new Error('Failed to load data');
+        const allPlaces = await response.json();
 
-      // Breadcrumb
-      document.getElementById('breadcrumb-category').innerHTML = `<a href="${categoryPages[place.category] || 'index.html'}">${categoryNames[place.category] || place.category || place.category}</a>`;
-      document.getElementById('breadcrumb-place').textContent = place.name_ar;
+        // Also store globally for main.js functions
+        if (typeof window !== 'undefined') window._placesData = allPlaces;
+        // Set placesData for main.js compatibility
+        if (typeof placesData !== 'undefined') {
+          try { placesData = allPlaces; } catch(e) {}
+        }
 
-      // Main detail
-      document.getElementById('place-detail-container').innerHTML = `
-        <div class="place-detail-hero">
-          ${place.image_url ? `<img src="${place.image_url}" alt="${place.name_ar}" style="width:100%;height:100%;object-fit:cover;position:absolute;top:0;left:0;" loading="lazy" onerror="this.style.display='none'">` : (categoryIcons[place.category] || '📍')}
-          ${place.trending ? '<span class="trending-badge" style="position:absolute;top:20px;right:20px;font-size:16px;z-index:2;">🔥 رائج</span>' : ''}
-          ${place.is_new ? '<span class="new-badge" style="position:absolute;top:20px;left:20px;font-size:16px;z-index:2;">جديد</span>' : ''}
-        </div>
+        const place = findPlace(allPlaces, placeId);
 
-        <div class="place-detail-content">
-          <div class="place-detail-info">
-            <h1>${place.name_ar}</h1>
-            <p style="color:var(--text-muted);font-size:15px;margin-bottom:14px;">${place.name_en}</p>
+        if (!place) {
+          document.getElementById('place-loading').style.display = 'none';
+          document.getElementById('place-not-found').style.display = '';
+          return;
+        }
 
-            <div class="meta">
-              <span>📍 ${place.neighborhood}</span>
-              <span>💰 ${place.price_level}</span>
-              <span>📂 ${categoryNames[place.category] || place.category || place.category}</span>
-            </div>
+        // Update everything
+        updateMeta(place);
+        updateSchema(place);
+        renderBreadcrumb(place);
+        renderHero(place);
+        renderActions(place);
+        renderRating(place);
+        renderDescription(place);
+        renderTags(place);
+        renderProsCons(place);
+        renderVisitInfo(place);
+        renderMap(place);
+        renderQuickInfo(place);
+        renderShare(place);
+        renderSEO(place);
+        renderSimilar(allPlaces, place);
 
-            <div class="card-rating-block" style="margin:14px 0 18px;padding:14px 16px;">
-              <div class="card-rating-big">
-                <span class="big-number" style="font-size:34px;">${place.google_rating}</span>
-                <span class="stars-small" style="font-size:14px;">${generateStars(place.google_rating)}</span>
-              </div>
-              <div class="card-rating-meta">
-                <span class="review-count" style="font-size:15px;"><span class="count-num" style="font-size:17px;">${formatNumber(place.review_count)}</span> تقييم على قوقل</span>
-                <span class="google-badge" style="font-size:12px;">⭐ Google Reviews</span>
-              </div>
-            </div>
+        // Hide loading, show content
+        document.getElementById('place-loading').style.display = 'none';
+        document.getElementById('place-content').style.display = '';
 
-            <div class="review-quote-line" style="font-size:15px;padding:10px 14px;margin-bottom:18px;">${place.review_quote_ar || place.review_quote || ""}</div>
+        // Try to load reviews (from reviews.js)
+        try {
+          if (typeof loadReviews === 'function') await loadReviews();
+          if (typeof generateReviewsSection === 'function') {
+            const reviewsHtml = generateReviewsSection(placeId);
+            if (reviewsHtml) {
+              document.getElementById('reviews-container').innerHTML = reviewsHtml;
+              if (typeof initReviewsSlider === 'function') initReviewsSlider();
+            }
+          }
+        } catch(e) {}
 
-            <p class="full-description">${place.description_ar}</p>
+        // Popular times
+        try {
+          if (place.popular_times && typeof renderPopularTimes === 'function') {
+            document.getElementById('popular-times-container').innerHTML = renderPopularTimes(place);
+            if (typeof initPopularTimesTabs === 'function') initPopularTimesTabs();
+          }
+        } catch(e) {}
 
-            <div style="margin-top:18px;">
-              <h3 style="margin-bottom:12px;color:var(--primary);">معلومات إضافية</h3>
-              <p style="line-height:2;color:var(--text-light);">
-                ${place.name_ar} (${place.name_en}) يقع في ${place.neighborhood} بمدينة الرياض.
-                حاصل على تقييم ${place.google_rating} من 5 على قوقل من ${formatNumber(place.review_count)} تقييم حقيقي.
-                يعتبر من أفضل الأماكن في تصنيف "${categoryNames[place.category] || place.category || place.category}" بالرياض.
-                ${place.trending ? 'يعد حالياً من الأماكن الأكثر رواجاً وبحثاً في الرياض.' : ''}
-                ${place.is_new ? 'تم إضافته مؤخراً كمكان جديد في الرياض.' : ''}
-                ننصح بزيارته والاستمتاع بالتجربة الفريدة التي يقدمها.
-              </p>
-            </div>
-          </div>
-
-          <div class="place-detail-sidebar">
-            <div class="info-box">
-              <h3>معلومات سريعة</h3>
-              <div class="info-item"><span>الاسم</span><strong>${place.name_ar}</strong></div>
-              <div class="info-item"><span>التصنيف</span><strong>${categoryNames[place.category] || place.category || place.category}</strong></div>
-              <div class="info-item"><span>الحي</span><strong>${place.neighborhood}</strong></div>
-              <div class="info-item"><span>تقييم قوقل</span><strong>⭐ ${place.google_rating} / 5</strong></div>
-              <div class="info-item"><span>عدد التقييمات</span><strong>${formatNumber(place.review_count)}</strong></div>
-              <div class="info-item"><span>مستوى الأسعار</span><strong>${place.price_level}</strong></div>
-              <div class="info-item"><span>متوسط الإنفاق</span><strong>${place.avg_spend || place.price_level || 'غير محدد'}</strong></div>
-              <div class="info-item"><span>أفضل وقت</span><strong>${(place.best_time || '').split('—')[0]}</strong></div>
-              <div class="info-item"><span>الحالة</span><strong>${place.trending ? '🔥 رائج' : '✅ نشط'}</strong></div>
-            </div>
-
-            <a href="${place.google_maps_url}" target="_blank" class="btn-primary" style="display:block;text-align:center;padding:14px;">
-              📍 افتح في قوقل ماب
-            </a>
-
-            <div class="map-placeholder">🗺️ خريطة المكان</div>
-          </div>
-        </div>
-      `;
-
-      // Rating Analysis
-      document.getElementById('rating-analysis-container').innerHTML = generateRatingAnalysis(place);
-
-      // Reviews Section
-      const reviewsHtml = generateReviewsSection(placeId);
-      if (reviewsHtml) {
-        document.getElementById('reviews-container').innerHTML = reviewsHtml;
-        initReviewsSlider();
+      } catch (error) {
+        console.error('Error loading place:', error);
+        document.getElementById('place-loading').style.display = 'none';
+        document.getElementById('place-not-found').style.display = '';
       }
+    }
 
-      // Popular Times
-      if (place.popular_times) {
-        document.getElementById('popular-times-container').innerHTML = renderPopularTimes(place);
-        initPopularTimesTabs();
-      }
+    // Run on DOM ready
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      init();
+    }
 
-      // Related places
-      const related = allPlaces.filter(p => p.category === place.category && p.id !== place.id).slice(0, 3);
-      let relatedHtml = '<div class="cards-grid">';
-      related.forEach(p => relatedHtml += generatePlaceCard(p));
-      relatedHtml += '</div>';
-      document.getElementById('related-places-container').innerHTML = relatedHtml;
-
-      addSchemaToPage(generateSchemaMarkup(place));
+    // Scroll to top button
+    window.addEventListener('scroll', function() {
+      const btn = document.getElementById('scrollTop');
+      if (btn) btn.classList.toggle('visible', window.scrollY > 400);
     });
+  })();
   </script>
-<script>
+
+  <!-- Mobile nav -->
+  <script>
     document.querySelectorAll('.nav-dropdown > a').forEach(a => {
       a.addEventListener('click', (e) => {
         if (window.innerWidth <= 768) {
