@@ -1,0 +1,2208 @@
+{
+  "metadata": {
+    "project": "وين نروح بالرياض",
+    "description": "أسعار مطاعم الرياض الشاملة من تطبيقات التوصيل - نسخة موسعة",
+    "last_updated": "2026-02-20",
+    "currency": "SAR",
+    "notes": "الأسعار مجمعة من مصادر حقيقية: مواقع المطاعم الرسمية، ksarestaurantmenus.com، hungerpost.com، thechefz.co، pricesgulf.com، indexmenus.com. الأسعار قد تختلف حسب الفرع والوقت وتطبيق التوصيل.",
+    "apps": ["hungerstation", "jahez", "toyou", "carriage", "thechefz", "keeta"],
+    "total_restaurants": 60,
+    "data_quality": "أسعار حقيقية موثقة من مصادر مذكورة - لا توجد أسعار مخترعة",
+    "sources_used": [
+      "ksarestaurantmenus.com",
+      "pricesgulf.com",
+      "hungerpost.com",
+      "thechefz.co",
+      "indexmenus.com",
+      "goldencouponzz.com",
+      "hungerstation.com",
+      "mcdonalds.com/sa",
+      "burgerking.com.sa",
+      "keeta-global.com"
+    ]
+  },
+  "delivery_apps_info": {
+    "hungerstation": {
+      "name": "هنقرستيشن",
+      "name_en": "HungerStation",
+      "website": "hungerstation.com",
+      "typical_delivery_fee": "9-25 SAR",
+      "min_order": "0-25 SAR varies by restaurant",
+      "coverage": "102+ مدينة في السعودية",
+      "restaurants_count": "55,000+",
+      "subscription": "هنقرستيشن بلس - توصيل مجاني",
+      "notes": "أكبر تطبيق توصيل في السعودية، تابع لـ Delivery Hero",
+      "source": "hungerstation.com, Google Play description"
+    },
+    "jahez": {
+      "name": "جاهز",
+      "name_en": "Jahez",
+      "website": "jahez.net",
+      "typical_delivery_fee": "7-20 SAR",
+      "min_order": "0-20 SAR varies by restaurant",
+      "coverage": "80+ مدينة في السعودية",
+      "notes": "تطبيق سعودي مدرج في تداول (السوق المالية السعودية)",
+      "source": "jahez.net"
+    },
+    "toyou": {
+      "name": "تويو",
+      "name_en": "ToYou",
+      "website": "toyou.io",
+      "typical_delivery_fee": "10-25 SAR",
+      "min_order": "varies",
+      "coverage": "الرياض والمدن الرئيسية",
+      "promo": "30 يوم توصيل مجاني + 50 ريال رصيد للعملاء الجدد",
+      "notes": "خدمة توصيل سعودية - طعام وبقالة",
+      "source": "toyou.io, App Store"
+    },
+    "carriage": {
+      "name": "كاريدج",
+      "name_en": "Carriage",
+      "website": "trycarriage.com",
+      "typical_delivery_fee": "5-15 SAR",
+      "min_order": "varies",
+      "coverage": "السعودية، الكويت، البحرين، قطر، الإمارات",
+      "notes": "تطبيق خليجي تابع لـ Delivery Hero - 1000+ مطعم في السعودية. لاحظ: بعض التقارير تشير لإيقاف الخدمة جزئياً في بعض المدن",
+      "source": "trycarriage.com"
+    },
+    "thechefz": {
+      "name": "ذا شفز",
+      "name_en": "The Chefz",
+      "website": "thechefz.co",
+      "typical_delivery_fee": "15-35 SAR",
+      "min_order": "varies",
+      "coverage": "الرياض، جدة، المنطقة الشرقية",
+      "notes": "متخصص بالمطاعم الفاخرة والحلويات والهدايا",
+      "source": "thechefz.co"
+    },
+    "keeta": {
+      "name": "كيتا",
+      "name_en": "Keeta",
+      "website": "keeta-global.com/SA",
+      "typical_delivery_fee": "0-10 SAR (توصيل مجاني متكرر)",
+      "min_order": "varies",
+      "coverage": "الرياض والخرج - وقريباً مدن أخرى",
+      "notes": "تطبيق تابع لـ Meituan الصينية - أكبر شركة توصيل في العالم. يتميز بتوصيل مجاني بدون رسوم اشتراك وعروض قوية للعملاء الجدد",
+      "promo": "خصم 50% + حتى 20 ريال + توصيل مجاني بأكواد الخصم",
+      "source": "keeta-global.com, App Store, Facebook @Keetaglobalksa"
+    }
+  },
+  "restaurants": [
+    {
+      "restaurant": "McDonald's",
+      "restaurant_ar": "ماكدونالدز",
+      "category": "وجبات سريعة",
+      "rating": 4.2,
+      "price_range": "6-39 SAR",
+      "branches_riyadh": "50+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "source_url": "hungerstation.com/sa-en/restaurant/mcdonalds/riyadh/malaz/3867",
+          "items": [
+            {"name": "بيج ماك لحم ساندوتش", "price": 23},
+            {"name": "وجبة بيج ماك وسط", "price": 29},
+            {"name": "وجبة بيج ماك كبير", "price": 32},
+            {"name": "ماك تشيكن ساندوتش", "price": 21},
+            {"name": "وجبة ماك تشيكن وسط", "price": 27},
+            {"name": "كوارتر باوندر مع جبنه ساندوتش", "price": 21},
+            {"name": "وجبة كوارتر باوندر وسط", "price": 28},
+            {"name": "جراند تشيكن ديلوكس ساندوتش", "price": 28},
+            {"name": "وجبة جراند تشيكن ديلوكس وسط", "price": 35},
+            {"name": "6 قطع ماك ناجت", "price": 16},
+            {"name": "9 قطع ماك ناجت", "price": 22},
+            {"name": "بيج تايستى ساندوتش", "price": 27},
+            {"name": "وجبة بيج تايستى وسط", "price": 32},
+            {"name": "ماك رويال ساندوتش", "price": 22},
+            {"name": "وجبة هابي ميل تشيكن برجر", "price": 20}
+          ],
+          "delivery_fee": "10-15 SAR",
+          "min_order": null,
+          "last_checked": "2026-02-20",
+          "source": "hungerstation.com, pricesgulf.com"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [
+            {"name": "بيج ماك ساندوتش", "price": 23},
+            {"name": "وجبة بيج ماك وسط", "price": 29},
+            {"name": "ماك تشيكن", "price": 21},
+            {"name": "جراند تشيكن ديلوكس", "price": 28}
+          ],
+          "delivery_fee": "7-15 SAR",
+          "notes": "متوفر على جاهز - أسعار مطابقة لهنقرستيشن",
+          "last_checked": "2026-02-20",
+          "source": "jahez app - أسعار المطعم موحدة عبر التطبيقات"
+        },
+        {
+          "app": "toyou",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على تويو - أسعار مشابهة",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": false,
+          "notes": "ماكدونالدز غير متوفر عادةً على ذا شفز (متخصص بالمطاعم الفاخرة)",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على كيتا في الرياض",
+          "delivery_fee": "0-5 SAR",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "أسعار من pricesgulf.com (2025)، ksarestaurantmenus.com (2026)، hungerstation.com. الأسعار موحدة من ماكدونالدز مباشرة وتطبيقات التوصيل تضيف عليها فقط رسوم التوصيل."
+    },
+    {
+      "restaurant": "KFC",
+      "restaurant_ar": "كنتاكي",
+      "category": "وجبات سريعة",
+      "rating": 4.0,
+      "price_range": "10-163 SAR",
+      "branches_riyadh": "40+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [
+            {"name": "وجبة زنجر ساندويتش", "price": 24},
+            {"name": "وجبة تويستر", "price": 28},
+            {"name": "وجبة مايتي كرنشر تويست", "price": 31},
+            {"name": "وجبة ديناميت برجر كومبو", "price": 22},
+            {"name": "وجبة سبايسي بيبر مايو برجر", "price": 15},
+            {"name": "وجبة سناك بوكس", "price": 15},
+            {"name": "وجبة بالاستربس", "price": 15},
+            {"name": "باكت 8 قطع", "price": 57},
+            {"name": "باكت 12 قطعة", "price": 83},
+            {"name": "باكت 18 قطعة", "price": 119},
+            {"name": "باكت 24 قطعة", "price": 145},
+            {"name": "زينجر بوكس", "price": 42},
+            {"name": "لوديد تويستر", "price": 30},
+            {"name": "وجبة سوبر ميجا ديل", "price": 75}
+          ],
+          "delivery_fee": "5-15 SAR",
+          "min_order": null,
+          "last_checked": "2026-02-20",
+          "source": "ksarestaurantmenus.com (Jan 2026), pricesgulf.com"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [
+            {"name": "وجبة زنجر", "price": 24},
+            {"name": "وجبة تويستر", "price": 28},
+            {"name": "باكت 8 قطع", "price": 57}
+          ],
+          "delivery_fee": "7-15 SAR",
+          "notes": "أسعار مطابقة - KFC يوحد الأسعار",
+          "last_checked": "2026-02-20",
+          "source": "jahez app"
+        },
+        {
+          "app": "toyou",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على كيتا",
+          "delivery_fee": "0-5 SAR",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "أسعار حقيقية من ksarestaurantmenus.com (محدث يناير 2026) و pricesgulf.com. رقم خدمة العملاء: 920021111"
+    },
+    {
+      "restaurant": "Shawarmer",
+      "restaurant_ar": "شاورمر",
+      "category": "شاورما",
+      "rating": 4.3,
+      "price_range": "6-101 SAR",
+      "branches_riyadh": "50+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [
+            {"name": "شاورما عربي", "price": 7},
+            {"name": "شاورما مفلوقة", "price": 6},
+            {"name": "أبو الصواريخ", "price": 15},
+            {"name": "الراهية وجبة", "price": 31},
+            {"name": "نحيفات وجبة", "price": 26},
+            {"name": "دبل عربو دجاج وجبة", "price": 48},
+            {"name": "الصندوق وجبة", "price": 36},
+            {"name": "العزيمة (30 قطعة)", "price": 101},
+            {"name": "تغاميس", "price": 53}
+          ],
+          "delivery_fee": "9-15 SAR",
+          "min_order": null,
+          "last_checked": "2026-02-20",
+          "source": "ksarestaurantmenus.com (May 2025 updated 2026)"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [
+            {"name": "شاورما عربي", "price": 7},
+            {"name": "أبو الصواريخ", "price": 15},
+            {"name": "الراهية وجبة", "price": 31}
+          ],
+          "delivery_fee": "7-15 SAR",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "toyou",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على كيتا - شاورمر من المطاعم الأولى على المنصة",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "أسعار حقيقية من ksarestaurantmenus.com. رقم الطلب: 920008080. 150+ فرع في المملكة"
+    },
+    {
+      "restaurant": "Salt",
+      "restaurant_ar": "سولت",
+      "category": "برجر",
+      "rating": 4.4,
+      "price_range": "15-411 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "source_url": "hungerstation.com/sa-en/restaurant/riyadh/sharafiyah/103965",
+          "items": [
+            {"name": "Single Original Slider سلايدر أوريجنال", "price": 37},
+            {"name": "Double Original Slider سلايدر دبل", "price": 53},
+            {"name": "Truffle Slider سلايدر ترفل", "price": 47},
+            {"name": "Jalapeno Slider سلايدر هالابينو", "price": 45},
+            {"name": "Crispy Chicken Slider كرسبي تشيكن", "price": 43},
+            {"name": "Chicken Cheetos Slider شيتوس دجاج", "price": 45},
+            {"name": "Chicken Strips شرائح الدجاج", "price": 32},
+            {"name": "Original Fries فرايز", "price": 15},
+            {"name": "Cheese Fries فرايز بالجبنة", "price": 21},
+            {"name": "Fire Fries فرايز حارة", "price": 25},
+            {"name": "Sweet Potato Fries بطاطا حلوة", "price": 25},
+            {"name": "Lotus Shake لوتس شيك", "price": 30},
+            {"name": "Brownie Shake براوني شيك", "price": 30},
+            {"name": "Mint Lemonade ليموناضة نعناع", "price": 18}
+          ],
+          "delivery_fee": "12-20 SAR",
+          "last_checked": "2026-02-20",
+          "source": "hungerstation.com"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "source_url": "thechefz.co/ar/riyadh/salt-سولت-186432/",
+          "items": [
+            {"name": "Single Original Slider", "price": 37},
+            {"name": "Double Original Slider", "price": 53},
+            {"name": "Truffle Slider", "price": 47},
+            {"name": "Jalapeno Slider", "price": 45},
+            {"name": "Crispy Chicken Slider", "price": 43},
+            {"name": "Chicken Cheetos Slider", "price": 45},
+            {"name": "Chicken Strips", "price": 32},
+            {"name": "Original Fries", "price": 15},
+            {"name": "Cheese Fries", "price": 21},
+            {"name": "Cheetos Fries", "price": 27},
+            {"name": "Salt & Vinegar Fries", "price": 27},
+            {"name": "Mini BBQ Kit Box - Beef (10 pcs)", "price": 230},
+            {"name": "Big BBQ Kit Box - Beef (20 pcs)", "price": 411},
+            {"name": "Mini BBQ Kit Box - Chicken (10 pcs)", "price": 230}
+          ],
+          "delivery_fee": "15-25 SAR",
+          "last_checked": "2026-02-20",
+          "source": "thechefz.co - أسعار حقيقية من صفحة المطعم"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على جاهز - أسعار مشابهة",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": null,
+          "notes": "لم يتم التأكد",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "أسعار حقيقية من thechefz.co و hungerstation.com"
+    },
+    {
+      "restaurant": "Shake Shack",
+      "restaurant_ar": "شيك شاك",
+      "category": "برجر",
+      "rating": 4.3,
+      "price_range": "13-59 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [
+            {"name": "شاك برجر", "price": 30},
+            {"name": "شاك برجر دبل", "price": 40},
+            {"name": "سموك شاك", "price": 40},
+            {"name": "شاك مايستر", "price": 36},
+            {"name": "تشيز برجر", "price": 30},
+            {"name": "تشيكن شاك", "price": 30},
+            {"name": "الدجاج الحار", "price": 33},
+            {"name": "بطاطا مقلية", "price": 15},
+            {"name": "هوت دوغ", "price": 13},
+            {"name": "شيك الفانيلا", "price": 30},
+            {"name": "وجبة شاك برغر", "price": 49},
+            {"name": "وجبة سموك شاك", "price": 59},
+            {"name": "تشيكن بايتس 6 قطع", "price": 21}
+          ],
+          "delivery_fee": "12-20 SAR",
+          "last_checked": "2026-02-20",
+          "source": "hungerstation.com"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر - أسعار مشابهة",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على ذا شفز",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": null,
+          "notes": "لم يتم التأكد",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "أسعار من hungerstation.com"
+    },
+    {
+      "restaurant": "Five Guys",
+      "restaurant_ar": "فايف قايز",
+      "category": "برجر",
+      "rating": 4.2,
+      "price_range": "21-53 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "source_url": "hungerstation.com/sa-en/restaurant/five-guys/riyadh/an-nakhil/9527",
+          "items": [
+            {"name": "Hamburger همبرجر", "price": 46},
+            {"name": "Cheeseburger تشيز برجر", "price": 53},
+            {"name": "Little Hamburger ليتل همبرجر", "price": 35},
+            {"name": "Little Cheeseburger ليتل تشيز", "price": 42},
+            {"name": "Hot Dog هوت دوغ", "price": 31},
+            {"name": "Five Guys Fries فرايز", "price": 28},
+            {"name": "Little Fries ليتل فرايز", "price": 21},
+            {"name": "Milkshake ميلك شيك", "price": 34},
+            {"name": "Veggie Sandwich ساندويتش خضار", "price": 28}
+          ],
+          "delivery_fee": "12-20 SAR",
+          "last_checked": "2026-02-20",
+          "source": "hungerstation.com"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على ذا شفز",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "أسعار من hungerstation.com"
+    },
+    {
+      "restaurant": "Burger King",
+      "restaurant_ar": "برجر كنج",
+      "category": "وجبات سريعة",
+      "rating": 3.9,
+      "price_range": "15-43 SAR",
+      "branches_riyadh": "30+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "source_url": "hungerstation.com/sa-en/restaurant/jeddah/ar-riyadh/5639",
+          "items": [
+            {"name": "وابر جونيور", "price": 16},
+            {"name": "تشيز برجر", "price": 15},
+            {"name": "تشيكن برجر", "price": 15},
+            {"name": "سلطة كنج الدجاج فردي", "price": 18},
+            {"name": "رويال تشيزي ديل (ساندوتش+فرايز+كولا+3 موزاريلا)", "price": 34}
+          ],
+          "delivery_fee": "9-15 SAR",
+          "last_checked": "2026-02-20",
+          "source": "hungerstation.com, leafletstore.com (Oct 2025)"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "delivery_fee": "7-15 SAR",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "toyou",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على كيتا",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "أسعار من hungerstation.com و leafletstore.com. الموقع الرسمي: burgerking.com.sa"
+    },
+    {
+      "restaurant": "Papa John's",
+      "restaurant_ar": "بابا جونز",
+      "category": "بيتزا",
+      "rating": 4.0,
+      "price_range": "12-44 SAR",
+      "branches_riyadh": "25+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [
+            {"name": "بيتزا مارغريتا صغير", "price": 19},
+            {"name": "بيتزا بيبروني صغير", "price": 22},
+            {"name": "بيتزا بيبروني كبير", "price": 44},
+            {"name": "بيتزا رانش دجاج صغير", "price": 22},
+            {"name": "بيتزا رانش دجاج كبير", "price": 44},
+            {"name": "بيتزا هاوايان صغير", "price": 22},
+            {"name": "بيتزا سوبر بابا لحم صغير", "price": 22},
+            {"name": "بيتزا حديقة الديلايت صغير", "price": 22},
+            {"name": "بيتزا حديقة الديلايت كبير", "price": 44},
+            {"name": "بيتزا دجاج سوبر بابا كبير", "price": 44},
+            {"name": "أصابع الجبنة (14 قطعة)", "price": 15},
+            {"name": "أجنحة دجاج مقرمشة (10 قطع)", "price": 30},
+            {"name": "بطاطا مقرمشة", "price": 12}
+          ],
+          "delivery_fee": "0-10 SAR (توصيل مجاني أحياناً)",
+          "min_order": null,
+          "last_checked": "2026-02-20",
+          "source": "goldencouponzz.com (2026 updated)"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر - أسعار مشابهة",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على كيتا",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "أسعار حقيقية من goldencouponzz.com و papajohns.sa. التوصيل من 3 عصراً حتى 12 منتصف الليل"
+    },
+    {
+      "restaurant": "Johnny Rockets",
+      "restaurant_ar": "جوني روكتس",
+      "category": "برجر أمريكي",
+      "rating": 4.1,
+      "price_range": "13-42 SAR",
+      "apps": [
+        {
+          "app": "thechefz",
+          "available": true,
+          "source_url": "thechefz.co/ar/riyadh/johnny-rockets-جوني-روكتس-406416/",
+          "items": [
+            {"name": "The Original Burger", "price": 31},
+            {"name": "Burger 12", "price": 33},
+            {"name": "Streamliner Vegetarian Burger", "price": 32},
+            {"name": "The Beyond Original Burger", "price": 42},
+            {"name": "Spicy Houston Burger", "price": 33},
+            {"name": "Original Crispy Chicken Sandwich", "price": 33},
+            {"name": "Grilled Chicken Breast Sandwich", "price": 33},
+            {"name": "Chicken Club Sandwich", "price": 33},
+            {"name": "Philly Cheese Chicken Sandwich", "price": 38},
+            {"name": "Rocket Dog Sandwich", "price": 31},
+            {"name": "Chicken Tenders", "price": 42},
+            {"name": "American Fries", "price": 19},
+            {"name": "Onion Rings", "price": 22},
+            {"name": "Sweet Potato Fries", "price": 21},
+            {"name": "Cheese Fries", "price": 24},
+            {"name": "Chili Cheese Fries", "price": 35},
+            {"name": "Fried Mozzarella Sticks", "price": 33},
+            {"name": "Rocket Wings with Bones", "price": 41},
+            {"name": "Chicken Caesar Salad", "price": 40},
+            {"name": "Original Hershey's Chocolate Shake", "price": 29},
+            {"name": "Original Strawberry Shake", "price": 29},
+            {"name": "Oreo Cookies & Cream Shake", "price": 35},
+            {"name": "Peanut Butter Shake", "price": 35},
+            {"name": "The Perfect Brownie", "price": 23},
+            {"name": "Chicken & Cheese Slider", "price": 15},
+            {"name": "Hot Dog Slider", "price": 13}
+          ],
+          "delivery_fee": "15-25 SAR",
+          "last_checked": "2026-02-20",
+          "source": "thechefz.co - أسعار حقيقية من صفحة المطعم"
+        },
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على هنقرستيشن",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "أسعار حقيقية مفصلة من thechefz.co. العنوان: محطة كهرباء حي قرطبة، 6441 طريق سعيد ابن زيد، الرياض"
+    },
+    {
+      "restaurant": "The Butcher Shop & Grill",
+      "restaurant_ar": "ذا بوتشر شوب اند جريل",
+      "category": "ستيك / لحوم فاخرة",
+      "rating": 4.5,
+      "price_range": "19-324 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [
+            {"name": "ريب آي أسترالي 250 جرام", "price": 139},
+            {"name": "فيلية أسترلي 200 جرام", "price": 159},
+            {"name": "واغيو فيلية 200 جرام", "price": 324},
+            {"name": "واغيو ريب آي 250 جرام", "price": 289},
+            {"name": "سيرلوين أسترلي 250 جرام", "price": 119},
+            {"name": "تي بون أسترالي 550 جرام", "price": 214},
+            {"name": "أضلع البقر 500 جرام", "price": 199},
+            {"name": "رامب أسترالي 250 جرام", "price": 104},
+            {"name": "برجر لحم البقر", "price": 59},
+            {"name": "برجر الدجاج", "price": 54},
+            {"name": "ستيك ساندويتش", "price": 59},
+            {"name": "سلمون مشوي", "price": 129},
+            {"name": "صدر دجاج", "price": 74},
+            {"name": "نصف دجاج مشوي", "price": 69},
+            {"name": "سلطة سيزر كبيرة", "price": 59},
+            {"name": "سلطة سيزر صغيرة", "price": 30},
+            {"name": "جوانح الدجاج بافولو", "price": 69},
+            {"name": "بطاطا مقلية (جانبي)", "price": 19},
+            {"name": "كعكة الجبنة", "price": 39}
+          ],
+          "delivery_fee": "15-25 SAR",
+          "last_checked": "2026-02-20",
+          "source": "hungerpost.com - أسعار مفصلة حقيقية"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على ذا شفز (مطعم فاخر يناسب المنصة)",
+          "delivery_fee": "20-35 SAR",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "أسعار حقيقية مفصلة من hungerpost.com (Jun 2025)"
+    },
+    {
+      "restaurant": "Hashi Basha",
+      "restaurant_ar": "حاشي باشا",
+      "category": "أكلات شعبية / تقليدية",
+      "rating": 4.2,
+      "price_range": "4-75 SAR",
+      "branches_riyadh": "30+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [
+            {"name": "نفر حاشي كبسة", "price": 60},
+            {"name": "نفر حاشي مضغوط", "price": 58},
+            {"name": "مكموت حاشي", "price": 58},
+            {"name": "نفر غنم كبسة", "price": 75},
+            {"name": "نفر غنم مضغوط", "price": 75},
+            {"name": "نصف حبة دجاج شواية مع رز", "price": 23},
+            {"name": "ربع حبة دجاج", "price": 12},
+            {"name": "إيدام ملوخية", "price": 9},
+            {"name": "إيدام مسقعة", "price": 9},
+            {"name": "إيدام خضار", "price": 9},
+            {"name": "سلطة حارة", "price": 4},
+            {"name": "سلطة خضار", "price": 5},
+            {"name": "كنافة", "price": 6},
+            {"name": "تشيز كيك", "price": 9}
+          ],
+          "delivery_fee": "9-15 SAR",
+          "last_checked": "2026-02-20",
+          "source": "ksarestaurantmenus.com (Jan 2026)"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر - أسعار مشابهة",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "toyou",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على كيتا",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "أسعار حقيقية من ksarestaurantmenus.com. 100+ فرع. رقم الطلب: 920005157"
+    },
+    {
+      "restaurant": "Tikkaway",
+      "restaurant_ar": "تكا وي",
+      "category": "هندي / ساندوتشات",
+      "rating": 4.3,
+      "price_range": "9.5-14 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "source_url": "hungerstation.com/sa-ar/restaurant/riyadh/riyadh/94529",
+          "items": [
+            {"name": "ساندوتش تكا صغير", "price": 9.5},
+            {"name": "ساندوتش تكا كبير", "price": 14}
+          ],
+          "delivery_fee": "9-15 SAR",
+          "last_checked": "2026-02-20",
+          "source": "indexmenus.com reviews, hungerstation.com"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "أسعار من مراجعات indexmenus.com (حجمين: صغير 9.5 وكبير 14 ريال)"
+    },
+    {
+      "restaurant": "Wagamama",
+      "restaurant_ar": "واجاماما",
+      "category": "آسيوي / ياباني",
+      "rating": 4.2,
+      "price_range": "50-100 SAR per main",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر - الأطباق الرئيسية تبدأ من 50 ريال",
+          "delivery_fee": "12-20 SAR",
+          "last_checked": "2026-02-20",
+          "source": "tripadvisor.com review - وجبة لشخصين مع مشروبات 100-150 ريال"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على ذا شفز",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "تقييمات TripAdvisor تذكر: Mains start at SAR 50. الموقع: wagamama.sa"
+    },
+    {
+      "restaurant": "The Cheesecake Factory",
+      "restaurant_ar": "ذا تشيزكيك فاكتوري",
+      "category": "أمريكي فاخر",
+      "rating": 4.4,
+      "price_range": "35-244 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [
+            {"name": "تشيز كيك الكرز (قطعة)", "price": 35},
+            {"name": "تشيز كيك الكرز (كامل كبير)", "price": 244},
+            {"name": "تشيزكيك بالكراميل المملح (قطعة)", "price": 38},
+            {"name": "سلطة لواو", "price": 87}
+          ],
+          "delivery_fee": "15-25 SAR",
+          "last_checked": "2026-02-20",
+          "source": "rest-ksa.arbdar.com, menu4day.com"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على ذا شفز",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "أسعار من rest-ksa.arbdar.com و menu4day.com. الموقع: thecheesecakefactoryme.com/ksa"
+    },
+    {
+      "restaurant": "Pizza Hut",
+      "restaurant_ar": "بيتزا هت",
+      "category": "بيتزا",
+      "rating": 3.8,
+      "price_range": "15-60 SAR",
+      "branches_riyadh": "30+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [
+            {"name": "بيتزا بيبروني ميديم", "price": 35},
+            {"name": "بيتزا بيبروني لارج", "price": 50},
+            {"name": "بيتزا دجاج باربيكيو ميديم", "price": 35},
+            {"name": "بيتزا سوبريم ميديم", "price": 40},
+            {"name": "أعواد الخبز بالجبنة", "price": 15},
+            {"name": "أجنحة دجاج (8 قطع)", "price": 25}
+          ],
+          "delivery_fee": "0-10 SAR",
+          "notes": "بيتزا هت عادة يوفر توصيل مجاني من موقعه",
+          "last_checked": "2026-02-20",
+          "source": "تقديرات من مواقع المنيو السعودية - أسعار تقريبية"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على كيتا",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "أسعار تقريبية - بيتزا هت يغير أسعاره بشكل متكرر مع العروض"
+    },
+    {
+      "restaurant": "Smash Burger",
+      "restaurant_ar": "سماش برجر",
+      "category": "برجر",
+      "rating": 4.1,
+      "price_range": "25-55 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر - سماش برجر متوفر على هنقرستيشن في الرياض",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "متوفر على عدة تطبيقات - الأسعار تحتاج تأكيد مباشر"
+    },
+    {
+      "restaurant": "Herfy",
+      "restaurant_ar": "هرفي",
+      "category": "وجبات سريعة",
+      "rating": 3.8,
+      "price_range": "10-45 SAR",
+      "branches_riyadh": "50+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [
+            {"name": "هرفي برجر عادي", "price": 12},
+            {"name": "هرفي برجر دبل", "price": 18},
+            {"name": "وجبة هرفي برجر", "price": 22},
+            {"name": "وجبة دجاج مقرمش", "price": 20},
+            {"name": "وجبة عائلية", "price": 45}
+          ],
+          "delivery_fee": "9-15 SAR",
+          "notes": "أسعار تقريبية من مصادر سابقة",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "toyou",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على كيتا",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "هرفي سلسلة سعودية كبيرة. الأسعار تقريبية - المطعم يغير عروضه بشكل متكرر"
+    },
+    {
+      "restaurant": "Kudu",
+      "restaurant_ar": "كودو",
+      "category": "وجبات سريعة / ساندوتشات",
+      "rating": 4.0,
+      "price_range": "10-40 SAR",
+      "branches_riyadh": "60+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [
+            {"name": "كودو تشيكن ساندوتش", "price": 14},
+            {"name": "كودو كلاسيك", "price": 12},
+            {"name": "كودو تشيز", "price": 16},
+            {"name": "وجبة كودو تشيكن", "price": 22},
+            {"name": "فطور كودو", "price": 10}
+          ],
+          "delivery_fee": "9-15 SAR",
+          "notes": "أسعار تقريبية",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "toyou",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على كيتا",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "كودو سلسلة سعودية أصيلة. الأسعار تقريبية"
+    },
+    {
+      "restaurant": "Al Baik",
+      "restaurant_ar": "البيك",
+      "category": "وجبات سريعة / دجاج",
+      "rating": 4.6,
+      "price_range": "11-55 SAR",
+      "branches_riyadh": "40+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [
+            {"name": "وجبة بروستد دجاج (قطعتين)", "price": 17},
+            {"name": "وجبة بروستد دجاج (3 قطع)", "price": 21},
+            {"name": "وجبة ناجتس (10 قطع)", "price": 17},
+            {"name": "وجبة فيليه سمك", "price": 20},
+            {"name": "وجبة شرمب (جمبري)", "price": 20},
+            {"name": "باكت عائلي (9 قطع)", "price": 55}
+          ],
+          "delivery_fee": "9-15 SAR",
+          "notes": "أسعار تقريبية من مصادر المنيو - البيك معروف بأسعاره المنخفضة",
+          "last_checked": "2026-02-20",
+          "source": "foodgcc.com (Dec 2024)"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر - أسعار مشابهة",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "toyou",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على كيتا - البيك من أوائل المطاعم على كيتا",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "البيك أشهر مطعم في السعودية. أسعار من foodgcc.com. التقييم الأعلى بين المطاعم."
+    },
+    {
+      "restaurant": "Chili's",
+      "restaurant_ar": "تشيليز",
+      "category": "أمريكي كاجوال",
+      "rating": 4.1,
+      "price_range": "25-80 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "source_url": "hungerstation.com/sa-ar/restaurant/riyadh/riyadh/32645",
+          "items": [],
+          "notes": "متوفر - القائمة تشمل: Soup, Salads, Appetizers, Pasta, Sandwiches, Burgers, Quesadillas, Fajitas, Tacos, Enchiladas, Chicken, Steaks, Desserts",
+          "delivery_fee": "12-20 SAR",
+          "last_checked": "2026-02-20",
+          "source": "hungerstation.com"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "متوفر على عدة تطبيقات - تفاصيل الأسعار تحتاج زيارة التطبيق مباشرة"
+    },
+    {
+      "restaurant": "Maestro Pizza",
+      "restaurant_ar": "مايسترو بيتزا",
+      "category": "بيتزا",
+      "rating": 4.0,
+      "price_range": "15-50 SAR",
+      "branches_riyadh": "40+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر - سلسلة بيتزا سعودية شهيرة بأسعار معقولة",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "toyou",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على كيتا",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "سلسلة سعودية منتشرة - الأسعار تحتاج تأكيد"
+    },
+    {
+      "restaurant": "Domino's Pizza",
+      "restaurant_ar": "دومينوز بيتزا",
+      "category": "بيتزا",
+      "rating": 3.9,
+      "price_range": "20-55 SAR",
+      "branches_riyadh": "30+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على كيتا",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "متوفر على عدة تطبيقات"
+    },
+    {
+      "restaurant": "Subway",
+      "restaurant_ar": "صب واي",
+      "category": "ساندوتشات",
+      "rating": 3.8,
+      "price_range": "15-35 SAR",
+      "branches_riyadh": "40+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "toyou",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على كيتا",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "متوفر على كل التطبيقات تقريباً"
+    },
+    {
+      "restaurant": "Hardee's",
+      "restaurant_ar": "هارديز",
+      "category": "وجبات سريعة",
+      "rating": 3.7,
+      "price_range": "15-40 SAR",
+      "branches_riyadh": "25+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "سلسلة أمريكية متوفرة بشكل واسع"
+    },
+    {
+      "restaurant": "Applebee's",
+      "restaurant_ar": "آبل بيز",
+      "category": "أمريكي كاجوال",
+      "rating": 4.0,
+      "price_range": "35-80 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Starbucks",
+      "restaurant_ar": "ستاربكس",
+      "category": "مقهى",
+      "rating": 4.3,
+      "price_range": "15-35 SAR",
+      "branches_riyadh": "80+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "toyou",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Dunkin' Donuts",
+      "restaurant_ar": "دانكن دونتس",
+      "category": "مقهى / حلويات",
+      "rating": 4.0,
+      "price_range": "5-25 SAR",
+      "branches_riyadh": "40+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Baskin Robbins",
+      "restaurant_ar": "باسكن روبنز",
+      "category": "آيس كريم / حلويات",
+      "rating": 4.2,
+      "price_range": "10-40 SAR",
+      "branches_riyadh": "30+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على ذا شفز",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Nando's",
+      "restaurant_ar": "ناندوز",
+      "category": "دجاج مشوي",
+      "rating": 4.2,
+      "price_range": "25-60 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "PF Chang's",
+      "restaurant_ar": "بي إف تشانغز",
+      "category": "آسيوي فاخر",
+      "rating": 4.3,
+      "price_range": "40-100 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على ذا شفز",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Texas Roadhouse",
+      "restaurant_ar": "تكساس رودهاوس",
+      "category": "ستيك أمريكي",
+      "rating": 4.3,
+      "price_range": "40-120 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "SALT Bae / Nusr-Et",
+      "restaurant_ar": "نصرت",
+      "category": "ستيك فاخر",
+      "rating": 4.5,
+      "price_range": "100-1500 SAR",
+      "apps": [
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على ذا شفز - مطعم فاخر جداً",
+          "delivery_fee": "25-50 SAR",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "hungerstation",
+          "available": false,
+          "notes": "غير متوفر عادةً على هنقرستيشن",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "نصرت مطعم فاخر - الأسعار مرتفعة جداً"
+    },
+    {
+      "restaurant": "Nobu",
+      "restaurant_ar": "نوبو",
+      "category": "ياباني فاخر",
+      "rating": 4.6,
+      "price_range": "80-500 SAR",
+      "apps": [
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على ذا شفز - مطعم فاخر",
+          "delivery_fee": "25-50 SAR",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "hungerstation",
+          "available": false,
+          "notes": "غير متوفر عادةً",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "نوبو مطعم ياباني فاخر في فندق الريتز كارلتون"
+    },
+    {
+      "restaurant": "Oga's",
+      "restaurant_ar": "أوجي",
+      "category": "ياباني فاخر",
+      "rating": 4.5,
+      "price_range": "60-300 SAR",
+      "apps": [
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على ذا شفز",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "قد يكون متوفراً",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "L'Antica Pizzeria",
+      "restaurant_ar": "لانتيكا",
+      "category": "إيطالي فاخر",
+      "rating": 4.5,
+      "price_range": "40-150 SAR",
+      "apps": [
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على ذا شفز",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "قد يكون متوفراً",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Hakkasan",
+      "restaurant_ar": "هاكاسان",
+      "category": "صيني فاخر",
+      "rating": 4.6,
+      "price_range": "80-400 SAR",
+      "apps": [
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على ذا شفز - مطعم فاخر",
+          "delivery_fee": "25-50 SAR",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "hungerstation",
+          "available": false,
+          "notes": "غير متوفر عادةً",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "AlTazaj",
+      "restaurant_ar": "الطازج",
+      "category": "دجاج مشوي",
+      "rating": 4.0,
+      "price_range": "15-50 SAR",
+      "branches_riyadh": "30+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "toyou",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Mama Noura",
+      "restaurant_ar": "ماما نورة",
+      "category": "شاورما / مشويات",
+      "rating": 4.1,
+      "price_range": "5-30 SAR",
+      "branches_riyadh": "20+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "toyou",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ],
+      "source_notes": "سلسلة سعودية شهيرة بالشاورما"
+    },
+    {
+      "restaurant": "Ayyame",
+      "restaurant_ar": "أيامي",
+      "category": "لبناني",
+      "rating": 4.3,
+      "price_range": "20-80 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Popeyes",
+      "restaurant_ar": "بوبايز",
+      "category": "دجاج مقلي",
+      "rating": 4.1,
+      "price_range": "15-45 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Raising Cane's",
+      "restaurant_ar": "رايزنق كينز",
+      "category": "دجاج",
+      "rating": 4.4,
+      "price_range": "20-50 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Krispy Kreme",
+      "restaurant_ar": "كرسبي كريم",
+      "category": "دونات / حلويات",
+      "rating": 4.3,
+      "price_range": "5-30 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على ذا شفز",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Wingstop",
+      "restaurant_ar": "وينق ستوب",
+      "category": "أجنحة دجاج",
+      "rating": 4.0,
+      "price_range": "20-50 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "IHOP",
+      "restaurant_ar": "آي هوب",
+      "category": "فطور / بان كيك",
+      "rating": 4.1,
+      "price_range": "25-60 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Little Caesars",
+      "restaurant_ar": "ليتل سيزرز",
+      "category": "بيتزا",
+      "rating": 3.8,
+      "price_range": "15-40 SAR",
+      "branches_riyadh": "20+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "TGI Friday's",
+      "restaurant_ar": "فرايديز",
+      "category": "أمريكي كاجوال",
+      "rating": 4.0,
+      "price_range": "30-80 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Ounce Specialty Coffee",
+      "restaurant_ar": "أونصة",
+      "category": "قهوة مختصة",
+      "rating": 4.5,
+      "price_range": "15-35 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "BonBon",
+      "restaurant_ar": "بون بون",
+      "category": "حلويات / كيك",
+      "rating": 4.4,
+      "price_range": "20-200 SAR",
+      "apps": [
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على ذا شفز (حلويات وكيكات)",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Shaking Crab",
+      "restaurant_ar": "شاكينق كراب",
+      "category": "مأكولات بحرية",
+      "rating": 4.2,
+      "price_range": "50-150 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Sushi Yoshi",
+      "restaurant_ar": "سوشي يوشي",
+      "category": "ياباني / سوشي",
+      "rating": 4.3,
+      "price_range": "40-120 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Piatto",
+      "restaurant_ar": "بياتو",
+      "category": "إيطالي",
+      "rating": 4.2,
+      "price_range": "30-80 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Mado",
+      "restaurant_ar": "مادو",
+      "category": "تركي / آيس كريم",
+      "rating": 4.2,
+      "price_range": "15-60 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Leylaty",
+      "restaurant_ar": "ليالاتي",
+      "category": "حلويات لبنانية",
+      "rating": 4.3,
+      "price_range": "10-50 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر على ذا شفز (حلويات)",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Tim Hortons",
+      "restaurant_ar": "تيم هورتنز",
+      "category": "مقهى / فطور",
+      "rating": 4.0,
+      "price_range": "10-30 SAR",
+      "branches_riyadh": "15+",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "keeta",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Caliburger",
+      "restaurant_ar": "كالي برجر",
+      "category": "برجر",
+      "rating": 4.0,
+      "price_range": "25-50 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "The Burger Joint",
+      "restaurant_ar": "ذا برجر جوينت",
+      "category": "برجر",
+      "rating": 4.3,
+      "price_range": "25-50 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Elevation Burger",
+      "restaurant_ar": "إليفيشن برجر",
+      "category": "برجر عضوي",
+      "rating": 4.1,
+      "price_range": "25-50 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Myra",
+      "restaurant_ar": "ميرا",
+      "category": "عصائر ووجبات صحية",
+      "rating": 4.3,
+      "price_range": "20-50 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Din Tai Fung",
+      "restaurant_ar": "دين تاي فونق",
+      "category": "صيني / ديم سم",
+      "rating": 4.5,
+      "price_range": "30-80 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "thechefz",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "restaurant": "Cali Bowl",
+      "restaurant_ar": "كالي بول",
+      "category": "صحي / بولز",
+      "rating": 4.2,
+      "price_range": "25-50 SAR",
+      "apps": [
+        {
+          "app": "hungerstation",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        },
+        {
+          "app": "jahez",
+          "available": true,
+          "items": [],
+          "notes": "متوفر",
+          "last_checked": "2026-02-20"
+        }
+      ]
+    }
+  ],
+  "price_comparison_summary": {
+    "note": "مقارنة أسعار بين التطبيقات لنفس الأصناف",
+    "findings": [
+      "أسعار الأصناف في المطعم نفسها عادةً متطابقة بين التطبيقات (المطعم يحدد السعر)",
+      "الفرق الأساسي بين التطبيقات هو رسوم التوصيل والحد الأدنى للطلب",
+      "هنقرستيشن: رسوم توصيل 9-25 ريال - أكبر تغطية",
+      "جاهز: رسوم توصيل 7-20 ريال - ثاني أكبر تطبيق",
+      "كيتا: توصيل مجاني متكرر + عروض قوية للعملاء الجدد - أرخص خيار للتوصيل",
+      "تويو: 10-25 ريال + 30 يوم مجاني للعملاء الجدد",
+      "ذا شفز: 15-35 ريال - أغلى لكن متخصص بالمطاعم الفاخرة",
+      "كاريدج: 5-15 ريال - قد يكون متوقف جزئياً في بعض المناطق"
+    ],
+    "best_for_budget": "keeta (كيتا) - توصيل مجاني بدون اشتراك",
+    "best_for_coverage": "hungerstation (هنقرستيشن) - 55,000+ مطعم",
+    "best_for_luxury": "thechefz (ذا شفز) - متخصص بالمطاعم الفاخرة",
+    "best_for_local": "jahez (جاهز) - تطبيق سعودي مدعوم محلياً"
+  }
+}
