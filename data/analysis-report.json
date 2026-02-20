@@ -1,0 +1,374 @@
+{
+  "generated_at": "2026-02-20T22:30:00Z",
+  "total_places": 4022,
+  "places_by_category": {
+    "مطعم": 1224,
+    "كافيه": 776,
+    "ترفيه": 435,
+    "فنادق": 308,
+    "حلويات": 288,
+    "تسوق": 264,
+    "طبيعة": 213,
+    "شاليه": 158,
+    "مولات": 137,
+    "متاحف": 116,
+    "فعاليات": 101,
+    "أخرى": 2
+  },
+  "avg_rating_by_category": {
+    "ترفيه": 4.34,
+    "تسوق": 4.28,
+    "حلويات": 4.34,
+    "شاليه": 4.22,
+    "طبيعة": 4.23,
+    "فعاليات": 4.4,
+    "فنادق": 4.26,
+    "كافيه": 4.26,
+    "متاحف": 4.34,
+    "مطعم": 4.21,
+    "مولات": 4.19
+  },
+  "top_neighborhoods": [
+    {
+      "neighborhood": "حي العليا",
+      "count": 303
+    },
+    {
+      "neighborhood": "الرياض",
+      "count": 275
+    },
+    {
+      "neighborhood": "حي الملقا",
+      "count": 155
+    },
+    {
+      "neighborhood": "فروع متعددة",
+      "count": 126
+    },
+    {
+      "neighborhood": "حي حطين",
+      "count": 119
+    },
+    {
+      "neighborhood": "حي الياسمين",
+      "count": 115
+    },
+    {
+      "neighborhood": "الدرعية",
+      "count": 68
+    },
+    {
+      "neighborhood": "حي السليمانية",
+      "count": 66
+    },
+    {
+      "neighborhood": "كافد",
+      "count": 62
+    },
+    {
+      "neighborhood": "حي الملز",
+      "count": 61
+    },
+    {
+      "neighborhood": "حي النرجس",
+      "count": 61
+    },
+    {
+      "neighborhood": "شمال الرياض",
+      "count": 60
+    },
+    {
+      "neighborhood": "حي الصحافة",
+      "count": 57
+    },
+    {
+      "neighborhood": "حي الرياض",
+      "count": 52
+    },
+    {
+      "neighborhood": "حي الربيع",
+      "count": 49
+    },
+    {
+      "neighborhood": "حي النخيل",
+      "count": 48
+    },
+    {
+      "neighborhood": "حي العقيق",
+      "count": 46
+    },
+    {
+      "neighborhood": "جنوب الرياض",
+      "count": 38
+    },
+    {
+      "neighborhood": "الرياض بارك",
+      "count": 36
+    },
+    {
+      "neighborhood": "حي الورود",
+      "count": 32
+    },
+    {
+      "neighborhood": "حي الرمال",
+      "count": 32
+    },
+    {
+      "neighborhood": "الحي الدبلوماسي",
+      "count": 30
+    },
+    {
+      "neighborhood": "حي النسيم",
+      "count": 30
+    },
+    {
+      "neighborhood": "حي الشفا",
+      "count": 28
+    },
+    {
+      "neighborhood": "حي الحمراء",
+      "count": 26
+    },
+    {
+      "neighborhood": "حي الربوة",
+      "count": 24
+    },
+    {
+      "neighborhood": "شرق الرياض",
+      "count": 24
+    },
+    {
+      "neighborhood": "حي المربع",
+      "count": 24
+    },
+    {
+      "neighborhood": "أحياء متعددة",
+      "count": 23
+    },
+    {
+      "neighborhood": "حي العزيزية",
+      "count": 23
+    }
+  ],
+  "field_completeness": {
+    "google_rating": {
+      "count": 3191,
+      "total": 4022,
+      "percentage": 79.3
+    },
+    "phone": {
+      "count": 249,
+      "total": 4022,
+      "percentage": 6.2
+    },
+    "website": {
+      "count": 189,
+      "total": 4022,
+      "percentage": 4.7
+    },
+    "instagram": {
+      "count": 174,
+      "total": 4022,
+      "percentage": 4.3
+    },
+    "description_ar": {
+      "count": 3229,
+      "total": 4022,
+      "percentage": 80.3
+    },
+    "lat": {
+      "count": 3988,
+      "total": 4022,
+      "percentage": 99.2
+    },
+    "lng": {
+      "count": 3988,
+      "total": 4022,
+      "percentage": 99.2
+    },
+    "opening_hours": {
+      "count": 557,
+      "total": 4022,
+      "percentage": 13.8
+    },
+    "price_range": {
+      "count": 23,
+      "total": 4022,
+      "percentage": 0.6
+    },
+    "price_level": {
+      "count": 3192,
+      "total": 4022,
+      "percentage": 79.4
+    },
+    "google_maps_url": {
+      "count": 3997,
+      "total": 4022,
+      "percentage": 99.4
+    },
+    "image_url": {
+      "count": 0,
+      "total": 4022,
+      "percentage": 0.0
+    },
+    "tags": {
+      "count": 830,
+      "total": 4022,
+      "percentage": 20.6
+    },
+    "review_count": {
+      "count": 1110,
+      "total": 4022,
+      "percentage": 27.6
+    },
+    "perfect_for": {
+      "count": 1973,
+      "total": 4022,
+      "percentage": 49.1
+    },
+    "audience": {
+      "count": 3192,
+      "total": 4022,
+      "percentage": 79.4
+    },
+    "neighborhood": {
+      "count": 3217,
+      "total": 4022,
+      "percentage": 80.0
+    },
+    "name_en": {
+      "count": 4022,
+      "total": 4022,
+      "percentage": 100.0
+    },
+    "tags_combined": {
+      "count": 4022,
+      "total": 4022,
+      "percentage": 100.0
+    }
+  },
+  "fields_most_null": [
+    {
+      "field": "image_url",
+      "null_pct": 100.0
+    },
+    {
+      "field": "price_range",
+      "null_pct": 99.4
+    },
+    {
+      "field": "instagram",
+      "null_pct": 95.7
+    },
+    {
+      "field": "website",
+      "null_pct": 95.3
+    },
+    {
+      "field": "phone",
+      "null_pct": 93.8
+    },
+    {
+      "field": "opening_hours",
+      "null_pct": 86.2
+    },
+    {
+      "field": "tags",
+      "null_pct": 79.4
+    },
+    {
+      "field": "review_count",
+      "null_pct": 72.4
+    },
+    {
+      "field": "perfect_for",
+      "null_pct": 50.9
+    },
+    {
+      "field": "google_rating",
+      "null_pct": 20.7
+    },
+    {
+      "field": "price_level",
+      "null_pct": 20.6
+    },
+    {
+      "field": "audience",
+      "null_pct": 20.6
+    },
+    {
+      "field": "neighborhood",
+      "null_pct": 20.0
+    },
+    {
+      "field": "description_ar",
+      "null_pct": 19.7
+    },
+    {
+      "field": "lat",
+      "null_pct": 0.8
+    },
+    {
+      "field": "lng",
+      "null_pct": 0.8
+    },
+    {
+      "field": "google_maps_url",
+      "null_pct": 0.6
+    },
+    {
+      "field": "name_en",
+      "null_pct": 0.0
+    },
+    {
+      "field": "tags_combined",
+      "null_pct": 0.0
+    }
+  ],
+  "rating_distribution": {
+    "0-2": 1,
+    "2-3": 0,
+    "3-3.5": 1,
+    "3.5-4": 128,
+    "4-4.5": 2604,
+    "4.5-5": 458,
+    "no_rating": 830
+  },
+  "completeness_distribution": {
+    "0-20": 0,
+    "20-40": 784,
+    "40-60": 2767,
+    "60-80": 408,
+    "80-100": 63
+  },
+  "embedding_ready_count": 3229,
+  "ai_features_added": [
+    "tags_combined",
+    "search_text",
+    "category_score",
+    "completeness_score",
+    "embedding_ready"
+  ],
+  "enrichment_merge_stats": {
+    "matched": 647,
+    "unmatched": 39,
+    "fields_filled": {
+      "cuisine": 200,
+      "perfect_for": 470,
+      "address_ar": 359,
+      "phone": 161,
+      "website": 112,
+      "instagram": 160,
+      "opening_hours": 460,
+      "review_count": 102,
+      "entry_fee": 53,
+      "kid_friendly": 105,
+      "family_friendly": 111,
+      "description_ar": 3,
+      "amenities": 334,
+      "booking_url": 180,
+      "check_in": 334,
+      "check_out": 334
+    }
+  }
+}
