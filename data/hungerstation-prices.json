@@ -1583,10 +1583,60 @@
     "rating": 4.5
   },
   {
-    "restaurant": "كيان كوفي شوب",
+    "restaurant": "بارنز كوفي",
     "restaurant_en": "Barn's Coffee",
     "category": "قهوة سعودية",
     "source": "https://hungerstation.com",
     "items": [
       {"name": "أمريكانو", "price": 12, "size": "عادي"},
-      {"name": "V60", "price": 18, "size
+      {"name": "V60", "price": 18, "size": "عادي"},
+      {"name": "لاتيه", "price": 16, "size": "عادي"},
+      {"name": "كابتشينو", "price": 16, "size": "عادي"},
+      {"name": "سبانيش لاتيه", "price": 20, "size": "عادي"},
+      {"name": "ماتشا لاتيه", "price": 20, "size": "عادي"},
+      {"name": "آيسد لاتيه", "price": 18, "size": "عادي"},
+      {"name": "كرواسون", "price": 10, "size": "قطعة"}
+    ],
+    "delivery_fee": "5-10 SAR",
+    "min_order": 15,
+    "rating": 4.4
+  },
+  {
+    "restaurant": "شرمب نيشن",
+    "restaurant_en": "Shrimp Nation",
+    "category": "مأكولات بحرية",
+    "source": "https://arabicmenu.net/shrimp-nation-menu/",
+    "items": [
+      {"name": "جمبري مقلي", "price": 35, "size": "عادي"},
+      {"name": "جمبري مشوي", "price": 39, "size": "عادي"},
+      {"name": "جمبري بالثوم", "price": 35, "size": "عادي"},
+      {"name": "فيش أند شيبس", "price": 32, "size": "عادي"},
+      {"name": "سيفود بلاتر", "price": 75, "size": "عادي"},
+      {"name": "بطاطس كاجون", "price": 12, "size": "عادي"},
+      {"name": "سلطة", "price": 15, "size": "عادي"},
+      {"name": "شوربة سيفود", "price": 18, "size": "عادي"}
+    ],
+    "delivery_fee": "9-15 SAR",
+    "min_order": 30,
+    "rating": 4.2
+  },
+  {
+    "restaurant": "الباشا",
+    "restaurant_en": "Al Basha",
+    "category": "مشويات لبنانية",
+    "source": "https://hungerstation.com",
+    "items": [
+      {"name": "مشاوي مشكلة", "price": 65, "size": "شخص"},
+      {"name": "شاورما دجاج", "price": 8, "size": "ساندوتش"},
+      {"name": "شاورما لحم", "price": 10, "size": "ساندوتش"},
+      {"name": "كباب حلبي", "price": 35, "size": "صحن"},
+      {"name": "شيش طاووق", "price": 30, "size": "صحن"},
+      {"name": "حمص", "price": 10, "size": "عادي"},
+      {"name": "فتوش", "price": 12, "size": "عادي"},
+      {"name": "كنافة", "price": 20, "size": "عادي"}
+    ],
+    "delivery_fee": "10-20 SAR",
+    "min_order": 25,
+    "rating": 4.2
+  }
+]

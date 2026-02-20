@@ -61,13 +61,15 @@ jobs:
           places = data if isinstance(data, list) else data.get('places', [])
           print(f"Total places: {len(places)}")
           
-          # Check required fields
+          # Check required fields (supports both name and name_ar)
           errors = []
           for i, p in enumerate(places):
-              if not p.get('name'):
-                  errors.append(f"Place {i}: missing name")
-              if not p.get('category'):
-                  errors.append(f"Place {i} ({p.get('name','')}): missing category")
+              name = p.get('name') or p.get('name_ar')
+              if not name:
+                  errors.append(f"Place {i}: missing name/name_ar")
+              cat = p.get('category') or p.get('category_ar')
+              if not cat:
+                  errors.append(f"Place {i} ({name}): missing category")
           
           if errors:
               print(f"❌ {len(errors)} data errors:")
@@ -78,7 +80,7 @@ jobs:
               print(f"✅ All {len(places)} places have required fields")
           
           # Check for duplicates
-          names = [p.get('name','') for p in places]
+          names = [p.get('name') or p.get('name_ar','') for p in places]
           dupes = set(n for n in names if names.count(n) > 1)
           if dupes:
               print(f"⚠️ {len(dupes)} potential duplicate names (may be valid - different branches)")
