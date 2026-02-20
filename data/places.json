@@ -90638,38 +90638,6 @@
     "district": "الرياض"
   },
   {
-    "id": "fi-glbak",
-    "name_ar": "في قلبك",
-    "name_en": "Fi Glbak",
-    "category": "مطعم",
-    "category_ar": "مطعم",
-    "category_en": "restaurant",
-    "neighborhood": "الرياض",
-    "neighborhood_en": "Riyadh",
-    "description_ar": "مطعم سعودي حاصل على Bib Gourmand من دليل ميشلان السعودية 2026. يقدم أطباق سعودية أصيلة بلمسة عصرية وأسعار ممتازة",
-    "google_rating": 4.5,
-    "price_level": "$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "MICHELIN Guide Saudi Arabia 2026"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Fi+Glbak+Riyadh",
-    "district": "الرياض",
-    "perfect_for": [
-      "أكل سعودي",
-      "ميشلان"
-    ],
-    "lat": 24.7136,
-    "lng": 46.6753,
-    "is_free": false,
-    "audience": [
-      "عوائل",
-      "شباب"
-    ],
-    "michelin": "Bib Gourmand 2026"
-  },
-  {
     "id": "mirzam-riyadh",
     "name_ar": "مرزم",
     "name_en": "Mirzam",
@@ -90690,38 +90658,6 @@
     "district": "الرياض",
     "perfect_for": [
       "فاين داينينق",
-      "ميشلان"
-    ],
-    "lat": 24.7136,
-    "lng": 46.6753,
-    "is_free": false,
-    "audience": [
-      "عوائل",
-      "شباب"
-    ],
-    "michelin": "Bib Gourmand 2026"
-  },
-  {
-    "id": "tameesa-riyadh",
-    "name_ar": "تميسة",
-    "name_en": "Tameesa",
-    "category": "مطعم",
-    "category_ar": "مطعم",
-    "category_en": "restaurant",
-    "neighborhood": "الرياض",
-    "neighborhood_en": "Riyadh",
-    "description_ar": "مطعم حاصل على Bib Gourmand من دليل ميشلان السعودية 2026. متخصص في الخبز والتميس السعودي التقليدي",
-    "google_rating": 4.4,
-    "price_level": "$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "MICHELIN Guide Saudi Arabia 2026"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Tameesa+Riyadh",
-    "district": "الرياض",
-    "perfect_for": [
-      "فطور",
       "ميشلان"
     ],
     "lat": 24.7136,
@@ -91259,36 +91195,6 @@
     ]
   },
   {
-    "id": "off-brief-riyadh",
-    "name_ar": "أوف بريف",
-    "name_en": "Off-Brief",
-    "category": "كافيه",
-    "category_ar": "كافيه",
-    "category_en": "Cafe",
-    "neighborhood": "حي الياسمين",
-    "neighborhood_en": "Al Yasmin",
-    "description_ar": "مقهى مختص بالقهوة المختصة والمشروبات الإبداعية بأجواء عصرية ومريحة",
-    "google_rating": 4.4,
-    "price_level": "$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "google"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Off+Brief+Cafe+Riyadh",
-    "district": "شمال",
-    "perfect_for": [
-      "أصدقاء",
-      "عمل"
-    ],
-    "lat": 24.82,
-    "lng": 46.635,
-    "is_free": false,
-    "audience": [
-      "شباب"
-    ]
-  },
-  {
     "id": "yann-couvreur-riyadh",
     "name_ar": "يان كوفرور",
     "name_en": "Yann Couvreur",
@@ -91754,38 +91660,6 @@
     ]
   },
   {
-    "id": "rawdhat-khorim-park",
-    "name_ar": "روضة خريم",
-    "name_en": "Rawdhat Khorim",
-    "category": "طبيعة",
-    "category_ar": "طبيعة",
-    "category_en": "Nature",
-    "neighborhood": "شمال الرياض",
-    "neighborhood_en": "North Riyadh",
-    "description_ar": "محمية طبيعية شمال الرياض تتميز بأشجار الطلح والأعشاب البرية والحياة الفطرية، مثالية للتخييم والنزهات",
-    "google_rating": 4.5,
-    "price_level": "مجاني",
-    "trending": true,
-    "is_new": false,
-    "sources": [
-      "google",
-      "tripadvisor"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Rawdhat+Khorim+Riyadh",
-    "district": "شمال",
-    "perfect_for": [
-      "عوائل",
-      "مغامرة",
-      "تخييم"
-    ],
-    "lat": 25.18,
-    "lng": 47.25,
-    "is_free": true,
-    "audience": [
-      "الكل"
-    ]
-  },
-  {
     "id": "asador-de-aranda-riyadh",
     "name_ar": "أسادور دي أراندا",
     "name_en": "Asador De Aranda",
@@ -91847,37 +91721,6 @@
     ]
   },
   {
-    "id": "akwakh-almozraa-chalets",
-    "name_ar": "شاليهات أكواخ المزرعة",
-    "name_en": "Akwakh Al Mazraa Chalets",
-    "category": "شاليه",
-    "category_ar": "شاليه",
-    "category_en": "Chalet",
-    "neighborhood": "جنوب الرياض",
-    "neighborhood_en": "South Riyadh",
-    "description_ar": "شاليهات ريفية بتصميم أكواخ مع حدائق ومسابح، مناسبة للعوائل بأسعار معقولة",
-    "google_rating": 4.1,
-    "price_level": "$$",
-    "trending": false,
-    "is_new": false,
-    "sources": [
-      "google",
-      "altar7al"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Akwakh+Al+Mazraa+Chalets+Riyadh",
-    "district": "جنوب",
-    "perfect_for": [
-      "عوائل",
-      "استرخاء"
-    ],
-    "lat": 24.55,
-    "lng": 46.7,
-    "is_free": false,
-    "audience": [
-      "عوائل"
-    ]
-  },
-  {
     "id": "wanasty-chalet-riyadh",
     "name_ar": "شاليه وناستي",
     "name_en": "Wanasty Chalet",
@@ -91935,36 +91778,6 @@
     "lat": 24.95,
     "lng": 46.37,
     "is_free": true,
-    "audience": [
-      "الكل"
-    ]
-  },
-  {
-    "id": "matt-cookies-riyadh",
-    "name_ar": "مات كوكيز",
-    "name_en": "Matt Cookies",
-    "category": "حلويات",
-    "category_ar": "حلويات",
-    "category_en": "Dessert",
-    "neighborhood": "حي العليا",
-    "neighborhood_en": "Al Olaya",
-    "description_ar": "محل كوكيز مربعة طازجة تُخبز يومياً، فائز بجائزة أفضل حلويات في الرياض 2025",
-    "google_rating": 4.6,
-    "price_level": "$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "timeoutriyadh"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Matt+Cookies+Riyadh",
-    "district": "وسط",
-    "perfect_for": [
-      "أصدقاء",
-      "هدايا"
-    ],
-    "lat": 24.694,
-    "lng": 46.686,
-    "is_free": false,
     "audience": [
       "الكل"
     ]
@@ -92093,91 +91906,6 @@
     ]
   },
   {
-    "id": "aviation-museum-riyadh",
-    "name_ar": "متحف صقر الجزيرة للطيران",
-    "name_en": "Saqr Al-Jazirah Aviation Museum",
-    "category": "متاحف",
-    "category_ar": "متاحف",
-    "category_en": "Museum",
-    "neighborhood": "الطريق الدائري الشرقي",
-    "neighborhood_en": "Eastern Ring Road",
-    "description_ar": "متحف يعرض تاريخ الطيران العسكري السعودي مع طائرات حقيقية ومعروضات تفاعلية",
-    "google_rating": 4.4,
-    "price_level": "مجاني",
-    "trending": false,
-    "is_new": false,
-    "sources": [
-      "mosafeir",
-      "google"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Saqr+Al+Jazirah+Aviation+Museum+Riyadh",
-    "district": "شرق",
-    "perfect_for": [
-      "أطفال",
-      "عوائل"
-    ],
-    "lat": 24.72,
-    "lng": 46.76,
-    "is_free": true,
-    "audience": [
-      "الكل"
-    ]
-  },
-  {
-    "id": "blu-pizzeri",
-    "name_ar": "بلو بيتزيريا",
-    "name_en": "Blu Pizzeriá",
-    "category": "مطعم",
-    "category_ar": "مطعم",
-    "category_en": "Restaurant",
-    "neighborhood": "حي النخيل",
-    "neighborhood_en": "Al Nakheel",
-    "description_ar": "بيتزا نابولي إماراتية المنشأ. أفران حطب مع نكهات شرق أوسطية. بيتزا شورت ريبز وبيتزا مسخن وتارتوفو",
-    "google_rating": 4.2,
-    "price_level": "$$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "factmagazines.com"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Blu+Pizzeriá+Riyadh",
-    "district": "الرياض",
-    "perfect_for": [],
-    "lat": 24.7136,
-    "lng": 46.6753,
-    "is_free": false,
-    "audience": [
-      "الكل"
-    ]
-  },
-  {
-    "id": "prime-cut",
-    "name_ar": "برايم كت",
-    "name_en": "Prime Cut",
-    "category": "مطعم",
-    "category_ar": "مطعم",
-    "category_en": "Restaurant",
-    "neighborhood": "شروفات / العليا",
-    "neighborhood_en": "شروفات / العليا",
-    "description_ar": "برجر شهير بنكهات قوية وحشوات ضخمة. فرعين في الرياض. طوابير دائمة",
-    "google_rating": 4.2,
-    "price_level": "$$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "timeoutriyadh.com"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Prime+Cut+Riyadh",
-    "district": "الرياض",
-    "perfect_for": [],
-    "lat": 24.7136,
-    "lng": 46.6753,
-    "is_free": false,
-    "audience": [
-      "الكل"
-    ]
-  },
-  {
     "id": "coffee-planet",
     "name_ar": "كوفي بلانيت",
     "name_en": "Coffee Planet",
@@ -92195,33 +91923,6 @@
       "qahwaworld.com"
     ],
     "google_maps_url": "https://maps.google.com/?q=Coffee+Planet+Riyadh",
-    "district": "الرياض",
-    "perfect_for": [],
-    "lat": 24.7136,
-    "lng": 46.6753,
-    "is_free": false,
-    "audience": [
-      "الكل"
-    ]
-  },
-  {
-    "id": "bohemia-art-cafe-record-store",
-    "name_ar": "بوهيميا آرت كافيه",
-    "name_en": "Bohemia Art Cafe & Record Store",
-    "category": "كافيه",
-    "category_ar": "كافيه",
-    "category_en": "Cafe",
-    "neighborhood": "The Warehouse - الرياض",
-    "neighborhood_en": "The Warehouse - الرياض",
-    "description_ar": "كافيه ومتجر تسجيلات من الخبر. شراكة مع The Warehouse الرياض. أجواء فنية بوهيمية",
-    "google_rating": 4.2,
-    "price_level": "$$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "whatsonsaudiarabia.com"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Bohemia+Art+Cafe+&+Record+Store+Riyadh",
     "district": "الرياض",
     "perfect_for": [],
     "lat": 24.7136,
@@ -92276,33 +91977,6 @@
       "destinationksa.com"
     ],
     "google_maps_url": "https://maps.google.com/?q=Bab+Samhan,+Luxury+Collection+Riyadh",
-    "district": "الرياض",
-    "perfect_for": [],
-    "lat": 24.7136,
-    "lng": 46.6753,
-    "is_free": false,
-    "audience": [
-      "الكل"
-    ]
-  },
-  {
-    "id": "st-regis-riyadh-new",
-    "name_ar": "سانت ريجيس الرياض",
-    "name_en": "St. Regis Riyadh",
-    "category": "فنادق",
-    "category_ar": "فنادق",
-    "category_en": "Hotel",
-    "neighborhood": "Via Riyadh",
-    "neighborhood_en": "Via Riyadh",
-    "description_ar": "في منطقة Via Riyadh الفاخرة. من أفخم فنادق الرياض 2026",
-    "google_rating": 4.2,
-    "price_level": "$$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "hotelandcatering.com"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=St.+Regis+Riyadh+Riyadh",
     "district": "الرياض",
     "perfect_for": [],
     "lat": 24.7136,
