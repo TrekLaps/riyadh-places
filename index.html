@@ -45,6 +45,7 @@
     .place-card{content-visibility:auto;contain-intrinsic-size:0 420px}
   </style>
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/filter-engine.css">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -166,79 +167,80 @@
         <div class="icon">☕</div>
         <h3>كافيهات الرياض</h3>
         <p>أفضل الكافيهات والقهوة المختصة</p>
-        <span class="count">25 مكان</span>
+        <span class="count" data-category-count="كافيه">٧٧٦ كافيه</span>
       </a>
       <a href="restaurants.html" class="category-card">
         <div class="icon">🍽️</div>
         <h3>مطاعم الرياض</h3>
         <p>أفخم المطاعم وألذ الأكلات</p>
-        <span class="count">25 مكان</span>
+        <span class="count" data-category-count="مطعم">١٬٢٢٤ مطعم</span>
       </a>
       <a href="activities.html" class="category-card">
         <div class="icon">🎭</div>
         <h3>ترفيه وأنشطة</h3>
         <p>أماكن سياحية وترفيهية مميزة</p>
-        <span class="count">15 مكان</span>
+        <span class="count" data-category-count="ترفيه">٤٣٥ مكان</span>
       </a>
       <a href="shopping.html" class="category-card">
         <div class="icon">🛍️</div>
         <h3>تسوق بالرياض</h3>
         <p>مولات ومراكز تسوق</p>
-        <span class="count">10 أماكن</span>
+        <span class="count" data-category-count="تسوق">٢٦٤ متجر</span>
       </a>
       <a href="nature.html" class="category-card">
         <div class="icon">🏞️</div>
         <h3>طبيعة ورحلات</h3>
         <p>حدائق ومنتزهات ورحلات برية</p>
-        <span class="count">10 أماكن</span>
+        <span class="count" data-category-count="طبيعة">٢١٣ مكان</span>
       </a>
       <a href="desserts.html" class="category-card">
         <div class="icon">🍰</div>
         <h3>حلويات الرياض</h3>
         <p>أفضل محلات الحلويات والكيك</p>
-        <span class="count">حلويات مميزة</span>
+        <span class="count" data-category-count="حلويات">٢٨٨ محل</span>
       </a>
       <a href="events.html" class="category-card">
         <div class="icon">🎪</div>
         <h3>فعاليات الرياض</h3>
         <p>فعاليات ومعارض ومهرجانات</p>
-        <span class="count">فعاليات حية</span>
+        <span class="count" data-category-count="فعاليات">١٠١ فعالية</span>
       </a>
-      <a href="trending.html" class="category-card" style="border-top-color: #e74c3c;">
-        <div class="icon">🔥</div>
-        <h3>هابّ الحين</h3>
-        <p>الأماكن الأكثر ازدحاماً الآن</p>
-        <span class="count" style="background: linear-gradient(135deg, #e74c3c, #c0392b);">مباشر 🔴</span>
+      <a href="discover.html" class="category-card" style="border-top-color: #c9a84c;">
+        <div class="icon">🎲</div>
+        <h3>اكتشف</h3>
+        <p>طرق ذكية لاكتشاف أماكن جديدة</p>
+        <span class="count" style="background: linear-gradient(135deg, #c9a84c, #b8963e);">قريب مني · ترند · عائلات</span>
       </a>
       <a href="top-rated.html" class="category-card">
         <div class="icon">⭐</div>
         <h3>الأعلى تقييماً</h3>
-        <p>أفضل الأماكن حسب تقييمات قوقل</p>
-        <span class="count">أعلى من 4.0 ⭐</span>
+        <p>أفضل الأماكن حسب التقييمات</p>
+        <span class="count">⭐ ٤.٥+</span>
       </a>
     </div>
   </section>
 
-  <div class="main-layout">
-    <main class="main-content">
-      <div class="section-title">
-        <div>
-          <h2>الأماكن الرائجة الآن</h2>
-          <span class="subtitle">أكثر الأماكن بحثاً وزيارةً في الرياض</span>
-        </div>
+  <!-- Trending Section -->
+  <section class="container" style="max-width:1400px;margin:0 auto;padding:20px 20px 0">
+    <div class="section-title" style="margin-bottom:16px">
+      <div>
+        <h2>🔥 الأماكن الرائجة</h2>
+        <span class="subtitle">أكثر الأماكن بحثاً وزيارةً في الرياض</span>
       </div>
+    </div>
+    <div id="trending-places"></div>
+  </section>
 
-      <div id="sort-filter-container"></div>
-      <div id="places-container"></div>
-    </main>
-
-    <aside class="sidebar">
-      <div class="widget">
-        <h3>الأكثر رواجاً</h3>
-        <div id="trending-sidebar"></div>
+  <!-- Newly Added Section -->
+  <section class="container" style="max-width:1400px;margin:0 auto;padding:30px 20px 0">
+    <div class="section-title" style="margin-bottom:16px">
+      <div>
+        <h2>🆕 أماكن جديدة</h2>
+        <span class="subtitle">أحدث الإضافات على الدليل</span>
       </div>
-    </aside>
-  </div>
+    </div>
+    <div id="new-places"></div>
+  </section>
 
   <footer class="footer">
     <div class="footer-inner">
@@ -279,36 +281,32 @@
   <script defer src="js/darkmode.js"></script>
   <script defer src="js/crowd.js"></script>
   <script defer src="js/main.js"></script>
+  <script defer src="js/filter-engine.js"></script>
   <script defer src="js/weather-prayer.js"></script>
   <script>
     document.addEventListener('DOMContentLoaded', async () => {
-      const places = await loadPlaces();
-      const container = document.getElementById('places-container');
-      const sortFilterContainer = document.getElementById('sort-filter-container');
-      const trendingSidebar = document.getElementById('trending-sidebar');
+      // Use FilterEngine for trending + new sections
+      if (typeof FilterEngine !== 'undefined') {
+        FilterEngine.renderIndexSections({
+          categoryCountsSelector: '.categories-grid',
+          trendingSelector: '#trending-places',
+          newSelector: '#new-places'
+        });
+      }
 
-      const neighborhoods = getNeighborhoods(places);
-      const cuisines = getCuisines(places);
-      sortFilterContainer.innerHTML = generateSortFilterBar(places.length, neighborhoods, {
-        showCuisine: true,
-        cuisines: cuisines,
-      });
-
-      renderCardsWithAds(sortPlaces(places, 'rating-desc'), container);
-      initSortFilter(places, container, sortFilterContainer.querySelector('.results-count'));
-
-      if (trendingSidebar) renderTrendingSidebar(trendingSidebar);
-
-      initSearch((query) => {
-        const results = searchPlaces(query);
-        renderCardsWithAds(results, container);
-      });
-
-      places.filter(p => p.trending).forEach(p => addSchemaToPage(generateSchemaMarkup(p)));
-
-      // Initialize weather & prayer suggestions
-      if (typeof WeatherPrayer !== 'undefined') {
-        WeatherPrayer.init(places);
+      // Legacy: load places for search + weather
+      if (typeof loadPlaces === 'function') {
+        const places = await loadPlaces();
+        if (typeof initSearch === 'function') {
+          initSearch((query) => {
+            const results = searchPlaces(query);
+            const container = document.getElementById('trending-places');
+            if (container) renderCardsWithAds(results, container);
+          });
+        }
+        if (typeof WeatherPrayer !== 'undefined') {
+          WeatherPrayer.init(places);
+        }
       }
     });
   </script>

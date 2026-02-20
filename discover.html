@@ -2,32 +2,22 @@
 <html lang="ar" dir="rtl">
 <head>
   <meta charset="UTF-8">
+  <meta name="google-site-verification" content="fsoLYFcBn1bK30V4OvI0U5U78wsZx4LcBG8ADB28QXU" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/svg+xml" href="images/icon-192.svg">
-  <title>ما تدري وين تروح؟ 🎲 — وين نروح بالرياض؟</title>
-  <meta name="description" content="ما تدري وين تروح اليوم بالرياض؟ خلّنا نخطط لك! خطط يوم كاملة عشوائية ذكية، خطط حسب المناسبة والميزانية. اكتشف أماكن جديدة كل مرة.">
-  <meta name="keywords" content="وين نروح بالرياض, خطة يوم الرياض, أماكن الرياض, مقترحات أماكن, خطة عشوائية, ميزانية الرياض">
+  <title>اكتشف أماكن الرياض — قريب مني، ترند، عائلات، رومانسي | وين نروح</title>
+  <meta name="description" content="اكتشف أفضل أماكن الرياض بطريقة ذكية. قريب مني، ترند الحين، ميزانية محدودة، عائلات، رومانسي، مجاني. أكثر من ٤٠٠٠ مكان.">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://treklaps.github.io/riyadh-places/discover.html">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="ما تدري وين تروح؟ 🎲 — وين نروح بالرياض؟">
-  <meta property="og:description" content="خلّنا نخطط لك يومك بالرياض! خطط ذكية عشوائية حسب المناسبة والميزانية.">
+  <meta property="og:title" content="اكتشف أماكن الرياض — وين نروح بالرياض؟">
+  <meta property="og:description" content="اكتشف أفضل أماكن الرياض بطريقة ذكية. قريب مني، ترند، عائلات، رومانسي.">
   <meta property="og:url" content="https://treklaps.github.io/riyadh-places/discover.html">
   <meta property="og:locale" content="ar_SA">
-  <meta property="og:site_name" content="وين نروح بالرياض؟">
   <meta property="og:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="ما تدري وين تروح؟ 🎲 — وين نروح بالرياض؟">
-  <meta name="twitter:description" content="خلّنا نخطط لك يومك بالرياض! خطط ذكية عشوائية.">
-  <meta name="twitter:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#0a1628">
-  <!-- Performance: preconnect & preload -->
-  <link rel="preconnect" href="https://images.unsplash.com" crossorigin>
-  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
-  <link rel="dns-prefetch" href="https://images.unsplash.com">
   <link rel="preload" href="data/places-light.json" as="fetch" crossorigin>
-  <!-- Critical inline CSS for above-the-fold -->
   <style>
     *{margin:0;padding:0;box-sizing:border-box}
     body{font-family:'Tajawal',sans-serif;background:#0a1628;color:#e0e0e0;direction:rtl}
@@ -35,29 +25,10 @@
     .header-inner{display:flex;align-items:center;justify-content:space-between;max-width:1400px;margin:auto}
     .logo{text-decoration:none;color:#c9a84c;display:flex;align-items:center;gap:8px}
     .logo h1{font-size:1.2rem;margin:0}
-    .cards-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px}
-    .place-card{background:#111b2e;border-radius:16px;overflow:hidden;transition:transform .2s}
-    .place-card-image{height:180px;background:#1a2a4a;position:relative;overflow:hidden}
-    .card-image{width:100%;height:100%;object-fit:cover}
-    .skeleton{animation:skeleton-pulse 1.5s ease-in-out infinite}
-    @keyframes skeleton-pulse{0%,100%{opacity:.4}50%{opacity:.8}}
-    .place-card{content-visibility:auto;contain-intrinsic-size:0 420px}
   </style>
-
   <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/discover.css">
-  <link rel="stylesheet" href="css/ramadan.css">
+  <link rel="stylesheet" href="css/filter-engine.css">
   <link rel="stylesheet" href="css/search-header.css">
-  <script type="application/ld+json">
-  {
-  "@context": "https://schema.org",
-  "@type": "ItemList",
-  "name": "ما تدري وين تروح؟ 🎲 — وين نروح بالرياض؟",
-  "url": "https://treklaps.github.io/riyadh-places/discover.html",
-  "numberOfItems": 0,
-  "itemListElement": []
-}
-  </script>
 </head>
 <body>
 
@@ -72,7 +43,9 @@
         <a href="restaurants.html">مطاعم</a>
         <a href="activities.html">ترفيه</a>
         <a href="events.html">فعاليات</a>
-        <a href="discover.html" class="active">🎲 وين نروح؟</a>
+        <a href="new-places.html">جديد</a>
+        <a href="discover.html" class="active">🎲 اكتشف</a>
+        <a href="lists.html">📋 قوائمي</a>
         <div class="nav-dropdown">
           <a href="#">المزيد</a>
           <div class="dropdown-menu">
@@ -80,163 +53,28 @@
             <a href="nature.html">🏞️ طبيعة</a>
             <a href="desserts.html">🍰 حلويات</a>
             <a href="top-rated.html">⭐ الأعلى تقييماً</a>
-            <a href="new-places.html">🆕 جديد</a>
             <div class="dropdown-divider"></div>
-            <a href="events.html">🇸🇦 يوم التأسيس</a>
-            <a href="riyadh-season.html">✨ موسم الرياض</a>
+            <a href="neighborhoods.html">🏘️ أحياء الرياض</a>
           </div>
         </div>
       </nav>
     </div>
   </header>
 
-  <!-- Hero Section -->
-  <section class="discover-hero">
-    <div class="discover-hero-bg">
-      <div class="floating-emoji e1">☕</div>
-      <div class="floating-emoji e2">🍽️</div>
-      <div class="floating-emoji e3">🎭</div>
-      <div class="floating-emoji e4">🛍️</div>
-      <div class="floating-emoji e5">🏞️</div>
-      <div class="floating-emoji e6">🍰</div>
-    </div>
-    <h2>ما تدري وين تروح؟ <span>🎲</span></h2>
-    <p>خلّنا نخطط لك يومك بالرياض! اضغط الزر وشوف خطة يوم كاملة من أماكن حقيقية مع تقييمات قوقل</p>
-    <button class="mega-dice-btn" id="megaDiceBtn">
-      <span class="dice-icon">🎲</span>
-      <span class="dice-text">فاجئني بخطة!</span>
-    </button>
-    <div class="hero-stats">
-      <span><strong id="totalPlacesCount">0</strong> مكان</span>
-      <span class="stat-dot">•</span>
-      <span><strong>7</strong> تصنيفات</span>
-      <span class="stat-dot">•</span>
-      <span>خطط لا نهائية ♾️</span>
-    </div>
+  <section class="page-header" style="text-align:center;padding:40px 20px">
+    <h2 style="font-size:2rem">🎲 اكتشف الرياض</h2>
+    <p style="font-size:1.1rem;max-width:600px;margin:12px auto 0">طرق ذكية لاكتشاف أماكن جديدة — قريب مني، الأعلى تقييماً، ترند، عائلات، وأكثر</p>
   </section>
 
-  <!-- Random Day Plan -->
-  <section class="discover-section" id="randomPlanSection" style="display:none;">
-    <div class="plan-header">
-      <h2>🗓️ خطة يومك بالرياض</h2>
-      <div class="plan-actions">
-        <button class="btn-refresh" id="refreshPlanBtn">🔄 خطة ثانية</button>
-        <button class="btn-share-plan" id="sharePlanBtn">📤 شارك الخطة</button>
-      </div>
-    </div>
-    <div class="day-plan-container" id="dayPlanContainer"></div>
-    <div class="plan-summary" id="planSummary"></div>
-  </section>
-
-  <!-- Occasion Plans -->
-  <section class="discover-section">
-    <h2 class="section-heading">📋 خطط جاهزة حسب المناسبة</h2>
-    <p class="section-subtitle">اختر مناسبتك وخلّنا نرتب لك</p>
-    <div class="occasions-grid" id="occasionsGrid">
-      <button class="occasion-card" data-occasion="romantic">
-        <div class="occasion-icon">💑</div>
-        <h3>موعد رومانسي</h3>
-        <p>أماكن هادئة + مطعم فاخر + كافيه</p>
-      </button>
-      <button class="occasion-card" data-occasion="family">
-        <div class="occasion-icon">👨‍👩‍👧‍👦</div>
-        <h3>يوم عائلي</h3>
-        <p>أماكن أطفال + مطعم عائلي + حديقة</p>
-      </button>
-      <button class="occasion-card" data-occasion="friends">
-        <div class="occasion-icon">👥</div>
-        <h3>طلعة مع الربع</h3>
-        <p>ترفيه + برجر/بيتزا + كافيه</p>
-      </button>
-      <button class="occasion-card" data-occasion="free">
-        <div class="occasion-icon">🆓</div>
-        <h3>يوم ببلاش</h3>
-        <p>أماكن مجانية فقط</p>
-      </button>
-      <button class="occasion-card" data-occasion="night">
-        <div class="occasion-icon">🌙</div>
-        <h3>سهرة</h3>
-        <p>مطعم + حلويات + كافيه</p>
-      </button>
-      <button class="occasion-card" data-occasion="cafes">
-        <div class="occasion-icon">☕</div>
-        <h3>يوم كافيهات</h3>
-        <p>3-4 كافيهات مختلفة</p>
-      </button>
-      <button class="occasion-card" data-occasion="shopping">
-        <div class="occasion-icon">🛍️</div>
-        <h3>يوم تسوق</h3>
-        <p>مولات + مطاعم المول</p>
-      </button>
-    </div>
-  </section>
-
-  <!-- Occasion Plan Result -->
-  <section class="discover-section" id="occasionPlanSection" style="display:none;">
-    <div class="plan-header">
-      <h2 id="occasionPlanTitle">📋 خطتك</h2>
-      <div class="plan-actions">
-        <button class="btn-refresh" id="refreshOccasionBtn">🔄 خطة ثانية</button>
-        <button class="btn-share-plan" id="shareOccasionBtn">📤 شارك</button>
-        <button class="btn-back" id="backToOccasions">↩️ رجوع</button>
-      </div>
-    </div>
-    <div class="day-plan-container" id="occasionPlanContainer"></div>
-    <div class="plan-summary" id="occasionPlanSummary"></div>
-  </section>
-
-  <!-- Budget Section -->
-  <section class="discover-section">
-    <h2 class="section-heading">💰 كم ميزانيتك؟</h2>
-    <p class="section-subtitle">اختر ميزانيتك وبنعطيك خطة تناسبك</p>
-    <div class="budget-grid" id="budgetGrid">
-      <button class="budget-card" data-budget="free">
-        <div class="budget-emoji">🆓</div>
-        <div class="budget-label">ببلاش!</div>
-        <div class="budget-desc">أماكن مجانية</div>
-      </button>
-      <button class="budget-card" data-budget="50">
-        <div class="budget-emoji">💚</div>
-        <div class="budget-label">أقل من 50 ريال</div>
-        <div class="budget-desc">اقتصادي</div>
-      </button>
-      <button class="budget-card" data-budget="150">
-        <div class="budget-emoji">💛</div>
-        <div class="budget-label">50 — 150 ريال</div>
-        <div class="budget-desc">متوسط</div>
-      </button>
-      <button class="budget-card" data-budget="300">
-        <div class="budget-emoji">🧡</div>
-        <div class="budget-label">150 — 300 ريال</div>
-        <div class="budget-desc">مرتفع</div>
-      </button>
-      <button class="budget-card" data-budget="plus">
-        <div class="budget-emoji">❤️</div>
-        <div class="budget-label">300+ ريال</div>
-        <div class="budget-desc">فاخر</div>
-      </button>
-    </div>
-  </section>
-
-  <!-- Budget Plan Result -->
-  <section class="discover-section" id="budgetPlanSection" style="display:none;">
-    <div class="plan-header">
-      <h2 id="budgetPlanTitle">💰 خطتك حسب الميزانية</h2>
-      <div class="plan-actions">
-        <button class="btn-refresh" id="refreshBudgetBtn">🔄 خطة ثانية</button>
-        <button class="btn-share-plan" id="shareBudgetBtn">📤 شارك</button>
-      </div>
-    </div>
-    <div class="budget-estimate" id="budgetEstimate"></div>
-    <div class="day-plan-container" id="budgetPlanContainer"></div>
-    <div class="plan-summary" id="budgetPlanSummary"></div>
-  </section>
+  <div class="container" style="max-width:1400px;margin:0 auto;padding:0 20px 40px">
+    <div id="discover-content"></div>
+  </div>
 
   <footer class="footer">
     <div class="footer-inner">
       <div>
         <h3>وين نروح بالرياض؟</h3>
-        <p>دليلك الشامل لأفضل الأماكن في الرياض مع تقييمات قوقل الحقيقية. محدث يومياً بأحدث الأماكن والتقييمات.</p>
+        <p>دليلك الشامل لأفضل الأماكن في الرياض. محدث يومياً.</p>
       </div>
       <div>
         <h3>الأقسام</h3>
@@ -247,17 +85,13 @@
           <li><a href="shopping.html">تسوق بالرياض</a></li>
           <li><a href="nature.html">طبيعة ورحلات</a></li>
           <li><a href="desserts.html">حلويات الرياض</a></li>
-          <li><a href="events.html">فعاليات الرياض</a></li>
-          <li><a href="discover.html">🎲 ما تدري وين تروح؟</a></li>
         </ul>
       </div>
       <div>
         <h3>روابط مفيدة</h3>
         <ul>
-          <li><a href="top-rated.html">الأعلى تقييماً</a></li>
-          <li><a href="trending.html">هابّ الحين 🔥</a></li>
-          <li><a href="new-places.html">أماكن جديدة</a></li>
           <li><a href="sitemap.xml">خريطة الموقع</a></li>
+          <li><a href="about.html">عن الموقع</a></li>
         </ul>
       </div>
     </div>
@@ -266,23 +100,21 @@
   </footer>
 
   <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
-
   <script defer src="js/darkmode.js"></script>
-  <script defer src="js/main.js"></script>
-  <script defer src="js/discover.js"></script>
+  <script defer src="js/filter-engine.js"></script>
   <script>
-    // Mobile dropdown
     document.querySelectorAll('.nav-dropdown > a').forEach(a => {
       a.addEventListener('click', (e) => {
-        if (window.innerWidth <= 768) {
-          e.preventDefault();
-          a.parentElement.classList.toggle('open');
-        }
+        if (window.innerWidth <= 768) { e.preventDefault(); a.parentElement.classList.toggle('open'); }
       });
     });
   </script>
-  <script src="js/ramadan.js" defer></script>
   <script src="js/analytics.js" defer></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      FilterEngine.initDiscoverPage('#discover-content');
+    });
+  </script>
   <script>
     if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(function(){});}
   </script>
