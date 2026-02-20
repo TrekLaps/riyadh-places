@@ -7,12 +7,17 @@
   <meta name="description" content="خريطة حرارة أماكن الرياض — اكتشف أكثر 20 مكان رائج الحين! تقييمات، افتتاحات جديدة، والأماكن اللي الكل يتكلم عنها.">
   <meta name="keywords" content="أماكن مزدحمة الرياض, الأماكن الرائجة الرياض, heat map riyadh, popular places riyadh">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://wain-nrooh.com/trending.html">
+  <link rel="canonical" href="https://treklaps.github.io/riyadh-places/trending.html">
   <meta property="og:type" content="website">
   <meta property="og:title" content="هابّ الحين 🔥 - خريطة حرارة أماكن الرياض">
   <meta property="og:description" content="شوف أكثر 20 مكان رائج بالرياض على خريطة الحرارة التفاعلية!">
-  <meta property="og:url" content="https://wain-nrooh.com/trending.html">
+  <meta property="og:url" content="https://treklaps.github.io/riyadh-places/trending.html">
   <meta property="og:locale" content="ar_SA">
+  <meta property="og:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="هابّ الحين 🔥 - خريطة حرارة أماكن الرياض">
+  <meta name="twitter:description" content="شوف أكثر 20 مكان رائج بالرياض على خريطة الحرارة التفاعلية!">
+  <meta name="twitter:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#0a1628">
   <!-- Performance: preconnect & preload -->
@@ -43,6 +48,16 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
   <link rel="stylesheet" href="css/search-header.css">
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "هابّ الحين 🔥 - خريطة الحرارة | وين نروح بالرياض؟",
+  "url": "https://treklaps.github.io/riyadh-places/trending.html",
+  "numberOfItems": 0,
+  "itemListElement": []
+}
+  </script>
 </head>
 <body>
 
@@ -707,5 +722,8 @@
   </script>
   <script src="js/analytics.js" defer></script>
   <script src="js/ramadan.js" defer></script>
+  <script>
+    if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(function(){});}
+  </script>
 </body>
 </html>

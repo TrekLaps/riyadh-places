@@ -7,16 +7,18 @@
   <meta name="description" content="ما تدري وين تروح اليوم بالرياض؟ خلّنا نخطط لك! خطط يوم كاملة عشوائية ذكية، خطط حسب المناسبة والميزانية. اكتشف أماكن جديدة كل مرة.">
   <meta name="keywords" content="وين نروح بالرياض, خطة يوم الرياض, أماكن الرياض, مقترحات أماكن, خطة عشوائية, ميزانية الرياض">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://wain-nrooh.com/discover.html">
+  <link rel="canonical" href="https://treklaps.github.io/riyadh-places/discover.html">
   <meta property="og:type" content="website">
   <meta property="og:title" content="ما تدري وين تروح؟ 🎲 — وين نروح بالرياض؟">
   <meta property="og:description" content="خلّنا نخطط لك يومك بالرياض! خطط ذكية عشوائية حسب المناسبة والميزانية.">
-  <meta property="og:url" content="https://wain-nrooh.com/discover.html">
+  <meta property="og:url" content="https://treklaps.github.io/riyadh-places/discover.html">
   <meta property="og:locale" content="ar_SA">
   <meta property="og:site_name" content="وين نروح بالرياض؟">
+  <meta property="og:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="ما تدري وين تروح؟ 🎲 — وين نروح بالرياض؟">
   <meta name="twitter:description" content="خلّنا نخطط لك يومك بالرياض! خطط ذكية عشوائية.">
+  <meta name="twitter:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#0a1628">
   <!-- Performance: preconnect & preload -->
@@ -45,6 +47,16 @@
   <link rel="stylesheet" href="css/discover.css">
   <link rel="stylesheet" href="css/ramadan.css">
   <link rel="stylesheet" href="css/search-header.css">
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "ما تدري وين تروح؟ 🎲 — وين نروح بالرياض؟",
+  "url": "https://treklaps.github.io/riyadh-places/discover.html",
+  "numberOfItems": 0,
+  "itemListElement": []
+}
+  </script>
 </head>
 <body>
 
@@ -270,5 +282,8 @@
   </script>
   <script src="js/ramadan.js" defer></script>
   <script src="js/analytics.js" defer></script>
+  <script>
+    if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(function(){});}
+  </script>
 </body>
 </html>

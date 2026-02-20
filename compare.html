@@ -3,8 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="canonical" href="https://treklaps.github.io/riyadh-places/compare.html">
   <title>قارن بين مكانين | وين نروح بالرياض؟</title>
   <meta name="description" content="قارن بين أي مكانين في الرياض جنب بجنب — التقييم، السعر، المميزات والعيوب. اختر الأفضل لك!">
+  <meta property="og:title" content="قارن بين مكانين | وين نروح بالرياض؟">
+  <meta property="og:description" content="قارن بين أي مكانين في الرياض جنب بجنب — التقييم، السعر، المميزات والعيوب.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://treklaps.github.io/riyadh-places/compare.html">
+  <meta property="og:locale" content="ar_SA">
+  <meta property="og:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="قارن بين مكانين | وين نروح بالرياض؟">
+  <meta name="twitter:description" content="قارن بين أي مكانين في الرياض جنب بجنب — التقييم، السعر، المميزات والعيوب.">
+  <meta name="twitter:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
   <!-- Performance: preconnect & preload -->
   <link rel="preconnect" href="https://images.unsplash.com" crossorigin>
   <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
@@ -456,6 +467,7 @@
   </style>
   <link rel="stylesheet" href="css/ramadan.css">
   <link rel="stylesheet" href="css/search-header.css">
+  <link rel="manifest" href="manifest.json">
 </head>
 <body>
 
@@ -977,5 +989,8 @@
   </script>
   <script src="js/ramadan.js" defer></script>
   <script src="js/analytics.js" defer></script>
+  <script>
+    if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(function(){});}
+  </script>
 </body>
 </html>

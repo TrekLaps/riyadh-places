@@ -1,102 +1,89 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://treklaps.github.io/riyadh-places/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/cafes.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/restaurants.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/activities.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/shopping.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/nature.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/new-places.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/top-rated.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/about.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/guide-cafes.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/guide-restaurants.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/guide-events.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/activities.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/ai-search.html</loc><changefreq>daily</changefreq><priority>0.95</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/best.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/breakfast-riyadh.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/cafes.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/cheap-eats.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/compare.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/delivery-compare.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/desserts.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/trending.html</loc><changefreq>hourly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/discover.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/events.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/foundation-day.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/riyadh-season.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhoods.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-olaya.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-malqa.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-hittin.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-yasmin.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-rabee.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-narjis.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-wurud.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-malz.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-aqiq.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-sahafa.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-nakheel.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-sulaymaniyah.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-muruj.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-diriyah.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-kafd.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-gharnata.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-rabwa.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-arid.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-ghdir.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-safarat.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/ramadan.html</loc><lastmod>2026-02-08</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/guide-ramadan.html</loc><lastmod>2026-02-08</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/family-places.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/favorites.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/guide-cafes.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/guide-events.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/guide-ramadan.html</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/guide-restaurants.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/guide-weekend.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/lists.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/map.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/nature.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-ammariyah.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-aqiq.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-arid.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-aziziyah.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-banban.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-batha.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-deira.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-diplomasi.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-diriyah.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-gharnata.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-ghdir.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-hamra.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-hittin.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-kafd.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-maathar.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-malik-fahd.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-malqa.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-malz.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-mansourah.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-muaiqiliyah.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-mughrazat.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-munsiyah.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-murabba.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-muruj.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-nafal.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-nakheel.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-namar.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-narjis.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-naseem.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-nuzha.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-olaya.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-qayrawan.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-rabee.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-rabwa.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-rahmaniyah.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-rawdah.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-rimal.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-safarat.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-sahafa.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-salam.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-shifa.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-sulaymaniyah.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-suwaidi.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-taawun.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-thumamah.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-umm-alhamam.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://treklaps.github.io/riyadh-places/breakfast-riyadh.html</loc><lastmod>2026-02-08</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://treklaps.github.io/riyadh-places/family-places.html</loc><lastmod>2026-02-08</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://treklaps.github.io/riyadh-places/romantic-places.html</loc><lastmod>2026-02-08</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://treklaps.github.io/riyadh-places/cheap-eats.html</loc><lastmod>2026-02-08</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://treklaps.github.io/riyadh-places/work-cafes.html</loc><lastmod>2026-02-08</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://treklaps.github.io/riyadh-places/open-late.html</loc><lastmod>2026-02-08</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://treklaps.github.io/riyadh-places/guide-weekend.html</loc><lastmod>2026-02-08</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://treklaps.github.io/riyadh-places/map.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url><url><loc>https://treklaps.github.io/riyadh-places/discover.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url><url><loc>https://treklaps.github.io/riyadh-places/favorites.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url><url><loc>https://treklaps.github.io/riyadh-places/compare.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://treklaps.github.io/riyadh-places/best.html</loc><lastmod>2026-02-19</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://treklaps.github.io/riyadh-places/prices.html</loc><lastmod>2026-02-19</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://treklaps.github.io/riyadh-places/delivery-compare.html</loc><lastmod>2026-02-19</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://treklaps.github.io/riyadh-places/ai-search.html</loc><priority>0.95</priority></url>
-
-  <url>
-    <loc>https://treklaps.github.io/riyadh-places/lists.html</loc>
-    <lastmod>2026-02-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://treklaps.github.io/riyadh-places/place.html</loc>
-    <lastmod>2026-02-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://treklaps.github.io/riyadh-places/stats.html</loc>
-    <lastmod>2026-02-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-wurud.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhood-yasmin.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/neighborhoods.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/new-places.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/open-late.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/place.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/prices.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/ramadan.html</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/restaurants.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/riyadh-season.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/romantic-places.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/search.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/shopping.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/stats.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/top-rated.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/trending.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://treklaps.github.io/riyadh-places/work-cafes.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
 </urlset>

@@ -1,0 +1,148 @@
+/* 
+  Localizable.strings
+  وين نروح بالرياض — ملف الترجمة العربية
+  
+  Arabic (ar) — اللغة الرئيسية
+*/
+
+// MARK: - عام
+"app_name" = "وين نروح";
+"app_subtitle" = "اكتشف أفضل الأماكن بالرياض";
+"loading" = "جاري التحميل...";
+"error" = "حصل خطأ";
+"retry" = "حاول مرة ثانية";
+"cancel" = "إلغاء";
+"done" = "تم";
+"save" = "حفظ";
+"delete" = "حذف";
+"edit" = "تعديل";
+"share" = "مشاركة";
+"close" = "إغلاق";
+"ok" = "حسناً";
+"see_all" = "عرض الكل";
+"no_results" = "لا توجد نتائج";
+
+// MARK: - التبويبات
+"tab_home" = "الرئيسية";
+"tab_search" = "بحث";
+"tab_map" = "خريطة";
+"tab_favorites" = "المفضلة";
+"tab_delivery" = "التوصيل";
+
+// MARK: - الرئيسية
+"greeting_morning" = "صباح الخير ☀️";
+"greeting_afternoon" = "مساء الخير 🌤";
+"greeting_evening" = "مساء النور 🌅";
+"greeting_night" = "أهلاً 🌙";
+"trending" = "🔥 الأكثر شعبية";
+"nearby" = "📍 قريب منك";
+"new_places" = "✨ جديد";
+"categories" = "التصنيفات";
+
+// MARK: - البحث
+"search_placeholder" = "ابحث عن مكان، مطعم، كافيه...";
+"recent_searches" = "بحث سابق";
+"popular_searches" = "الأكثر بحثاً 🔥";
+"clear_recent" = "مسح";
+"filters" = "فلاتر";
+"clear_filters" = "مسح الكل";
+"search_results_count" = "%d نتيجة";
+"no_search_results" = "ما لقينا نتائج";
+"try_different" = "جرب كلمات بحث مختلفة أو غيّر الفلاتر";
+
+// MARK: - الفلاتر
+"filter_category" = "التصنيف";
+"filter_price" = "نطاق السعر";
+"filter_rating" = "الحد الأدنى للتقييم";
+"filter_neighborhood" = "الحي";
+"filter_sort" = "الترتيب";
+"price_cheap" = "رخيص";
+"price_medium" = "متوسط";
+"price_expensive" = "غالي";
+"price_luxury" = "فاخر";
+"sort_rating" = "التقييم";
+"sort_distance" = "المسافة";
+"sort_name" = "الاسم";
+"sort_newest" = "الأحدث";
+"sort_price_asc" = "الأرخص";
+"sort_price_desc" = "الأغلى";
+
+// MARK: - تفاصيل المكان
+"place_features" = "الميزات";
+"place_perfect_for" = "مناسب لـ";
+"place_menu_prices" = "💰 الأسعار";
+"place_delivery_compare" = "🛵 مقارنة التوصيل";
+"place_location" = "📍 الموقع";
+"place_contact" = "التواصل";
+"place_similar" = "أماكن مشابهة";
+"place_navigate" = "وصلني";
+"place_call" = "اتصل";
+"place_open_maps" = "افتح بالخرائط";
+
+// MARK: - التوصيل
+"delivery_compare_title" = "قارن أسعار التوصيل";
+"delivery_cheapest" = "🏷 الأرخص";
+"delivery_fastest" = "⚡ الأسرع";
+"delivery_savings" = "💰 توفير";
+"delivery_free" = "مجاني";
+"delivery_order" = "اطلب";
+"delivery_min_order" = "الحد الأدنى: %d ر.س";
+"delivery_fee" = "%d ر.س";
+"delivery_time" = "%d دقيقة";
+
+// MARK: - المفضلة
+"favorites_empty_title" = "ما عندك مفضلة";
+"favorites_empty_message" = "أضف أماكن للمفضلة عشان تلاقيها بسرعة";
+"favorites_discover" = "اكتشف أماكن";
+"favorites_remove" = "إزالة من المفضلة";
+"favorites_search" = "ابحث في المفضلة...";
+"favorites_all" = "الكل";
+
+// MARK: - الخريطة
+"map_title" = "الخريطة 🗺";
+"map_all" = "الكل";
+
+// MARK: - العملة
+"sar" = "ر.س";
+"free" = "مجاني";
+
+// MARK: - الوقت
+"time_now" = "الحين";
+"time_minutes" = "قبل %d دقيقة";
+"time_hours" = "قبل %d ساعة";
+"time_days" = "قبل %d يوم";
+"time_weeks" = "قبل %d أسبوع";
+
+// MARK: - المسافة
+"distance_meters" = "%d م";
+"distance_km" = "%.1f كم";
+
+// MARK: - الميزات
+"feature_wifi" = "واي فاي";
+"feature_parking" = "مواقف";
+"feature_families" = "عوائل";
+"feature_outdoor" = "جلسات خارجية";
+"feature_delivery" = "توصيل";
+"feature_reservations" = "حجز";
+"feature_valet" = "فاليه";
+"feature_kids_area" = "منطقة أطفال";
+"feature_shisha" = "شيشة";
+"feature_live_music" = "موسيقى حية";
+"feature_private_rooms" = "غرف خاصة";
+
+// MARK: - الأخطاء
+"error_network" = "مشكلة في الاتصال — تأكد من الإنترنت";
+"error_location" = "تعذر تحديد موقعك";
+"error_location_disabled" = "الموقع غير مفعل — فعّله من الإعدادات";
+"error_fetch_failed" = "فشل تحميل البيانات";
+"error_search_failed" = "فشل البحث — جرب مرة ثانية";
+
+// MARK: - التوصيل — تطبيقات
+"app_hungerstation" = "هنقرستيشن";
+"app_jahez" = "جاهز";
+"app_toyou" = "تويو";
+"app_carriage" = "كاريدج";
+"app_the_chefs" = "ذا شفز";
+"app_keeta" = "كيتا";
+"app_ninja" = "نينجا";
+"app_marsool" = "مرسول";

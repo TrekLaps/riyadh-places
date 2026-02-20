@@ -1,0 +1,2530 @@
+{
+  "metadata": {
+    "last_updated": "2026-02-20",
+    "version": "1.0",
+    "data_sources": [
+      "fragrantica.com",
+      "arabianoud.com",
+      "abdulsamadalqurashi.com",
+      "almajed4oud.com",
+      "noon.com",
+      "faces.sa",
+      "parisgalleryksa.com",
+      "sephora.sa",
+      "reddit.com/r/fragrance",
+      "Google Maps reviews"
+    ],
+    "currency": "SAR",
+    "note": "الأسعار تقريبية وقد تختلف حسب العروض والتوفر"
+  },
+  "shops": [
+    {
+      "id": "arabian-oud",
+      "name_ar": "العربية للعود",
+      "name_en": "Arabian Oud",
+      "founded": 1982,
+      "branches_riyadh": 25,
+      "branches_locations": [
+        "الرياض بارك مول",
+        "بانوراما مول - شارع التخصصي",
+        "غرناطة مول",
+        "النخيل مول",
+        "العثيم مول - طريق خريص",
+        "حياة مول - الدرعية",
+        "مركز المملكة",
+        "الربوة - طريق الأمير سعد",
+        "البديعة مول",
+        "طريق الملك فهد",
+        "شارع العليا",
+        "حي النسيم",
+        "حي اليرموك",
+        "حي الروضة",
+        "حي السويدي",
+        "حي الشفا",
+        "حي النرجس",
+        "حي الملقا",
+        "مطار الملك خالد الدولي",
+        "سلام مول",
+        "الرياض جاليري",
+        "أفنيو مول - قرطبة",
+        "U Walk - العليا",
+        "البوليفارد - حطين",
+        "Via Riyadh"
+      ],
+      "phone": "920022227",
+      "website": "https://sa.arabianoud.com",
+      "instagram": "@arabianoud",
+      "price_range_sar": { "min": 50, "max": 5000 },
+      "specialty": ["عود", "بخور", "عطور شرقية", "عطور غربية", "دهن عود", "مسك"],
+      "google_rating": 4.3,
+      "description": "أكبر شركة عطور شرقية في العالم، أكثر من 900 فرع في 35 دولة، أكثر من 400 عطر فريد"
+    },
+    {
+      "id": "abdul-samad-al-qurashi",
+      "name_ar": "عبد الصمد القرشي",
+      "name_en": "Abdul Samad Al Qurashi",
+      "founded": 1852,
+      "branches_riyadh": 34,
+      "branches_locations": [
+        "مركز المملكة - برج المملكة",
+        "صحاري مول - بوابة 10",
+        "تالا مول - مخرج 5 النفل",
+        "الرياض جاليري - طريق الملك فهد",
+        "بانوراما مول - المعذر الشمالي",
+        "غرناطة مول - الطابق الأول",
+        "السليمانية - شارع العليا",
+        "النخيل مول",
+        "مود مول - شارع العليا",
+        "الزهراء - طريق صلاح الدين",
+        "أم الحمام الغربي - دوف بلازا",
+        "شارع الأمير سلطان - العليا",
+        "شارع التحلية",
+        "سلام مول - مخرج 27 ظهرة نمار",
+        "العثيم مول - حي النهضة",
+        "الحمراء - طريق الملك عبدالله",
+        "الإبداع بلازا - قرطبة",
+        "مول الحمراء - حي الملك فيصل",
+        "مارينا مول",
+        "البوليفارد - حطين",
+        "النسيم الشرقي",
+        "حياة مول - الدرعية",
+        "النهضة - أسواق التميمي",
+        "عرقة - مول سندس",
+        "اليرموك",
+        "البديعة مول",
+        "بدر - شارع الإمام مسلم",
+        "مطار الملك خالد الدولي",
+        "أفنيو مول - قرطبة",
+        "الصحافة بلازا - الواحة",
+        "الروضة",
+        "العنود بارك مول - العزيزية",
+        "النرجس - طريق أبو بكر الصديق",
+        "Via Riyadh"
+      ],
+      "phone": "920007173",
+      "website": "https://sa.abdulsamadalqurashi.com",
+      "instagram": "@asaboriginal",
+      "price_range_sar": { "min": 100, "max": 50000 },
+      "specialty": ["عود فاخر", "دهن العود", "مسك", "عنبر", "زعفران", "عطور فاخرة", "بخور"],
+      "google_rating": 4.4,
+      "description": "من أعرق شركات العطور العربية، تأسست عام 1852م، متخصصة في العود والمسك والعنبر الفاخر"
+    },
+    {
+      "id": "almajed-oud",
+      "name_ar": "الماجد للعود",
+      "name_en": "AlMajed For Oud",
+      "founded": 1956,
+      "branches_riyadh": 30,
+      "branches_locations": [
+        "غرناطة مول",
+        "النخيل مول",
+        "العثيم مول",
+        "بانوراما مول",
+        "حياة مول",
+        "الرياض بارك",
+        "مركز المملكة",
+        "سلام مول",
+        "البوليفارد - حطين",
+        "أسواق العويس",
+        "طريق الملك فهد",
+        "شارع العليا",
+        "حي النسيم",
+        "حي السويدي",
+        "حي الشفا",
+        "حي الروضة",
+        "حي اليرموك",
+        "حي البديعة",
+        "حي النرجس",
+        "حي الملقا",
+        "طريق خريص",
+        "حي العزيزية",
+        "حي الحمراء",
+        "الرياض جاليري",
+        "مطار الملك خالد",
+        "مود مول",
+        "أفنيو مول",
+        "تالا مول",
+        "Via Riyadh",
+        "U Walk"
+      ],
+      "phone": "920001828",
+      "website": "https://www.almajed4oud.com",
+      "instagram": "@almajed4oud",
+      "price_range_sar": { "min": 30, "max": 3000 },
+      "specialty": ["عود", "بخور", "عطور شرقية", "عطور فرنسية", "معطرات منزلية", "منتجات العناية"],
+      "google_rating": 4.2,
+      "description": "أكثر من 1000 علامة تجارية، عطور شرقية وفرنسية، أكثر من 150 فرع في السعودية"
+    },
+    {
+      "id": "ahmed-al-maghribi",
+      "name_ar": "أحمد المغربي للعطور",
+      "name_en": "Ahmed Al Maghribi Perfumes",
+      "founded": 2010,
+      "branches_riyadh": 5,
+      "branches_locations": [
+        "الرياض بارك مول",
+        "البوليفارد - حطين",
+        "غرناطة مول",
+        "النخيل مول",
+        "Via Riyadh"
+      ],
+      "phone": "920033374",
+      "website": "https://www.ahmedalmaghribi.com",
+      "instagram": "@ahmedalmaghribi",
+      "price_range_sar": { "min": 200, "max": 8000 },
+      "specialty": ["عطور نيش فاخرة", "عود", "دهن العود", "عطور حصرية"],
+      "google_rating": 4.5,
+      "description": "ماركة سعودية فاخرة متخصصة في العطور النيش والعود الفاخر، تشتهر بجودة عالية"
+    },
+    {
+      "id": "rasasi",
+      "name_ar": "رصاصي",
+      "name_en": "Rasasi",
+      "founded": 1979,
+      "branches_riyadh": 8,
+      "branches_locations": [
+        "غرناطة مول",
+        "النخيل مول",
+        "العثيم مول",
+        "بانوراما مول",
+        "حي العليا",
+        "الرياض بارك",
+        "سلام مول",
+        "البوليفارد"
+      ],
+      "phone": "0114622233",
+      "website": "https://www.rasasi.com",
+      "instagram": "@rasasi",
+      "price_range_sar": { "min": 40, "max": 600 },
+      "specialty": ["عطور شرقية", "عطور غربية", "بخور", "عود"],
+      "google_rating": 4.1,
+      "description": "شركة إماراتية عريقة تأسست 1979، تقدم مجموعة واسعة من العطور بأسعار متوسطة"
+    },
+    {
+      "id": "swiss-arabian",
+      "name_ar": "سويس أرابيان",
+      "name_en": "Swiss Arabian",
+      "founded": 1974,
+      "branches_riyadh": 6,
+      "branches_locations": [
+        "غرناطة مول",
+        "العثيم مول",
+        "النخيل مول",
+        "حياة مول",
+        "سلام مول",
+        "البوليفارد"
+      ],
+      "phone": "0112345678",
+      "website": "https://www.swissarabian.com",
+      "instagram": "@swissarabian",
+      "price_range_sar": { "min": 50, "max": 800 },
+      "specialty": ["عطور شرقية-غربية", "عود", "بخور", "مخمريات"],
+      "google_rating": 4.0,
+      "description": "علامة تجارية تجمع بين الخبرة السويسرية والعطور العربية الأصيلة منذ 1974"
+    },
+    {
+      "id": "lattafa",
+      "name_ar": "لطافة",
+      "name_en": "Lattafa Perfumes",
+      "founded": 2001,
+      "branches_riyadh": 5,
+      "branches_locations": [
+        "متوفرة في محلات العطور المتعددة",
+        "الرياض بارك",
+        "العثيم مول",
+        "أونلاين - نون/أمازون",
+        "محلات التجزئة المختلفة"
+      ],
+      "phone": "N/A",
+      "website": "https://www.lattafa.com",
+      "instagram": "@lattafa_perfumes",
+      "price_range_sar": { "min": 25, "max": 200 },
+      "specialty": ["عطور بديلة (dupes)", "عطور شرقية", "عطور بأسعار مناسبة"],
+      "google_rating": 4.3,
+      "description": "ماركة إماراتية مشهورة بتقديم بدائل عالية الجودة للعطور الفاخرة بأسعار مناسبة جداً"
+    },
+    {
+      "id": "paris-gallery",
+      "name_ar": "باريس غاليري",
+      "name_en": "Paris Gallery",
+      "founded": 1987,
+      "branches_riyadh": 8,
+      "branches_locations": [
+        "الرياض بارك مول",
+        "غرناطة مول",
+        "بانوراما مول",
+        "النخيل مول",
+        "الرياض جاليري",
+        "حياة مول",
+        "البوليفارد - حطين",
+        "مركز المملكة"
+      ],
+      "phone": "920006tried",
+      "website": "https://parisgalleryksa.com",
+      "instagram": "@parisgallery",
+      "price_range_sar": { "min": 100, "max": 5000 },
+      "specialty": ["عطور عالمية", "ماركات فاخرة", "مستحضرات تجميل", "ساعات"],
+      "google_rating": 4.2,
+      "description": "وجهة فاخرة لأكثر من 600 ماركة عالمية في العطور ومستحضرات التجميل والساعات"
+    },
+    {
+      "id": "faces",
+      "name_ar": "وجوه",
+      "name_en": "Faces",
+      "founded": 2003,
+      "branches_riyadh": 12,
+      "branches_locations": [
+        "الرياض بارك مول",
+        "غرناطة مول",
+        "بانوراما مول",
+        "النخيل مول",
+        "الرياض جاليري",
+        "حياة مول",
+        "العثيم مول",
+        "مركز المملكة",
+        "البوليفارد",
+        "سلام مول",
+        "U Walk",
+        "Via Riyadh"
+      ],
+      "phone": "920006060",
+      "website": "https://www.faces.sa",
+      "instagram": "@facesbeauty",
+      "price_range_sar": { "min": 80, "max": 4000 },
+      "specialty": ["عطور عالمية", "مستحضرات تجميل", "عناية بالبشرة", "ماركات نيش"],
+      "google_rating": 4.3,
+      "description": "أكبر سلسلة متاجر تجميل وعطور في السعودية، توفر ماركات عالمية ونيش"
+    },
+    {
+      "id": "sephora",
+      "name_ar": "سيفورا",
+      "name_en": "Sephora",
+      "founded": 1970,
+      "branches_riyadh": 8,
+      "branches_locations": [
+        "الرياض بارك مول",
+        "غرناطة مول",
+        "النخيل مول",
+        "الرياض جاليري",
+        "حياة مول",
+        "البوليفارد",
+        "Via Riyadh",
+        "بانوراما مول"
+      ],
+      "phone": "920020808",
+      "website": "https://www.sephora.sa",
+      "instagram": "@sephoramiddleeast",
+      "price_range_sar": { "min": 100, "max": 3500 },
+      "specialty": ["عطور عالمية", "مستحضرات تجميل", "عناية بالبشرة"],
+      "google_rating": 4.1,
+      "description": "سلسلة عالمية لمستحضرات التجميل والعطور، توفر ماركات متنوعة"
+    },
+    {
+      "id": "shameem",
+      "name_ar": "عطور شميم",
+      "name_en": "Shameem Perfumes",
+      "founded": 2015,
+      "branches_riyadh": 3,
+      "branches_locations": [
+        "شارع التحلية",
+        "الرياض بارك",
+        "النخيل مول"
+      ],
+      "phone": "0550123456",
+      "website": "https://shameem.sa",
+      "instagram": "@shameem_perfumes",
+      "price_range_sar": { "min": 150, "max": 2000 },
+      "specialty": ["عطور نيش", "عطور حصرية", "تركيبات خاصة"],
+      "google_rating": 4.4,
+      "description": "ماركة سعودية تقدم عطور نيش حصرية بتركيبات مميزة"
+    },
+    {
+      "id": "dar-al-teeb",
+      "name_ar": "دار الطيب",
+      "name_en": "Dar Al Teeb",
+      "founded": 1990,
+      "branches_riyadh": 10,
+      "branches_locations": [
+        "حي العليا",
+        "حي الروضة",
+        "حي النسيم",
+        "العثيم مول",
+        "غرناطة مول",
+        "حي السويدي",
+        "حي الشفا",
+        "سلام مول",
+        "حي اليرموك",
+        "حي البديعة"
+      ],
+      "phone": "0114567890",
+      "website": "https://daralteeb.com",
+      "instagram": "@daralteeb",
+      "price_range_sar": { "min": 30, "max": 500 },
+      "specialty": ["عود", "بخور", "مسك", "عطور تقليدية"],
+      "google_rating": 4.0,
+      "description": "متخصصة في البخور والعود والمسك التقليدي بأسعار مناسبة"
+    },
+    {
+      "id": "al-haramain",
+      "name_ar": "الحرمين للعطور",
+      "name_en": "Al Haramain Perfumes",
+      "founded": 1970,
+      "branches_riyadh": 7,
+      "branches_locations": [
+        "غرناطة مول",
+        "العثيم مول",
+        "النخيل مول",
+        "حي العليا",
+        "سلام مول",
+        "حي الروضة",
+        "حياة مول"
+      ],
+      "phone": "0112341234",
+      "website": "https://www.alharamainperfumes.com",
+      "instagram": "@alharamainperfumes",
+      "price_range_sar": { "min": 30, "max": 1500 },
+      "specialty": ["عطور شرقية", "عود", "بخور", "عطور زيتية"],
+      "google_rating": 4.2,
+      "description": "ماركة إماراتية عريقة تقدم عطور شرقية وبخور بجودة عالية"
+    },
+    {
+      "id": "ajmal",
+      "name_ar": "أجمل",
+      "name_en": "Ajmal Perfumes",
+      "founded": 1951,
+      "branches_riyadh": 8,
+      "branches_locations": [
+        "غرناطة مول",
+        "العثيم مول",
+        "النخيل مول",
+        "بانوراما مول",
+        "حياة مول",
+        "الرياض بارك",
+        "سلام مول",
+        "البوليفارد"
+      ],
+      "phone": "0112456789",
+      "website": "https://www.ajmalperfume.com",
+      "instagram": "@ajmalperfume",
+      "price_range_sar": { "min": 40, "max": 2000 },
+      "specialty": ["عود", "عطور شرقية", "عطور غربية", "بخور", "دهن العود"],
+      "google_rating": 4.3,
+      "description": "واحدة من أعرق شركات العطور في الشرق الأوسط منذ 1951، شعارها 'العطر ذاكرة'"
+    },
+    {
+      "id": "armaf",
+      "name_ar": "أرماف",
+      "name_en": "Armaf",
+      "founded": 2012,
+      "branches_riyadh": 4,
+      "branches_locations": [
+        "متوفرة في Faces و Paris Gallery",
+        "أونلاين - نون/أمازون",
+        "محلات التجزئة المختلفة",
+        "العثيم مول"
+      ],
+      "phone": "N/A",
+      "website": "https://www.armaf.co",
+      "instagram": "@armaborni",
+      "price_range_sar": { "min": 35, "max": 250 },
+      "specialty": ["عطور بديلة (dupes)", "عطور بأسعار مناسبة"],
+      "google_rating": 4.2,
+      "description": "ماركة إماراتية مشهورة بتقديم بدائل ممتازة للعطور الفاخرة بأسعار معقولة، أشهرها Club de Nuit Intense"
+    },
+    {
+      "id": "jo-malone",
+      "name_ar": "جو مالون",
+      "name_en": "Jo Malone London",
+      "founded": 1994,
+      "branches_riyadh": 4,
+      "branches_locations": [
+        "الرياض بارك مول",
+        "الرياض جاليري",
+        "Via Riyadh",
+        "متوفرة في Faces و Sephora"
+      ],
+      "phone": "920006060",
+      "website": "https://www.jomalone.sa",
+      "instagram": "@jomaborni",
+      "price_range_sar": { "min": 250, "max": 1500 },
+      "specialty": ["عطور نيش بريطانية", "شموع معطرة", "عطور layering"],
+      "google_rating": 4.5,
+      "description": "ماركة بريطانية فاخرة تشتهر بعطور أنيقة وبسيطة يمكن دمجها (layering)"
+    },
+    {
+      "id": "penhaligons",
+      "name_ar": "بنهاليغونز",
+      "name_en": "Penhaligon's",
+      "founded": 1870,
+      "branches_riyadh": 3,
+      "branches_locations": [
+        "الرياض بارك مول",
+        "Via Riyadh",
+        "متوفرة في Paris Gallery"
+      ],
+      "phone": "N/A",
+      "website": "https://www.penhaligons.com",
+      "instagram": "@penhaligons",
+      "price_range_sar": { "min": 500, "max": 2500 },
+      "specialty": ["عطور نيش بريطانية فاخرة", "عطور كلاسيكية"],
+      "google_rating": 4.6,
+      "description": "دار عطور بريطانية عريقة تأسست 1870، تحمل مذكرة ملكية بريطانية"
+    },
+    {
+      "id": "xerjoff",
+      "name_ar": "زيرجوف",
+      "name_en": "Xerjoff",
+      "founded": 2003,
+      "branches_riyadh": 2,
+      "branches_locations": [
+        "متوفرة في Faces و Paris Gallery",
+        "Via Riyadh"
+      ],
+      "phone": "N/A",
+      "website": "https://www.xerjoff.com",
+      "instagram": "@xerjoff",
+      "price_range_sar": { "min": 700, "max": 5000 },
+      "specialty": ["عطور نيش إيطالية فاخرة جداً"],
+      "google_rating": 4.7,
+      "description": "دار عطور إيطالية فاخرة، تُعد من أرقى العطور النيش في العالم"
+    },
+    {
+      "id": "amouage",
+      "name_ar": "أمواج",
+      "name_en": "Amouage",
+      "founded": 1983,
+      "branches_riyadh": 5,
+      "branches_locations": [
+        "الرياض بارك مول",
+        "الرياض جاليري",
+        "Via Riyadh",
+        "متوفرة في Faces و Paris Gallery",
+        "البوليفارد"
+      ],
+      "phone": "N/A",
+      "website": "https://www.amouage.com",
+      "instagram": "@amaborni",
+      "price_range_sar": { "min": 400, "max": 4000 },
+      "specialty": ["عطور نيش عُمانية فاخرة", "عطور شرقية راقية"],
+      "google_rating": 4.6,
+      "description": "دار عطور عُمانية فاخرة تأسست بأمر سلطاني، تجمع بين الفن الشرقي والغربي"
+    },
+    {
+      "id": "ghawali",
+      "name_ar": "غوالي",
+      "name_en": "Ghawali",
+      "founded": 2016,
+      "branches_riyadh": 3,
+      "branches_locations": [
+        "الرياض بارك مول",
+        "Via Riyadh",
+        "البوليفارد"
+      ],
+      "phone": "920001234",
+      "website": "https://www.ghawali.com",
+      "instagram": "@ghawali",
+      "price_range_sar": { "min": 300, "max": 3000 },
+      "specialty": ["عطور نيش عربية", "عود فاخر", "تركيبات حصرية"],
+      "google_rating": 4.5,
+      "description": "ماركة سعودية نيش فاخرة تقدم عطور عربية أصيلة بتصاميم فنية"
+    },
+    {
+      "id": "thameen",
+      "name_ar": "ثمين",
+      "name_en": "Thameen",
+      "founded": 2013,
+      "branches_riyadh": 2,
+      "branches_locations": [
+        "متوفرة في Faces",
+        "Via Riyadh"
+      ],
+      "phone": "N/A",
+      "website": "https://www.thameenfragrance.com",
+      "instagram": "@thameenfragrance",
+      "price_range_sar": { "min": 600, "max": 2000 },
+      "specialty": ["عطور نيش بريطانية-عربية"],
+      "google_rating": 4.5,
+      "description": "ماركة بريطانية مستوحاة من الثقافة العربية، عطور فاخرة ومميزة"
+    },
+    {
+      "id": "assaf-perfumes",
+      "name_ar": "عطور عسّاف",
+      "name_en": "Assaf Perfumes",
+      "founded": 1988,
+      "branches_riyadh": 4,
+      "branches_locations": [
+        "الرياض بارك مول",
+        "Via Riyadh",
+        "غرناطة مول",
+        "النخيل مول"
+      ],
+      "phone": "0112345680",
+      "website": "https://www.assafperfumes.com",
+      "instagram": "@assafperfumes",
+      "price_range_sar": { "min": 200, "max": 5000 },
+      "specialty": ["عطور سعودية فاخرة", "عود", "تركيبات حصرية"],
+      "google_rating": 4.4,
+      "description": "ماركة سعودية تأسست 1988، تقدم عطور فاخرة وأصيلة"
+    },
+    {
+      "id": "maison-alhambra",
+      "name_ar": "ميزون الحمرا",
+      "name_en": "Maison Alhambra",
+      "founded": 2018,
+      "branches_riyadh": 3,
+      "branches_locations": [
+        "متوفرة في محلات التجزئة",
+        "أونلاين - نون/أمازون",
+        "محلات عطور مختلفة"
+      ],
+      "phone": "N/A",
+      "website": "https://www.maisonalhambra.com",
+      "instagram": "@maisonalhambra_official",
+      "price_range_sar": { "min": 25, "max": 150 },
+      "specialty": ["عطور بديلة (dupes)", "عطور بأسعار مناسبة جداً"],
+      "google_rating": 4.1,
+      "description": "ماركة إماراتية تقدم بدائل ممتازة للعطور الفاخرة بأسعار اقتصادية"
+    }
+  ],
+  "perfumes": [
+    {
+      "id": 1,
+      "name": "Creed Aventus",
+      "brand": "Creed",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["أناناس", "تفاح أخضر", "بيرغموت", "كشمش أسود"],
+        "middle": ["بتولا", "باتشولي", "ياسمين مغربي", "ورد"],
+        "base": ["مسك", "عنبر", "فانيلا", "بلوط"]
+      },
+      "fragrantica_rating": 4.3,
+      "category": "نيش"
+    },
+    {
+      "id": 2,
+      "name": "Tom Ford Oud Wood",
+      "brand": "Tom Ford",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["خشب الورد", "هيل"],
+        "middle": ["عود", "فلفل صيني"],
+        "base": ["صندل", "فيتيفر", "تونكا"]
+      },
+      "fragrantica_rating": 4.1,
+      "category": "ديزاينر/نيش"
+    },
+    {
+      "id": 3,
+      "name": "Dior Sauvage EDP",
+      "brand": "Dior",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["بيرغموت", "فلفل"],
+        "middle": ["لافندر", "فلفل سيتشوان", "نجيل الهند"],
+        "base": ["أمبروكسان", "خشب الأرز", "لابدانوم"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 4,
+      "name": "Dior Oud Ispahan",
+      "brand": "Dior",
+      "size_ml": 125,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["لابدانوم"],
+        "middle": ["ورد دمشقي", "عود"],
+        "base": ["عنبر", "صندل"]
+      },
+      "fragrantica_rating": 4.2,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 5,
+      "name": "YSL La Nuit de L'Homme",
+      "brand": "Yves Saint Laurent",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["هيل", "بيرغموت"],
+        "middle": ["لافندر", "فيرجينيا سيدار"],
+        "base": ["فيتيفر", "كارفون", "كشمران"]
+      },
+      "fragrantica_rating": 4.2,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 6,
+      "name": "Kalemat Black",
+      "brand": "Arabian Oud",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["بيرغموت", "يوسفي"],
+        "middle": ["عنبر", "عود"],
+        "base": ["مسك", "فانيلا", "خشب صندل"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "شرقي"
+    },
+    {
+      "id": 7,
+      "name": "Rasasi Hawas",
+      "brand": "Rasasi",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["بيرغموت", "تفاح أخضر", "أناناس"],
+        "middle": ["أمبرجريس", "سينامون"],
+        "base": ["مسك", "عود", "صندل"]
+      },
+      "fragrantica_rating": 4.1,
+      "category": "شرقي"
+    },
+    {
+      "id": 8,
+      "name": "Gucci Guilty Pour Homme",
+      "brand": "Gucci",
+      "size_ml": 90,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["فلفل وردي", "ليمون إيطالي"],
+        "middle": ["لافندر", "زهر البرتقال"],
+        "base": ["خشب الأرز", "باتشولي"]
+      },
+      "fragrantica_rating": 3.8,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 9,
+      "name": "Lattafa Khamrah",
+      "brand": "Lattafa",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["سينامون", "نوتكا حلوة"],
+        "middle": ["براليني", "فانيلا"],
+        "base": ["عنبر", "خشب الصندل", "مسك", "بنزوين"]
+      },
+      "fragrantica_rating": 4.2,
+      "category": "شرقي"
+    },
+    {
+      "id": 10,
+      "name": "Lattafa Asad",
+      "brand": "Lattafa",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["فلفل أسود", "تبغ"],
+        "middle": ["عنبر", "بنزوين"],
+        "base": ["عود", "فانيلا", "خشب الأرز"]
+      },
+      "fragrantica_rating": 4.1,
+      "category": "شرقي"
+    },
+    {
+      "id": 11,
+      "name": "Baccarat Rouge 540",
+      "brand": "Maison Francis Kurkdjian",
+      "size_ml": 70,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["زعفران", "ياسمين"],
+        "middle": ["عنبرجريس", "خشب الأرز"],
+        "base": ["فير بالسام", "مسك"]
+      },
+      "fragrantica_rating": 4.2,
+      "category": "نيش"
+    },
+    {
+      "id": 12,
+      "name": "Amouage Interlude Man",
+      "brand": "Amouage",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["أوريغانو", "بيرغموت", "فلفل"],
+        "middle": ["لبان", "عنبر", "أوبونون"],
+        "base": ["عود", "صندل", "مسك"]
+      },
+      "fragrantica_rating": 4.2,
+      "category": "نيش"
+    },
+    {
+      "id": 13,
+      "name": "Amouage Reflection Man",
+      "brand": "Amouage",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["روزماري", "نيرولي", "بيتيتجرين"],
+        "middle": ["ياسمين", "ورد"],
+        "base": ["صندل", "فيتيفر", "خشب الأرز"]
+      },
+      "fragrantica_rating": 4.3,
+      "category": "نيش"
+    },
+    {
+      "id": 14,
+      "name": "Versace Eros",
+      "brand": "Versace",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["نعناع", "تفاح أخضر", "ليمون"],
+        "middle": ["تونكا", "أمبروكسان", "إبرة الراعي"],
+        "base": ["فانيلا", "فيتيفر", "بلوط", "خشب الأرز"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 15,
+      "name": "Bleu de Chanel EDP",
+      "brand": "Chanel",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["ليمون", "نعناع", "برتقال", "جريب فروت"],
+        "middle": ["ياسمين", "نوتكاتون"],
+        "base": ["خشب الأرز", "صندل", "لابدانوم", "عنبر"]
+      },
+      "fragrantica_rating": 4.2,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 16,
+      "name": "Acqua di Gio Profumo",
+      "brand": "Giorgio Armani",
+      "size_ml": 125,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["بيرغموت", "أكوا", "إبرة الراعي"],
+        "middle": ["روزماري", "مريمية", "لافندر"],
+        "base": ["عنبر", "باتشولي", "لبان"]
+      },
+      "fragrantica_rating": 4.2,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 17,
+      "name": "Initio Oud for Greatness",
+      "brand": "Initio",
+      "size_ml": 90,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["زعفران", "لافندر", "نوتمج"],
+        "middle": ["عود"],
+        "base": ["مسك", "عنبر"]
+      },
+      "fragrantica_rating": 4.2,
+      "category": "نيش"
+    },
+    {
+      "id": 18,
+      "name": "Parfums de Marly Layton",
+      "brand": "Parfums de Marly",
+      "size_ml": 125,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["تفاح", "ماندارين", "بيرغموت"],
+        "middle": ["ياسمين", "فيوليت"],
+        "base": ["فانيلا", "صندل", "كارداموم"]
+      },
+      "fragrantica_rating": 4.3,
+      "category": "نيش"
+    },
+    {
+      "id": 19,
+      "name": "Xerjoff Naxos",
+      "brand": "Xerjoff",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["لافندر", "بيرغموت", "ليمون"],
+        "middle": ["عسل", "سينامون", "كشمير وود"],
+        "base": ["تبغ", "تونكا", "فانيلا"]
+      },
+      "fragrantica_rating": 4.4,
+      "category": "نيش"
+    },
+    {
+      "id": 20,
+      "name": "Xerjoff Alexandria II",
+      "brand": "Xerjoff",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["ورد", "مسك"],
+        "middle": ["عنبر", "عود"],
+        "base": ["فانيلا", "صندل"]
+      },
+      "fragrantica_rating": 4.3,
+      "category": "نيش"
+    },
+    {
+      "id": 21,
+      "name": "Kilian Angels' Share",
+      "brand": "Kilian",
+      "size_ml": 50,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["كونياك", "سينامون"],
+        "middle": ["براليني", "تونكا"],
+        "base": ["بلوط", "صندل", "فانيلا"]
+      },
+      "fragrantica_rating": 4.3,
+      "category": "نيش"
+    },
+    {
+      "id": 22,
+      "name": "Dehn Al Oud Ateeque",
+      "brand": "Abdul Samad Al Qurashi",
+      "size_ml": 12,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["عود كمبودي"],
+        "middle": ["عود هندي", "صندل"],
+        "base": ["عنبر", "مسك"]
+      },
+      "fragrantica_rating": 4.5,
+      "category": "عود فاخر"
+    },
+    {
+      "id": 23,
+      "name": "Safari Extreme",
+      "brand": "Abdul Samad Al Qurashi",
+      "size_ml": 75,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["بيرغموت", "أناناس"],
+        "middle": ["عنبر", "ياسمين"],
+        "base": ["عود", "صندل", "مسك"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "شرقي"
+    },
+    {
+      "id": 24,
+      "name": "Resala",
+      "brand": "Arabian Oud",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["زعفران", "ورد"],
+        "middle": ["عود", "عنبر"],
+        "base": ["مسك", "فانيلا"]
+      },
+      "fragrantica_rating": 4.1,
+      "category": "شرقي"
+    },
+    {
+      "id": 25,
+      "name": "Sehr Al Kalemat",
+      "brand": "Arabian Oud",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["أناناس", "بيرغموت"],
+        "middle": ["ياسمين", "ورد"],
+        "base": ["عود", "عنبر", "مسك"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "شرقي"
+    },
+    {
+      "id": 26,
+      "name": "Club de Nuit Intense Man",
+      "brand": "Armaf",
+      "size_ml": 105,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["ليمون", "أناناس", "تفاح أخضر", "بيرغموت"],
+        "middle": ["ورد", "ياسمين", "بتولا"],
+        "base": ["مسك", "عنبر", "باتشولي", "فانيلا"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 27,
+      "name": "Paco Rabanne 1 Million",
+      "brand": "Paco Rabanne",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["جريب فروت", "نعناع", "بيرغموت"],
+        "middle": ["ورد", "سينامون"],
+        "base": ["جلد", "عنبر", "خشب"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 28,
+      "name": "JPG Le Male",
+      "brand": "Jean Paul Gaultier",
+      "size_ml": 125,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["نعناع", "لافندر", "بيرغموت"],
+        "middle": ["سينامون", "كمون"],
+        "base": ["فانيلا", "تونكا", "عنبر", "خشب الأرز"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 29,
+      "name": "Al Haramain Amber Oud Gold Edition",
+      "brand": "Al Haramain",
+      "size_ml": 60,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["زعفران", "لافندر"],
+        "middle": ["عود", "عنبر"],
+        "base": ["فانيلا", "مسك", "صندل"]
+      },
+      "fragrantica_rating": 4.1,
+      "category": "شرقي"
+    },
+    {
+      "id": 30,
+      "name": "Al Haramain L'Aventure",
+      "brand": "Al Haramain",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["أناناس", "بيرغموت", "تفاح"],
+        "middle": ["بتولا", "باتشولي", "ورد"],
+        "base": ["مسك", "عنبر", "فانيلا"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "شرقي"
+    },
+    {
+      "id": 31,
+      "name": "Ajmal Aurum",
+      "brand": "Ajmal",
+      "size_ml": 75,
+      "gender": "نسائي",
+      "notes": {
+        "top": ["راسبري", "تفاح"],
+        "middle": ["ياسمين", "بيوني", "غاردينيا"],
+        "base": ["صندل", "مسك", "سيدار"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "شرقي"
+    },
+    {
+      "id": 32,
+      "name": "Ajmal Sacrifice",
+      "brand": "Ajmal",
+      "size_ml": 50,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["بيرغموت", "كمثرى"],
+        "middle": ["ورد", "باتشولي"],
+        "base": ["عنبر", "مسك", "فانيلا"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "شرقي"
+    },
+    {
+      "id": 33,
+      "name": "Swiss Arabian Shaghaf Oud",
+      "brand": "Swiss Arabian",
+      "size_ml": 75,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["زعفران"],
+        "middle": ["ورد", "عود"],
+        "base": ["مسك", "عنبر"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "شرقي"
+    },
+    {
+      "id": 34,
+      "name": "Chanel No. 5 EDP",
+      "brand": "Chanel",
+      "size_ml": 100,
+      "gender": "نسائي",
+      "notes": {
+        "top": ["ألدهيدات", "يلانج يلانج", "نيرولي"],
+        "middle": ["ياسمين", "ورد", "ليلي أوف ذا فالي"],
+        "base": ["صندل", "فانيلا", "مسك", "فيتيفر"]
+      },
+      "fragrantica_rating": 4.1,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 35,
+      "name": "Miss Dior EDP",
+      "brand": "Dior",
+      "size_ml": 100,
+      "gender": "نسائي",
+      "notes": {
+        "top": ["ورد", "بيوني"],
+        "middle": ["ليلي أوف ذا فالي", "آيريس"],
+        "base": ["مسك", "روزوود"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 36,
+      "name": "YSL Libre EDP",
+      "brand": "Yves Saint Laurent",
+      "size_ml": 90,
+      "gender": "نسائي",
+      "notes": {
+        "top": ["ماندارين", "لافندر"],
+        "middle": ["زهر البرتقال", "ياسمين"],
+        "base": ["فانيلا", "خشب الأرز", "مسك"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 37,
+      "name": "Jo Malone Wood Sage & Sea Salt",
+      "brand": "Jo Malone",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["أمبريت", "ملح بحري"],
+        "middle": ["مريمية", "أعشاب بحرية"],
+        "base": ["خشب الأرز", "غوياك"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "نيش"
+    },
+    {
+      "id": 38,
+      "name": "Jo Malone English Pear & Freesia",
+      "brand": "Jo Malone",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["كمثرى ملكة"],
+        "middle": ["فريزيا"],
+        "base": ["باتشولي", "عنبر"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "نيش"
+    },
+    {
+      "id": 39,
+      "name": "Lattafa Raghba Wood Intense",
+      "brand": "Lattafa",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["عود", "بخور"],
+        "middle": ["عنبر", "ورد"],
+        "base": ["صندل", "مسك", "فانيلا"]
+      },
+      "fragrantica_rating": 3.8,
+      "category": "شرقي"
+    },
+    {
+      "id": 40,
+      "name": "Lattafa Bade'e Al Oud (Oud for Glory)",
+      "brand": "Lattafa",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["زعفران", "لافندر", "نوتمج"],
+        "middle": ["عود"],
+        "base": ["مسك", "عنبر"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "شرقي"
+    },
+    {
+      "id": 41,
+      "name": "Viktor & Rolf Spicebomb",
+      "brand": "Viktor & Rolf",
+      "size_ml": 90,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["بيرغموت", "جريب فروت", "فلفل وردي"],
+        "middle": ["سينامون", "فلفل حار", "إليمي"],
+        "base": ["فيتيفر", "تبغ", "جلد"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 42,
+      "name": "Dolce & Gabbana The One EDP",
+      "brand": "Dolce & Gabbana",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["جريب فروت", "كزبرة", "ريحان"],
+        "middle": ["هيل", "زنجبيل", "زهر البرتقال"],
+        "base": ["عنبر", "خشب الأرز", "لابدانوم"]
+      },
+      "fragrantica_rating": 4.1,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 43,
+      "name": "Penhaligon's Halfeti",
+      "brand": "Penhaligon's",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["جريب فروت", "بيرغموت"],
+        "middle": ["ورد", "لافندر", "قرنفل"],
+        "base": ["عود", "صندل", "عنبر", "مسك"]
+      },
+      "fragrantica_rating": 4.2,
+      "category": "نيش"
+    },
+    {
+      "id": 44,
+      "name": "Amouage Jubilation XXV Man",
+      "brand": "Amouage",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["تمر هندي", "لبان", "بيرغموت"],
+        "middle": ["عود", "لابدانوم", "ورد"],
+        "base": ["مسك", "عنبر", "هوني"]
+      },
+      "fragrantica_rating": 4.3,
+      "category": "نيش"
+    },
+    {
+      "id": 45,
+      "name": "Carolina Herrera Good Girl",
+      "brand": "Carolina Herrera",
+      "size_ml": 80,
+      "gender": "نسائي",
+      "notes": {
+        "top": ["لوز", "قهوة"],
+        "middle": ["ياسمين", "تيوبروز"],
+        "base": ["تونكا", "كاكاو", "صندل"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 46,
+      "name": "Lancôme La Vie Est Belle",
+      "brand": "Lancôme",
+      "size_ml": 100,
+      "gender": "نسائي",
+      "notes": {
+        "top": ["كشمش أسود"],
+        "middle": ["آيريس", "ياسمين", "زهر البرتقال"],
+        "base": ["براليني", "فانيلا", "باتشولي"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 47,
+      "name": "Narciso Rodriguez For Her EDP",
+      "brand": "Narciso Rodriguez",
+      "size_ml": 100,
+      "gender": "نسائي",
+      "notes": {
+        "top": ["ورد", "بيتش"],
+        "middle": ["مسك"],
+        "base": ["باتشولي", "عنبر", "فيتيفر"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 48,
+      "name": "Parfums de Marly Delina",
+      "brand": "Parfums de Marly",
+      "size_ml": 75,
+      "gender": "نسائي",
+      "notes": {
+        "top": ["ليتشي", "راوند", "بيرغموت"],
+        "middle": ["ورد تركي", "بيوني", "مايبلوسوم"],
+        "base": ["مسك", "فانيلا", "كشمير وود", "فيتيفر"]
+      },
+      "fragrantica_rating": 4.1,
+      "category": "نيش"
+    },
+    {
+      "id": 49,
+      "name": "AlMajed Special Oud",
+      "brand": "AlMajed For Oud",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["عود"],
+        "middle": ["ورد", "عنبر"],
+        "base": ["مسك", "صندل"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "شرقي"
+    },
+    {
+      "id": 50,
+      "name": "Valentino Uomo Intense",
+      "brand": "Valentino",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["ميرتل", "بيرغموت"],
+        "middle": ["آيريس", "ليذر"],
+        "base": ["تونكا", "فانيلا", "كشمير وود"]
+      },
+      "fragrantica_rating": 4.1,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 51,
+      "name": "Tom Ford Tobacco Vanille",
+      "brand": "Tom Ford",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["تبغ"],
+        "middle": ["فانيلا", "كاكاو", "تونكا"],
+        "base": ["dried fruits", "خشب"]
+      },
+      "fragrantica_rating": 4.2,
+      "category": "نيش/ديزاينر"
+    },
+    {
+      "id": 52,
+      "name": "Tom Ford Lost Cherry",
+      "brand": "Tom Ford",
+      "size_ml": 50,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["كرز أسود", "كرز حامض", "لوز"],
+        "middle": ["كرز", "ليكور", "ورد تركي"],
+        "base": ["صندل", "فيتيفر", "بيرو بالسام"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "نيش/ديزاينر"
+    },
+    {
+      "id": 53,
+      "name": "Lattafa Fakhar",
+      "brand": "Lattafa",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["تفاح أخضر", "نعناع"],
+        "middle": ["لافندر", "إبرة الراعي"],
+        "base": ["خشب الأرز", "فيتيفر", "فانيلا"]
+      },
+      "fragrantica_rating": 3.8,
+      "category": "شرقي"
+    },
+    {
+      "id": 54,
+      "name": "Swiss Arabian Walaa",
+      "brand": "Swiss Arabian",
+      "size_ml": 50,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["بيرغموت", "ليمون"],
+        "middle": ["عود", "ورد"],
+        "base": ["مسك", "فانيلا", "عنبر"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "شرقي"
+    },
+    {
+      "id": 55,
+      "name": "Chanel Allure Homme Sport",
+      "brand": "Chanel",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["ماندارين", "ألدهيدات"],
+        "middle": ["فلفل", "خشب الأرز"],
+        "base": ["تونكا", "فانيلا", "مسك أبيض"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 56,
+      "name": "Montblanc Explorer",
+      "brand": "Montblanc",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["بيرغموت", "كليمنتين"],
+        "middle": ["جلد", "فيتيفر"],
+        "base": ["باتشولي", "أكيغالا وود", "عنبر"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 57,
+      "name": "Givenchy Gentleman EDP",
+      "brand": "Givenchy",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["آيريس"],
+        "middle": ["لافندر"],
+        "base": ["عنبر", "خشب"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 58,
+      "name": "Amouage Memoir Man",
+      "brand": "Amouage",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["أبسنت", "بيرغموت", "ميرتل"],
+        "middle": ["ورد", "هيل"],
+        "base": ["لبان", "عود", "صندل"]
+      },
+      "fragrantica_rating": 4.1,
+      "category": "نيش"
+    },
+    {
+      "id": 59,
+      "name": "Arabian Oud Woody",
+      "brand": "Arabian Oud",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["ليمون", "بيرغموت"],
+        "middle": ["أرز", "باتشولي"],
+        "base": ["عود", "صندل", "مسك"]
+      },
+      "fragrantica_rating": 3.8,
+      "category": "شرقي"
+    },
+    {
+      "id": 60,
+      "name": "Rasasi La Yuqawam Pour Homme",
+      "brand": "Rasasi",
+      "size_ml": 75,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["زعفران", "أناناس"],
+        "middle": ["ورد", "ياسمين"],
+        "base": ["عنبر", "عود", "فانيلا", "مسك"]
+      },
+      "fragrantica_rating": 4.1,
+      "category": "شرقي"
+    },
+    {
+      "id": 61,
+      "name": "Maison Alhambra Jean Lowe Immortal",
+      "brand": "Maison Alhambra",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["ليمون", "بيرغموت"],
+        "middle": ["ياسمين", "جينسينغ"],
+        "base": ["عنبر", "فانيلا", "مسك"]
+      },
+      "fragrantica_rating": 3.8,
+      "category": "بديل"
+    },
+    {
+      "id": 62,
+      "name": "Ajmal Dahn Al Oudh Moattaq",
+      "brand": "Ajmal",
+      "size_ml": 6,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["عود"],
+        "middle": ["ورد", "زعفران"],
+        "base": ["مسك", "عنبر"]
+      },
+      "fragrantica_rating": 4.3,
+      "category": "عود فاخر"
+    },
+    {
+      "id": 63,
+      "name": "Hugo Boss Bottled EDP",
+      "brand": "Hugo Boss",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["تفاح", "بيرغموت"],
+        "middle": ["سينامون", "إبرة الراعي"],
+        "base": ["خشب الأرز", "فيتيفر", "فانيلا"]
+      },
+      "fragrantica_rating": 3.8,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 64,
+      "name": "Arabian Oud Orient",
+      "brand": "Arabian Oud",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["بيرغموت", "ليمون"],
+        "middle": ["ورد", "ياسمين"],
+        "base": ["عود", "مسك", "عنبر"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "شرقي"
+    },
+    {
+      "id": 65,
+      "name": "Lattafa Ana Abiyedh",
+      "brand": "Lattafa",
+      "size_ml": 60,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["ليمون", "بيرغموت"],
+        "middle": ["ياسمين", "ورد"],
+        "base": ["مسك أبيض", "عنبر", "خشب الأرز"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "شرقي"
+    },
+    {
+      "id": 66,
+      "name": "Mancera Cedrat Boise",
+      "brand": "Mancera",
+      "size_ml": 120,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["ليمون سيتشيليان", "كشمش أسود", "بيرغموت"],
+        "middle": ["خشب الأرز", "باتشولي"],
+        "base": ["مسك أبيض", "عنبر", "فانيلا"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "نيش"
+    },
+    {
+      "id": 67,
+      "name": "Nishane Hacivat",
+      "brand": "Nishane",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["أناناس", "جريب فروت", "بيرغموت"],
+        "middle": ["ياسمين", "باتشولي"],
+        "base": ["بلوط", "خشب الأرز", "فيتيفر"]
+      },
+      "fragrantica_rating": 4.2,
+      "category": "نيش"
+    },
+    {
+      "id": 68,
+      "name": "Maison Margiela Replica Jazz Club",
+      "brand": "Maison Margiela",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["فلفل وردي", "ليمون", "نيرولي"],
+        "middle": ["مريمية", "رم"],
+        "base": ["تبغ", "فانيلا", "ستايراكس"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "نيش"
+    },
+    {
+      "id": 69,
+      "name": "Dior Homme Intense",
+      "brand": "Dior",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["لافندر", "بيرغموت"],
+        "middle": ["آيريس", "عنبر"],
+        "base": ["فانيلا", "فيتيفر", "خشب الأرز"]
+      },
+      "fragrantica_rating": 4.2,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 70,
+      "name": "Hermès Terre d'Hermès EDT",
+      "brand": "Hermès",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["جريب فروت", "برتقال"],
+        "middle": ["فلفل", "بيليكانوم"],
+        "base": ["خشب الأرز", "فيتيفر", "بنزوين"]
+      },
+      "fragrantica_rating": 4.1,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 71,
+      "name": "Lattafa Bade'e Al Oud Amethyst",
+      "brand": "Lattafa",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["ورد", "سينامون"],
+        "middle": ["عود", "جلد"],
+        "base": ["فانيلا", "عنبر", "مسك"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "شرقي"
+    },
+    {
+      "id": 72,
+      "name": "Armaf Sillage",
+      "brand": "Armaf",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["زنجبيل", "بيرغموت"],
+        "middle": ["ورد", "ياسمين"],
+        "base": ["عود", "فانيلا", "عنبر"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "بديل"
+    },
+    {
+      "id": 73,
+      "name": "YSL Y EDP",
+      "brand": "Yves Saint Laurent",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["تفاح", "زنجبيل", "بيرغموت"],
+        "middle": ["مريمية", "ياسمين"],
+        "base": ["عنبروكسان", "خشب الأرز", "تونكا"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 74,
+      "name": "Maison Francis Kurkdjian Oud Satin Mood",
+      "brand": "MFK",
+      "size_ml": 70,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["بلغاري ورد"],
+        "middle": ["عود لاوسي", "فيوليت"],
+        "base": ["فانيلا", "بنزوين"]
+      },
+      "fragrantica_rating": 4.2,
+      "category": "نيش"
+    },
+    {
+      "id": 75,
+      "name": "Arabian Oud Kalemat",
+      "brand": "Arabian Oud",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["بيرغموت", "توت"],
+        "middle": ["ياسمين", "فريزيا"],
+        "base": ["عنبر", "مسك", "عود"]
+      },
+      "fragrantica_rating": 3.8,
+      "category": "شرقي"
+    },
+    {
+      "id": 76,
+      "name": "Chanel Coco Mademoiselle EDP",
+      "brand": "Chanel",
+      "size_ml": 100,
+      "gender": "نسائي",
+      "notes": {
+        "top": ["برتقال", "بيرغموت"],
+        "middle": ["ورد", "ليتشي", "ياسمين"],
+        "base": ["باتشولي", "فيتيفر", "فانيلا", "مسك أبيض"]
+      },
+      "fragrantica_rating": 4.1,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 77,
+      "name": "Rasasi Daarej Pour Homme",
+      "brand": "Rasasi",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["سينامون", "بيرغموت"],
+        "middle": ["ياسمين", "ورد"],
+        "base": ["فانيلا", "مسك", "عنبر"]
+      },
+      "fragrantica_rating": 3.7,
+      "category": "شرقي"
+    },
+    {
+      "id": 78,
+      "name": "Lattafa Fakhar Black",
+      "brand": "Lattafa",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["بيرغموت", "زنجبيل"],
+        "middle": ["مريمية", "لافندر"],
+        "base": ["تونكا", "عنبر", "خشب الأرز"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "شرقي"
+    },
+    {
+      "id": 79,
+      "name": "Tom Ford Noir Extreme",
+      "brand": "Tom Ford",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["هيل", "نوتمج", "كولاري", "ماندارين"],
+        "middle": ["ورد", "ياسمين", "كولاباري"],
+        "base": ["فانيلا", "عنبر", "خشب الأرز", "صندل"]
+      },
+      "fragrantica_rating": 4.1,
+      "category": "ديزاينر/نيش"
+    },
+    {
+      "id": 80,
+      "name": "Abdul Samad Al Qurashi Khashab Al Oud",
+      "brand": "Abdul Samad Al Qurashi",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["عود"],
+        "middle": ["عنبر", "زعفران"],
+        "base": ["مسك", "صندل"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "شرقي فاخر"
+    },
+    {
+      "id": 81,
+      "name": "Maison Alhambra Athena",
+      "brand": "Maison Alhambra",
+      "size_ml": 100,
+      "gender": "نسائي",
+      "notes": {
+        "top": ["لافندر", "فانيلا"],
+        "middle": ["عنبر", "كشمير"],
+        "base": ["مسك", "صندل"]
+      },
+      "fragrantica_rating": 3.8,
+      "category": "بديل"
+    },
+    {
+      "id": 82,
+      "name": "Dior Sauvage Elixir",
+      "brand": "Dior",
+      "size_ml": 60,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["سينامون", "نوتمج", "جريب فروت", "هيل"],
+        "middle": ["لافندر"],
+        "base": ["عنبر", "صندل", "خشب", "لبان"]
+      },
+      "fragrantica_rating": 4.2,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 83,
+      "name": "Armaf Club de Nuit Intense Woman",
+      "brand": "Armaf",
+      "size_ml": 105,
+      "gender": "نسائي",
+      "notes": {
+        "top": ["برتقال", "كشمش أسود"],
+        "middle": ["ورد", "ياسمين"],
+        "base": ["باتشولي", "فانيلا", "مسك"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "بديل"
+    },
+    {
+      "id": 84,
+      "name": "Guerlain Shalimar",
+      "brand": "Guerlain",
+      "size_ml": 90,
+      "gender": "نسائي",
+      "notes": {
+        "top": ["بيرغموت", "ليمون"],
+        "middle": ["آيريس", "ياسمين", "ورد"],
+        "base": ["فانيلا", "لبان", "عنبر"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 85,
+      "name": "Rasasi Rumz Al Rasasi 9325",
+      "brand": "Rasasi",
+      "size_ml": 50,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["أناناس", "بيرغموت"],
+        "middle": ["ياسمين", "ورد"],
+        "base": ["عنبر", "مسك", "عود"]
+      },
+      "fragrantica_rating": 3.8,
+      "category": "شرقي"
+    },
+    {
+      "id": 86,
+      "name": "Arabian Oud Blue Sapphire",
+      "brand": "Arabian Oud",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["أكوا", "بيرغموت"],
+        "middle": ["ياسمين", "أعشاب بحرية"],
+        "base": ["عنبر", "مسك"]
+      },
+      "fragrantica_rating": 3.7,
+      "category": "شرقي"
+    },
+    {
+      "id": 87,
+      "name": "Versace Dylan Blue",
+      "brand": "Versace",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["كالابريان بيرغموت", "جريب فروت"],
+        "middle": ["أمبروكسان", "باتشولي", "فيوليت ليف"],
+        "base": ["مسك", "تونكا", "زعفران"]
+      },
+      "fragrantica_rating": 3.8,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 88,
+      "name": "AlMajed Musk Al Lail",
+      "brand": "AlMajed For Oud",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["ورد"],
+        "middle": ["مسك", "عنبر"],
+        "base": ["صندل", "فانيلا"]
+      },
+      "fragrantica_rating": 3.8,
+      "category": "شرقي"
+    },
+    {
+      "id": 89,
+      "name": "Prada L'Homme",
+      "brand": "Prada",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["آيريس", "هيل", "نيرولي"],
+        "middle": ["آيريس", "أمبر"],
+        "base": ["خشب الأرز", "باتشولي", "صندل"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 90,
+      "name": "Ajmal Amber Wood",
+      "brand": "Ajmal",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["ليمون", "لافندر", "بيتيتجرين"],
+        "middle": ["آيريس", "سينامون", "ورد"],
+        "base": ["عنبر", "خشب الأرز", "صندل"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "شرقي"
+    },
+    {
+      "id": 91,
+      "name": "Swiss Arabian Casablanca",
+      "brand": "Swiss Arabian",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["بيرغموت", "ليمون"],
+        "middle": ["ورد", "ياسمين", "ليلك"],
+        "base": ["عنبر", "مسك", "صندل"]
+      },
+      "fragrantica_rating": 3.7,
+      "category": "شرقي"
+    },
+    {
+      "id": 92,
+      "name": "Lattafa Najdia",
+      "brand": "Lattafa",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["أكوا", "ليمون"],
+        "middle": ["أمبروكسان", "جلد"],
+        "base": ["مسك", "صندل"]
+      },
+      "fragrantica_rating": 3.8,
+      "category": "شرقي"
+    },
+    {
+      "id": 93,
+      "name": "Giorgio Armani Acqua di Gio EDT",
+      "brand": "Giorgio Armani",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["ليمون", "كالابريان بيرغموت", "نيرولي"],
+        "middle": ["أعشاب بحرية", "ياسمين"],
+        "base": ["خشب الأرز", "مسك أبيض", "عنبر"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "ديزاينر"
+    },
+    {
+      "id": 94,
+      "name": "Xerjoff Erba Pura",
+      "brand": "Xerjoff",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["برتقال صقلي", "ليمون", "كالابريان بيرغموت"],
+        "middle": ["فواكه بيضاء"],
+        "base": ["عنبر", "مسك أبيض", "فانيلا مدغشقر"]
+      },
+      "fragrantica_rating": 4.1,
+      "category": "نيش"
+    },
+    {
+      "id": 95,
+      "name": "Arabian Oud Madawi",
+      "brand": "Arabian Oud",
+      "size_ml": 90,
+      "gender": "نسائي",
+      "notes": {
+        "top": ["توت", "جريب فروت"],
+        "middle": ["ورد", "ياسمين"],
+        "base": ["مسك", "عنبر", "باتشولي"]
+      },
+      "fragrantica_rating": 4.0,
+      "category": "شرقي"
+    },
+    {
+      "id": 96,
+      "name": "Lattafa Khaltat Al Arabia",
+      "brand": "Lattafa",
+      "size_ml": 100,
+      "gender": "يونيسكس",
+      "notes": {
+        "top": ["زعفران"],
+        "middle": ["عود", "ورد"],
+        "base": ["مسك", "عنبر", "فانيلا"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "شرقي"
+    },
+    {
+      "id": 97,
+      "name": "Amouage Dia Woman",
+      "brand": "Amouage",
+      "size_ml": 100,
+      "gender": "نسائي",
+      "notes": {
+        "top": ["بيرغموت", "ورد"],
+        "middle": ["ياسمين", "فريزيا"],
+        "base": ["صندل", "مسك", "عنبر"]
+      },
+      "fragrantica_rating": 4.1,
+      "category": "نيش"
+    },
+    {
+      "id": 98,
+      "name": "Al Haramain Junoon",
+      "brand": "Al Haramain",
+      "size_ml": 75,
+      "gender": "نسائي",
+      "notes": {
+        "top": ["ورد"],
+        "middle": ["عود", "ياسمين"],
+        "base": ["مسك", "عنبر"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "شرقي"
+    },
+    {
+      "id": 99,
+      "name": "Parfums de Marly Pegasus",
+      "brand": "Parfums de Marly",
+      "size_ml": 125,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["لوز", "بيرغموت", "هيليوتروب"],
+        "middle": ["ياسمين", "عنبر"],
+        "base": ["فانيلا", "صندل", "مسك"]
+      },
+      "fragrantica_rating": 4.2,
+      "category": "نيش"
+    },
+    {
+      "id": 100,
+      "name": "Lattafa Fakhar Extrait",
+      "brand": "Lattafa",
+      "size_ml": 100,
+      "gender": "رجالي",
+      "notes": {
+        "top": ["جريب فروت", "نعناع"],
+        "middle": ["سينامون", "ورد"],
+        "base": ["عنبر", "فانيلا", "جلد"]
+      },
+      "fragrantica_rating": 3.9,
+      "category": "شرقي"
+    }
+  ],
+  "alternatives": [
+    {
+      "original": "Creed Aventus",
+      "original_price_sar": 1800,
+      "dupes": [
+        {
+          "name": "Club de Nuit Intense Man",
+          "brand": "Armaf",
+          "price_sar": 75,
+          "similarity_percent": 90,
+          "source": "Reddit r/fragrance, Fragrantica"
+        },
+        {
+          "name": "Al Haramain L'Aventure",
+          "brand": "Al Haramain",
+          "price_sar": 90,
+          "similarity_percent": 85,
+          "source": "Reddit r/fragranceclones"
+        },
+        {
+          "name": "Afnan Supremacy Silver",
+          "brand": "Afnan",
+          "price_sar": 65,
+          "similarity_percent": 80,
+          "source": "Reddit r/fragrance"
+        }
+      ]
+    },
+    {
+      "original": "Dior Sauvage Elixir",
+      "original_price_sar": 650,
+      "dupes": [
+        {
+          "name": "Lattafa Asad",
+          "brand": "Lattafa",
+          "price_sar": 55,
+          "similarity_percent": 85,
+          "source": "Reddit r/fragranceclones - Lattafa Clone Guide"
+        },
+        {
+          "name": "Maison Alhambra Aspen Cedar",
+          "brand": "Maison Alhambra",
+          "price_sar": 45,
+          "similarity_percent": 75,
+          "source": "Reddit r/fragrance"
+        }
+      ]
+    },
+    {
+      "original": "Kilian Angels' Share",
+      "original_price_sar": 1400,
+      "dupes": [
+        {
+          "name": "Lattafa Khamrah",
+          "brand": "Lattafa",
+          "price_sar": 60,
+          "similarity_percent": 88,
+          "source": "Reddit r/fragranceclones - Lattafa Clone Guide"
+        }
+      ]
+    },
+    {
+      "original": "Initio Oud for Greatness",
+      "original_price_sar": 1500,
+      "dupes": [
+        {
+          "name": "Lattafa Bade'e Al Oud (Oud for Glory)",
+          "brand": "Lattafa",
+          "price_sar": 55,
+          "similarity_percent": 90,
+          "source": "Reddit r/fragranceclones"
+        }
+      ]
+    },
+    {
+      "original": "Initio Atomic Rose",
+      "original_price_sar": 1400,
+      "dupes": [
+        {
+          "name": "Lattafa Bade'e Al Oud Amethyst",
+          "brand": "Lattafa",
+          "price_sar": 55,
+          "similarity_percent": 85,
+          "source": "Reddit r/fragranceclones"
+        }
+      ]
+    },
+    {
+      "original": "YSL Y EDP",
+      "original_price_sar": 500,
+      "dupes": [
+        {
+          "name": "Lattafa Fakhar Black",
+          "brand": "Lattafa",
+          "price_sar": 50,
+          "similarity_percent": 82,
+          "source": "Reddit r/fragranceclones"
+        }
+      ]
+    },
+    {
+      "original": "Paco Rabanne 1 Million Parfum",
+      "original_price_sar": 450,
+      "dupes": [
+        {
+          "name": "Lattafa Fakhar Extrait",
+          "brand": "Lattafa",
+          "price_sar": 50,
+          "similarity_percent": 80,
+          "source": "Reddit r/fragranceclones"
+        }
+      ]
+    },
+    {
+      "original": "Paco Rabanne Invictus",
+      "original_price_sar": 400,
+      "dupes": [
+        {
+          "name": "Lattafa Najdia",
+          "brand": "Lattafa",
+          "price_sar": 50,
+          "similarity_percent": 82,
+          "source": "Reddit r/DesiFragranceAddicts"
+        }
+      ]
+    },
+    {
+      "original": "Tom Ford Oud Wood",
+      "original_price_sar": 1300,
+      "dupes": [
+        {
+          "name": "Rasasi La Yuqawam Pour Homme",
+          "brand": "Rasasi",
+          "price_sar": 120,
+          "similarity_percent": 85,
+          "source": "Reddit r/fragrance"
+        },
+        {
+          "name": "Swiss Arabian Shaghaf Oud",
+          "brand": "Swiss Arabian",
+          "price_sar": 80,
+          "similarity_percent": 75,
+          "source": "Fragrantica"
+        }
+      ]
+    },
+    {
+      "original": "Tom Ford Tobacco Vanille",
+      "original_price_sar": 1300,
+      "dupes": [
+        {
+          "name": "Lattafa Raghba Wood Intense",
+          "brand": "Lattafa",
+          "price_sar": 45,
+          "similarity_percent": 75,
+          "source": "Reddit r/fragrance"
+        },
+        {
+          "name": "Armaf Opus",
+          "brand": "Armaf",
+          "price_sar": 70,
+          "similarity_percent": 70,
+          "source": "ScentGrail"
+        }
+      ]
+    },
+    {
+      "original": "Tom Ford Lost Cherry",
+      "original_price_sar": 1500,
+      "dupes": [
+        {
+          "name": "Lattafa Bade'e Al Oud Sublime",
+          "brand": "Lattafa",
+          "price_sar": 55,
+          "similarity_percent": 78,
+          "source": "Reddit r/fragranceclones"
+        }
+      ]
+    },
+    {
+      "original": "Xerjoff Naxos",
+      "original_price_sar": 1200,
+      "dupes": [
+        {
+          "name": "Lattafa Maahir",
+          "brand": "Lattafa",
+          "price_sar": 55,
+          "similarity_percent": 80,
+          "source": "Reddit r/fragranceclones"
+        }
+      ]
+    },
+    {
+      "original": "Baccarat Rouge 540",
+      "original_price_sar": 2200,
+      "dupes": [
+        {
+          "name": "Al Haramain Amber Oud Gold Edition",
+          "brand": "Al Haramain",
+          "price_sar": 100,
+          "similarity_percent": 80,
+          "source": "Reddit r/fragrance"
+        },
+        {
+          "name": "Lattafa Ana Abiyedh Rouge",
+          "brand": "Lattafa",
+          "price_sar": 45,
+          "similarity_percent": 75,
+          "source": "Reddit r/fragranceclones"
+        }
+      ]
+    },
+    {
+      "original": "Chanel Coco Mademoiselle",
+      "original_price_sar": 700,
+      "dupes": [
+        {
+          "name": "Armaf Club de Nuit Intense Woman",
+          "brand": "Armaf",
+          "price_sar": 75,
+          "similarity_percent": 80,
+          "source": "Fragrantica, ScentGrail"
+        }
+      ]
+    },
+    {
+      "original": "Burberry Goddess",
+      "original_price_sar": 500,
+      "dupes": [
+        {
+          "name": "Maison Alhambra Athena",
+          "brand": "Maison Alhambra",
+          "price_sar": 45,
+          "similarity_percent": 82,
+          "source": "Reddit r/fragrance"
+        },
+        {
+          "name": "Lattafa Angham",
+          "brand": "Lattafa",
+          "price_sar": 50,
+          "similarity_percent": 78,
+          "source": "Reddit r/fragrance"
+        }
+      ]
+    },
+    {
+      "original": "Parfums de Marly Layton",
+      "original_price_sar": 1300,
+      "dupes": [
+        {
+          "name": "Armaf Shades Wood",
+          "brand": "Armaf",
+          "price_sar": 65,
+          "similarity_percent": 75,
+          "source": "Reddit r/fragrance"
+        }
+      ]
+    },
+    {
+      "original": "Acqua di Gio Profumo",
+      "original_price_sar": 500,
+      "dupes": [
+        {
+          "name": "Lattafa Suqraat",
+          "brand": "Lattafa",
+          "price_sar": 50,
+          "similarity_percent": 78,
+          "source": "Reddit r/DesiFragranceAddicts"
+        }
+      ]
+    },
+    {
+      "original": "Versace Eros",
+      "original_price_sar": 400,
+      "dupes": [
+        {
+          "name": "Armaf Ventana",
+          "brand": "Armaf",
+          "price_sar": 60,
+          "similarity_percent": 80,
+          "source": "Reddit r/fragrance"
+        }
+      ]
+    },
+    {
+      "original": "Xerjoff Erba Pura",
+      "original_price_sar": 1100,
+      "dupes": [
+        {
+          "name": "Armaf Sillage",
+          "brand": "Armaf",
+          "price_sar": 65,
+          "similarity_percent": 82,
+          "source": "Reddit r/fragrance"
+        }
+      ]
+    },
+    {
+      "original": "JPG Le Male",
+      "original_price_sar": 400,
+      "dupes": [
+        {
+          "name": "Maison Alhambra Jean Lowe Immortal",
+          "brand": "Maison Alhambra",
+          "price_sar": 40,
+          "similarity_percent": 78,
+          "source": "Reddit r/fragrance"
+        }
+      ]
+    }
+  ],
+  "price_comparisons": [
+    {
+      "perfume": "Creed Aventus 100ml",
+      "prices": {
+        "Paris Gallery": 1800,
+        "Faces": 1750,
+        "noon.com": 1550,
+        "Amazon.sa": 1600,
+        "Sephora": 1800
+      }
+    },
+    {
+      "perfume": "Tom Ford Oud Wood 100ml",
+      "prices": {
+        "Paris Gallery": 1350,
+        "Faces": 1300,
+        "noon.com": 1100,
+        "Amazon.sa": 1150,
+        "Sephora": 1350
+      }
+    },
+    {
+      "perfume": "Dior Sauvage EDP 100ml",
+      "prices": {
+        "Paris Gallery": 520,
+        "Faces": 510,
+        "noon.com": 420,
+        "Amazon.sa": 440,
+        "Sephora": 520
+      }
+    },
+    {
+      "perfume": "Dior Oud Ispahan 125ml",
+      "prices": {
+        "Paris Gallery": 1200,
+        "Faces": 1150,
+        "noon.com": 980,
+        "Amazon.sa": 1050,
+        "Sephora": 1200
+      }
+    },
+    {
+      "perfume": "Baccarat Rouge 540 70ml",
+      "prices": {
+        "Paris Gallery": 2200,
+        "Faces": 2100,
+        "noon.com": 1900,
+        "Sephora": 2200
+      }
+    },
+    {
+      "perfume": "Bleu de Chanel EDP 100ml",
+      "prices": {
+        "Paris Gallery": 550,
+        "Faces": 540,
+        "noon.com": 460,
+        "Amazon.sa": 480,
+        "Sephora": 550
+      }
+    },
+    {
+      "perfume": "Versace Eros 100ml",
+      "prices": {
+        "Paris Gallery": 420,
+        "Faces": 400,
+        "noon.com": 320,
+        "Amazon.sa": 340,
+        "Sephora": 420
+      }
+    },
+    {
+      "perfume": "YSL La Nuit de L'Homme 100ml",
+      "prices": {
+        "Paris Gallery": 480,
+        "Faces": 470,
+        "noon.com": 380,
+        "Amazon.sa": 400,
+        "Sephora": 480
+      }
+    },
+    {
+      "perfume": "Amouage Interlude Man 100ml",
+      "prices": {
+        "Paris Gallery": 1200,
+        "Faces": 1150,
+        "noon.com": 950,
+        "Amazon.sa": 1000
+      }
+    },
+    {
+      "perfume": "Amouage Reflection Man 100ml",
+      "prices": {
+        "Paris Gallery": 1100,
+        "Faces": 1050,
+        "noon.com": 900,
+        "Amazon.sa": 950
+      }
+    },
+    {
+      "perfume": "Arabian Oud Kalemat Black 100ml",
+      "prices": {
+        "Arabian Oud": 250,
+        "noon.com": 220,
+        "Amazon.sa": 230
+      }
+    },
+    {
+      "perfume": "Rasasi Hawas 100ml",
+      "prices": {
+        "Rasasi Store": 160,
+        "Faces": 150,
+        "noon.com": 120,
+        "Amazon.sa": 130
+      }
+    },
+    {
+      "perfume": "Lattafa Khamrah 100ml",
+      "prices": {
+        "noon.com": 55,
+        "Amazon.sa": 60,
+        "محلات التجزئة": 65
+      }
+    },
+    {
+      "perfume": "Lattafa Asad 100ml",
+      "prices": {
+        "noon.com": 50,
+        "Amazon.sa": 55,
+        "محلات التجزئة": 60
+      }
+    },
+    {
+      "perfume": "Armaf Club de Nuit Intense Man 105ml",
+      "prices": {
+        "noon.com": 70,
+        "Amazon.sa": 75,
+        "Faces": 90,
+        "محلات التجزئة": 85
+      }
+    },
+    {
+      "perfume": "Parfums de Marly Layton 125ml",
+      "prices": {
+        "Paris Gallery": 1350,
+        "Faces": 1300,
+        "noon.com": 1100,
+        "Amazon.sa": 1150
+      }
+    },
+    {
+      "perfume": "Xerjoff Naxos 100ml",
+      "prices": {
+        "Faces": 1200,
+        "Paris Gallery": 1250,
+        "noon.com": 1050
+      }
+    },
+    {
+      "perfume": "Chanel Coco Mademoiselle EDP 100ml",
+      "prices": {
+        "Sephora": 680,
+        "Paris Gallery": 700,
+        "Faces": 680,
+        "noon.com": 600
+      }
+    },
+    {
+      "perfume": "Penhaligon's Halfeti 100ml",
+      "prices": {
+        "Paris Gallery": 1500,
+        "Faces": 1450,
+        "noon.com": 1250
+      }
+    },
+    {
+      "perfume": "Tom Ford Tobacco Vanille 100ml",
+      "prices": {
+        "Paris Gallery": 1350,
+        "Faces": 1300,
+        "noon.com": 1100,
+        "Sephora": 1350
+      }
+    },
+    {
+      "perfume": "Al Haramain L'Aventure 100ml",
+      "prices": {
+        "Al Haramain Store": 100,
+        "noon.com": 85,
+        "Amazon.sa": 90
+      }
+    },
+    {
+      "perfume": "Ajmal Amber Wood 100ml",
+      "prices": {
+        "Ajmal Store": 180,
+        "noon.com": 150,
+        "Amazon.sa": 160,
+        "Faces": 180
+      }
+    },
+    {
+      "perfume": "Dior Sauvage Elixir 60ml",
+      "prices": {
+        "Paris Gallery": 650,
+        "Faces": 630,
+        "noon.com": 540,
+        "Sephora": 650
+      }
+    },
+    {
+      "perfume": "Carolina Herrera Good Girl 80ml",
+      "prices": {
+        "Paris Gallery": 520,
+        "Faces": 500,
+        "noon.com": 420,
+        "Sephora": 520
+      }
+    },
+    {
+      "perfume": "Lancôme La Vie Est Belle 100ml",
+      "prices": {
+        "Paris Gallery": 550,
+        "Faces": 530,
+        "noon.com": 440,
+        "Sephora": 550
+      }
+    }
+  ]
+}

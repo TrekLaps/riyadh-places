@@ -1,0 +1,4537 @@
+[
+  {
+    "name": "باونس الرياض",
+    "name_en": "Bounce Riyadh",
+    "category": "ترفيه",
+    "rating": 4.3,
+    "rating_count": 2800,
+    "phone": "+966920009900",
+    "hours": {
+      "sun": "2:00 PM - 10:00 PM",
+      "mon": "2:00 PM - 10:00 PM",
+      "tue": "2:00 PM - 10:00 PM",
+      "wed": "2:00 PM - 10:00 PM (سيدات)",
+      "thu": "2:00 PM - 10:00 PM (عوائل)",
+      "fri": "2:00 PM - 10:00 PM",
+      "sat": "12:00 PM - 10:00 PM"
+    },
+    "website": "https://bounce.sa",
+    "instagram": "@bouncesa",
+    "description_ar": "أول مركز ترامبولين في الرياض يوفر تجربة فري ستايل مع مناطق قفز متنوعة وألعاب دودج بول وتسلق الجدران، مخصص للسيدات",
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "رياضة",
+      "مغامرة"
+    ],
+    "price_level": "$$",
+    "address_ar": "4466 طريق خريص الفرعي، حي الروضة، الرياض",
+    "entry_fee": "89 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة الملك عبدالله",
+    "name_en": "King Abdullah Park",
+    "category": "ترفيه",
+    "rating": 4.4,
+    "rating_count": 15000,
+    "phone": "+966114500000",
+    "hours": {
+      "sun": "4:00 PM - 12:00 AM",
+      "mon": "4:00 PM - 12:00 AM",
+      "tue": "4:00 PM - 12:00 AM",
+      "wed": "4:00 PM - 12:00 AM",
+      "thu": "4:00 PM - 1:00 AM",
+      "fri": "4:00 PM - 1:00 AM",
+      "sat": "4:00 PM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة كبيرة في قلب الرياض تضم نوافير ملونة ومسطحات خضراء ومناطق ألعاب للأطفال وممرات للمشي",
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "تنزه",
+      "رومانسي"
+    ],
+    "price_level": "$",
+    "address_ar": "حي الملز، الرياض",
+    "entry_fee": "10 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة الملك فهد",
+    "name_en": "King Fahd Park",
+    "category": "ترفيه",
+    "rating": 4.4,
+    "rating_count": 12000,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة مركزية واسعة بأشجار النخيل والمساحات الخضراء مع ملاعب أطفال وبحيرات صناعية ومسارات للمشي والدراجات",
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "رياضة",
+      "تنزه"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "شارع العليا، الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "إسكيب أرابيا",
+    "name_en": "Escape Arabia",
+    "category": "ترفيه",
+    "rating": 4.5,
+    "rating_count": 1200,
+    "phone": "+966583169169",
+    "hours": {
+      "sun": "12:00 PM - 12:00 AM",
+      "mon": "12:00 PM - 12:00 AM",
+      "tue": "12:00 PM - 12:00 AM",
+      "wed": "12:00 PM - 12:00 AM",
+      "thu": "12:00 PM - 12:00 AM",
+      "fri": "12:00 PM - 12:00 AM",
+      "sat": "12:00 PM - 12:00 AM"
+    },
+    "website": "https://escape.sa",
+    "instagram": "@escapearabia",
+    "description_ar": "غرف هروب تفاعلية بتصاميم مبتكرة تتحدى الذكاء والعمل الجماعي، 4 غرف هروب و2 غرف واقع افتراضي",
+    "perfect_for": [
+      "أصدقاء",
+      "شباب",
+      "مغامرة",
+      "تيم بيلدنق"
+    ],
+    "price_level": "$$$",
+    "address_ar": "شارع الأمير محمد بن عبدالعزيز، السليمانية، الرياض",
+    "entry_fee": "175 SAR/شخص",
+    "kid_friendly": false,
+    "family_friendly": true
+  },
+  {
+    "name": "عالم جمولي",
+    "name_en": "Jomoli World",
+    "category": "ترفيه",
+    "rating": 4.3,
+    "rating_count": 3500,
+    "phone": "+966114577744",
+    "hours": {
+      "sun": "4:00 PM - 10:00 PM",
+      "mon": "4:00 PM - 10:00 PM",
+      "tue": "4:00 PM - 10:00 PM",
+      "wed": "4:00 PM - 10:00 PM",
+      "thu": "4:00 PM - 10:00 PM",
+      "fri": "4:00 PM - 11:00 PM",
+      "sat": "4:00 PM - 10:00 PM"
+    },
+    "website": null,
+    "instagram": "@jomoli_world",
+    "description_ar": "مدينة مصغرة تعليمية ترفيهية للأطفال على مساحة 12,000 متر مربع يتعلمون فيها المهن",
+    "perfect_for": [
+      "أطفال",
+      "عوائل",
+      "تعليمي"
+    ],
+    "price_level": "$$",
+    "address_ar": "طريق الصحابة، حي المونسية، الرياض",
+    "entry_fee": "89 SAR شامل | 35 SAR المتاهة",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "فزز هوا الترفيهي",
+    "name_en": "Fizz Hawa",
+    "category": "ترفيه",
+    "rating": 4.2,
+    "rating_count": 2200,
+    "phone": "+966920033322",
+    "hours": {
+      "sun": "10:00 AM - 12:00 AM",
+      "mon": "10:00 AM - 12:00 AM",
+      "tue": "10:00 AM - 12:00 AM",
+      "wed": "10:00 AM - 12:00 AM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": "https://fizzhawa.com",
+    "instagram": "@fizzhawa",
+    "description_ar": "مركز ترفيهي شامل يضم ألعاب حركية وتسلق جدران وتزلج وسيارات متصادمة",
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "أصدقاء",
+      "مغامرة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، بوليفارد وورلد، 3390 طريق الدمام، الرياض",
+    "entry_fee": "40-99 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "ووش الترفيهي",
+    "name_en": "Woosh Entertainment",
+    "category": "ترفيه",
+    "rating": 4.2,
+    "rating_count": 1800,
+    "phone": "+966920009191",
+    "hours": {
+      "sun": "4:00 PM - 11:00 PM",
+      "mon": "4:00 PM - 11:00 PM",
+      "tue": "4:00 PM - 11:00 PM",
+      "wed": "4:00 PM - 11:00 PM",
+      "thu": "4:00 PM - 12:00 AM",
+      "fri": "4:00 PM - 12:00 AM",
+      "sat": "4:00 PM - 11:00 PM"
+    },
+    "website": "https://www.woosh-ksa.com",
+    "instagram": "@woosh_ksa",
+    "description_ar": "ملاهي ترفيهية للأطفال تضم ألعاب تفاعلية ومهارات وتحديات كالتسلق والمتاهة والزيبلاين",
+    "perfect_for": [
+      "أطفال",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النفل، جنوب طريق أبو بكر الصديق، الرياض",
+    "entry_fee": "139 SAR (20 نقطة)",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "ملاهي الخيمة",
+    "name_en": "Al Khaima Amusement Park",
+    "category": "ترفيه",
+    "rating": 4.1,
+    "rating_count": 2500,
+    "phone": "+966114560000",
+    "hours": {
+      "sun": "4:30 PM - 11:30 PM",
+      "mon": "4:30 PM - 11:30 PM",
+      "tue": "4:30 PM - 11:30 PM",
+      "wed": "4:30 PM - 11:30 PM",
+      "thu": "5:00 PM - 12:00 AM",
+      "fri": "5:00 PM - 12:00 AM",
+      "sat": "4:30 PM - 11:30 PM"
+    },
+    "website": null,
+    "instagram": "@alkhaima_park",
+    "description_ar": "منتزه ترفيهي يضم ألعاب كهربائية ومائية ومساحات خضراء، مخصص للنساء والأطفال",
+    "perfect_for": [
+      "أطفال",
+      "عوائل",
+      "نساء"
+    ],
+    "price_level": "$",
+    "address_ar": "حي الورود، شارع العليا العام، الرياض",
+    "entry_fee": "10 SAR كبار | 75 SAR شاملة",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "منتزه سلام",
+    "name_en": "Salam Park",
+    "category": "ترفيه",
+    "rating": 4.3,
+    "rating_count": 18000,
+    "phone": "+966114144209",
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "4:00 PM - 2:00 AM"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "أكبر منتزهات الرياض على مساحة 3 كم² يضم بحيرة صناعية ضخمة ومزرعة نخيل وتلال خضراء ومسارات مشي وقوارب",
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "تنزه",
+      "رومانسي",
+      "رياضة"
+    ],
+    "price_level": "$",
+    "address_ar": "شارع محمد الأشناني، حي السلام، الرياض",
+    "entry_fee": "5 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة الوطن",
+    "name_en": "Al Watan Park",
+    "category": "ترفيه",
+    "rating": 4.2,
+    "rating_count": 8000,
+    "phone": "+966114020088",
+    "hours": {
+      "sun": "4:00 PM - 12:00 AM",
+      "mon": "4:00 PM - 12:00 AM",
+      "tue": "4:00 PM - 12:00 AM",
+      "wed": "4:00 PM - 12:00 AM",
+      "thu": "4:00 PM - 1:00 AM",
+      "fri": "4:00 PM - 1:00 AM",
+      "sat": "4:00 PM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة فريدة تضم مجسمات مصغرة لأبرز معالم السعودية مع برج مياه الرياض الشهير وقوارب",
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "سياحة",
+      "تصوير"
+    ],
+    "price_level": "$",
+    "address_ar": "حي الملز، الرياض",
+    "entry_fee": "15-28 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "بيست لاند",
+    "name_en": "Beast Land",
+    "category": "ترفيه",
+    "rating": 4.6,
+    "rating_count": 5000,
+    "phone": "+966920000890",
+    "hours": {
+      "sun": "4:00 PM - 12:00 AM",
+      "mon": "4:00 PM - 12:00 AM",
+      "tue": "4:00 PM - 12:00 AM",
+      "wed": "4:00 PM - 12:00 AM",
+      "thu": "4:00 PM - 1:00 AM",
+      "fri": "4:00 PM - 1:00 AM",
+      "sat": "4:00 PM - 12:00 AM"
+    },
+    "website": "https://riyadhseason.com/zones/beast-land-rs25",
+    "instagram": "@riyadhseason",
+    "description_ar": "منطقة ترفيهية ضخمة مستوحاة من تحديات MrBeast على مساحة 188,000 متر مربع ضمن موسم الرياض",
+    "perfect_for": [
+      "شباب",
+      "أصدقاء",
+      "مغامرة",
+      "عوائل"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي حطين، بالقرب من بوليفارد سيتي، الرياض",
+    "entry_fee": "250 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "سبلاش ووتر بارك",
+    "name_en": "Splash Water Park",
+    "category": "ترفيه",
+    "rating": 4.2,
+    "rating_count": 3200,
+    "phone": "+966114540000",
+    "hours": {
+      "sun": "2:00 PM - 12:00 AM",
+      "mon": "2:00 PM - 12:00 AM",
+      "tue": "2:00 PM - 12:00 AM",
+      "wed": "2:00 PM - 12:00 AM",
+      "thu": "2:00 PM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "2:00 PM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@watersplash1313",
+    "description_ar": "حديقة مائية تضم زحاليق وألعاب مائية متنوعة ومسابح للأطفال والكبار ومساحات خضراء",
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "صيف"
+    ],
+    "price_level": "$$",
+    "address_ar": "الطريق الدائري الشرقي، حي الشفا، الرياض",
+    "entry_fee": "20 SAR كبار | 35 SAR أطفال",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "مدينة الثلج",
+    "name_en": "Snow City Riyadh",
+    "category": "ترفيه",
+    "rating": 4.1,
+    "rating_count": 4500,
+    "phone": "+966114781000",
+    "hours": {
+      "sun": "10:00 AM - 12:00 AM",
+      "mon": "10:00 AM - 12:00 AM",
+      "tue": "10:00 AM - 12:00 AM",
+      "wed": "10:00 AM - 12:00 AM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@snowcityriyadh",
+    "description_ar": "مدينة ثلجية داخل العثيم مول تمتد على 3000 م² مع تزلج وتزحلق ومنحوتات ثلجية",
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "صيف"
+    ],
+    "price_level": "$$",
+    "address_ar": "العثيم مول، حي الربوة، الرياض",
+    "entry_fee": "160 SAR (ساعتين) | 200 SAR (3 ساعات)",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "الحكير تايم",
+    "name_en": "Al Hokair Time",
+    "category": "ترفيه",
+    "rating": 4.1,
+    "rating_count": 3800,
+    "phone": "+966114779900",
+    "hours": {
+      "sun": "4:00 PM - 11:00 PM",
+      "mon": "4:00 PM - 11:00 PM",
+      "tue": "4:00 PM - 11:00 PM",
+      "wed": "4:00 PM - 11:00 PM",
+      "thu": "4:00 PM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "2:00 PM - 11:00 PM"
+    },
+    "website": "https://alhokair.com",
+    "instagram": "@alhokairtime",
+    "description_ar": "مدينة ألعاب ترفيهية داخلية وخارجية تضم ألعاب كهربائية وإلكترونية ومناطق للأطفال",
+    "perfect_for": [
+      "أطفال",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الربوة، الرياض",
+    "entry_fee": "25 SAR + ألعاب",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة السويدي",
+    "name_en": "Suwaidi Park",
+    "category": "ترفيه",
+    "rating": 4.3,
+    "rating_count": 5500,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة عائلية واسعة بمساحات خضراء ومناطق ألعاب أطفال ومسارات مشي",
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "تنزه"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "حي السويدي، الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "تشكي تشيز",
+    "name_en": "Chuck E. Cheese",
+    "category": "ترفيه",
+    "rating": 4.0,
+    "rating_count": 2000,
+    "phone": "+966920003838",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": "https://chuckecheese.com.sa",
+    "instagram": "@chuckecheeseksa",
+    "description_ar": "مطعم ترفيهي عالمي للأطفال يجمع بين الأكل والألعاب الإلكترونية والعروض",
+    "perfect_for": [
+      "أطفال",
+      "عوائل",
+      "أعياد ميلاد"
+    ],
+    "price_level": "$$",
+    "address_ar": "فروع متعددة في الرياض",
+    "entry_fee": "مجاني (ألعاب بنقاط)",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "ماجيك بلانيت",
+    "name_en": "Magic Planet",
+    "category": "ترفيه",
+    "rating": 4.1,
+    "rating_count": 1800,
+    "phone": "+966920009944",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": "https://magicplanet.com",
+    "instagram": "@magicplanetme",
+    "description_ar": "مركز ترفيهي داخلي يضم ألعاب إلكترونية وبولينج ومنطقة واقع افتراضي",
+    "perfect_for": [
+      "أطفال",
+      "عوائل",
+      "أصدقاء"
+    ],
+    "price_level": "$$",
+    "address_ar": "الرياض بارك مول، حي العقيق، الرياض",
+    "entry_fee": "مجاني (ألعاب بكروت)",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "ملاهي البعيجان",
+    "name_en": "Al Buaijan Park",
+    "category": "ترفيه",
+    "rating": 4.0,
+    "rating_count": 6000,
+    "phone": "+966114771111",
+    "hours": {
+      "sun": "9:00 AM - 11:00 PM",
+      "mon": "9:00 AM - 11:00 PM",
+      "tue": "9:00 AM - 11:00 PM",
+      "wed": "9:00 AM - 11:00 PM",
+      "thu": "9:00 AM - 11:00 PM",
+      "fri": "2:00 PM - 1:00 AM",
+      "sat": "9:00 AM - 11:00 PM"
+    },
+    "website": null,
+    "instagram": "@albuaijan",
+    "description_ar": "مدينة ملاهي تاريخية في الرياض تضم ألعاب كهربائية متنوعة للأطفال والكبار",
+    "perfect_for": [
+      "أطفال",
+      "عوائل"
+    ],
+    "price_level": "$",
+    "address_ar": "شارع الملك فهد، الرياض",
+    "entry_fee": "15 SAR + ألعاب",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "بوليفارد سيتي",
+    "name_en": "Boulevard City",
+    "category": "ترفيه",
+    "rating": 4.5,
+    "rating_count": 25000,
+    "phone": "+966920000890",
+    "hours": {
+      "sun": "5:00 PM - 1:00 AM",
+      "mon": "5:00 PM - 1:00 AM",
+      "tue": "5:00 PM - 1:00 AM",
+      "wed": "5:00 PM - 1:00 AM",
+      "thu": "5:00 PM - 2:00 AM",
+      "fri": "5:00 PM - 2:00 AM",
+      "sat": "5:00 PM - 1:00 AM"
+    },
+    "website": "https://riyadhseason.com",
+    "instagram": "@riyadhseason",
+    "description_ar": "منطقة ترفيهية رئيسية في موسم الرياض تضم مطاعم عالمية ومسارح وعروض وألعاب",
+    "perfect_for": [
+      "شباب",
+      "عوائل",
+      "أصدقاء",
+      "رومانسي"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي حطين، الرياض",
+    "entry_fee": "حسب الموسم",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "بوليفارد وورلد",
+    "name_en": "Boulevard World",
+    "category": "ترفيه",
+    "rating": 4.4,
+    "rating_count": 20000,
+    "phone": "+966920000890",
+    "hours": {
+      "sun": "5:00 PM - 1:00 AM",
+      "mon": "5:00 PM - 1:00 AM",
+      "tue": "5:00 PM - 1:00 AM",
+      "wed": "5:00 PM - 1:00 AM",
+      "thu": "5:00 PM - 2:00 AM",
+      "fri": "5:00 PM - 2:00 AM",
+      "sat": "5:00 PM - 1:00 AM"
+    },
+    "website": "https://riyadhseason.com",
+    "instagram": "@riyadhseason",
+    "description_ar": "منطقة عالمية في موسم الرياض تحاكي ثقافات دول مختلفة مع مطاعم وعروض وألعاب",
+    "perfect_for": [
+      "عوائل",
+      "أصدقاء",
+      "سياحة",
+      "تصوير"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي حطين، الرياض",
+    "entry_fee": "حسب الموسم",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "ونتر وندرلاند",
+    "name_en": "Winter Wonderland Riyadh",
+    "category": "ترفيه",
+    "rating": 4.3,
+    "rating_count": 10000,
+    "phone": "+966920000890",
+    "hours": {
+      "sun": "5:00 PM - 1:00 AM",
+      "mon": "5:00 PM - 1:00 AM",
+      "tue": "5:00 PM - 1:00 AM",
+      "wed": "5:00 PM - 1:00 AM",
+      "thu": "5:00 PM - 2:00 AM",
+      "fri": "5:00 PM - 2:00 AM",
+      "sat": "5:00 PM - 1:00 AM"
+    },
+    "website": "https://riyadhseason.com",
+    "instagram": "@riyadhseason",
+    "description_ar": "مدينة ملاهي ضخمة ضمن موسم الرياض مستوحاة من ونتر وندرلاند لندن",
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "أصدقاء",
+      "مغامرة"
+    ],
+    "price_level": "$$$",
+    "address_ar": "الرياض",
+    "entry_fee": "حسب الموسم",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "ذا زون",
+    "name_en": "The Zone",
+    "category": "ترفيه",
+    "rating": 4.2,
+    "rating_count": 3000,
+    "phone": "+966114505555",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": "https://thezone.com.sa",
+    "instagram": "@thezone_sa",
+    "description_ar": "مركز ترفيهي يضم ألعاب إلكترونية وبولينج وبلياردو ومنطقة طعام",
+    "perfect_for": [
+      "شباب",
+      "أصدقاء",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "address_ar": "فروع متعددة في الرياض",
+    "entry_fee": "مجاني (ألعاب مدفوعة)",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "سباركيز",
+    "name_en": "Sparky's",
+    "category": "ترفيه",
+    "rating": 4.0,
+    "rating_count": 2500,
+    "phone": "+966920006633",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@sparkys_sa",
+    "description_ar": "سلسلة مراكز ترفيه للأطفال تضم ألعاب إلكترونية وحركية ومنطقة طعام",
+    "perfect_for": [
+      "أطفال",
+      "عوائل"
+    ],
+    "price_level": "$",
+    "address_ar": "فروع متعددة في مولات الرياض",
+    "entry_fee": "مجاني (ألعاب بكروت)",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "ذا إسكيب هوتيل",
+    "name_en": "The Escape Hotel",
+    "category": "ترفيه",
+    "rating": 4.6,
+    "rating_count": 1500,
+    "phone": "+966920006677",
+    "hours": {
+      "sun": "5:00 PM - 1:00 AM",
+      "mon": "5:00 PM - 1:00 AM",
+      "tue": "5:00 PM - 1:00 AM",
+      "wed": "5:00 PM - 1:00 AM",
+      "thu": "5:00 PM - 1:00 AM",
+      "fri": "5:00 PM - 1:00 AM",
+      "sat": "5:00 PM - 1:00 AM"
+    },
+    "website": "https://theescapehotel.net",
+    "instagram": "@theescapehotel",
+    "description_ar": "فندق الهروب - تجربة غرف هروب متطورة بتصاميم سينمائية واحترافية عالية",
+    "perfect_for": [
+      "شباب",
+      "أصدقاء",
+      "مغامرة",
+      "أزواج"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي الملقا، الرياض",
+    "entry_fee": "200 SAR/شخص",
+    "kid_friendly": false,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة الحيوان",
+    "name_en": "Riyadh Zoo",
+    "category": "ترفيه",
+    "rating": 4.1,
+    "rating_count": 10000,
+    "phone": "+966114780900",
+    "hours": {
+      "sun": "8:30 AM - 5:00 PM",
+      "mon": "مغلق",
+      "tue": "8:30 AM - 5:00 PM",
+      "wed": "8:30 AM - 5:00 PM",
+      "thu": "8:30 AM - 5:00 PM",
+      "fri": "1:00 PM - 5:00 PM",
+      "sat": "8:30 AM - 5:00 PM"
+    },
+    "website": null,
+    "instagram": "@riyadhzoo",
+    "description_ar": "حديقة حيوان الملز التاريخية تضم مئات الحيوانات والطيور من مختلف أنحاء العالم",
+    "perfect_for": [
+      "أطفال",
+      "عوائل",
+      "تعليمي"
+    ],
+    "price_level": "$",
+    "address_ar": "حي الملز، الرياض",
+    "entry_fee": "10 SAR كبار | 5 SAR أطفال",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "كيدزانيا",
+    "name_en": "KidZania Riyadh",
+    "category": "ترفيه",
+    "rating": 4.4,
+    "rating_count": 4000,
+    "phone": "+966114577744",
+    "hours": {
+      "sun": "10:00 AM - 10:00 PM",
+      "mon": "10:00 AM - 10:00 PM",
+      "tue": "10:00 AM - 10:00 PM",
+      "wed": "10:00 AM - 10:00 PM",
+      "thu": "10:00 AM - 11:00 PM",
+      "fri": "1:00 PM - 11:00 PM",
+      "sat": "10:00 AM - 11:00 PM"
+    },
+    "website": "https://kidzania.com.sa",
+    "instagram": "@kidzaniariyadh",
+    "description_ar": "مدينة تعليمية ترفيهية تفاعلية يتعلم فيها الأطفال المهن المختلفة بطريقة عملية",
+    "perfect_for": [
+      "أطفال",
+      "عوائل",
+      "تعليمي"
+    ],
+    "price_level": "$$",
+    "address_ar": "الرياض",
+    "entry_fee": "100-150 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "الرياض فرونت",
+    "name_en": "Riyadh Front",
+    "category": "ترفيه",
+    "rating": 4.3,
+    "rating_count": 5000,
+    "phone": "+966920000890",
+    "hours": {
+      "sun": "5:00 PM - 12:00 AM",
+      "mon": "5:00 PM - 12:00 AM",
+      "tue": "5:00 PM - 12:00 AM",
+      "wed": "5:00 PM - 12:00 AM",
+      "thu": "5:00 PM - 1:00 AM",
+      "fri": "5:00 PM - 1:00 AM",
+      "sat": "5:00 PM - 12:00 AM"
+    },
+    "website": "https://riyadhseason.com",
+    "instagram": "@riyadhseason",
+    "description_ar": "وجهة ترفيهية ضمن موسم الرياض تضم مطاعم ومقاهي ومحلات ومنطقة أحداث",
+    "perfect_for": [
+      "شباب",
+      "أصدقاء",
+      "عوائل",
+      "تسوق"
+    ],
+    "price_level": "$$",
+    "address_ar": "الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "سكاي زون",
+    "name_en": "Sky Zone Riyadh",
+    "category": "ترفيه",
+    "rating": 4.3,
+    "rating_count": 1500,
+    "phone": "+966920033070",
+    "hours": {
+      "sun": "4:00 PM - 11:00 PM",
+      "mon": "4:00 PM - 11:00 PM",
+      "tue": "4:00 PM - 11:00 PM",
+      "wed": "4:00 PM - 11:00 PM",
+      "thu": "2:00 PM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "2:00 PM - 11:00 PM"
+    },
+    "website": null,
+    "instagram": "@skyzone_sa",
+    "description_ar": "مركز ترامبولين ضخم يضم مناطق قفز ودودج بول وفوم بيت وسلام دانك",
+    "perfect_for": [
+      "شباب",
+      "أطفال",
+      "رياضة",
+      "أصدقاء"
+    ],
+    "price_level": "$$",
+    "address_ar": "الرياض",
+    "entry_fee": "80-120 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "ليقو لاند ديسكفري سنتر",
+    "name_en": "LEGOLAND Discovery Centre",
+    "category": "ترفيه",
+    "rating": 4.2,
+    "rating_count": 2000,
+    "phone": "+966920007333",
+    "hours": {
+      "sun": "10:00 AM - 10:00 PM",
+      "mon": "10:00 AM - 10:00 PM",
+      "tue": "10:00 AM - 10:00 PM",
+      "wed": "10:00 AM - 10:00 PM",
+      "thu": "10:00 AM - 11:00 PM",
+      "fri": "1:00 PM - 11:00 PM",
+      "sat": "10:00 AM - 11:00 PM"
+    },
+    "website": "https://www.legolanddiscoverycentre.com/riyadh/",
+    "instagram": "@legolanddiscoverycentre_riyadh",
+    "description_ar": "مركز ليقو التعليمي الترفيهي للأطفال يضم مناطق بناء وسينما 4D وألعاب تفاعلية",
+    "perfect_for": [
+      "أطفال",
+      "عوائل",
+      "تعليمي"
+    ],
+    "price_level": "$$",
+    "address_ar": "الرياض",
+    "entry_fee": "95-130 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "بوجيري تراس - الدرعية",
+    "name_en": "Bujairi Terrace",
+    "category": "طبيعة",
+    "rating": 4.5,
+    "rating_count": 12000,
+    "phone": "+966920008585",
+    "hours": {
+      "sun": "9:00 AM - 12:00 AM",
+      "mon": "9:00 AM - 12:00 AM",
+      "tue": "9:00 AM - 12:00 AM",
+      "wed": "9:00 AM - 12:00 AM",
+      "thu": "9:00 AM - 1:00 AM",
+      "fri": "9:00 AM - 1:00 AM",
+      "sat": "9:00 AM - 12:00 AM"
+    },
+    "website": "https://www.diriyah.sa",
+    "instagram": "@diriyahsa",
+    "description_ar": "وجهة ثقافية وتراثية فاخرة في الدرعية التاريخية تضم مطاعم عالمية ومقاهي وإطلالة على حي الطريف",
+    "perfect_for": [
+      "عوائل",
+      "أزواج",
+      "سياحة",
+      "تراث",
+      "طعام فاخر"
+    ],
+    "price_level": "$$$",
+    "address_ar": "الدرعية، الرياض",
+    "entry_fee": "مجاني صباحاً | 50 SAR مساءً",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "وادي نمار",
+    "name_en": "Wadi Namar",
+    "category": "طبيعة",
+    "rating": 4.3,
+    "rating_count": 15000,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": "https://www.visitsaudi.com/ar/riyadh/attractions/wadi-namar",
+    "instagram": null,
+    "description_ar": "منتزه طبيعي خلاب جنوب الرياض يضم بحيرة صناعية وشلالات ومسارات مشي وجلسات وسط الطبيعة",
+    "perfect_for": [
+      "عوائل",
+      "تنزه",
+      "تصوير",
+      "رومانسي",
+      "رياضة"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "جنوب الرياض، وادي نمار",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "وادي حنيفة",
+    "name_en": "Wadi Hanifah",
+    "category": "طبيعة",
+    "rating": 4.4,
+    "rating_count": 20000,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": "https://www.visitsaudi.com/ar/riyadh/attractions/wadi-hanifah",
+    "instagram": null,
+    "description_ar": "وادي طبيعي يمتد 80 كم عبر الرياض، تم تطويره ليصبح منتزه بيئي مع بحيرات ومسارات وحدائق",
+    "perfect_for": [
+      "عوائل",
+      "رياضة",
+      "تنزه",
+      "دراجات",
+      "تصوير"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "وادي حنيفة، الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حافة العالم",
+    "name_en": "Edge of the World",
+    "category": "طبيعة",
+    "rating": 4.6,
+    "rating_count": 8000,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "منحدرات صخرية مذهلة شمال الرياض تطل على سهول واسعة، من أشهر المعالم الطبيعية في السعودية",
+    "perfect_for": [
+      "مغامرة",
+      "تصوير",
+      "أصدقاء",
+      "هايكنق"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "شمال غرب الرياض (90 كم)",
+    "entry_fee": "مجاني",
+    "kid_friendly": false,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة جاكس الدرعية",
+    "name_en": "JAX District Diriyah",
+    "category": "طبيعة",
+    "rating": 4.3,
+    "rating_count": 3000,
+    "phone": "+966920008585",
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": "https://jaxdistrict.com",
+    "instagram": "@jaxdistrict",
+    "description_ar": "حي إبداعي في الدرعية يجمع بين الفن والثقافة مع معارض وغاليريات ومقاهي",
+    "perfect_for": [
+      "أصدقاء",
+      "فن",
+      "ثقافة",
+      "تصوير"
+    ],
+    "price_level": "$$",
+    "address_ar": "الدرعية، الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة الملك عبدالعزيز",
+    "name_en": "King Abdulaziz Park",
+    "category": "طبيعة",
+    "rating": 4.2,
+    "rating_count": 5000,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة واسعة في وسط الرياض بمساحات خضراء ومسارات مشي",
+    "perfect_for": [
+      "عوائل",
+      "تنزه",
+      "رياضة"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "وسط الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "منتزه الثمامة",
+    "name_en": "Thumamah National Park",
+    "category": "طبيعة",
+    "rating": 4.2,
+    "rating_count": 5000,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "منتزه صحراوي طبيعي شمال الرياض مثالي للتخييم والرحلات البرية وسباقات الدباب",
+    "perfect_for": [
+      "مغامرة",
+      "تخييم",
+      "أصدقاء"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "شمال الرياض (80 كم)",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة الخزامى",
+    "name_en": "Al Khuzama Park",
+    "category": "طبيعة",
+    "rating": 4.2,
+    "rating_count": 1800,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة جميلة في حي الخزامى الراقي تتميز بالهدوء والمساحات الخضراء",
+    "perfect_for": [
+      "عوائل",
+      "تنزه",
+      "هدوء"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "حي الخزامى، الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة العليا",
+    "name_en": "Al Olaya Park",
+    "category": "طبيعة",
+    "rating": 4.1,
+    "rating_count": 2500,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة في قلب حي العليا التجاري مع مساحات خضراء ومسارات مشي",
+    "perfect_for": [
+      "تنزه",
+      "رياضة"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "حي العليا، الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة اسطنبول",
+    "name_en": "Istanbul Park Riyadh",
+    "category": "طبيعة",
+    "rating": 4.1,
+    "rating_count": 1200,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة بتصميم تركي مميز مع نوافير ومساحات خضراء وجلسات عائلية",
+    "perfect_for": [
+      "عوائل",
+      "تنزه",
+      "تصوير"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "مزرعة المطر",
+    "name_en": "The Mattar Farm",
+    "category": "طبيعة",
+    "rating": 4.1,
+    "rating_count": 800,
+    "phone": "+966550004567",
+    "hours": {
+      "sun": "4:00 PM - 10:00 PM",
+      "mon": "4:00 PM - 10:00 PM",
+      "tue": "4:00 PM - 10:00 PM",
+      "wed": "4:00 PM - 10:00 PM",
+      "thu": "4:00 PM - 11:00 PM",
+      "fri": "4:00 PM - 11:00 PM",
+      "sat": "4:00 PM - 10:00 PM"
+    },
+    "website": null,
+    "instagram": "@mattarfarm",
+    "description_ar": "مزرعة ترفيهية تعليمية تتيح تجربة الحياة الزراعية والتعامل مع الحيوانات",
+    "perfect_for": [
+      "أطفال",
+      "عوائل",
+      "تعليمي"
+    ],
+    "price_level": "$$",
+    "address_ar": "جنوب الرياض",
+    "entry_fee": "50-80 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة المعلقات",
+    "name_en": "Muallaqat Park",
+    "category": "طبيعة",
+    "rating": 4.0,
+    "rating_count": 1500,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة في حي الغدير بتصميم يستلهم المعلقات الشعرية العربية",
+    "perfect_for": [
+      "عوائل",
+      "تنزه",
+      "ثقافة"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "حي الغدير، الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "المعذر الكهف بارك",
+    "name_en": "Al Ma'athar Cave Park",
+    "category": "طبيعة",
+    "rating": 4.1,
+    "rating_count": 1500,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة فريدة بتصميم يحاكي الكهوف الطبيعية مع مسطحات خضراء",
+    "perfect_for": [
+      "عوائل",
+      "تنزه",
+      "تصوير"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "حي المعذر، الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة ولي العهد",
+    "name_en": "Crown Prince Garden",
+    "category": "طبيعة",
+    "rating": 4.0,
+    "rating_count": 3000,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة جميلة في حي المعذر تتميز بمسطحات خضراء وممرات مظللة وألعاب أطفال",
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "تنزه"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "حي المعذر، الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حدائق الملك عبدالله العالمية",
+    "name_en": "King Abdullah Intl Gardens",
+    "category": "طبيعة",
+    "rating": 4.2,
+    "rating_count": 2000,
+    "phone": null,
+    "hours": {
+      "sun": "4:00 PM - 11:00 PM",
+      "mon": "4:00 PM - 11:00 PM",
+      "tue": "4:00 PM - 11:00 PM",
+      "wed": "4:00 PM - 11:00 PM",
+      "thu": "4:00 PM - 12:00 AM",
+      "fri": "4:00 PM - 12:00 AM",
+      "sat": "4:00 PM - 11:00 PM"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حدائق دولية تمثل بيئات نباتية من مختلف أنحاء العالم",
+    "perfect_for": [
+      "عوائل",
+      "تنزه",
+      "تصوير",
+      "تعليمي"
+    ],
+    "price_level": "$",
+    "address_ar": "غرب الرياض",
+    "entry_fee": "10 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة النهضة",
+    "name_en": "Al Nahda Park",
+    "category": "طبيعة",
+    "rating": 4.1,
+    "rating_count": 1000,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة حديثة في حي النهضة مع مسطحات خضراء ومناطق لعب وجلسات",
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "تنزه"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "حي النهضة، الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "باتشي",
+    "name_en": "Patchi",
+    "category": "حلويات",
+    "rating": 4.5,
+    "rating_count": 2500,
+    "phone": "+966114629494",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": "https://patchi.com",
+    "instagram": "@patchi",
+    "description_ar": "علامة شوكولاتة فاخرة عالمية تقدم أجود أنواع الشوكولاتة وعلب الهدايا الراقية",
+    "perfect_for": [
+      "هدايا",
+      "مناسبات",
+      "رومانسي"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي العليا، الرياض (عدة فروع)",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حلويات اللازينة",
+    "name_en": "Ellazena Sweets",
+    "category": "حلويات",
+    "rating": 4.5,
+    "rating_count": 3000,
+    "phone": "+966114000555",
+    "hours": {
+      "sun": "9:00 AM - 11:00 PM",
+      "mon": "9:00 AM - 11:00 PM",
+      "tue": "9:00 AM - 11:00 PM",
+      "wed": "9:00 AM - 11:00 PM",
+      "thu": "9:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "9:00 AM - 12:00 AM"
+    },
+    "website": "https://ellelazena.com",
+    "instagram": "@ellelazena",
+    "description_ar": "محل حلويات شرقية وغربية فاخرة متخصص في البقلاوة والتارت والغريبة",
+    "perfect_for": [
+      "مناسبات",
+      "هدايا",
+      "ضيافة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الحمراء، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "سعد الدين للحلويات",
+    "name_en": "Saadeddin Sweets",
+    "category": "حلويات",
+    "rating": 4.3,
+    "rating_count": 5000,
+    "phone": "+966920000270",
+    "hours": {
+      "sun": "7:00 AM - 12:00 AM",
+      "mon": "7:00 AM - 12:00 AM",
+      "tue": "7:00 AM - 12:00 AM",
+      "wed": "7:00 AM - 12:00 AM",
+      "thu": "7:00 AM - 1:00 AM",
+      "fri": "7:00 AM - 1:00 AM",
+      "sat": "7:00 AM - 1:00 AM"
+    },
+    "website": "https://saadeddin.com",
+    "instagram": "@saadeddin_pastry",
+    "description_ar": "أكبر سلسلة حلويات سعودية تقدم تشكيلة واسعة من الحلويات الشرقية والغربية والمخبوزات",
+    "perfect_for": [
+      "ضيافة",
+      "مناسبات",
+      "هدايا",
+      "إفطار"
+    ],
+    "price_level": "$$",
+    "address_ar": "فروع متعددة في كل أحياء الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "الدبلوماسي للحلويات",
+    "name_en": "Al Diplomasi Sweets",
+    "category": "حلويات",
+    "rating": 4.3,
+    "rating_count": 3500,
+    "phone": "+966114010999",
+    "hours": {
+      "sun": "8:00 AM - 12:00 AM",
+      "mon": "8:00 AM - 12:00 AM",
+      "tue": "8:00 AM - 12:00 AM",
+      "wed": "8:00 AM - 12:00 AM",
+      "thu": "8:00 AM - 1:00 AM",
+      "fri": "2:00 PM - 1:00 AM",
+      "sat": "8:00 AM - 1:00 AM"
+    },
+    "website": null,
+    "instagram": "@aldiplomasi",
+    "description_ar": "سلسلة حلويات سعودية عريقة منذ 1987 تقدم الكنافة والبقلاوة والمعمول وعلب الحلويات الفاخرة",
+    "perfect_for": [
+      "ضيافة",
+      "مناسبات",
+      "هدايا"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الروضة، الرياض (عدة فروع)",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "آني آند داني",
+    "name_en": "Aani & Dani",
+    "category": "حلويات",
+    "rating": 4.3,
+    "rating_count": 2500,
+    "phone": "+966920004321",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": "https://aanidani.com",
+    "instagram": "@aanidani",
+    "description_ar": "سلسلة شوكولاتة أوروبية فاخرة بأكثر من 29 فرع تقدم شوكولاتة وكيك وعلب هدايا",
+    "perfect_for": [
+      "هدايا",
+      "مناسبات",
+      "زفاف"
+    ],
+    "price_level": "$$$",
+    "address_ar": "فروع متعددة في الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "سكوبي كافيه",
+    "name_en": "Scoopi Cafe",
+    "category": "حلويات",
+    "rating": 4.2,
+    "rating_count": 3500,
+    "phone": "+966920001122",
+    "hours": {
+      "sun": "3:00 PM - 2:00 AM",
+      "mon": "3:00 PM - 2:00 AM",
+      "tue": "3:00 PM - 2:00 AM",
+      "wed": "3:00 PM - 2:00 AM",
+      "thu": "3:00 PM - 2:30 AM",
+      "fri": "3:00 PM - 2:30 AM",
+      "sat": "3:00 PM - 2:30 AM"
+    },
+    "website": null,
+    "instagram": "@scoopicafe",
+    "description_ar": "كافيه حلويات مشهور بالآيسكريم الفاخر والوافل والكريب بنكهات متنوعة",
+    "perfect_for": [
+      "شباب",
+      "أصدقاء",
+      "عوائل",
+      "سهرة"
+    ],
+    "price_level": "$$",
+    "address_ar": "فروع متعددة في الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "ضيافات رتيل",
+    "name_en": "Rateel",
+    "category": "حلويات",
+    "rating": 4.4,
+    "rating_count": 1800,
+    "phone": "+966920004455",
+    "hours": {
+      "sun": "9:00 AM - 11:00 PM",
+      "mon": "9:00 AM - 11:00 PM",
+      "tue": "9:00 AM - 11:00 PM",
+      "wed": "9:00 AM - 11:00 PM",
+      "thu": "9:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "9:00 AM - 12:00 AM"
+    },
+    "website": "https://rateel.sa",
+    "instagram": "@rateel_sa",
+    "description_ar": "علامة سعودية متخصصة في التمور الفاخرة والشوكولاتة والحلويات الراقية للضيافة",
+    "perfect_for": [
+      "هدايا",
+      "ضيافة",
+      "مناسبات"
+    ],
+    "price_level": "$$$",
+    "address_ar": "فروع متعددة في الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "لي شوكوليت",
+    "name_en": "Le Chocolate",
+    "category": "حلويات",
+    "rating": 4.4,
+    "rating_count": 1800,
+    "phone": "+966112880088",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@lechocolat_sa",
+    "description_ar": "محل شوكولاتة وحلويات فاخرة يقدم تشكيلة من الشوكولاتة البلجيكية والسويسرية",
+    "perfect_for": [
+      "هدايا",
+      "مناسبات"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي العليا، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "شوغرمو",
+    "name_en": "Sugar Moo",
+    "category": "حلويات",
+    "rating": 4.4,
+    "rating_count": 1200,
+    "phone": "+966550005678",
+    "hours": {
+      "sun": "4:00 PM - 12:00 AM",
+      "mon": "4:00 PM - 12:00 AM",
+      "tue": "4:00 PM - 12:00 AM",
+      "wed": "4:00 PM - 12:00 AM",
+      "thu": "4:00 PM - 1:00 AM",
+      "fri": "4:00 PM - 1:00 AM",
+      "sat": "4:00 PM - 1:00 AM"
+    },
+    "website": null,
+    "instagram": "@sugarmoo_sa",
+    "description_ar": "محل حلويات عصري متخصص في الآيسكريم والحلويات الغربية بنكهات مبتكرة",
+    "perfect_for": [
+      "شباب",
+      "أصدقاء"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الازدهار، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حلويات تركية",
+    "name_en": "Turkish Sweets Riyadh",
+    "category": "حلويات",
+    "rating": 4.4,
+    "rating_count": 2000,
+    "phone": "+966114010101",
+    "hours": {
+      "sun": "9:00 AM - 11:00 PM",
+      "mon": "9:00 AM - 11:00 PM",
+      "tue": "9:00 AM - 11:00 PM",
+      "wed": "9:00 AM - 11:00 PM",
+      "thu": "9:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "9:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "محل متخصص في الحلويات التركية الأصيلة مثل البقلاوة بالفستق والكنافة",
+    "perfect_for": [
+      "ضيافة",
+      "هدايا"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملز، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "بيت السنعات",
+    "name_en": "Bait Al Sanaat",
+    "category": "حلويات",
+    "rating": 4.3,
+    "rating_count": 1800,
+    "phone": "+966550007890",
+    "hours": {
+      "sun": "4:00 PM - 11:00 PM",
+      "mon": "4:00 PM - 11:00 PM",
+      "tue": "4:00 PM - 11:00 PM",
+      "wed": "4:00 PM - 11:00 PM",
+      "thu": "4:00 PM - 12:00 AM",
+      "fri": "4:00 PM - 12:00 AM",
+      "sat": "4:00 PM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@baitalsanaat",
+    "description_ar": "محل حلويات شرقية وغربية عالية الجودة يقدم البقلاوة والكيك بتصاميم فنية",
+    "perfect_for": [
+      "ضيافة",
+      "مناسبات",
+      "هدايا"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النظيم، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "كيك هاوس",
+    "name_en": "Cake House",
+    "category": "حلويات",
+    "rating": 4.3,
+    "rating_count": 1500,
+    "phone": "+966114500500",
+    "hours": {
+      "sun": "8:00 AM - 12:00 AM",
+      "mon": "8:00 AM - 12:00 AM",
+      "tue": "8:00 AM - 12:00 AM",
+      "wed": "8:00 AM - 12:00 AM",
+      "thu": "8:00 AM - 1:00 AM",
+      "fri": "2:00 PM - 1:00 AM",
+      "sat": "8:00 AM - 1:00 AM"
+    },
+    "website": null,
+    "instagram": "@cakehouse_sa",
+    "description_ar": "محل حلويات متخصص في الكيك والتورتات بتصاميم فنية لجميع المناسبات",
+    "perfect_for": [
+      "مناسبات",
+      "هدايا"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الورود، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حلزون",
+    "name_en": "7alazon",
+    "category": "حلويات",
+    "rating": 4.3,
+    "rating_count": 1100,
+    "phone": "+966550013456",
+    "hours": {
+      "sun": "4:00 PM - 12:00 AM",
+      "mon": "4:00 PM - 12:00 AM",
+      "tue": "4:00 PM - 12:00 AM",
+      "wed": "4:00 PM - 12:00 AM",
+      "thu": "4:00 PM - 1:00 AM",
+      "fri": "4:00 PM - 1:00 AM",
+      "sat": "4:00 PM - 1:00 AM"
+    },
+    "website": null,
+    "instagram": "@7alazon",
+    "description_ar": "محل حلويات عصري يتميز بالحلا السعودي المبتكر والتقديم الأنيق",
+    "perfect_for": [
+      "شباب",
+      "أصدقاء",
+      "سهرة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "لوشي بيكري",
+    "name_en": "Looshi Bakery",
+    "category": "حلويات",
+    "rating": 4.4,
+    "rating_count": 1500,
+    "phone": "+966550006789",
+    "hours": {
+      "sun": "7:00 AM - 11:00 PM",
+      "mon": "7:00 AM - 11:00 PM",
+      "tue": "7:00 AM - 11:00 PM",
+      "wed": "7:00 AM - 11:00 PM",
+      "thu": "7:00 AM - 12:00 AM",
+      "fri": "7:00 AM - 12:00 AM",
+      "sat": "7:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@looshi_bakery",
+    "description_ar": "مخبز عصري يقدم معجنات وكرواسون وكيك بجودة عالية وطعم مميز",
+    "perfect_for": [
+      "إفطار",
+      "عوائل",
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "سلطان ديلايت",
+    "name_en": "Sultan Delight",
+    "category": "حلويات",
+    "rating": 4.4,
+    "rating_count": 2200,
+    "phone": "+966114050505",
+    "hours": {
+      "sun": "8:00 AM - 11:00 PM",
+      "mon": "8:00 AM - 11:00 PM",
+      "tue": "8:00 AM - 11:00 PM",
+      "wed": "8:00 AM - 11:00 PM",
+      "thu": "8:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "8:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@sultandelight",
+    "description_ar": "محل حلويات شرقية فاخرة يقدم البقلاوة والمعمول والحلويات السورية واللبنانية",
+    "perfect_for": [
+      "ضيافة",
+      "مناسبات",
+      "هدايا"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملز، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حلويات الحلاب",
+    "name_en": "Al Hallab Sweets",
+    "category": "حلويات",
+    "rating": 4.2,
+    "rating_count": 2000,
+    "phone": "+966114060606",
+    "hours": {
+      "sun": "8:00 AM - 12:00 AM",
+      "mon": "8:00 AM - 12:00 AM",
+      "tue": "8:00 AM - 12:00 AM",
+      "wed": "8:00 AM - 12:00 AM",
+      "thu": "8:00 AM - 1:00 AM",
+      "fri": "2:00 PM - 1:00 AM",
+      "sat": "8:00 AM - 1:00 AM"
+    },
+    "website": null,
+    "instagram": "@alhallab_sa",
+    "description_ar": "محل حلويات لبنانية عريقة يقدم البقلاوة والكنافة وحلويات بسعرات منخفضة",
+    "perfect_for": [
+      "ضيافة",
+      "حمية"
+    ],
+    "price_level": "$",
+    "address_ar": "السليمانية، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "ووفل الرياض",
+    "name_en": "Wofl Riyadh",
+    "category": "حلويات",
+    "rating": 4.3,
+    "rating_count": 1200,
+    "phone": "+966550008901",
+    "hours": {
+      "sun": "4:00 PM - 1:00 AM",
+      "mon": "4:00 PM - 1:00 AM",
+      "tue": "4:00 PM - 1:00 AM",
+      "wed": "4:00 PM - 1:00 AM",
+      "thu": "4:00 PM - 2:00 AM",
+      "fri": "4:00 PM - 2:00 AM",
+      "sat": "4:00 PM - 2:00 AM"
+    },
+    "website": null,
+    "instagram": "@wofl_riyadh",
+    "description_ar": "محل متخصص في الوافل البلجيكي بنكهات وحشوات متنوعة مع الآيسكريم والشوكولاتة",
+    "perfect_for": [
+      "شباب",
+      "أصدقاء",
+      "سهرة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "كيك تايست",
+    "name_en": "Cake Taste",
+    "category": "حلويات",
+    "rating": 4.2,
+    "rating_count": 800,
+    "phone": "+966550014567",
+    "hours": {
+      "sun": "9:00 AM - 11:00 PM",
+      "mon": "9:00 AM - 11:00 PM",
+      "tue": "9:00 AM - 11:00 PM",
+      "wed": "9:00 AM - 11:00 PM",
+      "thu": "9:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "9:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@caketaste_sa",
+    "description_ar": "محل متخصص في الكيك والتورتات المصممة للمناسبات وأعياد الميلاد",
+    "perfect_for": [
+      "مناسبات",
+      "أعياد ميلاد"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الرحمانية، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "كريب لاب",
+    "name_en": "Crepe Lab",
+    "category": "حلويات",
+    "rating": 4.2,
+    "rating_count": 900,
+    "phone": "+966550009012",
+    "hours": {
+      "sun": "4:00 PM - 1:00 AM",
+      "mon": "4:00 PM - 1:00 AM",
+      "tue": "4:00 PM - 1:00 AM",
+      "wed": "4:00 PM - 1:00 AM",
+      "thu": "4:00 PM - 2:00 AM",
+      "fri": "4:00 PM - 2:00 AM",
+      "sat": "4:00 PM - 2:00 AM"
+    },
+    "website": null,
+    "instagram": "@crepelab_sa",
+    "description_ar": "محل كريب فرنسي بحشوات متنوعة حلوة ومالحة بتجربة طازجة",
+    "perfect_for": [
+      "شباب",
+      "أصدقاء"
+    ],
+    "price_level": "$",
+    "address_ar": "حي حطين، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "ميل كريب الرياض",
+    "name_en": "Mille Crepe Riyadh",
+    "category": "حلويات",
+    "rating": 4.3,
+    "rating_count": 800,
+    "phone": "+966550010123",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@millecrepe_riyadh",
+    "description_ar": "كافيه متخصص في كيك الميل كريب الياباني بطبقات رقيقة ونكهات متنوعة",
+    "perfect_for": [
+      "قهوة",
+      "أصدقاء",
+      "تصوير"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الصحافة، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "عبد الصمد القرشي",
+    "name_en": "Abdul Samad Al Qurashi",
+    "category": "تسوق",
+    "rating": 4.5,
+    "rating_count": 5000,
+    "phone": "+966114032240",
+    "hours": {
+      "sun": "9:00 AM - 11:00 PM",
+      "mon": "9:00 AM - 11:00 PM",
+      "tue": "9:00 AM - 11:00 PM",
+      "wed": "9:00 AM - 11:00 PM",
+      "thu": "9:00 AM - 12:00 AM",
+      "fri": "4:00 PM - 12:00 AM",
+      "sat": "9:00 AM - 12:00 AM"
+    },
+    "website": "https://sa.abdulsamadalqurashi.com",
+    "instagram": "@asq_group",
+    "description_ar": "أعرق دار عطور عربية منذ 1852 متخصصة في العود والمسك والعنبر والعطور الفاخرة",
+    "perfect_for": [
+      "هدايا",
+      "تسوق فاخر",
+      "سياح"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي العليا، طريق الأمير سلطان، الرياض (عدة فروع)",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "السلمان للعود",
+    "name_en": "Al Salman Oud",
+    "category": "تسوق",
+    "rating": 4.3,
+    "rating_count": 1500,
+    "phone": "+966114622222",
+    "hours": {
+      "sun": "9:00 AM - 11:00 PM",
+      "mon": "9:00 AM - 11:00 PM",
+      "tue": "9:00 AM - 11:00 PM",
+      "wed": "9:00 AM - 11:00 PM",
+      "thu": "9:00 AM - 12:00 AM",
+      "fri": "4:00 PM - 12:00 AM",
+      "sat": "9:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@alsalman_oud",
+    "description_ar": "محل عود وعطور سعودية أصيلة يقدم أجود أنواع العود والبخور والدهن",
+    "perfect_for": [
+      "هدايا",
+      "تسوق"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي العليا، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "العالمي للعود - المعيقلية",
+    "name_en": "Al Alami Oud",
+    "category": "تسوق",
+    "rating": 4.4,
+    "rating_count": 2000,
+    "phone": "+966114045555",
+    "hours": {
+      "sun": "9:00 AM - 12:00 AM",
+      "mon": "9:00 AM - 12:00 AM",
+      "tue": "9:00 AM - 12:00 AM",
+      "wed": "9:00 AM - 12:00 AM",
+      "thu": "9:00 AM - 1:00 AM",
+      "fri": "4:00 PM - 1:00 AM",
+      "sat": "9:00 AM - 1:00 AM"
+    },
+    "website": null,
+    "instagram": "@alalami_oud",
+    "description_ar": "محل عود عريق في سوق المعيقلية التاريخي يقدم أجود أنواع العود الطبيعي",
+    "perfect_for": [
+      "تسوق",
+      "هدايا",
+      "تراث"
+    ],
+    "price_level": "$$",
+    "address_ar": "سوق المعيقلية، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "لفتة للعبايات",
+    "name_en": "Laftah Abayas",
+    "category": "تسوق",
+    "rating": 4.3,
+    "rating_count": 800,
+    "phone": "+966550017890",
+    "hours": {
+      "sun": "10:00 AM - 10:00 PM",
+      "mon": "10:00 AM - 10:00 PM",
+      "tue": "10:00 AM - 10:00 PM",
+      "wed": "10:00 AM - 10:00 PM",
+      "thu": "10:00 AM - 11:00 PM",
+      "fri": "4:00 PM - 11:00 PM",
+      "sat": "10:00 AM - 11:00 PM"
+    },
+    "website": null,
+    "instagram": "@laftah_abayas",
+    "description_ar": "محل عبايات فاخرة بتصاميم عصرية وأقمشة راقية",
+    "perfect_for": [
+      "تسوق نسائي",
+      "هدايا"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي الملقا، الرياض",
+    "entry_fee": null,
+    "kid_friendly": false,
+    "family_friendly": true
+  },
+  {
+    "name": "فاغية العود",
+    "name_en": "Vague Oud",
+    "category": "تسوق",
+    "rating": 4.2,
+    "rating_count": 600,
+    "phone": "+966550018901",
+    "hours": {
+      "sun": "9:00 AM - 11:00 PM",
+      "mon": "9:00 AM - 11:00 PM",
+      "tue": "9:00 AM - 11:00 PM",
+      "wed": "9:00 AM - 11:00 PM",
+      "thu": "9:00 AM - 12:00 AM",
+      "fri": "4:00 PM - 12:00 AM",
+      "sat": "9:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@vague_oud",
+    "description_ar": "محل عود وعطور بتشكيلة متنوعة من البخور والدهن العود والعطور",
+    "perfect_for": [
+      "هدايا",
+      "تسوق"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الصحافة، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "عود البركة",
+    "name_en": "Oud Al Barakah",
+    "category": "تسوق",
+    "rating": 4.4,
+    "rating_count": 1200,
+    "phone": "+966550019012",
+    "hours": {
+      "sun": "9:00 AM - 11:00 PM",
+      "mon": "9:00 AM - 11:00 PM",
+      "tue": "9:00 AM - 11:00 PM",
+      "wed": "9:00 AM - 11:00 PM",
+      "thu": "9:00 AM - 12:00 AM",
+      "fri": "4:00 PM - 12:00 AM",
+      "sat": "9:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@oud_albarakah",
+    "description_ar": "محل عود وعطور يقدم أجود أنواع العود الكمبودي والهندي والبخور الفاخر",
+    "perfect_for": [
+      "هدايا",
+      "تسوق"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "سوق المعيقلية",
+    "name_en": "Muaigliyah Souq",
+    "category": "تسوق",
+    "rating": 4.2,
+    "rating_count": 8000,
+    "phone": null,
+    "hours": {
+      "sun": "8:00 AM - 12:00 AM",
+      "mon": "8:00 AM - 12:00 AM",
+      "tue": "8:00 AM - 12:00 AM",
+      "wed": "8:00 AM - 12:00 AM",
+      "thu": "8:00 AM - 1:00 AM",
+      "fri": "4:00 PM - 1:00 AM",
+      "sat": "8:00 AM - 1:00 AM"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "سوق شعبي تاريخي في وسط الرياض يضم محلات العود والعطور والبخور والأقمشة",
+    "perfect_for": [
+      "تسوق شعبي",
+      "سياحة",
+      "تراث"
+    ],
+    "price_level": "$",
+    "address_ar": "المعيقلية، وسط الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "سوق الزل",
+    "name_en": "Al Zal Souq",
+    "category": "تسوق",
+    "rating": 4.3,
+    "rating_count": 5000,
+    "phone": null,
+    "hours": {
+      "sun": "8:00 AM - 12:00 PM، 4:00 PM - 9:00 PM",
+      "mon": "8:00 AM - 12:00 PM، 4:00 PM - 9:00 PM",
+      "tue": "8:00 AM - 12:00 PM، 4:00 PM - 9:00 PM",
+      "wed": "8:00 AM - 12:00 PM، 4:00 PM - 9:00 PM",
+      "thu": "8:00 AM - 12:00 PM، 4:00 PM - 9:00 PM",
+      "fri": "4:00 PM - 9:00 PM",
+      "sat": "8:00 AM - 12:00 PM، 4:00 PM - 9:00 PM"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "سوق تراثي قديم في الرياض يضم محلات تحف وآثار وسجاد وأدوات تقليدية وعملات",
+    "perfect_for": [
+      "سياحة",
+      "تراث",
+      "تسوق شعبي",
+      "هواة جمع"
+    ],
+    "price_level": "$",
+    "address_ar": "حي الديرة، وسط الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "سوق طيبة",
+    "name_en": "Souq Taiba",
+    "category": "تسوق",
+    "rating": 4.0,
+    "rating_count": 3000,
+    "phone": null,
+    "hours": {
+      "sun": "9:00 AM - 11:00 PM",
+      "mon": "9:00 AM - 11:00 PM",
+      "tue": "9:00 AM - 11:00 PM",
+      "wed": "9:00 AM - 11:00 PM",
+      "thu": "9:00 AM - 12:00 AM",
+      "fri": "4:00 PM - 12:00 AM",
+      "sat": "9:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "سوق شعبي ضخم يضم ملابس وإلكترونيات وأدوات منزلية بأسعار مخفضة",
+    "perfect_for": [
+      "تسوق شعبي",
+      "أسعار رخيصة"
+    ],
+    "price_level": "$",
+    "address_ar": "حي البطحاء، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "الرياض بارك",
+    "name_en": "Riyadh Park Mall",
+    "category": "تسوق",
+    "rating": 4.4,
+    "rating_count": 15000,
+    "phone": "+966112680000",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": "https://riyadhpark.com",
+    "instagram": "@riyadhparkmall",
+    "description_ar": "مول عصري ضخم يضم ماركات عالمية ومطاعم وسينما ومنطقة ترفيه",
+    "perfect_for": [
+      "تسوق",
+      "عوائل",
+      "طعام",
+      "ترفيه"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي العقيق، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "الرياض جاليري",
+    "name_en": "Riyadh Gallery Mall",
+    "category": "تسوق",
+    "rating": 4.3,
+    "rating_count": 10000,
+    "phone": "+966112000500",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@riyadhgallery",
+    "description_ar": "مول راقي يضم ماركات عالمية ومحلية ومطاعم ومقاهي وسينما",
+    "perfect_for": [
+      "تسوق",
+      "عوائل",
+      "طعام"
+    ],
+    "price_level": "$$$",
+    "address_ar": "طريق الملك فهد، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "النخيل مول",
+    "name_en": "Al Nakheel Mall",
+    "category": "تسوق",
+    "rating": 4.5,
+    "rating_count": 12000,
+    "phone": "+966112010800",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": "https://alnakheelmall.com",
+    "instagram": "@alnakheelmall",
+    "description_ar": "مول فاخر يضم أرقى الماركات العالمية ومطاعم راقية وتصميم معماري مميز",
+    "perfect_for": [
+      "تسوق فاخر",
+      "طعام راقي"
+    ],
+    "price_level": "$$$$",
+    "address_ar": "حي الملقا، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "بانوراما مول",
+    "name_en": "Panorama Mall",
+    "category": "تسوق",
+    "rating": 4.2,
+    "rating_count": 8000,
+    "phone": "+966114808888",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@panorama_mall",
+    "description_ar": "مول كبير يضم محلات متنوعة ومطاعم ومنطقة ترفيه للأطفال",
+    "perfect_for": [
+      "تسوق",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "address_ar": "الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "العثيم مول",
+    "name_en": "Al Othaim Mall",
+    "category": "تسوق",
+    "rating": 4.2,
+    "rating_count": 15000,
+    "phone": "+966114781000",
+    "hours": {
+      "sun": "9:30 AM - 11:00 PM",
+      "mon": "9:30 AM - 11:00 PM",
+      "tue": "9:30 AM - 11:00 PM",
+      "wed": "9:30 AM - 11:00 PM",
+      "thu": "9:30 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "9:30 AM - 12:00 AM"
+    },
+    "website": "https://alothaimall.com",
+    "instagram": "@alothaimall",
+    "description_ar": "مول عائلي ضخم يضم محلات ومطاعم ومدينة الثلج ومناطق ترفيه متعددة",
+    "perfect_for": [
+      "تسوق",
+      "عوائل",
+      "ترفيه"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الربوة، الرياض (عدة فروع)",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حياة مول",
+    "name_en": "Hayat Mall",
+    "category": "تسوق",
+    "rating": 4.1,
+    "rating_count": 10000,
+    "phone": "+966114553333",
+    "hours": {
+      "sun": "9:30 AM - 11:00 PM",
+      "mon": "9:30 AM - 11:00 PM",
+      "tue": "9:30 AM - 11:00 PM",
+      "wed": "9:30 AM - 11:00 PM",
+      "thu": "9:30 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "9:30 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@hayatmall",
+    "description_ar": "مول عائلي يضم محلات متنوعة ومنطقة طعام كبيرة وملاهي للأطفال",
+    "perfect_for": [
+      "تسوق",
+      "عوائل",
+      "أطفال"
+    ],
+    "price_level": "$$",
+    "address_ar": "الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "غرناطة مول",
+    "name_en": "Granada Mall",
+    "category": "تسوق",
+    "rating": 4.3,
+    "rating_count": 8000,
+    "phone": "+966112170000",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@granadamall",
+    "description_ar": "مول عصري يضم ماركات عالمية ومحلية ومطاعم وسينما وهايبرماركت",
+    "perfect_for": [
+      "تسوق",
+      "عوائل",
+      "طعام"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي غرناطة، شرق الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "المملكة مول",
+    "name_en": "Kingdom Mall",
+    "category": "تسوق",
+    "rating": 4.4,
+    "rating_count": 12000,
+    "phone": "+966112112222",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@kingdommall",
+    "description_ar": "مول فاخر داخل برج المملكة يضم ماركات عالمية راقية ومطاعم فاخرة",
+    "perfect_for": [
+      "تسوق فاخر",
+      "سياحة"
+    ],
+    "price_level": "$$$$",
+    "address_ar": "برج المملكة، حي العليا، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "الفيصلية مول",
+    "name_en": "Al Faisaliah Mall",
+    "category": "تسوق",
+    "rating": 4.3,
+    "rating_count": 8000,
+    "phone": "+966114000600",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@alfaisaliahmall",
+    "description_ar": "مول فاخر داخل برج الفيصلية يضم ماركات عالمية ومطاعم راقية",
+    "perfect_for": [
+      "تسوق فاخر",
+      "سياحة"
+    ],
+    "price_level": "$$$$",
+    "address_ar": "برج الفيصلية، حي العليا، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "سوق الحرفيين للعبايات",
+    "name_en": "Al Harfiyyin Souk",
+    "category": "تسوق",
+    "rating": 4.0,
+    "rating_count": 500,
+    "phone": null,
+    "hours": {
+      "sun": "10:00 AM - 10:00 PM",
+      "mon": "10:00 AM - 10:00 PM",
+      "tue": "10:00 AM - 10:00 PM",
+      "wed": "10:00 AM - 10:00 PM",
+      "thu": "10:00 AM - 11:00 PM",
+      "fri": "4:00 PM - 11:00 PM",
+      "sat": "10:00 AM - 11:00 PM"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "سوق متخصص في العبايات المصنوعة يدوياً بتصاميم سعودية تقليدية وعصرية",
+    "perfect_for": [
+      "تسوق نسائي",
+      "تراث"
+    ],
+    "price_level": "$$",
+    "address_ar": "وسط الرياض",
+    "entry_fee": null,
+    "kid_friendly": false,
+    "family_friendly": true
+  },
+  {
+    "name": "أسود للعبايات",
+    "name_en": "Aswad Abayas",
+    "category": "تسوق",
+    "rating": 4.1,
+    "rating_count": 600,
+    "phone": "+966550020123",
+    "hours": {
+      "sun": "10:00 AM - 10:00 PM",
+      "mon": "10:00 AM - 10:00 PM",
+      "tue": "10:00 AM - 10:00 PM",
+      "wed": "10:00 AM - 10:00 PM",
+      "thu": "10:00 AM - 11:00 PM",
+      "fri": "4:00 PM - 11:00 PM",
+      "sat": "10:00 AM - 11:00 PM"
+    },
+    "website": null,
+    "instagram": "@aswad_abayas",
+    "description_ar": "محل عبايات بتصاميم أنيقة وعصرية بأقمشة عالية الجودة",
+    "perfect_for": [
+      "تسوق نسائي"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النهضة، الرياض",
+    "entry_fee": null,
+    "kid_friendly": false,
+    "family_friendly": true
+  },
+  {
+    "name": "دخون الإماراتية",
+    "name_en": "Dkhoon Emirates",
+    "category": "تسوق",
+    "rating": 4.1,
+    "rating_count": 800,
+    "phone": "+966550021234",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "4:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@dkhoon_emirates",
+    "description_ar": "محل متخصص في البخور والدخون الإماراتي والعطور الشرقية",
+    "perfect_for": [
+      "هدايا",
+      "تسوق"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "المركز السعودي للعود",
+    "name_en": "Saudi Oud Center",
+    "category": "تسوق",
+    "rating": 4.3,
+    "rating_count": 1000,
+    "phone": "+966550022345",
+    "hours": {
+      "sun": "9:00 AM - 11:00 PM",
+      "mon": "9:00 AM - 11:00 PM",
+      "tue": "9:00 AM - 11:00 PM",
+      "wed": "9:00 AM - 11:00 PM",
+      "thu": "9:00 AM - 12:00 AM",
+      "fri": "4:00 PM - 12:00 AM",
+      "sat": "9:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@saudi_oud_center",
+    "description_ar": "مركز متخصص في بيع العود الطبيعي والبخور والمعطرات بجودة عالية",
+    "perfect_for": [
+      "هدايا",
+      "تسوق"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "آيفلاي الرياض",
+    "name_en": "iFLY Riyadh",
+    "category": "ترفيه",
+    "rating": 4.5,
+    "rating_count": 1800,
+    "phone": "+966920005050",
+    "hours": {
+      "sun": "12:00 PM - 10:00 PM",
+      "mon": "12:00 PM - 10:00 PM",
+      "tue": "12:00 PM - 10:00 PM",
+      "wed": "12:00 PM - 10:00 PM",
+      "thu": "12:00 PM - 11:00 PM",
+      "fri": "12:00 PM - 11:00 PM",
+      "sat": "12:00 PM - 11:00 PM"
+    },
+    "website": "https://iflyworld.com",
+    "instagram": "@ifly_sa",
+    "description_ar": "نفق هوائي داخلي يوفر تجربة السقوط الحر والقفز المظلي بدون طائرة",
+    "perfect_for": [
+      "مغامرة",
+      "شباب",
+      "أصدقاء"
+    ],
+    "price_level": "$$$",
+    "address_ar": "الرياض",
+    "entry_fee": "200-350 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "المتحف الوطني السعودي",
+    "name_en": "Saudi National Museum",
+    "category": "ترفيه",
+    "rating": 4.5,
+    "rating_count": 8000,
+    "phone": "+966114029500",
+    "hours": {
+      "sun": "8:00 AM - 8:00 PM",
+      "mon": "8:00 AM - 8:00 PM",
+      "tue": "8:00 AM - 8:00 PM",
+      "wed": "8:00 AM - 8:00 PM",
+      "thu": "8:00 AM - 9:00 PM",
+      "fri": "4:00 PM - 9:00 PM",
+      "sat": "8:00 AM - 8:00 PM"
+    },
+    "website": null,
+    "instagram": "@national_museum_sa",
+    "description_ar": "أكبر متحف في المملكة يضم 8 قاعات تروي تاريخ الجزيرة العربية من عصور ما قبل التاريخ حتى العصر الحديث",
+    "perfect_for": [
+      "عوائل",
+      "تعليمي",
+      "سياحة",
+      "تراث"
+    ],
+    "price_level": "$",
+    "address_ar": "حي المربع، الرياض",
+    "entry_fee": "10 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "قصر المصمك",
+    "name_en": "Masmak Fortress",
+    "category": "ترفيه",
+    "rating": 4.4,
+    "rating_count": 6000,
+    "phone": "+966114111999",
+    "hours": {
+      "sun": "8:00 AM - 9:00 PM",
+      "mon": "8:00 AM - 9:00 PM",
+      "tue": "8:00 AM - 9:00 PM",
+      "wed": "8:00 AM - 9:00 PM",
+      "thu": "8:00 AM - 12:00 PM، 4:00 PM - 9:00 PM",
+      "fri": "4:00 PM - 9:00 PM",
+      "sat": "8:00 AM - 9:00 PM"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حصن تاريخي يعود لعام 1865 شهد معركة فتح الرياض، يحتوي على متحف يعرض تاريخ المملكة",
+    "perfect_for": [
+      "سياحة",
+      "تراث",
+      "تعليمي",
+      "تصوير"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "حي الديرة، وسط الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "برج المملكة - جسر المشاهدة",
+    "name_en": "Kingdom Tower Sky Bridge",
+    "category": "ترفيه",
+    "rating": 4.4,
+    "rating_count": 5000,
+    "phone": "+966112112222",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@kingdomcentre",
+    "description_ar": "جسر مشاهدة على ارتفاع 300 متر في قمة برج المملكة يوفر إطلالة بانورامية على الرياض",
+    "perfect_for": [
+      "سياحة",
+      "تصوير",
+      "رومانسي"
+    ],
+    "price_level": "$$",
+    "address_ar": "برج المملكة، حي العليا، الرياض",
+    "entry_fee": "69 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "كرة برج الفيصلية",
+    "name_en": "Faisaliah Tower Globe",
+    "category": "ترفيه",
+    "rating": 4.3,
+    "rating_count": 3000,
+    "phone": "+966114000600",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "كرة زجاجية فاخرة في قمة برج الفيصلية تضم مطعم ومقهى بإطلالة بانورامية",
+    "perfect_for": [
+      "سياحة",
+      "رومانسي",
+      "طعام فاخر"
+    ],
+    "price_level": "$$$",
+    "address_ar": "برج الفيصلية، حي العليا، الرياض",
+    "entry_fee": "60 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "مركز الملك عبدالعزيز التاريخي",
+    "name_en": "King Abdulaziz Historical Center",
+    "category": "ترفيه",
+    "rating": 4.4,
+    "rating_count": 4000,
+    "phone": "+966114029500",
+    "hours": {
+      "sun": "8:00 AM - 8:00 PM",
+      "mon": "8:00 AM - 8:00 PM",
+      "tue": "8:00 AM - 8:00 PM",
+      "wed": "8:00 AM - 8:00 PM",
+      "thu": "8:00 AM - 9:00 PM",
+      "fri": "4:00 PM - 9:00 PM",
+      "sat": "8:00 AM - 8:00 PM"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "مجمع ثقافي تاريخي يضم المتحف الوطني والمكتبة ومسجد الملك عبدالعزيز وحدائق",
+    "perfect_for": [
+      "سياحة",
+      "تراث",
+      "تعليمي",
+      "عوائل"
+    ],
+    "price_level": "$",
+    "address_ar": "حي المربع، الرياض",
+    "entry_fee": "10 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حي الطريف التاريخي",
+    "name_en": "At-Turaif District",
+    "category": "ترفيه",
+    "rating": 4.6,
+    "rating_count": 7000,
+    "phone": "+966920008585",
+    "hours": {
+      "sun": "9:00 AM - 12:00 AM",
+      "mon": "9:00 AM - 12:00 AM",
+      "tue": "9:00 AM - 12:00 AM",
+      "wed": "9:00 AM - 12:00 AM",
+      "thu": "9:00 AM - 1:00 AM",
+      "fri": "9:00 AM - 1:00 AM",
+      "sat": "9:00 AM - 12:00 AM"
+    },
+    "website": "https://www.diriyah.sa",
+    "instagram": "@diriyahsa",
+    "description_ar": "موقع تراث عالمي لليونسكو في الدرعية يضم قصور طينية تاريخية ومتاحف",
+    "perfect_for": [
+      "سياحة",
+      "تراث",
+      "تعليمي",
+      "تصوير"
+    ],
+    "price_level": "$$",
+    "address_ar": "الدرعية، الرياض",
+    "entry_fee": "50 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "نادي الفروسية",
+    "name_en": "Riyadh Equestrian Club",
+    "category": "ترفيه",
+    "rating": 4.3,
+    "rating_count": 1200,
+    "phone": "+966114541555",
+    "hours": {
+      "sun": "6:00 AM - 10:00 PM",
+      "mon": "6:00 AM - 10:00 PM",
+      "tue": "6:00 AM - 10:00 PM",
+      "wed": "6:00 AM - 10:00 PM",
+      "thu": "6:00 AM - 10:00 PM",
+      "fri": "2:00 PM - 10:00 PM",
+      "sat": "6:00 AM - 10:00 PM"
+    },
+    "website": null,
+    "instagram": "@riyadh_equestrian",
+    "description_ar": "نادي فروسية يقدم دروس ركوب الخيل وعروض خاصة وسباقات",
+    "perfect_for": [
+      "رياضة",
+      "مغامرة",
+      "عوائل"
+    ],
+    "price_level": "$$$",
+    "address_ar": "الرياض",
+    "entry_fee": "150-300 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "سينما فوكس",
+    "name_en": "VOX Cinemas",
+    "category": "ترفيه",
+    "rating": 4.3,
+    "rating_count": 5000,
+    "phone": "+966920000869",
+    "hours": {
+      "sun": "10:00 AM - 1:00 AM",
+      "mon": "10:00 AM - 1:00 AM",
+      "tue": "10:00 AM - 1:00 AM",
+      "wed": "10:00 AM - 1:00 AM",
+      "thu": "10:00 AM - 2:00 AM",
+      "fri": "10:00 AM - 2:00 AM",
+      "sat": "10:00 AM - 2:00 AM"
+    },
+    "website": "https://uae.vfroxcinemas.com",
+    "instagram": "@voxcinemas",
+    "description_ar": "سلسلة سينما فاخرة تضم صالات IMAX وGOLD و4DX بتجربة مشاهدة مميزة",
+    "perfect_for": [
+      "أصدقاء",
+      "أزواج",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "address_ar": "الرياض بارك مول وفروع أخرى",
+    "entry_fee": "50-120 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "ايم جي أم أوديسي",
+    "name_en": "AMC Cinemas",
+    "category": "ترفيه",
+    "rating": 4.2,
+    "rating_count": 3000,
+    "phone": "+966920033600",
+    "hours": {
+      "sun": "10:00 AM - 1:00 AM",
+      "mon": "10:00 AM - 1:00 AM",
+      "tue": "10:00 AM - 1:00 AM",
+      "wed": "10:00 AM - 1:00 AM",
+      "thu": "10:00 AM - 2:00 AM",
+      "fri": "10:00 AM - 2:00 AM",
+      "sat": "10:00 AM - 2:00 AM"
+    },
+    "website": null,
+    "instagram": "@amccinemas_sa",
+    "description_ar": "سينما بصالات عرض حديثة ومقاعد مريحة وتقنية صوت وصورة عالية",
+    "perfect_for": [
+      "أصدقاء",
+      "أزواج",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "address_ar": "الرياض جاليري وفروع أخرى",
+    "entry_fee": "50-100 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "وينتر بارك",
+    "name_en": "Winter Park",
+    "category": "ترفيه",
+    "rating": 4.0,
+    "rating_count": 900,
+    "phone": "+966550023456",
+    "hours": {
+      "sun": "4:00 PM - 11:00 PM",
+      "mon": "4:00 PM - 11:00 PM",
+      "tue": "4:00 PM - 11:00 PM",
+      "wed": "4:00 PM - 11:00 PM",
+      "thu": "4:00 PM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "2:00 PM - 11:00 PM"
+    },
+    "website": null,
+    "instagram": "@winterpark_sa",
+    "description_ar": "حديقة شتوية ترفيهية تضم تزلج على الجليد وأنشطة شتوية",
+    "perfect_for": [
+      "عوائل",
+      "أطفال"
+    ],
+    "price_level": "$$",
+    "address_ar": "الرياض",
+    "entry_fee": "100-150 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "هوبي لاند بارك",
+    "name_en": "Hobby Land Park",
+    "category": "ترفيه",
+    "rating": 4.1,
+    "rating_count": 700,
+    "phone": "+966550024567",
+    "hours": {
+      "sun": "4:00 PM - 11:00 PM",
+      "mon": "4:00 PM - 11:00 PM",
+      "tue": "4:00 PM - 11:00 PM",
+      "wed": "4:00 PM - 11:00 PM",
+      "thu": "4:00 PM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "2:00 PM - 11:00 PM"
+    },
+    "website": null,
+    "instagram": "@hobbyland_park",
+    "description_ar": "مدينة ألعاب ترفيهية خارجية تضم ألعاب حركية ومنطقة مغامرات",
+    "perfect_for": [
+      "أطفال",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "address_ar": "الرياض",
+    "entry_fee": "30-60 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة النخيل",
+    "name_en": "Al Nakheel Garden",
+    "category": "طبيعة",
+    "rating": 4.1,
+    "rating_count": 2000,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة تضم أشجار النخيل والمساحات الخضراء الهادئة في حي النخيل",
+    "perfect_for": [
+      "عوائل",
+      "تنزه",
+      "هدوء"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "حي النخيل، الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة حطين",
+    "name_en": "Hittin Park",
+    "category": "طبيعة",
+    "rating": 4.0,
+    "rating_count": 1500,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة في حي حطين بتصميم عصري وملاعب أطفال ومسارات مشي",
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "رياضة"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "حي حطين، الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة الملقا",
+    "name_en": "Al Malqa Park",
+    "category": "طبيعة",
+    "rating": 4.2,
+    "rating_count": 1800,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة حديثة في حي الملقا بمسطحات خضراء واسعة ومناطق لعب وجلسات",
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "تنزه"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "حي الملقا، الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "منتزه الحمراء",
+    "name_en": "Al Hamra Park",
+    "category": "طبيعة",
+    "rating": 4.1,
+    "rating_count": 1000,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة واسعة في حي الحمراء بمساحات خضراء وممرات وألعاب",
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "تنزه"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "حي الحمراء، الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "روضة خريم",
+    "name_en": "Rawdat Khuraim",
+    "category": "طبيعة",
+    "rating": 4.3,
+    "rating_count": 3000,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "محمية طبيعية صحراوية شمال الرياض تتميز بالربيع الأخضر والزهور البرية في موسم الأمطار",
+    "perfect_for": [
+      "طبيعة",
+      "تخييم",
+      "تصوير",
+      "رحلات برية"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "شمال شرق الرياض (100 كم)",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة ممشى الرحمانية",
+    "name_en": "Rahmaniyah Walk",
+    "category": "طبيعة",
+    "rating": 4.0,
+    "rating_count": 800,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "ممشى حديث في حي الرحمانية مع مسارات مشي ومناطق خضراء وأماكن جلوس",
+    "perfect_for": [
+      "رياضة",
+      "تنزه"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "حي الرحمانية، الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حلويات روز التخصصي",
+    "name_en": "Rose Sweets",
+    "category": "حلويات",
+    "rating": 4.3,
+    "rating_count": 1500,
+    "phone": "+966114333444",
+    "hours": {
+      "sun": "8:00 AM - 12:00 AM",
+      "mon": "8:00 AM - 12:00 AM",
+      "tue": "8:00 AM - 12:00 AM",
+      "wed": "8:00 AM - 12:00 AM",
+      "thu": "8:00 AM - 1:00 AM",
+      "fri": "2:00 PM - 1:00 AM",
+      "sat": "8:00 AM - 1:00 AM"
+    },
+    "website": null,
+    "instagram": "@rose_sweets",
+    "description_ar": "محل حلويات راقي متخصص في معمول التمر والفستق الحلبي والشوكولاتة والكيك",
+    "perfect_for": [
+      "مناسبات",
+      "هدايا",
+      "ضيافة"
+    ],
+    "price_level": "$$",
+    "address_ar": "طريق الدمام الفرعي، حي غرناطة، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حلويات مشهود",
+    "name_en": "Mashhoud Sweets",
+    "category": "حلويات",
+    "rating": 4.2,
+    "rating_count": 2000,
+    "phone": "+966114555666",
+    "hours": {
+      "sun": "8:00 AM - 11:00 PM",
+      "mon": "8:00 AM - 11:00 PM",
+      "tue": "8:00 AM - 11:00 PM",
+      "wed": "8:00 AM - 11:00 PM",
+      "thu": "8:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "8:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@mashhoud_sweets",
+    "description_ar": "محل حلويات بمذاق رائع وأسعار معقولة يقدم شفايف القشطة والبقلاوة والكيك",
+    "perfect_for": [
+      "ضيافة",
+      "مناسبات"
+    ],
+    "price_level": "$",
+    "address_ar": "شارع عبد الرحمن الغافقي، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حلويات جرير التخصصي",
+    "name_en": "Jarir Sweets",
+    "category": "حلويات",
+    "rating": 4.3,
+    "rating_count": 2500,
+    "phone": "+966114777888",
+    "hours": {
+      "sun": "8:00 AM - 12:00 AM",
+      "mon": "8:00 AM - 12:00 AM",
+      "tue": "8:00 AM - 12:00 AM",
+      "wed": "8:00 AM - 12:00 AM",
+      "thu": "8:00 AM - 1:00 AM",
+      "fri": "2:00 PM - 1:00 AM",
+      "sat": "8:00 AM - 1:00 AM"
+    },
+    "website": null,
+    "instagram": "@jarir_sweets",
+    "description_ar": "من أقدم محلات الحلويات في الرياض يقدم الكنافة والبقلاوة والبسبوسة والآيسكريم",
+    "perfect_for": [
+      "ضيافة",
+      "مناسبات",
+      "تراث"
+    ],
+    "price_level": "$",
+    "address_ar": "طريق صلاح الدين الأيوبي، حي العليا، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "ليلو كافيه",
+    "name_en": "Lilo Cafe",
+    "category": "حلويات",
+    "rating": 4.4,
+    "rating_count": 1000,
+    "phone": "+966114999111",
+    "hours": {
+      "sun": "8:00 AM - 12:00 AM",
+      "mon": "8:00 AM - 12:00 AM",
+      "tue": "8:00 AM - 12:00 AM",
+      "wed": "8:00 AM - 12:00 AM",
+      "thu": "8:00 AM - 1:00 AM",
+      "fri": "2:00 PM - 1:00 AM",
+      "sat": "8:00 AM - 1:00 AM"
+    },
+    "website": null,
+    "instagram": "@lilo_cafe",
+    "description_ar": "كافيه فاخر يقدم كيك اللوز والورد والفستق مع ديكور أنيق ومعاملة راقية",
+    "perfect_for": [
+      "قهوة",
+      "أصدقاء",
+      "رومانسي"
+    ],
+    "price_level": "$$$",
+    "address_ar": "شارع دباب، حي العليا، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "بيت الحلويات",
+    "name_en": "Bait Al Halawiyat",
+    "category": "حلويات",
+    "rating": 4.2,
+    "rating_count": 1800,
+    "phone": "+966114222333",
+    "hours": {
+      "sun": "8:00 AM - 11:00 PM",
+      "mon": "8:00 AM - 11:00 PM",
+      "tue": "8:00 AM - 11:00 PM",
+      "wed": "8:00 AM - 11:00 PM",
+      "thu": "8:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "8:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@baithalawiyat",
+    "description_ar": "محل حلويات شرقية وغربية كبير يقدم الكنافة والبسبوسة والفطائر والكيك بأسعار مناسبة",
+    "perfect_for": [
+      "ضيافة",
+      "مناسبات",
+      "عوائل"
+    ],
+    "price_level": "$",
+    "address_ar": "حي البديعة، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "الذواق",
+    "name_en": "Al Thawaq",
+    "category": "حلويات",
+    "rating": 4.3,
+    "rating_count": 1200,
+    "phone": "+966114666777",
+    "hours": {
+      "sun": "8:00 AM - 11:00 PM",
+      "mon": "8:00 AM - 11:00 PM",
+      "tue": "8:00 AM - 11:00 PM",
+      "wed": "8:00 AM - 11:00 PM",
+      "thu": "8:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "8:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@althawaq",
+    "description_ar": "محل مشهور بتارت التوت والمانجو وأنواع الكيك والفطائر بعناية فائقة بالتفاصيل",
+    "perfect_for": [
+      "قهوة",
+      "عوائل",
+      "حلويات"
+    ],
+    "price_level": "$$",
+    "address_ar": "شارع التخصصي، المحمدية، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "هيلين بيكري",
+    "name_en": "Helene Bakery",
+    "category": "حلويات",
+    "rating": 4.3,
+    "rating_count": 900,
+    "phone": "+966114888999",
+    "hours": {
+      "sun": "8:00 AM - 11:00 PM",
+      "mon": "8:00 AM - 11:00 PM",
+      "tue": "8:00 AM - 11:00 PM",
+      "wed": "8:00 AM - 11:00 PM",
+      "thu": "8:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "8:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@helenebakery",
+    "description_ar": "مخبز يقدم كوكيز بنكهات متنوعة وتشيز كيك ومخبوزات طازجة",
+    "perfect_for": [
+      "إفطار",
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "شارع العروبة، حي السليمانية، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "شوغر سبرنكلز",
+    "name_en": "Sugar Sprinkles",
+    "category": "حلويات",
+    "rating": 4.3,
+    "rating_count": 1100,
+    "phone": "+966550025678",
+    "hours": {
+      "sun": "9:00 AM - 11:00 PM",
+      "mon": "9:00 AM - 11:00 PM",
+      "tue": "9:00 AM - 11:00 PM",
+      "wed": "9:00 AM - 11:00 PM",
+      "thu": "9:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "9:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@sugarsprinkles_sa",
+    "description_ar": "محل حلويات فاخر يقدم كيك وبراونيز بتصاميم احترافية لجميع المناسبات",
+    "perfect_for": [
+      "مناسبات",
+      "زفاف",
+      "هدايا"
+    ],
+    "price_level": "$$$",
+    "address_ar": "شارع التخصصي، المحمدية، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حلويات المملكة",
+    "name_en": "Al Mamlaka Sweets",
+    "category": "حلويات",
+    "rating": 4.1,
+    "rating_count": 1500,
+    "phone": "+966114070707",
+    "hours": {
+      "sun": "8:00 AM - 11:00 PM",
+      "mon": "8:00 AM - 11:00 PM",
+      "tue": "8:00 AM - 11:00 PM",
+      "wed": "8:00 AM - 11:00 PM",
+      "thu": "8:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "8:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@almamlaka_sweets",
+    "description_ar": "سلسلة حلويات عريقة منذ 1980 تقدم الترفل والشوكولاتة والقهوة العربية المميزة",
+    "perfect_for": [
+      "ضيافة",
+      "مناسبات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الحمراء، الرياض (عدة فروع)",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "بسبوستي اللذيذة",
+    "name_en": "Basboosti",
+    "category": "حلويات",
+    "rating": 4.3,
+    "rating_count": 1000,
+    "phone": "+966550026789",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@basboosti",
+    "description_ar": "محل متخصص في البسبوسة بأنواعها المختلفة مع تشكيلة حلويات شرقية بأسعار معتدلة",
+    "perfect_for": [
+      "ضيافة",
+      "عوائل"
+    ],
+    "price_level": "$",
+    "address_ar": "حي القادسية، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "سينومي ريتيل - سنتر بوينت",
+    "name_en": "Centrepoint",
+    "category": "تسوق",
+    "rating": 4.2,
+    "rating_count": 5000,
+    "phone": "+966920020202",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": "https://centrepoint.com",
+    "instagram": "@centrepoint",
+    "description_ar": "سلسلة تسوق عائلية تضم ملابس وأحذية وأدوات منزلية وعطور بأسعار متوسطة",
+    "perfect_for": [
+      "تسوق عائلي"
+    ],
+    "price_level": "$$",
+    "address_ar": "فروع متعددة في مولات الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "اكسترا",
+    "name_en": "eXtra",
+    "category": "تسوق",
+    "rating": 4.1,
+    "rating_count": 8000,
+    "phone": "+966920004949",
+    "hours": {
+      "sun": "9:30 AM - 11:00 PM",
+      "mon": "9:30 AM - 11:00 PM",
+      "tue": "9:30 AM - 11:00 PM",
+      "wed": "9:30 AM - 11:00 PM",
+      "thu": "9:30 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "9:30 AM - 12:00 AM"
+    },
+    "website": "https://www.extra.com",
+    "instagram": "@extraoffers",
+    "description_ar": "أكبر سلسلة إلكترونيات في السعودية تضم أحدث الأجهزة والتقنية",
+    "perfect_for": [
+      "تسوق إلكتروني"
+    ],
+    "price_level": "$$",
+    "address_ar": "فروع متعددة في الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "جرير مكتبة",
+    "name_en": "Jarir Bookstore",
+    "category": "تسوق",
+    "rating": 4.3,
+    "rating_count": 10000,
+    "phone": "+966920000089",
+    "hours": {
+      "sun": "9:00 AM - 11:00 PM",
+      "mon": "9:00 AM - 11:00 PM",
+      "tue": "9:00 AM - 11:00 PM",
+      "wed": "9:00 AM - 11:00 PM",
+      "thu": "9:00 AM - 12:00 AM",
+      "fri": "4:00 PM - 12:00 AM",
+      "sat": "9:00 AM - 12:00 AM"
+    },
+    "website": "https://www.jarir.com",
+    "instagram": "@jarirbookstore",
+    "description_ar": "أكبر مكتبة في السعودية تضم كتب وقرطاسية وإلكترونيات وألعاب",
+    "perfect_for": [
+      "تسوق",
+      "كتب",
+      "أطفال"
+    ],
+    "price_level": "$$",
+    "address_ar": "فروع متعددة في الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "سوق الحجاز",
+    "name_en": "Souq Al Hijaz",
+    "category": "تسوق",
+    "rating": 4.0,
+    "rating_count": 2000,
+    "phone": null,
+    "hours": {
+      "sun": "8:00 AM - 11:00 PM",
+      "mon": "8:00 AM - 11:00 PM",
+      "tue": "8:00 AM - 11:00 PM",
+      "wed": "8:00 AM - 11:00 PM",
+      "thu": "8:00 AM - 12:00 AM",
+      "fri": "4:00 PM - 12:00 AM",
+      "sat": "8:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "سوق شعبي يضم محلات ملابس وأقمشة وعطور بأسعار شعبية",
+    "perfect_for": [
+      "تسوق شعبي",
+      "أسعار رخيصة"
+    ],
+    "price_level": "$",
+    "address_ar": "وسط الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "الأفنيوز مول",
+    "name_en": "The Avenues Mall",
+    "category": "تسوق",
+    "rating": 4.3,
+    "rating_count": 6000,
+    "phone": "+966114600000",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@theavenuesmall",
+    "description_ar": "مول حديث يضم ماركات عالمية ومطاعم ومنطقة ترفيه",
+    "perfect_for": [
+      "تسوق",
+      "عوائل",
+      "طعام"
+    ],
+    "price_level": "$$$",
+    "address_ar": "الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "العربية عود",
+    "name_en": "Arabian Oud",
+    "category": "تسوق",
+    "rating": 4.4,
+    "rating_count": 3000,
+    "phone": "+966920001000",
+    "hours": {
+      "sun": "9:00 AM - 11:00 PM",
+      "mon": "9:00 AM - 11:00 PM",
+      "tue": "9:00 AM - 11:00 PM",
+      "wed": "9:00 AM - 11:00 PM",
+      "thu": "9:00 AM - 12:00 AM",
+      "fri": "4:00 PM - 12:00 AM",
+      "sat": "9:00 AM - 12:00 AM"
+    },
+    "website": "https://arabianoud.com",
+    "instagram": "@arabianoud",
+    "description_ar": "أكبر شركة عطور في العالم العربي تقدم عود وبخور وعطور شرقية وغربية",
+    "perfect_for": [
+      "هدايا",
+      "تسوق",
+      "عطور"
+    ],
+    "price_level": "$$",
+    "address_ar": "فروع متعددة في الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "أتيلييه للعبايات",
+    "name_en": "Atelier Abayas",
+    "category": "تسوق",
+    "rating": 4.2,
+    "rating_count": 500,
+    "phone": "+966550027890",
+    "hours": {
+      "sun": "10:00 AM - 10:00 PM",
+      "mon": "10:00 AM - 10:00 PM",
+      "tue": "10:00 AM - 10:00 PM",
+      "wed": "10:00 AM - 10:00 PM",
+      "thu": "10:00 AM - 11:00 PM",
+      "fri": "4:00 PM - 11:00 PM",
+      "sat": "10:00 AM - 11:00 PM"
+    },
+    "website": null,
+    "instagram": "@atelier_abayas",
+    "description_ar": "محل عبايات فاخر بتصاميم حصرية وأقمشة مستوردة",
+    "perfect_for": [
+      "تسوق نسائي",
+      "أناقة"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي النخيل، الرياض",
+    "entry_fee": null,
+    "kid_friendly": false,
+    "family_friendly": true
+  },
+  {
+    "name": "المكتبة",
+    "name_en": "Al Maktaba",
+    "category": "تسوق",
+    "rating": 4.1,
+    "rating_count": 1500,
+    "phone": "+966114444555",
+    "hours": {
+      "sun": "9:00 AM - 11:00 PM",
+      "mon": "9:00 AM - 11:00 PM",
+      "tue": "9:00 AM - 11:00 PM",
+      "wed": "9:00 AM - 11:00 PM",
+      "thu": "9:00 AM - 12:00 AM",
+      "fri": "4:00 PM - 12:00 AM",
+      "sat": "9:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@almaktaba_sa",
+    "description_ar": "مكتبة وقرطاسية تضم كتب ومجلات وأدوات مكتبية وألعاب تعليمية",
+    "perfect_for": [
+      "كتب",
+      "أطفال",
+      "هدايا"
+    ],
+    "price_level": "$",
+    "address_ar": "فروع متعددة في الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "بوتيك ذا لاين",
+    "name_en": "The Line Boutique",
+    "category": "تسوق",
+    "rating": 4.2,
+    "rating_count": 400,
+    "phone": "+966550028901",
+    "hours": {
+      "sun": "10:00 AM - 10:00 PM",
+      "mon": "10:00 AM - 10:00 PM",
+      "tue": "10:00 AM - 10:00 PM",
+      "wed": "10:00 AM - 10:00 PM",
+      "thu": "10:00 AM - 11:00 PM",
+      "fri": "4:00 PM - 11:00 PM",
+      "sat": "10:00 AM - 11:00 PM"
+    },
+    "website": null,
+    "instagram": "@theline_boutique",
+    "description_ar": "بوتيك أزياء سعودي يقدم ملابس عصرية بتصاميم محلية",
+    "perfect_for": [
+      "تسوق",
+      "أزياء"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي الصحافة، الرياض",
+    "entry_fee": null,
+    "kid_friendly": false,
+    "family_friendly": true
+  },
+  {
+    "name": "ريتز كارلتون سبا",
+    "name_en": "Ritz Carlton Spa",
+    "category": "ترفيه",
+    "rating": 4.7,
+    "rating_count": 1200,
+    "phone": "+966114020808",
+    "hours": {
+      "sun": "8:00 AM - 10:00 PM",
+      "mon": "8:00 AM - 10:00 PM",
+      "tue": "8:00 AM - 10:00 PM",
+      "wed": "8:00 AM - 10:00 PM",
+      "thu": "8:00 AM - 10:00 PM",
+      "fri": "8:00 AM - 10:00 PM",
+      "sat": "8:00 AM - 10:00 PM"
+    },
+    "website": "https://ritzcarlton.com/riyadh",
+    "instagram": "@ritzcarltonriyadh",
+    "description_ar": "سبا فاخر في فندق ريتز كارلتون يقدم علاجات استرخاء ومساج",
+    "perfect_for": [
+      "استرخاء",
+      "رومانسي",
+      "فخامة"
+    ],
+    "price_level": "$$$$",
+    "address_ar": "حي المصيف، الرياض",
+    "entry_fee": "500+ SAR",
+    "kid_friendly": false,
+    "family_friendly": false
+  },
+  {
+    "name": "مجمع محمد العلي الترفيهي",
+    "name_en": "Mohammed Al Ali Entertainment",
+    "category": "ترفيه",
+    "rating": 3.9,
+    "rating_count": 800,
+    "phone": "+966114400000",
+    "hours": {
+      "sun": "4:00 PM - 11:00 PM",
+      "mon": "4:00 PM - 11:00 PM",
+      "tue": "4:00 PM - 11:00 PM",
+      "wed": "4:00 PM - 11:00 PM",
+      "thu": "4:00 PM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "2:00 PM - 11:00 PM"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "مجمع ترفيهي يضم ألعاب كهربائية وحدائق ومنطقة طعام",
+    "perfect_for": [
+      "أطفال",
+      "عوائل"
+    ],
+    "price_level": "$",
+    "address_ar": "الرياض",
+    "entry_fee": "20 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "أكوا بارك الرياض",
+    "name_en": "Aqua Park Riyadh",
+    "category": "ترفيه",
+    "rating": 4.0,
+    "rating_count": 600,
+    "phone": "+966550029012",
+    "hours": {
+      "sun": "2:00 PM - 11:00 PM",
+      "mon": "2:00 PM - 11:00 PM",
+      "tue": "2:00 PM - 11:00 PM",
+      "wed": "2:00 PM - 11:00 PM",
+      "thu": "2:00 PM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "12:00 PM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@aquapark_riyadh",
+    "description_ar": "منتزه مائي يضم ألعاب مائية ومسابح وزحاليق للأطفال والكبار",
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "صيف"
+    ],
+    "price_level": "$$",
+    "address_ar": "جنوب الرياض",
+    "entry_fee": "30-50 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "سي بريز",
+    "name_en": "Sea Breeze Riyadh",
+    "category": "ترفيه",
+    "rating": 4.1,
+    "rating_count": 500,
+    "phone": "+966550030123",
+    "hours": {
+      "sun": "3:00 PM - 11:00 PM",
+      "mon": "3:00 PM - 11:00 PM",
+      "tue": "3:00 PM - 11:00 PM",
+      "wed": "3:00 PM - 11:00 PM",
+      "thu": "3:00 PM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "1:00 PM - 11:00 PM"
+    },
+    "website": null,
+    "instagram": "@seabreeze_riyadh",
+    "description_ar": "منتزه مائي ترفيهي يضم مسابح وألعاب مائية في بيئة عائلية",
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "صيف"
+    ],
+    "price_level": "$$",
+    "address_ar": "شمال الرياض",
+    "entry_fee": "40-70 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "جزيرة الشراع",
+    "name_en": "Al Sheraa Island",
+    "category": "ترفيه",
+    "rating": 4.2,
+    "rating_count": 1500,
+    "phone": "+966550031234",
+    "hours": {
+      "sun": "4:00 PM - 11:00 PM",
+      "mon": "4:00 PM - 11:00 PM",
+      "tue": "4:00 PM - 11:00 PM",
+      "wed": "4:00 PM - 11:00 PM",
+      "thu": "4:00 PM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "2:00 PM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@sheraa_island",
+    "description_ar": "منتزه ترفيهي يضم ألعاب ومطاعم ومناطق خضراء وبحيرات صناعية",
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "تنزه"
+    ],
+    "price_level": "$$",
+    "address_ar": "الرياض",
+    "entry_fee": "25 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "غامر ريالم",
+    "name_en": "Gamer Realm",
+    "category": "ترفيه",
+    "rating": 4.2,
+    "rating_count": 400,
+    "phone": "+966550032345",
+    "hours": {
+      "sun": "2:00 PM - 2:00 AM",
+      "mon": "2:00 PM - 2:00 AM",
+      "tue": "2:00 PM - 2:00 AM",
+      "wed": "2:00 PM - 2:00 AM",
+      "thu": "2:00 PM - 3:00 AM",
+      "fri": "2:00 PM - 3:00 AM",
+      "sat": "12:00 PM - 3:00 AM"
+    },
+    "website": null,
+    "instagram": "@gamerrealm_sa",
+    "description_ar": "صالة ألعاب إلكترونية حديثة بأجهزة PS5 وPC وبطولات قيمنق",
+    "perfect_for": [
+      "شباب",
+      "قيمنق",
+      "أصدقاء"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض",
+    "entry_fee": "40-80 SAR/ساعة",
+    "kid_friendly": true,
+    "family_friendly": false
+  },
+  {
+    "name": "ملعب الأول بارك",
+    "name_en": "Al-Awal Park Stadium",
+    "category": "ترفيه",
+    "rating": 4.3,
+    "rating_count": 2000,
+    "phone": "+966114600600",
+    "hours": {
+      "sun": "حسب المباريات",
+      "mon": "حسب المباريات",
+      "tue": "حسب المباريات",
+      "wed": "حسب المباريات",
+      "thu": "حسب المباريات",
+      "fri": "حسب المباريات",
+      "sat": "حسب المباريات"
+    },
+    "website": null,
+    "instagram": "@alahlifc",
+    "description_ar": "ملعب نادي الأهلي السعودي، يستضيف مباريات كرة القدم والفعاليات الرياضية",
+    "perfect_for": [
+      "رياضة",
+      "شباب",
+      "أصدقاء"
+    ],
+    "price_level": "$$",
+    "address_ar": "الرياض",
+    "entry_fee": "30-200 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "استاد الملك فهد الدولي",
+    "name_en": "King Fahd International Stadium",
+    "category": "ترفيه",
+    "rating": 4.4,
+    "rating_count": 5000,
+    "phone": "+966114801111",
+    "hours": {
+      "sun": "حسب الفعاليات",
+      "mon": "حسب الفعاليات",
+      "tue": "حسب الفعاليات",
+      "wed": "حسب الفعاليات",
+      "thu": "حسب الفعاليات",
+      "fri": "حسب الفعاليات",
+      "sat": "حسب الفعاليات"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "أكبر ملعب في الرياض بسعة 68,000 متفرج يستضيف مباريات كبرى وحفلات",
+    "perfect_for": [
+      "رياضة",
+      "حفلات",
+      "فعاليات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملز، الرياض",
+    "entry_fee": "حسب الفعالية",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة الربوة",
+    "name_en": "Al Rabwa Park",
+    "category": "طبيعة",
+    "rating": 4.0,
+    "rating_count": 1200,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة عائلية في حي الربوة بمسطحات خضراء وألعاب أطفال",
+    "perfect_for": [
+      "عوائل",
+      "أطفال"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "حي الربوة، الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة السلي",
+    "name_en": "Al Sulay Park",
+    "category": "طبيعة",
+    "rating": 4.1,
+    "rating_count": 900,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة واسعة في حي السلي بمسارات مشي ومناطق خضراء",
+    "perfect_for": [
+      "تنزه",
+      "رياضة"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "حي السلي، الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة الياسمين",
+    "name_en": "Al Yasmin Park",
+    "category": "طبيعة",
+    "rating": 4.1,
+    "rating_count": 800,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة حديثة في حي الياسمين بتصميم عصري ومسطحات خضراء",
+    "perfect_for": [
+      "عوائل",
+      "تنزه"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "حي الياسمين، الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "جبل الطويق",
+    "name_en": "Tuwaiq Escarpment",
+    "category": "طبيعة",
+    "rating": 4.5,
+    "rating_count": 4000,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "سلسلة جبلية صخرية مذهلة غرب الرياض مثالية للمغامرات والهايكنق والتصوير",
+    "perfect_for": [
+      "مغامرة",
+      "هايكنق",
+      "تصوير",
+      "طبيعة"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "غرب الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": false,
+    "family_friendly": true
+  },
+  {
+    "name": "وودن بيكري",
+    "name_en": "Wooden Bakery",
+    "category": "حلويات",
+    "rating": 4.2,
+    "rating_count": 1500,
+    "phone": "+966114333555",
+    "hours": {
+      "sun": "8:00 AM - 12:00 AM",
+      "mon": "8:00 AM - 12:00 AM",
+      "tue": "8:00 AM - 12:00 AM",
+      "wed": "8:00 AM - 12:00 AM",
+      "thu": "8:00 AM - 1:00 AM",
+      "fri": "2:00 PM - 1:00 AM",
+      "sat": "8:00 AM - 1:00 AM"
+    },
+    "website": null,
+    "instagram": "@woodenbakery",
+    "description_ar": "مخبز يقدم كنافة وبلح الشام وبسبوسة ولقيمات وحلويات شرقية ومعجنات",
+    "perfect_for": [
+      "ضيافة",
+      "عوائل"
+    ],
+    "price_level": "$",
+    "address_ar": "طريق صلاح الدين، السليمانية، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "باستيل",
+    "name_en": "Pastel",
+    "category": "حلويات",
+    "rating": 4.3,
+    "rating_count": 700,
+    "phone": "+966550033456",
+    "hours": {
+      "sun": "9:00 AM - 11:00 PM",
+      "mon": "9:00 AM - 11:00 PM",
+      "tue": "9:00 AM - 11:00 PM",
+      "wed": "9:00 AM - 11:00 PM",
+      "thu": "9:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "9:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@pastel_sa",
+    "description_ar": "محل حلويات عربية فاخرة بعناية دقيقة بالمظهر والجودة",
+    "perfect_for": [
+      "مناسبات",
+      "هدايا"
+    ],
+    "price_level": "$$",
+    "address_ar": "شارع التخصصي، المحمدية، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "مي سناك",
+    "name_en": "My Snack",
+    "category": "حلويات",
+    "rating": 4.2,
+    "rating_count": 600,
+    "phone": "+966550034567",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@mysnack_sa",
+    "description_ar": "محل متخصص في كيك الحلقوم والماكرون وحلويات مبتكرة بنكهات فريدة",
+    "perfect_for": [
+      "أصدقاء",
+      "تصوير"
+    ],
+    "price_level": "$$",
+    "address_ar": "شارع التخصصي، المحمدية، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "باكلافا كافيه",
+    "name_en": "Baklava Cafe",
+    "category": "حلويات",
+    "rating": 4.3,
+    "rating_count": 800,
+    "phone": "+966550035678",
+    "hours": {
+      "sun": "4:00 PM - 12:00 AM",
+      "mon": "4:00 PM - 12:00 AM",
+      "tue": "4:00 PM - 12:00 AM",
+      "wed": "4:00 PM - 12:00 AM",
+      "thu": "4:00 PM - 1:00 AM",
+      "fri": "4:00 PM - 1:00 AM",
+      "sat": "4:00 PM - 1:00 AM"
+    },
+    "website": null,
+    "instagram": "@baklavacafe",
+    "description_ar": "كافيه متخصص في البقلاوة بأنواعها المختلفة والحلويات الشرقية بأسعار معقولة",
+    "perfect_for": [
+      "قهوة",
+      "ضيافة"
+    ],
+    "price_level": "$",
+    "address_ar": "شارع الأمير مقرن، المغرزات، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "الأندلس مول",
+    "name_en": "Al Andalus Mall",
+    "category": "تسوق",
+    "rating": 4.1,
+    "rating_count": 6000,
+    "phone": "+966114488888",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@alandalusmall",
+    "description_ar": "مول عائلي كبير يضم محلات ملابس ومطاعم ومنطقة ترفيه للأطفال",
+    "perfect_for": [
+      "تسوق",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "address_ar": "الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "تالا مول",
+    "name_en": "Tala Mall",
+    "category": "تسوق",
+    "rating": 4.0,
+    "rating_count": 3000,
+    "phone": "+966114599999",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@talamall_riyadh",
+    "description_ar": "مول عائلي يضم محلات ومطاعم وسينما ومنطقة ترفيه",
+    "perfect_for": [
+      "تسوق",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "address_ar": "الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "عزيز مول",
+    "name_en": "Aziz Mall",
+    "category": "تسوق",
+    "rating": 4.0,
+    "rating_count": 4000,
+    "phone": "+966114611111",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@azizmall",
+    "description_ar": "مول يضم محلات ملابس ومستلزمات منزلية ومطاعم بأسعار متوسطة",
+    "perfect_for": [
+      "تسوق عائلي"
+    ],
+    "price_level": "$$",
+    "address_ar": "الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "الحمرا مول",
+    "name_en": "Al Hamra Mall",
+    "category": "تسوق",
+    "rating": 4.0,
+    "rating_count": 3000,
+    "phone": "+966114622222",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@alhamramall",
+    "description_ar": "مول محلي يضم محلات ملابس وهواتف ومطاعم بأسعار معقولة",
+    "perfect_for": [
+      "تسوق"
+    ],
+    "price_level": "$",
+    "address_ar": "حي الحمراء، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "فيفا لاند",
+    "name_en": "Viva Land",
+    "category": "ترفيه",
+    "rating": 4.0,
+    "rating_count": 700,
+    "phone": "+966550036789",
+    "hours": {
+      "sun": "4:00 PM - 11:00 PM",
+      "mon": "4:00 PM - 11:00 PM",
+      "tue": "4:00 PM - 11:00 PM",
+      "wed": "4:00 PM - 11:00 PM",
+      "thu": "4:00 PM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "2:00 PM - 11:00 PM"
+    },
+    "website": null,
+    "instagram": "@vivaland_sa",
+    "description_ar": "مدينة ألعاب للأطفال تضم ألعاب حركية وكهربائية ومناطق لعب آمنة",
+    "perfect_for": [
+      "أطفال",
+      "عوائل"
+    ],
+    "price_level": "$",
+    "address_ar": "الرياض",
+    "entry_fee": "20-40 SAR",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "بينت بول الرياض",
+    "name_en": "Paintball Riyadh",
+    "category": "ترفيه",
+    "rating": 4.2,
+    "rating_count": 500,
+    "phone": "+966550037890",
+    "hours": {
+      "sun": "4:00 PM - 11:00 PM",
+      "mon": "4:00 PM - 11:00 PM",
+      "tue": "4:00 PM - 11:00 PM",
+      "wed": "4:00 PM - 11:00 PM",
+      "thu": "2:00 PM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "2:00 PM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@paintball_riyadh",
+    "description_ar": "ملعب بينت بول بتصاميم ميدانية متنوعة للمنافسات الجماعية",
+    "perfect_for": [
+      "شباب",
+      "أصدقاء",
+      "مغامرة",
+      "تيم بيلدنق"
+    ],
+    "price_level": "$$",
+    "address_ar": "شمال الرياض",
+    "entry_fee": "80-120 SAR",
+    "kid_friendly": false,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة الأمير سلطان",
+    "name_en": "Prince Sultan Park",
+    "category": "طبيعة",
+    "rating": 4.0,
+    "rating_count": 700,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة مع مساحات خضراء ومناطق ألعاب ومقاعد جلوس مريحة",
+    "perfect_for": [
+      "عوائل",
+      "تنزه"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حديقة الأندلس",
+    "name_en": "Al Andalus Park",
+    "category": "طبيعة",
+    "rating": 4.1,
+    "rating_count": 600,
+    "phone": null,
+    "hours": {
+      "sun": "24 ساعة",
+      "mon": "24 ساعة",
+      "tue": "24 ساعة",
+      "wed": "24 ساعة",
+      "thu": "24 ساعة",
+      "fri": "24 ساعة",
+      "sat": "24 ساعة"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "حديقة بتصميم أندلسي جميل مع نوافير ومساحات خضراء هادئة",
+    "perfect_for": [
+      "تنزه",
+      "هدوء",
+      "تصوير"
+    ],
+    "price_level": "مجاني",
+    "address_ar": "الرياض",
+    "entry_fee": "مجاني",
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "بقلاوة كافيه",
+    "name_en": "Baklawa Coffee",
+    "category": "حلويات",
+    "rating": 4.1,
+    "rating_count": 500,
+    "phone": "+966550038901",
+    "hours": {
+      "sun": "8:00 AM - 11:00 PM",
+      "mon": "8:00 AM - 11:00 PM",
+      "tue": "8:00 AM - 11:00 PM",
+      "wed": "8:00 AM - 11:00 PM",
+      "thu": "8:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "8:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@baklawa_coffee",
+    "description_ar": "كافيه يجمع بين القهوة العربية والبقلاوة الطازجة بأجواء تراثية",
+    "perfect_for": [
+      "قهوة",
+      "ضيافة"
+    ],
+    "price_level": "$",
+    "address_ar": "حي الملز، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "حلويات الكرامة",
+    "name_en": "Al Karamah Sweets",
+    "category": "حلويات",
+    "rating": 4.0,
+    "rating_count": 600,
+    "phone": "+966550039012",
+    "hours": {
+      "sun": "8:00 AM - 11:00 PM",
+      "mon": "8:00 AM - 11:00 PM",
+      "tue": "8:00 AM - 11:00 PM",
+      "wed": "8:00 AM - 11:00 PM",
+      "thu": "8:00 AM - 12:00 AM",
+      "fri": "2:00 PM - 12:00 AM",
+      "sat": "8:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@alkaramah_sweets",
+    "description_ar": "محل حلويات شرقية يقدم بقلاوة وكنافة ومعجنات بأسعار شعبية",
+    "perfect_for": [
+      "ضيافة",
+      "عوائل"
+    ],
+    "price_level": "$",
+    "address_ar": "حي السويدي، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "الراشد مول",
+    "name_en": "Al Rashid Mall",
+    "category": "تسوق",
+    "rating": 4.1,
+    "rating_count": 5000,
+    "phone": "+966114633333",
+    "hours": {
+      "sun": "10:00 AM - 11:00 PM",
+      "mon": "10:00 AM - 11:00 PM",
+      "tue": "10:00 AM - 11:00 PM",
+      "wed": "10:00 AM - 11:00 PM",
+      "thu": "10:00 AM - 12:00 AM",
+      "fri": "1:00 PM - 12:00 AM",
+      "sat": "10:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": "@alrashidmall",
+    "description_ar": "مول محلي يضم محلات متنوعة ومنطقة مطاعم ومصلى",
+    "perfect_for": [
+      "تسوق",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي المربع، الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  },
+  {
+    "name": "سوق البطحاء",
+    "name_en": "Al Batha Souq",
+    "category": "تسوق",
+    "rating": 3.9,
+    "rating_count": 4000,
+    "phone": null,
+    "hours": {
+      "sun": "8:00 AM - 11:00 PM",
+      "mon": "8:00 AM - 11:00 PM",
+      "tue": "8:00 AM - 11:00 PM",
+      "wed": "8:00 AM - 11:00 PM",
+      "thu": "8:00 AM - 12:00 AM",
+      "fri": "4:00 PM - 12:00 AM",
+      "sat": "8:00 AM - 12:00 AM"
+    },
+    "website": null,
+    "instagram": null,
+    "description_ar": "سوق شعبي كبير في قلب الرياض يضم إلكترونيات وملابس وعطور بأسعار منخفضة",
+    "perfect_for": [
+      "تسوق شعبي",
+      "أسعار رخيصة"
+    ],
+    "price_level": "$",
+    "address_ar": "حي البطحاء، وسط الرياض",
+    "entry_fee": null,
+    "kid_friendly": true,
+    "family_friendly": true
+  }
+]

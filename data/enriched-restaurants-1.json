@@ -1,0 +1,3854 @@
+[
+  {
+    "name": "ميس كافيه",
+    "name_en": "Miss Cafe",
+    "id": "miss-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "مقهى مريح بأسعار متوسطة وأجواء هادئة، مناسب للجلسات الطويلة والتجمعات النسائية",
+    "perfect_for": [
+      "نسائي",
+      "جلسات هادئة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "لافندر كافيه",
+    "name_en": "Lavender Ladies Cafe",
+    "id": "lavender-ladies-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه وإفطار",
+    "description_ar": "مكان راقٍ يقدم قهوة مختصة وإفطار صباحي مميز مع خصوصية رائعة",
+    "perfect_for": [
+      "نسائي",
+      "إفطار",
+      "خصوصية"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "قهوة بوح",
+    "name_en": "Qahwat Bouh",
+    "id": "qahwat-bouh",
+    "rating": 4.5,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة شعبية",
+    "description_ar": "أجواء هادئة مع مشروبات شعبية وشتوية أبرزها السحلب والشاي على الجمر",
+    "perfect_for": [
+      "شعبي",
+      "شتاء",
+      "جلسات"
+    ],
+    "price_level": "$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "بلكوني كافيه",
+    "name_en": "Balcony Cafe",
+    "id": "balcony-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": "+966551363385",
+    "hours": null,
+    "website": "https://menus.balconycafesa.com/",
+    "instagram": "@balconycafesa",
+    "cuisine": "كافيه",
+    "description_ar": "جلسات عائلية راقية وتصميم عصري وموقع مميز يجعله مناسبًا للتجمعات العائلية",
+    "perfect_for": [
+      "عوائل",
+      "جلسات خارجية"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي اليرموك، الرياض"
+  },
+  {
+    "name": "كوريزيا لاونج",
+    "name_en": "Chorisia Lounge",
+    "id": "chorisia-lounge",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "لاونج ومشروبات",
+    "description_ar": "أجواء رومانسية وسط الأشجار مع جلسات هادئة، مثالي للقاءات المسائية",
+    "perfect_for": [
+      "رومانسي",
+      "جلسات مسائية"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "زعفران لاونج",
+    "name_en": "Zafran Lounge",
+    "id": "zafran-lounge",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": "+966115622229",
+    "hours": {
+      "sun": "12:30-00:30",
+      "mon": "12:30-00:30",
+      "tue": "12:30-00:30",
+      "wed": "12:30-00:30",
+      "thu": "12:30-01:00",
+      "fri": "12:30-01:00",
+      "sat": "12:30-00:30"
+    },
+    "website": "https://zafranrestaurants.com/",
+    "instagram": "@zafranindianbistro",
+    "cuisine": "هندي",
+    "description_ar": "إطلالة ساحرة ومزيج بين الجلسات الخارجية الفاخرة والمأكولات العالمية",
+    "perfect_for": [
+      "عوائل",
+      "مناسبات",
+      "رومانسي"
+    ],
+    "price_level": "$$$",
+    "address_ar": "روبين بلازا، الطابق الأرضي، حي حطين، الرياض"
+  },
+  {
+    "name": "سكاي فيو كوفي",
+    "name_en": "Sky View Coffee",
+    "id": "sky-view-coffee",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "إطلالة عالية ومشروبات قهوة مميزة مثالي للسهرات الراقية",
+    "perfect_for": [
+      "صور",
+      "إطلالة"
+    ],
+    "price_level": "$$$",
+    "address_ar": "برج الفيصلية، حي العليا، الرياض"
+  },
+  {
+    "name": "كافيه كابيو دييم",
+    "name_en": "Carpe Diem Cafe",
+    "id": "carpe-diem-cafe",
+    "rating": 4.1,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "متاح به خدمات ألعاب متنوعة مع مشروبات ووجبات لذيذة",
+    "perfect_for": [
+      "دراسة",
+      "عمل"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "كافيه فانز اب",
+    "name_en": "Fans Up Cafe",
+    "id": "fans-up-cafe",
+    "rating": 4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه رياضي",
+    "description_ar": "يقدم البلاك كوفي الرائع مع تصميم مريح وجلسات خارجية",
+    "perfect_for": [
+      "شباب",
+      "رياضة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "كافيه الرغوة البيضاء",
+    "name_en": "White Foam Cafe",
+    "id": "white-foam-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "مكان هادئ جداً مناسب للمذاكرة أو العمل بدون تجمعات كثيرة",
+    "perfect_for": [
+      "جلسات هادئة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "كافيه فرساي",
+    "name_en": "Versailles Cafe",
+    "id": "versailles-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": "+966114703853",
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه فرنسي",
+    "description_ar": "كافيه فخم يقدم فطور شهي مع جلسات خارجية ومشروبات متنوعة",
+    "perfect_for": [
+      "رومانسي",
+      "صور",
+      "نسائي"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "ايرث كافيه",
+    "name_en": "Urth Cafe Riyadh",
+    "id": "urth-cafe-riyadh",
+    "rating": 4.1,
+    "rating_count": null,
+    "phone": "+966920007498",
+    "hours": {
+      "sun": "07:00-01:00",
+      "mon": "07:00-01:00",
+      "tue": "07:00-01:00",
+      "wed": "07:00-01:00",
+      "thu": "07:00-02:00",
+      "fri": "07:00-02:00",
+      "sat": "07:00-01:00"
+    },
+    "website": "https://www.urthcaffe.sa/",
+    "instagram": "@urthcaffesaudi",
+    "cuisine": "كافيه صحي وعضوي",
+    "description_ar": "كافيه أمريكي بتصميم مختلف وراقي مع وجبات ومشروبات مميزة",
+    "perfect_for": [
+      "عوائل",
+      "إفطار",
+      "صحي",
+      "عمل"
+    ],
+    "price_level": "$$",
+    "address_ar": "شارع التحلية، حي السليمانية، الرياض"
+  },
+  {
+    "name": "ايريك قيصر كافيه",
+    "name_en": "Eric Kayser Cafe",
+    "id": "eric-kayser-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": "+966112535512",
+    "hours": {
+      "sun": "07:00-00:00",
+      "mon": "07:00-00:00",
+      "tue": "07:00-00:00",
+      "wed": "07:00-00:00",
+      "thu": "07:00-01:00",
+      "fri": "07:00-01:00",
+      "sat": "07:00-00:00"
+    },
+    "website": "https://erickayser.sa/",
+    "instagram": "@erickayserksa",
+    "cuisine": "فرنسي - مخبوزات",
+    "description_ar": "كافيه فرنسي يقدم أشهى الحلويات والمخبوزات والمشروبات الرائعة",
+    "perfect_for": [
+      "إفطار",
+      "عوائل",
+      "عمل"
+    ],
+    "price_level": "$$$",
+    "address_ar": "غرناطة مول، حي العليا، الرياض"
+  },
+  {
+    "name": "شكسبير اند كو",
+    "name_en": "Shakespeare & Co",
+    "id": "shakespeare-and-co",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": "+966112485111",
+    "hours": {
+      "sun": "08:00-01:30",
+      "mon": "08:00-01:30",
+      "tue": "08:00-01:30",
+      "wed": "08:00-01:30",
+      "thu": "08:00-02:00",
+      "fri": "08:00-02:00",
+      "sat": "08:00-01:30"
+    },
+    "website": "https://www.shakespeare-and-co.com/",
+    "instagram": "@shakespeareksa",
+    "cuisine": "كافيه متعدد المأكولات",
+    "description_ar": "كافيه عائلي يقدم حلويات لذيذة ومشروبات رائعة مع القهوة اللذيذة",
+    "perfect_for": [
+      "عوائل",
+      "مناسبات",
+      "جلسات خارجية"
+    ],
+    "price_level": "$$$",
+    "address_ar": "شارع التحلية، حي العليا، الرياض 12213"
+  },
+  {
+    "name": "عنوان القهوة",
+    "name_en": "Unwan Al Qahwa",
+    "id": "unwan-al-qahwa",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "يقدم مشروبات القهوة بطرق ابتكارية مع أطعمة مختلفة وتحلية رائعة",
+    "perfect_for": [
+      "قهوة",
+      "هدوء"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "جورميه كافيه",
+    "name_en": "Gourmet Cafe",
+    "id": "gourmet-cafe",
+    "rating": 4.1,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومأكولات خفيفة",
+    "description_ar": "كافيه عائلي بأسعار مقبولة ووجبات لذيذة مع جلسات داخلية وخارجية",
+    "perfect_for": [
+      "عوائل",
+      "إفطار"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "سلالات القهوة",
+    "name_en": "Salalat Al Qahwa",
+    "id": "salalat-al-qahwa",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "كافيه مشهور يقدم القهوة بطرق مختلفة ونكهات رائعة مع خدمة مميزة",
+    "perfect_for": [
+      "قهوة",
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "كافيه الكنغر الذهبي",
+    "name_en": "Golden Kangaroo Cafe",
+    "id": "golden-kangaroo-cafe",
+    "rating": 4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه بطابع أمريكي مميز مع ديكور كلاسيكي وأسعار مناسبة",
+    "perfect_for": [
+      "شباب"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "بقشة كافيه",
+    "name_en": "Boqsha Cafe",
+    "id": "boqsha-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه شعبي",
+    "description_ar": "كافيه فرنسي يقدم سندوتشات ومشروبات وحلويات عالمية بطراز فخم شعبي",
+    "perfect_for": [
+      "شعبي",
+      "تراثي"
+    ],
+    "price_level": "$$",
+    "address_ar": "الدرعية، الرياض"
+  },
+  {
+    "name": "سزلر هاوس",
+    "name_en": "Sizzler House",
+    "id": "sizzler-house",
+    "rating": 4.1,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "ستيك وبرجر",
+    "description_ar": "يقدم مأكولات أمريكية ومكسيكية ومشروبات وحلوى مميزة للعائلات",
+    "perfect_for": [
+      "شباب",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي السليمانية، الرياض"
+  },
+  {
+    "name": "روما كافيه",
+    "name_en": "Roma Cafe",
+    "id": "roma-cafe",
+    "rating": 4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه إيطالي",
+    "description_ar": "كافيه إيطالي يقدم القهوة الرائعة بتصميم بسيط وموقع رائع",
+    "perfect_for": [
+      "رومانسي",
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي اليرموك، الرياض"
+  },
+  {
+    "name": "رشفة خواطر كافيه",
+    "name_en": "Rashfat Khawatir Cafe",
+    "id": "rashfat-khawatir-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه عربي",
+    "description_ar": "كافيه نسائي يقدم قهوة عربية وحلويات إيطالية بأجواء مميزة",
+    "perfect_for": [
+      "جلسات هادئة",
+      "قراءة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الوادي، الرياض"
+  },
+  {
+    "name": "مقهى غوان",
+    "name_en": "Ghwan Cafe",
+    "id": "ghwan-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "مقهى نسائي بتصميم راقي يجمع الماضي والحاضر مع مشروبات مميزة",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "جوديفا كافيه",
+    "name_en": "Godiva Cafe",
+    "id": "godiva-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": {
+      "sun": "10:00-23:00",
+      "mon": "10:00-23:00",
+      "tue": "10:00-23:00",
+      "wed": "10:00-23:00",
+      "thu": "10:00-00:00",
+      "fri": "14:00-00:00",
+      "sat": "10:00-00:00"
+    },
+    "website": "https://www.godiva.com/",
+    "instagram": "@godiva",
+    "cuisine": "شوكولاتة ومشروبات",
+    "description_ar": "كافيه متخصص بالحلويات والشوكولا البلجيكية الفاخرة ومشروبات الشوكولا الساخنة",
+    "perfect_for": [
+      "رومانسي",
+      "هدايا",
+      "حلويات"
+    ],
+    "price_level": "$$$",
+    "address_ar": "بجوار مستشفى الحبيب، حي الرحمانية، الرياض"
+  },
+  {
+    "name": "كرك غلام كافيه",
+    "name_en": "Karak Ghulam Cafe",
+    "id": "karak-ghulam-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "شاي كرك وكافيه",
+    "description_ar": "يقدم أصناف شهية متنوعة مع جلسات خارجية وداخلية ومشروبات مميزة",
+    "perfect_for": [
+      "شعبي",
+      "شباب"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "جوي كافيه",
+    "name_en": "Joy Cafe",
+    "id": "joy-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": "+966582623153",
+    "hours": {
+      "sun": "09:00-00:00",
+      "mon": "09:00-00:00",
+      "tue": "09:00-00:00",
+      "wed": "09:00-00:00",
+      "thu": "09:00-00:00",
+      "fri": "09:00-00:00",
+      "sat": "09:00-00:00"
+    },
+    "website": null,
+    "instagram": "@joy_cafe_ksa",
+    "cuisine": "كافيه ومعجنات",
+    "description_ar": "قائمة غنية بأشهى الأطباق للفطور والغداء مع حلا ومشروبات مميزة",
+    "perfect_for": [
+      "عوائل",
+      "إفطار"
+    ],
+    "price_level": "$$",
+    "address_ar": "ذا زون، حي العليا، الرياض"
+  },
+  {
+    "name": "هاردي كافيه",
+    "name_en": "Hardy Cafe",
+    "id": "hardy-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كوفي جديد يملك محمصة قهوة عربية بخدمة ممتازة وكيكة التمر اللذيذة",
+    "perfect_for": [
+      "شباب",
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "أوربن قرايند",
+    "name_en": "Urban Grind",
+    "id": "urban-grind",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "مقهى بديكور كلاسيكي وغريب مع قهوة مقطرة لذيذة وجلسات خارجية",
+    "perfect_for": [
+      "عمل",
+      "دراسة",
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "رويال تشيز كيك لاونج",
+    "name_en": "Royal Cheesecake Lounge",
+    "id": "royal-cheesecake-lounge",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "حلويات وتشيز كيك",
+    "description_ar": "أجواء هادئة مع قهوة إيطالية وفرنسية وحلويات تشيز كيك رائعة",
+    "perfect_for": [
+      "حلويات",
+      "رومانسي"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "اون تايم كافيه",
+    "name_en": "On Time Cafe",
+    "id": "on-time-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "مكان فخم مع جلسات عائلية ومطربين ومغنين وأسعار معقولة",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "كافيه جاز",
+    "name_en": "Jaz Cafe",
+    "id": "jaz-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "مكان هادئ وصغير بديكور كلاسيك مع قهوة لذيذة ودونتس رائعة",
+    "perfect_for": [
+      "شباب",
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي اليرموك، الرياض"
+  },
+  {
+    "name": "بيكو لاونج",
+    "name_en": "Pico Lounge",
+    "id": "pico-lounge",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "لاونج",
+    "description_ar": "كافيه هادئ بإضاءة خافتة مع موسيقى تشعرك بالعزلة عن المدينة",
+    "perfect_for": [
+      "جلسات مسائية",
+      "رومانسي"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي السليمانية، الرياض"
+  },
+  {
+    "name": "ريسيبي كافيه",
+    "name_en": "Recipe Cafe",
+    "id": "recipe-cafe",
+    "rating": 4.1,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومأكولات",
+    "description_ar": "كوفي ممتاز مع حلى متنوع يقع على طريق الملك عبدالعزيز",
+    "perfect_for": [
+      "عوائل",
+      "إفطار"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الوادي، الرياض"
+  },
+  {
+    "name": "اودوري كافيه",
+    "name_en": "Odore Caffe",
+    "id": "odore-caffe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه إيطالي",
+    "description_ar": "قهوة لذيذة بديكور مريح ومكان هادئ مع مكان مخصص للمدخنين",
+    "perfect_for": [
+      "قهوة",
+      "رومانسي"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "عود كافيه",
+    "name_en": "Oud Cafe",
+    "id": "oud-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه عربي",
+    "description_ar": "كوفي هادي بأجواء طربية حلوه مع أدوات القهوة المختصة وأكواب",
+    "perfect_for": [
+      "تراثي",
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "موش كافيه",
+    "name_en": "Moosh Cafe",
+    "id": "moosh-cafe",
+    "rating": 4.5,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "من أفضل كافيهات الياسمين مفتوح 24 ساعة مع بستاشيو لاتيه أسطوري",
+    "perfect_for": [
+      "جلسات هادئة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "قهوة كاريبو",
+    "name_en": "Caribou Coffee",
+    "id": "caribou-coffee",
+    "rating": 4.1,
+    "rating_count": null,
+    "phone": null,
+    "hours": {
+      "sun": "06:00-01:00",
+      "mon": "06:00-01:00",
+      "tue": "06:00-01:00",
+      "wed": "06:00-01:00",
+      "thu": "06:00-01:00",
+      "fri": "06:00-01:00",
+      "sat": "06:00-01:00"
+    },
+    "website": "https://www.cariboucoffee.com/",
+    "instagram": "@cariboucoffeesa",
+    "cuisine": "قهوة أمريكية",
+    "description_ar": "سلسلة عالمية بتنوع كبير وجلسات مريحة خصوصاً بالنهار",
+    "perfect_for": [
+      "عمل",
+      "دراسة",
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي القدس، الطريق الدائري الشرقي، الرياض"
+  },
+  {
+    "name": "المذاق المغربي",
+    "name_en": "Moroccan Taste Cafe",
+    "id": "moroccan-taste-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "مغربي",
+    "description_ar": "مشهور بالشاي المغربي والعراقي بعدة فروع وأسعار مناسبة جداً",
+    "perfect_for": [
+      "عوائل",
+      "تراثي"
+    ],
+    "price_level": "$",
+    "address_ar": "حي الحمراء، الرياض"
+  },
+  {
+    "name": "نرد كافيه",
+    "name_en": "Nard Cafe",
+    "id": "nard-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه وألعاب",
+    "description_ar": "مقهى نسائي بديكورات رائعة وألعاب تفاعلية رايق للعمل أو الدراسة",
+    "perfect_for": [
+      "شباب",
+      "ألعاب"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "قيراط كافيه",
+    "name_en": "Qirat Cafe",
+    "id": "qirat-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "مكان هادئ وصغير بقهوة مختصة وكتب مناسب للدراسة",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "قهوة تونز",
+    "name_en": "Tones Coffee",
+    "id": "tones-coffee",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "محل صغير مميز يستخدم حليب طازج يومي مع لاتيه رائع",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "كرييتيف كيك كافيه",
+    "name_en": "Creative Cakes Cafe",
+    "id": "creative-cakes-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "حلويات وكيك",
+    "description_ar": "متخصص بالكيك والتشيز كيك الفاخر مع شاي وقهوة",
+    "perfect_for": [
+      "حلويات",
+      "مناسبات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الوادي، الرياض"
+  },
+  {
+    "name": "اي بليس بيكهاوس",
+    "name_en": "A Place Bakehouse",
+    "id": "a-place-bakehouse",
+    "rating": 4.5,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "مخبوزات وقهوة",
+    "description_ar": "مقهى جديد هادئ قرب طريق الملك فهد بكرواسون طازج وقهوة حرفية",
+    "perfect_for": [
+      "إفطار",
+      "مخبوزات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "بيسمنترز كوفي",
+    "name_en": "Basementers Coffee",
+    "id": "basementers-coffee",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "مقهى مضيء مزين بالورود مثالي للأصدقاء أو القهوة السريعة للعمل",
+    "perfect_for": [
+      "قهوة",
+      "شباب"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "تشو كافيه",
+    "name_en": "Cho Cafe",
+    "id": "cho-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "شوكولاتة ومشروبات",
+    "description_ar": "ابتسامة الطبيعة - مقهى بجدران خضراء مع فلات وايت وماتشا وكعكات",
+    "perfect_for": [
+      "حلويات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "كب تو قو",
+    "name_en": "Cup To Go",
+    "id": "cup-to-go",
+    "rating": 4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة سريعة",
+    "description_ar": "خدمة سريعة مع قهوة وبراونيز وسينابون رول وكوكيز",
+    "perfect_for": [
+      "سريع"
+    ],
+    "price_level": "$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "إلكت",
+    "name_en": "ELCT",
+    "id": "elct",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "حلويات ديكادنت مع مشروبات ساخنة وتشورروز متعددة الفروع",
+    "perfect_for": [
+      "قهوة",
+      "عمل"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "إنيكاس",
+    "name_en": "Enekas",
+    "id": "enekas",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "ديكور أنيق بألوان أبيض ورمادي مع تيراميسو ضخم شهير على السوشيال",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "إيا سبشلتي كوفي",
+    "name_en": "Eya Specialty Coffee",
+    "id": "eya-specialty-coffee",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "مقهى جديد قرب طريق الملك عبدالله بلاتيه مخملي وأرضيات فسيفسائية",
+    "perfect_for": [
+      "قهوة",
+      "هدوء"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "حكوة كافيه",
+    "name_en": "Hakwah Cafe",
+    "id": "hakwah-cafe",
+    "rating": 4.1,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه عربي",
+    "description_ar": "كافيه جديد مع قهوة وكوكيز وجلسات بشكل جمل مميزة للتصوير",
+    "perfect_for": [
+      "تراثي",
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "هزّة كافيه",
+    "name_en": "Hazza Cafe",
+    "id": "hazza-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "أبواب ونوافذ خشبية تنقلك لأيام السعودية القديمة مع قهوة ممتازة",
+    "perfect_for": [
+      "شباب"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "هيذر كافيه",
+    "name_en": "Heather Cafe",
+    "id": "heather-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "ديكور بيج وكريمي بجلسات داخلية وخارجية مع كرواسون وكعكات",
+    "perfect_for": [
+      "جلسات هادئة",
+      "نسائي"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "لوكايس",
+    "name_en": "Locais",
+    "id": "locais",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "نوافذ من الأرض للسقف مع تصميم حجري وجلسات متعددة ومعجنات",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "ميك كوفي",
+    "name_en": "Make Coffee",
+    "id": "make-coffee",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "كوكيز ذائبة وحلويات في كوب وسندويشات دسمة بجلسات مريحة",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "أو تو كافيه",
+    "name_en": "O2 Cafe",
+    "id": "o2-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "مقهى بتصميم حديقة داخلية مع سافرون لاتيه وكنافة تشيز كيك",
+    "perfect_for": [
+      "جلسات",
+      "شباب"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "ريض كوفي",
+    "name_en": "Riyd Coffee",
+    "id": "riyd-coffee",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة سعودية مختصة",
+    "description_ar": "مقهى أنيق صغير بمعجنات بلمسة محلية مع تمر وتصميم عصري",
+    "perfect_for": [
+      "قهوة",
+      "محلي"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "صدى كوفي",
+    "name_en": "Sada Coffee",
+    "id": "sada-coffee",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "أجواء مجتمع القهوة بتصميم صناعي شيك مع صور بولارويد للفريق",
+    "perfect_for": [
+      "قهوة",
+      "هدوء"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "ساجية كوفي",
+    "name_en": "Sajiah Coffee",
+    "id": "sajiah-coffee",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "قسم حلويات خاص مع أفوغاتو وشاي كركديه مثلج وتصميم أنيق",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "تاريث",
+    "name_en": "Tarith",
+    "id": "tarith",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه تراثي",
+    "description_ar": "سوفت سيرف استثنائي وحلويات رائعة مع مشروبات قهوة متنوعة",
+    "perfect_for": [
+      "تراثي"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "تيلوس كوفي",
+    "name_en": "Tellus Roasters",
+    "id": "tellus-roasters",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "محمصة قهوة",
+    "description_ar": "محمصة قهوة بلمسات أفريقية وفن ملون ونوافذ كبيرة وأجواء فسيحة",
+    "perfect_for": [
+      "قهوة",
+      "محمصة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "تلادو",
+    "name_en": "Tlado",
+    "id": "tlado",
+    "rating": 4.1,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "شاي مثلج مميز بتصميم أزرق لامع ونيون مع أجواء شبابية",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "فاليو كافيه",
+    "name_en": "Value Cafe",
+    "id": "value-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه اقتصادي",
+    "description_ar": "مقهى عصري بسقوف عالية وإضاءة طبيعية مع لاتيه وتارت وكيك",
+    "perfect_for": [
+      "اقتصادي"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "اير سبشلتي كوفي",
+    "name_en": "Air Specialty Coffee",
+    "id": "air-specialty-coffee",
+    "rating": 4.5,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "قهوة متوازنة مع بور اوفر ولاتيه في أجواء هادئة مثالية للعمل",
+    "perfect_for": [
+      "قهوة",
+      "عمل",
+      "دراسة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الورود، الرياض"
+  },
+  {
+    "name": "أوكر كوفي",
+    "name_en": "Oker Coffee",
+    "id": "oker-coffee",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "كوفي جديد مختص بالسينابون مع سينابون لوتس لذيذ جداً",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "اكسيز كوفي",
+    "name_en": "Axes Coffee",
+    "id": "axes-coffee",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "كوفي جميل وجديد في حي الياسمين بأجواء رائعة",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "كوستا كوفي",
+    "name_en": "Costa Coffee",
+    "id": "costa-coffee",
+    "rating": 4.1,
+    "rating_count": 2665,
+    "phone": "+966126527923",
+    "hours": {
+      "sun": "00:00-24:00",
+      "mon": "00:00-24:00",
+      "tue": "00:00-24:00",
+      "wed": "00:00-24:00",
+      "thu": "00:00-24:00",
+      "fri": "00:00-24:00",
+      "sat": "00:00-24:00"
+    },
+    "website": "https://costaksa.com/en",
+    "instagram": "@costacoffee_sa",
+    "cuisine": "قهوة بريطانية",
+    "description_ar": "سلسلة بريطانية عالمية منتشرة في الرياض مع قهوة متميزة وأجواء عمل",
+    "perfect_for": [
+      "عمل",
+      "دراسة",
+      "قهوة",
+      "سريع"
+    ],
+    "price_level": "$$",
+    "address_ar": "شارع التحلية الشرقي، حي العليا، الرياض 12222"
+  },
+  {
+    "name": "ذا روستنج هاوس",
+    "name_en": "The Roasting House",
+    "id": "the-roasting-house",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "محمصة قهوة",
+    "description_ar": "محمصة بحبوب قهوة محمصة بكميات صغيرة في أجواء مريحة",
+    "perfect_for": [
+      "قهوة",
+      "محمصة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي السليمانية، الرياض"
+  },
+  {
+    "name": "أطياف الكيف",
+    "name_en": "Atyaf Al Keif",
+    "id": "atyaf-al-keif",
+    "rating": 4.1,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه عربي",
+    "description_ar": "كافيه أمريكي يتميز بالخصوصية مناسب للعائلات والأصدقاء مع موسيقى",
+    "perfect_for": [
+      "شعبي",
+      "تراثي"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "بيلو كافيه",
+    "name_en": "Bello Cafe",
+    "id": "bello-cafe",
+    "rating": 4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "يقدم أكلات عالمية مع حلويات رائعة مناسب للعائلات",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "شمالات كافيه",
+    "name_en": "Shamalat Cafe",
+    "id": "shamalat-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه شمالي",
+    "description_ar": "قهوة سعودية وشاي مع فطائر طازجة بجلسات تطل على مطل البجيري",
+    "perfect_for": [
+      "شعبي"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "وجار كافيه",
+    "name_en": "Wijar Cafe",
+    "id": "wijar-cafe",
+    "rating": 4.5,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه في فندق باب سمحان بأجواء خيالية وقهوة مضبوطة",
+    "perfect_for": [
+      "جلسات هادئة"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "بيتس كوفي الدرعية",
+    "name_en": "Peets Coffee Diriyah",
+    "id": "peets-coffee-diriyah",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": "https://www.peets.com/",
+    "instagram": "@peetscoffee",
+    "cuisine": "قهوة أمريكية مختصة",
+    "description_ar": "سلسلة قهوة أمريكية عريقة في مجمع الزلال الجديد بالدرعية",
+    "perfect_for": [
+      "قهوة",
+      "سياحة"
+    ],
+    "price_level": "$$",
+    "address_ar": "البجيري تراس، الدرعية، الرياض"
+  },
+  {
+    "name": "مقاهي مجمع الزلال",
+    "name_en": "Zalal Complex Cafe",
+    "id": "zalal-complex-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "مجمع جديد بعدة مقاهي ومطاعم يطل على مطل البجيري التاريخي",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "مجمع الزلال، حي العقيق، الرياض"
+  },
+  {
+    "name": "المختار كافيه",
+    "name_en": "Al Mukhtar Cafe",
+    "id": "al-mukhtar-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه عربي",
+    "description_ar": "مقهى شعبي أصيل بجلسات عربية تقليدية مع شاي وقهوة سعودية",
+    "perfect_for": [
+      "شعبي"
+    ],
+    "price_level": "$",
+    "address_ar": "حي الشفا، الرياض"
+  },
+  {
+    "name": "كلاود ناين كوفي",
+    "name_en": "Cloud 9 Coffee",
+    "id": "cloud-9-coffee",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "قهوة مختصة بتصميم سحابي أبيض هادئ مناسب للدراسة والعمل",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "كيان كوفي",
+    "name_en": "Kyan Coffee",
+    "id": "kyan-coffee",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "محمصة محلية بحبوب مختارة بعناية مع تصميم مينمالست أنيق",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "بالم كوفي",
+    "name_en": "Palm Coffee",
+    "id": "palm-coffee",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "مقهى بتصميم استوائي مع نخيل ونباتات وقهوة مختصة ممتازة",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "فيرست شوت كوفي",
+    "name_en": "First Shot Coffee",
+    "id": "first-shot-coffee",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "قهوة مختصة من الجرعة الأولى بتصميم بسيط ومشروبات مبتكرة",
+    "perfect_for": [
+      "قهوة",
+      "سريع"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "ماقز كافيه",
+    "name_en": "Mugs Cafe",
+    "id": "mugs-cafe",
+    "rating": 4.1,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه دافئ بأكواب مميزة وقهوة لاتيه فاخرة ومعجنات طازجة",
+    "perfect_for": [
+      "جلسات",
+      "عمل"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "كوفي بار",
+    "name_en": "Koffi Bar",
+    "id": "koffi-bar",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "بار قهوة عصري بتصميم صناعي مع إسبريسو ممتاز وحلويات",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "مق لايف كافيه",
+    "name_en": "Mug Life Cafe",
+    "id": "mug-life-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه حياة القهوة بأجواء شبابية وقائمة مشروبات إبداعية",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "صنداي كوفي",
+    "name_en": "Sunday Coffee",
+    "id": "sunday-coffee",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "مقهى أحد هادئ للعطلات مع فطور وبرنش مميز وقهوة لذيذة",
+    "perfect_for": [
+      "قهوة",
+      "عطلة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "88 ديجريز كوفي",
+    "name_en": "88 Degrees Coffee",
+    "id": "88-degrees-coffee",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "محمصة مختصة بدرجة حرارة تحميص مثالية مع حبوب أفريقية ممتازة",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "سلسال كوفي",
+    "name_en": "Silsal Coffee",
+    "id": "silsal-coffee",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "مقهى بإلهام تراثي سعودي مع قهوة عربية وسعودية أصيلة",
+    "perfect_for": [
+      "قهوة",
+      "تراثي"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي السفارات، الرياض"
+  },
+  {
+    "name": "ذا كوفي كلب",
+    "name_en": "The Coffee Club",
+    "id": "the-coffee-club",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه أسترالي",
+    "description_ar": "سلسلة أسترالية بقائمة فطور شاملة وقهوة ممتازة ومقاعد مريحة",
+    "perfect_for": [
+      "إفطار",
+      "عمل"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "بول كافيه",
+    "name_en": "Paul Cafe",
+    "id": "paul-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": "+966115126811",
+    "hours": {
+      "sun": "07:00-01:00",
+      "mon": "07:00-01:00",
+      "tue": "07:00-01:00",
+      "wed": "07:00-01:00",
+      "thu": "07:00-02:00",
+      "fri": "07:00-02:00",
+      "sat": "07:00-01:00"
+    },
+    "website": "https://www.paul-bakery.com/",
+    "instagram": "@paularabia",
+    "cuisine": "فرنسي - مخبوزات",
+    "description_ar": "مخبز ومقهى فرنسي فاخر بكرواسون طازج وقهوة فرنسية أصيلة",
+    "perfect_for": [
+      "إفطار",
+      "عوائل",
+      "عمل",
+      "رومانسي"
+    ],
+    "price_level": "$$$",
+    "address_ar": "شارع التحلية، أكناز مول، حي العليا، الرياض"
+  },
+  {
+    "name": "كافيه فيرنيانو",
+    "name_en": "Caffe Vergnano",
+    "id": "caffe-vergnano",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": "https://caffevergnano.com/",
+    "instagram": "@caffevergnano1882",
+    "cuisine": "قهوة إيطالية",
+    "description_ar": "أقدم محمصة إيطالية في العالم منذ 1882 بإسبريسو مثالي",
+    "perfect_for": [
+      "قهوة",
+      "رومانسي"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "وركشوب كوفي",
+    "name_en": "Workshop Coffee",
+    "id": "workshop-coffee",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "ورشة القهوة بمعدات تحميص ظاهرة وقهوة فلتر ولاتيه مختص",
+    "perfect_for": [
+      "قهوة",
+      "عمل"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "أوريجن كوفي",
+    "name_en": "Origin Coffee",
+    "id": "origin-coffee",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة ومحمصة",
+    "description_ar": "قهوة من الأصل مع تتبع مصدر كل حبة وتحميص طازج يومي",
+    "perfect_for": [
+      "قهوة",
+      "محمصة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "ثيرد ويف كوفي",
+    "name_en": "Third Wave Coffee",
+    "id": "third-wave-coffee",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "موجة ثالثة من القهوة المختصة بطرق تحضير يدوية ومحمصة خاصة",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "سلو بار كوفي",
+    "name_en": "Slow Bar Coffee",
+    "id": "slow-bar-coffee",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "قهوة بطيئة بطرق بور اوفر مع حلويات خفيفة في أجواء زن",
+    "perfect_for": [
+      "قهوة",
+      "هدوء"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "بارن هاوس كافيه",
+    "name_en": "Barn House Cafe",
+    "id": "barn-house-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": "+966920006843",
+    "hours": null,
+    "website": "https://barns.com.sa/",
+    "instagram": "@barnscoffee",
+    "cuisine": "قهوة سعودية مختصة",
+    "description_ar": "مقهى بتصميم مزرعة ريفية مع قهوة لاتيه ومعجنات طازجة",
+    "perfect_for": [
+      "قهوة",
+      "سريع"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي السليمانية، الرياض"
+  },
+  {
+    "name": "تو شوتس كافيه",
+    "name_en": "Two Shots Cafe",
+    "id": "two-shots-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "جرعتين من الإسبريسو في كل كوب مع تصميم عصري وبسيط",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "ريتشوال كوفي",
+    "name_en": "Ritual Coffee",
+    "id": "ritual-coffee",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "طقوس القهوة اليومية مع حبوب مختارة وتحميص خاص بالمحل",
+    "perfect_for": [
+      "قهوة",
+      "هدوء"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "رو كوفي كومباني",
+    "name_en": "Raw Coffee Company",
+    "id": "raw-coffee-company",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة ومحمصة",
+    "description_ar": "قهوة خام بتحميص فاتح ومشروبات مثلجة مبتكرة في أجواء صناعية",
+    "perfect_for": [
+      "قهوة",
+      "محمصة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "فويد كوفي",
+    "name_en": "Void Coffee",
+    "id": "void-coffee",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "مساحة فارغة مليئة بالقهوة والإبداع بتصميم حديث ومينمالست",
+    "perfect_for": [
+      "قهوة",
+      "شباب"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "دوتس كافيه",
+    "name_en": "Dots Cafe",
+    "id": "dots-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "نقاط من القهوة المثالية بتصميم مبتكر ومشروبات إبداعية",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "طاقة كوفي",
+    "name_en": "Taqat Coffee",
+    "id": "taqat-coffee",
+    "rating": 4.1,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "طاقة يومك من القهوة المختصة بأسعار مناسبة وخدمة سريعة",
+    "perfect_for": [
+      "قهوة",
+      "طاقة"
+    ],
+    "price_level": "$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "سول كوفي",
+    "name_en": "Soul Coffee",
+    "id": "soul-coffee",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "روح القهوة المختصة بحبوب أثيوبية وكينية مع تحميص خفيف",
+    "perfect_for": [
+      "قهوة",
+      "هدوء"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "كب كافيه",
+    "name_en": "Cup Cafe",
+    "id": "cup-cafe",
+    "rating": 4.1,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كوب قهوة مثالي مع كوكيز طازج يومي وأجواء بسيطة ومريحة",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "نزل كافيه",
+    "name_en": "Nuzul Cafe",
+    "id": "nuzul-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه تراثي",
+    "description_ar": "مقهى تراثي في الدرعية بجلسات نجدية تقليدية مع قهوة سعودية",
+    "perfect_for": [
+      "تراثي",
+      "سياحة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "أبر كرست بيكري",
+    "name_en": "Upper Crust Bakery Cafe",
+    "id": "upper-crust-bakery-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "مخبوزات وقهوة",
+    "description_ar": "مخبز ومقهى بريطاني بكرواسون وسكون وكعكات مع قهوة فاخرة",
+    "perfect_for": [
+      "إفطار",
+      "مخبوزات"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي السفارات، الرياض"
+  },
+  {
+    "name": "بين آند غون",
+    "name_en": "Bean & Gone",
+    "id": "bean-and-gone",
+    "rating": 4.1,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة سريعة",
+    "description_ar": "قهوة سريعة للطريق بجودة مختصة وتصميم بسيط عملي",
+    "perfect_for": [
+      "سريع",
+      "قهوة"
+    ],
+    "price_level": "$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "غاذر كافيه",
+    "name_en": "Gather Cafe",
+    "id": "gather-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومأكولات",
+    "description_ar": "تجمع الأصدقاء على قهوة مختصة مع برنش وحلويات في أجواء دافئة",
+    "perfect_for": [
+      "عوائل",
+      "تجمعات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "كورنر كوفي",
+    "name_en": "Corner Coffee",
+    "id": "corner-coffee",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "زاوية القهوة المختصة بحي حطين مع جلسات خارجية هادئة",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "قهوة صحبة",
+    "name_en": "Qahwat Sohba",
+    "id": "qahwat-sohba",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة عربية",
+    "description_ar": "قهوة مختصة بأجواء مريحة في حي الملقا. يقدم الكورتادو والسبانيش لاتيه والكوكيز والبراونيز وكعكة العسل.",
+    "perfect_for": [
+      "شعبي",
+      "صحبة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "قهوة بيات",
+    "name_en": "Qahwat Bayat",
+    "id": "qahwat-bayat",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة عربية",
+    "description_ar": "كافيه بطابقين مع جلسات عائلية وبارتشن. يقدم قهوة مختصة وحلويات في أجواء هادئة.",
+    "perfect_for": [
+      "شعبي",
+      "بيات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "هوبرا كافيه",
+    "name_en": "Hobra Cafe",
+    "id": "hobra-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه على طريق أنس بن مالك في الملقا. يقدم مشروبات وحلويات متنوعة.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "ايلاركو كافيه",
+    "name_en": "Elarco Cafe",
+    "id": "elarco-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه في حي الملقا يقدم قهوة مختصة ومشروبات متنوعة.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "سراييفو كافيه",
+    "name_en": "Sarajevo Cafe",
+    "id": "sarajevo-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه بوسني",
+    "description_ar": "كافيه بطابع بوسني مميز في حي الملقا. يقدم القهوة البوسنية التقليدية والمشروبات.",
+    "perfect_for": [
+      "جلسات",
+      "تجربة ثقافية"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي السليمانية، الرياض"
+  },
+  {
+    "name": "روستاريتا كافيه",
+    "name_en": "Rostarita Cafe",
+    "id": "rostarita-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومحمصة",
+    "description_ar": "محمصة وكافيه في حي الملقا. يقدم قهوة طازجة التحميص ومشروبات مختصة.",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "كامبانيا دي كافيه",
+    "name_en": "Campania di Cafe",
+    "id": "campania-di-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه إيطالي",
+    "description_ar": "كافيه بطابع إيطالي في حي الملقا. يقدم قهوة إيطالية ومعجنات.",
+    "perfect_for": [
+      "رومانسي",
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "فاف كوفي",
+    "name_en": "FAV Coffee",
+    "id": "fav-coffee",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "كوفي جديد في حي الملقا. يقدم قهوة مختصة بأجواء عصرية.",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "كافيه رو",
+    "name_en": "Row Cafe",
+    "id": "row-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه على طريق تركي الأول في حي الملقا. يقدم قهوة مختصة وأجواء مريحة.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "أهلاً كافيه",
+    "name_en": "Ahlan Cafe",
+    "id": "ahlan-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه عربي",
+    "description_ar": "كافيه متخصص في الشاهي والكرك في حي الملقا.",
+    "perfect_for": [
+      "ضيافة",
+      "تراثي"
+    ],
+    "price_level": "$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "لفّة كافيه",
+    "name_en": "Laffah Cafe",
+    "id": "laffah-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه وفطائر",
+    "description_ar": "مطعم وكافيه في حي النخيل قريب من جامعة الملك سعود. يقدم فطور وكروسان وحلويات.",
+    "perfect_for": [
+      "إفطار",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "سوهو شوت",
+    "name_en": "Soho Shot",
+    "id": "soho-shot",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة سريعة",
+    "description_ar": "مقهى هادئ وحميمي في حي النخيل. ديكورات مبتكرة وأجواء فنية. يقدم آيس سبانيش لاتيه وبستاشيو لاتيه.",
+    "perfect_for": [
+      "سريع"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "كافيه توما",
+    "name_en": "Toma Cafe",
+    "id": "toma-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه بتصميم فني مبتكر في حي النخيل. مشروبات مبتكرة وقهوة عالية الجودة.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "زون 7 كافيه",
+    "name_en": "Zone 7 Cafe",
+    "id": "zone7-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "كافيه عصري في حي النخيل بأجواء مميزة.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النخيل"
+  },
+  {
+    "name": "راك كوفي",
+    "name_en": "Rack Coffee",
+    "id": "rack-coffee",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "من أجمل كافيهات حي النخيل. يقدم قهوة مختصة بأجواء مريحة.",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "لايف وذ كاكاو",
+    "name_en": "Life with Cacao",
+    "id": "life-with-cacao",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "شوكولاتة وكاكاو",
+    "description_ar": "كافيه في النخيل مول يقدم براوني ووافل وتشيز كيك وميلك شيك وهوت شوكلت.",
+    "perfect_for": [
+      "حلويات",
+      "شوكولاتة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي السليمانية، الرياض"
+  },
+  {
+    "name": "كافيه دنياسي",
+    "name_en": "Dunyasi Cafe",
+    "id": "dunyasi-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه تركي",
+    "description_ar": "كافيه تركي في النخيل مول. شوكولاتة فاخرة بالكيلو مع قهوة تركية وفرابتشينو.",
+    "perfect_for": [
+      "قهوة تركية",
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "كونشرتو كافيه",
+    "name_en": "Concerto Cafe",
+    "id": "concerto-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "من أشهر مقاهي لندن، فرع النخيل مول. يقدم سكونز طازج بالكريمة والشاي الفاخر وإكلير الشوكولاتة.",
+    "perfect_for": [
+      "جلسات",
+      "موسيقى"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "مولتن شوكلت كافيه",
+    "name_en": "Molten Chocolate Cafe",
+    "id": "molten-chocolate-nakheel",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "كافيه متخصص في الشوكولاتة الساخنة والحلويات بالشوكولاتة في النخيل مول.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "المغرزات - النخيل مول"
+  },
+  {
+    "name": "كور كافيه",
+    "name_en": "Core Cafe",
+    "id": "core-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه في النخيل مول يقدم قهوة مختصة ومشروبات متنوعة.",
+    "perfect_for": [
+      "عمل",
+      "دراسة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "مركاز كافيه",
+    "name_en": "Markaz Cafe",
+    "id": "markaz-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": "@markazcafeandlounge",
+    "cuisine": "كافيه",
+    "description_ar": "كافيه سعودي يقدم قهوة مختصة ومشروبات متنوعة في النخيل مول ويو ووك.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "ليتو كافيه",
+    "name_en": "Leto Cafe",
+    "id": "leto-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": {
+      "sun": "09:00-00:00",
+      "mon": "09:00-00:00",
+      "tue": "09:00-00:00",
+      "wed": "09:00-00:00",
+      "thu": "09:00-00:00",
+      "fri": "13:00-00:00",
+      "sat": "09:00-00:00"
+    },
+    "website": "https://letocaffe.com/",
+    "instagram": "@letocaffe",
+    "cuisine": "كافيه روسي",
+    "description_ar": "كافيه روسي فاخر يقدم حلويات عربية وأوروبية مع مشروبات متنوعة.",
+    "perfect_for": [
+      "حلويات",
+      "إفطار"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "جوز كافيه",
+    "name_en": "Joe's Cafe",
+    "id": "joes-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه أمريكي",
+    "description_ar": "كافيه بريطاني فاخر. يقدم التيراميسو وكيكة الزعفران وسبانيش لاتيه بارد وموهيتو.",
+    "perfect_for": [
+      "عمل",
+      "إفطار"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "اوفر دوز",
+    "name_en": "Overdose Cafe",
+    "id": "overdose-uwalk",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": "@overdosecoffeeksa",
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "كافيه في يو ووك يقدم سبانيش لاتيه وأمريكانو وآيسد ماتشا وسالتيد كاراميل. مفتوح من 6ص-1:30ص.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "يو ووك"
+  },
+  {
+    "name": "أوفر جار",
+    "name_en": "Over Jar",
+    "id": "over-jar",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه عائلي يقدم كريب ووافل وكوكيز بالشوكولاتة مع آيسكريم وكيك شوكولاتة.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "قهوة عزمي",
+    "name_en": "Qahwat Azmi",
+    "id": "qahwat-azmi",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة عربية",
+    "description_ar": "تجربة لبنانية أصيلة تمزج بين التراث والحداثة. ديكور مستوحى من بيوت بيروت القديمة.",
+    "perfect_for": [
+      "شعبي",
+      "ضيافة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "ايبي كافيه",
+    "name_en": "Ebi Cafe",
+    "id": "ebi-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه في يو ووك يقدم قهوة مختصة ومشروبات عصرية.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "بسكلته كافيه",
+    "name_en": "Biskleta Cafe",
+    "id": "biskleta-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه في يو ووك بتصميم مستوحى من الدراجات. مشروبات مختصة وحلويات.",
+    "perfect_for": [
+      "جلسات",
+      "صور"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "قهوة كندة",
+    "name_en": "Kindah Coffee",
+    "id": "kindah-coffee",
+    "rating": 4.5,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة سعودية",
+    "description_ar": "قهوة مختصة في حي الرمال. كابتشينو مضبوط وكيكة الزعفران اللذيذة. شباب سعوديون.",
+    "perfect_for": [
+      "قهوة",
+      "محلي"
+    ],
+    "price_level": "$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "ثوى كافيه",
+    "name_en": "Thawa Cafe",
+    "id": "thawa-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "من أجمل الكافيهات بحي الرمال. البودينق عندهم لذيذ. أجواء هادئة ومريحة.",
+    "perfect_for": [
+      "هدوء",
+      "قراءة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "قهوة جير",
+    "name_en": "Gear Coffee",
+    "id": "gear-coffee",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "كوفي مميز في حي الرمال شرق الرياض.",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي السليمانية، الرياض"
+  },
+  {
+    "name": "كافيه 24",
+    "name_en": "Cafe 24",
+    "id": "cafe-24-rimal",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "كافيه في حي الرمال شرق الرياض على طريق النجاح.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الرمال"
+  },
+  {
+    "name": "ريكس كوفي",
+    "name_en": "Rex Coffee",
+    "id": "rex-coffee",
+    "rating": 4.5,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "قهوة رائعة ومحترمة. فلات وايت كلام ثاني. مكان جميل ومريح والعاملين لطيفين.",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "مقهى الكمي للقهوة المختصة",
+    "name_en": "Al Kami Specialty Coffee",
+    "id": "alkami-coffee",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "قهوة مختصة بتصميم كلاسيكي واسع. الجلسات مريحة والموظفين مبتسمين. فلات وايت موزون.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الصحافة"
+  },
+  {
+    "name": "بلينك كافيه",
+    "name_en": "Blink Cafe",
+    "id": "blink-cafe",
+    "rating": 4.5,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "مكان صغير وهادئ. الهوت شوكلت والفلات وايت حلوه والكوكيز لايعلى عليه. الموظفين خلوقين.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "كافيه المجلس للقهوة العربية",
+    "name_en": "Al Majlis Arabic Coffee Cafe",
+    "id": "almajlis-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "كافيه هادئ وجميل متخصص في القهوة العربية الأصيلة والشاي. جلسات خاصة.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$",
+    "address_ar": "حي الصحافة"
+  },
+  {
+    "name": "هتن كافيه",
+    "name_en": "HTN Cafe",
+    "id": "htn-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه في حي الصحافة يقدم قهوة مختصة ومشروبات.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "ثري كافيه",
+    "name_en": "Three Cafe",
+    "id": "three-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه بإطلالة على المترو في حي الصحافة. قهوة مختصة ومشروبات متنوعة.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "صادق كافيه",
+    "name_en": "Sadiq Cafe",
+    "id": "sadiq-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "قهوة عربية أصيلة 24 ساعة. يقدم الحنيني والهوت شوكلت والبراوني مع الآيس كريم.",
+    "perfect_for": [
+      "جلسات هادئة"
+    ],
+    "price_level": "$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "صهيل كافيه",
+    "name_en": "Saheel Cafe",
+    "id": "saheel-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه لمحبي الفروسية والأناقة. يقدم آيس كركديه وبابكا شوكلت وكوكيز حساوي. رسمة فنية على القهوة.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "كافيه بترفلاي",
+    "name_en": "Butterfly Cafe",
+    "id": "butterfly-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "قهوة مختصة عالية الجودة مفتوح 24 ساعة. مكياتو وأمريكانو وكورتادو وموهيتو.",
+    "perfect_for": [
+      "نسائي",
+      "صور"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "كوفي كويفل",
+    "name_en": "Quifel Coffee",
+    "id": "quifel-coffee",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "كافيه بجلسات متنوعة ومبتكرة في الشفا. يقدم بان كيك وتارت كريم بروليه وكيكة الحليب.",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "أركان كافيه",
+    "name_en": "Arkan Cafe",
+    "id": "arkan-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه واسع مناسب للجمعات. جلسات أنيقة وحلويات ومشروبات لذيذة.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "دكتور كيف كافيه",
+    "name_en": "Dr. Kaif Cafe",
+    "id": "dr-kaif-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "كافيه مفتوح 24 ساعة على طريق الملك فهد. قهوة إثيوبية ومشروبات متنوعة.",
+    "perfect_for": [
+      "شباب",
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "قهوة نحاسية",
+    "name_en": "Nahasiya Coffee",
+    "id": "qahwat-nahasiya",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "كافيه في جنوب الرياض يقدم قهوة مختصة ومشروبات ساخنة وباردة.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$",
+    "address_ar": "جنوب الرياض"
+  },
+  {
+    "name": "قهوة سبس",
+    "name_en": "SBS Coffee",
+    "id": "qahwat-sbs",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "كافيه في منطقة شبرا جنوب الرياض يقدم قهوة مختصة.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$",
+    "address_ar": "شبرا - جنوب الرياض"
+  },
+  {
+    "name": "كوفي فيرست اكزت",
+    "name_en": "First Exit Coffee",
+    "id": "first-exit-coffee",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة سريعة",
+    "description_ar": "كافيه في جنوب الرياض يقدم قهوة مختصة ومشروبات عصرية.",
+    "perfect_for": [
+      "سريع",
+      "صباحي"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "توتي سفرجل كافيه",
+    "name_en": "Tutti Safarjal Cafe",
+    "id": "tutti-safarjal",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "كافيه في جنوب الرياض يقدم قهوة ومشروبات وحلويات متنوعة.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "جنوب الرياض"
+  },
+  {
+    "name": "سو ماتشا",
+    "name_en": "So Matcha",
+    "id": "so-matcha",
+    "rating": 4.6,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "ماتشا ومشروبات يابانية",
+    "description_ar": "كافيه متخصص بالماتشا واللاتيه. يستخدم ماتشا سيريمونيال غريد. فانيلا كولد فوم ماتشا وآيسكريم ماتشا سوفت سيرف.",
+    "perfect_for": [
+      "صحي",
+      "صور"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "بيك كافيه",
+    "name_en": "PICK Cafe",
+    "id": "pick-cafe",
+    "rating": 4.5,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه متخصص بالماتشا. مشروبات ماتشا وحلويات ماتشا متنوعة في أجواء عصرية.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "ارشي كافيه",
+    "name_en": "Archi Cafe",
+    "id": "archi-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه مخفي يقدم قهوة وماتشا وطعام طوال اليوم في أجواء عصرية مريحة.",
+    "perfect_for": [
+      "تصميم",
+      "صور"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "أون أوف كوفي",
+    "name_en": "ON OFF Coffee",
+    "id": "on-off-coffee",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "كافيه بأجواء مريحة يقدم ماتشا لاتيه غنية وكريمية وقهوة مختصة.",
+    "perfect_for": [
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "ايوتا كافيه",
+    "name_en": "Iota Cafe",
+    "id": "iota-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه يقدم ماتشا بالراسبيري وقهوة مختصة. مكان عصري ومريح.",
+    "perfect_for": [
+      "جلسات هادئة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "هجين كافيه",
+    "name_en": "Hjeen Cafe",
+    "id": "hjeen-cafe",
+    "rating": 4.5,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": "https://shop.hjeen.com/",
+    "instagram": "@hjeencoffee",
+    "cuisine": "كافيه سعودي",
+    "description_ar": "ماتشا آيسد لاتيه وماتشا سلاش الشهير. مزدحم يومياً من شدة الإقبال.",
+    "perfect_for": [
+      "تراثي",
+      "محلي"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "شاتايم",
+    "name_en": "Chatime",
+    "id": "chatime-riyadh",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "سلسلة تايوانية شهيرة لشاي الفقاعات تأسست 2005. أكثر من 1000 فرع عالمياً. فتح فرع الرياض في لوكالايزر مول.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "التحلية - لوكالايزر مول"
+  },
+  {
+    "name": "قونق تشا",
+    "name_en": "Gong Cha",
+    "id": "gong-cha",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": {
+      "sun": "10:00-00:00",
+      "mon": "10:00-00:00",
+      "tue": "10:00-00:00",
+      "wed": "10:00-00:00",
+      "thu": "10:00-00:00",
+      "fri": "13:00-01:00",
+      "sat": "10:00-00:00"
+    },
+    "website": "https://ksa-gongcha.com/",
+    "instagram": "@gongchaksa",
+    "cuisine": "ببل تي تايواني",
+    "description_ar": "سلسلة تايوانية لشاي الفقاعات والبوبا. فرع الرياض في ذا فيو مول.",
+    "perfect_for": [
+      "شباب",
+      "ببل تي"
+    ],
+    "price_level": "$$",
+    "address_ar": "ذا فيو مول أو ساسكو، الرياض"
+  },
+  {
+    "name": "بوبا بوب",
+    "name_en": "Boba Pop",
+    "id": "boba-pop",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "ببل تي",
+    "description_ar": "بوبا تي صيني أصيل. 4 فروع في الرياض بارك والنخيل والحمرا وبوليفارد وورلد. براون شوجر بوبا وتارو وأوريو.",
+    "perfect_for": [
+      "شباب",
+      "ببل تي"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "هابي بير ميلك تي",
+    "name_en": "Happy Bear Milk Tea",
+    "id": "happy-bear-milk-tea",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "ببل تي وميلك تي",
+    "description_ar": "شاي فقاعات تايواني أصيل. نكهات أوريو تشيزكيك والشمام والقهوة. ديكور مستوحى من BT21.",
+    "perfect_for": [
+      "شباب",
+      "ببل تي"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "ياو ياو ببل تي",
+    "name_en": "YaoYao Bubble Tea",
+    "id": "yaoyao-bubble-tea",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "ببل تي صيني",
+    "description_ar": "ببل تي بطابع الباندا في بانوراما مول. نكهات كلاسيكية ماتشا وتارو. يقدم وافل أيضاً.",
+    "perfect_for": [
+      "شباب",
+      "ببل تي"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "تايقر شوجر",
+    "name_en": "Tiger Sugar",
+    "id": "tiger-sugar",
+    "rating": 4.5,
+    "rating_count": null,
+    "phone": null,
+    "hours": {
+      "sun": "09:00-01:00",
+      "mon": "09:00-01:00",
+      "tue": "09:00-01:00",
+      "wed": "09:00-01:00",
+      "thu": "09:00-01:00",
+      "fri": "09:00-01:00",
+      "sat": "09:00-01:00"
+    },
+    "website": null,
+    "instagram": "@tigersugar.ksa",
+    "cuisine": "ببل تي تايواني",
+    "description_ar": "سلسلة تايوانية شهيرة. بلاك شوجر بوبا ميلك مع كريم موس. 3 فروع بالرياض.",
+    "perfect_for": [
+      "شباب",
+      "ببل تي"
+    ],
+    "price_level": "$$",
+    "address_ar": "بارك أفنيو مول، البوابة 2، الرياض"
+  },
+  {
+    "name": "بالون بابلز",
+    "name_en": "Balon Bubbles",
+    "id": "balon-bubbles",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "ببل تي",
+    "description_ar": "متخصص في ببل وافل وشاي فقاعات وسموذي. ماتشا وتارو وآيسد سالتيد كاراميل لاتيه.",
+    "perfect_for": [
+      "شباب",
+      "ببل تي"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "كوزمو كافيه",
+    "name_en": "Cosmo Cafe",
+    "id": "cosmo-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": "https://cosmocafe.co/",
+    "instagram": "@cosmocafe_sa",
+    "cuisine": "كافيه",
+    "description_ar": "سلسلة منتشرة في السعودية. يقدم قهوة وببل تي ومشروبات متنوعة.",
+    "perfect_for": [
+      "جلسات",
+      "صور"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "سانتيو كافيه",
+    "name_en": "Santiyo Cafe",
+    "id": "santiyo-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه مفتوح 24 ساعة في ضاحية لبن. يقدم قهوة مختصة وحلويات.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "كهڤا كافيه",
+    "name_en": "Khva Cafe",
+    "id": "khva-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه عربي",
+    "description_ar": "كافيه مفتوح 24 ساعة من أجمل كافيهات الرياض. قهوة وحلا وفرنش توست وكيك.",
+    "perfect_for": [
+      "تراثي",
+      "قهوة عربية"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "غراوند كافيه",
+    "name_en": "Ground Cafe",
+    "id": "ground-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": "@groundcafe25",
+    "cuisine": "كافيه ومأكولات",
+    "description_ar": "كافيه جديد على التخصصي. كوكي في الصاج وتيراميسو سعودي وقهوة سعودية.",
+    "perfect_for": [
+      "عوائل",
+      "إفطار"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "تاشاز كافيه",
+    "name_en": "Tashas Cafe",
+    "id": "tashas-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": {
+      "sun": "08:00-00:00",
+      "mon": "08:00-00:00",
+      "tue": "08:00-00:00",
+      "wed": "08:00-02:00",
+      "thu": "08:00-02:00",
+      "fri": "13:00-02:00",
+      "sat": "13:00-00:00"
+    },
+    "website": "https://www.tashascafe.com/",
+    "instagram": "@tashascafeksa",
+    "cuisine": "كافيه عالمي - جنوب أفريقي",
+    "description_ar": "من بريطانيا والإمارات إلى الرياض. وافل فطور ولذيذ وميلك شيك.",
+    "perfect_for": [
+      "رومانسي",
+      "عوائل",
+      "عمل",
+      "مناسبات"
+    ],
+    "price_level": "$$$",
+    "address_ar": "مركز الملك عبدالله المالي (كافد)، مبنى 5.05، الرياض"
+  },
+  {
+    "name": "سيبولوجي",
+    "name_en": "Sipology",
+    "id": "sipology",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": "@sipology.sa",
+    "cuisine": "شاي ومشروبات",
+    "description_ar": "كافيه عصري وإبداعي. قهوة يمنية وبيكان باي ومكعبات شوكولاتة بالجبن.",
+    "perfect_for": [
+      "شاي",
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "كيف كوفي",
+    "name_en": "Cave Coffee",
+    "id": "cave-coffee",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "كافيه مشرق وعصري وهادئ. ماربل كيك وساندويتش بوراتا وآيسد هيبيسكس.",
+    "perfect_for": [
+      "قهوة",
+      "هدوء"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "لو جورنال بي كي",
+    "name_en": "Le Journal BK",
+    "id": "le-journal-bk",
+    "rating": 4.5,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه فرنسي",
+    "description_ar": "كافيه بأجواء باريسية. برانش وكرواسون بلوبيري وكابتشينو.",
+    "perfect_for": [
+      "إفطار",
+      "قراءة"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "فام كوفي هاوس",
+    "name_en": "FAM Coffeehouse",
+    "id": "fam-coffeehouse",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": "@fam.coffeehouse",
+    "cuisine": "قهوة مختصة",
+    "description_ar": "كوفي شوب بتصميم بسيط وأنيق. كولد فوم ماتشا وموس شوكولاتة.",
+    "perfect_for": [
+      "عوائل",
+      "قهوة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "تولد كافيه",
+    "name_en": "Told Cafe",
+    "id": "told-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": "@told.sa",
+    "cuisine": "كافيه",
+    "description_ar": "كافيه جديد لمحبي الحلويات. تشيزكيك مدريد وبراونيز فدجي وآيسد V60.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "براون كافيه",
+    "name_en": "Brown Cafe",
+    "id": "brown-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": "@browncafe.sa",
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "كافيه دافئ ومريح. ماتشا وسبانيش لاتيه وحلا تشيز ليرز الجديد.",
+    "perfect_for": [
+      "جلسات هادئة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "هوم بيكري",
+    "name_en": "Home Bakery",
+    "id": "home-bakery",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "مخبوزات منزلية",
+    "description_ar": "فرع جديد بالرياض. بوبكورن فرابتشينو وكوكيز وكرواسون وأوريو تشيزكيك الشهير.",
+    "perfect_for": [
+      "إفطار",
+      "مخبوزات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "رالفز كوفي",
+    "name_en": "Ralph's Coffee",
+    "id": "ralphs-coffee",
+    "rating": 4.5,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": "https://www.ralphlauren.com/ralphs-coffee-locations-feat",
+    "instagram": "@ralphscoffee",
+    "cuisine": "قهوة أمريكية فاخرة",
+    "description_ar": "كافيه رالف لورين في كافد. مشروبات بأكواب خضراء مميزة وكوفي شورتكيكس ومون كيكس وكوكيز.",
+    "perfect_for": [
+      "فاخر",
+      "صور",
+      "تسوق"
+    ],
+    "price_level": "$$$",
+    "address_ar": "مركز الملك عبدالله المالي (كافد)، مبنى 5.08، الرياض"
+  },
+  {
+    "name": "باتشي كافيه",
+    "name_en": "Patchi Cafe",
+    "id": "patchi-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": {
+      "sun": "09:00-23:00",
+      "mon": "09:00-23:00",
+      "tue": "09:00-23:00",
+      "wed": "09:00-23:00",
+      "thu": "09:00-00:00",
+      "fri": "09:00-00:00",
+      "sat": "09:00-23:00"
+    },
+    "website": "https://patchi.com/",
+    "instagram": "@patchi.ksa",
+    "cuisine": "شوكولاتة لبنانية فاخرة",
+    "description_ar": "كافيه من باتشي الشهيرة. ألفريدو وأفوكادو ديب وسالمون بوك وحلويات.",
+    "perfect_for": [
+      "هدايا",
+      "حلويات",
+      "رومانسي"
+    ],
+    "price_level": "$$$",
+    "address_ar": "ذا زون، شارع التخصصي، الرياض"
+  },
+  {
+    "name": "بريت أ مانجيه",
+    "name_en": "Pret A Manger",
+    "id": "pret-a-manger",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": "https://www.pret.com/",
+    "instagram": "@pretamanger",
+    "cuisine": "ساندويتشات وقهوة بريطانية",
+    "description_ar": "سلسلة بريطانية شهيرة. أول فرع بالرياض في أبراج العليا. أكل صحي وسريع.",
+    "perfect_for": [
+      "سريع",
+      "عمل",
+      "صحي"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العليا، الرياض"
+  },
+  {
+    "name": "لوكسيتان كافيه",
+    "name_en": "L'Occitane Cafe",
+    "id": "loccitane-cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": "+966556710042",
+    "hours": null,
+    "website": null,
+    "instagram": "@loccitanecafe",
+    "cuisine": "كافيه فرنسي بروفنسي",
+    "description_ar": "كافيه فرنسي من ماركة العناية بالبشرة الشهيرة. ديكور أصفر وأخضر مميز. أطباق فرنسية وسلطات وشوربات.",
+    "perfect_for": [
+      "رومانسي",
+      "نسائي",
+      "صور"
+    ],
+    "price_level": "$$$",
+    "address_ar": "حي السفارات، الدبلوماسي كوارتر، الرياض"
+  },
+  {
+    "name": "دي جي كافيه",
+    "name_en": "DG Caffè",
+    "id": "dg-caffe",
+    "rating": 4.5,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": "https://www.diriyah.sa/en/dine/dg-caffe",
+    "instagram": "@dolcegabbana",
+    "cuisine": "كافيه إيطالي فاخر",
+    "description_ar": "أول كافيه دولتشي آند غابانا في السعودية. يمزج بين التأثيرات الشرق أوسطية والإيطالية.",
+    "perfect_for": [
+      "فاخر",
+      "صور",
+      "سياحة"
+    ],
+    "price_level": "$$$$",
+    "address_ar": "البجيري تراس، الدرعية، الرياض"
+  },
+  {
+    "name": "سكارف كافيه",
+    "name_en": "Scarf Cafe",
+    "id": "scarf-cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": "@scarf.cafe",
+    "cuisine": "كافيه",
+    "description_ar": "كافيه جديد بحي العقيق بديكور نباتي رائع وأجواء مريحة.",
+    "perfect_for": [
+      "نسائي",
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين، الرياض"
+  },
+  {
+    "name": "حوكوة كافيه",
+    "name_en": "Hawkwah Cafe",
+    "id": "hawkwah-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه عربي",
+    "description_ar": "كافيه جديد في حي الصحافة. يقدم قهوة متنوعة وكوكيز.",
+    "perfect_for": [
+      "تراثي",
+      "قهوة عربية"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي النرجس، الرياض"
+  },
+  {
+    "name": "بلاك نايت كوفي",
+    "name_en": "Black Knight Coffee",
+    "id": "black-knight-coffee",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "قهوة مختصة",
+    "description_ar": "محمصة قهوة مختصة في الرياض. تحميص محلي بجودة عالية.",
+    "perfect_for": [
+      "قهوة",
+      "شباب"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الملقا، الرياض"
+  },
+  {
+    "name": "ويزدوم كافيه",
+    "name_en": "Wisdom Cafe",
+    "id": "wisdom-cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه",
+    "description_ar": "كافيه في الرياض بارك مول يقدم قهوة مختصة ومشروبات.",
+    "perfect_for": [
+      "هدوء",
+      "قراءة"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العقيق، الرياض"
+  },
+  {
+    "name": "فوا بان كيك",
+    "name_en": "Fuwa Japanese Pancakes",
+    "id": "fuwa-pancakes",
+    "rating": 4.5,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": "@fuwapancakes",
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "متخصص في البان كيك الياباني الفلافي. افتتح فرع الرياض بعد نجاحه في موسم الرياض.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "الرياض"
+  },
+  {
+    "name": "بانكيك هاوس",
+    "name_en": "The Pancake House",
+    "id": "pancake-house",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "متخصص في الفطور طوال اليوم. بان كيك ووافل وكريب. مفتوح 8ص-10:30م.",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "الحي الدبلوماسي"
+  },
+  {
+    "name": "كريب آند مور",
+    "name_en": "Crepe and More",
+    "id": "crepe-and-more",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": "@crepemoresa",
+    "cuisine": "كريب وحلويات",
+    "description_ar": "مقهى متخصص في الكريب والوافل والبانكيك مع مشروبات باردة وساخنة.",
+    "perfect_for": [
+      "حلويات",
+      "شباب"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي الياسمين، الرياض"
+  },
+  {
+    "name": "كافيه اشلو",
+    "name_en": "Ashlo Cafe",
+    "id": "ashlo_cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "كافيه قهوة مختصة بجلسات داخلية وخارجية وقيمات وحلى مارشملو مميز",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العارض"
+  },
+  {
+    "name": "كافيه ايثوس",
+    "name_en": "Ethos Cafe",
+    "id": "ethos_cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": "@eth0os",
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "كافيه أنيق بألوان مريحة وقهوة موزونة وكوكيز طازج",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العارض"
+  },
+  {
+    "name": "مقهى الأطلال",
+    "name_en": "Al Atlal Cafe",
+    "id": "al_atlal_cafe",
+    "rating": 4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "مقهى شيشة كبير يعمل 24 ساعة بجلسات VIP وأجواء ليلية",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العارض"
+  },
+  {
+    "name": "كاسكارا كافيه",
+    "name_en": "Cascara Cafe",
+    "id": "cascara_cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": "@cascaracafe.sa",
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "كافيه دورين بجلسات متنوعة يعمل 24 ساعة مناسب للعمل والسوالف",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العارض"
+  },
+  {
+    "name": "كافي كونتينر ڤيو",
+    "name_en": "Container View Cafe",
+    "id": "container_view_cafe",
+    "rating": 4.1,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "كافيه بفكرة الكونتينر المبتكرة بقهوة ممتازة وأجواء ليلية رايقة",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي العارض"
+  },
+  {
+    "name": "سنترل كافيه",
+    "name_en": "Central Cafe",
+    "id": "central_cafe",
+    "rating": 4.3,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "كافيه هادئ وجميل بقهوة مضبوطة وكرواسون ولاتيه مستكة مميز",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي القيروان"
+  },
+  {
+    "name": "لاڤا جاڤا كافيه",
+    "name_en": "Lava Java Cafe",
+    "id": "lava_java_cafe",
+    "rating": 4.2,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "كافيه أنيق بقهوة ممتازة وجلسات خارجية ومخبوزات طازجة",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي القيروان"
+  },
+  {
+    "name": "كافيه سانتوريني",
+    "name_en": "Santorini Cafe",
+    "id": "santorini_cafe",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": "@santorini_coffee",
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "كافيه بتصميم يوناني على طراز جزيرة سانتوريني مع دونات مميزة",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي القيروان"
+  },
+  {
+    "name": "مقهى أرقانه",
+    "name_en": "Arganah Cafe",
+    "id": "arganah_cafe",
+    "rating": 4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "مقهى شيشة ومشروبات يعمل 24 ساعة بأسعار مناسبة",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي القيروان"
+  },
+  {
+    "name": "محمصة ومقهى أورجن",
+    "name_en": "Origin Roastery Hittin",
+    "id": "origin_roastery_hittin",
+    "rating": 4.4,
+    "rating_count": null,
+    "phone": null,
+    "hours": null,
+    "website": null,
+    "instagram": null,
+    "cuisine": "كافيه ومشروبات",
+    "description_ar": "محمصة قهوة راقية بأجواء كلاسيكية مع تحميص وتحضير مميز",
+    "perfect_for": [
+      "جلسات"
+    ],
+    "price_level": "$$",
+    "address_ar": "حي حطين"
+  }
+]

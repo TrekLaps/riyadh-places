@@ -7,12 +7,17 @@
   <meta name="description" content="أنشئ قوائم مخصصة بأماكنك المفضلة بالرياض وشاركها مع أصدقائك! قوائم جاهزة: الأكثر رواجاً، كافيهات لازم تجربها، سهرة مثالية والمزيد.">
   <meta name="keywords" content="قوائم أماكن الرياض, أفضل أماكن الرياض, مشاركة أماكن, riyadh places lists">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://wain-nrooh.com/lists.html">
+  <link rel="canonical" href="https://treklaps.github.io/riyadh-places/lists.html">
   <meta property="og:type" content="website">
   <meta property="og:title" content="📋 قوائمي - قوائم أماكن مخصصة بالرياض">
   <meta property="og:description" content="أنشئ قوائمك الخاصة بأفضل أماكن الرياض وشاركها مع أصدقائك!">
-  <meta property="og:url" content="https://wain-nrooh.com/lists.html">
+  <meta property="og:url" content="https://treklaps.github.io/riyadh-places/lists.html">
   <meta property="og:locale" content="ar_SA">
+  <meta property="og:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="📋 قوائمي - قوائم أماكن مخصصة بالرياض">
+  <meta name="twitter:description" content="أنشئ قوائمك الخاصة بأفضل أماكن الرياض وشاركها مع أصدقائك!">
+  <meta name="twitter:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#0a1628">
   <!-- Performance: preconnect & preload -->
@@ -39,6 +44,16 @@
 
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/ramadan.css">
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "📋 قوائمي - قوائم أماكن مخصصة | وين نروح بالرياض؟",
+  "url": "https://treklaps.github.io/riyadh-places/lists.html",
+  "numberOfItems": 0,
+  "itemListElement": []
+}
+  </script>
 </head>
 <body>
 
@@ -855,5 +870,8 @@
   </script>
   <script src="js/analytics.js" defer></script>
   <script src="js/ramadan.js" defer></script>
+  <script>
+    if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(function(){});}
+  </script>
 </body>
 </html>

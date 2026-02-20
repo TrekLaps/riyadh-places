@@ -4,8 +4,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="noindex">
+  <link rel="canonical" href="https://treklaps.github.io/riyadh-places/stats.html">
   <title>إحصائيات — وين نروح بالرياض؟</title>
   <meta name="description" content="إحصائيات وأرقام عن أماكن الرياض - وين نروح بالرياض؟">
+  <meta property="og:title" content="إحصائيات — وين نروح بالرياض؟">
+  <meta property="og:description" content="إحصائيات وأرقام عن أماكن الرياض - وين نروح بالرياض؟">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://treklaps.github.io/riyadh-places/stats.html">
+  <meta property="og:locale" content="ar_SA">
+  <meta property="og:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="إحصائيات — وين نروح بالرياض؟">
+  <meta name="twitter:description" content="إحصائيات وأرقام عن أماكن الرياض - وين نروح بالرياض؟">
+  <meta name="twitter:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#0a1628">
   <link rel="stylesheet" href="css/style.css">
@@ -259,6 +270,7 @@
     <div class="header-inner">
       <a href="index.html" class="logo"><span>📊</span><h1>إحصائيات الموقع</h1></a>
       <button class="dark-mode-toggle" aria-label="الوضع الليلي">🌙</button>
+      <button class="menu-toggle" aria-label="القائمة">☰</button>
       <a href="index.html" style="color:var(--gold);font-size:14px;text-decoration:none;font-weight:600;">← الرئيسية</a>
     </div>
   </header>
@@ -327,7 +339,7 @@
     <div class="external-counters">
       <div class="external-counter-item">
         <span class="page-name">🏠 الرئيسية</span>
-        <img src="https://hits.seeyoufarm.com/api/count/keep/badge.svg?url=https%3A%2F%2Ftreklaps.github.io%2Friyadh-places%2F&count_bg=%230a1628&title_bg=%23c9a84c&title=views&edge_flat=true" alt="views">
+        <img loading="lazy" src="https://hits.seeyoufarm.com/api/count/keep/badge.svg?url=https%3A%2F%2Ftreklaps.github.io%2Friyadh-places%2F&count_bg=%230a1628&title_bg=%23c9a84c&title=views&edge_flat=true" alt="views">
       </div>
       <div class="external-counter-item">
         <span class="page-name">☕ كافيهات</span>
@@ -489,5 +501,8 @@
     });
   </script>
   <script src="js/ramadan.js" defer></script>
+  <script>
+    if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(function(){});}
+  </script>
 </body>
 </html>

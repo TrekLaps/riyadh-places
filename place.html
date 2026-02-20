@@ -8,12 +8,17 @@
   <title id="page-title">تفاصيل المكان | وين نروح بالرياض؟</title>
   <meta name="description" id="page-description" content="تفاصيل المكان - وين نروح بالرياض؟">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" id="page-canonical" href="https://wain-nrooh.com/place.html">
+  <link rel="canonical" id="page-canonical" href="https://treklaps.github.io/riyadh-places/place.html">
   <meta property="og:type" content="place">
   <meta property="og:title" id="og-title" content="تفاصيل المكان | وين نروح بالرياض؟">
   <meta property="og:description" id="og-description" content="">
-  <meta property="og:url" id="og-url" content="https://wain-nrooh.com/place.html">
+  <meta property="og:url" id="og-url" content="https://treklaps.github.io/riyadh-places/place.html">
   <meta property="og:locale" content="ar_SA">
+  <meta property="og:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="وين نروح بالرياض؟">
+  <meta name="twitter:description" content="دليلك الشامل لأفضل أماكن الرياض">
+  <meta name="twitter:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#0a1628">
   <!-- Performance: preconnect & preload -->
@@ -41,6 +46,19 @@
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/ramadan.css">
   <link rel="stylesheet" href="css/search-header.css">
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "{{place_name}}",
+  "description": "{{place_description}}",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "الرياض",
+    "addressCountry": "SA"
+  }
+}
+  </script>
 </head>
 <body>
 
@@ -159,10 +177,10 @@
       // Update page meta
       document.getElementById('page-title').textContent = `${place.name_ar} - ${place.neighborhood} | تقييم ${place.google_rating} ⭐ | وين نروح بالرياض؟`;
       document.getElementById('page-description').content = `${place.name_ar} في ${place.neighborhood}. تقييم قوقل ${place.google_rating} من ${formatNumber(place.review_count)} تقييم. ${place.description_ar.slice(0, 120)}`;
-      document.getElementById('page-canonical').href = `https://wain-nrooh.com/place.html?id=${place.id}`;
+      document.getElementById('page-canonical').href = `https://treklaps.github.io/riyadh-places/place.html?id=${place.id}`;
       document.getElementById('og-title').content = `${place.name_ar} | ⭐ ${place.google_rating} | وين نروح بالرياض؟`;
       document.getElementById('og-description').content = `تقييم ${place.google_rating} من ${formatNumber(place.review_count)} تقييم. ${place.description_ar.slice(0, 150)}`;
-      document.getElementById('og-url').content = `https://wain-nrooh.com/place.html?id=${place.id}`;
+      document.getElementById('og-url').content = `https://treklaps.github.io/riyadh-places/place.html?id=${place.id}`;
 
       // Breadcrumb
       document.getElementById('breadcrumb-category').innerHTML = `<a href="${categoryPages[place.category] || 'index.html'}">${categoryNames[place.category] || place.category || place.category}</a>`;
@@ -285,5 +303,8 @@
   <script defer src="js/lists.js"></script>
   <script src="js/analytics.js" defer></script>
   <script src="js/ramadan.js" defer></script>
+  <script>
+    if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(function(){});}
+  </script>
 </body>
 </html>
