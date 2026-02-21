@@ -1,0 +1,37 @@
+{
+  "runs": [
+    {
+      "date": "2026-02-21T14:02:13.653329Z",
+      "enriched": 1098,
+      "changes": {
+        "price_range": 721,
+        "tags": 737,
+        "google_rating_fix": 0,
+        "price_range_fix": 3
+      },
+      "sources": [
+        "TripAdvisor (price levels for known chains)",
+        "Google Maps (ratings reference)",
+        "Wanderlog (restaurant research)",
+        "Category-based heuristics for tags",
+        "Known Saudi restaurant chain pricing"
+      ],
+      "summary": "Enriched 1098 places: 721 price_range, 737 tags"
+    },
+    {
+      "date": "2026-02-21T14:02:45.616454+00:00",
+      "enriched": 3750,
+      "changes": {
+        "price_range": 1451,
+        "tags": 297,
+        "is_free_marked": 1775
+      },
+      "sources": [
+        "Category-based price assignment (commercial categories)",
+        "Category-based tag enrichment for offices/banks/government/beauty/crafts",
+        "Free marking for mosques, parks, education, health, services"
+      ],
+      "summary": "Enriched 3750 more: price_range for commercial categories, all tags filled, free places marked"
+    }
+  ]
+}
