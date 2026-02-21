@@ -1,260 +1,180 @@
 // ExploreView.swift
-// استكشف — Jahez-style pill bar + HS progressive loading + occasion filters
+// استكشف — بحث + فلترة + Pill Bar
+// هوية ليالي الرياض
 
 import SwiftUI
 
 struct ExploreView: View {
     @EnvironmentObject var appState: AppState
     @State private var searchText = ""
-    @State private var selectedCategory: String?
-    @State private var selectedOccasion: Occasion?
-    @State private var displayedCount = 20  // HS Progressive loading
+    @State private var selectedCategory: String? = nil
+    @State private var selectedOccasion: String? = nil
+    @State private var sortBy: SortOption = .rating
     
-    var filteredPlaces: [Place] {
-        var result = appState.places
+    enum SortOption: String, CaseIterable {
+        case rating = "الأعلى تقييم"
+        case nearest = "الأقرب"
+        case newest = "الأحدث"
+        case cheapest = "الأرخص"
+    }
+    
+    private var filteredPlaces: [Place] {
+        var results = appState.places
         
+        // بحث
         if !searchText.isEmpty {
-            let q = searchText.lowercased()
-            result = result.filter {
-                $0.nameAr.contains(searchText) ||
-                ($0.nameEn?.lowercased().contains(q) ?? false) ||
-                ($0.descriptionAr?.contains(searchText) ?? false) ||
-                ($0.neighborhood?.contains(searchText) ?? false) ||
-                ($0.tags?.contains(where: { $0.contains(searchText) }) ?? false)
+            results = results.filter { place in
+                place.nameAr.localizedCaseInsensitiveContains(searchText) ||
+                (place.nameEn?.localizedCaseInsensitiveContains(searchText) ?? false) ||
+                (place.neighborhood?.localizedCaseInsensitiveContains(searchText) ?? false) ||
+                (place.descriptionAr?.localizedCaseInsensitiveContains(searchText) ?? false)
             }
         }
         
+        // فلترة بالفئة
         if let cat = selectedCategory {
-            result = result.filter { ($0.categoryEn ?? $0.category) == cat }
+            results = results.filter { $0.categoryAr == cat || $0.category == cat }
         }
         
+        // فلترة بالمناسبة
         if let occ = selectedOccasion {
-            result = result.filter { $0.occasions.contains(occ) }
+            results = results.filter { $0.perfectFor?.contains(occ) ?? false }
         }
         
-        return result.sorted { ($0.googleRating ?? 0) > ($1.googleRating ?? 0) }
+        // ترتيب
+        switch sortBy {
+        case .rating:
+            results.sort { ($0.googleRating ?? 0) > ($1.googleRating ?? 0) }
+        case .newest:
+            results.sort { ($0.isNew ?? false) && !($1.isNew ?? false) }
+        case .cheapest:
+            results.sort { ($0.priceLevel ?? "$$$$").count < ($1.priceLevel ?? "$$$$").count }
+        case .nearest:
+            break // يحتاج موقع المستخدم
+        }
+        
+        return results
     }
     
     var body: some View {
         NavigationStack {
             VStack(spacing: 0) {
-                // Search bar
-                HStack {
-                    Image(systemName: "magnifyingglass")
-                        .foregroundStyle(.secondary)
-                    TextField("ابحث عن مكان...", text: $searchText)
-                        .textFieldStyle(.plain)
-                    if !searchText.isEmpty {
-                        Button { searchText = "" } label: {
-                            Image(systemName: "xmark.circle.fill").foregroundStyle(.secondary)
-                        }
-                    }
-                }
-                .padding(12)
-                .background(Color(.secondarySystemBackground))
-                .clipShape(RoundedRectangle(cornerRadius: 12))
-                .padding(.horizontal)
+                // البحث
+                searchBar
                 
-                // Category Pill Bar (Jahez Pattern)
-                ScrollView(.horizontal, showsIndicators: false) {
-                    HStack(spacing: 8) {
-                        PillButton(title: "الكل", isSelected: selectedCategory == nil) {
-                            selectedCategory = nil
-                        }
-                        ForEach(["restaurant", "cafe", "desserts", "entertainment", "shopping", "nature", "hotels"], id: \.self) { cat in
-                            let names: [String: String] = [
-                                "restaurant": "مطاعم", "cafe": "كافيهات", "desserts": "حلويات",
-                                "entertainment": "ترفيه", "shopping": "تسوق",
-                                "nature": "طبيعة", "hotels": "فنادق"
-                            ]
-                            PillButton(title: names[cat] ?? cat, isSelected: selectedCategory == cat) {
-                                withAnimation(.snappy) {
-                                    selectedCategory = selectedCategory == cat ? nil : cat
-                                }
-                            }
-                        }
-                    }
-                    .padding(.horizontal)
-                    .padding(.vertical, 8)
-                }
+                // Pill Bar — الفلاتر
+                filterPills
                 
-                // Occasion Quick Filter
-                ScrollView(.horizontal, showsIndicators: false) {
-                    HStack(spacing: 8) {
-                        ForEach(Occasion.allCases) { occ in
-                            Button {
-                                withAnimation { selectedOccasion = selectedOccasion == occ ? nil : occ }
-                            } label: {
-                                HStack(spacing: 4) {
-                                    Text(occ.emoji)
-                                    Text(occ.nameAr).font(.caption)
-                                }
-                                .padding(.horizontal, 12)
-                                .padding(.vertical, 6)
-                                .background(selectedOccasion == occ ? Theme.primary.opacity(0.2) : Color(.systemGray6))
-                                .clipShape(Capsule())
-                            }
-                            .buttonStyle(.plain)
+                // النتائج
+                ScrollView(showsIndicators: false) {
+                    LazyVStack(spacing: Theme.spacingM) {
+                        // عدد النتائج
+                        HStack {
+                            Spacer()
+                            Text("\(filteredPlaces.count) مكان")
+                                .font(Theme.caption())
+                                .foregroundStyle(.appTextSecondary)
                         }
-                    }
-                    .padding(.horizontal)
-                }
-                
-                // Results count
-                HStack {
-                    Spacer()
-                    Text("\(filteredPlaces.count) مكان")
-                        .font(.caption)
-                        .foregroundStyle(.secondary)
-                        .padding(.horizontal)
-                        .padding(.top, 4)
-                }
-                
-                // Results — Progressive Loading (HS Pattern)
-                ScrollView {
-                    LazyVStack(spacing: 10) {
-                        ForEach(filteredPlaces.prefix(displayedCount)) { place in
+                        .padding(.horizontal, Theme.spacingL)
+                        
+                        ForEach(filteredPlaces.prefix(50)) { place in
                             NavigationLink {
                                 PlaceDetailView(place: place)
                             } label: {
-                                PlaceListRow(place: place)
+                                PlaceCard(place: place, style: .compact)
                             }
                             .buttonStyle(.plain)
-                            .onAppear {
-                                // Load more when near end (HS infinite scroll)
-                                if place.id == filteredPlaces.prefix(displayedCount).last?.id {
-                                    displayedCount += 20
-                                }
-                            }
                         }
                     }
-                    .padding(.horizontal)
+                    .padding(.horizontal, Theme.spacingL)
+                    .padding(.bottom, 100)
                 }
             }
-            .navigationTitle("استكشف")
-            .navigationBarTitleDisplayMode(.inline)
+            .background(Color.appBackground)
+            .navigationBarHidden(true)
         }
     }
-}
-
-// MARK: - Pill Button (Jahez Pattern)
-
-struct PillButton: View {
-    let title: String
-    let isSelected: Bool
-    let action: () -> Void
     
-    var body: some View {
-        Button(action: action) {
-            Text(title)
-                .font(.subheadline)
-                .fontWeight(isSelected ? .bold : .regular)
-                .padding(.horizontal, 16)
-                .padding(.vertical, 8)
-                .background(isSelected ? Theme.primary : Color(.systemGray6))
-                .foregroundStyle(isSelected ? .white : .primary)
-                .clipShape(Capsule())
-        }
-    }
-}
-
-// MARK: - Place List Row
-
-struct PlaceListRow: View {
-    let place: Place
+    // MARK: - شريط البحث
     
-    var body: some View {
-        HStack(spacing: 12) {
-            // Rating + Price
-            VStack(spacing: 4) {
-                if let r = place.googleRating {
-                    HStack(spacing: 2) {
-                        Image(systemName: "star.fill").font(.caption2).foregroundStyle(.yellow)
-                        Text(String(format: "%.1f", r)).font(.caption.bold())
-                    }
-                }
-                if let p = place.priceLevel {
-                    Text(p).font(.caption2).foregroundStyle(.secondary)
+    private var searchBar: some View {
+        HStack(spacing: Theme.spacingM) {
+            Image(systemName: "magnifyingglass")
+                .foregroundStyle(Theme.green400)
+            
+            TextField("ابحث عن مكان، حي، أو نوع...", text: $searchText)
+                .font(Theme.body())
+                .foregroundStyle(.appTextPrimary)
+                .multilineTextAlignment(.trailing)
+            
+            if !searchText.isEmpty {
+                Button {
+                    searchText = ""
+                } label: {
+                    Image(systemName: "xmark.circle.fill")
+                        .foregroundStyle(.appTextSecondary)
                 }
             }
-            
-            Spacer()
-            
-            // Details
-            VStack(alignment: .trailing, spacing: 4) {
-                Text(place.nameAr)
-                    .font(.subheadline.bold())
-                    .lineLimit(1)
-                
-                if let desc = place.descriptionAr {
-                    Text(desc)
-                        .font(.caption)
-                        .foregroundStyle(.secondary)
-                        .lineLimit(2)
+        }
+        .padding(Theme.spacingL)
+        .background(Color.appCardBackground)
+        .clipShape(Capsule())
+        .padding(.horizontal, Theme.spacingL)
+        .padding(.top, Theme.spacingM)
+    }
+    
+    // MARK: - Pill Bar
+    
+    private var filterPills: some View {
+        ScrollView(.horizontal, showsIndicators: false) {
+            HStack(spacing: Theme.spacingS) {
+                // ترتيب
+                Menu {
+                    ForEach(SortOption.allCases, id: \.self) { option in
+                        Button(option.rawValue) {
+                            sortBy = option
+                        }
+                    }
+                } label: {
+                    HStack(spacing: 4) {
+                        Image(systemName: "arrow.up.arrow.down")
+                            .font(.system(size: 11))
+                        Text(sortBy.rawValue)
+                    }
+                    .wainGlassPill()
                 }
                 
-                HStack(spacing: 8) {
-                    if let hood = place.neighborhood {
-                        Label(hood, systemImage: "mappin")
-                            .font(.caption2)
-                            .foregroundStyle(.secondary)
-                    }
-                    if let cat = place.categoryAr {
+                Divider()
+                    .frame(height: 20)
+                    .background(.appDivider)
+                
+                // الفئات
+                ForEach(categoryPills, id: \.self) { cat in
+                    Button {
+                        withAnimation(Theme.animFast) {
+                            selectedCategory = selectedCategory == cat ? nil : cat
+                        }
+                    } label: {
                         Text(cat)
-                            .font(.caption2)
-                            .foregroundStyle(Theme.primary)
+                            .font(Theme.badge(size: 12))
+                            .foregroundStyle(selectedCategory == cat ? .white : Theme.cream)
+                            .padding(.horizontal, 14)
+                            .padding(.vertical, 7)
+                            .background(
+                                selectedCategory == cat
+                                    ? AnyShapeStyle(Theme.primaryGradient)
+                                    : AnyShapeStyle(.ultraThinMaterial)
+                            )
+                            .clipShape(Capsule())
                     }
                 }
             }
+            .padding(.horizontal, Theme.spacingL)
+            .padding(.vertical, Theme.spacingM)
         }
-        .padding(12)
-        .background(Color(.secondarySystemBackground))
-        .clipShape(RoundedRectangle(cornerRadius: 12))
-    }
-}
-
-// MARK: - Occasion Results
-
-struct OccasionResultsView: View {
-    let occasion: Occasion
-    let places: [Place]
-    
-    var filtered: [Place] {
-        places.filter { $0.occasions.contains(occasion) }
-            .sorted { ($0.googleRating ?? 0) > ($1.googleRating ?? 0) }
     }
     
-    var body: some View {
-        List(filtered) { place in
-            NavigationLink {
-                PlaceDetailView(place: place)
-            } label: {
-                PlaceListRow(place: place)
-            }
-        }
-        .navigationTitle("\(occasion.emoji) \(occasion.nameAr)")
-    }
-}
-
-// MARK: - Category Places
-
-struct CategoryPlacesView: View {
-    let category: CategoryInfo
-    let places: [Place]
-    
-    var filtered: [Place] {
-        places.filter { ($0.categoryEn ?? $0.category) == category.id }
-            .sorted { ($0.googleRating ?? 0) > ($1.googleRating ?? 0) }
-    }
-    
-    var body: some View {
-        List(filtered) { place in
-            NavigationLink {
-                PlaceDetailView(place: place)
-            } label: {
-                PlaceListRow(place: place)
-            }
-        }
-        .navigationTitle("\(category.emoji) \(category.nameAr)")
+    private var categoryPills: [String] {
+        ["مطاعم", "كافيهات", "ترفيه", "تسوق", "حلويات", "فنادق", "طبيعة", "شاليهات", "مولات", "متاحف"]
     }
 }

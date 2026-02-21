@@ -1,193 +1,270 @@
 // WainNroohApp.swift
-// وين نروح بالرياض — Super App خفيف (HS Pattern)
-// iOS 17+ | SwiftUI | MVVM | Lazy Loading | Offline-First
+// وين نروح — تطبيق اكتشاف أماكن الرياض
+// هوية ليالي الرياض + RTL + Lazy Loading
 
 import SwiftUI
-import SwiftData
 
 @main
 struct WainNroohApp: App {
-    
     @StateObject private var appState = AppState()
-    @AppStorage("isDarkMode") private var isDarkMode = true
-    @AppStorage("isFirstLaunch") private var isFirstLaunch = true
-    
-    // SwiftData Container
-    var sharedModelContainer: ModelContainer = {
-        let schema = Schema([
-            CachedPlace.self,
-            CachedFavorite.self,
-            UserProfile.self,
-            ShareableList.self,
-            PendingAction.self
-        ])
-        let config = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
-        do {
-            return try ModelContainer(for: schema, configurations: [config])
-        } catch {
-            fatalError("❌ فشل إنشاء ModelContainer: \(error)")
-        }
-    }()
     
     var body: some Scene {
         WindowGroup {
-            if isFirstLaunch {
-                OnboardingView(isFirstLaunch: $isFirstLaunch)
-                    .environmentObject(appState)
-            } else if !appState.isLoggedIn {
-                AuthView()
-                    .environmentObject(appState)
-            } else {
-                MainTabView()
-                    .environmentObject(appState)
-                    .environment(\.layoutDirection, .rightToLeft)
-                    .preferredColorScheme(isDarkMode ? .dark : .light)
-            }
+            ContentView()
+                .environmentObject(appState)
+                .environment(\.layoutDirection, .rightToLeft)
+                .preferredColorScheme(.dark) // الدارك = الافتراضي
+                .tint(Theme.green400) // اللون الرئيسي للتطبيق
         }
-        .modelContainer(sharedModelContainer)
     }
 }
 
-// MARK: - App State (Global)
+// MARK: - الشاشة الرئيسية + التاب بار
 
-@MainActor
+struct ContentView: View {
+    @EnvironmentObject var appState: AppState
+    @State private var selectedTab: AppTab = .home
+    @State private var showOnboarding = false
+    
+    var body: some View {
+        ZStack(alignment: .bottom) {
+            // المحتوى — Lazy Loading
+            TabView(selection: $selectedTab) {
+                HomeView()
+                    .tag(AppTab.home)
+                
+                ExploreView()
+                    .tag(AppTab.explore)
+                
+                MapView()
+                    .tag(AppTab.map)
+                
+                MyPlacesView()
+                    .tag(AppTab.favorites)
+                
+                ProfileView()
+                    .tag(AppTab.profile)
+            }
+            .tabViewStyle(.page(indexDisplayMode: .never))
+            
+            // تاب بار مخصص
+            customTabBar
+        }
+        .ignoresSafeArea(.keyboard)
+        .onAppear {
+            // أول مرة = onboarding
+            if !UserDefaults.standard.bool(forKey: "hasSeenOnboarding") {
+                showOnboarding = true
+            }
+        }
+        .fullScreenCover(isPresented: $showOnboarding) {
+            OnboardingView {
+                UserDefaults.standard.set(true, forKey: "hasSeenOnboarding")
+                showOnboarding = false
+            }
+        }
+    }
+    
+    // MARK: - تاب بار مخصص
+    
+    private var customTabBar: some View {
+        HStack(spacing: 0) {
+            ForEach(AppTab.allCases) { tab in
+                Button {
+                    withAnimation(Theme.animSpring) {
+                        selectedTab = tab
+                    }
+                } label: {
+                    VStack(spacing: 4) {
+                        Image(systemName: selectedTab == tab ? tab.iconFilled : tab.icon)
+                            .font(.system(size: 20))
+                            .symbolEffect(.bounce, value: selectedTab == tab)
+                        
+                        Text(tab.title)
+                            .font(Theme.badge(size: 10))
+                    }
+                    .foregroundStyle(selectedTab == tab ? Theme.green400 : Theme.sand)
+                    .frame(maxWidth: .infinity)
+                    .padding(.vertical, Theme.spacingS)
+                }
+            }
+        }
+        .padding(.horizontal, Theme.spacingS)
+        .padding(.bottom, 4)
+        .background(.ultraThinMaterial)
+        .overlay(
+            Rectangle()
+                .fill(Theme.green400.opacity(0.1))
+                .frame(height: 0.5),
+            alignment: .top
+        )
+    }
+}
+
+// MARK: - تابات التطبيق
+
+enum AppTab: String, CaseIterable, Identifiable {
+    case home, explore, map, favorites, profile
+    
+    var id: String { rawValue }
+    
+    var title: String {
+        switch self {
+        case .home: return "الرئيسية"
+        case .explore: return "استكشف"
+        case .map: return "الخريطة"
+        case .favorites: return "مفضلاتي"
+        case .profile: return "حسابي"
+        }
+    }
+    
+    var icon: String {
+        switch self {
+        case .home: return "house"
+        case .explore: return "magnifyingglass"
+        case .map: return "map"
+        case .favorites: return "heart"
+        case .profile: return "person"
+        }
+    }
+    
+    var iconFilled: String {
+        switch self {
+        case .home: return "house.fill"
+        case .explore: return "magnifyingglass"
+        case .map: return "map.fill"
+        case .favorites: return "heart.fill"
+        case .profile: return "person.fill"
+        }
+    }
+}
+
+// MARK: - حالة التطبيق
+
 class AppState: ObservableObject {
-    @Published var isLoggedIn: Bool = false
-    @Published var currentUser: UserProfile?
     @Published var places: [Place] = []
-    @Published var isDataLoaded: Bool = false
+    @Published var isLoading = true
+    @Published var favorites: Set<String> = []
     
     init() {
-        // Check if user exists in UserDefaults
-        if let userData = UserDefaults.standard.data(forKey: "currentUser"),
-           let user = try? JSONDecoder().decode(UserProfile.self, from: userData) {
-            self.currentUser = user
-            self.isLoggedIn = true
+        loadPlaces()
+        loadFavorites()
+    }
+    
+    /// تحميل الأماكن من ملف JSON المدمج
+    func loadPlaces() {
+        guard let url = Bundle.main.url(forResource: "places", withExtension: "json") else {
+            isLoading = false
+            return
+        }
+        
+        do {
+            let data = try Data(contentsOf: url)
+            let decoded = try JSONDecoder().decode([Place].self, from: data)
+            DispatchQueue.main.async {
+                self.places = decoded
+                self.isLoading = false
+            }
+        } catch {
+            print("❌ خطأ بتحميل الأماكن: \(error)")
+            isLoading = false
         }
     }
     
-    func loadPlaces() async {
-        guard !isDataLoaded else { return }
-        // Load bundled places.json (offline-first)
-        if let url = Bundle.main.url(forResource: "places", withExtension: "json"),
-           let data = try? Data(contentsOf: url),
-           let decoded = try? JSONDecoder().decode([Place].self, from: data) {
-            self.places = decoded
-            self.isDataLoaded = true
+    /// تحميل المفضلات من UserDefaults
+    func loadFavorites() {
+        if let saved = UserDefaults.standard.array(forKey: "favorites") as? [String] {
+            favorites = Set(saved)
         }
     }
     
-    func login(user: UserProfile) {
-        self.currentUser = user
-        self.isLoggedIn = true
-        if let data = try? JSONEncoder().encode(user) {
-            UserDefaults.standard.set(data, forKey: "currentUser")
+    /// إضافة/حذف من المفضلات
+    func toggleFavorite(_ placeId: String) {
+        if favorites.contains(placeId) {
+            favorites.remove(placeId)
+        } else {
+            favorites.insert(placeId)
         }
+        UserDefaults.standard.set(Array(favorites), forKey: "favorites")
     }
     
-    func logout() {
-        self.currentUser = nil
-        self.isLoggedIn = false
-        UserDefaults.standard.removeObject(forKey: "currentUser")
+    /// هل المكان مفضل؟
+    func isFavorite(_ placeId: String) -> Bool {
+        favorites.contains(placeId)
     }
 }
 
-// MARK: - Main Tab View (HS Pattern — Lazy Loading)
-
-struct MainTabView: View {
-    @State private var selectedTab: AppTab = .home
-    @EnvironmentObject var appState: AppState
-    
-    var body: some View {
-        TabView(selection: $selectedTab) {
-            // كل tab يحمّل لحاله (Lazy) — مثل HungerStation
-            LazyView(HomeView())
-                .tabItem { Label("الرئيسية", systemImage: "house.fill") }
-                .tag(AppTab.home)
-            
-            LazyView(ExploreView())
-                .tabItem { Label("استكشف", systemImage: "safari.fill") }
-                .tag(AppTab.explore)
-            
-            LazyView(MapView())
-                .tabItem { Label("خريطة", systemImage: "map.fill") }
-                .tag(AppTab.map)
-            
-            LazyView(MyPlacesView())
-                .tabItem { Label("أماكني", systemImage: "heart.fill") }
-                .tag(AppTab.myPlaces)
-            
-            LazyView(ProfileView())
-                .tabItem { Label("حسابي", systemImage: "person.fill") }
-                .tag(AppTab.profile)
-        }
-        .tint(Theme.primary)
-        .task {
-            await appState.loadPlaces()
-        }
-    }
-}
-
-// MARK: - Lazy View Wrapper (HS Pattern)
-
-/// لا يحمّل الـ view إلا لما يظهر — أسرع بكثير
-struct LazyView<Content: View>: View {
-    let build: () -> Content
-    init(_ build: @autoclosure @escaping () -> Content) {
-        self.build = build
-    }
-    var body: Content { build() }
-}
-
-// MARK: - Tab Enum
-
-enum AppTab: Hashable {
-    case home       // الرئيسية
-    case explore    // استكشف (بحث + فلاتر + مناسبات)
-    case map        // الخريطة
-    case myPlaces   // أماكني (المفضلة + القوائم)
-    case profile    // حسابي + AI Chat
-}
-
-// MARK: - Onboarding
+// MARK: - شاشة الترحيب
 
 struct OnboardingView: View {
-    @Binding var isFirstLaunch: Bool
-    @EnvironmentObject var appState: AppState
+    let onComplete: () -> Void
+    @State private var currentPage = 0
+    
+    private let pages: [(emoji: String, title: String, subtitle: String)] = [
+        ("🏙", "وين نروح بالرياض؟", "أكثر من ٦,٥٠٠ مكان\nمطاعم · كافيهات · ترفيه · وأكثر"),
+        ("📍", "اكتشف حسب موقعك", "أفضل الأماكن القريبة منك\nمع التقييمات والأسعار"),
+        ("🤖", "ذكاء اصطناعي يساعدك", "قولّه وش تبي وهو يرشحلك\nالمكان المناسب")
+    ]
     
     var body: some View {
-        VStack(spacing: 32) {
-            Spacer()
+        ZStack {
+            Color.appBackground.ignoresSafeArea()
             
-            Text("وين نروح؟")
-                .font(.system(size: 40, weight: .bold))
-                .foregroundStyle(Theme.primary)
-            
-            Text("اكتشف أفضل الأماكن بالرياض")
-                .font(.title3)
-                .foregroundStyle(.secondary)
-            
-            Text("6,500+ مكان • مطاعم • كافيهات • ترفيه • تسوق")
-                .font(.subheadline)
-                .foregroundStyle(.tertiary)
-                .multilineTextAlignment(.center)
-            
-            Spacer()
-            
-            Button {
-                isFirstLaunch = false
-            } label: {
-                Text("يلا نبدأ")
-                    .font(.headline)
-                    .frame(maxWidth: .infinity)
-                    .padding()
-                    .background(Theme.primary)
-                    .foregroundStyle(.white)
-                    .clipShape(RoundedRectangle(cornerRadius: 16))
+            VStack(spacing: Theme.spacingXXL) {
+                Spacer()
+                
+                // المحتوى
+                TabView(selection: $currentPage) {
+                    ForEach(0..<pages.count, id: \.self) { index in
+                        VStack(spacing: Theme.spacingXL) {
+                            Text(pages[index].emoji)
+                                .font(.system(size: 80))
+                            
+                            Text(pages[index].title)
+                                .font(Theme.largeTitle())
+                                .foregroundStyle(.appTextPrimary)
+                                .multilineTextAlignment(.center)
+                            
+                            Text(pages[index].subtitle)
+                                .font(Theme.body())
+                                .foregroundStyle(.appTextSecondary)
+                                .multilineTextAlignment(.center)
+                                .lineSpacing(6)
+                        }
+                        .tag(index)
+                    }
+                }
+                .tabViewStyle(.page(indexDisplayMode: .always))
+                
+                Spacer()
+                
+                // زر البداية
+                Button {
+                    if currentPage < pages.count - 1 {
+                        withAnimation {
+                            currentPage += 1
+                        }
+                    } else {
+                        onComplete()
+                    }
+                } label: {
+                    Text(currentPage == pages.count - 1 ? "يلا نبدأ!" : "التالي")
+                        .frame(maxWidth: .infinity)
+                        .wainPrimaryButton()
+                }
+                .padding(.horizontal, Theme.spacingXL)
+                .padding(.bottom, Theme.spacingXXL)
+                
+                // تخطي
+                if currentPage < pages.count - 1 {
+                    Button("تخطي") {
+                        onComplete()
+                    }
+                    .font(Theme.detail())
+                    .foregroundStyle(.appTextSecondary)
+                    .padding(.bottom, Theme.spacingL)
+                }
             }
-            .padding(.horizontal, 32)
-            .padding(.bottom, 48)
         }
-        .environment(\.layoutDirection, .rightToLeft)
     }
 }

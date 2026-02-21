@@ -1,120 +1,57 @@
 // PriceTag.swift
-// عرض نطاق السعر بالريال — $ إلى $$$$
+// عرض مستوى السعر
+// هوية ليالي الرياض
 
 import SwiftUI
 
-// MARK: - علامة السعر
-
-/// عرض نطاق السعر ($ إلى $$$$)
 struct PriceTag: View {
-    let priceRange: String
-    var size: TagSize = .medium
+    let level: String
+    var style: TagStyle = .standard
     
-    enum TagSize {
-        case small, medium, large
-        
-        var fontSize: CGFloat {
-            switch self {
-            case .small: return 11
-            case .medium: return 13
-            case .large: return 16
-            }
-        }
-        
-        var padding: CGFloat {
-            switch self {
-            case .small: return 4
-            case .medium: return 6
-            case .large: return 8
-            }
-        }
+    enum TagStyle {
+        case standard  // نص ملون
+        case badge     // مع خلفية
+        case arabic    // ترجمة عربية
     }
     
     var body: some View {
-        Text(priceText)
-            .font(.system(size: size.fontSize, weight: .semibold, design: .monospaced))
-            .foregroundStyle(priceColor)
-            .padding(.horizontal, size.padding + 2)
-            .padding(.vertical, size.padding)
-            .background(priceColor.opacity(0.12))
-            .clipShape(RoundedRectangle(cornerRadius: 6))
-    }
-    
-    /// نص السعر المنسق
-    private var priceText: String {
-        switch priceRange {
-        case "$": return "💰 رخيص"
-        case "$$": return "💰💰 متوسط"
-        case "$$$": return "💰💰💰 غالي"
-        case "$$$$": return "💰💰💰💰 فاخر"
-        default: return priceRange
+        switch style {
+        case .standard:
+            Text(level)
+                .font(Theme.detail().bold())
+                .foregroundStyle(Color.priceColor(for: level))
+        case .badge:
+            Text(level)
+                .font(Theme.badge())
+                .foregroundStyle(Color.priceColor(for: level))
+                .padding(.horizontal, 8)
+                .padding(.vertical, 3)
+                .background(Color.priceColor(for: level).opacity(0.1))
+                .clipShape(Capsule())
+        case .arabic:
+            Text(arabicLabel)
+                .font(Theme.badge())
+                .foregroundStyle(Color.priceColor(for: level))
         }
     }
     
-    /// لون السعر
-    private var priceColor: Color {
-        Color.priceColor(for: priceRange)
-    }
-}
-
-// MARK: - عرض سعر بالريال
-
-/// عرض سعر محدد بالريال السعودي
-struct SARPrice: View {
-    let amount: Double
-    var size: PriceTag.TagSize = .medium
-    var showCurrency: Bool = true
-    var strikethrough: Double?
-    
-    var body: some View {
-        HStack(spacing: 4) {
-            // السعر الأصلي (مشطوب)
-            if let original = strikethrough, original > amount {
-                Text("\(Int(original))")
-                    .strikethrough()
-                    .font(.system(size: size.fontSize - 2))
-                    .foregroundStyle(Color.appTextSecondary)
-            }
-            
-            // السعر الحالي
-            Text(formattedAmount)
-                .font(.system(size: size.fontSize, weight: .bold, design: .rounded))
-                .foregroundStyle(Color.appTextPrimary)
-            
-            // العملة
-            if showCurrency {
-                Text("ر.س")
-                    .font(.system(size: size.fontSize - 2, weight: .regular))
-                    .foregroundStyle(Color.appTextSecondary)
-            }
+    private var arabicLabel: String {
+        switch level {
+        case "$", "٫": return "رخيص"
+        case "$$", "٫٫": return "متوسط"
+        case "$$$", "٫٫٫": return "غالي"
+        case "$$$$", "٫٫٫٫": return "فخم"
+        default: return level
         }
     }
-    
-    private var formattedAmount: String {
-        if amount == 0 { return "مجاني" }
-        if amount == floor(amount) { return "\(Int(amount))" }
-        return String(format: "%.1f", amount)
-    }
 }
-
-// MARK: - Preview
 
 #Preview {
-    VStack(spacing: 16) {
-        HStack(spacing: 12) {
-            PriceTag(priceRange: "$", size: .small)
-            PriceTag(priceRange: "$$", size: .medium)
-            PriceTag(priceRange: "$$$", size: .medium)
-            PriceTag(priceRange: "$$$$", size: .large)
-        }
-        
-        Divider()
-        
-        VStack(spacing: 8) {
-            SARPrice(amount: 45, size: .large)
-            SARPrice(amount: 0, size: .medium)
-            SARPrice(amount: 89.5, size: .medium, strikethrough: 120)
-        }
+    VStack(spacing: 12) {
+        PriceTag(level: "$")
+        PriceTag(level: "$$", style: .badge)
+        PriceTag(level: "$$$", style: .arabic)
+        PriceTag(level: "$$$$", style: .badge)
     }
     .padding()
     .background(Color.appBackground)

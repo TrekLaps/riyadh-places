@@ -1,254 +1,290 @@
 // Theme.swift
-// نظام التصميم — الألوان والخطوط والأبعاد
-// Dark/Light mode مع ألوان ذهبية سعودية
+// نظام التصميم — هوية "ليالي الرياض"
+// أخضر سعودي + ذهب صحراوي + Liquid Glass
 
 import SwiftUI
 
 // MARK: - الثيم الرئيسي
 
-/// نظام التصميم المركزي للتطبيق
+/// نظام التصميم المركزي — وين نروح
 enum Theme {
     
-    // MARK: - الألوان الرئيسية
+    // MARK: - 🟢 الأخضر السعودي (Primary)
     
-    /// الذهبي الأساسي — #C9A84C
-    static let primary = Color(hex: "C9A84C")
+    /// أخضر-900 — خلفية رئيسية (ليل)
+    static let green900 = Color(hex: "050F0B")
     
-    /// الذهبي الفاتح
-    static let primaryLight = Color(hex: "DFC474")
+    /// أخضر-800 — خلفية البطاقات
+    static let green800 = Color(hex: "0A1F16")
     
-    /// الذهبي الغامق
-    static let primaryDark = Color(hex: "A08530")
+    /// أخضر-700 — headers, navigation
+    static let green700 = Color(hex: "0D3B2E")
     
-    /// الأزرق المساعد — #2196F3
-    static let accent = Color(hex: "2196F3")
+    /// أخضر-600 — أزرار ثانوية
+    static let green600 = Color(hex: "1A6B4A")
     
-    /// الأزرق الفاتح
-    static let accentLight = Color(hex: "64B5F6")
+    /// أخضر-500 — hover states
+    static let green500 = Color(hex: "2E8B62")
     
-    // MARK: - ألوان الخلفية
+    /// أخضر-400 — أزرار رئيسية، highlights
+    static let green400 = Color(hex: "3CC98E")
     
-    /// خلفية داكنة — #0A1628
-    static let backgroundDark = Color(hex: "0A1628")
+    /// أخضر-300 — نصوص مميزة
+    static let green300 = Color(hex: "6EDBA8")
     
-    /// خلفية فاتحة — #F5F5F5
-    static let backgroundLight = Color(hex: "F5F5F5")
+    /// أخضر-200 — badges خفيفة
+    static let green200 = Color(hex: "A8EBC8")
     
-    /// خلفية البطاقة (دارك)
-    static let cardBackgroundDark = Color(hex: "122240")
+    /// أخضر-100 — light mode خلفية
+    static let green100 = Color(hex: "D4F4E5")
     
-    /// خلفية البطاقة (لايت)
-    static let cardBackgroundLight = Color.white
+    // MARK: - 🏅 الذهب الصحراوي (Accent)
     
-    /// خلفية ثانوية (دارك)
-    static let secondaryBackgroundDark = Color(hex: "1A2D4D")
+    /// ذهب-600 — pressed state
+    static let gold600 = Color(hex: "A08530")
     
-    /// خلفية ثانوية (لايت)
-    static let secondaryBackgroundLight = Color(hex: "EEEEEE")
+    /// ذهب-500 — نجوم التقييم
+    static let gold500 = Color(hex: "C9A84C")
     
-    // MARK: - ألوان تتكيف مع الوضع (Adaptive)
+    /// ذهب-400 — highlights
+    static let gold400 = Color(hex: "DFC474")
     
-    /// خلفية رئيسية — تتكيف مع الدارك/لايت
-    static let backgroundPrimary = Color("BackgroundPrimary", bundle: nil)
-        
-    /// خلفية البطاقة — تتكيف
-    static let cardBackground = Color("CardBackground", bundle: nil)
+    /// ذهب-300 — badges
+    static let gold300 = Color(hex: "F0DFA0")
     
-    /// النص الأساسي
-    static let textPrimary = Color("TextPrimary", bundle: nil)
+    // MARK: - 🏜 ألوان الأجواء
     
-    /// النص الثانوي
-    static let textSecondary = Color("TextSecondary", bundle: nil)
+    /// رمل — نص ثانوي (dark)
+    static let sand = Color(hex: "B8A88A")
+    
+    /// كريمي — نص رئيسي (dark)
+    static let cream = Color(hex: "F0EDE5")
+    
+    /// سماء ليل
+    static let nightSky = Color(hex: "0B1A2E")
+    
+    /// نخل
+    static let palm = Color(hex: "1B4332")
+    
+    // MARK: - الألوان الرئيسية (Shortcuts)
+    
+    /// اللون الرئيسي — أخضر-400
+    static let primary = green400
+    
+    /// اللون الرئيسي الغامق
+    static let primaryDark = green700
+    
+    /// الأكسنت — ذهب
+    static let accent = gold500
     
     // MARK: - ألوان دلالية
     
-    /// أخضر — للنجاح والتوفر
-    static let success = Color(hex: "4CAF50")
+    /// نجاح / مفتوح
+    static let success = green400
     
-    /// أحمر — للأخطاء والحذف
-    static let error = Color(hex: "F44336")
+    /// خطأ / مغلق
+    static let error = Color(hex: "E74C3C")
     
-    /// برتقالي — للتحذيرات
-    static let warning = Color(hex: "FF9800")
+    /// تحذير
+    static let warning = Color(hex: "F0AD4E")
     
-    /// أزرق — للمعلومات
-    static let info = Color(hex: "2196F3")
+    /// معلومة
+    static let info = Color(hex: "5DADE2")
     
-    // MARK: - ألوان التقييم
+    // MARK: - التقييم
     
     /// نجمة ذهبية
-    static let starFilled = Color(hex: "FFD700")
+    static let starFilled = gold500
     
     /// نجمة فارغة
     static let starEmpty = Color(hex: "3A3A3C")
     
-    // MARK: - ألوان الأسعار
+    // MARK: - الأسعار
     
-    /// سعر رخيص
-    static let pricelow = Color(hex: "4CAF50")
+    /// رخيص
+    static let priceLow = green400
     
-    /// سعر متوسط
-    static let priceMedium = Color(hex: "FF9800")
+    /// متوسط
+    static let priceMedium = gold500
     
-    /// سعر غالي
-    static let priceHigh = Color(hex: "F44336")
+    /// غالي
+    static let priceHigh = Color(hex: "E74C3C")
     
-    // MARK: - الخطوط
+    // MARK: - 🔤 الخطوط
     
-    /// عنوان كبير (Arabic: Tajawal Bold, English: SF Pro Bold)
-    static func titleFont(size: CGFloat = 24) -> Font {
+    /// عنوان كبير — ٢٨
+    static func largeTitle(size: CGFloat = 28) -> Font {
         .system(size: size, weight: .bold, design: .rounded)
     }
     
-    /// عنوان متوسط
-    static func headlineFont(size: CGFloat = 18) -> Font {
+    /// عنوان — ٢٢
+    static func title(size: CGFloat = 22) -> Font {
+        .system(size: size, weight: .bold, design: .rounded)
+    }
+    
+    /// عنوان فرعي — ١٨
+    static func headline(size: CGFloat = 18) -> Font {
         .system(size: size, weight: .semibold, design: .rounded)
     }
     
-    /// نص عادي
-    static func bodyFont(size: CGFloat = 16) -> Font {
+    /// نص عادي — ١٦
+    static func body(size: CGFloat = 16) -> Font {
         .system(size: size, weight: .regular)
     }
     
-    /// نص صغير
-    static func captionFont(size: CGFloat = 13) -> Font {
+    /// تفاصيل — ١٤
+    static func detail(size: CGFloat = 14) -> Font {
         .system(size: size, weight: .regular)
     }
     
-    /// نص صغير جداً
-    static func footnoteFont(size: CGFloat = 11) -> Font {
+    /// توضيح — ١٢
+    static func caption(size: CGFloat = 12) -> Font {
         .system(size: size, weight: .regular)
     }
     
-    /// رقم (سعر)
-    static func priceFont(size: CGFloat = 20) -> Font {
+    /// بادج — ١١
+    static func badge(size: CGFloat = 11) -> Font {
+        .system(size: size, weight: .medium)
+    }
+    
+    /// أسعار — مونوسبيس
+    static func price(size: CGFloat = 18) -> Font {
         .system(size: size, weight: .bold, design: .monospaced)
     }
     
-    // MARK: - الأبعاد
+    // MARK: - 📐 الأبعاد
     
-    /// زوايا مستديرة — صغيرة
-    static let cornerRadiusSmall: CGFloat = 8
+    /// زوايا مستديرة
+    static let radiusSmall: CGFloat = 8
+    static let radiusMedium: CGFloat = 12
+    static let radiusLarge: CGFloat = 16
+    static let radiusXL: CGFloat = 24
+    static let radiusFull: CGFloat = 50
     
-    /// زوايا مستديرة — متوسطة
-    static let cornerRadiusMedium: CGFloat = 12
+    /// مسافات
+    static let spacingXS: CGFloat = 4
+    static let spacingS: CGFloat = 8
+    static let spacingM: CGFloat = 12
+    static let spacingL: CGFloat = 16
+    static let spacingXL: CGFloat = 24
+    static let spacingXXL: CGFloat = 32
     
-    /// زوايا مستديرة — كبيرة
-    static let cornerRadiusLarge: CGFloat = 16
+    /// ارتفاعات
+    static let cardSmall: CGFloat = 120
+    static let cardMedium: CGFloat = 180
+    static let cardLarge: CGFloat = 240
+    static let heroHeight: CGFloat = 300
     
-    /// زوايا مستديرة — كبيرة جداً
-    static let cornerRadiusXL: CGFloat = 24
+    // MARK: - 🌊 Gradients
     
-    /// مسافة داخلية — صغيرة
-    static let paddingSmall: CGFloat = 8
+    /// تدرج البطاقة — أخضر غامق
+    static let cardGradient = LinearGradient(
+        colors: [green900, green800],
+        startPoint: .top,
+        endPoint: .bottom
+    )
     
-    /// مسافة داخلية — متوسطة
-    static let paddingMedium: CGFloat = 16
+    /// تدرج الصورة — للنص فوقها
+    static let imageOverlay = LinearGradient(
+        colors: [green900.opacity(0.8), .clear, green900.opacity(0.6)],
+        startPoint: .bottom,
+        endPoint: .top
+    )
     
-    /// مسافة داخلية — كبيرة
-    static let paddingLarge: CGFloat = 24
+    /// تدرج الهيرو
+    static let heroGradient = LinearGradient(
+        colors: [green900, green700.opacity(0.3), .clear],
+        startPoint: .bottom,
+        endPoint: .center
+    )
     
-    /// مسافة بين العناصر — صغيرة
-    static let spacingSmall: CGFloat = 8
+    /// تدرج رئيسي
+    static let primaryGradient = LinearGradient(
+        colors: [green600, green400],
+        startPoint: .leading,
+        endPoint: .trailing
+    )
     
-    /// مسافة بين العناصر — متوسطة
-    static let spacingMedium: CGFloat = 12
+    // MARK: - 🎭 ظلال
     
-    /// مسافة بين العناصر — كبيرة
-    static let spacingLarge: CGFloat = 16
+    static let cardShadowColor = Color.black.opacity(0.3)
+    static let cardShadowRadius: CGFloat = 12
+    static let cardShadowY: CGFloat = 6
     
-    /// ارتفاع البطاقة الصغيرة
-    static let cardHeightSmall: CGFloat = 120
+    static let lightShadowColor = Color.black.opacity(0.15)
+    static let lightShadowRadius: CGFloat = 6
+    static let lightShadowY: CGFloat = 3
     
-    /// ارتفاع البطاقة المتوسطة
-    static let cardHeightMedium: CGFloat = 180
+    // MARK: - 🎬 حركات
     
-    /// ارتفاع البطاقة الكبيرة
-    static let cardHeightLarge: CGFloat = 240
-    
-    // MARK: - ظلال
-    
-    /// ظل البطاقة
-    static let cardShadow = Shadow(color: .black.opacity(0.15), radius: 8, x: 0, y: 4)
-    
-    /// ظل خفيف
-    static let lightShadow = Shadow(color: .black.opacity(0.08), radius: 4, x: 0, y: 2)
-    
-    // MARK: - حركات (Animations)
-    
-    /// حركة سريعة
-    static let animationFast: Animation = .easeInOut(duration: 0.2)
-    
-    /// حركة عادية
-    static let animationNormal: Animation = .easeInOut(duration: 0.35)
-    
-    /// حركة نابضية
-    static let animationSpring: Animation = .spring(response: 0.4, dampingFraction: 0.75)
+    static let animFast: Animation = .easeInOut(duration: 0.2)
+    static let animNormal: Animation = .easeInOut(duration: 0.35)
+    static let animSpring: Animation = .spring(response: 0.4, dampingFraction: 0.75)
+    static let animBouncy: Animation = .spring(response: 0.5, dampingFraction: 0.6)
 }
 
-// MARK: - بنية الظل
-
-/// بنية مساعدة للظلال
-struct Shadow {
-    let color: Color
-    let radius: CGFloat
-    let x: CGFloat
-    let y: CGFloat
-}
-
-// MARK: - معدّلات عرض مشتركة
+// MARK: - 🃏 Card Style Modifier
 
 extension View {
     
-    /// تطبيق ستايل البطاقة
-    func cardStyle(isDark: Bool = true) -> some View {
+    /// ستايل بطاقة — أخضر غامق مع ظل
+    func wainCard() -> some View {
         self
-            .background(isDark ? Theme.cardBackgroundDark : Theme.cardBackgroundLight)
-            .clipShape(RoundedRectangle(cornerRadius: Theme.cornerRadiusMedium))
+            .background(Theme.green800)
+            .clipShape(RoundedRectangle(cornerRadius: Theme.radiusLarge, style: .continuous))
             .shadow(
-                color: Theme.cardShadow.color,
-                radius: Theme.cardShadow.radius,
-                x: Theme.cardShadow.x,
-                y: Theme.cardShadow.y
+                color: Theme.cardShadowColor,
+                radius: Theme.cardShadowRadius,
+                x: 0, y: Theme.cardShadowY
             )
     }
     
-    /// تطبيق ستايل الزر الذهبي
-    func goldButtonStyle() -> some View {
+    /// زر رئيسي — أخضر متدرج
+    func wainPrimaryButton() -> some View {
         self
-            .font(Theme.headlineFont(size: 16))
+            .font(Theme.headline(size: 16))
             .foregroundStyle(.white)
-            .padding(.horizontal, Theme.paddingLarge)
-            .padding(.vertical, Theme.paddingSmall + 4)
-            .background(Theme.primary)
-            .clipShape(RoundedRectangle(cornerRadius: Theme.cornerRadiusMedium))
+            .padding(.horizontal, Theme.spacingXL)
+            .padding(.vertical, Theme.spacingM)
+            .background(Theme.primaryGradient)
+            .clipShape(RoundedRectangle(cornerRadius: Theme.radiusLarge, style: .continuous))
     }
     
-    /// تطبيق ستايل الزر الثانوي
-    func secondaryButtonStyle() -> some View {
+    /// زر ثانوي — glass style
+    func wainSecondaryButton() -> some View {
         self
-            .font(Theme.bodyFont(size: 14))
-            .foregroundStyle(Theme.primary)
-            .padding(.horizontal, Theme.paddingMedium)
-            .padding(.vertical, Theme.paddingSmall)
-            .background(Theme.primary.opacity(0.15))
-            .clipShape(RoundedRectangle(cornerRadius: Theme.cornerRadiusSmall))
+            .font(Theme.body(size: 14))
+            .foregroundStyle(Theme.green400)
+            .padding(.horizontal, Theme.spacingL)
+            .padding(.vertical, Theme.spacingS)
+            .background(Theme.green400.opacity(0.12))
+            .clipShape(RoundedRectangle(cornerRadius: Theme.radiusMedium, style: .continuous))
     }
     
-    /// تطبيق تأثير الضغط
-    func pressEffect() -> some View {
-        self.buttonStyle(PressButtonStyle())
+    /// glass pill — لـ tags و occasions
+    func wainGlassPill() -> some View {
+        self
+            .font(Theme.detail())
+            .foregroundStyle(Theme.cream)
+            .padding(.horizontal, Theme.spacingM)
+            .padding(.vertical, Theme.spacingXS + 2)
+            .background(.ultraThinMaterial)
+            .clipShape(Capsule())
+    }
+    
+    /// تأثير الضغط
+    func wainPress() -> some View {
+        self.buttonStyle(WainPressStyle())
     }
 }
 
-// MARK: - ستايل زر الضغط
+// MARK: - Press Button Style
 
-/// تأثير بصري عند الضغط على الزر
-struct PressButtonStyle: ButtonStyle {
+struct WainPressStyle: ButtonStyle {
     func makeBody(configuration: Configuration) -> some View {
         configuration.label
             .scaleEffect(configuration.isPressed ? 0.96 : 1.0)
             .opacity(configuration.isPressed ? 0.85 : 1.0)
-            .animation(Theme.animationFast, value: configuration.isPressed)
+            .animation(Theme.animFast, value: configuration.isPressed)
     }
 }

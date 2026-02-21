@@ -1,129 +1,88 @@
 // RatingView.swift
 // عرض التقييم — نجوم ذهبية
+// هوية ليالي الرياض
 
 import SwiftUI
 
-// MARK: - عرض التقييم
-
-/// عرض التقييم بالنجوم
 struct RatingView: View {
     let rating: Double
     var maxRating: Int = 5
-    var size: RatingSize = .medium
-    var showCount: Bool = false
-    var count: Int?
-    
-    enum RatingSize {
-        case small, medium, large
-        
-        var starSize: CGFloat {
-            switch self {
-            case .small: return 10
-            case .medium: return 14
-            case .large: return 20
-            }
-        }
-        
-        var fontSize: CGFloat {
-            switch self {
-            case .small: return 11
-            case .medium: return 13
-            case .large: return 16
-            }
-        }
-        
-        var spacing: CGFloat {
-            switch self {
-            case .small: return 1
-            case .medium: return 2
-            case .large: return 3
-            }
-        }
-    }
+    var size: CGFloat = 14
     
     var body: some View {
-        HStack(spacing: size.spacing) {
-            // النجوم
-            ForEach(0..<maxRating, id: \.self) { index in
-                starImage(for: index)
-                    .foregroundStyle(starColor(for: index))
-                    .font(.system(size: size.starSize))
-            }
-            
-            // الرقم
-            Text(rating.formattedRating)
-                .font(.system(size: size.fontSize, weight: .semibold))
-                .foregroundStyle(Color.ratingColor(for: rating))
-            
-            // العدد
-            if showCount, let count {
-                Text("(\(count.formattedCount))")
-                    .font(.system(size: size.fontSize - 2))
-                    .foregroundStyle(Color.appTextSecondary)
+        HStack(spacing: 2) {
+            ForEach(1...maxRating, id: \.self) { star in
+                Image(systemName: starIcon(for: star))
+                    .font(.system(size: size))
+                    .foregroundStyle(starColor(for: star))
             }
         }
     }
     
-    /// أيقونة النجمة حسب الموقع
-    private func starImage(for index: Int) -> Image {
-        let threshold = Double(index) + 1
-        if rating >= threshold {
-            return Image(systemName: "star.fill")
-        } else if rating >= threshold - 0.5 {
-            return Image(systemName: "star.leadinghalf.filled")
+    private func starIcon(for star: Int) -> String {
+        let value = Double(star)
+        if rating >= value {
+            return "star.fill"
+        } else if rating >= value - 0.5 {
+            return "star.leadinghalf.filled"
         } else {
-            return Image(systemName: "star")
+            return "star"
         }
     }
     
-    /// لون النجمة
-    private func starColor(for index: Int) -> Color {
-        let threshold = Double(index) + 1
-        if rating >= threshold - 0.5 {
-            return Theme.starFilled
-        }
-        return Theme.starEmpty
+    private func starColor(for star: Int) -> Color {
+        Double(star) <= rating + 0.5 ? Theme.starFilled : Theme.starEmpty
     }
 }
 
-// MARK: - عرض تقييم مصغر
+// MARK: - Rating Badge (رقم + نجمة)
 
-/// عرض تقييم مصغر (رقم + نجمة واحدة)
-struct CompactRating: View {
+struct RatingBadge: View {
     let rating: Double
-    var count: Int?
+    var style: BadgeStyle = .standard
+    
+    enum BadgeStyle {
+        case standard   // خلفية شفافة
+        case filled     // خلفية ملونة
+        case minimal    // بدون خلفية
+    }
     
     var body: some View {
         HStack(spacing: 3) {
             Image(systemName: "star.fill")
-                .font(.system(size: 11))
-                .foregroundStyle(Theme.starFilled)
+                .font(.system(size: 10))
+                .foregroundStyle(Theme.gold500)
             
-            Text(rating.formattedRating)
-                .font(.system(size: 13, weight: .semibold))
-                .foregroundStyle(Color.appTextPrimary)
-            
-            if let count {
-                Text("(\(count.formattedCount))")
-                    .font(.system(size: 11))
-                    .foregroundStyle(Color.appTextSecondary)
-            }
+            Text(String(format: "%.1f", rating))
+                .font(Theme.detail().bold())
+                .foregroundStyle(style == .filled ? .white : .appTextPrimary)
+        }
+        .padding(.horizontal, style == .minimal ? 0 : 8)
+        .padding(.vertical, style == .minimal ? 0 : 4)
+        .background(badgeBackground)
+        .clipShape(Capsule())
+    }
+    
+    @ViewBuilder
+    private var badgeBackground: some View {
+        switch style {
+        case .standard:
+            Color.appCardBackground
+        case .filled:
+            Color.ratingColor(for: rating)
+        case .minimal:
+            Color.clear
         }
     }
 }
 
-// MARK: - Preview
-
 #Preview {
     VStack(spacing: 20) {
-        RatingView(rating: 4.5, size: .large, showCount: true, count: 128)
-        RatingView(rating: 3.7, size: .medium, showCount: true, count: 42)
-        RatingView(rating: 2.5, size: .small)
-        
-        Divider()
-        
-        CompactRating(rating: 4.8, count: 256)
-        CompactRating(rating: 3.2)
+        RatingView(rating: 4.7)
+        RatingView(rating: 3.5, size: 20)
+        RatingBadge(rating: 4.7)
+        RatingBadge(rating: 4.7, style: .filled)
+        RatingBadge(rating: 4.7, style: .minimal)
     }
     .padding()
     .background(Color.appBackground)

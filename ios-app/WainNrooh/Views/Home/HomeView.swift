@@ -1,6 +1,6 @@
 // HomeView.swift
-// الرئيسية — HS Super App Pattern
-// Sections: Occasions → Trending → Top 10 → New → Categories
+// الرئيسية — هوية ليالي الرياض
+// أقسام: بحث → مناسبات → ترند → أفضل ١٠ → جديد → التصنيفات
 
 import SwiftUI
 
@@ -10,20 +10,20 @@ struct HomeView: View {
     
     var body: some View {
         NavigationStack {
-            ScrollView {
-                VStack(spacing: 20) {
-                    // Header + Search
+            ScrollView(showsIndicators: false) {
+                VStack(spacing: Theme.spacingXL) {
+                    // الهيدر + البحث
                     headerSection
                     
-                    // وش المناسبة؟ (SquareMeal)
+                    // وش المناسبة؟
                     occasionSection
                     
-                    // 🔥 ترند (Yelp Hot & New)
+                    // 🔥 الترند
                     if !viewModel.trendingPlaces.isEmpty {
                         trendingSection
                     }
                     
-                    // 🏆 أفضل 10 بالحي (Dianping)
+                    // 🏆 أفضل ١٠ بالحي
                     if let topPlaces = viewModel.topInNeighborhood, !topPlaces.isEmpty {
                         topNeighborhoodSection(topPlaces)
                     }
@@ -33,13 +33,13 @@ struct HomeView: View {
                         newSection
                     }
                     
-                    // التصنيفات (HS Category Grid)
+                    // التصنيفات
                     categoriesGrid
                     
-                    Spacer(minLength: 80)
+                    Spacer(minLength: 100)
                 }
             }
-            .background(Color(.systemBackground))
+            .background(Color.appBackground)
             .refreshable {
                 await viewModel.loadData(places: appState.places)
             }
@@ -50,125 +50,127 @@ struct HomeView: View {
         }
     }
     
-    // MARK: - Header
+    // MARK: - الهيدر
     
     private var headerSection: some View {
-        VStack(alignment: .trailing, spacing: 12) {
+        VStack(alignment: .trailing, spacing: Theme.spacingL) {
+            // الشعار + الإشعارات
             HStack {
+                // إشعارات
                 Button {} label: {
                     Image(systemName: "bell.fill")
                         .font(.title3)
-                        .foregroundStyle(.secondary)
+                        .foregroundStyle(Theme.sand)
+                        .frame(width: 44, height: 44)
+                        .background(Theme.green400.opacity(0.1))
+                        .clipShape(Circle())
                 }
+                
                 Spacer()
-                VStack(alignment: .trailing) {
-                    Text("وين نروح؟ 🏙️")
-                        .font(.title.bold())
-                    Text("\(appState.places.count)+ مكان بالرياض")
-                        .font(.caption)
-                        .foregroundStyle(.secondary)
+                
+                // العنوان
+                VStack(alignment: .trailing, spacing: 2) {
+                    Text("وين نروح؟")
+                        .font(Theme.largeTitle())
+                        .foregroundStyle(.appTextPrimary)
+                    
+                    Text("أكثر من \(appState.places.count) مكان بالرياض")
+                        .font(Theme.caption())
+                        .foregroundStyle(.appTextSecondary)
                 }
             }
             
-            // Quick Search Bar
+            // شريط البحث
             NavigationLink {
                 ExploreView()
             } label: {
                 HStack {
                     Image(systemName: "magnifyingglass")
-                        .foregroundStyle(.secondary)
+                        .foregroundStyle(Theme.green400)
                     Spacer()
-                    Text("ابحث عن مكان، حي، أو نوع...")
-                        .font(.subheadline)
-                        .foregroundStyle(.secondary)
+                    Text("وش تبي تسوي اليوم؟")
+                        .font(Theme.body())
+                        .foregroundStyle(.appTextSecondary)
                 }
-                .padding(14)
-                .background(Color(.secondarySystemBackground))
-                .clipShape(RoundedRectangle(cornerRadius: 12))
+                .padding(Theme.spacingL)
+                .background(.ultraThinMaterial)
+                .clipShape(Capsule())
+                .overlay(
+                    Capsule()
+                        .stroke(Theme.green400.opacity(0.2), lineWidth: 1)
+                )
             }
         }
-        .padding(.horizontal)
-        .padding(.top)
+        .padding(.horizontal, Theme.spacingL)
+        .padding(.top, Theme.spacingL)
     }
     
-    // MARK: - Occasions (SquareMeal)
+    // MARK: - وش المناسبة؟
     
     private var occasionSection: some View {
-        VStack(alignment: .trailing, spacing: 8) {
-            Text("وش المناسبة؟")
-                .font(.headline)
-                .padding(.horizontal)
+        VStack(alignment: .trailing, spacing: Theme.spacingM) {
+            sectionHeader(title: "وش المناسبة؟", emoji: "🌙")
             
             ScrollView(.horizontal, showsIndicators: false) {
-                HStack(spacing: 10) {
+                HStack(spacing: Theme.spacingM) {
                     ForEach(Occasion.allCases) { occasion in
                         NavigationLink {
                             OccasionResultsView(occasion: occasion, places: appState.places)
                         } label: {
-                            VStack(spacing: 6) {
+                            VStack(spacing: Theme.spacingS) {
                                 Text(occasion.emoji)
                                     .font(.title)
+                                    .frame(width: 52, height: 52)
+                                    .background(Theme.green400.opacity(0.1))
+                                    .clipShape(Circle())
+                                
                                 Text(occasion.nameAr)
-                                    .font(.caption)
-                                    .fontWeight(.medium)
+                                    .font(Theme.badge(size: 12))
+                                    .foregroundStyle(.appTextPrimary)
                             }
-                            .frame(width: 80, height: 75)
-                            .background(Color(.secondarySystemBackground))
-                            .clipShape(RoundedRectangle(cornerRadius: 12))
+                            .frame(width: 75)
                         }
                         .buttonStyle(.plain)
                     }
                 }
-                .padding(.horizontal)
+                .padding(.horizontal, Theme.spacingL)
             }
         }
     }
     
-    // MARK: - Trending (Yelp)
+    // MARK: - الترند
     
     private var trendingSection: some View {
-        VStack(alignment: .trailing, spacing: 8) {
-            HStack {
-                Text("عرض الكل →")
-                    .font(.caption)
-                    .foregroundStyle(Theme.primary)
-                Spacer()
-                Text("🔥 الأكثر شعبية")
-                    .font(.headline)
-            }
-            .padding(.horizontal)
+        VStack(alignment: .trailing, spacing: Theme.spacingM) {
+            sectionHeaderWithAction(title: "الأكثر شعبية", emoji: "🔥")
             
             ScrollView(.horizontal, showsIndicators: false) {
-                HStack(spacing: 12) {
+                HStack(spacing: Theme.spacingL) {
                     ForEach(viewModel.trendingPlaces.prefix(10)) { place in
                         NavigationLink {
                             PlaceDetailView(place: place)
                         } label: {
-                            PlaceCardCompact(place: place)
+                            PlaceCard(place: place)
+                                .frame(width: 260)
                         }
                         .buttonStyle(.plain)
                     }
                 }
-                .padding(.horizontal)
+                .padding(.horizontal, Theme.spacingL)
             }
         }
     }
     
-    // MARK: - Top 10 in Neighborhood (Dianping)
+    // MARK: - أفضل ١٠ بالحي
     
     private func topNeighborhoodSection(_ places: [Place]) -> some View {
-        VStack(alignment: .trailing, spacing: 8) {
-            HStack {
-                Text("عرض الكل →")
-                    .font(.caption)
-                    .foregroundStyle(Theme.primary)
-                Spacer()
-                Text("🏆 أفضل 10 — \(viewModel.currentNeighborhood)")
-                    .font(.headline)
-            }
-            .padding(.horizontal)
+        VStack(alignment: .trailing, spacing: Theme.spacingM) {
+            sectionHeaderWithAction(
+                title: "أفضل ١٠ — \(viewModel.currentNeighborhood)",
+                emoji: "🏆"
+            )
             
-            LazyVStack(spacing: 8) {
+            LazyVStack(spacing: Theme.spacingS) {
                 ForEach(Array(places.enumerated()), id: \.element.id) { index, place in
                     NavigationLink {
                         PlaceDetailView(place: place)
@@ -178,160 +180,167 @@ struct HomeView: View {
                     .buttonStyle(.plain)
                 }
             }
-            .padding(.horizontal)
+            .padding(.horizontal, Theme.spacingL)
         }
     }
     
-    // MARK: - New Places
+    // MARK: - جديد بالرياض
     
     private var newSection: some View {
-        VStack(alignment: .trailing, spacing: 8) {
-            Text("✨ جديد بالرياض")
-                .font(.headline)
-                .padding(.horizontal)
+        VStack(alignment: .trailing, spacing: Theme.spacingM) {
+            sectionHeader(title: "جديد بالرياض", emoji: "✨")
             
             ScrollView(.horizontal, showsIndicators: false) {
-                HStack(spacing: 12) {
+                HStack(spacing: Theme.spacingM) {
                     ForEach(viewModel.newPlaces.prefix(8)) { place in
                         NavigationLink {
                             PlaceDetailView(place: place)
                         } label: {
-                            PlaceCardCompact(place: place)
+                            PlaceCard(place: place, style: .mini)
                         }
                         .buttonStyle(.plain)
                     }
                 }
-                .padding(.horizontal)
+                .padding(.horizontal, Theme.spacingL)
             }
         }
     }
     
-    // MARK: - Categories Grid (HS Pattern)
+    // MARK: - التصنيفات
     
     private var categoriesGrid: some View {
-        VStack(alignment: .trailing, spacing: 8) {
-            Text("التصنيفات")
-                .font(.headline)
-                .padding(.horizontal)
+        VStack(alignment: .trailing, spacing: Theme.spacingM) {
+            sectionHeader(title: "التصنيفات", emoji: "📂")
             
-            LazyVGrid(columns: Array(repeating: GridItem(.flexible(), spacing: 10), count: 4), spacing: 10) {
+            LazyVGrid(
+                columns: Array(repeating: GridItem(.flexible(), spacing: Theme.spacingM), count: 4),
+                spacing: Theme.spacingM
+            ) {
                 ForEach(viewModel.categories, id: \.id) { cat in
                     NavigationLink {
                         CategoryPlacesView(category: cat, places: appState.places)
                     } label: {
-                        VStack(spacing: 6) {
-                            Text(cat.emoji)
-                                .font(.title2)
+                        VStack(spacing: Theme.spacingXS) {
+                            ZStack {
+                                Circle()
+                                    .fill(Color.categoryColor(for: cat.nameAr).opacity(0.15))
+                                    .frame(width: 48, height: 48)
+                                Text(cat.emoji)
+                                    .font(.title3)
+                            }
+                            
                             Text(cat.nameAr)
-                                .font(.caption2)
+                                .font(Theme.badge(size: 11))
+                                .foregroundStyle(.appTextPrimary)
                                 .lineLimit(1)
+                            
                             Text("\(cat.count)")
-                                .font(.caption2)
-                                .foregroundStyle(.secondary)
+                                .font(Theme.badge(size: 10))
+                                .foregroundStyle(.appTextSecondary)
                         }
                         .frame(maxWidth: .infinity)
-                        .padding(.vertical, 12)
-                        .background(Color(.secondarySystemBackground))
-                        .clipShape(RoundedRectangle(cornerRadius: 12))
+                        .padding(.vertical, Theme.spacingM)
+                        .background(Color.appCardBackground)
+                        .clipShape(RoundedRectangle(cornerRadius: Theme.radiusMedium, style: .continuous))
                     }
                     .buttonStyle(.plain)
                 }
             }
-            .padding(.horizontal)
+            .padding(.horizontal, Theme.spacingL)
         }
+    }
+    
+    // MARK: - عناوين الأقسام
+    
+    private func sectionHeader(title: String, emoji: String) -> some View {
+        HStack {
+            Spacer()
+            Text("\(emoji) \(title)")
+                .font(Theme.headline())
+                .foregroundStyle(.appTextPrimary)
+        }
+        .padding(.horizontal, Theme.spacingL)
+    }
+    
+    private func sectionHeaderWithAction(title: String, emoji: String) -> some View {
+        HStack {
+            Text("عرض الكل")
+                .font(Theme.caption())
+                .foregroundStyle(Theme.green400)
+            
+            Image(systemName: "chevron.left")
+                .font(.system(size: 10))
+                .foregroundStyle(Theme.green400)
+            
+            Spacer()
+            
+            Text("\(emoji) \(title)")
+                .font(Theme.headline())
+                .foregroundStyle(.appTextPrimary)
+        }
+        .padding(.horizontal, Theme.spacingL)
     }
 }
 
-// MARK: - Top Place Row (Dianping — Gold/Silver/Bronze)
+// MARK: - صف أفضل ١٠ (ذهب/فضة/برونز)
 
 struct TopPlaceRow: View {
     let place: Place
     let rank: Int
     
-    var medalColor: Color {
+    private var medalColor: Color {
         switch rank {
-        case 1: return .yellow      // 🥇
-        case 2: return .gray        // 🥈
-        case 3: return Color(red: 0.8, green: 0.5, blue: 0.2) // 🥉
-        default: return .clear
+        case 1: return Theme.gold500        // 🥇
+        case 2: return Color(hex: "C0C0C0") // 🥈
+        case 3: return Color(hex: "CD7F32") // 🥉
+        default: return Theme.sand
         }
     }
     
     var body: some View {
-        HStack(spacing: 12) {
-            // Rating
+        HStack(spacing: Theme.spacingM) {
+            // التقييم
             if let r = place.googleRating {
                 Text(String(format: "%.1f", r))
-                    .font(.caption.bold())
-                    .foregroundStyle(.yellow)
+                    .font(Theme.detail().bold())
+                    .foregroundStyle(Theme.gold500)
             }
             
             Spacer()
             
+            // المعلومات
             VStack(alignment: .trailing, spacing: 2) {
                 Text(place.nameAr)
-                    .font(.subheadline.bold())
+                    .font(Theme.body(size: 15).bold())
+                    .foregroundStyle(.appTextPrimary)
                     .lineLimit(1)
-                HStack(spacing: 4) {
+                
+                HStack(spacing: Theme.spacingS) {
                     if let price = place.priceLevel {
-                        Text(price).font(.caption2).foregroundStyle(.secondary)
+                        Text(price)
+                            .font(Theme.badge())
+                            .foregroundStyle(Theme.gold500)
                     }
                     if let hood = place.neighborhood {
-                        Text(hood).font(.caption2).foregroundStyle(.secondary)
+                        Text(hood)
+                            .font(Theme.badge())
+                            .foregroundStyle(.appTextSecondary)
                     }
                 }
             }
             
-            // Rank medal
+            // الميدالية
             ZStack {
                 Circle()
-                    .fill(rank <= 3 ? medalColor.opacity(0.2) : Color(.systemGray5))
-                    .frame(width: 32, height: 32)
+                    .fill(rank <= 3 ? medalColor.opacity(0.15) : Theme.green800)
+                    .frame(width: 36, height: 36)
                 Text("\(rank)")
-                    .font(.caption.bold())
-                    .foregroundStyle(rank <= 3 ? medalColor : .secondary)
+                    .font(Theme.detail().bold())
+                    .foregroundStyle(rank <= 3 ? medalColor : .appTextSecondary)
             }
         }
-        .padding(12)
-        .background(Color(.secondarySystemBackground))
-        .clipShape(RoundedRectangle(cornerRadius: 10))
-    }
-}
-
-// MARK: - Compact Place Card
-
-struct PlaceCardCompact: View {
-    let place: Place
-    
-    var body: some View {
-        VStack(alignment: .trailing, spacing: 6) {
-            // Placeholder image
-            RoundedRectangle(cornerRadius: 10)
-                .fill(Color(.systemGray4))
-                .frame(width: 140, height: 100)
-                .overlay(
-                    Text(place.categoryAr ?? place.category)
-                        .font(.caption)
-                        .foregroundStyle(.white)
-                )
-            
-            Text(place.nameAr)
-                .font(.caption.bold())
-                .lineLimit(1)
-            
-            HStack(spacing: 4) {
-                if let price = place.priceLevel {
-                    Text(price).font(.caption2).foregroundStyle(.secondary)
-                }
-                Spacer()
-                if let r = place.googleRating {
-                    HStack(spacing: 2) {
-                        Image(systemName: "star.fill").font(.system(size: 8)).foregroundStyle(.yellow)
-                        Text(String(format: "%.1f", r)).font(.caption2)
-                    }
-                }
-            }
-        }
-        .frame(width: 140)
+        .padding(Theme.spacingM)
+        .background(Color.appCardBackground)
+        .clipShape(RoundedRectangle(cornerRadius: Theme.radiusMedium, style: .continuous))
     }
 }
