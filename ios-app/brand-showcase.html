@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>وين نروح — Brand Identity</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700;800;900&display=swap');
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --g-deep:#062A1E;--g9:#0A3D2C;--g8:#0E5038;--g7:#136B4A;--g6:#18855C;
+  --g5:#1DA06E;--g4:#2EC486;--g3:#5DDAA5;--g2:#96EACA;--g1:#C8F5E2;
+  --s5:#C9A84C;--s4:#DFC474;--s3:#EDD89E;
+  --n0:#030D08;--n1:#081A11;--n2:#0E241A;--n3:#142E22;
+  --t1:#F2FAF5;--t2:#D4E8DC;--t3:#7FA893;--t4:#4A7860;
+}
+body{font-family:'Tajawal',sans-serif;background:#000;color:var(--t1);padding:40px 16px;display:flex;flex-direction:column;align-items:center;gap:40px;}
+
+/* === BRAND HEADER === */
+.brand-hero{
+  width:100%;max-width:900px;
+  background:linear-gradient(170deg,var(--g-deep) 0%,var(--n0) 100%);
+  border:1px solid rgba(46,196,134,0.08);
+  border-radius:32px;padding:60px 40px;
+  text-align:center;position:relative;overflow:hidden;
+}
+.brand-stars{position:absolute;inset:0;overflow:hidden;}
+.bs{position:absolute;width:2px;height:2px;background:var(--g2);border-radius:50%;animation:tw 3s ease infinite;}
+@keyframes tw{0%,100%{opacity:.1}50%{opacity:.6}}
+
+/* Compass Logo */
+.logo-container{margin:0 auto 30px;width:140px;height:140px;position:relative;}
+.compass-ring{
+  width:140px;height:140px;border-radius:50%;
+  border:2px solid rgba(46,196,134,0.2);
+  position:relative;display:flex;align-items:center;justify-content:center;
+  background:radial-gradient(circle,rgba(46,196,134,0.05) 0%,transparent 70%);
+}
+.compass-ticks{position:absolute;inset:0;}
+.tick{position:absolute;width:2px;height:8px;background:var(--g4);border-radius:1px;left:50%;top:4px;transform-origin:50% 66px;}
+.tick.major{height:12px;width:3px;background:var(--g3);}
+.compass-needle{
+  width:4px;height:70px;position:absolute;top:50%;left:50%;
+  transform:translate(-50%,-70%) rotate(0deg);
+  transform-origin:bottom center;
+  animation:needleSway 4s ease-in-out infinite;
+}
+@keyframes needleSway{0%,100%{transform:translate(-50%,-70%) rotate(-5deg)}50%{transform:translate(-50%,-70%) rotate(5deg)}}
+.needle-n{
+  width:0;height:0;
+  border-left:8px solid transparent;border-right:8px solid transparent;
+  border-bottom:40px solid var(--g4);
+  margin-left:-6px;
+  filter:drop-shadow(0 0 6px rgba(46,196,134,0.4));
+}
+.needle-palm{
+  position:absolute;top:-8px;left:50%;transform:translateX(-50%);
+  font-size:16px;
+}
+.needle-s{
+  width:0;height:0;
+  border-left:6px solid transparent;border-right:6px solid transparent;
+  border-top:30px solid var(--s5);
+  margin-left:-2px;margin-top:0;
+}
+.compass-center{
+  width:12px;height:12px;border-radius:50%;
+  background:radial-gradient(circle,var(--s4),var(--s5));
+  position:absolute;
+  box-shadow:0 0 10px rgba(201,168,76,0.4);
+}
+.compass-letters{
+  position:absolute;inset:0;font-size:10px;font-weight:800;color:var(--g3);
+}
+.cl{position:absolute;}
+.cl-n{top:16px;left:50%;transform:translateX(-50%);color:var(--g4);}
+.cl-s{bottom:16px;left:50%;transform:translateX(-50%);color:var(--s5);}
+.cl-e{right:16px;top:50%;transform:translateY(-50%);}
+.cl-w{left:16px;top:50%;transform:translateY(-50%);}
+
+.brand-name{
+  font-size:48px;font-weight:900;
+  background:linear-gradient(135deg,var(--g2) 0%,var(--g4) 40%,var(--s4) 100%);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+  margin-bottom:8px;line-height:1.2;
+}
+.brand-tagline{
+  font-size:18px;color:var(--t3);font-weight:500;margin-bottom:6px;
+}
+.brand-en{font-size:14px;color:var(--t4);font-weight:400;letter-spacing:3px;}
+
+/* === SPLASH SCREEN === */
+.phone{
+  width:375px;height:812px;background:var(--n0);
+  border-radius:48px;border:2.5px solid var(--g9);
+  overflow:hidden;position:relative;
+  box-shadow:0 30px 80px -20px rgba(0,0,0,0.8),0 0 60px rgba(46,196,134,0.08);
+}
+.phone-label{text-align:center;font-size:12px;color:var(--t4);margin-top:12px;font-weight:600;}
+
+.splash{
+  width:100%;height:100%;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;
+  background:radial-gradient(ellipse at 50% 30%,var(--g-deep) 0%,var(--n0) 70%);
+  position:relative;overflow:hidden;
+}
+.splash-stars{position:absolute;inset:0;}
+.splash .compass-ring{width:100px;height:100px;}
+.splash .tick{transform-origin:50% 46px;}
+.splash .compass-needle{height:50px;}
+.splash .needle-n{border-bottom-width:28px;border-left-width:6px;border-right-width:6px;margin-left:-4px;}
+.splash .needle-palm{font-size:12px;top:-6px;}
+.splash .needle-s{border-top-width:22px;border-left-width:5px;border-right-width:5px;margin-left:-1px;}
+.splash .compass-center{width:8px;height:8px;}
+.splash .compass-letters{font-size:8px;}
+.splash .cl-n{top:10px;}.splash .cl-s{bottom:10px;}.splash .cl-e{right:10px;}.splash .cl-w{left:10px;}
+
+.splash-name{
+  font-size:38px;font-weight:900;margin-top:24px;
+  background:linear-gradient(135deg,var(--g2),var(--g4),var(--s4));
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+}
+.splash-tag{font-size:14px;color:var(--t3);margin-top:6px;font-weight:400;}
+.splash-count{
+  font-size:12px;color:var(--t4);margin-top:20px;
+  display:flex;align-items:center;gap:6px;
+}
+.splash-dot{width:6px;height:6px;border-radius:50%;background:var(--g4);animation:pulse 2s ease infinite;}
+@keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(46,196,134,0.4)}50%{box-shadow:0 0 0 8px rgba(46,196,134,0)}}
+
+/* Skyline at bottom of splash */
+.splash-skyline{
+  position:absolute;bottom:80px;width:100%;display:flex;
+  align-items:flex-end;justify-content:center;gap:2px;opacity:0.06;
+}
+.bldg{background:var(--g3);border-radius:2px 2px 0 0;}
+
+/* Palm silhouettes */
+.splash-palm{position:absolute;opacity:0.08;font-size:60px;}
+.sp1{bottom:50px;left:15%;}
+.sp2{bottom:45px;right:10%;font-size:45px;}
+
+/* === LOGO VARIANTS === */
+.variants{
+  width:100%;max-width:900px;
+  background:var(--n1);border:1px solid rgba(46,196,134,0.06);
+  border-radius:28px;padding:40px;
+}
+.var-title{font-size:22px;font-weight:800;color:var(--g3);margin-bottom:24px;}
+.var-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;}
+.var-card{
+  padding:30px;border-radius:20px;display:flex;
+  flex-direction:column;align-items:center;justify-content:center;
+  gap:12px;min-height:120px;
+}
+.var-dark{background:var(--n0);border:1px solid rgba(46,196,134,0.08);}
+.var-light{background:#F2F7F4;border:1px solid #C8F5E2;}
+.var-name{font-size:11px;color:var(--t4);font-weight:600;letter-spacing:1px;text-transform:uppercase;}
+
+/* Logo in variants */
+.logo-text{display:flex;align-items:center;gap:8px;font-weight:900;}
+.logo-ar{font-size:28px;}
+.logo-en{font-size:22px;letter-spacing:1px;}
+.mini-compass{font-size:24px;}
+.logo-dark .logo-ar{background:linear-gradient(135deg,var(--g3),var(--g4));-webkit-background-clip:text;-webkit-text-fill-color:transparent;}
+.logo-light .logo-ar{background:linear-gradient(135deg,var(--g7),var(--g-deep));-webkit-background-clip:text;-webkit-text-fill-color:transparent;}
+.logo-dark .logo-en{color:var(--g3);}
+.logo-light .logo-en{color:var(--g7);}
+
+/* === VISUAL ELEMENTS === */
+.elements{
+  width:100%;max-width:900px;
+  background:var(--n1);border:1px solid rgba(46,196,134,0.06);
+  border-radius:28px;padding:40px;
+}
+.el-title{font-size:22px;font-weight:800;color:var(--g3);margin-bottom:24px;}
+.el-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;}
+.el-card{
+  padding:24px;background:var(--n2);
+  border:1px solid rgba(46,196,134,0.05);border-radius:20px;
+  text-align:center;
+}
+.el-icon{font-size:40px;margin-bottom:10px;}
+.el-name{font-size:14px;font-weight:800;color:var(--g3);margin-bottom:4px;}
+.el-desc{font-size:11px;color:var(--t4);line-height:1.6;}
+
+/* === CATEGORY GRADIENTS === */
+.grads{
+  width:100%;max-width:900px;
+  background:var(--n1);border:1px solid rgba(46,196,134,0.06);
+  border-radius:28px;padding:40px;
+}
+.grad-title{font-size:22px;font-weight:800;color:var(--g3);margin-bottom:24px;}
+.grad-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;}
+.grad-card{
+  height:100px;border-radius:16px;display:flex;
+  align-items:center;justify-content:center;flex-direction:column;
+  gap:6px;position:relative;overflow:hidden;
+}
+.grad-emoji{font-size:28px;opacity:0.7;}
+.grad-name{font-size:11px;font-weight:700;color:rgba(255,255,255,0.8);}
+
+/* === TYPOGRAPHY SHOWCASE === */
+.typo{
+  width:100%;max-width:900px;
+  background:var(--n1);border:1px solid rgba(46,196,134,0.06);
+  border-radius:28px;padding:40px;
+}
+.typo-title{font-size:22px;font-weight:800;color:var(--g3);margin-bottom:24px;}
+.typo-row{
+  display:flex;justify-content:space-between;align-items:baseline;
+  padding:16px 0;border-bottom:1px solid rgba(46,196,134,0.04);
+}
+.typo-sample{flex:1;}
+.typo-meta{font-size:10px;color:var(--t4);text-align:left;width:120px;line-height:1.5;}
+
+/* === MOTION === */
+.motion{
+  width:100%;max-width:900px;
+  background:var(--n1);border:1px solid rgba(46,196,134,0.06);
+  border-radius:28px;padding:40px;
+}
+.motion-title{font-size:22px;font-weight:800;color:var(--g3);margin-bottom:24px;}
+.motion-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;}
+.motion-card{
+  padding:24px 16px;background:var(--n2);
+  border:1px solid rgba(46,196,134,0.05);border-radius:16px;
+  text-align:center;
+}
+.motion-demo{height:60px;display:flex;align-items:center;justify-content:center;margin-bottom:8px;}
+.motion-name{font-size:12px;font-weight:700;color:var(--g3);}
+.motion-desc{font-size:10px;color:var(--t4);margin-top:4px;}
+
+/* Animations */
+.anim-heart{font-size:24px;animation:heartBeat 1.5s ease infinite;}
+@keyframes heartBeat{0%,100%{transform:scale(1)}15%{transform:scale(1.3)}30%{transform:scale(1)}}
+
+.anim-compass{font-size:28px;animation:spin 3s linear infinite;}
+@keyframes spin{from{transform:rotate(0)}to{transform:rotate(360deg)}}
+
+.anim-pin{font-size:24px;animation:bounce 1.5s ease infinite;}
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+
+.anim-fade{font-size:24px;animation:fadeInOut 2s ease infinite;}
+@keyframes fadeInOut{0%,100%{opacity:0.3}50%{opacity:1}}
+</style>
+</head>
+<body>
+
+<!-- === BRAND HERO === -->
+<div class="brand-hero">
+  <div class="brand-stars">
+    <div class="bs" style="top:10%;left:15%;animation-delay:0s;"></div>
+    <div class="bs" style="top:5%;left:40%;animation-delay:0.7s;width:3px;height:3px;"></div>
+    <div class="bs" style="top:15%;left:65%;animation-delay:1.2s;"></div>
+    <div class="bs" style="top:8%;left:80%;animation-delay:0.3s;"></div>
+    <div class="bs" style="top:20%;left:25%;animation-delay:1.8s;width:3px;height:3px;"></div>
+    <div class="bs" style="top:12%;left:55%;animation-delay:2.1s;"></div>
+  </div>
+  
+  <!-- Compass Logo -->
+  <div class="logo-container">
+    <div class="compass-ring">
+      <div class="compass-ticks">
+        <div class="tick major" style="transform:rotate(0deg);"></div>
+        <div class="tick" style="transform:rotate(30deg);"></div>
+        <div class="tick" style="transform:rotate(60deg);"></div>
+        <div class="tick major" style="transform:rotate(90deg);"></div>
+        <div class="tick" style="transform:rotate(120deg);"></div>
+        <div class="tick" style="transform:rotate(150deg);"></div>
+        <div class="tick major" style="transform:rotate(180deg);"></div>
+        <div class="tick" style="transform:rotate(210deg);"></div>
+        <div class="tick" style="transform:rotate(240deg);"></div>
+        <div class="tick major" style="transform:rotate(270deg);"></div>
+        <div class="tick" style="transform:rotate(300deg);"></div>
+        <div class="tick" style="transform:rotate(330deg);"></div>
+      </div>
+      <div class="compass-letters">
+        <span class="cl cl-n">N</span>
+        <span class="cl cl-s">S</span>
+        <span class="cl cl-e">E</span>
+        <span class="cl cl-w">W</span>
+      </div>
+      <div class="compass-needle">
+        <div class="needle-n"></div>
+        <div class="needle-palm">🌴</div>
+        <div class="needle-s"></div>
+      </div>
+      <div class="compass-center"></div>
+    </div>
+  </div>
+  
+  <div class="brand-name">وين نروح</div>
+  <div class="brand-tagline">اكتشف الرياض</div>
+  <div class="brand-en">WAIN NROOH</div>
+</div>
+
+<!-- === SPLASH SCREEN === -->
+<div>
+<div class="phone">
+  <div class="splash">
+    <div class="splash-stars">
+      <div class="bs" style="top:8%;left:20%;animation-delay:0s;"></div>
+      <div class="bs" style="top:12%;left:50%;animation-delay:0.8s;width:3px;height:3px;"></div>
+      <div class="bs" style="top:5%;left:75%;animation-delay:1.5s;"></div>
+      <div class="bs" style="top:18%;left:35%;animation-delay:0.4s;"></div>
+      <div class="bs" style="top:15%;left:85%;animation-delay:2s;width:3px;height:3px;"></div>
+      <div class="bs" style="top:22%;left:15%;animation-delay:1.2s;"></div>
+    </div>
+    
+    <span class="splash-palm sp1">🌴</span>
+    <span class="splash-palm sp2">🌴</span>
+    
+    <div class="splash-skyline">
+      <div class="bldg" style="width:6px;height:30px;"></div>
+      <div class="bldg" style="width:10px;height:50px;"></div>
+      <div class="bldg" style="width:5px;height:70px;border-radius:4px 4px 0 0;"></div>
+      <div class="bldg" style="width:12px;height:40px;"></div>
+      <div class="bldg" style="width:4px;height:85px;border-radius:3px 3px 0 0;"></div>
+      <div class="bldg" style="width:8px;height:55px;"></div>
+      <div class="bldg" style="width:14px;height:35px;"></div>
+      <div class="bldg" style="width:6px;height:60px;"></div>
+      <div class="bldg" style="width:10px;height:45px;"></div>
+    </div>
+    
+    <!-- Compass Logo -->
+    <div class="logo-container" style="width:100px;height:100px;">
+      <div class="compass-ring">
+        <div class="compass-ticks">
+          <div class="tick major" style="transform:rotate(0deg);"></div>
+          <div class="tick" style="transform:rotate(45deg);"></div>
+          <div class="tick major" style="transform:rotate(90deg);"></div>
+          <div class="tick" style="transform:rotate(135deg);"></div>
+          <div class="tick major" style="transform:rotate(180deg);"></div>
+          <div class="tick" style="transform:rotate(225deg);"></div>
+          <div class="tick major" style="transform:rotate(270deg);"></div>
+          <div class="tick" style="transform:rotate(315deg);"></div>
+        </div>
+        <div class="compass-letters">
+          <span class="cl cl-n" style="top:10px;">N</span>
+          <span class="cl cl-s" style="bottom:10px;">S</span>
+          <span class="cl cl-e" style="right:10px;">E</span>
+          <span class="cl cl-w" style="left:10px;">W</span>
+        </div>
+        <div class="compass-needle" style="height:50px;">
+          <div class="needle-n" style="border-bottom-width:28px;border-left-width:6px;border-right-width:6px;margin-left:-4px;"></div>
+          <div class="needle-palm" style="font-size:11px;top:-5px;">🌴</div>
+          <div class="needle-s" style="border-top-width:22px;border-left-width:5px;border-right-width:5px;margin-left:-1px;"></div>
+        </div>
+        <div class="compass-center" style="width:8px;height:8px;"></div>
+      </div>
+    </div>
+    
+    <div class="splash-name">وين نروح؟</div>
+    <div class="splash-tag">اكتشف الرياض</div>
+    <div class="splash-count">
+      <span class="splash-dot"></span>
+      <span>٦,٥٠٩ مكان</span>
+    </div>
+  </div>
+</div>
+<div class="phone-label">Splash Screen</div>
+</div>
+
+<!-- === LOGO VARIANTS === -->
+<div class="variants">
+  <div class="var-title">🎯 أشكال اللوقو</div>
+  <div class="var-grid">
+    <div class="var-card var-dark">
+      <div class="var-name">PRIMARY — DARK</div>
+      <div class="logo-text logo-dark">
+        <span class="mini-compass">🧭</span>
+        <span class="logo-ar">وين نروح</span>
+      </div>
+    </div>
+    <div class="var-card var-light">
+      <div class="var-name" style="color:var(--g7);">PRIMARY — LIGHT</div>
+      <div class="logo-text logo-light">
+        <span class="mini-compass">🧭</span>
+        <span class="logo-ar">وين نروح</span>
+      </div>
+    </div>
+    <div class="var-card var-dark">
+      <div class="var-name">ENGLISH</div>
+      <div class="logo-text logo-dark">
+        <span class="mini-compass">🧭</span>
+        <span class="logo-en">wain nrooh</span>
+      </div>
+    </div>
+    <div class="var-card var-dark">
+      <div class="var-name">COMPACT</div>
+      <div class="logo-text logo-dark">
+        <span class="mini-compass">🧭</span>
+        <span class="logo-ar" style="font-size:22px;">وين</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- === VISUAL ELEMENTS === -->
+<div class="elements">
+  <div class="el-title">🌴 العناصر البصرية</div>
+  <div class="el-grid">
+    <div class="el-card">
+      <div class="el-icon">🌴</div>
+      <div class="el-name">النخلة</div>
+      <div class="el-desc">العنصر الأيقوني — تظهر بكل مكان كـ silhouette خفيف. إبرة البوصلة = نخلة</div>
+    </div>
+    <div class="el-card">
+      <div class="el-icon">🧭</div>
+      <div class="el-name">البوصلة</div>
+      <div class="el-desc">اللوقو + Loading indicator + شاشة البداية. الإبرة تتمايل بخفة</div>
+    </div>
+    <div class="el-card">
+      <div class="el-icon">✨</div>
+      <div class="el-name">النجوم</div>
+      <div class="el-desc">سماء الرياض بالليل — تتلألأ بهدوء بخلفية الهيرو. ميزة فريدة</div>
+    </div>
+    <div class="el-card">
+      <div class="el-icon">🏙️</div>
+      <div class="el-name">أفق الرياض</div>
+      <div class="el-desc">Kingdom + Faisaliah + KAFD كـ silhouette. بس بالرئيسية والسبلاش</div>
+    </div>
+    <div class="el-card">
+      <div class="el-icon">◇</div>
+      <div class="el-name">النقش النجدي</div>
+      <div class="el-desc">زخارف هندسية مستوحاة من العمارة النجدية — overlay خفيف على البطاقات</div>
+    </div>
+    <div class="el-card">
+      <div class="el-icon">🌅</div>
+      <div class="el-name">تدرجات الطبيعة</div>
+      <div class="el-desc">كل تصنيف له تدرج خاص — مزرعة، صحراء، ليل، قهوة</div>
+    </div>
+  </div>
+</div>
+
+<!-- === CATEGORY GRADIENTS === -->
+<div class="grads">
+  <div class="grad-title">🎨 تدرجات التصنيفات</div>
+  <div class="grad-grid">
+    <div class="grad-card" style="background:linear-gradient(160deg,#0A2E1A,#1A4E2E,#2A6B3E);">
+      <span class="grad-emoji">🍽️</span><span class="grad-name">مطاعم</span>
+    </div>
+    <div class="grad-card" style="background:linear-gradient(160deg,#1A120A,#3E2A14,#5E4020);">
+      <span class="grad-emoji">☕</span><span class="grad-name">كافيهات</span>
+    </div>
+    <div class="grad-card" style="background:linear-gradient(160deg,#0A0E2E,#1A2A4E,#2A3A6B);">
+      <span class="grad-emoji">🎭</span><span class="grad-name">ترفيه</span>
+    </div>
+    <div class="grad-card" style="background:linear-gradient(160deg,#2E1A0A,#4E3A1A,#6B5030);">
+      <span class="grad-emoji">🏜️</span><span class="grad-name">طبيعة</span>
+    </div>
+    <div class="grad-card" style="background:linear-gradient(160deg,#1A0A2E,#2A1A4E,#3E2A6B);">
+      <span class="grad-emoji">🛍️</span><span class="grad-name">تسوق</span>
+    </div>
+    <div class="grad-card" style="background:linear-gradient(160deg,#0A1A2E,#142E4E,#1E426B);">
+      <span class="grad-emoji">🏨</span><span class="grad-name">فنادق</span>
+    </div>
+    <div class="grad-card" style="background:linear-gradient(160deg,#2E0A1A,#4E1A2A,#6B2A3E);">
+      <span class="grad-emoji">🍰</span><span class="grad-name">حلويات</span>
+    </div>
+    <div class="grad-card" style="background:linear-gradient(160deg,#0A2E2E,#1A4E4E,#2A6B6B);">
+      <span class="grad-emoji">🏖️</span><span class="grad-name">شاليهات</span>
+    </div>
+  </div>
+</div>
+
+<!-- === TYPOGRAPHY === -->
+<div class="typo">
+  <div class="typo-title">✏️ Typography — Tajawal</div>
+  <div class="typo-row">
+    <div class="typo-sample" style="font-size:34px;font-weight:900;background:linear-gradient(135deg,var(--g3),var(--s4));-webkit-background-clip:text;-webkit-text-fill-color:transparent;">وين نروح؟</div>
+    <div class="typo-meta">Display<br>Tajawal 900<br>34px</div>
+  </div>
+  <div class="typo-row">
+    <div class="typo-sample" style="font-size:24px;font-weight:800;color:var(--t1);">أفضل ١٠ مطاعم بالعليا</div>
+    <div class="typo-meta">Title<br>Tajawal 800<br>24px</div>
+  </div>
+  <div class="typo-row">
+    <div class="typo-sample" style="font-size:18px;font-weight:700;color:var(--t1);">🔥 الأكثر شعبية</div>
+    <div class="typo-meta">Heading<br>Tajawal 700<br>18px</div>
+  </div>
+  <div class="typo-row">
+    <div class="typo-sample" style="font-size:15px;font-weight:500;color:var(--t2);">مطعم سعودي أصيل حائز على جائزة ميشلان ٢٠٢٦</div>
+    <div class="typo-meta">Body<br>Tajawal 500<br>15px</div>
+  </div>
+  <div class="typo-row">
+    <div class="typo-sample" style="font-size:13px;font-weight:400;color:var(--t3);">📍 المحمدية · $$ · ⭐ 4.5</div>
+    <div class="typo-meta">Caption<br>Tajawal 400<br>13px</div>
+  </div>
+  <div class="typo-row" style="border:none;">
+    <div class="typo-sample" style="font-size:11px;font-weight:300;color:var(--t4);">Michelin Bib Gourmand 2026 · Saudi Cuisine</div>
+    <div class="typo-meta">Small<br>Tajawal 300<br>11px</div>
+  </div>
+</div>
+
+<!-- === MOTION === -->
+<div class="motion">
+  <div class="motion-title">🎬 Motion Identity</div>
+  <div class="motion-grid">
+    <div class="motion-card">
+      <div class="motion-demo"><span class="anim-heart">❤️</span></div>
+      <div class="motion-name">Favorite</div>
+      <div class="motion-desc">bounce + haptic</div>
+    </div>
+    <div class="motion-card">
+      <div class="motion-demo"><span class="anim-compass">🧭</span></div>
+      <div class="motion-name">Loading</div>
+      <div class="motion-desc">بوصلة تدور</div>
+    </div>
+    <div class="motion-card">
+      <div class="motion-demo"><span class="anim-pin">📍</span></div>
+      <div class="motion-name">Map Pin</div>
+      <div class="motion-desc">float خفيف</div>
+    </div>
+    <div class="motion-card">
+      <div class="motion-demo"><span class="anim-fade">⭐</span></div>
+      <div class="motion-name">Stars</div>
+      <div class="motion-desc">twinkle هادي</div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
