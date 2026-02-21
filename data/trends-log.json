@@ -71,5 +71,47 @@
       "Solitaire Mall (new night experience)",
       "Boulevard World (new zones this season)"
     ]
+  },
+  {
+    "date": "2026-02-21",
+    "scan_time": "15:00 UTC",
+    "places_added": [
+      {
+        "name": "Kantami",
+        "name_ar": "كانتامي",
+        "why_trending": "Japanese izakaya concept by Green Sand Concepts, recently opened in Nawaf Square Riyadh (Feb 2026). Already winning over Riyadh foodies. Now offering first-ever Ramadan iftar/suhoor (5-course set menu SAR129). Expanded from successful Al Khobar location.",
+        "sources": [
+          "DestinationKSA (Feb 17, 2026)",
+          "Fact Magazines (Feb 2026)",
+          "Mid-East.info (Feb 2026)",
+          "Platinumlist",
+          "Retail & Leisure International"
+        ],
+        "cross_referenced": true,
+        "tags": [
+          "new-opening",
+          "trending",
+          "ramadan-iftar"
+        ]
+      }
+    ],
+    "notable_trends": [
+      "Ramadan iftar/suhoor scene dominating all Riyadh food coverage — every major publication has 20+ spot roundups",
+      "Saudi Founding Day (Feb 22) tomorrow — restaurants running special offers (عروض يوم التأسيس)",
+      "Il Baretto doing 'Luna of Ramadan' 4-course iftar at KAFD (SAR184) — trending on DestinationKSA",
+      "LPM collaborating with Top Chef judge Mona Mosly for Ramadan menu (SAR275) — cross-referenced TimeOut + DestinationKSA + Fact",
+      "Rowley's (already in DB) first Ramadan in Riyadh at KAFD — mentioned across multiple iftar roundups",
+      "attaché (already in DB) SAR125 iftar gaining traction as affordable option in Diplomatic Quarter"
+    ],
+    "already_in_db_but_trending": [
+      "Beefbar (Ramadan set menus from SAR110)",
+      "Il Baretto (Luna of Ramadan, SAR184)",
+      "LPM/La Petite Maison (collab with Mona Mosly, SAR275)",
+      "Rowley's (first Riyadh Ramadan at KAFD)",
+      "Café Boulud (Four Seasons iftar, SAR350)",
+      "Burj Al Hamam (buffet across multiple locations)",
+      "Nomas (4 curated Saudi set menus from SAR300)",
+      "attaché (SAR125 iftar with live performances)"
+    ]
   }
 ]
