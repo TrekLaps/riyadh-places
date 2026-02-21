@@ -1,0 +1,98 @@
+{
+  "timestamp": "2026-02-21T13:04:00Z",
+  "total_places": 6508,
+  "backup_count": 4022,
+  "data_loss": false,
+  "site_status": 200,
+  "json_valid": true,
+  "duplicates": {
+    "name_ar_groups": 44,
+    "name_en_groups": 33,
+    "top_dupes_ar": {
+      "كافيه بتيل": 2,
+      "بيست لاند": 2,
+      "برج الفيصلية": 2,
+      "فندق فورسيزونز الرياض": 2,
+      "سوليتير مول": 2
+    },
+    "top_dupes_en": {
+      "Cafe Bateel": 2,
+      "Acoustic Cafe": 2,
+      "Beast Land": 2,
+      "Al Faisaliah Tower": 2,
+      "Hilton Riyadh Hotel & Residences": 2
+    }
+  },
+  "coordinates": {
+    "no_coords": 34,
+    "out_of_bounds": 49,
+    "samples": [
+      {
+        "name": "Edge of the World Camp",
+        "lat": 24.85,
+        "lng": 46.15,
+        "id": "edge-of-world-camp"
+      },
+      {
+        "name": "Rawdhat Khoraim Camp",
+        "lat": 25.2,
+        "lng": 47.1,
+        "id": "rawdhat-khoraim-camp"
+      },
+      {
+        "name": "Dirab Golf & Resort Chalets",
+        "lat": 24.48,
+        "lng": 46.52,
+        "id": "dirab-golf-resort-chalets"
+      },
+      {
+        "name": "Red Sand Dunes Adventure",
+        "lat": 24.75,
+        "lng": 46.35,
+        "id": "red-sand-dunes-adventure"
+      },
+      {
+        "name": "Al Majma'ah Sports City Stadium",
+        "lat": 25.9,
+        "lng": 45.34,
+        "id": "al-majmaah-sports-city"
+      },
+      {
+        "name": "Nofa Riyadh - Radisson Collection Resort",
+        "lat": 24.45,
+        "lng": 46.45,
+        "id": "nofa-radisson-resort"
+      },
+      {
+        "name": "Al Hayer Lakes Park",
+        "lat": 24.42,
+        "lng": 46.75,
+        "id": "al-hayer-lakes"
+      },
+      {
+        "name": "Al Thumamah Sand Dunes",
+        "lat": 25.05,
+        "lng": 46.67,
+        "id": "al-thumamah-dunes"
+      },
+      {
+        "name": "Rawdat Khoraim Nature Reserve",
+        "lat": 25.37,
+        "lng": 47.27,
+        "id": "rawdat-khoraim"
+      },
+      {
+        "name": "Al Hair Lake (New)",
+        "lat": 24.35,
+        "lng": 46.77,
+        "id": "al-hair-lake-new"
+      }
+    ]
+  },
+  "empty_required": {
+    "count": 0,
+    "samples": []
+  },
+  "status": "WARNING",
+  "critical": false
+}
