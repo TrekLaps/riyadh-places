@@ -8002,6 +8002,2845 @@
         }
       ],
       "api_enabled": false
+    },
+    {
+      "timestamp": "2026-02-21T03:00:52.024050+00:00",
+      "total_places": 6389,
+      "trending_count": 2250,
+      "new_count": 2250,
+      "changes": [
+        {
+          "place_id": "chalets-que",
+          "name": "Que Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "chalets-meraki",
+          "name": "Meraki Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "chalets-lamontera",
+          "name": "Lamontera Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "chalets-princess",
+          "name": "Princess Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-jawhrah-resorts",
+          "name": "Al Jawhrah Resorts",
+          "change": "trending"
+        },
+        {
+          "place_id": "babel-resorts",
+          "name": "Babel Resorts",
+          "change": "trending"
+        },
+        {
+          "place_id": "goot-resorts",
+          "name": "Goot Resorts",
+          "change": "trending"
+        },
+        {
+          "place_id": "chalets-lenora",
+          "name": "Lenora Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "lokazoort-resort",
+          "name": "Lokazoort Resort",
+          "change": "trending"
+        },
+        {
+          "place_id": "rasta-rose-resort",
+          "name": "Rasta Rose Resort",
+          "change": "trending"
+        },
+        {
+          "place_id": "chalets-tera",
+          "name": "Tera Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "chalets-noon",
+          "name": "Noon Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "chalets-azure",
+          "name": "Azure Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "chalets-casanova",
+          "name": "Casanova Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "chalets-rosa",
+          "name": "Rosa Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "chalets-elite-resort",
+          "name": "Elite Resort Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "chalets-coconut",
+          "name": "Coconut Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "chalets-golden-park",
+          "name": "Golden Park Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "chalets-palm-garden",
+          "name": "Palm Garden Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "chalets-grand-palace",
+          "name": "Grand Palace Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "gathern-camps-riyadh",
+          "name": "Gathern Camps Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "thumamah-desert-camp",
+          "name": "Thumamah Desert Camp",
+          "change": "trending"
+        },
+        {
+          "place_id": "resorts-private-pool-riyadh-1",
+          "name": "Al Muruj Private Pool Resort",
+          "change": "trending"
+        },
+        {
+          "place_id": "luxury-desert-glamping",
+          "name": "Luxury Desert Glamping Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "edge-of-world-camp",
+          "name": "Edge of the World Camp",
+          "change": "trending"
+        },
+        {
+          "place_id": "rawdhat-khoraim-camp",
+          "name": "Rawdhat Khoraim Camp",
+          "change": "trending"
+        },
+        {
+          "place_id": "wadi-hanifah-camp",
+          "name": "Wadi Hanifah Campsite",
+          "change": "trending"
+        },
+        {
+          "place_id": "resort-private-pool-2",
+          "name": "Yasmin Private Pool Resort",
+          "change": "trending"
+        },
+        {
+          "place_id": "dirab-golf-resort-chalets",
+          "name": "Dirab Golf & Resort Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "abant-chalets",
+          "name": "Abant Chalets Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "arizo-chalets",
+          "name": "Arizo Chalets Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "durrat-riyadh-chalets",
+          "name": "Durrat Riyadh Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "happiness-resort",
+          "name": "Happiness Resort",
+          "change": "trending"
+        },
+        {
+          "place_id": "devon-resort",
+          "name": "Devon Resort Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "espar-hotel-products",
+          "name": "Espar Hotel Resort",
+          "change": "trending"
+        },
+        {
+          "place_id": "nice-day-chalets",
+          "name": "Nice Day Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-hamra-chalets",
+          "name": "Al Hamra Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "log-cabin-chalets",
+          "name": "Farm Log Cabin Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "relief-chalets",
+          "name": "Relief Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "winter-land-chalets",
+          "name": "Winter Land Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "smoky-water-chalets",
+          "name": "Smoky Water Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "marrakech-chalets",
+          "name": "Marrakech Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "nawal-chalets",
+          "name": "Nawal Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "centra-chalets",
+          "name": "Centra Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "brant-chalet",
+          "name": "Brant Chalet",
+          "change": "trending"
+        },
+        {
+          "place_id": "sultan-chalets",
+          "name": "Sultan Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "diamond-chalet",
+          "name": "Diamond Chalet",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-olaya-floor-chalets",
+          "name": "Al Olaya Floor Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "swiss-sprint-resort",
+          "name": "Swiss Sprint Resort",
+          "change": "trending"
+        },
+        {
+          "place_id": "oasis-chalets",
+          "name": "Oasis Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "sevan-chalets",
+          "name": "Sevan Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "madeline-chalets",
+          "name": "Madeline Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "arjan-park-chalets",
+          "name": "Arjan Park Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "hait-tini-chalets",
+          "name": "Hait Tini Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "waterland-chalets",
+          "name": "Waterland Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "blue-lagoon-chalets",
+          "name": "Blue Lagoon Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "palm-resort-chalets",
+          "name": "Palm Resort Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "royal-garden-chalets",
+          "name": "Royal Garden Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "mountain-view-chalets",
+          "name": "Mountain View Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "lavender-chalets",
+          "name": "Lavender Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "bab-sharqi-sweets",
+          "name": "Bab Sharqi Sweets",
+          "change": "trending"
+        },
+        {
+          "place_id": "halawiyat-al-mamlaka",
+          "name": "Al Mamlaka Sweets",
+          "change": "trending"
+        },
+        {
+          "place_id": "halawiyat-habiba",
+          "name": "Habibah Sweets",
+          "change": "trending"
+        },
+        {
+          "place_id": "kunfandi",
+          "name": "Kunfandi",
+          "change": "trending"
+        },
+        {
+          "place_id": "nabil-nafisah-sweets",
+          "name": "Nabil Nafisah Sweets",
+          "change": "trending"
+        },
+        {
+          "place_id": "sanabel-al-salam-sweets",
+          "name": "Sanabel Al Salam",
+          "change": "trending"
+        },
+        {
+          "place_id": "zamani-sweets",
+          "name": "Zamani Sweets",
+          "change": "trending"
+        },
+        {
+          "place_id": "rose-specialty-sweets",
+          "name": "Rose Specialty Sweets",
+          "change": "trending"
+        },
+        {
+          "place_id": "mashhoud-sweets",
+          "name": "Mashhoud Sweets",
+          "change": "trending"
+        },
+        {
+          "place_id": "jarir-specialty-sweets",
+          "name": "Jarir Specialty Sweets",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-dhawwaq-sweets",
+          "name": "Al Dhawwaq",
+          "change": "trending"
+        },
+        {
+          "place_id": "lilo-sweets",
+          "name": "Lilo Sweets",
+          "change": "trending"
+        },
+        {
+          "place_id": "basbusti-al-ladhidha",
+          "name": "Basbusti Al Ladhidha",
+          "change": "trending"
+        },
+        {
+          "place_id": "bait-al-sinaeat",
+          "name": "Bait Al Sinaeat Sweets",
+          "change": "trending"
+        },
+        {
+          "place_id": "aldh-hala-sweets",
+          "name": "Aldh Hala Sweets",
+          "change": "trending"
+        },
+        {
+          "place_id": "diplomat-sweets",
+          "name": "Diplomat Sweets",
+          "change": "trending"
+        },
+        {
+          "place_id": "tamrytna-dates",
+          "name": "Tamrytna Dates",
+          "change": "trending"
+        },
+        {
+          "place_id": "orani-dates",
+          "name": "Al Orani Premium Dates",
+          "change": "trending"
+        },
+        {
+          "place_id": "atayb-dates",
+          "name": "Atayb Dates",
+          "change": "trending"
+        },
+        {
+          "place_id": "tumur-najdiya",
+          "name": "Tumur Najdiya",
+          "change": "trending"
+        },
+        {
+          "place_id": "shathlia-dates",
+          "name": "Al Shathlia Dates",
+          "change": "trending"
+        },
+        {
+          "place_id": "safwa-dates",
+          "name": "Safwa Dates Company",
+          "change": "trending"
+        },
+        {
+          "place_id": "tamur-al-mamlaka",
+          "name": "Kingdom Dates Co",
+          "change": "trending"
+        },
+        {
+          "place_id": "tamr-wa-lawz",
+          "name": "Tamr Wa Lawz",
+          "change": "trending"
+        },
+        {
+          "place_id": "tumur-qote",
+          "name": "Qote Dates",
+          "change": "trending"
+        },
+        {
+          "place_id": "qabaah-dates",
+          "name": "Al Qabaah Dates",
+          "change": "trending"
+        },
+        {
+          "place_id": "basiqat-aljazira-dates",
+          "name": "Basiqat Al Jazira Dates",
+          "change": "trending"
+        },
+        {
+          "place_id": "red-cherry-sweets",
+          "name": "Red Cherry Sweets",
+          "change": "trending"
+        },
+        {
+          "place_id": "pastel-cake-shop",
+          "name": "Pastel Cake Shop",
+          "change": "trending"
+        },
+        {
+          "place_id": "avon-cake",
+          "name": "Avon Cake",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-daar-healthy-sweets",
+          "name": "Al Daar Healthy Sweets",
+          "change": "trending"
+        },
+        {
+          "place_id": "snaf-healthy-sweets",
+          "name": "Snaf Healthy Sweets",
+          "change": "trending"
+        },
+        {
+          "place_id": "kabir-sweets",
+          "name": "Kabir Sweets",
+          "change": "trending"
+        },
+        {
+          "place_id": "munch-bakery-riyadh",
+          "name": "Munch Bakery",
+          "change": "trending"
+        },
+        {
+          "place_id": "bundt-bakery-riyadh",
+          "name": "Bundt Bakery",
+          "change": "trending"
+        },
+        {
+          "place_id": "sugarmoo-riyadh",
+          "name": "SugarMoo Desserts",
+          "change": "trending"
+        },
+        {
+          "place_id": "halawiyat-al-hallab",
+          "name": "Al Hallab Sweets 1881",
+          "change": "trending"
+        },
+        {
+          "place_id": "otaiqah-dates-market",
+          "name": "Otaiqah Dates Market",
+          "change": "trending"
+        },
+        {
+          "place_id": "bateel-riyadh",
+          "name": "Bateel Dates & Cafe",
+          "change": "trending"
+        },
+        {
+          "place_id": "duka-bakery-house",
+          "name": "Duka Bakery House",
+          "change": "trending"
+        },
+        {
+          "place_id": "marinon-chocola",
+          "name": "Marinon Chocola",
+          "change": "trending"
+        },
+        {
+          "place_id": "gymnation-riyadh",
+          "name": "GymNation Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "fitness-first-riyadh",
+          "name": "Fitness First KSA",
+          "change": "trending"
+        },
+        {
+          "place_id": "fitness-time-riyadh",
+          "name": "Fitness Time",
+          "change": "trending"
+        },
+        {
+          "place_id": "9round-riyadh",
+          "name": "9Round Kickboxing",
+          "change": "trending"
+        },
+        {
+          "place_id": "arena-mma-riyadh",
+          "name": "Arena Fitness MMA",
+          "change": "trending"
+        },
+        {
+          "place_id": "evo-x-riyadh",
+          "name": "Evo X Fitness",
+          "change": "trending"
+        },
+        {
+          "place_id": "fit-forever-fitness",
+          "name": "Fit Forever Fitness",
+          "change": "trending"
+        },
+        {
+          "place_id": "joule-fitness-riyadh",
+          "name": "Joule Fitness Studio",
+          "change": "trending"
+        },
+        {
+          "place_id": "kore-fitness-riyadh",
+          "name": "Kore Fitness",
+          "change": "trending"
+        },
+        {
+          "place_id": "vitality-fitness-club",
+          "name": "Vitality Fitness Club",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-aghar-equestrian-club",
+          "name": "Al Aghar Equestrian Club",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-areen-equestrian-club",
+          "name": "Al Areen Equestrian Club",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-kahela-equestrian-club",
+          "name": "Al Kahela Equestrian Club",
+          "change": "trending"
+        },
+        {
+          "place_id": "caballo-equestrian-club",
+          "name": "Caballo Equestrian Club",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-stables",
+          "name": "Riyadh Stables",
+          "change": "trending"
+        },
+        {
+          "place_id": "voyage-equestrian-club",
+          "name": "Voyage Equestrian Club",
+          "change": "trending"
+        },
+        {
+          "place_id": "working-line-equestrian",
+          "name": "Working Line Equestrian Centre",
+          "change": "trending"
+        },
+        {
+          "place_id": "domo-football-field",
+          "name": "Domo Football Field",
+          "change": "trending"
+        },
+        {
+          "place_id": "milan-stadium-riyadh",
+          "name": "Milan Stadium",
+          "change": "trending"
+        },
+        {
+          "place_id": "laliga-stadium-riyadh",
+          "name": "LaLiga Stadium",
+          "change": "trending"
+        },
+        {
+          "place_id": "nukhba-stadiums",
+          "name": "Al Nukhba Stadiums",
+          "change": "trending"
+        },
+        {
+          "place_id": "irqah-sports-field",
+          "name": "Irqah Sports Field",
+          "change": "trending"
+        },
+        {
+          "place_id": "dalma-stadiums",
+          "name": "Dalma Stadiums",
+          "change": "trending"
+        },
+        {
+          "place_id": "goal-junior-riyadh",
+          "name": "Goal Junior",
+          "change": "trending"
+        },
+        {
+          "place_id": "yamamah-football-club",
+          "name": "Al Yamamah Football Club",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-wadi-soccer-fields",
+          "name": "Al Wadi Soccer Fields",
+          "change": "trending"
+        },
+        {
+          "place_id": "wadi-stadium-riyadh",
+          "name": "Wadi District Stadium",
+          "change": "trending"
+        },
+        {
+          "place_id": "football-playground-namudhajiyah",
+          "name": "Football Playground Namudhajiyah",
+          "change": "trending"
+        },
+        {
+          "place_id": "boulevard-world",
+          "name": "Boulevard World",
+          "change": "trending"
+        },
+        {
+          "place_id": "boulevard-riyadh-city",
+          "name": "Boulevard Riyadh City",
+          "change": "trending"
+        },
+        {
+          "place_id": "the-zone-riyadh",
+          "name": "The Zone Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "funxtreme",
+          "name": "FunXtreme",
+          "change": "trending"
+        },
+        {
+          "place_id": "gravity-trampoline-park",
+          "name": "Gravity Trampoline Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "snow-city-riyadh",
+          "name": "Snow City Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "sparky's-riyadh",
+          "name": "Sparky's",
+          "change": "trending"
+        },
+        {
+          "place_id": "winter-wonderland-riyadh",
+          "name": "Winter Wonderland Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-zoo",
+          "name": "Riyadh Zoo",
+          "change": "trending"
+        },
+        {
+          "place_id": "game-over-escape-rooms",
+          "name": "Game Over Escape Rooms",
+          "change": "trending"
+        },
+        {
+          "place_id": "escape-mission-riyadh",
+          "name": "Escape Mission",
+          "change": "trending"
+        },
+        {
+          "place_id": "go4fun-sahara-mall",
+          "name": "Go4Fun Sahara Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-faisaliah-tower",
+          "name": "Al Faisaliah Tower",
+          "change": "trending"
+        },
+        {
+          "place_id": "kingdom-centre-tower",
+          "name": "Kingdom Centre Tower - Sky Bridge",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-season-combat-zone",
+          "name": "Combat Zone - Riyadh Season",
+          "change": "trending"
+        },
+        {
+          "place_id": "planet-x-riyadh",
+          "name": "Planet X",
+          "change": "trending"
+        },
+        {
+          "place_id": "strike-bowling-riyadh",
+          "name": "Strike Bowling Alley",
+          "change": "trending"
+        },
+        {
+          "place_id": "tahlia-street",
+          "name": "Tahlia Street",
+          "change": "trending"
+        },
+        {
+          "place_id": "pc-suwaidi-riyadh",
+          "name": "PC Suwaidi",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-season-general",
+          "name": "Riyadh Season",
+          "change": "trending"
+        },
+        {
+          "place_id": "snowy-panorama",
+          "name": "Snowy Panorama",
+          "change": "trending"
+        },
+        {
+          "place_id": "extreme-trampoline-park",
+          "name": "Extreme Trampoline Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "kingdom-heritage",
+          "name": "Kingdom Heritage",
+          "change": "trending"
+        },
+        {
+          "place_id": "doos-karting",
+          "name": "Doos Karting",
+          "change": "trending"
+        },
+        {
+          "place_id": "vox-cinemas-riyadh",
+          "name": "VOX Cinemas",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-safari",
+          "name": "Riyadh Safari",
+          "change": "trending"
+        },
+        {
+          "place_id": "museum-of-illusions-riyadh",
+          "name": "Museum of Illusions Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-front-entertainment",
+          "name": "Riyadh Front",
+          "change": "trending"
+        },
+        {
+          "place_id": "diriyah-heritage",
+          "name": "Diriyah Heritage District",
+          "change": "trending"
+        },
+        {
+          "place_id": "bujairi-terrace",
+          "name": "Bujairi Terrace",
+          "change": "trending"
+        },
+        {
+          "place_id": "jax-district",
+          "name": "JAX District",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-combat-club",
+          "name": "Riyadh Combat Club",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-oasis-amusement-park",
+          "name": "Al Wahah Amusement Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "padel-courts-riyadh",
+          "name": "Padel Courts Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "samoca-art",
+          "name": "SAMOCA - Saudi Museum of Contemporary Art",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-gallery-entertainment",
+          "name": "Riyadh Gallery Entertainment",
+          "change": "trending"
+        },
+        {
+          "place_id": "foxy-land-riyadh",
+          "name": "Foxy Land",
+          "change": "trending"
+        },
+        {
+          "place_id": "red-sand-dunes-adventure",
+          "name": "Red Sand Dunes Adventure",
+          "change": "trending"
+        },
+        {
+          "place_id": "via-riyadh",
+          "name": "VIA Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-international-comic-con",
+          "name": "Riyadh International Comic Con",
+          "change": "trending"
+        },
+        {
+          "place_id": "formula-e-riyadh",
+          "name": "Formula E Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-bowling-center",
+          "name": "Riyadh Bowling Center",
+          "change": "trending"
+        },
+        {
+          "place_id": "card-game-cafe",
+          "name": "Card Game Café",
+          "change": "trending"
+        },
+        {
+          "place_id": "immersive-experience-riyadh",
+          "name": "Immersive Experience Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "mega-dome-riyadh",
+          "name": "Mega Dome Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "happiness-factory-riyadh",
+          "name": "Happiness Factory",
+          "change": "trending"
+        },
+        {
+          "place_id": "little-day-out-riyadh",
+          "name": "Little Day Out",
+          "change": "trending"
+        },
+        {
+          "place_id": "dave-busters-riyadh",
+          "name": "Dave & Buster's",
+          "change": "trending"
+        },
+        {
+          "place_id": "panorama-mall-entertainment",
+          "name": "Panorama Mall Entertainment Zone",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-hokair-land-riyadh",
+          "name": "Al Hokair Land",
+          "change": "trending"
+        },
+        {
+          "place_id": "fortore-mall",
+          "name": "Fortore Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-quest",
+          "name": "Riyadh Quest",
+          "change": "trending"
+        },
+        {
+          "place_id": "king-abdulaziz-historical-center",
+          "name": "King Abdulaziz Historical Center",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-trips-desert",
+          "name": "Riyadh Desert Trips",
+          "change": "trending"
+        },
+        {
+          "place_id": "legoland-discovery-centre",
+          "name": "LEGOLAND Discovery Centre",
+          "change": "trending"
+        },
+        {
+          "place_id": "kidzania-riyadh",
+          "name": "KidZania Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "topgolf-riyadh",
+          "name": "TopGolf Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "paintball-riyadh-2",
+          "name": "Paintball Zone Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "tiyul-riyadh",
+          "name": "Tiyul Riyadh Tours",
+          "change": "trending"
+        },
+        {
+          "place_id": "indoor-skydiving-riyadh",
+          "name": "Indoor Skydiving Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "horse-riding-riyadh",
+          "name": "Horse Riding - Equestrian Club",
+          "change": "trending"
+        },
+        {
+          "place_id": "mohammed-abdu-arena",
+          "name": "Mohammed Abdu Arena",
+          "change": "trending"
+        },
+        {
+          "place_id": "kingdom-arena",
+          "name": "Kingdom Arena",
+          "change": "trending"
+        },
+        {
+          "place_id": "banban-venue",
+          "name": "Banban Venue (Soundstorm)",
+          "change": "trending"
+        },
+        {
+          "place_id": "the-arena-riyadh",
+          "name": "The Arena Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "king-fahd-international-stadium",
+          "name": "King Fahd International Stadium",
+          "change": "trending"
+        },
+        {
+          "place_id": "mrsool-park-stadium",
+          "name": "Mrsool Park (Al Awwal Park)",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-shabab-stadium",
+          "name": "Al Shabab Club Stadium",
+          "change": "trending"
+        },
+        {
+          "place_id": "mdl-beast-soundstorm",
+          "name": "MDL Beast Soundstorm Festival",
+          "change": "trending"
+        },
+        {
+          "place_id": "qaseer-riyadh-palace",
+          "name": "Qasr Al Riyadh Wedding Hall",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-international-convention-center",
+          "name": "Riyadh International Convention Center",
+          "change": "trending"
+        },
+        {
+          "place_id": "gamers8-riyadh",
+          "name": "Gamers8 Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-majmaah-sports-city",
+          "name": "Al Majma'ah Sports City Stadium",
+          "change": "trending"
+        },
+        {
+          "place_id": "gpyw-indoor-stadium",
+          "name": "GPYW Indoor Stadium",
+          "change": "trending"
+        },
+        {
+          "place_id": "diriyah-arena",
+          "name": "Diriyah Arena",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-expo-2030",
+          "name": "Riyadh Expo 2030 Site",
+          "change": "trending"
+        },
+        {
+          "place_id": "art-week-riyadh",
+          "name": "Art Week Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "king-salman-cup-horse-racing",
+          "name": "King Salman Cup Horse Racing",
+          "change": "trending"
+        },
+        {
+          "place_id": "boulevard-city-concerts",
+          "name": "Boulevard City Concert Venue",
+          "change": "trending"
+        },
+        {
+          "place_id": "mdlbeast-riyadh-events",
+          "name": "MDLBEAST Events Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-platinumlist-events",
+          "name": "Platinumlist Riyadh Events",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-convention-exhibition-center",
+          "name": "Riyadh International Convention & Exhibition Center",
+          "change": "trending"
+        },
+        {
+          "place_id": "king-fahd-cultural-center",
+          "name": "King Fahd Cultural Center",
+          "change": "trending"
+        },
+        {
+          "place_id": "webook-riyadh-events",
+          "name": "Webook Riyadh Events",
+          "change": "trending"
+        },
+        {
+          "place_id": "halayalla-riyadh-experiences",
+          "name": "HalaYalla Riyadh Experiences",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-front-exhibition-center-2",
+          "name": "Riyadh Front Exhibition & Conference Center",
+          "change": "trending"
+        },
+        {
+          "place_id": "gea-events",
+          "name": "General Entertainment Authority Events",
+          "change": "trending"
+        },
+        {
+          "place_id": "formula-e-diriyah",
+          "name": "Formula E Diriyah E-Prix",
+          "change": "trending"
+        },
+        {
+          "place_id": "boulevard-world-events",
+          "name": "Boulevard World Events",
+          "change": "trending"
+        },
+        {
+          "place_id": "mega-dome-concerts",
+          "name": "Mega Dome Concerts",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-book-fair",
+          "name": "Riyadh International Book Fair",
+          "change": "trending"
+        },
+        {
+          "place_id": "national-day-celebrations",
+          "name": "Saudi National Day Celebrations",
+          "change": "trending"
+        },
+        {
+          "place_id": "founding-day-events",
+          "name": "Founding Day Events",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-marathon",
+          "name": "Riyadh Marathon",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-food-festival",
+          "name": "Riyadh Food Festival",
+          "change": "trending"
+        },
+        {
+          "place_id": "fever-riyadh-events",
+          "name": "Fever Riyadh Events",
+          "change": "trending"
+        },
+        {
+          "place_id": "wadi-namar-theater",
+          "name": "Wadi Namar Theater",
+          "change": "trending"
+        },
+        {
+          "place_id": "joy-awards",
+          "name": "Joy Awards",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-art-program",
+          "name": "Riyadh Art Program",
+          "change": "trending"
+        },
+        {
+          "place_id": "wwe-riyadh",
+          "name": "WWE Events Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "boxing-events-riyadh",
+          "name": "Boxing Championship Events Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "braira-olaya-hotel",
+          "name": "Braira Al Olaya Hotel",
+          "change": "trending"
+        },
+        {
+          "place_id": "kfd-executives-hotel",
+          "name": "KFD Executives Hotel",
+          "change": "trending"
+        },
+        {
+          "place_id": "crowne-plaza-oasis-riyadh",
+          "name": "Crowne Plaza Riyadh Al Waha",
+          "change": "trending"
+        },
+        {
+          "place_id": "holiday-al-khalij-riyadh",
+          "name": "Holiday Al Khalij Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "radisson-riyadh-airport",
+          "name": "Radisson Hotel Riyadh Airport",
+          "change": "trending"
+        },
+        {
+          "place_id": "gardino-hotel-riyadh",
+          "name": "Gardino Hotel Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "swiss-international-royal-riyadh",
+          "name": "Swiss International Royal Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "ascott-rafal-olaya",
+          "name": "Ascott Rafal Olaya Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "radisson-residence-olaya",
+          "name": "Radisson Hotel & Residence Riyadh Olaya",
+          "change": "trending"
+        },
+        {
+          "place_id": "braira-the-valley",
+          "name": "Braira The Valley Resort",
+          "change": "trending"
+        },
+        {
+          "place_id": "nova-riyadh-resort",
+          "name": "Nova Riyadh Resort",
+          "change": "trending"
+        },
+        {
+          "place_id": "crowne-plaza-rdc-convention",
+          "name": "Crowne Plaza Riyadh RDC Hotel & Convention",
+          "change": "trending"
+        },
+        {
+          "place_id": "hilton-riyadh-residence",
+          "name": "Hilton Riyadh Hotel & Residences",
+          "change": "trending"
+        },
+        {
+          "place_id": "grand-plaza-gulf-riyadh",
+          "name": "Grand Plaza Gulf Hotel Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "doubletree-riyadh",
+          "name": "DoubleTree by Hilton Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "narcissus-hotel-riyadh",
+          "name": "Narcissus Hotel Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "best-western-riyadh",
+          "name": "Best Western Plus Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "louvre-hotel-riyadh",
+          "name": "Louvre Hotel Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "fraser-suites-riyadh",
+          "name": "Fraser Suites Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "oyo-riyadh-hotels",
+          "name": "OYO Hotels Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "comfort-inn-riyadh",
+          "name": "Comfort Inn Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "tulip-inn-riyadh",
+          "name": "Tulip Inn Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "copthorne-riyadh",
+          "name": "Copthorne Hotel Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "warwick-riyadh",
+          "name": "Warwick Hotel Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "boudl-riyadh",
+          "name": "Boudl Hotel Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "elaf-galleria-riyadh",
+          "name": "Elaf Galleria Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "mena-hotel-riyadh",
+          "name": "Mena Hotel Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "radisson-blu-riyadh-kafd",
+          "name": "Radisson Blu Riyadh KAFD",
+          "change": "trending"
+        },
+        {
+          "place_id": "hyatt-house-riyadh",
+          "name": "Hyatt House Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "park-inn-riyadh",
+          "name": "Park Inn by Radisson Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "cristal-amaken-hotel",
+          "name": "Cristal Amaken Hotel",
+          "change": "trending"
+        },
+        {
+          "place_id": "mira-business-hotel",
+          "name": "MIRA Business Hotel",
+          "change": "trending"
+        },
+        {
+          "place_id": "duset-hotel-suites",
+          "name": "Duset Hotel Suites",
+          "change": "trending"
+        },
+        {
+          "place_id": "mena-hotel-nasiriah",
+          "name": "Mena Hotel Nasiriah",
+          "change": "trending"
+        },
+        {
+          "place_id": "nova-m-hotel-edge-rotana",
+          "name": "Nova M Hotel Edge by Rotana",
+          "change": "trending"
+        },
+        {
+          "place_id": "nofa-radisson-resort",
+          "name": "Nofa Riyadh - Radisson Collection Resort",
+          "change": "trending"
+        },
+        {
+          "place_id": "grand-plaza-kafd",
+          "name": "Grand Plaza Hotel KAFD",
+          "change": "trending"
+        },
+        {
+          "place_id": "warwick-riyadh-hotel",
+          "name": "Warwick Riyadh Hotel",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-mutlaq-hotel",
+          "name": "Al Mutlaq Hotel",
+          "change": "trending"
+        },
+        {
+          "place_id": "carawan-al-khaleej-olaya",
+          "name": "Carawan Al Khaleej Olaya",
+          "change": "trending"
+        },
+        {
+          "place_id": "seiba-hotel-riyadh",
+          "name": "Seiba Hotel Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "damac-riyadh-apartments",
+          "name": "DAMAC Riyadh Luxury Apartments",
+          "change": "trending"
+        },
+        {
+          "place_id": "mayun-serviced-apartments",
+          "name": "Mayun Serviced Apartments",
+          "change": "trending"
+        },
+        {
+          "place_id": "rest-night-nafal",
+          "name": "Rest Night Serviced Apartments Al Nafal",
+          "change": "trending"
+        },
+        {
+          "place_id": "hdb-sahafa-hotel",
+          "name": "HDB Sahafa Hotel",
+          "change": "trending"
+        },
+        {
+          "place_id": "malath-fakher-hotel",
+          "name": "Malath Fakher Hotel",
+          "change": "trending"
+        },
+        {
+          "place_id": "aber-al-takhasussi",
+          "name": "Aber Al Takhasussi Hotel",
+          "change": "trending"
+        },
+        {
+          "place_id": "ritz-carlton-riyadh",
+          "name": "The Ritz-Carlton, Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "four-seasons-riyadh",
+          "name": "Four Seasons Hotel Riyadh at Kingdom Centre",
+          "change": "trending"
+        },
+        {
+          "place_id": "fairmont-riyadh",
+          "name": "Fairmont Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "fairmont-ramla-riyadh",
+          "name": "Fairmont Ramla Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "mandarin-oriental-faisaliah",
+          "name": "Mandarin Oriental Al Faisaliah, Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "intercontinental-riyadh",
+          "name": "InterContinental Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "hyatt-regency-riyadh-olaya",
+          "name": "Hyatt Regency Riyadh Olaya",
+          "change": "trending"
+        },
+        {
+          "place_id": "marriott-riyadh-dq",
+          "name": "Marriott Riyadh Diplomatic Quarter",
+          "change": "trending"
+        },
+        {
+          "place_id": "sofitel-riyadh-2",
+          "name": "Sofitel Riyadh Hotel & Convention Centre",
+          "change": "trending"
+        },
+        {
+          "place_id": "bab-samhan-luxury-collection-2",
+          "name": "Bab Samhan, a Luxury Collection Hotel, Diriyah",
+          "change": "trending"
+        },
+        {
+          "place_id": "hilton-riyadh-olaya",
+          "name": "Hilton Riyadh Olaya",
+          "change": "trending"
+        },
+        {
+          "place_id": "st-regis-riyadh",
+          "name": "The St. Regis Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "novotel-riyadh-anoud",
+          "name": "Novotel Riyadh Al Anoud",
+          "change": "trending"
+        },
+        {
+          "place_id": "rosh-rayhaan-rotana",
+          "name": "Rosh Rayhaan by Rotana",
+          "change": "trending"
+        },
+        {
+          "place_id": "holiday-inn-riyadh-qasr",
+          "name": "Holiday Inn Riyadh - Al Qasr",
+          "change": "trending"
+        },
+        {
+          "place_id": "holiday-inn-riyadh-olaya",
+          "name": "Holiday Inn Riyadh - Olaya",
+          "change": "trending"
+        },
+        {
+          "place_id": "marriott-riyadh-airport",
+          "name": "Riyadh Airport Marriott Hotel",
+          "change": "trending"
+        },
+        {
+          "place_id": "courtyard-marriott-riyadh-olaya",
+          "name": "Courtyard By Marriott Riyadh Olaya",
+          "change": "trending"
+        },
+        {
+          "place_id": "aloft-riyadh",
+          "name": "Aloft Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "voco-riyadh",
+          "name": "voco Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "hilton-garden-inn-riyadh",
+          "name": "Hilton Garden Inn Riyadh Financial District",
+          "change": "trending"
+        },
+        {
+          "place_id": "mansard-radisson-riyadh",
+          "name": "Mansard Riyadh, A Radisson Collection Hotel",
+          "change": "trending"
+        },
+        {
+          "place_id": "courtyard-marriott-dq",
+          "name": "Courtyard by Marriott Riyadh Diplomatic Quarter",
+          "change": "trending"
+        },
+        {
+          "place_id": "holiday-inn-riyadh-meydan",
+          "name": "Holiday Inn Riyadh - Meydan",
+          "change": "trending"
+        },
+        {
+          "place_id": "centro-olaya",
+          "name": "Centro Olaya by Rotana",
+          "change": "trending"
+        },
+        {
+          "place_id": "novotel-suites-riyadh",
+          "name": "Novotel Suites Riyadh Olaya",
+          "change": "trending"
+        },
+        {
+          "place_id": "ibis-riyadh-olaya",
+          "name": "ibis Riyadh Olaya Street",
+          "change": "trending"
+        },
+        {
+          "place_id": "cantonal-warwick-riyadh",
+          "name": "Cantonal Hotel by Warwick Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "comfort-hotel-riyadh",
+          "name": "Comfort Hotel Riyadh Olaya",
+          "change": "trending"
+        },
+        {
+          "place_id": "le-meridien-riyadh-2",
+          "name": "Le Méridien Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "ross-hotel-riyadh",
+          "name": "Ross Hotel Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "carawan-khaleej-hotel",
+          "name": "Carawan AlKhaleej Hotel",
+          "change": "trending"
+        },
+        {
+          "place_id": "kempinski-riyadh",
+          "name": "Kempinski Hotel Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "renaissance-riyadh",
+          "name": "Renaissance Riyadh Hotel",
+          "change": "trending"
+        },
+        {
+          "place_id": "westin-riyadh",
+          "name": "The Westin Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "melia-riyadh",
+          "name": "Meliá Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "solitaire-mall",
+          "name": "Solitaire Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "u-walk-riyadh",
+          "name": "U Walk Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "marina-mall-riyadh",
+          "name": "Marina Mall Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "the-view-mall-riyadh",
+          "name": "The View Mall Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "jawharat-riyadh-mall",
+          "name": "Jawharat Riyadh Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-rawnah-commercial",
+          "name": "Al Rawnah Commercial Complex",
+          "change": "trending"
+        },
+        {
+          "place_id": "sedra-mall",
+          "name": "Sedra Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "sharq-plaza",
+          "name": "Sharq Plaza",
+          "change": "trending"
+        },
+        {
+          "place_id": "kayan-square",
+          "name": "Kayan Square",
+          "change": "trending"
+        },
+        {
+          "place_id": "boulevard-walk-riyadh",
+          "name": "Boulevard Walk",
+          "change": "trending"
+        },
+        {
+          "place_id": "tala-mall-riyadh",
+          "name": "Tala Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "khurais-mall",
+          "name": "Khurais Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "diriyah-walk",
+          "name": "Dira Walk",
+          "change": "trending"
+        },
+        {
+          "place_id": "sahara-plaza-riyadh",
+          "name": "Sahara Plaza",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-season-boulevard-2",
+          "name": "Boulevard Riyadh City (Shopping)",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-outlet-mall",
+          "name": "Riyadh Outlet Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "the-outlet-event-riyadh",
+          "name": "The Outlet Riyadh Event",
+          "change": "trending"
+        },
+        {
+          "place_id": "andalus-mall-riyadh",
+          "name": "Andalus Mall Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "othaim-mall-rabwa",
+          "name": "Al Othaim Mall Rabwa",
+          "change": "trending"
+        },
+        {
+          "place_id": "kingdom-centre-mall",
+          "name": "Kingdom Centre Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-nakheel-mall",
+          "name": "Al Nakheel Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-gallery-mall",
+          "name": "Riyadh Gallery Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "granada-center",
+          "name": "Granada Center",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-park-mall",
+          "name": "Riyadh Park Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "panorama-mall",
+          "name": "Panorama Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "hayat-mall",
+          "name": "Hayat Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "sahara-mall",
+          "name": "Sahara Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-faisaliah-mall",
+          "name": "Al Faisaliah Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "royal-mall",
+          "name": "Royal Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-qasr-mall",
+          "name": "Al Qasr Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "park-avenue-mall",
+          "name": "Park Avenue Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-hamra-mall",
+          "name": "Al Hamra Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-avenue-mall",
+          "name": "Riyadh Avenue Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "centria-mall",
+          "name": "Centria Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-mall",
+          "name": "Riyadh Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "othaim-mall",
+          "name": "Al Othaim Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "flamingo-mall",
+          "name": "Flamingo Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "naila-art-gallery",
+          "name": "Naila Art Gallery",
+          "change": "trending"
+        },
+        {
+          "place_id": "mono-gallery",
+          "name": "Mono Gallery",
+          "change": "trending"
+        },
+        {
+          "place_id": "hewar-art-gallery",
+          "name": "Hewar Art Gallery",
+          "change": "trending"
+        },
+        {
+          "place_id": "lart-pur-gallery",
+          "name": "L'Art Pur Gallery",
+          "change": "trending"
+        },
+        {
+          "place_id": "abstract-art-gallery",
+          "name": "Abstract Art Gallery",
+          "change": "trending"
+        },
+        {
+          "place_id": "ahlam-studio-gallery",
+          "name": "Ahlam Studio Gallery",
+          "change": "trending"
+        },
+        {
+          "place_id": "alaan-artspace",
+          "name": "Alaan Artspace",
+          "change": "trending"
+        },
+        {
+          "place_id": "king-fahd-national-library",
+          "name": "King Fahd National Library",
+          "change": "trending"
+        },
+        {
+          "place_id": "diriyah-biennale-foundation",
+          "name": "Diriyah Biennale Foundation",
+          "change": "trending"
+        },
+        {
+          "place_id": "art-jameel-riyadh",
+          "name": "Art Jameel Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-art-program-2",
+          "name": "Riyadh Art Program (Exhibitions)",
+          "change": "trending"
+        },
+        {
+          "place_id": "murabba-palace-museum",
+          "name": "Murabba Palace Museum",
+          "change": "trending"
+        },
+        {
+          "place_id": "srmg-art-collection",
+          "name": "SRMG Art Collection",
+          "change": "trending"
+        },
+        {
+          "place_id": "noor-riyadh-art",
+          "name": "Noor Riyadh Light Art",
+          "change": "trending"
+        },
+        {
+          "place_id": "samoca-jax-diriyah",
+          "name": "SAMoCA - Saudi Museum of Contemporary Art (JAX)",
+          "change": "trending"
+        },
+        {
+          "place_id": "saqer-aljazirah-aviation-museum",
+          "name": "Saqer Al Jazirah Aviation Museum",
+          "change": "trending"
+        },
+        {
+          "place_id": "athr-gallery-riyadh",
+          "name": "ATHR Gallery Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-turaif-diriyah-museum",
+          "name": "Al Turaif District UNESCO Site",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-photography-exhibitions",
+          "name": "Riyadh Photography Exhibitions",
+          "change": "trending"
+        },
+        {
+          "place_id": "national-museum-saudi",
+          "name": "National Museum of Saudi Arabia",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-masmak-palace",
+          "name": "Al Masmak Palace Museum",
+          "change": "trending"
+        },
+        {
+          "place_id": "diriyah-museum",
+          "name": "Diriyah Museum",
+          "change": "trending"
+        },
+        {
+          "place_id": "at-turaif-heritage",
+          "name": "At-Turaif UNESCO Heritage Site",
+          "change": "trending"
+        },
+        {
+          "place_id": "qasr-al-hokm-museum",
+          "name": "Qasr Al Hokm Museum",
+          "change": "trending"
+        },
+        {
+          "place_id": "currency-museum",
+          "name": "Currency Museum (SAMA)",
+          "change": "trending"
+        },
+        {
+          "place_id": "king-abdulaziz-memorial-hall",
+          "name": "King Abdulaziz Memorial Hall",
+          "change": "trending"
+        },
+        {
+          "place_id": "jax-art-gallery",
+          "name": "JAX Art Gallery",
+          "change": "trending"
+        },
+        {
+          "place_id": "ithraah-gallery",
+          "name": "Ithra Gallery Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "automobile-museum",
+          "name": "Classic Car Museum Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "camel-museum-riyadh",
+          "name": "Camel Museum",
+          "change": "trending"
+        },
+        {
+          "place_id": "misk-art-institute",
+          "name": "Misk Art Institute",
+          "change": "trending"
+        },
+        {
+          "place_id": "national-library",
+          "name": "King Fahad National Library",
+          "change": "trending"
+        },
+        {
+          "place_id": "petroleum-heritage-gallery",
+          "name": "Petroleum Heritage Gallery",
+          "change": "trending"
+        },
+        {
+          "place_id": "king-abdullah-international-gardens",
+          "name": "King Abdullah International Gardens",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-azdhar-park-2",
+          "name": "Al Azdhar Park 2",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-nuzha-park",
+          "name": "Al Nuzha Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-uruba-park",
+          "name": "Al Uruba Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-qandil-park",
+          "name": "Al Qandil Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "ishbilia-park-2",
+          "name": "Ishbilia Park 2",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-manfouhah-park",
+          "name": "Al Manfouhah Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "istanbul-park-riyadh",
+          "name": "Istanbul Park Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "jax-park-diriyah",
+          "name": "JAX Park Diriyah",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-olaya-park",
+          "name": "Al Olaya Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-khuzama-park",
+          "name": "Al Khuzama Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-nahda-park",
+          "name": "Al Nahda Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-malqa-park",
+          "name": "Al Malqa Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-rawdah-park",
+          "name": "Al Rawdah Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "king-fahd-library-park",
+          "name": "King Fahd Library Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-aziziyah-park",
+          "name": "Al Aziziyah Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "prince-mohammed-park",
+          "name": "Prince Mohammed bin Abdulaziz Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-hayer-lakes",
+          "name": "Al Hayer Lakes Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "wadi-hanifah-walkway",
+          "name": "Wadi Hanifah Walkway",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-thumamah-dunes",
+          "name": "Al Thumamah Sand Dunes",
+          "change": "trending"
+        },
+        {
+          "place_id": "diplomatic-quarter-open-spaces",
+          "name": "DQ Open Spaces & Walking Trails",
+          "change": "trending"
+        },
+        {
+          "place_id": "king-salman-park-2",
+          "name": "King Salman Park (Mega Project)",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-sulay-park",
+          "name": "Al Sulay Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "rawdat-khoraim",
+          "name": "Rawdat Khoraim Nature Reserve",
+          "change": "trending"
+        },
+        {
+          "place_id": "hanifah-valley-dam",
+          "name": "Wadi Hanifah Dam",
+          "change": "trending"
+        },
+        {
+          "place_id": "ad-diriyah-wadi-gardens",
+          "name": "Diriyah Wadi Gardens",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-hair-lake-new",
+          "name": "Al Hair Lake (New)",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-yamama-park",
+          "name": "Al Yamama Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "nofa-adventure-park",
+          "name": "Nofa Adventure Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "nofa-farm-horse-racing",
+          "name": "Nofa Farm & Horse Racing Track",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-zoo-season",
+          "name": "Riyadh Zoo - Riyadh Season",
+          "change": "trending"
+        },
+        {
+          "place_id": "king-abdulaziz-botanical-garden",
+          "name": "King Abdulaziz Botanical Garden",
+          "change": "trending"
+        },
+        {
+          "place_id": "wadi-hanifah-nature-park",
+          "name": "Wadi Hanifah Nature Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "rawdhat-khoraim",
+          "name": "Rawdhat Khoraim",
+          "change": "trending"
+        },
+        {
+          "place_id": "edge-of-world-tuwaiq",
+          "name": "Edge of the World - Tuwaiq Escarpment",
+          "change": "trending"
+        },
+        {
+          "place_id": "ain-heet-cave",
+          "name": "Ain Heet Cave",
+          "change": "trending"
+        },
+        {
+          "place_id": "red-sand-dunes-2",
+          "name": "Red Sand Dunes (Nafud Al-Kharrarah)",
+          "change": "trending"
+        },
+        {
+          "place_id": "musayqirah-trail",
+          "name": "Musayqirah Trail",
+          "change": "trending"
+        },
+        {
+          "place_id": "tuwaiq-mountains",
+          "name": "Tuwaiq Mountains",
+          "change": "trending"
+        },
+        {
+          "place_id": "thumamah-national-park",
+          "name": "Thumamah National Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-wadi-park",
+          "name": "Al-Wadi Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "diplomatic-quarter-gardens",
+          "name": "Diplomatic Quarter Gardens",
+          "change": "trending"
+        },
+        {
+          "place_id": "hidden-valley-riyadh",
+          "name": "Hidden Valley",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-malaz-park",
+          "name": "Al Malaz Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-waterfront",
+          "name": "Riyadh Waterfront (Wadi Hanifa Dam)",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-muazz-park",
+          "name": "Al Mu'athar Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "star-gazing-desert",
+          "name": "Star Gazing - Riyadh Desert",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-hair-lake",
+          "name": "Al Hair Lake",
+          "change": "trending"
+        },
+        {
+          "place_id": "diriyah-wadi",
+          "name": "Diriyah Wadi",
+          "change": "trending"
+        },
+        {
+          "place_id": "huraymila-oasis",
+          "name": "Huraymila Oasis",
+          "change": "trending"
+        },
+        {
+          "place_id": "shaar-valley",
+          "name": "Shaar Valley",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-thumama-desert-camping",
+          "name": "Al Thumamah Desert Camping",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-oyaynah-dam",
+          "name": "Al Oyaynah Dam",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-bujairi-heritage-park",
+          "name": "Al Bujairi Heritage Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-naseem-park",
+          "name": "Al Naseem Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "souq-al-muaiqliyah",
+          "name": "Souq Al Muaiqliyah",
+          "change": "trending"
+        },
+        {
+          "place_id": "souq-hijab",
+          "name": "Souq Hijab",
+          "change": "trending"
+        },
+        {
+          "place_id": "souq-al-suwaiqah",
+          "name": "Souq Al Suwaiqah",
+          "change": "trending"
+        },
+        {
+          "place_id": "aswaq-makkah",
+          "name": "Aswaq Makkah",
+          "change": "trending"
+        },
+        {
+          "place_id": "haraj-bin-qasim",
+          "name": "Haraj Bin Qasim",
+          "change": "trending"
+        },
+        {
+          "place_id": "solitaire-riyadh",
+          "name": "Solitaire Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-rugaib-furniture",
+          "name": "Al Rugaib Furniture",
+          "change": "trending"
+        },
+        {
+          "place_id": "the-factory-furniture",
+          "name": "The Factory Furniture",
+          "change": "trending"
+        },
+        {
+          "place_id": "dimos-furniture",
+          "name": "Dimos Furniture",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-batha-commercial-center",
+          "name": "Al Batha Commercial Center",
+          "change": "trending"
+        },
+        {
+          "place_id": "nesto-hypermarket",
+          "name": "Nesto Hypermarket",
+          "change": "trending"
+        },
+        {
+          "place_id": "tamimi-markets",
+          "name": "Tamimi Markets",
+          "change": "trending"
+        },
+        {
+          "place_id": "othaim-markets",
+          "name": "Al Othaim Markets",
+          "change": "trending"
+        },
+        {
+          "place_id": "gucci-riyadh",
+          "name": "Gucci Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "dior-riyadh",
+          "name": "Dior Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "tiffany-riyadh",
+          "name": "Tiffany & Co Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "valentino-riyadh",
+          "name": "Valentino Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "fendi-riyadh",
+          "name": "Fendi Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "jimmy-choo-riyadh",
+          "name": "Jimmy Choo Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "dolce-gabbana-riyadh",
+          "name": "Dolce & Gabbana Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "van-cleef-arpels-riyadh",
+          "name": "Van Cleef & Arpels Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "buccellati-riyadh",
+          "name": "Buccellati Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "amiri-riyadh",
+          "name": "Amiri Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "panda-hypermarket",
+          "name": "Panda Hypermarket",
+          "change": "trending"
+        },
+        {
+          "place_id": "souq-al-haraj",
+          "name": "Souq Al Haraj (Flea Market)",
+          "change": "trending"
+        },
+        {
+          "place_id": "jd-sports-riyadh",
+          "name": "JD Sports Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "souq-al-kharj-vegetables",
+          "name": "Al Kharj Vegetable Market",
+          "change": "trending"
+        },
+        {
+          "place_id": "tommy-hilfiger-riyadh",
+          "name": "Tommy Hilfiger Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "souq-al-juma-riyadh",
+          "name": "Friday Market Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "adidas-riyadh",
+          "name": "Adidas Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "faces-beauty-riyadh",
+          "name": "Faces Beauty Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "souq-al-asfar-bakhoor",
+          "name": "Perfume & Oud Market",
+          "change": "trending"
+        },
+        {
+          "place_id": "wadi-laban-electronics",
+          "name": "Wadi Laban Electronics Market",
+          "change": "trending"
+        },
+        {
+          "place_id": "west-elm-riyadh",
+          "name": "West Elm Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "level-shoes-riyadh",
+          "name": "Level Shoes Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "noon-express-riyadh",
+          "name": "Noon Express Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "max-fashion-riyadh",
+          "name": "Max Fashion Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "splash-fashion-riyadh",
+          "name": "Splash Fashion Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "luke-riyadh",
+          "name": "LuLu Express",
+          "change": "trending"
+        },
+        {
+          "place_id": "souq-al-rumaih",
+          "name": "Souq Al Rumaih",
+          "change": "trending"
+        },
+        {
+          "place_id": "red-tag-riyadh",
+          "name": "Red Tag Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-jawhar-jewelry",
+          "name": "Al Jawhar Jewelry",
+          "change": "trending"
+        },
+        {
+          "place_id": "toy-world-riyadh",
+          "name": "Toy World Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "maison-des-fleurs-riyadh",
+          "name": "Maison Des Fleurs",
+          "change": "trending"
+        },
+        {
+          "place_id": "bliss-flower-boutique",
+          "name": "Bliss Flower Boutique",
+          "change": "trending"
+        },
+        {
+          "place_id": "bloom-inn-riyadh",
+          "name": "Bloom Inn",
+          "change": "trending"
+        },
+        {
+          "place_id": "florist-sa",
+          "name": "Florist SA",
+          "change": "trending"
+        },
+        {
+          "place_id": "iyad-flowers",
+          "name": "Iyad Flowers",
+          "change": "trending"
+        },
+        {
+          "place_id": "bloomsward-riyadh",
+          "name": "Bloomsward",
+          "change": "trending"
+        },
+        {
+          "place_id": "store-flowers-riyadh",
+          "name": "Store Flowers",
+          "change": "trending"
+        },
+        {
+          "place_id": "achicthing-gifts",
+          "name": "A Chic Thing Gifts",
+          "change": "trending"
+        },
+        {
+          "place_id": "hadaya-mithaliya",
+          "name": "Hadaya Mithaliya",
+          "change": "trending"
+        },
+        {
+          "place_id": "lovely-lis-gifts",
+          "name": "Lovely Lis",
+          "change": "trending"
+        },
+        {
+          "place_id": "alhadaya-mall",
+          "name": "Al Hadaya Mall",
+          "change": "trending"
+        },
+        {
+          "place_id": "nice-furniture-riyadh",
+          "name": "Nice Furniture",
+          "change": "trending"
+        },
+        {
+          "place_id": "modern-home-furniture",
+          "name": "Modern Home Furniture",
+          "change": "trending"
+        },
+        {
+          "place_id": "woody-furniture-riyadh",
+          "name": "Woody Furniture",
+          "change": "trending"
+        },
+        {
+          "place_id": "bait-riyadh-furniture",
+          "name": "Bait Al Riyadh Furniture",
+          "change": "trending"
+        },
+        {
+          "place_id": "flawerd-gift-riyadh",
+          "name": "Flowered Gift",
+          "change": "trending"
+        },
+        {
+          "place_id": "sawariikh-market",
+          "name": "Sawariikh Market",
+          "change": "trending"
+        },
+        {
+          "place_id": "dates-market-east-riyadh",
+          "name": "East Riyadh Dates Market",
+          "change": "trending"
+        },
+        {
+          "place_id": "riyadh-gallery-gifts",
+          "name": "Riyadh Gallery Gift Shops",
+          "change": "trending"
+        },
+        {
+          "place_id": "souq-al-zal",
+          "name": "Souq Al Zal",
+          "change": "trending"
+        },
+        {
+          "place_id": "deerah-souq",
+          "name": "Deerah Souq",
+          "change": "trending"
+        },
+        {
+          "place_id": "al-batha-souq",
+          "name": "Al Batha Souq",
+          "change": "trending"
+        },
+        {
+          "place_id": "souq-al-owais",
+          "name": "Souq Al Owais",
+          "change": "trending"
+        },
+        {
+          "place_id": "tahlia-street-shopping",
+          "name": "Tahlia Street Shopping",
+          "change": "trending"
+        },
+        {
+          "place_id": "boulevard-city-shopping",
+          "name": "Boulevard City Shopping",
+          "change": "trending"
+        },
+        {
+          "place_id": "harvey-nichols-riyadh-2",
+          "name": "Harvey Nichols",
+          "change": "trending"
+        },
+        {
+          "place_id": "saks-fifth-avenue-riyadh",
+          "name": "Saks Fifth Avenue",
+          "change": "trending"
+        },
+        {
+          "place_id": "apple-store-riyadh",
+          "name": "Apple Store Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "ikea-riyadh",
+          "name": "IKEA Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "extra-electronics",
+          "name": "eXtra Electronics",
+          "change": "trending"
+        },
+        {
+          "place_id": "jarir-bookstore",
+          "name": "Jarir Bookstore",
+          "change": "trending"
+        },
+        {
+          "place_id": "carrefour-riyadh",
+          "name": "Carrefour Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "lulu-hypermarket",
+          "name": "Lulu Hypermarket",
+          "change": "trending"
+        },
+        {
+          "place_id": "zara-riyadh",
+          "name": "Zara Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "centrepoint-riyadh",
+          "name": "Centrepoint",
+          "change": "trending"
+        },
+        {
+          "place_id": "h-and-m-riyadh-2",
+          "name": "H&M Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "sephora-riyadh",
+          "name": "Sephora Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "bulgari-riyadh-park",
+          "name": "Bulgari Fragrance Store - Riyadh Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "hermes-beauty-riyadh",
+          "name": "Hermès Beauty",
+          "change": "trending"
+        },
+        {
+          "place_id": "louis-vuitton-riyadh",
+          "name": "Louis Vuitton Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "cartier-riyadh",
+          "name": "Cartier Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "souq-taiba",
+          "name": "Souq Taiba",
+          "change": "trending"
+        },
+        {
+          "place_id": "nike-store-riyadh",
+          "name": "Nike Store Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "pottery-barn-riyadh-2",
+          "name": "Pottery Barn",
+          "change": "trending"
+        },
+        {
+          "place_id": "muji-riyadh",
+          "name": "MUJI",
+          "change": "trending"
+        },
+        {
+          "place_id": "cos-riyadh",
+          "name": "COS",
+          "change": "trending"
+        },
+        {
+          "place_id": "danube-hypermarket",
+          "name": "Danube Hypermarket",
+          "change": "trending"
+        },
+        {
+          "place_id": "bath-body-works-riyadh",
+          "name": "Bath & Body Works",
+          "change": "trending"
+        },
+        {
+          "place_id": "date-market-riyadh",
+          "name": "Riyadh Date Market",
+          "change": "trending"
+        },
+        {
+          "place_id": "gold-souq-riyadh",
+          "name": "Gold Souq Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "perfume-souq-riyadh",
+          "name": "Perfume Souq Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "lululemon-riyadh",
+          "name": "Lululemon",
+          "change": "trending"
+        },
+        {
+          "place_id": "victoria-secret-riyadh",
+          "name": "Victoria's Secret",
+          "change": "trending"
+        },
+        {
+          "place_id": "rolex-riyadh",
+          "name": "Rolex Riyadh",
+          "change": "trending"
+        },
+        {
+          "place_id": "home-centre-riyadh-2",
+          "name": "Home Centre",
+          "change": "trending"
+        },
+        {
+          "place_id": "mothercare-riyadh-2",
+          "name": "Mothercare",
+          "change": "trending"
+        },
+        {
+          "place_id": "bt-burger-laysen",
+          "name": "BT Burger",
+          "change": "trending"
+        },
+        {
+          "place_id": "cafe-barbera-riyadh",
+          "name": "Café Barbera",
+          "change": "trending"
+        },
+        {
+          "place_id": "find-samra-riyadh",
+          "name": "Find Samra",
+          "change": "trending"
+        },
+        {
+          "place_id": "gina-solitaire-riyadh",
+          "name": "Gina",
+          "change": "trending"
+        },
+        {
+          "place_id": "il-bambini-club-riyadh",
+          "name": "Il Bambini Club",
+          "change": "trending"
+        },
+        {
+          "place_id": "daz-play-riyadh",
+          "name": "DAZ Play",
+          "change": "trending"
+        },
+        {
+          "place_id": "q-resort-riyadh",
+          "name": "Q Resort",
+          "change": "not_trending"
+        },
+        {
+          "place_id": "the-one-resorts-riyadh",
+          "name": "The One Resorts",
+          "change": "not_trending"
+        },
+        {
+          "place_id": "al-diriyah-heritage-trail",
+          "name": "Al Diriyah Heritage Trail",
+          "change": "not_trending"
+        },
+        {
+          "place_id": "b2-nature-007",
+          "name": "King Abdullah Park Malaz East",
+          "change": "not_trending"
+        },
+        {
+          "place_id": "b2-nature-012",
+          "name": "Al Narjis Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "b2-nature-027",
+          "name": "Al Suwaidi Grand Park",
+          "change": "not_trending"
+        },
+        {
+          "place_id": "b2-nature-028",
+          "name": "Al Arid Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "b2-nature-029",
+          "name": "Wadi Namar Development",
+          "change": "not_trending"
+        },
+        {
+          "place_id": "b2-nature-031",
+          "name": "Wadi Hanifah Cycling Path",
+          "change": "not_trending"
+        },
+        {
+          "place_id": "b2-nature-039",
+          "name": "Fihrayn Mountain",
+          "change": "not_trending"
+        },
+        {
+          "place_id": "b2-nature-049",
+          "name": "Al Munsiyah New Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "b2-nature-050",
+          "name": "Al Malqa Second Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "b2-chalet-001",
+          "name": "Marbella Resort Riyadh",
+          "change": "not_trending"
+        },
+        {
+          "place_id": "b2-chalet-002",
+          "name": "Najdarah Resort",
+          "change": "not_trending"
+        },
+        {
+          "place_id": "b2-chalet-006",
+          "name": "Verdi Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "b2-chalet-013",
+          "name": "Sila Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "b2-chalet-015",
+          "name": "Four Seasons Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "b2-chalet-017",
+          "name": "The Lake Chalets",
+          "change": "trending"
+        },
+        {
+          "place_id": "b2-museum-003",
+          "name": "Sword Museum Diriyah",
+          "change": "trending"
+        },
+        {
+          "place_id": "b2-museum-014",
+          "name": "Thunaiy Art Gallery",
+          "change": "trending"
+        },
+        {
+          "place_id": "b2-museum-018",
+          "name": "Riyadh Creativity Center",
+          "change": "trending"
+        },
+        {
+          "place_id": "b2-nature-053",
+          "name": "Al Rahmaniyah Park",
+          "change": "trending"
+        },
+        {
+          "place_id": "b2-chalet-028",
+          "name": "Sanabel Chalets",
+          "change": "trending"
+        }
+      ],
+      "api_enabled": false
     }
   ]
 }
