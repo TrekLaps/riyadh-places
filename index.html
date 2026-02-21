@@ -64,6 +64,7 @@
   </script>
   <link rel="stylesheet" href="css/ramadan.css">
   <link rel="stylesheet" href="css/search-header.css">
+  <link rel="stylesheet" href="css/mvp-features.css">
 </head>
 <body>
 
@@ -88,6 +89,7 @@
         <a href="new-places.html">جديد</a>
         <a href="discover.html">🎲 وين نروح؟</a>
         <a href="lists.html">📋 قوائمي</a>
+        <a href="my-places.html">❤️ أماكني</a>
         <a href="search.html">🔍 بحث</a>
         <a href="best.html">🏆 الأفضل</a>
         <a href="compare.html">⚖️ قارن</a>
@@ -220,6 +222,16 @@
     </div>
   </section>
 
+  <!-- Quick Actions Bar -->
+  <section class="container" style="max-width:1400px;margin:0 auto;padding:20px 20px 0">
+    <div style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center;">
+      <a href="my-places.html" style="display:inline-flex;align-items:center;gap:6px;background:linear-gradient(135deg,#c9a84c,#b08d3a);color:#fff;padding:10px 20px;border-radius:25px;text-decoration:none;font-weight:700;font-size:0.9rem;transition:all 0.2s;">❤️ أماكني على الخريطة</a>
+      <button onclick="if(typeof FilterEngine!=='undefined'){FilterEngine.loadAllPlaces().then(p=>MVPFeatures.showCreateListModal(p))}" style="display:inline-flex;align-items:center;gap:6px;background:var(--card-bg,#fff);color:var(--text,#1a1a1a);border:2px solid var(--border,#e8e0d4);padding:10px 20px;border-radius:25px;font-family:'Tajawal',sans-serif;font-weight:700;font-size:0.9rem;cursor:pointer;transition:all 0.2s;">📋 أنشئ قائمة وشاركها</button>
+    </div>
+  </section>
+
+  <!-- Occasion Filter (injected by mvp-features.js) -->
+
   <!-- Trending Section -->
   <section class="container" style="max-width:1400px;margin:0 auto;padding:20px 20px 0">
     <div class="section-title" style="margin-bottom:16px">
@@ -282,6 +294,7 @@
   <script defer src="js/crowd.js"></script>
   <script defer src="js/main.js"></script>
   <script defer src="js/filter-engine.js"></script>
+  <script defer src="js/mvp-features.js"></script>
   <script defer src="js/weather-prayer.js"></script>
   <script>
     document.addEventListener('DOMContentLoaded', async () => {

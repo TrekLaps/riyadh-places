@@ -51,27 +51,32 @@
     try {
       const resp = await fetch('data/places-light.json');
       const data = await resp.json();
-      _placesCache = data.map(p => ({
-        id: p.id,
-        name_ar: p.n,
-        name_en: p.ne || '',
-        category: p.c,
-        neighborhood: p.h || 'غير محدد',
-        neighborhood_en: p.he || '',
-        description: p.d || '',
-        rating: p.r || 0,
-        review_count: p.rc || 0,
-        price_level: p.p || '',
-        price_order: PRICE_ORDER[p.p] ?? -1,
-        lat: p.la || null,
-        lng: p.lo || null,
-        trending: !!p.tr,
-        is_new: !!p.nw,
-        is_free: !!p.fr || p.p === 'مجاني' || p.p === 'free',
-        audience: p.au || [],
-        features: p.pf || [],
-        google_maps_url: p.gm || ''
-      }));
+      // Support both abbreviated and full field names
+      _placesCache = data.map(p => {
+        const price = p.p || p.price_level || '';
+        return {
+          id: p.id,
+          name_ar: p.n || p.name_ar || '',
+          name_en: p.ne || p.name_en || '',
+          category: p.c || p.category || '',
+          neighborhood: p.h || p.neighborhood || 'غير محدد',
+          neighborhood_en: p.he || p.neighborhood_en || '',
+          description: p.d || p.description_ar || p.description || '',
+          rating: p.r || p.google_rating || 0,
+          review_count: p.rc || p.review_count || 0,
+          price_level: price,
+          price_order: PRICE_ORDER[price] ?? -1,
+          lat: p.la || p.lat || null,
+          lng: p.lo || p.lng || null,
+          trending: !!(p.tr || p.trending),
+          is_new: !!(p.nw || p.is_new),
+          is_free: !!(p.fr || p.is_free) || price === 'مجاني' || price === 'free',
+          audience: p.au || p.audience || [],
+          features: p.pf || p.perfect_for || [],
+          tags: p.tags || [],
+          google_maps_url: p.gm || p.google_maps_url || ''
+        };
+      });
       return _placesCache;
     } catch (e) {
       // load error handled silently
@@ -172,6 +177,8 @@
     const priceLabel = PRICE_LABELS[place.price_level] || '';
     const mapUrl = place.google_maps_url || (place.lat && place.lng ? `https://www.google.com/maps?q=${place.lat},${place.lng}` : '');
     const desc = place.description ? place.description.slice(0, 80) + (place.description.length > 80 ? '...' : '') : '';
+    // Favorites integration
+    const isFav = typeof isFavorite === 'function' ? isFavorite(place.id) : false;
 
     return `
       <article class="place-card-v2" data-category="${place.category}" data-neighborhood="${place.neighborhood}" data-price="${place.price_level}" data-id="${place.id}">
@@ -181,6 +188,7 @@
           ${place.trending ? '<span class="card-v2-trending">🔥</span>' : ''}
           ${place.is_new ? '<span class="card-v2-new">جديد</span>' : ''}
           ${place.is_free ? '<span class="card-v2-free">🆓</span>' : ''}
+          <button class="fav-btn-v2 ${isFav ? 'is-fav' : ''}" data-id="${place.id}" title="${isFav ? 'إزالة من المفضلة' : 'أضف للمفضلة'}" onclick="event.preventDefault();event.stopPropagation();if(typeof toggleFavorite==='function'){toggleFavorite('${place.id}');this.classList.toggle('is-fav');this.innerHTML=this.classList.contains('is-fav')?'❤️':'🤍';this.title=this.classList.contains('is-fav')?'إزالة من المفضلة':'أضف للمفضلة';}else{var f=JSON.parse(localStorage.getItem('wain_favorites')||'[]'),i=f.indexOf('${place.id}');if(i>-1)f.splice(i,1);else f.push('${place.id}');localStorage.setItem('wain_favorites',JSON.stringify(f));this.classList.toggle('is-fav');this.innerHTML=this.classList.contains('is-fav')?'❤️':'🤍';}">${isFav ? '❤️' : '🤍'}</button>
         </div>
         <div class="card-v2-body">
           <h3 class="card-v2-title">${place.name_ar}</h3>

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/svg+xml" href="images/icon-192.svg">
+  <title>قائمة مشتركة | وين نروح بالرياض؟</title>
+  <meta name="description" content="قائمة أماكن مشتركة من وين نروح بالرياض. اكتشف أماكن مختارة بعناية!">
+  <meta property="og:title" content="قائمة مشتركة | وين نروح بالرياض؟">
+  <meta property="og:description" content="قائمة أماكن مشتركة من وين نروح بالرياض. اكتشف أماكن مختارة بعناية!">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ar_SA">
+  <meta property="og:image" content="https://treklaps.github.io/riyadh-places/images/icon-512.svg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://treklaps.github.io/riyadh-places/list.html">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0a1628">
+  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+  <link rel="preload" href="data/places-light.json" as="fetch" crossorigin>
+  <style>
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{font-family:'Tajawal',sans-serif;background:#0a1628;color:#e0e0e0;direction:rtl}
+    .header{background:linear-gradient(135deg,#0a1628 0%,#1a2a4a 100%);padding:12px 20px;position:sticky;top:0;z-index:100}
+    .header-inner{display:flex;align-items:center;justify-content:space-between;max-width:1400px;margin:auto}
+    .logo{text-decoration:none;color:#c9a84c;display:flex;align-items:center;gap:8px}
+    .logo h1{font-size:1.2rem;margin:0}
+  </style>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/filter-engine.css">
+  <link rel="stylesheet" href="css/mvp-features.css">
+  <link rel="stylesheet" href="css/search-header.css">
+</head>
+<body>
+
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><span>🏙️</span><h1>وين نروح بالرياض؟</h1></a>
+      <button class="dark-mode-toggle" aria-label="الوضع الليلي">🌙</button>
+      <button class="menu-toggle" aria-label="القائمة">☰</button>
+      <nav class="nav">
+        <a href="index.html">الرئيسية</a>
+        <a href="cafes.html">كافيهات</a>
+        <a href="restaurants.html">مطاعم</a>
+        <a href="activities.html">ترفيه</a>
+        <a href="events.html">فعاليات</a>
+        <a href="new-places.html">جديد</a>
+        <a href="discover.html">🎲 وين نروح؟</a>
+        <a href="lists.html">📋 قوائمي</a>
+        <a href="my-places.html">❤️ أماكني</a>
+        <div class="nav-dropdown">
+          <a href="#">المزيد</a>
+          <div class="dropdown-menu">
+            <a href="shopping.html">🛍️ تسوق</a>
+            <a href="nature.html">🏞️ طبيعة</a>
+            <a href="desserts.html">🍰 حلويات</a>
+            <a href="top-rated.html">⭐ الأعلى تقييماً</a>
+            <div class="dropdown-divider"></div>
+            <a href="neighborhoods.html">🏘️ أحياء الرياض</a>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <section class="page-header">
+    <h2>📋 <span id="list-title">قائمة مشتركة</span></h2>
+    <p id="list-subtitle">جاري تحميل القائمة...</p>
+  </section>
+
+  <div class="container" style="max-width:1400px;margin:0 auto;padding:0 20px 40px">
+    <div id="list-content">
+      <div style="text-align:center;padding:40px;color:var(--text-muted);">⏳ جاري التحميل...</div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div>
+        <h3>وين نروح بالرياض؟</h3>
+        <p>دليلك الشامل لأفضل الأماكن في الرياض. محدث يومياً.</p>
+      </div>
+      <div>
+        <h3>الأقسام</h3>
+        <ul>
+          <li><a href="cafes.html">كافيهات الرياض</a></li>
+          <li><a href="restaurants.html">مطاعم الرياض</a></li>
+          <li><a href="activities.html">ترفيه وأنشطة</a></li>
+          <li><a href="favorites.html">❤️ المفضلة</a></li>
+          <li><a href="my-places.html">🗺️ أماكني</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>روابط مفيدة</h3>
+        <ul>
+          <li><a href="sitemap.xml">خريطة الموقع</a></li>
+          <li><a href="#">سياسة الخصوصية</a></li>
+          <li><a href="#">تواصل معنا</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-heart">صنع بـ <span>❤️</span> في الرياض</div>
+    <div class="footer-bottom"><p>© 2025-2026 وين نروح بالرياض؟ جميع الحقوق محفوظة.</p></div>
+  </footer>
+
+  <button class="scroll-top" id="scrollTop" aria-label="العودة للأعلى">↑</button>
+
+  <script defer src="js/darkmode.js"></script>
+  <script defer src="js/main.js"></script>
+  <script defer src="js/filter-engine.js"></script>
+  <script defer src="js/mvp-features.js"></script>
+  <script>
+    document.querySelectorAll('.nav-dropdown > a').forEach(a => {
+      a.addEventListener('click', (e) => {
+        if (window.innerWidth <= 768) { e.preventDefault(); a.parentElement.classList.toggle('open'); }
+      });
+    });
+  </script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const params = new URLSearchParams(window.location.search);
+      const sharedData = params.get('data') || params.get('shared');
+
+      if (!sharedData) {
+        document.getElementById('list-title').textContent = '😕 ما لقينا قائمة';
+        document.getElementById('list-subtitle').textContent = 'الرابط غير صالح أو منتهي';
+        document.getElementById('list-content').innerHTML = `
+          <div style="text-align:center;padding:40px;color:var(--text-muted)">
+            <div style="font-size:3rem;margin-bottom:12px">📋</div>
+            <h3>الرابط غير صالح</h3>
+            <p>ممكن الرابط انتهى أو فيه خطأ</p>
+            <a href="lists.html" style="display:inline-block;margin-top:16px;background:var(--gold);color:#fff;padding:10px 24px;border-radius:10px;text-decoration:none;font-weight:700;">شوف القوائم الجاهزة</a>
+          </div>`;
+        return;
+      }
+
+      // Decode the shared list
+      let listData;
+      try {
+        const json = decodeURIComponent(escape(atob(decodeURIComponent(sharedData))));
+        listData = JSON.parse(json);
+      } catch (e) {
+        document.getElementById('list-title').textContent = '😕 خطأ بالرابط';
+        document.getElementById('list-subtitle').textContent = '';
+        document.getElementById('list-content').innerHTML = `
+          <div style="text-align:center;padding:40px;color:var(--text-muted)">
+            <div style="font-size:3rem;margin-bottom:12px">⚠️</div>
+            <h3>ما قدرنا نقرأ القائمة</h3>
+            <p>جرب تنسخ الرابط مرة ثانية</p>
+            <a href="index.html" style="display:inline-block;margin-top:16px;background:var(--gold);color:#fff;padding:10px 24px;border-radius:10px;text-decoration:none;font-weight:700;">الرئيسية</a>
+          </div>`;
+        return;
+      }
+
+      const listName = listData.n || 'قائمة مشتركة';
+      const listEmoji = listData.e || '📋';
+      const placeIds = listData.p || [];
+
+      document.getElementById('list-title').textContent = listEmoji + ' ' + listName;
+      document.getElementById('list-subtitle').textContent = placeIds.length + ' مكان';
+      document.title = listName + ' | وين نروح بالرياض؟';
+
+      // Load places data
+      const loadData = (typeof FilterEngine !== 'undefined' && FilterEngine.loadAllPlaces)
+        ? FilterEngine.loadAllPlaces
+        : (typeof loadPlaces === 'function' ? loadPlaces : null);
+
+      if (!loadData) {
+        document.getElementById('list-content').innerHTML = '<p style="text-align:center;color:var(--text-muted)">خطأ بتحميل البيانات</p>';
+        return;
+      }
+
+      loadData().then(allPlaces => {
+        const listPlaces = allPlaces.filter(p => placeIds.includes(p.id));
+        const content = document.getElementById('list-content');
+
+        if (listPlaces.length === 0) {
+          content.innerHTML = `
+            <div style="text-align:center;padding:40px;color:var(--text-muted)">
+              <div style="font-size:3rem;margin-bottom:12px">🤷‍♂️</div>
+              <h3>ما لقينا الأماكن</h3>
+              <p>ممكن الأماكن تحذفت من الموقع</p>
+            </div>`;
+          return;
+        }
+
+        // Banner with save + share
+        let html = `<div class="shared-list-banner">
+          <h3>${listEmoji} ${listName}</h3>
+          <p>${listPlaces.length} مكان مختار بعناية</p>
+          <div style="display:flex;gap:10px;justify-content:center;margin-top:12px;flex-wrap:wrap;">
+            <button class="btn-save-shared" onclick="saveListLocally()">❤️ احفظها عندي</button>
+            <button class="btn-save-shared" style="background:#25D366;color:#fff;" onclick="shareViaWhatsApp()">📲 شارك واتساب</button>
+            <button class="btn-save-shared" style="background:var(--primary-light,#162040);" onclick="copyListLink()">📋 انسخ الرابط</button>
+          </div>
+        </div>`;
+
+        // Render cards
+        const renderCard = (typeof FilterEngine !== 'undefined' && FilterEngine.createPlaceCard)
+          ? FilterEngine.createPlaceCard : (typeof generatePlaceCard === 'function' ? generatePlaceCard : null);
+        if (renderCard) {
+          html += '<div class="cards-grid-v2">' + listPlaces.map(p => renderCard(p)).join('') + '</div>';
+        }
+
+        content.innerHTML = html;
+      });
+
+      // Helper functions
+      window.saveListLocally = function() {
+        try {
+          const lists = JSON.parse(localStorage.getItem('wain_share_lists') || '[]');
+          lists.unshift({
+            id: 'list-' + Date.now().toString(36),
+            name: listName,
+            emoji: listEmoji,
+            placeIds: placeIds,
+            created: Date.now()
+          });
+          localStorage.setItem('wain_share_lists', JSON.stringify(lists));
+          if (typeof showToast === 'function') showToast('✅ تم حفظ القائمة!');
+          else alert('✅ تم حفظ القائمة!');
+        } catch(e) {
+          alert('حصل خطأ بالحفظ');
+        }
+      };
+
+      window.shareViaWhatsApp = function() {
+        const text = listEmoji + ' ' + listName + '\n' + placeIds.length + ' مكان بالرياض\n\n' + window.location.href + '\n\nمن موقع وين نروح بالرياض؟';
+        window.open('https://wa.me/?text=' + encodeURIComponent(text), '_blank');
+      };
+
+      window.copyListLink = function() {
+        navigator.clipboard.writeText(window.location.href).then(() => {
+          if (typeof showToast === 'function') showToast('✅ تم نسخ الرابط!');
+          else alert('✅ تم نسخ الرابط!');
+        }).catch(() => {
+          prompt('انسخ الرابط:', window.location.href);
+        });
+      };
+    });
+  </script>
+  <script src="js/analytics.js" defer></script>
+  <script>
+    if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(function(){});}
+  </script>
+</body>
+</html>
