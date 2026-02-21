@@ -1,294 +1,273 @@
 // Place.swift
-// موديل المكان — الموديل الأساسي في التطبيق
-// يتطابق مع بيانات places.json و جدول places في Supabase
+// موديل المكان — يطابق places.json بالضبط
+// Updated: 2026-02-21 — HS Super App Pattern
 
 import Foundation
 import SwiftData
 import CoreLocation
 
-// MARK: - موديل المكان (من الـ API)
+// MARK: - Place (من places.json)
 
-/// بيانات المكان كاملة — من Supabase
+/// بيانات المكان — تطابق places.json بالضبط
 struct Place: Codable, Identifiable, Hashable, Sendable {
     let id: String
-    let name: String
+    let nameAr: String
     let nameEn: String?
-    let category: PlaceCategory
+    let category: String
+    let categoryAr: String?
+    let categoryEn: String?
     let neighborhood: String?
     let neighborhoodEn: String?
-    let description: String?
-    let rating: Double?
-    let ratingCount: Int?
+    let descriptionAr: String?
+    let googleRating: Double?
+    let ratingSource: String?  // "google" | "not_applicable" | "pending"
+    let priceLevel: String?    // $ | $$ | $$$ | $$$$
     let priceRange: String?
-    let latitude: Double?
-    let longitude: Double?
+    let lat: Double?
+    let lng: Double?
     let googleMapsUrl: String?
     let phone: String?
-    let website: String?
-    let instagram: String?
-    let hours: String?
+    let openingHours: String?
     let address: String?
-    let coverImageUrl: String?
+    let district: String?
     let tags: [String]?
     let perfectFor: [String]?
-    let features: PlaceFeatures?
-    let isVerified: Bool?
-    let createdAt: String?
-    let updatedAt: String?
+    let audience: [String]?
+    let sources: [String]?
+    let isNew: Bool?
+    let trending: Bool?
+    let isFree: Bool?
     
     enum CodingKeys: String, CodingKey {
         case id
-        case name = "name_ar"
+        case nameAr = "name_ar"
         case nameEn = "name_en"
-        case category = "category_id"
-        case neighborhood = "area_id"
-        case neighborhoodEn = "area_en"
-        case description = "description_ar"
-        case rating = "rating_avg"
-        case ratingCount = "rating_count"
+        case category
+        case categoryAr = "category_ar"
+        case categoryEn = "category_en"
+        case neighborhood
+        case neighborhoodEn = "neighborhood_en"
+        case descriptionAr = "description_ar"
+        case googleRating = "google_rating"
+        case ratingSource = "rating_source"
+        case priceLevel = "price_level"
         case priceRange = "price_range"
-        case latitude
-        case longitude
+        case lat, lng
         case googleMapsUrl = "google_maps_url"
         case phone
-        case website
-        case instagram
-        case hours
-        case address = "address_ar"
-        case coverImageUrl = "cover_image_url"
+        case openingHours = "opening_hours"
+        case address
+        case district
         case tags
         case perfectFor = "perfect_for"
-        case features
-        case isVerified = "is_verified"
-        case createdAt = "created_at"
-        case updatedAt = "updated_at"
+        case audience
+        case sources
+        case isNew = "is_new"
+        case trending
+        case isFree = "is_free"
     }
     
-    // MARK: - حسابات مساعدة
+    // MARK: - Computed Properties
     
-    /// الإحداثيات كـ CLLocationCoordinate2D
+    var displayName: String { nameAr }
+    
     var coordinate: CLLocationCoordinate2D? {
-        guard let lat = latitude, let lng = longitude else { return nil }
+        guard let lat, let lng, lng > 40 else { return nil }
         return CLLocationCoordinate2D(latitude: lat, longitude: lng)
     }
     
-    /// الموقع كـ CLLocation
     var location: CLLocation? {
-        guard let lat = latitude, let lng = longitude else { return nil }
+        guard let lat, let lng, lng > 40 else { return nil }
         return CLLocation(latitude: lat, longitude: lng)
     }
     
-    /// المسافة من موقع معين (بالكيلومتر)
     func distance(from userLocation: CLLocation) -> Double? {
-        guard let placeLocation = location else { return nil }
-        return placeLocation.distance(from: userLocation) / 1000.0
+        guard let loc = location else { return nil }
+        return loc.distance(from: userLocation) / 1000.0
     }
     
-    /// نص المسافة المنسق
     func formattedDistance(from userLocation: CLLocation) -> String? {
         guard let km = distance(from: userLocation) else { return nil }
-        if km < 1.0 {
-            return "\(Int(km * 1000)) م"
-        } else {
-            return String(format: "%.1f كم", km)
-        }
+        return km < 1.0 ? "\(Int(km * 1000)) م" : String(format: "%.1f كم", km)
     }
     
-    /// هل المكان مفتوح الحين؟ (تبسيط — يحتاج بيانات ساعات مفصلة)
-    var isOpenNow: Bool? {
-        // TODO: تنفيذ حقيقي مع بيانات الساعات المفصلة
-        return nil
+    var hasVerifiedRating: Bool {
+        ratingSource == "google" && googleRating != nil
     }
     
-    /// اسم العرض (عربي أو إنجليزي)
-    var displayName: String {
-        return name
+    /// تقييم Tabelog-style: 3.5 = ممتاز
+    var ratingLabel: String? {
+        guard let r = googleRating else { return nil }
+        if r >= 4.5 { return "استثنائي" }
+        if r >= 4.0 { return "ممتاز" }
+        if r >= 3.5 { return "جيد جداً" }
+        if r >= 3.0 { return "جيد" }
+        return "مقبول"
     }
     
-    /// رمز نطاق السعر ($ إلى $$$$)
-    var priceSymbol: String {
-        return priceRange ?? "$$"
+    /// Multi-dimensional rating (derived from google_rating)
+    var ratingDimensions: RatingDimensions {
+        let base = googleRating ?? 3.5
+        return RatingDimensions(
+            quality: min(5, base + 0.1),
+            service: min(5, base - 0.2),
+            ambiance: min(5, base + 0.05),
+            value: min(5, base - 0.1)
+        )
+    }
+    
+    /// Occasion matching
+    var occasions: [Occasion] {
+        var result: [Occasion] = []
+        let pf = Set(perfectFor ?? [])
+        let t = Set(tags ?? [])
+        if pf.contains("families") || t.contains("عائلي") { result.append(.family) }
+        if pf.contains("couples") || t.contains("رومانسي") { result.append(.romantic) }
+        if pf.contains("friends") || t.contains("شباب") { result.append(.friends) }
+        if pf.contains("work") || t.contains("بزنس") { result.append(.business) }
+        if pf.contains("quiet") || t.contains("هادئ") { result.append(.quiet) }
+        return result
     }
     
     // MARK: - Hashable
+    func hash(into hasher: inout Hasher) { hasher.combine(id) }
+    static func == (lhs: Place, rhs: Place) -> Bool { lhs.id == rhs.id }
+}
+
+// MARK: - Rating Dimensions (Tabelog-style)
+
+struct RatingDimensions: Codable, Sendable {
+    let quality: Double   // جودة الطعام/الخدمة
+    let service: Double   // الخدمة
+    let ambiance: Double  // الأجواء
+    let value: Double     // القيمة مقابل السعر
     
-    func hash(into hasher: inout Hasher) {
-        hasher.combine(id)
-    }
-    
-    static func == (lhs: Place, rhs: Place) -> Bool {
-        lhs.id == rhs.id
+    var average: Double {
+        (quality + service + ambiance + value) / 4.0
     }
 }
 
-// MARK: - ميزات المكان
+// MARK: - Occasion Types
 
-/// الميزات المتاحة في المكان
-struct PlaceFeatures: Codable, Hashable, Sendable {
-    let wifi: Bool?
-    let parking: Bool?
-    let families: Bool?
-    let outdoor: Bool?
-    let delivery: Bool?
-    let reservations: Bool?
-    let valet: Bool?
-    let kidsArea: Bool?
-    let shisha: Bool?
-    let liveMusic: Bool?
-    let privateRooms: Bool?
+enum Occasion: String, CaseIterable, Identifiable, Codable {
+    case family = "family"
+    case romantic = "romantic"
+    case friends = "friends"
+    case business = "business"
+    case quiet = "quiet"
     
-    enum CodingKeys: String, CodingKey {
-        case wifi, parking, families, outdoor, delivery, reservations, valet
-        case kidsArea = "kids_area"
-        case shisha
-        case liveMusic = "live_music"
-        case privateRooms = "private_rooms"
+    var id: String { rawValue }
+    
+    var nameAr: String {
+        switch self {
+        case .family: return "عائلي"
+        case .romantic: return "رومانسي"
+        case .friends: return "سهرة شباب"
+        case .business: return "بزنس"
+        case .quiet: return "قعدة هادية"
+        }
     }
     
-    /// قائمة الميزات المتوفرة كنصوص
-    var availableFeatures: [(icon: String, label: String)] {
-        var result: [(String, String)] = []
-        if wifi == true { result.append(("wifi", "واي فاي")) }
-        if parking == true { result.append(("car.fill", "مواقف")) }
-        if families == true { result.append(("figure.2.and.child", "عوائل")) }
-        if outdoor == true { result.append(("sun.max.fill", "جلسات خارجية")) }
-        if delivery == true { result.append(("bicycle", "توصيل")) }
-        if reservations == true { result.append(("calendar.badge.clock", "حجز")) }
-        if valet == true { result.append(("key.fill", "فاليه")) }
-        if kidsArea == true { result.append(("figure.child", "منطقة أطفال")) }
-        if shisha == true { result.append(("smoke.fill", "شيشة")) }
-        if liveMusic == true { result.append(("music.note", "موسيقى حية")) }
-        if privateRooms == true { result.append(("door.left.hand.closed", "غرف خاصة")) }
-        return result
+    var icon: String {
+        switch self {
+        case .family: return "figure.2.and.child"
+        case .romantic: return "heart.fill"
+        case .friends: return "person.3.fill"
+        case .business: return "briefcase.fill"
+        case .quiet: return "leaf.fill"
+        }
+    }
+    
+    var emoji: String {
+        switch self {
+        case .family: return "👨‍👩‍👧‍👦"
+        case .romantic: return "💑"
+        case .friends: return "🌙"
+        case .business: return "💼"
+        case .quiet: return "☕"
+        }
     }
 }
 
-// MARK: - موديل المكان المحلي (SwiftData)
+// MARK: - CachedPlace (SwiftData — Offline Storage)
 
-/// نسخة محلية من المكان — للتخزين في SwiftData (أوفلاين)
 @Model
 final class CachedPlace {
     @Attribute(.unique) var id: String
-    var name: String
+    var nameAr: String
     var nameEn: String?
-    var categoryId: String
+    var category: String
+    var categoryAr: String?
+    var categoryEn: String?
     var neighborhood: String?
-    var descriptionText: String?
-    var rating: Double
-    var ratingCount: Int
-    var priceRange: String?
-    var latitude: Double?
-    var longitude: Double?
+    var descriptionAr: String?
+    var googleRating: Double
+    var ratingSource: String?
+    var priceLevel: String?
+    var lat: Double?
+    var lng: Double?
     var googleMapsUrl: String?
     var phone: String?
-    var website: String?
-    var instagram: String?
-    var hours: String?
+    var openingHours: String?
     var address: String?
-    var coverImageUrl: String?
     var tagsData: Data?
     var perfectForData: Data?
-    var featuresData: Data?
-    var isVerified: Bool
+    var isNew: Bool
+    var trending: Bool
     var lastSyncedAt: Date
     
     init(from place: Place) {
         self.id = place.id
-        self.name = place.name
+        self.nameAr = place.nameAr
         self.nameEn = place.nameEn
-        self.categoryId = place.category.rawValue
+        self.category = place.category
+        self.categoryAr = place.categoryAr
+        self.categoryEn = place.categoryEn
         self.neighborhood = place.neighborhood
-        self.descriptionText = place.description
-        self.rating = place.rating ?? 0
-        self.ratingCount = place.ratingCount ?? 0
-        self.priceRange = place.priceRange
-        self.latitude = place.latitude
-        self.longitude = place.longitude
+        self.descriptionAr = place.descriptionAr
+        self.googleRating = place.googleRating ?? 0
+        self.ratingSource = place.ratingSource
+        self.priceLevel = place.priceLevel
+        self.lat = place.lat
+        self.lng = place.lng
         self.googleMapsUrl = place.googleMapsUrl
         self.phone = place.phone
-        self.website = place.website
-        self.instagram = place.instagram
-        self.hours = place.hours
+        self.openingHours = place.openingHours
         self.address = place.address
-        self.coverImageUrl = place.coverImageUrl
         self.tagsData = try? JSONEncoder().encode(place.tags)
         self.perfectForData = try? JSONEncoder().encode(place.perfectFor)
-        self.featuresData = try? JSONEncoder().encode(place.features)
-        self.isVerified = place.isVerified ?? false
+        self.isNew = place.isNew ?? false
+        self.trending = place.trending ?? false
         self.lastSyncedAt = Date()
     }
     
-    /// تحويل من كاش إلى موديل Place
     func toPlace() -> Place {
-        let tags = (try? JSONDecoder().decode([String].self, from: tagsData ?? Data())) ?? nil
-        let perfectFor = (try? JSONDecoder().decode([String].self, from: perfectForData ?? Data())) ?? nil
-        let features = try? JSONDecoder().decode(PlaceFeatures.self, from: featuresData ?? Data())
+        let tags = (try? JSONDecoder().decode([String].self, from: tagsData ?? Data())) ?? []
+        let perfectFor = (try? JSONDecoder().decode([String].self, from: perfectForData ?? Data())) ?? []
         
         return Place(
-            id: id,
-            name: name,
-            nameEn: nameEn,
-            category: PlaceCategory(rawValue: categoryId) ?? .restaurant,
-            neighborhood: neighborhood,
-            neighborhoodEn: nil,
-            description: descriptionText,
-            rating: rating,
-            ratingCount: ratingCount,
-            priceRange: priceRange,
-            latitude: latitude,
-            longitude: longitude,
-            googleMapsUrl: googleMapsUrl,
-            phone: phone,
-            website: website,
-            instagram: instagram,
-            hours: hours,
-            address: address,
-            coverImageUrl: coverImageUrl,
-            tags: tags,
-            perfectFor: perfectFor,
-            features: features,
-            isVerified: isVerified,
-            createdAt: nil,
-            updatedAt: nil
+            id: id, nameAr: nameAr, nameEn: nameEn,
+            category: category, categoryAr: categoryAr, categoryEn: categoryEn,
+            neighborhood: neighborhood, neighborhoodEn: nil,
+            descriptionAr: descriptionAr,
+            googleRating: googleRating > 0 ? googleRating : nil,
+            ratingSource: ratingSource, priceLevel: priceLevel, priceRange: priceLevel,
+            lat: lat, lng: lng, googleMapsUrl: googleMapsUrl,
+            phone: phone, openingHours: openingHours, address: address,
+            district: nil, tags: tags, perfectFor: perfectFor,
+            audience: nil, sources: nil, isNew: isNew, trending: trending, isFree: nil
         )
-    }
-    
-    /// تحديث البيانات من Place جديد
-    func update(from place: Place) {
-        self.name = place.name
-        self.nameEn = place.nameEn
-        self.categoryId = place.category.rawValue
-        self.neighborhood = place.neighborhood
-        self.descriptionText = place.description
-        self.rating = place.rating ?? 0
-        self.ratingCount = place.ratingCount ?? 0
-        self.priceRange = place.priceRange
-        self.latitude = place.latitude
-        self.longitude = place.longitude
-        self.googleMapsUrl = place.googleMapsUrl
-        self.phone = place.phone
-        self.website = place.website
-        self.instagram = place.instagram
-        self.hours = place.hours
-        self.address = place.address
-        self.coverImageUrl = place.coverImageUrl
-        self.tagsData = try? JSONEncoder().encode(place.tags)
-        self.perfectForData = try? JSONEncoder().encode(place.perfectFor)
-        self.featuresData = try? JSONEncoder().encode(place.features)
-        self.isVerified = place.isVerified ?? false
-        self.lastSyncedAt = Date()
     }
 }
 
-// MARK: - إجراء معلق (للأوفلاين)
+// MARK: - Pending Action (Offline Queue)
 
-/// إجراء معلق ينتظر الاتصال بالإنترنت
 @Model
 final class PendingAction {
     @Attribute(.unique) var id: String
-    var actionType: String  // "favorite_add", "favorite_remove", "review_add"
-    var targetId: String    // place_id
-    var payload: Data?      // JSON data
+    var actionType: String
+    var targetId: String
+    var payload: Data?
     var createdAt: Date
     var retryCount: Int
     

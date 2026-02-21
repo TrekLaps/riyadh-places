@@ -1,0 +1,800 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/svg+xml" href="images/icon-192.svg">
+  <title>الملف الشخصي | وين نروح بالرياض؟</title>
+  <meta name="description" content="إدارة ملفك الشخصي في وين نروح بالرياض — تعديل البيانات والاهتمامات والأحياء المفضلة.">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0a1628">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .profile-page {
+      min-height: 100vh;
+      background: var(--sand, #f4ede4);
+      display: flex;
+      flex-direction: column;
+    }
+
+    .profile-container {
+      max-width: 600px;
+      width: 100%;
+      margin: 30px auto;
+      padding: 0 20px;
+      flex: 1;
+    }
+
+    /* Profile Header */
+    .profile-header {
+      text-align: center;
+      margin-bottom: 28px;
+    }
+
+    .profile-avatar {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--gold, #c9a84c), var(--gold-dark, #b08d3a));
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-size: 2rem;
+      font-weight: 800;
+      margin-bottom: 12px;
+      box-shadow: 0 4px 20px rgba(201,168,76,0.3);
+    }
+
+    .profile-header h2 {
+      font-size: 1.4rem;
+      font-weight: 800;
+      color: var(--text, #1a1a1a);
+      margin: 0 0 4px;
+    }
+
+    .profile-header p {
+      color: var(--text-muted, #888);
+      font-size: 0.9rem;
+    }
+
+    .profile-member-since {
+      display: inline-block;
+      background: rgba(201,168,76,0.1);
+      color: var(--gold-dark, #b08d3a);
+      padding: 4px 12px;
+      border-radius: 12px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      margin-top: 8px;
+    }
+
+    /* Stats */
+    .profile-stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin-bottom: 28px;
+    }
+
+    .stat-card {
+      background: var(--card-bg, #fff);
+      border-radius: var(--radius-sm, 8px);
+      padding: 16px 12px;
+      text-align: center;
+      border: 1px solid var(--border, #e8e0d4);
+      box-shadow: var(--shadow, 0 4px 20px rgba(10,22,40,0.08));
+    }
+
+    .stat-number {
+      font-size: 1.6rem;
+      font-weight: 800;
+      color: var(--gold, #c9a84c);
+      display: block;
+    }
+
+    .stat-label {
+      font-size: 0.78rem;
+      color: var(--text-muted, #888);
+      margin-top: 4px;
+    }
+
+    /* Section Card */
+    .profile-section {
+      background: var(--card-bg, #fff);
+      border-radius: var(--radius, 16px);
+      box-shadow: var(--shadow);
+      padding: 24px;
+      margin-bottom: 20px;
+      border: 1px solid var(--border, #e8e0d4);
+    }
+
+    .profile-section h3 {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--text, #1a1a1a);
+      margin: 0 0 16px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    /* Form elements (reuse auth styles) */
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-weight: 600;
+      font-size: 0.88rem;
+      color: var(--text, #1a1a1a);
+      margin-bottom: 6px;
+    }
+
+    .form-group label .optional {
+      font-weight: 400;
+      color: var(--text-muted, #888);
+      font-size: 0.8rem;
+    }
+
+    .form-input {
+      width: 100%;
+      padding: 12px 16px;
+      border: 2px solid var(--border, #e8e0d4);
+      border-radius: var(--radius-sm, 8px);
+      font-family: 'Tajawal', sans-serif;
+      font-size: 1rem;
+      color: var(--text, #1a1a1a);
+      background: var(--card-bg, #fff);
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+      outline: none;
+    }
+
+    .form-input:focus {
+      border-color: var(--gold, #c9a84c);
+      box-shadow: 0 0 0 3px rgba(201,168,76,0.15);
+    }
+
+    .form-input.error {
+      border-color: #e74c3c;
+    }
+
+    .form-error {
+      color: #e74c3c;
+      font-size: 0.8rem;
+      margin-top: 4px;
+      display: none;
+    }
+
+    .form-error.visible {
+      display: block;
+    }
+
+    .form-select {
+      width: 100%;
+      padding: 12px 16px;
+      border: 2px solid var(--border, #e8e0d4);
+      border-radius: var(--radius-sm, 8px);
+      font-family: 'Tajawal', sans-serif;
+      font-size: 1rem;
+      color: var(--text, #1a1a1a);
+      background: var(--card-bg, #fff);
+      cursor: pointer;
+      outline: none;
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23888' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: left 16px center;
+    }
+
+    .form-select:focus {
+      border-color: var(--gold, #c9a84c);
+      box-shadow: 0 0 0 3px rgba(201,168,76,0.15);
+    }
+
+    /* Chips */
+    .chips-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 8px 14px;
+      border: 2px solid var(--border, #e8e0d4);
+      border-radius: 20px;
+      font-family: 'Tajawal', sans-serif;
+      font-size: 0.85rem;
+      font-weight: 500;
+      color: var(--text-light, #555);
+      background: var(--card-bg, #fff);
+      cursor: pointer;
+      transition: all 0.2s ease;
+      user-select: none;
+    }
+
+    .chip:hover {
+      border-color: var(--gold, #c9a84c);
+      color: var(--gold, #c9a84c);
+    }
+
+    .chip.selected {
+      background: linear-gradient(135deg, var(--gold, #c9a84c), var(--gold-dark, #b08d3a));
+      color: #fff;
+      border-color: transparent;
+    }
+
+    .chip input[type="checkbox"] { display: none; }
+
+    /* Interests */
+    .interests-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+    }
+
+    .interest-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 12px;
+      border: 2px solid var(--border, #e8e0d4);
+      border-radius: var(--radius-sm, 8px);
+      cursor: pointer;
+      transition: all 0.2s ease;
+      user-select: none;
+      font-size: 0.85rem;
+    }
+
+    .interest-item:hover {
+      border-color: var(--gold, #c9a84c);
+    }
+
+    .interest-item.selected {
+      background: rgba(201,168,76,0.1);
+      border-color: var(--gold, #c9a84c);
+      color: var(--gold-dark, #b08d3a);
+      font-weight: 600;
+    }
+
+    .interest-item input[type="checkbox"] { display: none; }
+    .interest-icon { font-size: 1.1rem; }
+
+    /* Buttons */
+    .btn-primary {
+      width: 100%;
+      padding: 14px 24px;
+      background: linear-gradient(135deg, var(--gold, #c9a84c), var(--gold-dark, #b08d3a));
+      color: #fff;
+      border: none;
+      border-radius: var(--radius-sm, 8px);
+      font-family: 'Tajawal', sans-serif;
+      font-size: 1.05rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 15px rgba(201,168,76,0.3);
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(201,168,76,0.4);
+    }
+
+    .btn-danger {
+      width: 100%;
+      padding: 14px 24px;
+      background: transparent;
+      color: #e74c3c;
+      border: 2px solid #e74c3c;
+      border-radius: var(--radius-sm, 8px);
+      font-family: 'Tajawal', sans-serif;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .btn-danger:hover {
+      background: #e74c3c;
+      color: #fff;
+    }
+
+    /* Quick links */
+    .profile-quick-links {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 28px;
+    }
+
+    .quick-link {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 14px 16px;
+      background: var(--card-bg, #fff);
+      border: 1px solid var(--border, #e8e0d4);
+      border-radius: var(--radius-sm, 8px);
+      text-decoration: none;
+      color: var(--text, #1a1a1a);
+      font-weight: 600;
+      font-size: 0.9rem;
+      box-shadow: var(--shadow);
+      transition: all 0.2s ease;
+    }
+
+    .quick-link:hover {
+      border-color: var(--gold, #c9a84c);
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-hover);
+    }
+
+    /* Not logged in */
+    .not-logged-in {
+      text-align: center;
+      padding: 60px 20px;
+    }
+
+    .not-logged-in h2 {
+      font-size: 1.4rem;
+      color: var(--text, #1a1a1a);
+      margin-bottom: 12px;
+    }
+
+    .not-logged-in p {
+      color: var(--text-muted, #888);
+      margin-bottom: 24px;
+    }
+
+    .btn-link {
+      display: inline-block;
+      padding: 12px 32px;
+      background: linear-gradient(135deg, var(--gold, #c9a84c), var(--gold-dark, #b08d3a));
+      color: #fff;
+      text-decoration: none;
+      border-radius: var(--radius-sm, 8px);
+      font-weight: 700;
+      font-size: 1rem;
+      transition: all 0.2s ease;
+      box-shadow: 0 4px 15px rgba(201,168,76,0.3);
+    }
+
+    .btn-link:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(201,168,76,0.4);
+    }
+
+    /* Toast */
+    .toast {
+      position: fixed;
+      bottom: 30px;
+      left: 50%;
+      transform: translateX(-50%) translateY(100px);
+      background: var(--primary, #0a1628);
+      color: #fff;
+      padding: 14px 28px;
+      border-radius: 12px;
+      font-family: 'Tajawal', sans-serif;
+      font-weight: 600;
+      font-size: 0.95rem;
+      z-index: 1000;
+      transition: transform 0.3s ease;
+      box-shadow: 0 8px 30px rgba(0,0,0,0.2);
+    }
+
+    .toast.show {
+      transform: translateX(-50%) translateY(0);
+    }
+
+    /* Responsive */
+    @media (max-width: 480px) {
+      .profile-container { padding: 0 16px; margin: 20px auto; }
+      .profile-section { padding: 20px 16px; }
+      .interests-grid { grid-template-columns: repeat(2, 1fr); }
+      .profile-stats { grid-template-columns: repeat(3, 1fr); gap: 8px; }
+      .stat-card { padding: 12px 8px; }
+      .stat-number { font-size: 1.3rem; }
+      .profile-quick-links { flex-direction: column; }
+    }
+
+    /* Dark mode */
+    [data-theme="dark"] .profile-page { background: var(--sand); }
+    [data-theme="dark"] .form-input,
+    [data-theme="dark"] .form-select {
+      background: var(--card-bg);
+      color: var(--text);
+      border-color: var(--border);
+    }
+    [data-theme="dark"] .chip {
+      background: var(--card-bg);
+      color: var(--text-light);
+      border-color: var(--border);
+    }
+    [data-theme="dark"] .interest-item {
+      border-color: var(--border);
+      color: var(--text-light);
+    }
+    [data-theme="dark"] .interest-item.selected {
+      background: rgba(201,168,76,0.15);
+      color: var(--gold);
+    }
+    [data-theme="dark"] .quick-link {
+      background: var(--card-bg);
+      color: var(--text);
+      border-color: var(--border);
+    }
+    [data-theme="dark"] .profile-member-since {
+      background: rgba(201,168,76,0.15);
+    }
+  </style>
+</head>
+<body class="profile-page">
+
+  <!-- Header -->
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><span>🏙️</span><h1>وين نروح بالرياض؟</h1></a>
+      <button class="dark-mode-toggle" aria-label="الوضع الليلي">🌙</button>
+      <nav class="nav">
+        <a href="index.html">الرئيسية</a>
+        <a href="cafes.html">كافيهات</a>
+        <a href="restaurants.html">مطاعم</a>
+        <a href="discover.html">🎲 وين نروح؟</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="profile-container">
+
+    <!-- Not logged in state -->
+    <div class="not-logged-in" id="notLoggedIn" style="display:none;">
+      <div style="font-size:3rem;margin-bottom:16px;">👤</div>
+      <h2>ما سجّلت دخولك بعد</h2>
+      <p>سجّل دخولك عشان تقدر تحفظ أماكنك وتنشئ قوائم</p>
+      <a href="auth.html" class="btn-link">تسجيل / دخول</a>
+    </div>
+
+    <!-- Logged in content -->
+    <div id="profileContent" style="display:none;">
+
+      <!-- Profile Header -->
+      <div class="profile-header">
+        <div class="profile-avatar" id="profileAvatar" aria-hidden="true"></div>
+        <h2 id="profileName"></h2>
+        <p id="profileContact"></p>
+        <div class="profile-member-since" id="memberSince"></div>
+      </div>
+
+      <!-- Stats -->
+      <div class="profile-stats">
+        <div class="stat-card">
+          <span class="stat-number" id="statSavedPlaces">0</span>
+          <div class="stat-label">أماكن محفوظة</div>
+        </div>
+        <div class="stat-card">
+          <span class="stat-number" id="statLists">0</span>
+          <div class="stat-label">قوائم منشأة</div>
+        </div>
+        <div class="stat-card">
+          <span class="stat-number" id="statInterests">0</span>
+          <div class="stat-label">اهتمامات</div>
+        </div>
+      </div>
+
+      <!-- Quick Links -->
+      <div class="profile-quick-links">
+        <a href="my-places.html" class="quick-link">❤️ أماكني</a>
+        <a href="lists.html" class="quick-link">📋 قوائمي</a>
+      </div>
+
+      <!-- Edit Personal Info -->
+      <div class="profile-section">
+        <h3>📝 البيانات الشخصية</h3>
+        <form id="profileForm" novalidate>
+          <div class="form-group">
+            <label for="editName">الاسم</label>
+            <input type="text" class="form-input" id="editName" required aria-required="true" autocomplete="name">
+            <div class="form-error" id="editNameError">الرجاء إدخال الاسم</div>
+          </div>
+
+          <div class="form-group">
+            <label for="editPhone">رقم الجوال</label>
+            <input type="tel" class="form-input" id="editPhone" maxlength="10" inputmode="numeric" dir="ltr" style="text-align:right;" autocomplete="tel">
+            <div class="form-error" id="editPhoneError">الرجاء إدخال رقم جوال سعودي صحيح</div>
+          </div>
+
+          <div class="form-group">
+            <label for="editEmail">البريد الإلكتروني <span class="optional">(اختياري)</span></label>
+            <input type="email" class="form-input" id="editEmail" dir="ltr" style="text-align:right;" autocomplete="email">
+            <div class="form-error" id="editEmailError">الرجاء إدخال بريد صحيح</div>
+          </div>
+
+          <div class="form-group">
+            <label for="editCity">المدينة</label>
+            <select class="form-select" id="editCity" aria-label="اختر المدينة">
+              <option value="الرياض">الرياض</option>
+              <option value="جدة">جدة</option>
+              <option value="مكة">مكة المكرمة</option>
+              <option value="المدينة">المدينة المنورة</option>
+              <option value="الدمام">الدمام</option>
+              <option value="الخبر">الخبر</option>
+              <option value="أخرى">أخرى</option>
+            </select>
+          </div>
+
+          <button type="submit" class="btn-primary">💾 حفظ التعديلات</button>
+        </form>
+      </div>
+
+      <!-- Neighborhoods -->
+      <div class="profile-section">
+        <h3>🏘️ الأحياء المفضلة</h3>
+        <div class="chips-container" id="profileNeighborhoods" role="group" aria-label="اختر الأحياء المفضلة"></div>
+        <button type="button" class="btn-primary" style="margin-top:16px;" onclick="ProfileApp.saveNeighborhoods()">💾 حفظ الأحياء</button>
+      </div>
+
+      <!-- Interests -->
+      <div class="profile-section">
+        <h3>💡 الاهتمامات</h3>
+        <div class="interests-grid" id="profileInterests" role="group" aria-label="اختر اهتماماتك"></div>
+        <button type="button" class="btn-primary" style="margin-top:16px;" onclick="ProfileApp.saveInterests()">💾 حفظ الاهتمامات</button>
+      </div>
+
+      <!-- Logout -->
+      <div class="profile-section" style="text-align:center;">
+        <button type="button" class="btn-danger" onclick="ProfileApp.logout()">🚪 تسجيل خروج</button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer" style="margin-top:auto;">
+    <div class="footer-heart">صنع بـ <span>❤️</span> في الرياض</div>
+    <div class="footer-bottom"><p>© 2025-2026 وين نروح بالرياض؟ جميع الحقوق محفوظة.</p></div>
+  </footer>
+
+  <!-- Toast -->
+  <div class="toast" id="toast" aria-live="polite"></div>
+
+  <script defer src="js/darkmode.js"></script>
+  <script>
+    const ProfileApp = (() => {
+
+      const STORAGE_KEY = 'wainUser';
+
+      const NEIGHBORHOODS = [
+        'العليا', 'الملقا', 'حطين', 'الياسمين', 'الربيع', 'النرجس',
+        'الورود', 'الصحافة', 'المروج', 'النخيل', 'الدرعية', 'السفارات',
+        'الملز', 'العقيق', 'السليمانية', 'غرناطة', 'الربوة', 'العارض',
+        'الغدير', 'النفل', 'الروضة', 'السويدي', 'الشفا', 'طويق'
+      ];
+
+      const INTERESTS = [
+        { id: 'restaurants', label: 'مطاعم', icon: '🍽️' },
+        { id: 'cafes', label: 'كافيهات', icon: '☕' },
+        { id: 'entertainment', label: 'ترفيه', icon: '🎭' },
+        { id: 'shopping', label: 'تسوق', icon: '🛍️' },
+        { id: 'nature', label: 'طبيعة', icon: '🏞️' },
+        { id: 'family', label: 'عائلي', icon: '👨‍👩‍👧‍👦' }
+      ];
+
+      function getUser() {
+        const s = localStorage.getItem(STORAGE_KEY);
+        return s ? JSON.parse(s) : null;
+      }
+
+      function saveUser(user) {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(user));
+      }
+
+      function init() {
+        const user = getUser();
+        if (!user) {
+          document.getElementById('notLoggedIn').style.display = '';
+          document.getElementById('profileContent').style.display = 'none';
+          return;
+        }
+
+        document.getElementById('notLoggedIn').style.display = 'none';
+        document.getElementById('profileContent').style.display = '';
+
+        // Header
+        document.getElementById('profileAvatar').textContent = user.name.charAt(0).toUpperCase();
+        document.getElementById('profileName').textContent = user.name;
+        document.getElementById('profileContact').textContent = user.phone || user.email || '';
+
+        // Member since
+        if (user.createdAt) {
+          const d = new Date(user.createdAt);
+          const months = ['يناير','فبراير','مارس','أبريل','مايو','يونيو','يوليو','أغسطس','سبتمبر','أكتوبر','نوفمبر','ديسمبر'];
+          document.getElementById('memberSince').textContent = 'عضو منذ ' + months[d.getMonth()] + ' ' + d.getFullYear();
+        }
+
+        // Stats
+        document.getElementById('statSavedPlaces').textContent = (user.savedPlaces || []).length;
+        document.getElementById('statLists').textContent = (user.lists || []).length;
+        document.getElementById('statInterests').textContent = (user.interests || []).length;
+
+        // Form fields
+        document.getElementById('editName').value = user.name || '';
+        document.getElementById('editPhone').value = user.phone || '';
+        document.getElementById('editEmail').value = user.email || '';
+        document.getElementById('editCity').value = user.city || 'الرياض';
+
+        // Neighborhoods
+        renderNeighborhoods(user.neighborhoods || []);
+
+        // Interests
+        renderInterests(user.interests || []);
+
+        // Bind form
+        document.getElementById('profileForm').addEventListener('submit', e => {
+          e.preventDefault();
+          saveProfile();
+        });
+
+        // Phone input filter
+        const phoneInput = document.getElementById('editPhone');
+        phoneInput.addEventListener('input', e => {
+          e.target.value = e.target.value.replace(/[^0-9]/g, '').slice(0, 10);
+        });
+      }
+
+      function renderNeighborhoods(selected) {
+        const container = document.getElementById('profileNeighborhoods');
+        container.innerHTML = NEIGHBORHOODS.map(n => {
+          const isSelected = selected.includes(n);
+          return `<label class="chip${isSelected ? ' selected' : ''}" tabindex="0" role="checkbox" aria-checked="${isSelected}" aria-label="${n}">
+            <input type="checkbox" name="neighborhoods" value="${n}" ${isSelected ? 'checked' : ''}>
+            ${n}
+          </label>`;
+        }).join('');
+
+        container.querySelectorAll('.chip').forEach(chip => {
+          chip.addEventListener('click', () => {
+            const cb = chip.querySelector('input');
+            cb.checked = !cb.checked;
+            chip.classList.toggle('selected', cb.checked);
+            chip.setAttribute('aria-checked', cb.checked);
+          });
+          chip.addEventListener('keydown', e => {
+            if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); chip.click(); }
+          });
+        });
+      }
+
+      function renderInterests(selected) {
+        const container = document.getElementById('profileInterests');
+        container.innerHTML = INTERESTS.map(i => {
+          const isSelected = selected.includes(i.id);
+          return `<label class="interest-item${isSelected ? ' selected' : ''}" tabindex="0" role="checkbox" aria-checked="${isSelected}" aria-label="${i.label}">
+            <input type="checkbox" name="interests" value="${i.id}" ${isSelected ? 'checked' : ''}>
+            <span class="interest-icon">${i.icon}</span>
+            ${i.label}
+          </label>`;
+        }).join('');
+
+        container.querySelectorAll('.interest-item').forEach(item => {
+          item.addEventListener('click', () => {
+            const cb = item.querySelector('input');
+            cb.checked = !cb.checked;
+            item.classList.toggle('selected', cb.checked);
+            item.setAttribute('aria-checked', cb.checked);
+          });
+          item.addEventListener('keydown', e => {
+            if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); item.click(); }
+          });
+        });
+      }
+
+      function saveProfile() {
+        const user = getUser();
+        if (!user) return;
+
+        const name = document.getElementById('editName').value.trim();
+        const phone = document.getElementById('editPhone').value.trim();
+        const email = document.getElementById('editEmail').value.trim();
+        const city = document.getElementById('editCity').value;
+
+        // Validate
+        let valid = true;
+
+        if (!name) {
+          document.getElementById('editNameError').classList.add('visible');
+          document.getElementById('editName').classList.add('error');
+          valid = false;
+        } else {
+          document.getElementById('editNameError').classList.remove('visible');
+          document.getElementById('editName').classList.remove('error');
+        }
+
+        if (phone && !/^05\d{8}$/.test(phone)) {
+          document.getElementById('editPhoneError').classList.add('visible');
+          document.getElementById('editPhone').classList.add('error');
+          valid = false;
+        } else {
+          document.getElementById('editPhoneError').classList.remove('visible');
+          document.getElementById('editPhone').classList.remove('error');
+        }
+
+        if (email && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+          document.getElementById('editEmailError').classList.add('visible');
+          document.getElementById('editEmail').classList.add('error');
+          valid = false;
+        } else {
+          document.getElementById('editEmailError').classList.remove('visible');
+          document.getElementById('editEmail').classList.remove('error');
+        }
+
+        if (!valid) return;
+
+        user.name = name;
+        user.phone = phone || null;
+        user.email = email || null;
+        user.city = city;
+        saveUser(user);
+
+        // Update header
+        document.getElementById('profileAvatar').textContent = name.charAt(0).toUpperCase();
+        document.getElementById('profileName').textContent = name;
+        document.getElementById('profileContact').textContent = phone || email || '';
+
+        showToast('✅ تم حفظ التعديلات');
+      }
+
+      function saveNeighborhoods() {
+        const user = getUser();
+        if (!user) return;
+        const selected = [];
+        document.querySelectorAll('#profileNeighborhoods input:checked').forEach(cb => {
+          selected.push(cb.value);
+        });
+        user.neighborhoods = selected;
+        saveUser(user);
+        showToast('✅ تم حفظ الأحياء المفضلة');
+      }
+
+      function saveInterests() {
+        const user = getUser();
+        if (!user) return;
+        const selected = [];
+        document.querySelectorAll('#profileInterests input:checked').forEach(cb => {
+          selected.push(cb.value);
+        });
+        user.interests = selected;
+        saveUser(user);
+        document.getElementById('statInterests').textContent = selected.length;
+        showToast('✅ تم حفظ الاهتمامات');
+      }
+
+      function logout() {
+        localStorage.removeItem(STORAGE_KEY);
+        showToast('👋 تم تسجيل الخروج');
+        setTimeout(() => { window.location.href = 'auth.html'; }, 1000);
+      }
+
+      function showToast(msg) {
+        const toast = document.getElementById('toast');
+        toast.textContent = msg;
+        toast.classList.add('show');
+        setTimeout(() => toast.classList.remove('show'), 3000);
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', init);
+      } else {
+        init();
+      }
+
+      return { saveNeighborhoods, saveInterests, logout };
+    })();
+  </script>
+</body>
+</html>

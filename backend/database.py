@@ -41,12 +41,12 @@ def init_db(db_path: Path | None = None) -> sqlite3.Connection:
     conn.executescript("""
         CREATE TABLE IF NOT EXISTS places (
             id TEXT PRIMARY KEY,
-            name_ar TEXT NOT NULL,
-            name_en TEXT NOT NULL,
-            category TEXT NOT NULL,
+            name_ar TEXT DEFAULT '',
+            name_en TEXT DEFAULT '',
+            category TEXT DEFAULT '',
             category_ar TEXT,
             category_en TEXT,
-            neighborhood TEXT NOT NULL,
+            neighborhood TEXT DEFAULT '',
             neighborhood_en TEXT,
             description_ar TEXT,
             google_rating REAL,

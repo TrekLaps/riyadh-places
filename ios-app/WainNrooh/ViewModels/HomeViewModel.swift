@@ -1,163 +1,77 @@
 // HomeViewModel.swift
-// ViewModel الشاشة الرئيسية — ترند + قريب + تصنيفات
+// HS Pattern: Pre-compute + cache everything
 
-import Foundation
-import Combine
-import CoreLocation
+import SwiftUI
 
-// MARK: - ViewModel الرئيسية
+struct CategoryInfo: Identifiable {
+    let id: String
+    let nameAr: String
+    let nameEn: String
+    let emoji: String
+    let count: Int
+}
 
-/// ViewModel الشاشة الرئيسية — يدير بيانات الترند والأماكن القريبة والتصنيفات
 @MainActor
-final class HomeViewModel: ObservableObject {
-    
-    // MARK: - خصائص منشورة
-    
-    /// الأماكن الأكثر شعبية (ترند)
+class HomeViewModel: ObservableObject {
     @Published var trendingPlaces: [Place] = []
-    
-    /// الأماكن القريبة
-    @Published var nearbyPlaces: [Place] = []
-    
-    /// الأماكن الجديدة
     @Published var newPlaces: [Place] = []
+    @Published var topInNeighborhood: [Place]?
+    @Published var currentNeighborhood: String = "حي العليا"
+    @Published var categories: [CategoryInfo] = []
+    @Published var isDataLoaded = false
     
-    /// التصنيفات
-    @Published var categories: [PlaceCategory] = PlaceCategory.popular
-    
-    /// حالة التحميل
-    @Published var isLoading: Bool = false
-    
-    /// حالة تحميل الأماكن القريبة
-    @Published var isLoadingNearby: Bool = false
-    
-    /// رسالة الخطأ
-    @Published var errorMessage: String?
-    
-    /// هل البيانات محملة؟
-    @Published var isDataLoaded: Bool = false
-    
-    // MARK: - خدمات
-    
-    private let placesService = PlacesService.shared
-    private let locationService: LocationService
-    private var cancellables = Set<AnyCancellable>()
-    
-    // MARK: - تهيئة
-    
-    init(locationService: LocationService = LocationService()) {
-        self.locationService = locationService
-        
-        // الاستماع لتحديثات الموقع
-        locationService.$currentLocation
-            .compactMap { $0 }
-            .removeDuplicates { old, new in
-                old.distance(from: new) < 500 // تجاهل التغييرات الصغيرة
-            }
-            .sink { [weak self] location in
-                Task {
-                    await self?.loadNearbyPlaces(location: location)
-                }
-            }
-            .store(in: &cancellables)
-    }
-    
-    // MARK: - تحميل البيانات
-    
-    /// تحميل كل بيانات الشاشة الرئيسية
-    func loadData() async {
-        guard !isLoading else { return }
-        isLoading = true
-        errorMessage = nil
-        
-        // تحميل الترند والجديد بالتوازي
-        async let trendingTask = loadTrendingPlaces()
-        async let newTask = loadNewPlaces()
-        
-        await trendingTask
-        await newTask
-        
-        isLoading = false
-        isDataLoaded = true
-    }
-    
-    /// إعادة تحميل البيانات (Pull to Refresh)
-    func refresh() async {
-        isDataLoaded = false
-        await loadData()
-        
-        // تحديث الأماكن القريبة
-        if let location = locationService.currentLocation {
-            await loadNearbyPlaces(location: location)
-        }
-    }
-    
-    // MARK: - تحميل الترند
-    
-    /// جلب الأماكن الأكثر شعبية
-    private func loadTrendingPlaces() async {
-        do {
-            trendingPlaces = try await placesService.fetchTrending(limit: 10)
-        } catch {
-            AppConfig.debugLog("❌ فشل تحميل الترند: \(error)")
-            errorMessage = "فشل تحميل الأماكن الشائعة"
-        }
-    }
-    
-    // MARK: - تحميل الجديد
-    
-    /// جلب الأماكن الجديدة
-    private func loadNewPlaces() async {
-        do {
-            newPlaces = try await placesService.fetchNew(limit: 10)
-        } catch {
-            AppConfig.debugLog("❌ فشل تحميل الأماكن الجديدة: \(error)")
-        }
-    }
-    
-    // MARK: - تحميل القريب
-    
-    /// جلب الأماكن القريبة من الموقع
-    private func loadNearbyPlaces(location: CLLocation) async {
-        guard !isLoadingNearby else { return }
-        isLoadingNearby = true
-        
-        do {
-            nearbyPlaces = try await placesService.fetchNearby(
-                latitude: location.coordinate.latitude,
-                longitude: location.coordinate.longitude,
-                radiusMeters: 5000,
-                limit: 10
-            )
-        } catch {
-            AppConfig.debugLog("❌ فشل تحميل الأماكن القريبة: \(error)")
-            // نرتب الأماكن الموجودة حسب المسافة كـ fallback
-            nearbyPlaces = locationService.sortByDistance(trendingPlaces)
-        }
-        
-        isLoadingNearby = false
-    }
-    
-    // MARK: - دوال مساعدة
-    
-    /// التحية حسب الوقت
     var greeting: String {
         let hour = Calendar.current.component(.hour, from: Date())
-        switch hour {
-        case 5..<12: return "صباح الخير ☀️"
-        case 12..<17: return "مساء الخير 🌤"
-        case 17..<21: return "مساء النور 🌅"
-        default: return "أهلاً 🌙"
+        if hour < 12 { return "صباح الخير ☀️" }
+        if hour < 17 { return "مساء الخير 🌤️" }
+        return "مساء النور 🌙"
+    }
+    
+    func loadData(places: [Place]) async {
+        guard !places.isEmpty else { return }
+        
+        // Trending: top rated with trending flag
+        trendingPlaces = places
+            .filter { $0.trending == true && $0.googleRating != nil }
+            .sorted { ($0.googleRating ?? 0) > ($1.googleRating ?? 0) }
+            .prefix(20).map { $0 }
+        
+        // New places
+        newPlaces = places
+            .filter { $0.isNew == true }
+            .prefix(15).map { $0 }
+        
+        // Top 10 in default neighborhood
+        topInNeighborhood = places
+            .filter { $0.neighborhood == currentNeighborhood && $0.googleRating != nil }
+            .sorted { ($0.googleRating ?? 0) > ($1.googleRating ?? 0) }
+            .prefix(10).map { $0 }
+        
+        // Categories with counts
+        var catCounts: [String: (ar: String, en: String, emoji: String, count: Int)] = [:]
+        let emojiMap: [String: String] = [
+            "restaurant": "🍽️", "cafe": "☕", "entertainment": "🎭",
+            "shopping": "🛍️", "desserts": "🍰", "nature": "🌳",
+            "hotels": "🏨", "chalets": "🏖️", "malls": "🏬",
+            "museums": "🏛️", "events": "🎪", "perfume": "🧴",
+            "mosques": "🕌", "sports": "⚽", "education": "📚",
+            "health": "🏥", "services": "🔧", "offices": "🏢",
+            "tourism": "✈️", "finance": "🏦"
+        ]
+        
+        for p in places {
+            let cat = p.categoryEn ?? p.category
+            let catAr = p.categoryAr ?? p.category
+            if catCounts[cat] == nil {
+                catCounts[cat] = (catAr, cat, emojiMap[cat] ?? "📍", 0)
+            }
+            catCounts[cat]!.count += 1
         }
-    }
-    
-    /// اسم الحي الحالي
-    var currentNeighborhood: String {
-        locationService.currentNeighborhood ?? "الرياض"
-    }
-    
-    /// هل الموقع متاح؟
-    var isLocationAvailable: Bool {
-        locationService.isLocationAvailable
+        
+        categories = catCounts
+            .sorted { $0.value.count > $1.value.count }
+            .map { CategoryInfo(id: $0.key, nameAr: $0.value.ar, nameEn: $0.value.en, emoji: $0.value.emoji, count: $0.value.count) }
+        
+        isDataLoaded = true
     }
 }
