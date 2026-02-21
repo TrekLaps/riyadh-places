@@ -1,0 +1,860 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🎨 أفضل تصاميم iOS 2026 — وين نروح</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700;800;900&display=swap');
+
+:root {
+  --bg: #050F0B;
+  --card: #0A1F16;
+  --green-700: #0D3B2E;
+  --green-600: #1A6B4A;
+  --green-400: #3CC98E;
+  --green-300: #6EDBA8;
+  --gold: #C9A84C;
+  --cream: #F0EDE5;
+  --sand: #B8A88A;
+  --error: #E74C3C;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'Tajawal', sans-serif;
+  background: var(--bg);
+  color: var(--cream);
+  line-height: 1.7;
+  overflow-x: hidden;
+}
+
+/* === HERO === */
+.hero {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  padding: 2rem;
+}
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: 
+    radial-gradient(ellipse at 30% 20%, rgba(60,201,142,0.08) 0%, transparent 60%),
+    radial-gradient(ellipse at 70% 80%, rgba(201,168,76,0.05) 0%, transparent 60%);
+}
+.hero h1 {
+  font-size: clamp(2rem, 5vw, 4rem);
+  font-weight: 900;
+  background: linear-gradient(135deg, var(--green-400), var(--gold));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 0.5rem;
+  position: relative;
+}
+.hero .subtitle {
+  font-size: 1.3rem;
+  color: var(--sand);
+  font-weight: 300;
+  position: relative;
+}
+.hero .count {
+  margin-top: 2rem;
+  font-size: 1rem;
+  color: var(--green-400);
+  opacity: 0.7;
+  position: relative;
+}
+.scroll-hint {
+  position: absolute;
+  bottom: 2rem;
+  animation: bounce 2s infinite;
+  font-size: 1.5rem;
+  opacity: 0.5;
+}
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+/* === SECTIONS === */
+.section {
+  padding: 4rem 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.section-title {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+  color: var(--cream);
+}
+.section-subtitle {
+  font-size: 1rem;
+  color: var(--sand);
+  margin-bottom: 2rem;
+}
+
+/* === APP CARDS === */
+.apps-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.5rem;
+}
+.app-card {
+  background: var(--card);
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid rgba(60,201,142,0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.app-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(0,0,0,0.4);
+}
+.app-header {
+  padding: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  border-bottom: 1px solid rgba(60,201,142,0.08);
+}
+.app-icon {
+  width: 56px;
+  height: 56px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  flex-shrink: 0;
+}
+.app-info h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+.app-info .category {
+  font-size: 0.8rem;
+  color: var(--sand);
+}
+.app-body {
+  padding: 1.5rem;
+}
+.app-body p {
+  font-size: 0.9rem;
+  color: var(--sand);
+  margin-bottom: 1rem;
+  line-height: 1.8;
+}
+
+/* Features tags */
+.features {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+.feature-tag {
+  font-size: 0.75rem;
+  padding: 4px 12px;
+  border-radius: 20px;
+  background: rgba(60,201,142,0.1);
+  color: var(--green-300);
+  white-space: nowrap;
+}
+
+/* Takeaway box */
+.takeaway {
+  background: rgba(60,201,142,0.06);
+  border-right: 3px solid var(--green-400);
+  padding: 1rem;
+  border-radius: 0 12px 12px 0;
+  margin-top: 0.5rem;
+}
+.takeaway-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--green-400);
+  margin-bottom: 0.3rem;
+}
+.takeaway p {
+  font-size: 0.85rem;
+  color: var(--cream) !important;
+  margin: 0 !important;
+}
+
+/* Rating */
+.app-rating {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.85rem;
+}
+.stars { color: var(--gold); }
+
+/* === TRENDS SECTION === */
+.trends-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+.trend-card {
+  background: var(--card);
+  border-radius: 20px;
+  padding: 2rem;
+  border: 1px solid rgba(60,201,142,0.08);
+  position: relative;
+  overflow: hidden;
+}
+.trend-card::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  right: -50%;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(circle, rgba(60,201,142,0.05) 0%, transparent 70%);
+}
+.trend-num {
+  font-size: 3rem;
+  font-weight: 900;
+  color: var(--green-400);
+  opacity: 0.2;
+  position: absolute;
+  top: 0.5rem;
+  left: 1rem;
+}
+.trend-card h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  position: relative;
+}
+.trend-card p {
+  font-size: 0.9rem;
+  color: var(--sand);
+  position: relative;
+  line-height: 1.8;
+}
+.trend-status {
+  display: inline-block;
+  margin-top: 0.8rem;
+  font-size: 0.75rem;
+  padding: 3px 10px;
+  border-radius: 10px;
+  position: relative;
+}
+.status-applied {
+  background: rgba(60,201,142,0.15);
+  color: var(--green-400);
+}
+.status-partial {
+  background: rgba(201,168,76,0.15);
+  color: var(--gold);
+}
+.status-planned {
+  background: rgba(90,90,90,0.3);
+  color: var(--sand);
+}
+
+/* === COMPARISON === */
+.comparison-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  background: var(--card);
+  border-radius: 16px;
+  overflow: hidden;
+}
+.comparison-table th {
+  background: var(--green-700);
+  padding: 1rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-align: center;
+}
+.comparison-table td {
+  padding: 0.8rem 1rem;
+  text-align: center;
+  font-size: 0.85rem;
+  border-bottom: 1px solid rgba(60,201,142,0.05);
+}
+.comparison-table tr:last-child td { border: none; }
+.comparison-table .app-name {
+  text-align: right;
+  font-weight: 600;
+  color: var(--cream);
+}
+.check { color: var(--green-400); }
+.cross { color: rgba(180,80,80,0.5); }
+.partial { color: var(--gold); }
+.ours { background: rgba(60,201,142,0.05); }
+
+/* === SOURCES === */
+.sources {
+  margin-top: 3rem;
+  padding: 2rem;
+  background: var(--card);
+  border-radius: 16px;
+}
+.sources h3 { margin-bottom: 1rem; }
+.sources a {
+  color: var(--green-400);
+  text-decoration: none;
+  font-size: 0.85rem;
+  display: block;
+  margin-bottom: 0.3rem;
+}
+.sources a:hover { text-decoration: underline; }
+
+/* === RESPONSIVE === */
+@media (max-width: 600px) {
+  .apps-grid, .trends-grid {
+    grid-template-columns: 1fr;
+  }
+  .comparison-table { font-size: 0.7rem; }
+  .comparison-table th, .comparison-table td { padding: 0.5rem; }
+}
+</style>
+</head>
+<body>
+
+<!-- HERO -->
+<div class="hero">
+  <h1>أفضل تصاميم iOS 2026</h1>
+  <div class="subtitle">استعراض شامل + كيف ندمجها بـ وين نروح</div>
+  <div class="count">١٥ تطبيق محلل · ٩ ترند · خطة تطبيق كاملة</div>
+  <div class="scroll-hint">↓</div>
+</div>
+
+<!-- SECTION 1: BEST APPS -->
+<div class="section">
+  <div class="section-title">🏆 أفضل ١٥ تطبيق iOS بالتصميم</div>
+  <div class="section-subtitle">من Apple Design Awards, DesignRush, Muzli, Dribbble — مرتبين بالتأثير على تطبيقنا</div>
+
+  <div class="apps-grid">
+
+    <!-- 1. Airbnb -->
+    <div class="app-card">
+      <div class="app-header">
+        <div class="app-icon" style="background: linear-gradient(135deg, #FF5A5F, #FC642D);">🏠</div>
+        <div class="app-info">
+          <h3>Airbnb</h3>
+          <div class="category">سفر + حجوزات · <span class="stars">★★★★★</span></div>
+        </div>
+      </div>
+      <div class="app-body">
+        <p>أبسط تطبيق حجوزات بالعالم. الصورة هي البطل — كل شي يدور حولها. White space كبير، CTA واضح، وخطوات قليلة من الاكتشاف للحجز.</p>
+        <div class="features">
+          <span class="feature-tag">صور كبيرة</span>
+          <span class="feature-tag">بساطة</span>
+          <span class="feature-tag">Wishlist</span>
+          <span class="feature-tag">خريطة</span>
+          <span class="feature-tag">Horizontal scroll</span>
+        </div>
+        <div class="takeaway">
+          <div class="takeaway-label">نطبّق عندنا</div>
+          <p>البطاقات بصور كبيرة كـ hero + CTA واحد واضح "ودّني هناك" + wishlist = مفضلاتي</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2. Spotify -->
+    <div class="app-card">
+      <div class="app-header">
+        <div class="app-icon" style="background: linear-gradient(135deg, #1DB954, #191414);">🎵</div>
+        <div class="app-info">
+          <h3>Spotify</h3>
+          <div class="category">موسيقى · <span class="stars">★★★★★</span></div>
+        </div>
+      </div>
+      <div class="app-body">
+        <p>Dark mode هو الهوية. المحتوى يبرز بالألوان القوية على خلفية سوداء. كل قسم = horizontal scroll مع عنوان. الشخصنة = أساس التجربة.</p>
+        <div class="features">
+          <span class="feature-tag">Dark Mode</span>
+          <span class="feature-tag">شخصنة</span>
+          <span class="feature-tag">Horizontal sections</span>
+          <span class="feature-tag">ألوان ديناميكية</span>
+        </div>
+        <div class="takeaway">
+          <div class="takeaway-label">نطبّق عندنا</div>
+          <p>نفس نمط الهوم: أقسام أفقية (ترند، جديد، أفضل ١٠) + dark mode كـ default + "مقترح لك" بالـ AI</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- 3. Crumbl (Liquid Glass) -->
+    <div class="app-card">
+      <div class="app-header">
+        <div class="app-icon" style="background: linear-gradient(135deg, #F5A0C0, #E8729D);">🍪</div>
+        <div class="app-info">
+          <h3>Crumbl</h3>
+          <div class="category">طعام + حلويات · <span class="stars">★★★★☆</span> · <span style="color:var(--green-400)">Liquid Glass</span></div>
+        </div>
+      </div>
+      <div class="app-body">
+        <p><strong>أول تطبيق طعام يطبّق Liquid Glass.</strong> Apple عرضته كمثال رسمي. البراند (الوردي) انتقل من الـ toolbar للمحتوى، والـ controls صارت شفافة. الصور = المحتوى الأساسي.</p>
+        <div class="features">
+          <span class="feature-tag">Liquid Glass ✨</span>
+          <span class="feature-tag">Brand في المحتوى</span>
+          <span class="feature-tag">صور المنتج</span>
+          <span class="feature-tag">iOS 26</span>
+        </div>
+        <div class="takeaway">
+          <div class="takeaway-label">نطبّق عندنا</div>
+          <p>نفس المبدأ: الأخضر السعودي يكون بالمحتوى (gradient, cards) مو بالـ nav. الـ controls = glass شفاف.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- 4. Google Maps -->
+    <div class="app-card">
+      <div class="app-header">
+        <div class="app-icon" style="background: linear-gradient(135deg, #34A853, #4285F4);">🗺</div>
+        <div class="app-info">
+          <h3>Google Maps</h3>
+          <div class="category">خرائط + اكتشاف · <span class="stars">★★★★★</span></div>
+        </div>
+      </div>
+      <div class="app-body">
+        <p>بيانات ضخمة بعرض بسيط. البحث دائماً فوق. الخريطة تتكيف مع الوقت (dark بالليل). Sheet من تحت للتفاصيل. Quick actions واضحة.</p>
+        <div class="features">
+          <span class="feature-tag">Contextual UI</span>
+          <span class="feature-tag">Bottom sheet</span>
+          <span class="feature-tag">Quick actions</span>
+          <span class="feature-tag">Live data</span>
+        </div>
+        <div class="takeaway">
+          <div class="takeaway-label">نطبّق عندنا</div>
+          <p>تاب الخريطة: markers ملونة بالفئة + bottom sheet لتفاصيل المكان + بحث فوق دائماً + dark map بالليل</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- 5. Pinterest -->
+    <div class="app-card">
+      <div class="app-header">
+        <div class="app-icon" style="background: linear-gradient(135deg, #E60023, #BD081C);">📌</div>
+        <div class="app-info">
+          <h3>Pinterest</h3>
+          <div class="category">اكتشاف بصري · <span class="stars">★★★★☆</span></div>
+        </div>
+      </div>
+      <div class="app-body">
+        <p>Masonry grid بأحجام مختلفة. Infinite scroll سلس. الصورة هي كل شي. الاكتشاف = التصفح بدون هدف محدد (serendipity).</p>
+        <div class="features">
+          <span class="feature-tag">Masonry grid</span>
+          <span class="feature-tag">Infinite scroll</span>
+          <span class="feature-tag">Visual first</span>
+          <span class="feature-tag">Save/Pin</span>
+        </div>
+        <div class="takeaway">
+          <div class="takeaway-label">نطبّق عندنا</div>
+          <p>قسم "استكشف" بنمط Pinterest — بطاقات بأحجام مختلفة + infinite scroll + حفظ بالمفضلات</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- 6. Lumy -->
+    <div class="app-card">
+      <div class="app-header">
+        <div class="app-icon" style="background: linear-gradient(135deg, #FFB74D, #FF9800);">☀️</div>
+        <div class="app-info">
+          <h3>Lumy</h3>
+          <div class="category">Apple Design Award 2025 · <span class="stars">★★★★★</span> · <span style="color:var(--green-400)">Liquid Glass</span></div>
+        </div>
+      </div>
+      <div class="app-body">
+        <p>تتبع الشمس والقمر. تصميم minimalist مع ألوان مدروسة. كل شي في متناول اليد — Quick Access Menu + Peek Panel + fluid sliders. Widgets + Apple Watch.</p>
+        <div class="features">
+          <span class="feature-tag">Minimalism</span>
+          <span class="feature-tag">Widgets</span>
+          <span class="feature-tag">Peek Panel</span>
+          <span class="feature-tag">Fluid sliders</span>
+        </div>
+        <div class="takeaway">
+          <div class="takeaway-label">نطبّق عندنا</div>
+          <p>Widget "وش تسوي اليوم؟" + Quick Access لأكثر الأماكن زيارة + fluid pull-to-refresh</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- 7. LTK -->
+    <div class="app-card">
+      <div class="app-header">
+        <div class="app-icon" style="background: linear-gradient(135deg, #000, #333);">🛍</div>
+        <div class="app-info">
+          <h3>LTK</h3>
+          <div class="category">تسوق + فيديو · <span style="color:var(--green-400)">Liquid Glass</span></div>
+        </div>
+      </div>
+      <div class="app-body">
+        <p>تطبيق تسوق بالفيديو. Tab bar وNav bar ينزلون عشان يعطون مساحة أكبر للمحتوى = edge-to-edge content. "محتوى أكثر بمساحة أقل."</p>
+        <div class="features">
+          <span class="feature-tag">Edge-to-edge</span>
+          <span class="feature-tag">Content first</span>
+          <span class="feature-tag">فيديو</span>
+        </div>
+        <div class="takeaway">
+          <div class="takeaway-label">نطبّق عندنا</div>
+          <p>Tab bar يختفي بالسكرول + Hero images كاملة العرض = أقصى مساحة للمحتوى</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- 8. Headspace -->
+    <div class="app-card">
+      <div class="app-header">
+        <div class="app-icon" style="background: linear-gradient(135deg, #FCB034, #F15A24);">🧘</div>
+        <div class="app-info">
+          <h3>Headspace</h3>
+          <div class="category">صحة + تأمل · <span class="stars">★★★★★</span></div>
+        </div>
+      </div>
+      <div class="app-body">
+        <p>التصميم يحسسك بالهدوء. ألوان هادئة + animations بطيئة + onboarding لطيف. الإحساس (mood) هو التصميم — مو بس الشكل.</p>
+        <div class="features">
+          <span class="feature-tag">Emotional design</span>
+          <span class="feature-tag">Onboarding ممتاز</span>
+          <span class="feature-tag">Illustrations</span>
+          <span class="feature-tag">ألوان هادئة</span>
+        </div>
+        <div class="takeaway">
+          <div class="takeaway-label">نطبّق عندنا</div>
+          <p>إحساس "ليالي الرياض" = emotional design. الألوان الخضراء الهادئة + onboarding لطيف (٣ شاشات) + animations ناعمة</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- 9. Photoroom -->
+    <div class="app-card">
+      <div class="app-header">
+        <div class="app-icon" style="background: linear-gradient(135deg, #6C63FF, #4834D4);">📸</div>
+        <div class="app-info">
+          <h3>Photoroom</h3>
+          <div class="category">تصوير + تعديل · <span style="color:var(--green-400)">Liquid Glass</span></div>
+        </div>
+      </div>
+      <div class="app-body">
+        <p>إعادة تصميم شاملة لـ iOS 26 — كل عنصر يستخدم Liquid Glass. Tap targets أكبر، مسافات أوسع، tab bar شفاف يبيّن المحتوى وراه.</p>
+        <div class="features">
+          <span class="feature-tag">Full Liquid Glass</span>
+          <span class="feature-tag">Tap targets كبيرة</span>
+          <span class="feature-tag">مسافات واسعة</span>
+        </div>
+        <div class="takeaway">
+          <div class="takeaway-label">نطبّق عندنا</div>
+          <p>مقاسات الأزرار ≥ 44pt + مسافات spacingL (16pt) بين كل شي + tab bar شفاف</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- 10. Duolingo -->
+    <div class="app-card">
+      <div class="app-header">
+        <div class="app-icon" style="background: linear-gradient(135deg, #58CC02, #4CAF50);">🦉</div>
+        <div class="app-info">
+          <h3>Duolingo</h3>
+          <div class="category">تعليم · <span class="stars">★★★★★</span></div>
+        </div>
+      </div>
+      <div class="app-body">
+        <p>أقوى gamification بالعالم. Streak flame, XP, leaderboards, animations مكافأة. كل تفاعل = رد فعل مرئي وصوتي. يخليك تدمن.</p>
+        <div class="features">
+          <span class="feature-tag">Gamification</span>
+          <span class="feature-tag">Streaks</span>
+          <span class="feature-tag">Celebrations</span>
+          <span class="feature-tag">Micro-interactions</span>
+        </div>
+        <div class="takeaway">
+          <div class="takeaway-label">نطبّق عندنا</div>
+          <p>مستقبلاً: "مستكشف الأسبوع" + streak لاكتشاف أماكن جديدة + badges + confetti animation لما تزور ١٠ أماكن</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- 11. Medium -->
+    <div class="app-card">
+      <div class="app-header">
+        <div class="app-icon" style="background: linear-gradient(135deg, #000, #333);">📝</div>
+        <div class="app-info">
+          <h3>Medium</h3>
+          <div class="category">قراءة · <span class="stars">★★★★☆</span></div>
+        </div>
+      </div>
+      <div class="app-body">
+        <p>التايبوغرافي = الملك. خطوط نظيفة، white space كبير، بيئة بدون تشتيت. القراءة = التجربة الأساسية.</p>
+        <div class="features">
+          <span class="feature-tag">Typography</span>
+          <span class="feature-tag">White space</span>
+          <span class="feature-tag">Focus mode</span>
+        </div>
+        <div class="takeaway">
+          <div class="takeaway-label">نطبّق عندنا</div>
+          <p>صفحة التفاصيل: خطوط عربية مريحة + line-height واسع + بدون فوضى</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- 12. Denim -->
+    <div class="app-card">
+      <div class="app-header">
+        <div class="app-icon" style="background: linear-gradient(135deg, #8B5CF6, #6D28D9);">🎨</div>
+        <div class="app-info">
+          <h3>Denim</h3>
+          <div class="category">Apple Design Award 2025 · <span class="stars">★★★★☆</span></div>
+        </div>
+      </div>
+      <div class="app-body">
+        <p>SwiftUI ١٠٠٪. Smooth scroll transitions مع mesh gradients. Custom haptics على كل تفاعل. Depth effects حقيقية.</p>
+        <div class="features">
+          <span class="feature-tag">SwiftUI native</span>
+          <span class="feature-tag">Mesh gradients</span>
+          <span class="feature-tag">Custom haptics</span>
+          <span class="feature-tag">Depth effects</span>
+        </div>
+        <div class="takeaway">
+          <div class="takeaway-label">نطبّق عندنا</div>
+          <p>SwiftUI pure + gradients (green900→green700) + haptic feedback على المفضلة والبحث</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- 13. CapWords -->
+    <div class="app-card">
+      <div class="app-header">
+        <div class="app-icon" style="background: linear-gradient(135deg, #10B981, #059669);">📷</div>
+        <div class="app-info">
+          <h3>CapWords</h3>
+          <div class="category">Apple Design Award Winner 2025 · <span class="stars">★★★★★</span></div>
+        </div>
+      </div>
+      <div class="app-body">
+        <p>صوّر شي → تعلّم اسمه. فكرة بسيطة + تنفيذ ممتاز = فوز. Stickers + صوت حقيقي + animation ممتعة. كل الأعمار يستخدمونه.</p>
+        <div class="features">
+          <span class="feature-tag">كاميرا = المدخل</span>
+          <span class="feature-tag">بساطة الفكرة</span>
+          <span class="feature-tag">Stickers</span>
+          <span class="feature-tag">أصوات</span>
+        </div>
+        <div class="takeaway">
+          <div class="takeaway-label">نطبّق عندنا</div>
+          <p>Phase 3: صوّر المطعم/المكان → نعرّفك عليه تلقائياً (Camera → Place Recognition)</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- 14. Slack -->
+    <div class="app-card">
+      <div class="app-header">
+        <div class="app-icon" style="background: linear-gradient(135deg, #611F69, #4A154B);">💬</div>
+        <div class="app-info">
+          <h3>Slack</h3>
+          <div class="category">تواصل · <span class="stars">★★★★☆</span></div>
+        </div>
+      </div>
+      <div class="app-body">
+        <p>ألوان تفرّق بين الأقسام. Navigation واضح. الألوان = التنظيم. كل workspace له لون مميز.</p>
+        <div class="features">
+          <span class="feature-tag">Color coding</span>
+          <span class="feature-tag">Clear navigation</span>
+          <span class="feature-tag">Thread structure</span>
+        </div>
+        <div class="takeaway">
+          <div class="takeaway-label">نطبّق عندنا</div>
+          <p>كل فئة = لون مميز (مطاعم أحمر، كافيهات ذهبي، ترفيه بنفسجي) — موجود بالكود!</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- 15. Israel Railways -->
+    <div class="app-card">
+      <div class="app-header">
+        <div class="app-icon" style="background: linear-gradient(135deg, #0066CC, #004999);">🚂</div>
+        <div class="app-info">
+          <h3>Israel Railways</h3>
+          <div class="category">DesignRush Award 2026 · <span class="stars">★★★★☆</span></div>
+        </div>
+      </div>
+      <div class="app-body">
+        <p>تطبيق سفر فاز بجائزة DesignRush. واجهة responsive تتكيف مع الموقع وتاريخ البحث. بساطة التخطيط تسرّع رحلة المستخدم.</p>
+        <div class="features">
+          <span class="feature-tag">Location-aware</span>
+          <span class="feature-tag">Search history</span>
+          <span class="feature-tag">Adaptive UI</span>
+          <span class="feature-tag">Accessibility</span>
+        </div>
+        <div class="takeaway">
+          <div class="takeaway-label">نطبّق عندنا</div>
+          <p>UI يتكيف مع موقعك — "قريب منك" يتحدث تلقائياً + تاريخ البحث محفوظ</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- SECTION 2: TRENDS -->
+<div class="section">
+  <div class="section-title">📈 ٩ ترندات تصميم iOS لعام ٢٠٢٦</div>
+  <div class="section-subtitle">من Apple, UXPilot, Natively, DesignRush — مرتبين بالأهمية</div>
+
+  <div class="trends-grid">
+    <div class="trend-card">
+      <div class="trend-num">01</div>
+      <h3>🔮 Liquid Glass</h3>
+      <p>لغة Apple الجديدة — زجاج شفاف ديناميكي. إلزامي لكل تطبيق iOS 26. Controls شفافة، المحتوى = البطل.</p>
+      <span class="trend-status status-applied">✅ مطبّق بالكود</span>
+    </div>
+    <div class="trend-card">
+      <div class="trend-num">02</div>
+      <h3>🌙 Dark Mode First</h3>
+      <p>الغامق = الافتراضي. Spotify, Apple Music, وكل التطبيقات الحديثة. يقلل إجهاد العين ويبرز المحتوى.</p>
+      <span class="trend-status status-applied">✅ مطبّق — ليالي الرياض</span>
+    </div>
+    <div class="trend-card">
+      <div class="trend-num">03</div>
+      <h3>🤖 AI-Driven Personalization</h3>
+      <p>التطبيق يتوقع وش تحتاج. Netflix, Spotify, PayPal كلهم يستخدمون. "مقترح لك" بناءً على السلوك.</p>
+      <span class="trend-status status-applied">✅ مطبّق — AI Chat + مقترحات</span>
+    </div>
+    <div class="trend-card">
+      <div class="trend-num">04</div>
+      <h3>⚡ Micro-interactions</h3>
+      <p>كل لمسة = رد فعل. Pull-to-refresh, heart animation, scale effect. Duolingo streak = أفضل مثال.</p>
+      <span class="trend-status status-applied">✅ مطبّق — WainPressStyle + Spring</span>
+    </div>
+    <div class="trend-card">
+      <div class="trend-num">05</div>
+      <h3>🧊 Glassmorphism + Depth</h3>
+      <p>طبقات شفافة مع blur. Background يبان من وراها. يعطي إحساس بالعمق بدون shadows ثقيلة.</p>
+      <span class="trend-status status-applied">✅ مطبّق — ultraThinMaterial</span>
+    </div>
+    <div class="trend-card">
+      <div class="trend-num">06</div>
+      <h3>🎯 Contextual & Adaptive UI</h3>
+      <p>الواجهة تتغير حسب السياق — الوقت، الموقع، النمط. Google Maps يغمّق بالليل. Weather تتكيف مع الطقس.</p>
+      <span class="trend-status status-partial">🟡 جزئي — يحتاج موقع المستخدم</span>
+    </div>
+    <div class="trend-card">
+      <div class="trend-num">07</div>
+      <h3>🏗 Agentic UX</h3>
+      <p>التطبيق يتصرف بالنيابة عنك. مو بس يعرض خيارات — يقترح ويحجز ويخطط. Gemini, ChatGPT بدأوا.</p>
+      <span class="trend-status status-partial">🟡 Phase 2 — AI يرشّح بدون ما تسأل</span>
+    </div>
+    <div class="trend-card">
+      <div class="trend-num">08</div>
+      <h3>🕶 AR & Spatial Interfaces</h3>
+      <p>الواقع المعزز + واجهات مكانية. IKEA Place, Vision Pro. المحتوى الرقمي بالعالم الحقيقي.</p>
+      <span class="trend-status status-planned">⏳ Phase 3 — AR أماكن حولك</span>
+    </div>
+    <div class="trend-card">
+      <div class="trend-num">09</div>
+      <h3>🎙 Zero-UI & Voice</h3>
+      <p>واجهات بدون شاشة. صوت، إيماءات، سياق. "قولّي وين أروح" بدال ما تكتب.</p>
+      <span class="trend-status status-planned">⏳ Phase 3 — بحث صوتي عربي</span>
+    </div>
+  </div>
+</div>
+
+<!-- SECTION 3: COMPARISON -->
+<div class="section">
+  <div class="section-title">⚔️ مقارنة: وين نروح vs. المنافسين</div>
+  <div class="section-subtitle">كل ✅ = ميزة تصميمية مطبّقة فعلياً بالكود</div>
+
+  <div style="overflow-x: auto;">
+    <table class="comparison-table">
+      <thead>
+        <tr>
+          <th>الميزة</th>
+          <th>HungerStation</th>
+          <th>Jahez</th>
+          <th>Yelp</th>
+          <th>Airbnb</th>
+          <th>Google Maps</th>
+          <th class="ours">وين نروح 🏙</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="app-name">Liquid Glass</td>
+          <td class="cross">✗</td><td class="cross">✗</td><td class="cross">✗</td><td class="cross">✗</td><td class="cross">✗</td>
+          <td class="ours check">✅</td>
+        </tr>
+        <tr>
+          <td class="app-name">Dark Mode</td>
+          <td class="cross">✗</td><td class="cross">✗</td><td class="check">✅</td><td class="cross">✗</td><td class="check">✅</td>
+          <td class="ours check">✅ default</td>
+        </tr>
+        <tr>
+          <td class="app-name">AI Chat</td>
+          <td class="cross">✗</td><td class="cross">✗</td><td class="cross">✗</td><td class="partial">🟡</td><td class="partial">🟡</td>
+          <td class="ours check">✅ عربي</td>
+        </tr>
+        <tr>
+          <td class="app-name">RTL عربي</td>
+          <td class="check">✅</td><td class="check">✅</td><td class="cross">✗</td><td class="cross">✗</td><td class="partial">🟡</td>
+          <td class="ours check">✅ نجدي</td>
+        </tr>
+        <tr>
+          <td class="app-name">Offline</td>
+          <td class="cross">✗</td><td class="cross">✗</td><td class="cross">✗</td><td class="partial">🟡</td><td class="check">✅</td>
+          <td class="ours check">✅</td>
+        </tr>
+        <tr>
+          <td class="app-name">Micro-interactions</td>
+          <td class="partial">🟡</td><td class="cross">✗</td><td class="cross">✗</td><td class="check">✅</td><td class="partial">🟡</td>
+          <td class="ours check">✅</td>
+        </tr>
+        <tr>
+          <td class="app-name">Haptic Feedback</td>
+          <td class="cross">✗</td><td class="cross">✗</td><td class="cross">✗</td><td class="check">✅</td><td class="partial">🟡</td>
+          <td class="ours check">✅</td>
+        </tr>
+        <tr>
+          <td class="app-name">Onboarding</td>
+          <td class="check">✅</td><td class="check">✅</td><td class="partial">🟡</td><td class="check">✅</td><td class="cross">✗</td>
+          <td class="ours check">✅ ٣ شاشات</td>
+        </tr>
+        <tr>
+          <td class="app-name">Gamification</td>
+          <td class="cross">✗</td><td class="cross">✗</td><td class="partial">🟡</td><td class="cross">✗</td><td class="partial">🟡</td>
+          <td class="ours" style="color:var(--gold)">⏳ Phase 2</td>
+        </tr>
+        <tr>
+          <td class="app-name">تركيز على الرياض</td>
+          <td class="cross">✗</td><td class="cross">✗</td><td class="cross">✗</td><td class="cross">✗</td><td class="cross">✗</td>
+          <td class="ours check">✅ ١٠٠٪</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- SOURCES -->
+<div class="section">
+  <div class="sources">
+    <h3>📚 المصادر</h3>
+    <a href="https://developer.apple.com/design/new-design-gallery/">Apple — Liquid Glass Gallery (iOS 26 Before/After)</a>
+    <a href="https://developer.apple.com/design/awards/">Apple Design Awards 2025</a>
+    <a href="https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/">Apple Newsroom — Liquid Glass Announcement</a>
+    <a href="https://medium.com/@expertappdevs/liquid-glass-2026-apples-new-design-language-6a709e49ca8b">Medium — Liquid Glass Developer Guide</a>
+    <a href="https://www.createwithswift.com/liquid-glass-redefining-design-through-hierarchy-harmony-and-consistency/">CreateWithSwift — Liquid Glass Principles</a>
+    <a href="https://www.insaim.design/blog/10-best-app-ui-ux-designs">INSAIM — 10 Best App UI/UX Designs</a>
+    <a href="https://uxpilot.ai/blogs/mobile-app-design-trends">UXPilot — 9 Mobile Design Trends 2026</a>
+    <a href="https://natively.dev/blog/best-mobile-app-design-trends-2026">Natively — 11 Design Trends 2026</a>
+    <a href="https://muz.li/inspiration/ios-app-examples/">Muzli — 60+ iOS Design Inspiration</a>
+    <a href="https://mobbin.com">Mobbin — 400K+ App Screenshots</a>
+    <a href="https://dribbble.com/tags/restaurant_app">Dribbble — Restaurant App Designs</a>
+    <a href="https://9to5mac.com/2025/11/06/apple-spotlights-third-party-apps-adopting-liquid-glass-in-ios-26-and-more/">9to5Mac — Apps Adopting Liquid Glass</a>
+  </div>
+</div>
+
+</body>
+</html>

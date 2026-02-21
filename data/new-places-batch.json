@@ -1,1125 +1,3119 @@
 [
   {
-    "id": "monopoly-kafd",
-    "name_ar": "مونوبولي",
-    "name_en": "Monopoly",
-    "category": "مطعم",
-    "category_ar": "مطعم",
-    "category_en": "Restaurant",
-    "neighborhood": "حي العقيق",
-    "neighborhood_en": "KAFD",
-    "description_ar": "مطعم إيطالي في كافد يقدم بيتزا وباستا أصيلة مع أجواء مريحة وجلسات خارجية",
-    "google_rating": 4.4,
-    "price_level": "$$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "timeoutriyadh",
-      "google"
+    "name_ar": "مطعم قمر",
+    "name_en": "Amar Restaurant",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم لبناني شهير قادم من جدة، يقدم المازة والمشويات اللبنانية الأصيلة في أجواء مميزة",
+    "lat": 24.7117,
+    "lng": 46.6742,
+    "neighborhood": "المعذر الشمالي",
+    "tags": [
+      "لبناني",
+      "مشويات",
+      "مازة"
     ],
-    "google_maps_url": "https://maps.google.com/?q=Monopoly+Saudi+KAFD+Riyadh",
-    "district": "شمال",
     "perfect_for": [
       "عوائل",
-      "أصدقاء"
-    ],
-    "lat": 24.7665,
-    "lng": 46.6388,
-    "is_free": false,
-    "audience": "الكل"
-  },
-  {
-    "id": "angelina-bujairi",
-    "name_ar": "أنجلينا",
-    "name_en": "Angelina",
-    "category": "كافيه",
-    "category_ar": "كافيه",
-    "category_en": "Cafe",
-    "neighborhood": "الدرعية",
-    "neighborhood_en": "Diriyah",
-    "description_ar": "مقهى فرنسي شهير من باريس يقدم الشوكولاتة الساخنة الأيقونية والمعجنات الفاخرة في بوجيري تراس",
-    "google_rating": 4.5,
-    "price_level": "$$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "timeoutriyadh",
-      "google"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Angelina+Bujairi+Terrace+Riyadh",
-    "district": "غرب",
-    "perfect_for": [
-      "رومانسي",
-      "عوائل"
-    ],
-    "lat": 24.7341,
-    "lng": 46.5723,
-    "is_free": false,
-    "audience": "الكل"
-  },
-  {
-    "id": "bardo-st-james-kafd",
-    "name_ar": "باردو سانت جيمس",
-    "name_en": "Bardo St. James",
-    "category": "مطعم",
-    "category_ar": "مطعم",
-    "category_en": "Restaurant",
-    "neighborhood": "حي العقيق",
-    "neighborhood_en": "KAFD",
-    "description_ar": "مطعم فاخر بريطاني من لندن يقدم أطباق إيطالية راقية مثل تاليوليني الكمأ وطاغلياتيلي اللوبستر في أجواء كلاسيكية",
-    "google_rating": 4.5,
-    "price_level": "$$$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "timeoutriyadh",
-      "factmagazines"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Bardo+St+James+KAFD+Riyadh",
-    "district": "شمال",
-    "perfect_for": [
-      "رومانسي",
       "مناسبات"
     ],
-    "lat": 24.7675,
-    "lng": 46.64,
-    "is_free": false,
-    "audience": "الكل"
+    "price_level": "$$$",
+    "source": "web_search"
   },
   {
-    "id": "bt-burger-laysen",
-    "name_ar": "بي تي برجر",
-    "name_en": "BT Burger",
-    "category": "مطعم",
-    "category_ar": "مطعم",
-    "category_en": "Restaurant",
-    "neighborhood": "حي حطين",
-    "neighborhood_en": "Hittin",
-    "description_ar": "مطعم برجر متخصص في الدجاج المقرمش مع نكهات مميزة مثل فاير تيست وبيربل كرسبي",
-    "google_rating": 4.2,
-    "price_level": "$$",
-    "trending": false,
-    "is_new": true,
-    "sources": [
-      "timeoutriyadh",
-      "google"
+    "name_ar": "وول بيبير",
+    "name_en": "Wall Pepper Pizzeria",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم بيتزا مميز يقدم أصنافاً شهية ومبتكرة من البيتزا وسندويشات ديلي في حي عرقة",
+    "lat": 24.7365,
+    "lng": 46.5983,
+    "neighborhood": "عرقة",
+    "tags": [
+      "بيتزا",
+      "إيطالي",
+      "سندويشات"
     ],
-    "google_maps_url": "https://maps.google.com/?q=BT+Burger+Laysen+Valley+Riyadh",
-    "district": "شمال",
+    "perfect_for": [
+      "شباب",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "بلو بيتزاريا",
+    "name_en": "Blu Pizzeria",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم بيتزا عصري قادم من الإمارات، يقدم بيتزا بنكهات مبتكرة وكلاسيكية مستوحاة من نابولي",
+    "lat": 24.7676,
+    "lng": 46.6523,
+    "neighborhood": "النخيل",
+    "tags": [
+      "بيتزا",
+      "إيطالي",
+      "نابولي"
+    ],
+    "perfect_for": [
+      "شباب",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "سبيرتو",
+    "name_en": "Spirito",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم بيتزا على طريقة نيويورك، يقدم شرائح بيتزا كبيرة بنكهات متنوعة في أجواء رائعة",
+    "lat": 24.7891,
+    "lng": 46.6524,
+    "neighborhood": "الملقا",
+    "tags": [
+      "بيتزا",
+      "أمريكي",
+      "نيويورك"
+    ],
     "perfect_for": [
       "شباب",
       "أصدقاء"
     ],
-    "lat": 24.759,
-    "lng": 46.628,
-    "is_free": false,
-    "audience": "شباب"
-  },
-  {
-    "id": "cafe-barbera-riyadh",
-    "name_ar": "كافيه باربيرا",
-    "name_en": "Café Barbera",
-    "category": "كافيه",
-    "category_ar": "كافيه",
-    "category_en": "Cafe",
-    "neighborhood": "حي العليا",
-    "neighborhood_en": "Al Olaya",
-    "description_ar": "مقهى إيطالي عريق تأسس عام 1870 يقدم قهوة فاخرة بنكهات متنوعة مع حلويات مميزة",
-    "google_rating": 4.3,
     "price_level": "$$",
-    "trending": false,
-    "is_new": true,
-    "sources": [
-      "timeoutriyadh",
-      "google"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Cafe+Barbera+Riyadh",
-    "district": "وسط",
-    "perfect_for": [
-      "أصدقاء",
-      "عمل"
-    ],
-    "lat": 24.69,
-    "lng": 46.685,
-    "is_free": false,
-    "audience": "الكل"
+    "source": "web_search"
   },
   {
-    "id": "find-samra-riyadh",
-    "name_ar": "فايند سمرة",
-    "name_en": "Find Samra",
-    "category": "مطعم",
-    "category_ar": "مطعم",
-    "category_en": "Restaurant",
-    "neighborhood": "حي العود",
-    "neighborhood_en": "Al Oud",
-    "description_ar": "مطعم ومعرض فني من القصيم يجمع بين الأكل العالمي واللمسات العربية في أجواء فنية مميزة",
-    "google_rating": 4.3,
+    "name_ar": "لنش إن بوكس",
+    "name_en": "Lunch In A Box",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم أسترالي من سيدني يقدم وجبات غداء صحية من سلطات طازجة وسندويشات غنية",
+    "lat": 24.6936,
+    "lng": 46.6853,
+    "neighborhood": "العليا",
+    "tags": [
+      "صحي",
+      "سلطات",
+      "أسترالي"
+    ],
+    "perfect_for": [
+      "شباب",
+      "موظفين"
+    ],
     "price_level": "$$",
-    "trending": false,
-    "is_new": true,
-    "sources": [
-      "timeoutriyadh"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Find+Samra+Riyadh",
-    "district": "وسط",
-    "perfect_for": [
-      "أصدقاء",
-      "فنون"
-    ],
-    "lat": 24.65,
-    "lng": 46.7,
-    "is_free": false,
-    "audience": "الكل"
+    "source": "web_search"
   },
   {
-    "id": "gaia-riyadh",
-    "name_ar": "غايا",
-    "name_en": "Gaia",
-    "category": "مطعم",
-    "category_ar": "مطعم",
-    "category_en": "Restaurant",
-    "neighborhood": "حي السفارات",
-    "neighborhood_en": "Diplomatic Quarter",
-    "description_ar": "مطعم يوناني فاخر من دبي يقدم المأكولات البحرية والأطباق اليونانية الأصيلة في أجواء فخمة",
-    "google_rating": 4.6,
-    "price_level": "$$$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "timeoutriyadh",
-      "factmagazines"
+    "name_ar": "بلاكش",
+    "name_en": "Blackish",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم ستريت فود أمريكي آسيوي يقدم الأطباق على الشواية مباشرة أمام الزوار",
+    "lat": 24.6989,
+    "lng": 46.6876,
+    "neighborhood": "المحمدية",
+    "tags": [
+      "ستريت فود",
+      "آسيوي",
+      "أمريكي",
+      "مشويات"
     ],
-    "google_maps_url": "https://maps.google.com/?q=Gaia+Restaurant+Riyadh",
-    "district": "غرب",
     "perfect_for": [
-      "رومانسي",
-      "مناسبات"
+      "شباب",
+      "أصدقاء"
     ],
-    "lat": 24.687,
-    "lng": 46.625,
-    "is_free": false,
-    "audience": "الكل"
+    "price_level": "$$",
+    "source": "web_search"
   },
   {
-    "id": "gina-solitaire-riyadh",
-    "name_ar": "جينا",
-    "name_en": "Gina",
-    "category": "مطعم",
-    "category_ar": "مطعم",
-    "category_en": "Restaurant",
-    "neighborhood": "حي الصحافة",
-    "neighborhood_en": "As Sahafah",
-    "description_ar": "مطعم فرنسي-إيطالي يقدم بيتزا وباستا وريزوتو بمكونات إيطالية أصيلة في مجمع سوليتير",
-    "google_rating": 4.4,
-    "price_level": "$$$",
-    "trending": false,
-    "is_new": true,
-    "sources": [
-      "timeoutriyadh"
+    "name_ar": "ببلك",
+    "name_en": "Public",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم عصري يقدم سلطات وبيتزا وباستا وحلويات في أجواء مميزة، افتتح فرعاً جديداً في حي السفارات",
+    "lat": 24.6732,
+    "lng": 46.6451,
+    "neighborhood": "السفارات",
+    "tags": [
+      "عصري",
+      "بيتزا",
+      "باستا",
+      "سلطات"
     ],
-    "google_maps_url": "https://maps.google.com/?q=Gina+Restaurant+Solitaire+Riyadh",
-    "district": "شمال",
-    "perfect_for": [
-      "عوائل",
-      "رومانسي"
-    ],
-    "lat": 24.805,
-    "lng": 46.67,
-    "is_free": false,
-    "audience": "الكل"
-  },
-  {
-    "id": "il-bambini-club-riyadh",
-    "name_ar": "إل بامبيني كلوب",
-    "name_en": "Il Bambini Club",
-    "category": "مطعم",
-    "category_ar": "مطعم",
-    "category_en": "Restaurant",
-    "neighborhood": "حي العليا",
-    "neighborhood_en": "Al Olaya",
-    "description_ar": "مطعم إيطالي من جبال الألب الفرنسية بديكور ملون وعصري يقدم بيتزا وباستا ومقبلات مبتكرة",
-    "google_rating": 4.3,
-    "price_level": "$$$",
-    "trending": false,
-    "is_new": true,
-    "sources": [
-      "timeoutriyadh"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Il+Bambini+Club+Riyadh",
-    "district": "وسط",
     "perfect_for": [
       "عوائل",
       "أصدقاء"
     ],
-    "lat": 24.693,
-    "lng": 46.687,
-    "is_free": false,
-    "audience": "عوائل"
+    "price_level": "$$$",
+    "source": "web_search"
   },
   {
-    "id": "la-serre-kafd",
-    "name_ar": "لا سير",
-    "name_en": "La Serre",
-    "category": "مطعم",
-    "category_ar": "مطعم",
-    "category_en": "Restaurant",
-    "neighborhood": "حي العقيق",
-    "neighborhood_en": "KAFD",
-    "description_ar": "مطعم فرنسي من دبي يجمع بين البيسترو والمخبز والمطعم الفاخر في تجربة طعام متكاملة",
-    "google_rating": 4.5,
-    "price_level": "$$$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "timeoutriyadh"
+    "name_ar": "سول ميت",
+    "name_en": "Soul Mate",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم برجر يقدم تشكيلة من البرجر الطازج المحضر من الصفر مع صلصات متنوعة",
+    "lat": 24.7543,
+    "lng": 46.6321,
+    "neighborhood": "حطين",
+    "tags": [
+      "برجر",
+      "سماش",
+      "أمريكي"
     ],
-    "google_maps_url": "https://maps.google.com/?q=La+Serre+KAFD+Riyadh",
-    "district": "شمال",
+    "perfect_for": [
+      "شباب",
+      "أصدقاء"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "بازيليو",
+    "name_en": "Basilio",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم إيطالي قادم من الخبر يقدم الباستا والريزوتو والبيتزا والسلطات الإيطالية بأجواء راقية",
+    "lat": 24.8012,
+    "lng": 46.6478,
+    "neighborhood": "الندى",
+    "tags": [
+      "إيطالي",
+      "باستا",
+      "بيتزا"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "رومانسي"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "برجر 1983",
+    "name_en": "Burger 1983",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم برجر في حي الياسمين يقدم 6 أنواع من البرجر المميز مع بطاطس وميلك شيك في أجواء أنيقة",
+    "lat": 24.8156,
+    "lng": 46.6387,
+    "neighborhood": "الياسمين",
+    "tags": [
+      "برجر",
+      "أمريكي",
+      "ميلك شيك"
+    ],
+    "perfect_for": [
+      "شباب",
+      "أصدقاء"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "قريدي برجر",
+    "name_en": "Greedy Burger",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم برجر جديد في التخصصي يقدم برجر اللحم والدجاج الطازج مع بطاطس وصوصات متنوعة",
+    "lat": 24.7654,
+    "lng": 46.6512,
+    "neighborhood": "النخيل",
+    "tags": [
+      "برجر",
+      "سماش",
+      "طازج"
+    ],
+    "perfect_for": [
+      "شباب",
+      "أصدقاء"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "ليالي العراق",
+    "name_en": "Layali Al Iraq",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم عراقي أصيل يقدم القوزي والتشريبة والدولمة والكبب العراقية في أجواء تراثية",
+    "lat": 24.6932,
+    "lng": 46.6756,
+    "neighborhood": "السليمانية",
+    "tags": [
+      "عراقي",
+      "تراثي",
+      "مشويات",
+      "قوزي"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "مناسبات"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "بينوا",
+    "name_en": "Benoit",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم فرنسي بيسترو فاخر من تحت إدارة الشيف الحائز على نجمة ميشلان آلان دوكاس في كافد",
+    "lat": 24.7648,
+    "lng": 46.6345,
+    "neighborhood": "كافد",
+    "tags": [
+      "فرنسي",
+      "بيسترو",
+      "ميشلان",
+      "فاخر"
+    ],
     "perfect_for": [
       "رومانسي",
       "مناسبات"
     ],
-    "lat": 24.768,
-    "lng": 46.641,
-    "is_free": false,
-    "audience": "الكل"
+    "price_level": "$$$$",
+    "source": "web_search"
   },
   {
-    "id": "mayabay-riyadh",
-    "name_ar": "مايا باي",
-    "name_en": "MayaBay",
-    "category": "مطعم",
-    "category_ar": "مطعم",
-    "category_en": "Restaurant",
-    "neighborhood": "حي العليا",
-    "neighborhood_en": "Al Olaya",
-    "description_ar": "مطعم آسيوي فاخر من موناكو يقدم مزيج المطبخ التايلندي والياباني مع ديم سم وسوشي وكاري",
-    "google_rating": 4.5,
-    "price_level": "$$$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "timeoutriyadh"
+    "name_ar": "كاسا ميرا",
+    "name_en": "Casa Myrra",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم متوسطي يمزج نكهات اليونان وإسبانيا في أجواء دافئة وديكور ريفي أنيق",
+    "lat": 24.7234,
+    "lng": 46.6789,
+    "neighborhood": "السليمانية",
+    "tags": [
+      "متوسطي",
+      "يوناني",
+      "إسباني"
     ],
-    "google_maps_url": "https://maps.google.com/?q=MayaBay+Restaurant+Riyadh",
-    "district": "وسط",
+    "perfect_for": [
+      "رومانسي",
+      "أصدقاء"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "إيزابيل مايفير",
+    "name_en": "Isabel Mayfair",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم لندني فاخر يقدم المطبخ المتوسطي في أجواء تعود لعصر غاتسبي في حي السليمانية",
+    "lat": 24.6945,
+    "lng": 46.6801,
+    "neighborhood": "السليمانية",
+    "tags": [
+      "بريطاني",
+      "متوسطي",
+      "فاخر"
+    ],
     "perfect_for": [
       "رومانسي",
       "مناسبات"
     ],
-    "lat": 24.695,
-    "lng": 46.69,
-    "is_free": false,
-    "audience": "الكل"
+    "price_level": "$$$$",
+    "source": "web_search"
   },
   {
-    "id": "off-brief-riyadh",
+    "name_ar": "كو آسيان كيتشن",
+    "name_en": "KO Asian Kitchen",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم فيوجن آسيوي لاتيني يقدم أطباق مشتركة مثل باو الدجاج والدمبلينغ على طريقة هونغ كونغ",
+    "lat": 24.6938,
+    "lng": 46.6789,
+    "neighborhood": "السليمانية",
+    "tags": [
+      "آسيوي",
+      "فيوجن",
+      "لاتيني"
+    ],
+    "perfect_for": [
+      "شباب",
+      "أصدقاء"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "فيت فيت",
+    "name_en": "Phet Phet",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم تايلاندي يقدم أطباق ستريت فود بانكوك الجريئة في مساحة عصرية بأضواء نيون",
+    "lat": 24.7123,
+    "lng": 46.6654,
+    "neighborhood": "العليا",
+    "tags": [
+      "تايلاندي",
+      "ستريت فود",
+      "حار"
+    ],
+    "perfect_for": [
+      "شباب",
+      "أصدقاء"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "ساساني",
+    "name_en": "Sasani",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم راقي يقدم المطبخ المعاصر بمزج النكهات التقليدية مع التقنيات الحديثة",
+    "lat": 24.7456,
+    "lng": 46.6432,
+    "neighborhood": "حطين",
+    "tags": [
+      "معاصر",
+      "فاخر",
+      "عالمي"
+    ],
+    "perfect_for": [
+      "رومانسي",
+      "مناسبات"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "طليد من مايكل مينا",
+    "name_en": "Taleed by Michael Mina",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم في الدرعية التاريخية يقدم نكهات متوسطية بلمسات حجازية من الشيف العالمي مايكل مينا",
+    "lat": 24.7343,
+    "lng": 46.5723,
+    "neighborhood": "الدرعية",
+    "tags": [
+      "متوسطي",
+      "حجازي",
+      "فاخر",
+      "شيف عالمي"
+    ],
+    "perfect_for": [
+      "رومانسي",
+      "مناسبات",
+      "سياح"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "وايز جايز",
+    "name_en": "Wise Guys",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم سندويشات كاجوال في المملكة مول يقدم سندويشات سخية بمكونات عالية الجودة",
+    "lat": 24.7112,
+    "lng": 46.6754,
+    "neighborhood": "العليا",
+    "tags": [
+      "سندويشات",
+      "كاجوال",
+      "أمريكي"
+    ],
+    "perfect_for": [
+      "شباب",
+      "موظفين"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "آبل باتر",
+    "name_en": "Apple Butter",
+    "category": "cafes",
+    "category_ar": "كافيهات",
+    "description_ar": "كافيه لندني أنيق في كافد يقدم برنش طوال اليوم مع بيض ترافل وبرجر واغيو وحلويات مميزة",
+    "lat": 24.7652,
+    "lng": 46.6348,
+    "neighborhood": "كافد",
+    "tags": [
+      "برنش",
+      "لندني",
+      "كافيه"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "ليزا",
+    "name_en": "LIZA",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم لبناني فاخر من بيروت وباريس افتتح في مطل البجيري بالدرعية، يقدم المازة والمشويات",
+    "lat": 24.7367,
+    "lng": 46.5734,
+    "neighborhood": "الدرعية",
+    "tags": [
+      "لبناني",
+      "فاخر",
+      "بيروتي"
+    ],
+    "perfect_for": [
+      "رومانسي",
+      "مناسبات"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "ذا فاينل إمبر",
+    "name_en": "The Vinyl Ember",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم أمريكي في فندق كيمبتون كافد يقدم مشويات فاخرة على النار المكشوفة بأجواء موسيقية",
+    "lat": 24.7645,
+    "lng": 46.6341,
+    "neighborhood": "كافد",
+    "tags": [
+      "أمريكي",
+      "مشويات",
+      "موسيقى"
+    ],
+    "perfect_for": [
+      "شباب",
+      "أصدقاء"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "زيبا",
+    "name_en": "Ziba",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم فارسي فاخر قادم من الخبر يقدم المشويات الفارسية والأرز والأطباق التقليدية الإيرانية",
+    "lat": 24.7234,
+    "lng": 46.6567,
+    "neighborhood": "العليا",
+    "tags": [
+      "فارسي",
+      "إيراني",
+      "مشويات"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "مناسبات"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "كافيه لوكسيتان",
+    "name_en": "L'Occitane Café",
+    "category": "cafes",
+    "category_ar": "كافيهات",
+    "description_ar": "كافيه فرنسي في حي السفارات يجمع بين بوتيك العناية والقهوة في أجواء بروفانسية ساحرة",
+    "lat": 24.6723,
+    "lng": 46.6432,
+    "neighborhood": "السفارات",
+    "tags": [
+      "فرنسي",
+      "بروفانسي",
+      "بوتيك"
+    ],
+    "perfect_for": [
+      "بنات",
+      "أصدقاء"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "كافيه هوكايدو",
+    "name_en": "Hokkaido Café",
+    "category": "cafes",
+    "category_ar": "كافيهات",
+    "description_ar": "كافيه ياباني بديكور أنيمي يقدم الفطائر اليابانية والبان كيك والماتشا في أجواء يابانية",
+    "lat": 24.6876,
+    "lng": 46.7023,
+    "neighborhood": "الحمراء",
+    "tags": [
+      "ياباني",
+      "أنيمي",
+      "ماتشا",
+      "بان كيك"
+    ],
+    "perfect_for": [
+      "شباب",
+      "بنات"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "كافيه فام",
+    "name_en": "Fam Coffee House",
+    "category": "cafes",
+    "category_ar": "كافيهات",
+    "description_ar": "كافيه عصري في المروج يقدم قهوة مميزة وسندويشات وحلويات مع وجبات برنش، قريب من محطة المترو",
+    "lat": 24.7234,
+    "lng": 46.6654,
+    "neighborhood": "المروج",
+    "tags": [
+      "قهوة",
+      "برنش",
+      "سندويشات"
+    ],
+    "perfect_for": [
+      "شباب",
+      "موظفين"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مقهى رالف",
+    "name_en": "Ralph's Coffee",
+    "category": "cafes",
+    "category_ar": "كافيهات",
+    "description_ar": "مقهى رالف لوران الشهير عالمياً في كافد، يقدم قهوة عضوية فاخرة في ديكور أنيق بألوان خضراء وذهبية",
+    "lat": 24.7649,
+    "lng": 46.6347,
+    "neighborhood": "كافد",
+    "tags": [
+      "قهوة فاخرة",
+      "رالف لوران",
+      "عضوية"
+    ],
+    "perfect_for": [
+      "شباب",
+      "بنات"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "متحف الأوهام",
+    "name_en": "Museum of Illusions",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "description_ar": "متحف تفاعلي في بارك مول يقدم عروض خدع بصرية مذهلة تناسب جميع الأعمار",
+    "lat": 24.7723,
+    "lng": 46.6234,
+    "neighborhood": "العقيق",
+    "tags": [
+      "تفاعلي",
+      "خدع بصرية",
+      "عائلي"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أطفال"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "المتحف السعودي للفن المعاصر",
+    "name_en": "Saudi Museum of Contemporary Art",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "description_ar": "متحف يعرض أعمال فنية معاصرة سعودية وعالمية مع معارض متجددة وورش فنية",
+    "lat": 24.6312,
+    "lng": 46.6234,
+    "neighborhood": "الدرعية",
+    "tags": [
+      "فن معاصر",
+      "معارض",
+      "ثقافي"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "فن"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حدائق الملك عبدالله العالمية",
+    "name_en": "King Abdullah International Gardens",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "حدائق ضخمة ببيئات نباتية متنوعة من مختلف قارات العالم مع حدائق مائية وزجاجية",
+    "lat": 24.6845,
+    "lng": 46.5432,
+    "neighborhood": "غرب الرياض",
+    "tags": [
+      "حدائق",
+      "نباتات",
+      "طبيعة"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "طبيعة"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة اشبيليا الثانية",
+    "name_en": "Ishbilia Second Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "حديقة حديثة في شرق الرياض بمساحة 35 ألف متر مع مسارات مشي وألعاب أطفال ومناطق جلوس عائلية",
+    "lat": 24.7234,
+    "lng": 46.7345,
+    "neighborhood": "اشبيليا",
+    "tags": [
+      "حديقة",
+      "مجانية",
+      "عائلية"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "رياضة"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة المنفوحة",
+    "name_en": "Al Manfuhah Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "حديقة جديدة في حي المنفوحة مع مسارات مشي ومناطق ألعاب أطفال ومساحات خضراء واسعة",
+    "lat": 24.6123,
+    "lng": 46.7012,
+    "neighborhood": "المنفوحة",
+    "tags": [
+      "حديقة",
+      "مجانية",
+      "مسارات مشي"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أطفال"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مول أفنيوز الرياض",
+    "name_en": "The Avenues Riyadh",
+    "category": "malls",
+    "category_ar": "مولات",
+    "description_ar": "مول عصري بتصميم أنيق يضم علامات تجارية عالمية ومطاعم ومقاهي ومناطق ترفيهية",
+    "lat": 24.7567,
+    "lng": 46.6123,
+    "neighborhood": "الملقا",
+    "tags": [
+      "تسوق",
+      "ماركات عالمية",
+      "ترفيه"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "تسوق"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "فندق دبليو الرياض",
+    "name_en": "W Riyadh",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "description_ar": "فندق فاخر جديد في كافد يضم 7 مطاعم ومرافق صحية، من أحدث فنادق الرياض لعام 2026",
+    "lat": 24.7651,
+    "lng": 46.6345,
+    "neighborhood": "كافد",
+    "tags": [
+      "فاخر",
+      "5 نجوم",
+      "مطاعم"
+    ],
+    "perfect_for": [
+      "سياح",
+      "رجال أعمال"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "فندق كيمبتون الرياض",
+    "name_en": "Kimpton KAFD Riyadh",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "description_ar": "أول فندق كيمبتون في المنطقة، يقع في كافد ويضم مطعم بوتانيكا ومطعم ذا فاينل إمبر",
+    "lat": 24.7647,
+    "lng": 46.6343,
+    "neighborhood": "كافد",
+    "tags": [
+      "فاخر",
+      "بوتيك",
+      "كافد"
+    ],
+    "perfect_for": [
+      "سياح",
+      "رجال أعمال"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مطعم بيكل",
+    "name_en": "Pickl",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم برجر سماش قادم من دبي، يقدم برجر كلاسيكي بنكهات مميزة وأسعار مناسبة",
+    "lat": 24.7123,
+    "lng": 46.6734,
+    "neighborhood": "العليا",
+    "tags": [
+      "برجر",
+      "سماش",
+      "إماراتي"
+    ],
+    "perfect_for": [
+      "شباب",
+      "أصدقاء"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "تيبل تو",
+    "name_en": "Table;To",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مفهوم مطعم جديد يركز على تجربة الطاولة المشتركة مع أطباق عالمية متنوعة",
+    "lat": 24.7345,
+    "lng": 46.6543,
+    "neighborhood": "حطين",
+    "tags": [
+      "عالمي",
+      "معاصر",
+      "مشترك"
+    ],
+    "perfect_for": [
+      "أصدقاء",
+      "شباب"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "تاشاز",
+    "name_en": "Tashas",
+    "category": "cafes",
+    "category_ar": "كافيهات",
+    "description_ar": "كافيه ومطعم جنوب أفريقي فاخر يقدم برنش وأطباق صحية في أجواء أنيقة",
+    "lat": 24.7654,
+    "lng": 46.6345,
+    "neighborhood": "كافد",
+    "tags": [
+      "برنش",
+      "صحي",
+      "جنوب أفريقي"
+    ],
+    "perfect_for": [
+      "بنات",
+      "عوائل"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "سوبرنوفا",
+    "name_en": "Supernova",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم عصري جديد بالرياض يقدم تجربة طعام مبتكرة مع أطباق معاصرة",
+    "lat": 24.7234,
+    "lng": 46.6876,
+    "neighborhood": "السليمانية",
+    "tags": [
+      "معاصر",
+      "عصري",
+      "مبتكر"
+    ],
+    "perfect_for": [
+      "شباب",
+      "أصدقاء"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "وادي",
+    "name_en": "Wadi Restaurant",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم يقدم المطبخ السعودي المعاصر مع مكونات محلية في أجواء مستوحاة من الطبيعة",
+    "lat": 24.7234,
+    "lng": 46.5789,
+    "neighborhood": "الدرعية",
+    "tags": [
+      "سعودي",
+      "معاصر",
+      "محلي"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "سياح"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "جريد سمحان",
+    "name_en": "Jareed Samhan",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم سعودي تقليدي يقدم أطباق نجدية أصيلة في أجواء تراثية",
+    "lat": 24.6567,
+    "lng": 46.7012,
+    "neighborhood": "الدرعية",
+    "tags": [
+      "سعودي",
+      "نجدي",
+      "تراثي"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "سياح"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "معرض ملتقى طويق للنحت",
+    "name_en": "Tuwaiq Sculpture Symposium",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "description_ar": "معرض نحت دولي في نسخته السابعة على طريق التحلية، يعرض أعمال نحاتين عالميين مجاناً",
+    "lat": 24.6923,
+    "lng": 46.6845,
+    "neighborhood": "التحلية",
+    "tags": [
+      "نحت",
+      "فن",
+      "معرض",
+      "مجاني"
+    ],
+    "perfect_for": [
+      "فن",
+      "ثقافة"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "بينالي الدرعية للفن المعاصر",
+    "name_en": "Diriyah Contemporary Art Biennale",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "description_ar": "بينالي دولي للفن المعاصر في نسخته الثالثة 2026 تحت عنوان في الحلّ والترحال",
+    "lat": 24.7345,
+    "lng": 46.5723,
+    "neighborhood": "الدرعية",
+    "tags": [
+      "فن معاصر",
+      "بينالي",
+      "دولي"
+    ],
+    "perfect_for": [
+      "فن",
+      "ثقافة",
+      "سياح"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة الازدهار الأولى",
+    "name_en": "Al Izdihar First Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "حديقة بتصميم عصري وممرات مظللة بالأشجار ومناطق ألعاب أطفال في حي الازدهار",
+    "lat": 24.7234,
+    "lng": 46.7123,
+    "neighborhood": "الازدهار",
+    "tags": [
+      "حديقة",
+      "مجانية",
+      "أشجار"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "مشي"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة العروبة الثانية",
+    "name_en": "Al Urubah Second Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "حديقة جديدة في حي الرحمانية مع ملاعب أطفال وممرات مشي ومساحات خضراء",
+    "lat": 24.7456,
+    "lng": 46.7234,
+    "neighborhood": "الرحمانية",
+    "tags": [
+      "حديقة",
+      "مجانية",
+      "ملاعب"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أطفال"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة الربوة الجديدة",
+    "name_en": "Al Rabwah New Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "حديقة حديثة في حي الربوة مع أجهزة رياضية ومسارات دراجات وساحات تفاعلية",
+    "lat": 24.6789,
+    "lng": 46.7123,
+    "neighborhood": "الربوة",
+    "tags": [
+      "حديقة",
+      "رياضة",
+      "دراجات"
+    ],
+    "perfect_for": [
+      "رياضة",
+      "عوائل"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حلويات المملكة",
+    "name_en": "Al Mamlaka Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "description_ar": "محل حلويات متخصص في الكيك الكلاسيكي والحلويات العربية والشوكولا والمعمول",
+    "lat": 24.7234,
+    "lng": 46.6876,
+    "neighborhood": "السليمانية",
+    "tags": [
+      "كيك",
+      "حلويات عربية",
+      "شوكولا"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "مناسبات"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حلويات اللازينة",
+    "name_en": "Ellelazena Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "description_ar": "محل حلويات شعبية ومستوردة يقدم تشكيلة واسعة من الحلويات العربية والتركية",
+    "lat": 24.7012,
+    "lng": 46.6954,
+    "neighborhood": "الورود",
+    "tags": [
+      "حلويات عربية",
+      "تركية",
+      "شعبية"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "ضيافة"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حلويات ليلو",
+    "name_en": "Lilo Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "description_ar": "محل كيك وشوكولا وحلويات متنوعة من أفضل محلات الكيك في الرياض",
+    "lat": 24.7456,
+    "lng": 46.6543,
+    "neighborhood": "النخيل",
+    "tags": [
+      "كيك",
+      "شوكولا",
+      "حلويات"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أعياد ميلاد"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حلويات مشهود",
+    "name_en": "Mashhoud Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "description_ar": "محل حلويات شرقية وغربية يقدم فطائر ومعجنات وبقلاوة وتشيز كيك بأسعار مناسبة",
+    "lat": 24.6876,
+    "lng": 46.7012,
+    "neighborhood": "الحمراء",
+    "tags": [
+      "حلويات شرقية",
+      "فطائر",
+      "بقلاوة"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "ضيافة"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مطعم الأرجوان",
+    "name_en": "Al Orjouan",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم عالمي ومتوسطي راقي من أفضل مطاعم الرياض بجودة طعام واحترافية عالية",
+    "lat": 24.6876,
+    "lng": 46.6876,
+    "neighborhood": "العليا",
+    "tags": [
+      "عالمي",
+      "متوسطي",
+      "راقي"
+    ],
+    "perfect_for": [
+      "مناسبات",
+      "رومانسي"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "أزورو",
+    "name_en": "Azzurro",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم إيطالي متخصص في البيتزا يقدم أطباقاً فاخرة بأجواء راقية",
+    "lat": 24.7012,
+    "lng": 46.6765,
+    "neighborhood": "العليا",
+    "tags": [
+      "إيطالي",
+      "بيتزا",
+      "فاخر"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "رومانسي"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مطعم زافران الهندي",
+    "name_en": "Zaffran Indian Restaurant",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم هندي يقدم مشاوي وأطباق متنوعة بنكهة أصيلة وخدمة ممتازة في أجواء ودية",
+    "lat": 24.7123,
+    "lng": 46.6654,
+    "neighborhood": "العليا",
+    "tags": [
+      "هندي",
+      "مشاوي",
+      "كاري"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "أصيل",
+    "name_en": "Aseeb",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم سعودي تقليدي فاخر يقدم أطباقاً سعودية راقية في مكان مريح",
+    "lat": 24.7345,
+    "lng": 46.6543,
+    "neighborhood": "حطين",
+    "tags": [
+      "سعودي",
+      "تقليدي",
+      "فاخر"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "سياح",
+      "مناسبات"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "كافيه أكوستك",
+    "name_en": "Acoustic Café",
+    "category": "cafes",
+    "category_ar": "كافيهات",
+    "description_ar": "كافيه هادئ وراقي في العليا يتميز بخدمة مميزة وأجواء فخمة",
+    "lat": 24.6934,
+    "lng": 46.6876,
+    "neighborhood": "العليا",
+    "tags": [
+      "قهوة",
+      "هادئ",
+      "راقي"
+    ],
+    "perfect_for": [
+      "عمل",
+      "قراءة"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "كرك غلام كافيه",
+    "name_en": "Karak Ghulam Café",
+    "category": "cafes",
+    "category_ar": "كافيهات",
+    "description_ar": "كافيه في ذا زون يقدم شاي كرك أصيل ومشروبات هندية متنوعة",
+    "lat": 24.7543,
+    "lng": 46.6345,
+    "neighborhood": "الصحافة",
+    "tags": [
+      "كرك",
+      "شاي",
+      "هندي"
+    ],
+    "perfect_for": [
+      "شباب",
+      "أصدقاء"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "ماغنوليا بيكري",
+    "name_en": "Magnolia Bakery",
+    "category": "cafes",
+    "category_ar": "كافيهات",
+    "description_ar": "مخبز أمريكي شهير من نيويورك يقدم الكب كيك والبنانا بودينغ والمعجنات الفاخرة",
+    "lat": 24.7548,
+    "lng": 46.6348,
+    "neighborhood": "الصحافة",
+    "tags": [
+      "مخبز",
+      "كب كيك",
+      "أمريكي"
+    ],
+    "perfect_for": [
+      "بنات",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "كافيه أرابيكا",
+    "name_en": "% Arabica",
+    "category": "cafes",
+    "category_ar": "كافيهات",
+    "description_ar": "سلسلة قهوة يابانية عالمية شهيرة تقدم قهوة مختصة بجودة عالية في تصميم مينيمالست",
+    "lat": 24.7545,
+    "lng": 46.6342,
+    "neighborhood": "الصحافة",
+    "tags": [
+      "قهوة مختصة",
+      "ياباني",
+      "مينيمالست"
+    ],
+    "perfect_for": [
+      "شباب",
+      "محبي القهوة"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "كافيه باتيل",
+    "name_en": "Café Bateel",
+    "category": "cafes",
+    "category_ar": "كافيهات",
+    "description_ar": "مقهى صحي أنيق يقدم أطباقاً خفيفة وصحية مع تمور باتيل الفاخرة في أجواء مريحة",
+    "lat": 24.6987,
+    "lng": 46.6845,
+    "neighborhood": "العليا",
+    "tags": [
+      "صحي",
+      "تمور",
+      "فاخر"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "بنات"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "جوي كافيه",
+    "name_en": "Joy Café",
+    "category": "cafes",
+    "category_ar": "كافيهات",
+    "description_ar": "كافيه سعودي شهير يقدم قهوة مختصة وأطباق متنوعة في أجواء مريحة، عدة فروع بالرياض",
+    "lat": 24.7543,
+    "lng": 46.6341,
+    "neighborhood": "الصحافة",
+    "tags": [
+      "قهوة مختصة",
+      "سعودي",
+      "فطور"
+    ],
+    "perfect_for": [
+      "شباب",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "الكوني كافيه",
+    "name_en": "Alkoni Café",
+    "category": "cafes",
+    "category_ar": "كافيهات",
+    "description_ar": "كافيه عائلي بموقع حيوي وأجواء ممتعة يقدم تشكيلة من المأكولات والمشروبات اللذيذة",
+    "lat": 24.7345,
+    "lng": 46.6234,
+    "neighborhood": "الملقا",
+    "tags": [
+      "عائلي",
+      "مشروبات",
+      "مأكولات"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
     "name_ar": "أوف بريف",
     "name_en": "Off-Brief",
-    "category": "كافيه",
-    "category_ar": "كافيه",
-    "category_en": "Cafe",
-    "neighborhood": "حي الياسمين",
-    "neighborhood_en": "Al Yasmin",
-    "description_ar": "مقهى مختص بالقهوة المختصة والمشروبات الإبداعية بأجواء عصرية ومريحة",
-    "google_rating": 4.4,
+    "category": "cafes",
+    "category_ar": "كافيهات",
+    "description_ar": "كافيه إبداعي في جاكس الدرعية يجمع بين القهوة المختصة والفن والثقافة مع فعاليات إبداعية",
+    "lat": 24.7367,
+    "lng": 46.5734,
+    "neighborhood": "الدرعية",
+    "tags": [
+      "إبداعي",
+      "قهوة مختصة",
+      "فن"
+    ],
+    "perfect_for": [
+      "مبدعين",
+      "شباب"
+    ],
     "price_level": "$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "google"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Off+Brief+Cafe+Riyadh",
-    "district": "شمال",
-    "perfect_for": [
-      "أصدقاء",
-      "عمل"
-    ],
-    "lat": 24.82,
-    "lng": 46.635,
-    "is_free": false,
-    "audience": "شباب"
+    "source": "web_search"
   },
   {
-    "id": "yann-couvreur-riyadh",
-    "name_ar": "يان كوفرور",
-    "name_en": "Yann Couvreur",
-    "category": "حلويات",
-    "category_ar": "حلويات",
-    "category_en": "Dessert",
-    "neighborhood": "حي العليا",
-    "neighborhood_en": "Al Olaya",
-    "description_ar": "باتيسري فرنسي فاخر يقدم حلويات ومعجنات راقية من إبداع الشيف الباريسي يان كوفرور",
-    "google_rating": 4.6,
-    "price_level": "$$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "google",
-      "factmagazines"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Yann+Couvreur+Riyadh",
-    "district": "وسط",
-    "perfect_for": [
-      "رومانسي",
-      "هدايا"
-    ],
-    "lat": 24.692,
-    "lng": 46.688,
-    "is_free": false,
-    "audience": "الكل"
-  },
-  {
-    "id": "six-flags-qiddiya",
-    "name_ar": "سكس فلاقز مدينة القدية",
-    "name_en": "Six Flags Qiddiya City",
-    "category": "ترفيه",
-    "category_ar": "ترفيه",
-    "category_en": "Entertainment",
-    "neighborhood": "القدية",
-    "neighborhood_en": "Qiddiya",
-    "description_ar": "أكبر مدينة ملاهي في المنطقة ضمن مشروع القدية، تضم ألعاب مائية وأفعوانيات عالمية وتجارب ترفيهية متنوعة",
-    "google_rating": 4.7,
-    "price_level": "$$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "google",
-      "qiddiya.com"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Six+Flags+Qiddiya+City+Riyadh",
-    "district": "جنوب",
-    "perfect_for": [
-      "عوائل",
-      "أصدقاء",
-      "أطفال"
-    ],
-    "lat": 24.45,
-    "lng": 46.47,
-    "is_free": false,
-    "audience": "الكل"
-  },
-  {
-    "id": "daz-play-riyadh",
-    "name_ar": "داز بلاي",
-    "name_en": "DAZ Play",
-    "category": "ترفيه",
-    "category_ar": "ترفيه",
-    "category_en": "Entertainment",
-    "neighborhood": "حي الياسمين",
-    "neighborhood_en": "Al Yasmin",
-    "description_ar": "منطقة لعب تفاعلية للأطفال من 10 أشهر إلى 10 سنوات تضم ترامبولين ومنطقة نفخ وألعاب حسية تعليمية",
-    "google_rating": 4.3,
-    "price_level": "$$",
-    "trending": false,
-    "is_new": true,
-    "sources": [
-      "timeoutriyadh",
-      "google"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=DAZ+Play+Riyadh",
-    "district": "شمال",
-    "perfect_for": [
-      "أطفال",
-      "عوائل"
-    ],
-    "lat": 24.815,
-    "lng": 46.64,
-    "is_free": false,
-    "audience": "أطفال"
-  },
-  {
-    "id": "snowy-forest-riyadh",
-    "name_ar": "سنوي فورست",
-    "name_en": "Snowy Forest",
-    "category": "ترفيه",
-    "category_ar": "ترفيه",
-    "category_en": "Entertainment",
-    "neighborhood": "حي الملقا",
-    "neighborhood_en": "Al Malqa",
-    "description_ar": "منطقة لعب داخلية للأطفال من 1 إلى 12 سنة تضم زحاليق وترامبولين وجدران تسلق مبطنة للأمان",
-    "google_rating": 4.2,
-    "price_level": "$$",
-    "trending": false,
-    "is_new": false,
-    "sources": [
-      "timeoutriyadh",
-      "google"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Snowy+Forest+Al+Malqa+Mall+Riyadh",
-    "district": "شمال",
-    "perfect_for": [
-      "أطفال",
-      "عوائل"
-    ],
-    "lat": 24.8,
-    "lng": 46.63,
-    "is_free": false,
-    "audience": "أطفال"
-  },
-  {
-    "id": "kids-station-riyadh",
-    "name_ar": "كيدز ستيشن",
-    "name_en": "Kids Station",
-    "category": "ترفيه",
-    "category_ar": "ترفيه",
-    "category_en": "Entertainment",
-    "neighborhood": "حي الورود",
-    "neighborhood_en": "Al Wurood",
-    "description_ar": "مركز ترفيه تعليمي للأطفال من 6 أشهر إلى 11 سنة يركز على التنمية الحركية والحسية",
-    "google_rating": 4.3,
-    "price_level": "$$",
-    "trending": false,
-    "is_new": false,
-    "sources": [
-      "timeoutriyadh",
-      "google"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Kids+Station+Al+Wurood+Riyadh",
-    "district": "وسط",
-    "perfect_for": [
-      "أطفال",
-      "عوائل"
-    ],
-    "lat": 24.72,
-    "lng": 46.685,
-    "is_free": false,
-    "audience": "أطفال"
-  },
-  {
-    "id": "monkey-land-riyadh",
-    "name_ar": "مونكي لاند",
-    "name_en": "Monkey Land",
-    "category": "ترفيه",
-    "category_ar": "ترفيه",
-    "category_en": "Entertainment",
-    "neighborhood": "حي النخيل",
-    "neighborhood_en": "Al Nakheel",
-    "description_ar": "حديقة مغامرات داخلية للأطفال تضم إطارات تسلق وزحاليق وأنشطة مليئة بالحركة",
-    "google_rating": 4.1,
-    "price_level": "$",
-    "trending": false,
-    "is_new": false,
-    "sources": [
-      "timeoutriyadh"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Monkey+Land+Riyadh",
-    "district": "شمال",
-    "perfect_for": [
-      "أطفال"
-    ],
-    "lat": 24.77,
-    "lng": 46.65,
-    "is_free": false,
-    "audience": "أطفال"
-  },
-  {
-    "id": "sala-city-riyadh",
-    "name_ar": "سالا سيتي",
-    "name_en": "Sala City",
-    "category": "ترفيه",
-    "category_ar": "ترفيه",
-    "category_en": "Entertainment",
-    "neighborhood": "حي الربيع",
-    "neighborhood_en": "Ar Rabi",
-    "description_ar": "مجمع ترفيهي عائلي يضم سباق كارتنج وليزر تاغ وألعاب رقمية تنافسية",
-    "google_rating": 4.4,
-    "price_level": "$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "timeoutriyadh",
-      "google"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Sala+City+Riyadh",
-    "district": "شمال",
-    "perfect_for": [
-      "أطفال",
-      "عوائل",
-      "أصدقاء"
-    ],
-    "lat": 24.79,
-    "lng": 46.645,
-    "is_free": false,
-    "audience": "الكل"
-  },
-  {
-    "id": "1noos-playground-riyadh",
-    "name_ar": "ونوس ملاهي داخلية",
-    "name_en": "1NOOS Indoor Playground",
-    "category": "ترفيه",
-    "category_ar": "ترفيه",
-    "category_en": "Entertainment",
-    "neighborhood": "حي النرجس",
-    "neighborhood_en": "Al Narjis",
-    "description_ar": "ملاهي داخلية مبتكرة للأطفال تضم حديقة ترامبولين ودونات سلايد وأنشطة متنوعة",
-    "google_rating": 4.4,
-    "price_level": "$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "google",
-      "funlandia"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=1NOOS+Indoor+Playground+Riyadh",
-    "district": "شمال",
-    "perfect_for": [
-      "أطفال",
-      "عوائل"
-    ],
-    "lat": 24.84,
-    "lng": 46.65,
-    "is_free": false,
-    "audience": "أطفال"
-  },
-  {
-    "id": "red-palace-museum-riyadh",
-    "name_ar": "القصر الأحمر",
-    "name_en": "Red Palace Museum",
-    "category": "متاحف",
-    "category_ar": "متاحف",
-    "category_en": "Museum",
-    "neighborhood": "حي الفوطة",
-    "neighborhood_en": "Al Futah",
-    "description_ar": "قصر تاريخي بُني في عهد الملك عبدالعزيز، يتميز بلونه الأحمر ويضم مقتنيات ووثائق تاريخية نادرة",
-    "google_rating": 4.4,
-    "price_level": "مجاني",
-    "trending": false,
-    "is_new": false,
-    "sources": [
-      "google",
-      "mosafeir"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Red+Palace+Museum+Riyadh",
-    "district": "وسط",
-    "perfect_for": [
-      "عوائل",
-      "ثقافة"
-    ],
-    "lat": 24.635,
-    "lng": 46.713,
-    "is_free": true,
-    "audience": "الكل"
-  },
-  {
-    "id": "heritage-arts-crafts-museum",
-    "name_ar": "متحف التراث للفنون والحرف",
-    "name_en": "Heritage Arts & Crafts Museum",
-    "category": "متاحف",
-    "category_ar": "متاحف",
-    "category_en": "Museum",
-    "neighborhood": "حي النفل",
-    "neighborhood_en": "An Nafl",
-    "description_ar": "متحف يعرض أعمال فنية وحرفية تعكس التراث السعودي الأصيل في أجواء عائلية",
-    "google_rating": 4.2,
-    "price_level": "$",
-    "trending": false,
-    "is_new": false,
-    "sources": [
-      "mosafeir",
-      "google"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Heritage+Arts+Crafts+Museum+Riyadh",
-    "district": "شمال",
-    "perfect_for": [
-      "عوائل",
-      "ثقافة"
-    ],
-    "lat": 24.75,
-    "lng": 46.65,
-    "is_free": false,
-    "audience": "الكل"
-  },
-  {
-    "id": "science-technology-islam-museum",
     "name_ar": "متحف تاريخ العلوم والتقنية في الإسلام",
-    "name_en": "Museum of Science & Technology in Islam",
-    "category": "متاحف",
+    "name_en": "Museum of Science and Technology in Islam",
+    "category": "museums",
     "category_ar": "متاحف",
-    "category_en": "Museum",
-    "neighborhood": "حي الدرعية",
-    "neighborhood_en": "Imam University",
-    "description_ar": "متحف تفاعلي يسلط الضوء على إسهامات العلماء المسلمين في الفلك والطب والهندسة",
-    "google_rating": 4.3,
-    "price_level": "مجاني",
-    "trending": false,
-    "is_new": false,
-    "sources": [
-      "mosafeir",
-      "google"
+    "description_ar": "متحف فريد يعرض إنجازات العلماء المسلمين في العلوم والتقنية عبر العصور في جامعة الملك عبدالله",
+    "lat": 24.6345,
+    "lng": 46.7123,
+    "neighborhood": "المربع",
+    "tags": [
+      "علوم",
+      "تاريخ",
+      "إسلامي",
+      "تعليمي"
     ],
-    "google_maps_url": "https://maps.google.com/?q=Museum+Science+Technology+Islam+Riyadh",
-    "district": "شمال",
-    "perfect_for": [
-      "أطفال",
-      "عوائل",
-      "تعليم"
-    ],
-    "lat": 24.81,
-    "lng": 46.7,
-    "is_free": true,
-    "audience": "الكل"
-  },
-  {
-    "id": "q-resort-riyadh",
-    "name_ar": "كيو ريزورت",
-    "name_en": "Q Resort",
-    "category": "شاليه",
-    "category_ar": "شاليه",
-    "category_en": "Chalet",
-    "neighborhood": "حي الرمال",
-    "neighborhood_en": "Ar Rimal",
-    "description_ar": "شاليهات راقية ونظيفة من أفضل شاليهات الرياض في حي الرمال، تصميم عصري مع مسابح خاصة",
-    "google_rating": 4.4,
-    "price_level": "$$$",
-    "trending": true,
-    "is_new": false,
-    "sources": [
-      "google",
-      "enala"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Q+Resort+Riyadh",
-    "district": "شرق",
     "perfect_for": [
       "عوائل",
-      "استرخاء"
+      "طلاب",
+      "ثقافة"
     ],
-    "lat": 24.78,
-    "lng": 46.82,
-    "is_free": false,
-    "audience": "عوائل"
-  },
-  {
-    "id": "the-one-resorts-riyadh",
-    "name_ar": "المنتجعات الأولى",
-    "name_en": "The One Resorts",
-    "category": "شاليه",
-    "category_ar": "شاليه",
-    "category_en": "Chalet",
-    "neighborhood": "حي الرمال",
-    "neighborhood_en": "Ar Rimal",
-    "description_ar": "منتجع فاخر على طريق الأمير محمد بن سلمان يوفر فيلات ومسابح خاصة ومرافق ترفيهية متكاملة",
-    "google_rating": 4.5,
-    "price_level": "$$$$",
-    "trending": true,
-    "is_new": false,
-    "sources": [
-      "google",
-      "sakan"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=The+One+Resorts+Riyadh",
-    "district": "شرق",
-    "perfect_for": [
-      "عوائل",
-      "استرخاء",
-      "مناسبات"
-    ],
-    "lat": 24.775,
-    "lng": 46.83,
-    "is_free": false,
-    "audience": "عوائل"
-  },
-  {
-    "id": "riyadh-view-resort",
-    "name_ar": "منتجع رياض فيو",
-    "name_en": "Riyadh View Resort",
-    "category": "شاليه",
-    "category_ar": "شاليه",
-    "category_en": "Chalet",
-    "neighborhood": "حي الرمال",
-    "neighborhood_en": "Ar Rimal",
-    "description_ar": "شاليهات عائلية بتصميم عصري مع حدائق خاصة ومسابح ومناطق شواء",
-    "google_rating": 4.3,
-    "price_level": "$$$",
-    "trending": false,
-    "is_new": false,
-    "sources": [
-      "google"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Riyadh+View+Resort",
-    "district": "شرق",
-    "perfect_for": [
-      "عوائل",
-      "استرخاء"
-    ],
-    "lat": 24.782,
-    "lng": 46.825,
-    "is_free": false,
-    "audience": "عوائل"
-  },
-  {
-    "id": "arjan-park-resort",
-    "name_ar": "منتجع أرجان بارك",
-    "name_en": "Arjan Park Resort",
-    "category": "شاليه",
-    "category_ar": "شاليه",
-    "category_en": "Chalet",
-    "neighborhood": "حي الرمال",
-    "neighborhood_en": "Ar Rimal",
-    "description_ar": "منتجع عائلي يضم شاليهات فاخرة مع مساحات خضراء ومسابح وملاعب أطفال",
-    "google_rating": 4.2,
-    "price_level": "$$$",
-    "trending": false,
-    "is_new": false,
-    "sources": [
-      "google"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Arjan+Park+Resort+Riyadh",
-    "district": "شرق",
-    "perfect_for": [
-      "عوائل",
-      "أطفال"
-    ],
-    "lat": 24.785,
-    "lng": 46.828,
-    "is_free": false,
-    "audience": "عوائل"
-  },
-  {
-    "id": "rawdhat-khorim-park",
-    "name_ar": "روضة خريم",
-    "name_en": "Rawdhat Khorim",
-    "category": "طبيعة",
-    "category_ar": "طبيعة",
-    "category_en": "Nature",
-    "neighborhood": "شمال الرياض",
-    "neighborhood_en": "North Riyadh",
-    "description_ar": "محمية طبيعية شمال الرياض تتميز بأشجار الطلح والأعشاب البرية والحياة الفطرية، مثالية للتخييم والنزهات",
-    "google_rating": 4.5,
-    "price_level": "مجاني",
-    "trending": true,
-    "is_new": false,
-    "sources": [
-      "google",
-      "tripadvisor"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Rawdhat+Khorim+Riyadh",
-    "district": "شمال",
-    "perfect_for": [
-      "عوائل",
-      "مغامرة",
-      "تخييم"
-    ],
-    "lat": 25.18,
-    "lng": 47.25,
-    "is_free": true,
-    "audience": "الكل"
-  },
-  {
-    "id": "asador-de-aranda-riyadh",
-    "name_ar": "أسادور دي أراندا",
-    "name_en": "Asador De Aranda",
-    "category": "مطعم",
-    "category_ar": "مطعم",
-    "category_en": "Restaurant",
-    "neighborhood": "حي العليا",
-    "neighborhood_en": "Al Olaya",
-    "description_ar": "مطعم إسباني متخصص في الطهي على الحطب مع أطباق لحوم أصيلة ووصفات تقليدية",
-    "google_rating": 4.4,
-    "price_level": "$$$",
-    "trending": false,
-    "is_new": false,
-    "sources": [
-      "top25restaurants",
-      "google"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Asador+De+Aranda+Riyadh",
-    "district": "وسط",
-    "perfect_for": [
-      "أصدقاء",
-      "رومانسي"
-    ],
-    "lat": 24.696,
-    "lng": 46.69,
-    "is_free": false,
-    "audience": "الكل"
-  },
-  {
-    "id": "b-plus-f-burger-riyadh",
-    "name_ar": "بي اند اف",
-    "name_en": "B+F Burger",
-    "category": "مطعم",
-    "category_ar": "مطعم",
-    "category_en": "Restaurant",
-    "neighborhood": "حي الصحافة",
-    "neighborhood_en": "Solitaire",
-    "description_ar": "مطعم برجر كويتي يقدم تجربة طهي على اللهب المفتوح مع برجر بنكهات مميزة",
-    "google_rating": 4.3,
-    "price_level": "$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "timeoutriyadh"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=B+F+Burger+Solitaire+Riyadh",
-    "district": "شمال",
-    "perfect_for": [
-      "شباب",
-      "أصدقاء"
-    ],
-    "lat": 24.802,
-    "lng": 46.668,
-    "is_free": false,
-    "audience": "شباب"
-  },
-  {
-    "id": "akwakh-almozraa-chalets",
-    "name_ar": "شاليهات أكواخ المزرعة",
-    "name_en": "Akwakh Al Mazraa Chalets",
-    "category": "شاليه",
-    "category_ar": "شاليه",
-    "category_en": "Chalet",
-    "neighborhood": "جنوب الرياض",
-    "neighborhood_en": "South Riyadh",
-    "description_ar": "شاليهات ريفية بتصميم أكواخ مع حدائق ومسابح، مناسبة للعوائل بأسعار معقولة",
-    "google_rating": 4.1,
-    "price_level": "$$",
-    "trending": false,
-    "is_new": false,
-    "sources": [
-      "google",
-      "altar7al"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Akwakh+Al+Mazraa+Chalets+Riyadh",
-    "district": "جنوب",
-    "perfect_for": [
-      "عوائل",
-      "استرخاء"
-    ],
-    "lat": 24.55,
-    "lng": 46.7,
-    "is_free": false,
-    "audience": "عوائل"
-  },
-  {
-    "id": "wanasty-chalet-riyadh",
-    "name_ar": "شاليه وناستي",
-    "name_en": "Wanasty Chalet",
-    "category": "شاليه",
-    "category_ar": "شاليه",
-    "category_en": "Chalet",
-    "neighborhood": "حي الرمال",
-    "neighborhood_en": "Ar Rimal",
-    "description_ar": "شاليه عصري بسعر مناسب مع مسبح خاص وحديقة ومواقف مجانية",
-    "google_rating": 4.0,
     "price_level": "$",
-    "trending": false,
-    "is_new": false,
-    "sources": [
-      "google",
-      "wujhat"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Wanasty+Chalet+Riyadh",
-    "district": "شرق",
-    "perfect_for": [
-      "عوائل"
-    ],
-    "lat": 24.776,
-    "lng": 46.81,
-    "is_free": false,
-    "audience": "عوائل"
+    "source": "web_search"
   },
   {
-    "id": "al-uyaynah-ruins",
-    "name_ar": "آثار العيينة",
-    "name_en": "Al Uyaynah Ruins",
-    "category": "طبيعة",
-    "category_ar": "طبيعة",
-    "category_en": "Nature",
-    "neighborhood": "شمال غرب الرياض",
-    "neighborhood_en": "Northwest Riyadh",
-    "description_ar": "موقع أثري وطبيعي شمال غرب الرياض يضم آثار قديمة وممرات هايكنق على ضفاف وادي حنيفة",
-    "google_rating": 4.4,
-    "price_level": "مجاني",
-    "trending": false,
-    "is_new": false,
-    "sources": [
-      "tripadvisor",
-      "riyadhhiking"
+    "name_ar": "متحف العملات",
+    "name_en": "Currency Museum",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "description_ar": "متحف يستعرض تاريخ العملة السعودية والخليجية مع مقتنيات نادرة من العملات والأوراق النقدية",
+    "lat": 24.6534,
+    "lng": 46.7056,
+    "neighborhood": "المربع",
+    "tags": [
+      "عملات",
+      "تاريخ",
+      "اقتصاد"
     ],
-    "google_maps_url": "https://maps.google.com/?q=Al+Uyaynah+Riyadh",
-    "district": "غرب",
     "perfect_for": [
       "ثقافة",
-      "هايكنق",
-      "تصوير"
+      "طلاب"
     ],
-    "lat": 24.95,
-    "lng": 46.37,
-    "is_free": true,
-    "audience": "الكل"
+    "price_level": "مجاني",
+    "source": "web_search"
   },
   {
-    "id": "matt-cookies-riyadh",
-    "name_ar": "مات كوكيز",
-    "name_en": "Matt Cookies",
-    "category": "حلويات",
-    "category_ar": "حلويات",
-    "category_en": "Dessert",
-    "neighborhood": "حي العليا",
-    "neighborhood_en": "Al Olaya",
-    "description_ar": "محل كوكيز مربعة طازجة تُخبز يومياً، فائز بجائزة أفضل حلويات في الرياض 2025",
-    "google_rating": 4.6,
-    "price_level": "$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "timeoutriyadh"
+    "name_ar": "متحف قصر الحكم",
+    "name_en": "Palace of Governance Museum",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "description_ar": "متحف يروي تطور الحياة السياسية في المملكة داخل مبنى قصر الحكم التاريخي",
+    "lat": 24.6312,
+    "lng": 46.7134,
+    "neighborhood": "الديرة",
+    "tags": [
+      "تاريخ",
+      "سياسة",
+      "تراث"
     ],
-    "google_maps_url": "https://maps.google.com/?q=Matt+Cookies+Riyadh",
-    "district": "وسط",
     "perfect_for": [
-      "أصدقاء",
+      "ثقافة",
+      "سياح"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حي الطريف التراثي",
+    "name_en": "At-Turaif Heritage District",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "description_ar": "موقع تراث عالمي لليونسكو في الدرعية تم تجديده مؤخراً، يضم قصوراً تاريخية ومتاحف",
+    "lat": 24.7345,
+    "lng": 46.5712,
+    "neighborhood": "الدرعية",
+    "tags": [
+      "يونسكو",
+      "تراث",
+      "تاريخ",
+      "سعودي"
+    ],
+    "perfect_for": [
+      "سياح",
+      "ثقافة",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة السويدي",
+    "name_en": "Al Suwaidi Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "حديقة ثقافية متنوعة استضافت فعاليات موسم الرياض مع مساحات خضراء وأنشطة ترفيهية",
+    "lat": 24.6234,
+    "lng": 46.6543,
+    "neighborhood": "السويدي",
+    "tags": [
+      "حديقة",
+      "فعاليات",
+      "ثقافي"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أطفال"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "بوليفارد فلاورز",
+    "name_en": "Boulevard Flowers",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "حديقة زهور ضخمة في موسم الرياض تضم أكثر من 180 مليون زهرة بتصاميم فنية سعودية",
+    "lat": 24.7512,
+    "lng": 46.6234,
+    "neighborhood": "حطين",
+    "tags": [
+      "زهور",
+      "فن",
+      "موسم الرياض"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "تصوير",
+      "رومانسي"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "ليسن فالي",
+    "name_en": "Listen Valley",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "مجمع ترفيهي ومطاعم جديد يضم وجهات طعام عالمية وتجارب ترفيهية متنوعة",
+    "lat": 24.7345,
+    "lng": 46.6123,
+    "neighborhood": "حطين",
+    "tags": [
+      "مطاعم",
+      "ترفيه",
+      "تسوق"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "شباب"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة الياسمين",
+    "name_en": "Al Yasmin Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "حديقة حديثة في حي الياسمين بممشى جميل واسع لرياضة المشي والجري وقيادة الدراجات",
+    "lat": 24.8234,
+    "lng": 46.6345,
+    "neighborhood": "الياسمين",
+    "tags": [
+      "ممشى",
+      "دراجات",
+      "رياضة"
+    ],
+    "perfect_for": [
+      "رياضة",
+      "مشي",
+      "عوائل"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة الروضة الجديدة",
+    "name_en": "Al Rawdah New Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "حديقة جديدة افتتحت ضمن مشروع أمانة الرياض لزيادة المسطحات الخضراء مع ألعاب أطفال وملاعب",
+    "lat": 24.6789,
+    "lng": 46.7234,
+    "neighborhood": "الروضة",
+    "tags": [
+      "حديقة",
+      "مجانية",
+      "ألعاب أطفال"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أطفال"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة الفلاح الجديدة",
+    "name_en": "Al Falah New Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "حديقة حديثة في حي الفلاح مع حضانات للأطفال وأجهزة رياضية وممرات دراجات",
+    "lat": 24.7912,
+    "lng": 46.6654,
+    "neighborhood": "الفلاح",
+    "tags": [
+      "حديقة",
+      "رياضة",
+      "أطفال"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "رياضة"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة النرجس",
+    "name_en": "Al Narjis Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "حديقة جديدة في شمال الرياض مع ساحات تفاعلية وملاعب رياضية ومناطق جلوس عائلية",
+    "lat": 24.8345,
+    "lng": 46.6543,
+    "neighborhood": "النرجس",
+    "tags": [
+      "حديقة",
+      "ملاعب",
+      "عائلية"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "رياضة"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة القيروان",
+    "name_en": "Al Qairawan Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "حديقة حديثة في حي القيروان شمال الرياض مع مسارات مشي وأماكن جلوس ومناطق خضراء",
+    "lat": 24.8456,
+    "lng": 46.6234,
+    "neighborhood": "القيروان",
+    "tags": [
+      "حديقة",
+      "مسارات مشي",
+      "مجانية"
+    ],
+    "perfect_for": [
+      "مشي",
+      "عوائل"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة العارض",
+    "name_en": "Al Arid Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "حديقة من الحدائق الجديدة في شمال الرياض ضمن مشروع الـ87 حديقة جديدة لأمانة الرياض",
+    "lat": 24.8567,
+    "lng": 46.6123,
+    "neighborhood": "العارض",
+    "tags": [
+      "حديقة",
+      "جديدة",
+      "مجانية"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "مشي"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة الغدير",
+    "name_en": "Al Ghadir Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "حديقة حديثة في حي الغدير مع ألعاب مدمجة لذوي الإعاقة وأجهزة رياضية ومسارات",
+    "lat": 24.7678,
+    "lng": 46.7345,
+    "neighborhood": "الغدير",
+    "tags": [
+      "حديقة",
+      "شاملة",
+      "رياضة"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "ذوي الإعاقة",
+      "رياضة"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مطعم أم علي",
+    "name_en": "Um Ali Restaurant",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم شعبي يقدم أطباق سعودية تقليدية بأسعار مناسبة في أجواء عائلية",
+    "lat": 24.6543,
+    "lng": 46.7012,
+    "neighborhood": "الملز",
+    "tags": [
+      "سعودي",
+      "شعبي",
+      "تقليدي"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "اقتصادي"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مطعم كرم بيروت",
+    "name_en": "Karam Beirut",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم لبناني متوسطي يقدم مأكولات متنوعة بنكهة مميزة وجودة عالية في الخدمة",
+    "lat": 24.6987,
+    "lng": 46.6876,
+    "neighborhood": "العليا",
+    "tags": [
+      "لبناني",
+      "متوسطي",
+      "عالمي"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "مناسبات"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مطعم لوسين",
+    "name_en": "Lusin Restaurant",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم أرمني فاخر يقدم مأكولات أرمنية أصيلة من أفضل المطاعم تقييماً في الرياض",
+    "lat": 24.7012,
+    "lng": 46.6789,
+    "neighborhood": "السليمانية",
+    "tags": [
+      "أرمني",
+      "فاخر",
+      "مشويات"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "مناسبات"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "منتزه الثمامة",
+    "name_en": "Al Thumamah Nature Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "منتزه طبيعي شمال الرياض مثالي للتخييم والكشتات البرية مع مساحات صحراوية واسعة",
+    "lat": 25.0123,
+    "lng": 46.5834,
+    "neighborhood": "الثمامة",
+    "tags": [
+      "صحراء",
+      "تخييم",
+      "كشتة",
+      "بري"
+    ],
+    "perfect_for": [
+      "شباب",
+      "مغامرات",
+      "كشتات"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شعيب لحا",
+    "name_en": "Shaieb Liha",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "وادي طبيعي خلاب في جبال طويق قرب الرياض مع مناظر صخرية مذهلة ومسارات مشي",
+    "lat": 24.5678,
+    "lng": 46.3456,
+    "neighborhood": "جبال طويق",
+    "tags": [
+      "وادي",
+      "جبال",
+      "طبيعة",
+      "مشي"
+    ],
+    "perfect_for": [
+      "مغامرات",
+      "تصوير",
+      "طبيعة"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مطل البجيري",
+    "name_en": "Bujairi Terrace",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "وجهة راقية في الدرعية تضم مطاعم عالمية ومقاهي فاخرة مع إطلالة على حي الطريف التاريخي",
+    "lat": 24.7356,
+    "lng": 46.5728,
+    "neighborhood": "الدرعية",
+    "tags": [
+      "مطاعم",
+      "تراث",
+      "إطلالة"
+    ],
+    "perfect_for": [
+      "رومانسي",
+      "سياح",
+      "عوائل"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "فيا رياض",
+    "name_en": "VIA Riyadh",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "وجهة تسوق وترفيه فاخرة تضم فنادق ومطاعم ومتاجر عالمية في موقع مميز",
+    "lat": 24.7234,
+    "lng": 46.6543,
+    "neighborhood": "العليا",
+    "tags": [
+      "تسوق",
+      "فاخر",
+      "مطاعم",
+      "فنادق"
+    ],
+    "perfect_for": [
+      "تسوق",
+      "مناسبات"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "الرياض بارك",
+    "name_en": "Riyadh Park",
+    "category": "malls",
+    "category_ar": "مولات",
+    "description_ar": "مول ضخم مع مساحات خضراء خارجية يضم متاجر عالمية ومطاعم متنوعة ومناطق ترفيهية",
+    "lat": 24.7234,
+    "lng": 46.6123,
+    "neighborhood": "حطين",
+    "tags": [
+      "تسوق",
+      "مطاعم",
+      "ترفيه",
+      "حدائق"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "تسوق"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مول القصر",
+    "name_en": "Al Qasr Mall",
+    "category": "malls",
+    "category_ar": "مولات",
+    "description_ar": "مول فاخر في جنوب وسط الرياض يضم متاجر عالمية ومناطق ترفيهية ومطاعم متنوعة",
+    "lat": 24.6456,
+    "lng": 46.6876,
+    "neighborhood": "الحزم",
+    "tags": [
+      "تسوق",
+      "فاخر",
+      "ماركات"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "تسوق"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "بانوراما مول الجديد",
+    "name_en": "Panorama Mall New",
+    "category": "malls",
+    "category_ar": "مولات",
+    "description_ar": "توسعة جديدة لمول بانوراما مع متاجر إضافية ومناطق ترفيهية حديثة",
+    "lat": 24.7345,
+    "lng": 46.7012,
+    "neighborhood": "الربيع",
+    "tags": [
+      "تسوق",
+      "ترفيه",
+      "عائلي"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "تسوق"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مجمع السلام",
+    "name_en": "Al Salam Complex",
+    "category": "malls",
+    "category_ar": "مولات",
+    "description_ar": "مجمع تجاري في شرق الرياض يضم متاجر ومطاعم ومرافق ترفيهية متنوعة",
+    "lat": 24.6789,
+    "lng": 46.7345,
+    "neighborhood": "السلام",
+    "tags": [
+      "تسوق",
+      "مطاعم",
+      "ترفيه"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "تسوق"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "سوق الديرة",
+    "name_en": "Dira Souq",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "description_ar": "سوق تراثي تاريخي في قلب الرياض القديمة يبيع العود والبخور والتحف والملابس التقليدية",
+    "lat": 24.6312,
+    "lng": 46.7134,
+    "neighborhood": "الديرة",
+    "tags": [
+      "تراثي",
+      "عود",
+      "بخور",
+      "تحف"
+    ],
+    "perfect_for": [
+      "سياح",
+      "تسوق تقليدي"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "سوق البطحاء",
+    "name_en": "Al Batha Souq",
+    "category": "shopping",
+    "category_ar": "تسوق",
+    "description_ar": "سوق شعبي كبير في وسط الرياض يضم محلات متنوعة للإلكترونيات والملابس والعطور بأسعار مناسبة",
+    "lat": 24.6345,
+    "lng": 46.7089,
+    "neighborhood": "البطحاء",
+    "tags": [
+      "شعبي",
+      "إلكترونيات",
+      "عطور"
+    ],
+    "perfect_for": [
+      "اقتصادي",
+      "تسوق"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "ونتر وندرلاند الرياض",
+    "name_en": "Winter Wonderland Riyadh",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "منطقة ترفيهية ضخمة في موسم الرياض مستوحاة من ونتر وندرلاند لندن مع ألعاب وعروض",
+    "lat": 24.7567,
+    "lng": 46.6234,
+    "neighborhood": "حطين",
+    "tags": [
+      "ألعاب",
+      "عروض",
+      "موسم الرياض"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "شباب"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مطعم المجلس الخليجي",
+    "name_en": "Al Majlis Al Khaleeji",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم خليجي يقدم أطباقاً شرق أوسطية متنوعة في أجواء تقليدية تناسب العائلات",
+    "lat": 24.6789,
+    "lng": 46.6987,
+    "neighborhood": "الملز",
+    "tags": [
+      "خليجي",
+      "تقليدي",
+      "عائلي"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "مناسبات"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حلويات آني آند داني",
+    "name_en": "Aani & Dani",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "description_ar": "محل حلويات وشوكولاتة بلجيكية يقدم شوكلت بار وكيك الرد فلفت وشوكوشيبس",
+    "lat": 24.7345,
+    "lng": 46.6543,
+    "neighborhood": "حطين",
+    "tags": [
+      "شوكولا بلجيكي",
+      "كيك",
       "هدايا"
     ],
-    "lat": 24.694,
-    "lng": 46.686,
-    "is_free": false,
-    "audience": "الكل"
-  },
-  {
-    "id": "exception-sweets-riyadh",
-    "name_ar": "إكسبشن للحلويات",
-    "name_en": "Exception Sweets",
-    "category": "حلويات",
-    "category_ar": "حلويات",
-    "category_en": "Dessert",
-    "neighborhood": "حي النخيل",
-    "neighborhood_en": "Al Nakheel",
-    "description_ar": "محل حلويات فاخرة يقدم تشكيلة واسعة من الكعك والشوكولاتة والحلويات العربية",
-    "google_rating": 4.4,
-    "price_level": "$$",
-    "trending": false,
-    "is_new": false,
-    "sources": [
-      "google"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Exception+Sweets+Riyadh",
-    "district": "شمال",
     "perfect_for": [
       "هدايا",
       "مناسبات"
     ],
-    "lat": 24.765,
-    "lng": 46.65,
-    "is_free": false,
-    "audience": "الكل"
+    "price_level": "$$$",
+    "source": "web_search"
   },
   {
-    "id": "amazonica-1364-dq",
-    "name_ar": "أمازونيكو الحي الدبلوماسي",
-    "name_en": "Amazónico DQ",
-    "category": "مطعم",
-    "category_ar": "مطعم",
-    "category_en": "Restaurant",
-    "neighborhood": "حي السفارات",
-    "neighborhood_en": "Diplomatic Quarter",
-    "description_ar": "مطعم بأجواء أمازونية يقدم لحوم مشوية على الفحم ومأكولات بحرية من مطابخ البرازيل وبيرو وكولومبيا",
-    "google_rating": 4.5,
-    "price_level": "$$$$",
-    "trending": true,
-    "is_new": true,
-    "sources": [
-      "timeoutriyadh"
+    "name_ar": "ووتر سبلاش بارك",
+    "name_en": "Water Splash Park",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "مدينة ألعاب مائية ترفيهية مثالية للعائلات في الرياض مع زحاليق وبرك سباحة",
+    "lat": 24.8234,
+    "lng": 46.5876,
+    "neighborhood": "الثمامة",
+    "tags": [
+      "ألعاب مائية",
+      "سباحة",
+      "عائلي"
     ],
-    "google_maps_url": "https://maps.google.com/?q=Amazonico+Restaurant+Riyadh",
-    "district": "غرب",
     "perfect_for": [
-      "رومانسي",
+      "عوائل",
+      "أطفال",
+      "صيف"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة الوطن",
+    "name_en": "Al Watan Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "حديقة كبيرة في الرياض مع نوافير مائية وممرات مشي ومساحات خضراء ومناطق ألعاب أطفال",
+    "lat": 24.6543,
+    "lng": 46.7098,
+    "neighborhood": "الفوطة",
+    "tags": [
+      "نوافير",
+      "حديقة",
+      "مسارات"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "مشي"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات ريفانا",
+    "name_en": "Revana Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات فاخرة شمال الرياض بمسابح خاصة وجلسات خارجية مثالية للعائلات والمناسبات",
+    "lat": 24.9234,
+    "lng": 46.5678,
+    "neighborhood": "شمال الرياض",
+    "tags": [
+      "مسبح خاص",
+      "فاخر",
+      "عائلي"
+    ],
+    "perfect_for": [
+      "عوائل",
       "مناسبات"
     ],
-    "lat": 24.688,
-    "lng": 46.626,
-    "is_free": false,
-    "audience": "الكل"
+    "price_level": "$$$",
+    "source": "web_search"
   },
   {
-    "id": "al-diriyah-heritage-trail",
-    "name_ar": "ممشى الدرعية التاريخي",
-    "name_en": "Al Diriyah Heritage Trail",
-    "category": "طبيعة",
-    "category_ar": "طبيعة",
-    "category_en": "Nature",
-    "neighborhood": "الدرعية",
-    "neighborhood_en": "Diriyah",
-    "description_ar": "ممشى تاريخي عبر أطلال الطوب اللبن وبساتين النخيل وضفاف وادي حنيفة في موقع يونسكو للتراث العالمي",
-    "google_rating": 4.6,
-    "price_level": "مجاني",
-    "trending": true,
-    "is_new": false,
-    "sources": [
-      "tripadvisor",
-      "webook"
+    "name_ar": "شاليهات دريم لاند",
+    "name_en": "Dream Land Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "منتجع شاليهات ترفيهي يوفر شاليهات متنوعة مع مسابح وألعاب أطفال ومناطق شواء",
+    "lat": 24.9456,
+    "lng": 46.5234,
+    "neighborhood": "شمال الرياض",
+    "tags": [
+      "مسبح",
+      "شواء",
+      "عائلي"
     ],
-    "google_maps_url": "https://maps.google.com/?q=Diriyah+Heritage+Trail+Riyadh",
-    "district": "غرب",
     "perfect_for": [
       "عوائل",
-      "ثقافة",
-      "هايكنق"
+      "أطفال",
+      "إجازات"
     ],
-    "lat": 24.735,
-    "lng": 46.573,
-    "is_free": true,
-    "audience": "الكل"
-  },
-  {
-    "id": "riyadh-inn-chalets",
-    "name_ar": "شاليهات رياض إن",
-    "name_en": "Riyadh Inn Chalets",
-    "category": "شاليه",
-    "category_ar": "شاليه",
-    "category_en": "Chalet",
-    "neighborhood": "شرق الرياض",
-    "neighborhood_en": "East Riyadh",
-    "description_ar": "شاليهات بموقع استراتيجي وتصميم راقي مع مسابح وحدائق ومرافق ترفيهية",
-    "google_rating": 4.2,
     "price_level": "$$",
-    "trending": false,
-    "is_new": false,
-    "sources": [
-      "wingie",
-      "google"
-    ],
-    "google_maps_url": "https://maps.google.com/?q=Riyadh+Inn+Chalets",
-    "district": "شرق",
-    "perfect_for": [
-      "عوائل",
-      "استرخاء"
-    ],
-    "lat": 24.77,
-    "lng": 46.8,
-    "is_free": false,
-    "audience": "عوائل"
+    "source": "web_search"
   },
   {
-    "id": "aviation-museum-riyadh",
-    "name_ar": "متحف صقر الجزيرة للطيران",
-    "name_en": "Saqr Al-Jazirah Aviation Museum",
-    "category": "متاحف",
-    "category_ar": "متاحف",
-    "category_en": "Museum",
-    "neighborhood": "الطريق الدائري الشرقي",
-    "neighborhood_en": "Eastern Ring Road",
-    "description_ar": "متحف يعرض تاريخ الطيران العسكري السعودي مع طائرات حقيقية ومعروضات تفاعلية",
-    "google_rating": 4.4,
-    "price_level": "مجاني",
-    "trending": false,
-    "is_new": false,
-    "sources": [
-      "mosafeir",
-      "google"
+    "name_ar": "شاليهات أوتيوم",
+    "name_en": "Otium Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات عصرية بتصاميم حديثة وخدمات فندقية ومسابح خاصة",
+    "lat": 24.8876,
+    "lng": 46.5543,
+    "neighborhood": "شمال الرياض",
+    "tags": [
+      "عصري",
+      "مسبح خاص",
+      "فاخر"
     ],
-    "google_maps_url": "https://maps.google.com/?q=Saqr+Al+Jazirah+Aviation+Museum+Riyadh",
-    "district": "شرق",
+    "perfect_for": [
+      "شباب",
+      "أزواج"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات غابة",
+    "name_en": "Ghabah Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات محاطة بالأشجار والطبيعة الخضراء مع مسابح ومناطق شواء وألعاب",
+    "lat": 24.9012,
+    "lng": 46.5876,
+    "neighborhood": "شمال الرياض",
+    "tags": [
+      "طبيعة",
+      "أشجار",
+      "مسبح"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "طبيعة"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات بالم",
+    "name_en": "Palm Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات فسيحة مع نخيل وحدائق خاصة ومسابح كبيرة مناسبة للتجمعات",
+    "lat": 24.9345,
+    "lng": 46.5432,
+    "neighborhood": "شمال الرياض",
+    "tags": [
+      "نخيل",
+      "حديقة",
+      "مسبح"
+    ],
+    "perfect_for": [
+      "مناسبات",
+      "تجمعات"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات فيفث سيزون",
+    "name_en": "Fifth Season Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات راقية بأربعة فصول مع جاكوزي ومسبح خاص وصالة سينما",
+    "lat": 24.9567,
+    "lng": 46.5123,
+    "neighborhood": "شمال الرياض",
+    "tags": [
+      "جاكوزي",
+      "سينما",
+      "فاخر"
+    ],
+    "perfect_for": [
+      "أزواج",
+      "مناسبات خاصة"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات ذا لودج",
+    "name_en": "The Lodge Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات خشبية بطابع ريفي مع مسبح ومنطقة شواء ومساحات خارجية",
+    "lat": 24.8789,
+    "lng": 46.5654,
+    "neighborhood": "الدرعية",
+    "tags": [
+      "ريفي",
+      "خشبي",
+      "مسبح"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "إجازات"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات رويال بارك",
+    "name_en": "Royal Park Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "منتجع شاليهات ملكي مع حدائق واسعة ومسابح كبيرة وخدمات ضيافة مميزة",
+    "lat": 24.9123,
+    "lng": 46.5345,
+    "neighborhood": "شمال الرياض",
+    "tags": [
+      "ملكي",
+      "حدائق",
+      "ضيافة"
+    ],
+    "perfect_for": [
+      "مناسبات كبيرة",
+      "عوائل"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات كازا",
+    "name_en": "Casa Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات بتصميم إسباني مع مسابح خاصة وجلسات خارجية ومطبخ مجهز",
+    "lat": 24.8567,
+    "lng": 46.5789,
+    "neighborhood": "غرب الرياض",
+    "tags": [
+      "إسباني",
+      "مسبح",
+      "مطبخ"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات سيرينيتي",
+    "name_en": "Serenity Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات هادئة للاستجمام مع سبا ومسبح ومناطق استرخاء في بيئة طبيعية",
+    "lat": 24.8901,
+    "lng": 46.5123,
+    "neighborhood": "شمال الرياض",
+    "tags": [
+      "سبا",
+      "استرخاء",
+      "هدوء"
+    ],
+    "perfect_for": [
+      "أزواج",
+      "استجمام"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "فندق فورسيزونز الرياض",
+    "name_en": "Four Seasons Hotel Riyadh",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "description_ar": "فندق فاخر 5 نجوم في برج المملكة يوفر إقامة راقية مع مطاعم عالمية ومرافق صحية",
+    "lat": 24.7112,
+    "lng": 46.6754,
+    "neighborhood": "العليا",
+    "tags": [
+      "5 نجوم",
+      "فاخر",
+      "برج المملكة"
+    ],
+    "perfect_for": [
+      "سياح",
+      "رجال أعمال",
+      "فخامة"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "فندق ماندارين أورينتال الرياض",
+    "name_en": "Mandarin Oriental Riyadh",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "description_ar": "فندق فاخر جديد يقدم تجربة إقامة استثنائية مع سبا ومطاعم عالمية المستوى",
+    "lat": 24.7234,
+    "lng": 46.6654,
+    "neighborhood": "العليا",
+    "tags": [
+      "5 نجوم",
+      "فاخر",
+      "سبا"
+    ],
+    "perfect_for": [
+      "سياح",
+      "رجال أعمال"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "فندق سانت ريجيس الرياض",
+    "name_en": "St. Regis Riyadh",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "description_ar": "فندق فائق الفخامة في فيا رياض يتميز بخدمة البطلر الخاصة ومرافق استثنائية",
+    "lat": 24.7189,
+    "lng": 46.6598,
+    "neighborhood": "العليا",
+    "tags": [
+      "فائق الفخامة",
+      "بطلر",
+      "5 نجوم"
+    ],
+    "perfect_for": [
+      "فخامة",
+      "مناسبات خاصة"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "فندق بارك حياة الرياض",
+    "name_en": "Park Hyatt Riyadh",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "description_ar": "فندق فاخر في الدرعية بإطلالة على حي الطريف التاريخي مع مطاعم وسبا مميز",
+    "lat": 24.7345,
+    "lng": 46.5723,
+    "neighborhood": "الدرعية",
+    "tags": [
+      "فاخر",
+      "تراث",
+      "سبا"
+    ],
+    "perfect_for": [
+      "سياح",
+      "رومانسي"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "فندق أمان الدرعية",
+    "name_en": "Aman Diriyah",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "description_ar": "منتجع فاخر قادم في الدرعية من علامة أمان العالمية بتصميم مستوحى من العمارة النجدية",
+    "lat": 24.7312,
+    "lng": 46.5756,
+    "neighborhood": "الدرعية",
+    "tags": [
+      "منتجع",
+      "فائق الفخامة",
+      "نجدي"
+    ],
+    "perfect_for": [
+      "فخامة",
+      "سياح عالميين"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "كارتينج الرياض",
+    "name_en": "Riyadh Karting",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "حلبة سباق كارتينج مثيرة مع سيارات سريعة ومضامير متعددة للمبتدئين والمحترفين",
+    "lat": 24.7543,
+    "lng": 46.5876,
+    "neighborhood": "الملقا",
+    "tags": [
+      "سباق",
+      "كارتينج",
+      "مغامرات"
+    ],
+    "perfect_for": [
+      "شباب",
+      "مغامرات",
+      "أصدقاء"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "سكاي زون الرياض",
+    "name_en": "Sky Zone Riyadh",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "مدينة ترامبولين وألعاب حركية ممتعة للأطفال والكبار مع مناطق متعددة",
+    "lat": 24.7678,
+    "lng": 46.6234,
+    "neighborhood": "العقيق",
+    "tags": [
+      "ترامبولين",
+      "ألعاب حركية",
+      "عائلي"
+    ],
+    "perfect_for": [
+      "أطفال",
+      "شباب",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة حيوان الرياض",
+    "name_en": "Riyadh Zoo",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "حديقة حيوان كبيرة تضم أنواعاً متنوعة من الحيوانات مع مناطق تفاعلية للأطفال",
+    "lat": 24.6312,
+    "lng": 46.7234,
+    "neighborhood": "الملز",
+    "tags": [
+      "حيوانات",
+      "تعليمي",
+      "عائلي"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أطفال"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مركز الملك فهد الثقافي",
+    "name_en": "King Fahd Cultural Center",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "مركز ثقافي ضخم يستضيف عروضاً مسرحية وحفلات موسيقية ومعارض فنية",
+    "lat": 24.7567,
+    "lng": 46.6789,
+    "neighborhood": "العليا",
+    "tags": [
+      "ثقافي",
+      "مسرح",
+      "حفلات",
+      "فن"
+    ],
+    "perfect_for": [
+      "فن",
+      "ثقافة",
+      "حفلات"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة المعالم",
+    "name_en": "Landmarks Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "حديقة فريدة تضم مجسمات مصغرة لأشهر معالم العالم مع مساحات خضراء وألعاب أطفال",
+    "lat": 24.6567,
+    "lng": 46.6543,
+    "neighborhood": "السويدي",
+    "tags": [
+      "معالم",
+      "مجسمات",
+      "عائلي"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أطفال",
+      "تعليمي"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "برج المملكة",
+    "name_en": "Kingdom Tower",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "أبرز معالم الرياض مع جسر المشاهدة في الطابق 99 ومول ومطاعم فاخرة",
+    "lat": 24.7112,
+    "lng": 46.6745,
+    "neighborhood": "العليا",
+    "tags": [
+      "معلم",
+      "إطلالة",
+      "تسوق",
+      "مطاعم"
+    ],
+    "perfect_for": [
+      "سياح",
+      "تصوير"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "برج الفيصلية",
+    "name_en": "Al Faisaliah Tower",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "برج أيقوني في الرياض يضم مطاعم فاخرة ومتاجر ومنصة مشاهدة بانورامية",
+    "lat": 24.6912,
+    "lng": 46.6856,
+    "neighborhood": "العليا",
+    "tags": [
+      "معلم",
+      "إطلالة",
+      "فاخر"
+    ],
+    "perfect_for": [
+      "سياح",
+      "مناسبات"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "سنوي الرياض",
+    "name_en": "Snow City Riyadh",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "مدينة ثلجية مغلقة تقدم تجربة ثلوج حقيقية مع تزلج وألعاب ثلجية",
+    "lat": 24.7234,
+    "lng": 46.6123,
+    "neighborhood": "العثيم",
+    "tags": [
+      "ثلج",
+      "تزلج",
+      "مغلق"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أطفال"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مطعم نجد فيليج",
+    "name_en": "Najd Village",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم عربي تراثي يقدم مأكولات نجدية وشعبية بجودة عالية في بيئة أصيلة",
+    "lat": 24.6432,
+    "lng": 46.7156,
+    "neighborhood": "الديرة",
+    "tags": [
+      "نجدي",
+      "شعبي",
+      "تراثي"
+    ],
+    "perfect_for": [
+      "سياح",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مطعم ماما نورة",
+    "name_en": "Mama Noura",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم لبناني شعبي محبوب يقدم وجبات سريعة بجودة عالية وأسعار مناسبة",
+    "lat": 24.6789,
+    "lng": 46.6876,
+    "neighborhood": "العليا",
+    "tags": [
+      "لبناني",
+      "شعبي",
+      "وجبات سريعة"
+    ],
+    "perfect_for": [
+      "اقتصادي",
+      "شباب"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مطعم القرية النجدية",
+    "name_en": "Al Qaria Al Najdiah",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم شرق أوسطي تراثي يقدم أطباقاً شعبية مميزة في بيئة نجدية أصيلة",
+    "lat": 24.6345,
+    "lng": 46.7089,
+    "neighborhood": "الديرة",
+    "tags": [
+      "شعبي",
+      "نجدي",
+      "تراثي"
+    ],
+    "perfect_for": [
+      "سياح",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مطعم دايناميت شاورما",
+    "name_en": "Dynamite Shawarma",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم شاورما متميز بالدجاج البلدي في حي النزهة",
+    "lat": 24.7678,
+    "lng": 46.6654,
+    "neighborhood": "النزهة",
+    "tags": [
+      "شاورما",
+      "دجاج بلدي",
+      "سريع"
+    ],
+    "perfect_for": [
+      "شباب",
+      "اقتصادي"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "سبورتس بوليفارد",
+    "name_en": "Sports Boulevard",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "مشروع ضخم يمتد 135 كم من المسارات الرياضية والحدائق ومناطق الترفيه والاستجمام",
+    "lat": 24.7234,
+    "lng": 46.6543,
+    "neighborhood": "وسط الرياض",
+    "tags": [
+      "رياضة",
+      "مشي",
+      "دراجات",
+      "حدائق"
+    ],
+    "perfect_for": [
+      "رياضة",
+      "مشي",
+      "دراجات"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "غرين رياض",
+    "name_en": "Green Riyadh",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "مبادرة الرياض الخضراء لزراعة 7.5 مليون شجرة وإنشاء حدائق ومتنزهات جديدة",
+    "lat": 24.7345,
+    "lng": 46.6345,
+    "neighborhood": "الرياض",
+    "tags": [
+      "بيئة",
+      "أشجار",
+      "استدامة"
+    ],
+    "perfect_for": [
+      "طبيعة",
+      "بيئة"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة المحمدية الجديدة",
+    "name_en": "Al Mohammadiyah New Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "حديقة حديثة في حي المحمدية مع ألعاب أطفال مدمجة لذوي الإعاقة ومسارات مشي وأجهزة رياضية",
+    "lat": 24.6987,
+    "lng": 46.6765,
+    "neighborhood": "المحمدية",
+    "tags": [
+      "حديقة",
+      "شاملة",
+      "جديدة"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "ذوي الإعاقة"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة الصحافة الجديدة",
+    "name_en": "Al Sahafa New Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "حديقة جديدة في حي الصحافة شمال الرياض مع ملاعب رياضية ومناطق جلوس ومسارات",
+    "lat": 24.7876,
+    "lng": 46.6345,
+    "neighborhood": "الصحافة",
+    "tags": [
+      "حديقة",
+      "ملاعب",
+      "جديدة"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "رياضة"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "لا كورت مول",
+    "name_en": "La Corte Mall",
+    "category": "malls",
+    "category_ar": "مولات",
+    "description_ar": "مجمع تسوق أنيق على طريق التحلية يضم متاجر ومطاعم ومقاهي فاخرة",
+    "lat": 24.6923,
+    "lng": 46.6845,
+    "neighborhood": "التحلية",
+    "tags": [
+      "تسوق",
+      "مطاعم",
+      "فاخر"
+    ],
+    "perfect_for": [
+      "تسوق",
+      "مطاعم"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "المملكة مول",
+    "name_en": "Al Mamlaka Mall",
+    "category": "malls",
+    "category_ar": "مولات",
+    "description_ar": "مول فاخر في برج المملكة يضم ماركات عالمية راقية ومطاعم في أعلى البرج",
+    "lat": 24.7115,
+    "lng": 46.6748,
+    "neighborhood": "العليا",
+    "tags": [
+      "فاخر",
+      "ماركات عالمية",
+      "مطاعم"
+    ],
+    "perfect_for": [
+      "تسوق فاخر",
+      "سياح"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مجمع الإليت",
+    "name_en": "The Elite Complex",
+    "category": "malls",
+    "category_ar": "مولات",
+    "description_ar": "مجمع مطاعم ومتاجر في السليمانية يضم وجهات طعام جديدة ومقاهي متنوعة",
+    "lat": 24.6932,
+    "lng": 46.6789,
+    "neighborhood": "السليمانية",
+    "tags": [
+      "مطاعم",
+      "مقاهي",
+      "عصري"
+    ],
+    "perfect_for": [
+      "شباب",
+      "أصدقاء"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "كونكورد بول",
+    "name_en": "Concord Bowl",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "مركز ترفيهي يضم بولينج وألعاب إلكترونية وبلياردو ومنطقة مطاعم",
+    "lat": 24.7456,
+    "lng": 46.6654,
+    "neighborhood": "الصحافة",
+    "tags": [
+      "بولينج",
+      "ألعاب",
+      "ترفيه"
+    ],
+    "perfect_for": [
+      "شباب",
+      "أصدقاء",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "سباركيز",
+    "name_en": "Sparky's",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "مدينة ألعاب ترفيهية للأطفال والعائلات مع ألعاب إلكترونية وحركية متنوعة",
+    "lat": 24.7234,
+    "lng": 46.6876,
+    "neighborhood": "العليا",
+    "tags": [
+      "ألعاب أطفال",
+      "ترفيه",
+      "عائلي"
+    ],
     "perfect_for": [
       "أطفال",
       "عوائل"
     ],
-    "lat": 24.72,
-    "lng": 46.76,
-    "is_free": true,
-    "audience": "الكل"
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "جمبو كيدز",
+    "name_en": "Jumbo Kids",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "مركز ترفيهي للأطفال يضم ألعاب حركية ومنطقة رمل وترامبولين ومنزلقات",
+    "lat": 24.7567,
+    "lng": 46.6345,
+    "neighborhood": "الملقا",
+    "tags": [
+      "أطفال",
+      "ترامبولين",
+      "ألعاب"
+    ],
+    "perfect_for": [
+      "أطفال",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مركز الأمير سلطان للعلوم والتقنية (سايتك)",
+    "name_en": "Scitech - Prince Sultan Science Center",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "description_ar": "مركز علمي تفاعلي يضم معارض علوم وتقنية وقبة فلكية ومعامل تعليمية للأطفال",
+    "lat": 24.6756,
+    "lng": 46.6912,
+    "neighborhood": "الملز",
+    "tags": [
+      "علوم",
+      "تعليمي",
+      "تفاعلي",
+      "فلك"
+    ],
+    "perfect_for": [
+      "أطفال",
+      "طلاب",
+      "عوائل"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مطعم تكا",
+    "name_en": "Takya Restaurant",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم تركي يقدم أطباقاً تركية أصيلة مع مشويات وكباب وأطباق عثمانية",
+    "lat": 24.7345,
+    "lng": 46.6543,
+    "neighborhood": "حطين",
+    "tags": [
+      "تركي",
+      "كباب",
+      "مشويات"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "أصدقاء"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مطعم هاكاسان",
+    "name_en": "Hakkasan",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم صيني فاخر حائز على نجمة ميشلان يقدم المطبخ الكانتوني المعاصر",
+    "lat": 24.7648,
+    "lng": 46.6341,
+    "neighborhood": "كافد",
+    "tags": [
+      "صيني",
+      "ميشلان",
+      "فاخر",
+      "كانتوني"
+    ],
+    "perfect_for": [
+      "مناسبات",
+      "رومانسي"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مطعم نوبو",
+    "name_en": "Nobu",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم ياباني عالمي شهير يقدم السوشي والأطباق اليابانية المعاصرة بلمسة بيروفية",
+    "lat": 24.6912,
+    "lng": 46.6856,
+    "neighborhood": "العليا",
+    "tags": [
+      "ياباني",
+      "سوشي",
+      "عالمي",
+      "فاخر"
+    ],
+    "perfect_for": [
+      "مناسبات",
+      "رومانسي"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مطعم زوما",
+    "name_en": "Zuma",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم ياباني معاصر عالمي الشهرة يقدم أطباقاً يابانية راقية في أجواء أنيقة",
+    "lat": 24.7112,
+    "lng": 46.6745,
+    "neighborhood": "العليا",
+    "tags": [
+      "ياباني",
+      "معاصر",
+      "فاخر"
+    ],
+    "perfect_for": [
+      "مناسبات",
+      "رومانسي",
+      "أصدقاء"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مطعم سيبراني",
+    "name_en": "Cipriani",
+    "category": "restaurants",
+    "category_ar": "مطاعم",
+    "description_ar": "مطعم إيطالي عالمي من فينيسيا يقدم المطبخ الإيطالي الكلاسيكي الراقي",
+    "lat": 24.7645,
+    "lng": 46.6348,
+    "neighborhood": "كافد",
+    "tags": [
+      "إيطالي",
+      "فاخر",
+      "عالمي"
+    ],
+    "perfect_for": [
+      "مناسبات",
+      "فخامة"
+    ],
+    "price_level": "$$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "كافيه إلف كابس",
+    "name_en": "Elf Cups Café",
+    "category": "cafes",
+    "category_ar": "كافيهات",
+    "description_ar": "كافيه مميز بتصميم خيالي يقدم قهوة مختصة ومشروبات إبداعية في أجواء ساحرة",
+    "lat": 24.7456,
+    "lng": 46.6345,
+    "neighborhood": "الملقا",
+    "tags": [
+      "قهوة مختصة",
+      "إبداعي",
+      "تصميم"
+    ],
+    "perfect_for": [
+      "بنات",
+      "تصوير"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "كافيه ذا كوفي كلاب",
+    "name_en": "The Coffee Club",
+    "category": "cafes",
+    "category_ar": "كافيهات",
+    "description_ar": "سلسلة كافيهات أسترالية تقدم فطور وبرنش وقهوة مختصة في أجواء مريحة",
+    "lat": 24.7234,
+    "lng": 46.6654,
+    "neighborhood": "السليمانية",
+    "tags": [
+      "أسترالي",
+      "فطور",
+      "برنش"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "عمل"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "كافيه أوريقامي",
+    "name_en": "Origami Café",
+    "category": "cafes",
+    "category_ar": "كافيهات",
+    "description_ar": "كافيه ياباني بتصميم مينيمالست يقدم قهوة مختصة وماتشا وحلويات يابانية",
+    "lat": 24.7567,
+    "lng": 46.6234,
+    "neighborhood": "العقيق",
+    "tags": [
+      "ياباني",
+      "ماتشا",
+      "مينيمالست"
+    ],
+    "perfect_for": [
+      "شباب",
+      "محبي القهوة"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "دونات كريسبي كريم",
+    "name_en": "Krispy Kreme",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "description_ar": "سلسلة دونات أمريكية شهيرة بالدونات الساخنة الطازجة مع تشكيلة متنوعة من النكهات",
+    "lat": 24.7345,
+    "lng": 46.6543,
+    "neighborhood": "حطين",
+    "tags": [
+      "دونات",
+      "أمريكي",
+      "حلويات"
+    ],
+    "perfect_for": [
+      "شباب",
+      "أطفال"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حلويات سعد الدين",
+    "name_en": "Saadeddin Pastry",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "description_ar": "سلسلة حلويات سعودية شهيرة تقدم حلويات شرقية وغربية وشوكولاتة ومعجنات فاخرة",
+    "lat": 24.7012,
+    "lng": 46.6876,
+    "neighborhood": "العليا",
+    "tags": [
+      "حلويات شرقية",
+      "شوكولا",
+      "معجنات"
+    ],
+    "perfect_for": [
+      "ضيافة",
+      "مناسبات",
+      "هدايا"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حلويات الماسة",
+    "name_en": "Al Massah Sweets",
+    "category": "desserts",
+    "category_ar": "حلويات",
+    "description_ar": "محل حلويات سورية وشرقية يقدم بقلاوة وكنافة ومعمول وحلويات عربية تقليدية",
+    "lat": 24.6876,
+    "lng": 46.7012,
+    "neighborhood": "الحمراء",
+    "tags": [
+      "حلويات سورية",
+      "بقلاوة",
+      "كنافة"
+    ],
+    "perfect_for": [
+      "ضيافة",
+      "رمضان"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "فندق هيلتون الرياض كافد",
+    "name_en": "Hilton Riyadh KAFD",
+    "category": "hotels",
+    "category_ar": "فنادق",
+    "description_ar": "فندق هيلتون الجديد في مركز الملك عبدالله المالي مع غرف فاخرة ومطاعم ومرافق أعمال",
+    "lat": 24.7643,
+    "lng": 46.6339,
+    "neighborhood": "كافد",
+    "tags": [
+      "4 نجوم",
+      "أعمال",
+      "حديث"
+    ],
+    "perfect_for": [
+      "رجال أعمال",
+      "سياح"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "وادي نمار",
+    "name_en": "Wadi Namar",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "بحيرة طبيعية ومنتزه في جنوب الرياض مع شلال ومسارات مشي وإطلالات خلابة",
+    "lat": 24.5678,
+    "lng": 46.6234,
+    "neighborhood": "نمار",
+    "tags": [
+      "بحيرة",
+      "شلال",
+      "طبيعة",
+      "مشي"
+    ],
+    "perfect_for": [
+      "عوائل",
+      "طبيعة",
+      "تصوير"
+    ],
+    "price_level": "مجاني",
+    "source": "web_search"
   }
 ]
