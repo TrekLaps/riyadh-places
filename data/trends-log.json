@@ -1,0 +1,75 @@
+[
+  {
+    "date": "2026-02-21",
+    "scan_time": "07:00 UTC",
+    "places_added": [
+      {
+        "name": "Haru",
+        "name_ar": "هارو",
+        "why_trending": "New opening on Al Takhassousi Street (Feb 2026). Japanese restaurant generating buzz across food blogs and Riyadh new-openings roundups",
+        "sources": [
+          "Platinumlist (Feb 17, 2026)",
+          "FlickOnClick best restaurants 2026 list"
+        ],
+        "cross_referenced": true,
+        "tags": [
+          "new-opening",
+          "trending"
+        ]
+      },
+      {
+        "name": "Fi Glbak",
+        "name_ar": "في قلبك",
+        "why_trending": "Won Michelin Bib Gourmand in inaugural Michelin Guide Saudi Arabia 2026. Featured in Michelin Restaurant Celebration in Riyadh (Feb 13). One of only 11 Bib Gourmand restaurants in Saudi Arabia",
+        "sources": [
+          "Michelin Guide Saudi Arabia 2026 (official)",
+          "GlobeNewswire (Feb 13, 2026)",
+          "MarketScreener",
+          "ArabNewsService",
+          "Investegate"
+        ],
+        "cross_referenced": true,
+        "tags": [
+          "michelin",
+          "trending"
+        ]
+      },
+      {
+        "name": "Tameesa",
+        "name_ar": "تميسة",
+        "why_trending": "Won Michelin Bib Gourmand in inaugural Michelin Guide Saudi Arabia 2026. Recognized for authentic Hijazi-style breakfast and cuisine",
+        "sources": [
+          "Michelin Guide Saudi Arabia 2026 (official)",
+          "Arab News (Oct 2025)",
+          "ConnectingTravel",
+          "Michelin Guide website"
+        ],
+        "cross_referenced": true,
+        "tags": [
+          "michelin",
+          "trending"
+        ]
+      }
+    ],
+    "notable_trends": [
+      "Ramadan 2026 started Feb 19 — massive iftar/suhoor buzz across Riyadh (Four Seasons, Ritz-Carlton, JW Marriott, Beefbar, Asian Hub, Amar)",
+      "Michelin Guide Saudi Arabia 2026 celebration held Feb 13 in Riyadh — 51 restaurants featured, 11 Bib Gourmand",
+      "Solitaire Mall Roof Garden new night experience with ROKA pop-up",
+      "Cup Matee — first matte food truck in Riyadh (single source, not added per cross-reference rule)",
+      "Rawand (Lebanese) announced opening soon on Prince Abdulaziz Ibn Musaid Ibn Jalawi St (not yet open, not added)",
+      "Boulevard World still running with new zones (Indonesia, South Korea, Kuwait)"
+    ],
+    "already_in_db_but_trending": [
+      "Maiz (Michelin Young Chef Award 2026 — Chef Elia Kaady)",
+      "Il Baretto (Michelin Exceptional Mocktail Award 2026)",
+      "KAYZO (Michelin Bib Gourmand 2026)",
+      "Mirzam (Michelin Bib Gourmand 2026)",
+      "Najd Village (Michelin Bib Gourmand 2026)",
+      "Sasani (Michelin Bib Gourmand 2026)",
+      "Em Sherif Café (Michelin Bib Gourmand 2026)",
+      "ROKA Riyadh (pop-up at Solitaire Roof Garden)",
+      "Solitaire Mall (new night experience)",
+      "Boulevard World (new zones this season)"
+    ]
+  }
+]
