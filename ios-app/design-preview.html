@@ -1,0 +1,1255 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>وين نروح — Design Preview</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700;800;900&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --green-900: #0D3B2E;
+  --green-800: #14503D;
+  --green-700: #1A6B4F;
+  --green-600: #1E8C62;
+  --green-500: #22A873;
+  --green-400: #3CC98E;
+  --green-300: #6EDAAB;
+  --green-200: #A8E8CA;
+  --green-100: #D4F4E5;
+  --green-50:  #EDFAF3;
+  
+  --gold-500: #C9A84C;
+  --gold-400: #DFC474;
+  --gold-300: #EDD89E;
+  
+  --bg-primary: #050F0B;
+  --bg-card: #0D1F17;
+  --bg-card-hover: #122B1F;
+  --bg-elevated: #162D22;
+  --bg-input: #0F2319;
+  
+  --text-primary: #F0F7F3;
+  --text-secondary: #8BA89A;
+  --text-tertiary: #5C7A6A;
+  
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+  --radius-full: 999px;
+}
+
+body {
+  font-family: 'Tajawal', -apple-system, sans-serif;
+  background: #000;
+  color: var(--text-primary);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  padding: 40px 20px;
+  min-height: 100vh;
+}
+
+h1.page-title {
+  width: 100%;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 800;
+  color: var(--green-400);
+  margin-bottom: 10px;
+  letter-spacing: -0.5px;
+}
+
+.subtitle {
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+  color: var(--text-tertiary);
+  margin-bottom: 20px;
+}
+
+/* Phone Frame */
+.phone {
+  width: 375px;
+  height: 812px;
+  background: var(--bg-primary);
+  border-radius: 44px;
+  border: 3px solid #1A3028;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 25px 80px rgba(34, 168, 115, 0.15), 0 0 0 1px rgba(34, 168, 115, 0.1);
+}
+
+.phone-label {
+  text-align: center;
+  margin-top: 12px;
+  font-size: 13px;
+  color: var(--text-tertiary);
+  font-weight: 500;
+}
+
+/* Status Bar */
+.status-bar {
+  height: 54px;
+  padding: 14px 24px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+
+/* Screen Content */
+.screen {
+  height: calc(100% - 54px - 83px);
+  overflow-y: auto;
+  padding-bottom: 10px;
+  scrollbar-width: none;
+}
+.screen::-webkit-scrollbar { display: none; }
+
+/* Tab Bar */
+.tab-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 83px;
+  background: linear-gradient(to top, var(--bg-primary) 75%, transparent);
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding-top: 10px;
+  border-top: 1px solid rgba(34, 168, 115, 0.1);
+}
+
+.tab-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  font-size: 10px;
+  color: var(--text-tertiary);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.tab-item.active { color: var(--green-400); }
+.tab-item .tab-icon { font-size: 22px; }
+.tab-item.active .tab-icon { 
+  filter: drop-shadow(0 0 8px rgba(60, 201, 142, 0.4));
+}
+
+/* === HOME SCREEN === */
+
+.home-header {
+  padding: 0 20px 16px;
+}
+
+.home-greeting {
+  font-size: 13px;
+  color: var(--text-tertiary);
+  margin-bottom: 2px;
+}
+
+.home-title {
+  font-size: 28px;
+  font-weight: 800;
+  background: linear-gradient(135deg, var(--green-300), var(--green-500));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 1.3;
+}
+
+.home-count {
+  font-size: 12px;
+  color: var(--text-tertiary);
+  margin-top: 2px;
+}
+
+/* Search Bar */
+.search-bar {
+  margin: 0 20px 18px;
+  padding: 14px 16px;
+  background: var(--bg-card);
+  border: 1px solid rgba(34, 168, 115, 0.12);
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--text-tertiary);
+  font-size: 14px;
+  transition: all 0.3s;
+}
+.search-bar:hover {
+  border-color: rgba(34, 168, 115, 0.3);
+  background: var(--bg-card-hover);
+}
+.search-icon { font-size: 16px; opacity: 0.6; }
+
+/* Section Header */
+.section-header {
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+.section-title {
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+.section-more {
+  font-size: 12px;
+  color: var(--green-400);
+  font-weight: 500;
+}
+
+/* Occasion Chips */
+.occasions-scroll {
+  display: flex;
+  gap: 10px;
+  padding: 0 20px 18px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.occasion-chip {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  width: 72px;
+  padding: 12px 8px;
+  background: var(--bg-card);
+  border: 1px solid rgba(34, 168, 115, 0.08);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.occasion-chip:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--green-600);
+  transform: translateY(-2px);
+}
+.occasion-emoji { font-size: 24px; }
+.occasion-label { font-size: 11px; color: var(--text-secondary); font-weight: 500; }
+
+/* Trending Cards */
+.cards-scroll {
+  display: flex;
+  gap: 12px;
+  padding: 0 20px 20px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.place-card {
+  flex-shrink: 0;
+  width: 200px;
+  background: var(--bg-card);
+  border: 1px solid rgba(34, 168, 115, 0.08);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.25s;
+}
+.place-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--green-600);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.3);
+}
+
+.card-image {
+  height: 120px;
+  background: linear-gradient(135deg, var(--green-900), var(--green-800));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.card-image .cat-icon { font-size: 36px; opacity: 0.5; }
+
+.card-badge {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: rgba(0,0,0,0.55);
+  backdrop-filter: blur(10px);
+  padding: 3px 8px;
+  border-radius: var(--radius-full);
+  font-size: 10px;
+  color: var(--green-300);
+  font-weight: 600;
+}
+
+.card-rating {
+  position: absolute;
+  bottom: 8px;
+  left: 8px;
+  background: rgba(0,0,0,0.55);
+  backdrop-filter: blur(10px);
+  padding: 3px 8px;
+  border-radius: var(--radius-full);
+  font-size: 11px;
+  color: var(--gold-400);
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+
+.card-info {
+  padding: 12px;
+}
+.card-name {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 4px;
+  line-height: 1.3;
+}
+.card-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 11px;
+  color: var(--text-tertiary);
+}
+.card-price {
+  color: var(--green-400);
+  font-weight: 600;
+}
+
+/* Top 10 List */
+.top-list {
+  padding: 0 20px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.top-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+  background: var(--bg-card);
+  border: 1px solid rgba(34, 168, 115, 0.06);
+  border-radius: var(--radius-md);
+  transition: all 0.2s;
+}
+.top-row:hover { background: var(--bg-card-hover); }
+
+.top-rank {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  font-weight: 800;
+  flex-shrink: 0;
+}
+.rank-1 { background: linear-gradient(135deg, #FFD700, #FFA000); color: #000; }
+.rank-2 { background: linear-gradient(135deg, #C0C0C0, #9E9E9E); color: #000; }
+.rank-3 { background: linear-gradient(135deg, #CD7F32, #A0522D); color: #fff; }
+.rank-default { background: var(--bg-elevated); color: var(--text-tertiary); }
+
+.top-info { flex: 1; }
+.top-name { font-size: 14px; font-weight: 600; }
+.top-meta { font-size: 11px; color: var(--text-tertiary); margin-top: 2px; }
+
+.top-rating {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--gold-400);
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+
+/* Category Grid */
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  padding: 0 20px 20px;
+}
+
+.category-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  padding: 14px 6px;
+  background: var(--bg-card);
+  border: 1px solid rgba(34, 168, 115, 0.06);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.category-item:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--green-600);
+  transform: scale(1.03);
+}
+.cat-emoji { font-size: 24px; }
+.cat-name { font-size: 11px; font-weight: 600; color: var(--text-secondary); }
+.cat-count { font-size: 10px; color: var(--text-tertiary); }
+
+/* === DETAIL SCREEN === */
+
+.detail-hero {
+  height: 220px;
+  background: linear-gradient(170deg, var(--green-800), var(--green-900) 60%, var(--bg-primary));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.detail-hero-icon { font-size: 64px; opacity: 0.3; }
+
+.detail-back {
+  position: absolute;
+  top: 10px;
+  right: 16px;
+  width: 36px;
+  height: 36px;
+  background: rgba(0,0,0,0.4);
+  backdrop-filter: blur(10px);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 18px;
+}
+
+.detail-actions {
+  position: absolute;
+  top: 10px;
+  left: 16px;
+  display: flex;
+  gap: 8px;
+}
+.detail-action-btn {
+  width: 36px;
+  height: 36px;
+  background: rgba(0,0,0,0.4);
+  backdrop-filter: blur(10px);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+}
+
+.detail-content { padding: 20px; }
+
+.detail-name {
+  font-size: 24px;
+  font-weight: 800;
+  margin-bottom: 4px;
+}
+.detail-name-en {
+  font-size: 14px;
+  color: var(--text-tertiary);
+  margin-bottom: 16px;
+}
+
+/* Rating Card */
+.rating-card {
+  background: var(--bg-card);
+  border: 1px solid rgba(34, 168, 115, 0.1);
+  border-radius: var(--radius-lg);
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 16px;
+}
+
+.rating-big {
+  text-align: center;
+}
+.rating-number {
+  font-size: 36px;
+  font-weight: 900;
+  color: var(--gold-400);
+  line-height: 1;
+}
+.rating-label {
+  font-size: 12px;
+  color: var(--green-400);
+  font-weight: 600;
+  margin-top: 4px;
+  padding: 2px 10px;
+  background: rgba(34, 168, 115, 0.12);
+  border-radius: var(--radius-full);
+}
+.rating-stars {
+  color: var(--gold-400);
+  font-size: 14px;
+  margin-top: 4px;
+  letter-spacing: 2px;
+}
+
+/* Radar Chart SVG */
+.radar-container {
+  width: 100px;
+  height: 100px;
+  flex-shrink: 0;
+}
+
+/* Info Rows */
+.info-section {
+  background: var(--bg-card);
+  border: 1px solid rgba(34, 168, 115, 0.06);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  margin-bottom: 16px;
+}
+.info-row {
+  display: flex;
+  align-items: center;
+  padding: 14px 16px;
+  border-bottom: 1px solid rgba(34, 168, 115, 0.06);
+  gap: 12px;
+}
+.info-row:last-child { border-bottom: none; }
+.info-icon {
+  width: 32px;
+  height: 32px;
+  background: rgba(34, 168, 115, 0.1);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+  flex-shrink: 0;
+}
+.info-label { font-size: 11px; color: var(--text-tertiary); }
+.info-value { font-size: 14px; font-weight: 500; }
+
+/* Tags */
+.tags-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+.tag {
+  padding: 6px 14px;
+  background: rgba(34, 168, 115, 0.08);
+  border: 1px solid rgba(34, 168, 115, 0.15);
+  border-radius: var(--radius-full);
+  font-size: 12px;
+  color: var(--green-300);
+  font-weight: 500;
+}
+
+/* Occasion badges */
+.occasion-badges {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+}
+.occ-badge {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 8px 14px;
+  background: var(--bg-elevated);
+  border-radius: var(--radius-full);
+  font-size: 12px;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+/* Map Preview */
+.map-preview {
+  height: 140px;
+  background: linear-gradient(135deg, var(--green-900), var(--bg-card));
+  border: 1px solid rgba(34, 168, 115, 0.1);
+  border-radius: var(--radius-lg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-tertiary);
+  font-size: 14px;
+  position: relative;
+  overflow: hidden;
+}
+.map-pin {
+  position: absolute;
+  font-size: 28px;
+  animation: bounce 2s ease infinite;
+}
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+}
+
+/* === EXPLORE SCREEN === */
+
+.pills-scroll {
+  display: flex;
+  gap: 8px;
+  padding: 10px 20px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.pill {
+  flex-shrink: 0;
+  padding: 8px 18px;
+  border-radius: var(--radius-full);
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  border: 1px solid transparent;
+}
+.pill.active {
+  background: var(--green-600);
+  color: white;
+}
+.pill:not(.active) {
+  background: var(--bg-card);
+  color: var(--text-secondary);
+  border-color: rgba(34, 168, 115, 0.1);
+}
+.pill:not(.active):hover {
+  border-color: var(--green-600);
+}
+
+.results-count {
+  padding: 6px 20px;
+  font-size: 12px;
+  color: var(--text-tertiary);
+}
+
+.list-rows {
+  padding: 0 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.list-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px;
+  background: var(--bg-card);
+  border: 1px solid rgba(34, 168, 115, 0.06);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.list-row:hover { 
+  background: var(--bg-card-hover); 
+  border-color: rgba(34, 168, 115, 0.15);
+}
+
+.list-thumb {
+  width: 60px;
+  height: 60px;
+  background: linear-gradient(135deg, var(--green-900), var(--green-800));
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  flex-shrink: 0;
+}
+
+.list-info { flex: 1; }
+.list-name { font-size: 15px; font-weight: 700; margin-bottom: 3px; }
+.list-desc { font-size: 12px; color: var(--text-tertiary); line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.list-bottom { display: flex; gap: 12px; margin-top: 5px; font-size: 11px; color: var(--text-tertiary); }
+.list-bottom span { display: flex; align-items: center; gap: 3px; }
+
+.list-rating {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--gold-400);
+  flex-shrink: 0;
+}
+
+/* Color palette display */
+.palette {
+  width: 100%;
+  max-width: 800px;
+  background: var(--bg-card);
+  border-radius: var(--radius-xl);
+  padding: 30px;
+  border: 1px solid rgba(34, 168, 115, 0.1);
+}
+.palette h2 {
+  font-size: 20px;
+  color: var(--green-300);
+  margin-bottom: 20px;
+  font-weight: 800;
+}
+.palette-row {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+.palette-row-label {
+  width: 100%;
+  font-size: 12px;
+  color: var(--text-tertiary);
+  margin-bottom: 4px;
+  font-weight: 600;
+}
+.swatch {
+  width: 60px;
+  height: 50px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  padding-bottom: 4px;
+  font-size: 8px;
+  font-weight: 600;
+  border: 1px solid rgba(255,255,255,0.05);
+}
+</style>
+</head>
+<body>
+
+<h1 class="page-title">🧭 وين نروح — Design System</h1>
+<p class="subtitle">Saudi Green Identity • Dark Mode First • Explorer Spirit</p>
+
+<!-- ===== HOME SCREEN ===== -->
+<div>
+<div class="phone">
+  <div class="status-bar">
+    <span>100% 🔋</span>
+    <span>10:24 م</span>
+    <span>STC ᯤ</span>
+  </div>
+  
+  <div class="screen">
+    <div class="home-header">
+      <div class="home-greeting">مساء الخير 👋</div>
+      <div class="home-title">وين نروح؟</div>
+      <div class="home-count">🏙️ ٦,٥٠٩ مكان بالرياض</div>
+    </div>
+    
+    <div class="search-bar">
+      <span class="search-icon">🔍</span>
+      <span>ابحث عن مكان، حي، أو نوع...</span>
+    </div>
+    
+    <!-- Occasions -->
+    <div class="section-header">
+      <span class="section-more">عرض الكل</span>
+      <span class="section-title">وش المناسبة؟</span>
+    </div>
+    <div class="occasions-scroll">
+      <div class="occasion-chip">
+        <span class="occasion-emoji">👨‍👩‍👧‍👦</span>
+        <span class="occasion-label">عائلي</span>
+      </div>
+      <div class="occasion-chip">
+        <span class="occasion-emoji">💑</span>
+        <span class="occasion-label">رومانسي</span>
+      </div>
+      <div class="occasion-chip">
+        <span class="occasion-emoji">🌙</span>
+        <span class="occasion-label">سهرة شباب</span>
+      </div>
+      <div class="occasion-chip">
+        <span class="occasion-emoji">💼</span>
+        <span class="occasion-label">بزنس</span>
+      </div>
+      <div class="occasion-chip">
+        <span class="occasion-emoji">☕</span>
+        <span class="occasion-label">قعدة هادية</span>
+      </div>
+    </div>
+    
+    <!-- Trending -->
+    <div class="section-header">
+      <span class="section-more">عرض الكل ←</span>
+      <span class="section-title">🔥 الأكثر شعبية</span>
+    </div>
+    <div class="cards-scroll">
+      <div class="place-card">
+        <div class="card-image">
+          <span class="cat-icon">🍽️</span>
+          <span class="card-badge">🔥 ترند</span>
+          <span class="card-rating">⭐ 4.7</span>
+        </div>
+        <div class="card-info">
+          <div class="card-name">في قلبك</div>
+          <div class="card-meta">
+            <span>📍 المحمدية</span>
+            <span class="card-price">$</span>
+          </div>
+        </div>
+      </div>
+      <div class="place-card">
+        <div class="card-image" style="background: linear-gradient(135deg, #1A3828, #0D2418);">
+          <span class="cat-icon">🍣</span>
+          <span class="card-badge">🆕 جديد</span>
+          <span class="card-rating">⭐ 4.3</span>
+        </div>
+        <div class="card-info">
+          <div class="card-name">كانتامي</div>
+          <div class="card-meta">
+            <span>📍 الياسمين</span>
+            <span class="card-price">$$</span>
+          </div>
+        </div>
+      </div>
+      <div class="place-card">
+        <div class="card-image" style="background: linear-gradient(135deg, #2A1A0D, #1A1008);">
+          <span class="cat-icon">☕</span>
+          <span class="card-rating">⭐ 4.5</span>
+        </div>
+        <div class="card-info">
+          <div class="card-name">%Arabica</div>
+          <div class="card-meta">
+            <span>📍 العليا</span>
+            <span class="card-price">$$</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Top 10 -->
+    <div class="section-header">
+      <span class="section-more">تغيير الحي</span>
+      <span class="section-title">🏆 أفضل 10 — العليا</span>
+    </div>
+    <div class="top-list">
+      <div class="top-row">
+        <span class="top-rating">⭐ 4.8</span>
+        <div class="top-info">
+          <div class="top-name">Nozomi</div>
+          <div class="top-meta">📍 العليا · $$$$</div>
+        </div>
+        <div class="top-rank rank-1">1</div>
+      </div>
+      <div class="top-row">
+        <span class="top-rating">⭐ 4.7</span>
+        <div class="top-info">
+          <div class="top-name">LPM Restaurant</div>
+          <div class="top-meta">📍 العليا · $$$</div>
+        </div>
+        <div class="top-rank rank-2">2</div>
+      </div>
+      <div class="top-row">
+        <span class="top-rating">⭐ 4.6</span>
+        <div class="top-info">
+          <div class="top-name">Nusr-Et Steakhouse</div>
+          <div class="top-meta">📍 العليا · $$$$</div>
+        </div>
+        <div class="top-rank rank-3">3</div>
+      </div>
+    </div>
+    
+    <!-- Categories -->
+    <div class="section-header">
+      <span></span>
+      <span class="section-title">التصنيفات</span>
+    </div>
+    <div class="category-grid">
+      <div class="category-item">
+        <span class="cat-emoji">🍽️</span>
+        <span class="cat-name">مطاعم</span>
+        <span class="cat-count">1,268</span>
+      </div>
+      <div class="category-item">
+        <span class="cat-emoji">☕</span>
+        <span class="cat-name">كافيهات</span>
+        <span class="cat-count">793</span>
+      </div>
+      <div class="category-item">
+        <span class="cat-emoji">🍰</span>
+        <span class="cat-name">حلويات</span>
+        <span class="cat-count">288</span>
+      </div>
+      <div class="category-item">
+        <span class="cat-emoji">🎭</span>
+        <span class="cat-name">ترفيه</span>
+        <span class="cat-count">475</span>
+      </div>
+      <div class="category-item">
+        <span class="cat-emoji">🛍️</span>
+        <span class="cat-name">تسوق</span>
+        <span class="cat-count">830</span>
+      </div>
+      <div class="category-item">
+        <span class="cat-emoji">🌳</span>
+        <span class="cat-name">طبيعة</span>
+        <span class="cat-count">213</span>
+      </div>
+      <div class="category-item">
+        <span class="cat-emoji">🏨</span>
+        <span class="cat-name">فنادق</span>
+        <span class="cat-count">308</span>
+      </div>
+      <div class="category-item">
+        <span class="cat-emoji">🏬</span>
+        <span class="cat-name">مولات</span>
+        <span class="cat-count">137</span>
+      </div>
+    </div>
+  </div>
+  
+  <div class="tab-bar">
+    <div class="tab-item active">
+      <span class="tab-icon">🏠</span>
+      <span>الرئيسية</span>
+    </div>
+    <div class="tab-item">
+      <span class="tab-icon">🧭</span>
+      <span>استكشف</span>
+    </div>
+    <div class="tab-item">
+      <span class="tab-icon">🗺️</span>
+      <span>خريطة</span>
+    </div>
+    <div class="tab-item">
+      <span class="tab-icon">❤️</span>
+      <span>أماكني</span>
+    </div>
+    <div class="tab-item">
+      <span class="tab-icon">👤</span>
+      <span>حسابي</span>
+    </div>
+  </div>
+</div>
+<div class="phone-label">الرئيسية — Home</div>
+</div>
+
+<!-- ===== DETAIL SCREEN ===== -->
+<div>
+<div class="phone">
+  <div class="status-bar">
+    <span>98% 🔋</span>
+    <span>10:26 م</span>
+    <span>STC ᯤ</span>
+  </div>
+  
+  <div class="screen" style="height: calc(100% - 54px);">
+    <div class="detail-hero">
+      <span class="detail-hero-icon">🍽️</span>
+      <div class="detail-back">→</div>
+      <div class="detail-actions">
+        <div class="detail-action-btn">↗️</div>
+        <div class="detail-action-btn">❤️</div>
+      </div>
+    </div>
+    
+    <div class="detail-content">
+      <div class="detail-name">في قلبك</div>
+      <div class="detail-name-en">Fi Glbak · Michelin Bib Gourmand 2026</div>
+      
+      <!-- Rating -->
+      <div class="rating-card">
+        <div style="flex:1;">
+          <div style="display:flex; gap:12px; align-items:center; margin-bottom:8px;">
+            <div>
+              <div style="font-size:11px; color:var(--text-tertiary); margin-bottom:2px;">جودة</div>
+              <div style="height:4px; width:80px; background:var(--bg-elevated); border-radius:2px;">
+                <div style="height:100%; width:90%; background:var(--green-400); border-radius:2px;"></div>
+              </div>
+            </div>
+          </div>
+          <div style="display:flex; gap:12px; align-items:center; margin-bottom:8px;">
+            <div>
+              <div style="font-size:11px; color:var(--text-tertiary); margin-bottom:2px;">خدمة</div>
+              <div style="height:4px; width:80px; background:var(--bg-elevated); border-radius:2px;">
+                <div style="height:100%; width:85%; background:var(--green-400); border-radius:2px;"></div>
+              </div>
+            </div>
+          </div>
+          <div style="display:flex; gap:12px; align-items:center; margin-bottom:8px;">
+            <div>
+              <div style="font-size:11px; color:var(--text-tertiary); margin-bottom:2px;">أجواء</div>
+              <div style="height:4px; width:80px; background:var(--bg-elevated); border-radius:2px;">
+                <div style="height:100%; width:88%; background:var(--green-400); border-radius:2px;"></div>
+              </div>
+            </div>
+          </div>
+          <div style="display:flex; gap:12px; align-items:center;">
+            <div>
+              <div style="font-size:11px; color:var(--text-tertiary); margin-bottom:2px;">قيمة</div>
+              <div style="height:4px; width:80px; background:var(--bg-elevated); border-radius:2px;">
+                <div style="height:100%; width:95%; background:var(--green-500); border-radius:2px;"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="rating-big">
+          <div class="rating-number">4.5</div>
+          <div class="rating-stars">★★★★½</div>
+          <div class="rating-label">ممتاز</div>
+        </div>
+      </div>
+      
+      <!-- Info -->
+      <div class="info-section">
+        <div class="info-row">
+          <div style="flex:1;">
+            <div class="info-label">الحي</div>
+            <div class="info-value">المحمدية</div>
+          </div>
+          <div class="info-icon">📍</div>
+        </div>
+        <div class="info-row">
+          <div style="flex:1;">
+            <div class="info-label">السعر</div>
+            <div class="info-value" style="color:var(--green-400);">$ · رخيص</div>
+          </div>
+          <div class="info-icon">💰</div>
+        </div>
+        <div class="info-row">
+          <div style="flex:1;">
+            <div class="info-label">الأوقات</div>
+            <div class="info-value">١٢:٠٠ م — ١٢:٠٠ ص</div>
+          </div>
+          <div class="info-icon">🕐</div>
+        </div>
+        <div class="info-row">
+          <div style="flex:1;">
+            <div class="info-label">العنوان</div>
+            <div class="info-value">طريق الأمير تركي بن عبدالعزيز</div>
+          </div>
+          <div class="info-icon">🏠</div>
+        </div>
+      </div>
+      
+      <!-- Description -->
+      <div class="section-title" style="margin-bottom:8px;">عن المكان</div>
+      <p style="font-size:13px; color:var(--text-secondary); line-height:1.7; margin-bottom:16px;">
+        مطعم سعودي أصيل حائز على جائزة Michelin Bib Gourmand 2026. يقدّم أطباق سعودية تقليدية بجودة عالية وأسعار معقولة. من أبرز خياراته الكبسة والمندي والمضغوط.
+      </p>
+      
+      <!-- Tags -->
+      <div class="tags-wrap">
+        <span class="tag">سعودي</span>
+        <span class="tag">ميشلان</span>
+        <span class="tag">كبسة</span>
+        <span class="tag">مندي</span>
+        <span class="tag">أسعار معقولة</span>
+      </div>
+      
+      <!-- Occasions -->
+      <div class="section-title" style="margin-bottom:8px;">مناسب لـ</div>
+      <div class="occasion-badges">
+        <span class="occ-badge">👨‍👩‍👧‍👦 عائلي</span>
+        <span class="occ-badge">🌙 سهرة شباب</span>
+        <span class="occ-badge">💼 غداء عمل</span>
+      </div>
+      
+      <!-- Map -->
+      <div class="map-preview">
+        <span class="map-pin">📍</span>
+        اضغط لفتح الخريطة
+      </div>
+    </div>
+  </div>
+</div>
+<div class="phone-label">تفاصيل المكان — Detail</div>
+</div>
+
+<!-- ===== EXPLORE SCREEN ===== -->
+<div>
+<div class="phone">
+  <div class="status-bar">
+    <span>95% 🔋</span>
+    <span>10:30 م</span>
+    <span>STC ᯤ</span>
+  </div>
+  
+  <div class="screen">
+    <!-- Search -->
+    <div style="padding:0 20px 8px;">
+      <div class="search-bar" style="margin:0; background:var(--bg-elevated); border-color:var(--green-700);">
+        <span class="search-icon">🔍</span>
+        <span style="color:var(--text-primary);">كافيه هادي</span>
+        <span style="margin-right:auto; font-size:14px; opacity:0.4;">✕</span>
+      </div>
+    </div>
+    
+    <!-- Category Pills -->
+    <div class="pills-scroll">
+      <span class="pill">الكل</span>
+      <span class="pill">مطاعم</span>
+      <span class="pill active">كافيهات</span>
+      <span class="pill">حلويات</span>
+      <span class="pill">ترفيه</span>
+    </div>
+    
+    <!-- Occasion Pills -->
+    <div class="pills-scroll" style="padding-top:0;">
+      <span class="pill" style="background:rgba(34,168,115,0.15); color:var(--green-300); border-color:var(--green-700);">☕ قعدة هادية</span>
+      <span class="pill">👨‍👩‍👧‍👦 عائلي</span>
+      <span class="pill">💑 رومانسي</span>
+      <span class="pill">💼 بزنس</span>
+    </div>
+    
+    <div class="results-count">127 مكان</div>
+    
+    <!-- Results -->
+    <div class="list-rows">
+      <div class="list-row">
+        <span class="list-rating">4.6</span>
+        <div class="list-info">
+          <div class="list-name">Elixir Bunn</div>
+          <div class="list-desc">كافيه متخصص بالقهوة المختصة مع أجواء هادية ومريحة</div>
+          <div class="list-bottom">
+            <span>📍 الملقا</span>
+            <span>💰 $$</span>
+            <span>☕ كافيه</span>
+          </div>
+        </div>
+        <div class="list-thumb">☕</div>
+      </div>
+      
+      <div class="list-row">
+        <span class="list-rating">4.5</span>
+        <div class="list-info">
+          <div class="list-name">%Arabica</div>
+          <div class="list-desc">سلسلة يابانية متخصصة بالقهوة، تصميم مينمل أنيق</div>
+          <div class="list-bottom">
+            <span>📍 العليا</span>
+            <span>💰 $$</span>
+            <span>☕ كافيه</span>
+          </div>
+        </div>
+        <div class="list-thumb">☕</div>
+      </div>
+      
+      <div class="list-row">
+        <span class="list-rating">4.4</span>
+        <div class="list-info">
+          <div class="list-name">Barn's Coffee</div>
+          <div class="list-desc">بارنز كوفي — قهوة سعودية مختصة بفروع متعددة</div>
+          <div class="list-bottom">
+            <span>📍 النرجس</span>
+            <span>💰 $</span>
+            <span>☕ كافيه</span>
+          </div>
+        </div>
+        <div class="list-thumb">☕</div>
+      </div>
+      
+      <div class="list-row">
+        <span class="list-rating">4.3</span>
+        <div class="list-info">
+          <div class="list-name">Dose Café</div>
+          <div class="list-desc">كافيه معروف بالرياض، أجواء حلوة ومنيو متنوع</div>
+          <div class="list-bottom">
+            <span>📍 الياسمين</span>
+            <span>💰 $$</span>
+            <span>☕ كافيه</span>
+          </div>
+        </div>
+        <div class="list-thumb">☕</div>
+      </div>
+      
+      <div class="list-row">
+        <span class="list-rating">4.2</span>
+        <div class="list-info">
+          <div class="list-name">Five Elephants</div>
+          <div class="list-desc">كافيه ألماني الأصل، specialty coffee مع كيك شيزكيك</div>
+          <div class="list-bottom">
+            <span>📍 حطين</span>
+            <span>💰 $$</span>
+            <span>☕ كافيه</span>
+          </div>
+        </div>
+        <div class="list-thumb">☕</div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="tab-bar">
+    <div class="tab-item">
+      <span class="tab-icon">🏠</span>
+      <span>الرئيسية</span>
+    </div>
+    <div class="tab-item active">
+      <span class="tab-icon">🧭</span>
+      <span>استكشف</span>
+    </div>
+    <div class="tab-item">
+      <span class="tab-icon">🗺️</span>
+      <span>خريطة</span>
+    </div>
+    <div class="tab-item">
+      <span class="tab-icon">❤️</span>
+      <span>أماكني</span>
+    </div>
+    <div class="tab-item">
+      <span class="tab-icon">👤</span>
+      <span>حسابي</span>
+    </div>
+  </div>
+</div>
+<div class="phone-label">استكشف — Explore</div>
+</div>
+
+<!-- ===== COLOR PALETTE ===== -->
+<div class="palette">
+  <h2>🎨 Color Palette — Saudi Green Identity</h2>
+  
+  <div class="palette-row-label">Saudi Green (Primary)</div>
+  <div class="palette-row">
+    <div class="swatch" style="background:var(--green-900); color:#fff;"><span>900</span></div>
+    <div class="swatch" style="background:var(--green-800); color:#fff;"><span>800</span></div>
+    <div class="swatch" style="background:var(--green-700); color:#fff;"><span>700</span></div>
+    <div class="swatch" style="background:var(--green-600); color:#fff;"><span>600</span></div>
+    <div class="swatch" style="background:var(--green-500); color:#fff;"><span>500</span></div>
+    <div class="swatch" style="background:var(--green-400); color:#000;"><span>400</span></div>
+    <div class="swatch" style="background:var(--green-300); color:#000;"><span>300</span></div>
+    <div class="swatch" style="background:var(--green-200); color:#000;"><span>200</span></div>
+    <div class="swatch" style="background:var(--green-100); color:#000;"><span>100</span></div>
+  </div>
+  
+  <div class="palette-row-label">Gold (Accent — Ratings & Prices)</div>
+  <div class="palette-row">
+    <div class="swatch" style="background:var(--gold-500); color:#000;"><span>500</span></div>
+    <div class="swatch" style="background:var(--gold-400); color:#000;"><span>400</span></div>
+    <div class="swatch" style="background:var(--gold-300); color:#000;"><span>300</span></div>
+  </div>
+  
+  <div class="palette-row-label">Backgrounds</div>
+  <div class="palette-row">
+    <div class="swatch" style="background:var(--bg-primary); color:#fff; border:1px solid #1A3028;"><span>Primary</span></div>
+    <div class="swatch" style="background:var(--bg-card); color:#fff; border:1px solid #1A3028;"><span>Card</span></div>
+    <div class="swatch" style="background:var(--bg-elevated); color:#fff; border:1px solid #1A3028;"><span>Elevated</span></div>
+  </div>
+  
+  <div class="palette-row-label">Text</div>
+  <div class="palette-row">
+    <div class="swatch" style="background:var(--bg-card); border:1px solid #1A3028;">
+      <span style="color:var(--text-primary);">Primary</span>
+    </div>
+    <div class="swatch" style="background:var(--bg-card); border:1px solid #1A3028;">
+      <span style="color:var(--text-secondary);">Secondary</span>
+    </div>
+    <div class="swatch" style="background:var(--bg-card); border:1px solid #1A3028;">
+      <span style="color:var(--text-tertiary);">Tertiary</span>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
