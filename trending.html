@@ -9,6 +9,7 @@
   <meta name="keywords" content="أماكن رائجة الرياض, ترند الرياض, أماكن جديدة, الأكثر زيارة">
   <link rel="canonical" href="https://treklaps.github.io/riyadh-places/trending.html">
   <meta property="og:title" content="🔥 الأماكن الرائجة في الرياض — الأكثر بحثاً وزيارة">
+  <meta name="twitter:card" content="summary_large_image">
   <meta property="og:description" content="اكتشف الأماكن الرائجة والأكثر بحثاً في الرياض الآن">
   <meta property="og:url" content="https://treklaps.github.io/riyadh-places/trending.html">
   <meta property="og:locale" content="ar_SA">
@@ -214,5 +215,10 @@ document.getElementById('sortSelect').addEventListener('change', render);
 
 loadData();
 </script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/riyadh-places/sw.js').catch(() => {});
+    }
+  </script>
 </body>
 </html>

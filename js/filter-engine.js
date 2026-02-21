@@ -74,7 +74,7 @@
       }));
       return _placesCache;
     } catch (e) {
-      console.error('Failed to load places:', e);
+      // load error handled silently
       return [];
     }
   }

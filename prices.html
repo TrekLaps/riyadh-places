@@ -9,6 +9,7 @@
   <meta name="keywords" content="أسعار مطاعم الرياض, قائمة أسعار, منيو, ميزانية, أرخص مطاعم">
   <link rel="canonical" href="https://treklaps.github.io/riyadh-places/prices.html">
   <meta property="og:title" content="أسعار المطاعم في الرياض 2026 — قائمة أسعار شاملة">
+  <meta name="twitter:card" content="summary_large_image">
   <meta property="og:description" content="أسعار أكثر من 200 مطعم وكافيه في الرياض">
   <meta property="og:url" content="https://treklaps.github.io/riyadh-places/prices.html">
   <meta property="og:locale" content="ar_SA">
@@ -330,5 +331,10 @@ document.querySelectorAll('.budget-btn').forEach(btn => {
 
 loadData();
 </script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/riyadh-places/sw.js').catch(() => {});
+    }
+  </script>
 </body>
 </html>

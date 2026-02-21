@@ -9,6 +9,7 @@
   <meta name="keywords" content="أفضل مطاعم الرياض, أفضل كافيهات الرياض, أفضل ترفيه الرياض, أفضل حلويات الرياض, top 10 riyadh">
   <link rel="canonical" href="https://treklaps.github.io/riyadh-places/best.html">
   <meta property="og:title" content="أفضل الأماكن في الرياض 2026 — أفضل 10 لكل فئة">
+  <meta name="twitter:card" content="summary_large_image">
   <meta property="og:description" content="أفضل 10 مطاعم، كافيهات، أماكن ترفيه، وحلويات في الرياض مع التقييم والسعر.">
   <meta property="og:url" content="https://treklaps.github.io/riyadh-places/best.html">
   <meta property="og:locale" content="ar_SA">
@@ -186,5 +187,10 @@ function render() {
 
 loadData();
 </script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/riyadh-places/sw.js').catch(() => {});
+    }
+  </script>
 </body>
 </html>

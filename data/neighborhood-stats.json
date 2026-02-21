@@ -1,0 +1,1856 @@
+[
+  {
+    "id": "al-olaya",
+    "name_ar": "العليا",
+    "name_en": "Al Olaya",
+    "district": "وسط الرياض",
+    "total_places": 606,
+    "categories": {
+      "كافيه": 122,
+      "شاليه": 2,
+      "حلويات": 62,
+      "ترفيه": 84,
+      "فعاليات": 2,
+      "فنادق": 96,
+      "مولات": 18,
+      "مطعم": 138,
+      "تسوق": 50,
+      "متاحف": 26,
+      "طبيعة": 6
+    }
+  },
+  {
+    "id": "al-malqa",
+    "name_ar": "الملقا",
+    "name_en": "Al Malqa",
+    "district": "شمال الرياض",
+    "total_places": 310,
+    "categories": {
+      "كافيه": 110,
+      "حلويات": 30,
+      "ترفيه": 60,
+      "فعاليات": 6,
+      "فنادق": 4,
+      "مولات": 4,
+      "تسوق": 26,
+      "مطعم": 56,
+      "متاحف": 6,
+      "طبيعة": 8
+    }
+  },
+  {
+    "id": "hittin",
+    "name_ar": "حطين",
+    "name_en": "Hittin",
+    "district": "شمال الرياض",
+    "total_places": 238,
+    "categories": {
+      "كافيه": 78,
+      "حلويات": 12,
+      "ترفيه": 56,
+      "فعاليات": 6,
+      "فنادق": 4,
+      "مولات": 8,
+      "طبيعة": 4,
+      "مطعم": 32,
+      "تسوق": 38
+    }
+  },
+  {
+    "id": "al-yasmin",
+    "name_ar": "الياسمين",
+    "name_en": "Al Yasmin",
+    "district": "شمال الرياض",
+    "total_places": 230,
+    "categories": {
+      "كافيه": 116,
+      "شاليه": 2,
+      "حلويات": 16,
+      "ترفيه": 30,
+      "فعاليات": 4,
+      "فنادق": 2,
+      "مولات": 4,
+      "تسوق": 6,
+      "طبيعة": 2,
+      "مطعم": 48
+    }
+  },
+  {
+    "id": "diriyah",
+    "name_ar": "الدرعية",
+    "name_en": "Diriyah",
+    "district": "شمال غرب الرياض",
+    "total_places": 150,
+    "categories": {
+      "كافيه": 16,
+      "حلويات": 2,
+      "ترفيه": 18,
+      "فعاليات": 10,
+      "فنادق": 18,
+      "مولات": 8,
+      "طبيعة": 22,
+      "تسوق": 8,
+      "متاحف": 36,
+      "مطعم": 12
+    }
+  },
+  {
+    "id": "as-sulimaniyah",
+    "name_ar": "السليمانية",
+    "name_en": "As Sulimaniyah",
+    "district": "وسط الرياض",
+    "total_places": 132,
+    "categories": {
+      "كافيه": 26,
+      "حلويات": 26,
+      "ترفيه": 8,
+      "مطعم": 64,
+      "تسوق": 4,
+      "طبيعة": 2,
+      "متاحف": 2
+    }
+  },
+  {
+    "id": "kafd",
+    "name_ar": "كافد",
+    "name_en": "KAFD",
+    "district": "وسط الرياض",
+    "total_places": 126,
+    "categories": {
+      "كافيه": 22,
+      "حلويات": 2,
+      "ترفيه": 4,
+      "فنادق": 18,
+      "مطعم": 78,
+      "متاحف": 2
+    }
+  },
+  {
+    "id": "an-narjis",
+    "name_ar": "النرجس",
+    "name_en": "An Narjis",
+    "district": "شمال الرياض",
+    "total_places": 122,
+    "categories": {
+      "كافيه": 50,
+      "شاليه": 8,
+      "حلويات": 16,
+      "ترفيه": 26,
+      "فنادق": 2,
+      "مولات": 2,
+      "متاحف": 4,
+      "مطعم": 10,
+      "تسوق": 2,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "malaz",
+    "name_ar": "الملز",
+    "name_en": "Malaz",
+    "district": "وسط الرياض",
+    "total_places": 122,
+    "categories": {
+      "كافيه": 12,
+      "حلويات": 6,
+      "ترفيه": 14,
+      "فعاليات": 2,
+      "طبيعة": 10,
+      "مطعم": 72,
+      "متاحف": 4,
+      "مولات": 2
+    }
+  },
+  {
+    "id": "as-sahafah",
+    "name_ar": "الصحافة",
+    "name_en": "As Sahafah",
+    "district": "شمال الرياض",
+    "total_places": 114,
+    "categories": {
+      "كافيه": 28,
+      "حلويات": 14,
+      "ترفيه": 24,
+      "فنادق": 14,
+      "مولات": 8,
+      "تسوق": 4,
+      "متاحف": 2,
+      "مطعم": 18,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "ar-rabi",
+    "name_ar": "الربيع",
+    "name_en": "Ar Rabi",
+    "district": "شمال الرياض",
+    "total_places": 98,
+    "categories": {
+      "كافيه": 38,
+      "حلويات": 12,
+      "ترفيه": 20,
+      "فنادق": 2,
+      "مولات": 2,
+      "فعاليات": 4,
+      "متاحف": 2,
+      "طبيعة": 4,
+      "مطعم": 10,
+      "تسوق": 4
+    }
+  },
+  {
+    "id": "an-nakheel",
+    "name_ar": "النخيل",
+    "name_en": "An Nakheel",
+    "district": "غرب الرياض",
+    "total_places": 96,
+    "categories": {
+      "كافيه": 28,
+      "حلويات": 6,
+      "ترفيه": 8,
+      "فنادق": 2,
+      "مولات": 4,
+      "مطعم": 36,
+      "طبيعة": 2,
+      "تسوق": 10
+    }
+  },
+  {
+    "id": "al-aqiq",
+    "name_ar": "العقيق",
+    "name_en": "Al Aqiq",
+    "district": "شمال الرياض",
+    "total_places": 92,
+    "categories": {
+      "كافيه": 28,
+      "حلويات": 8,
+      "ترفيه": 16,
+      "فنادق": 20,
+      "متاحف": 2,
+      "مطعم": 12,
+      "تسوق": 4,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "ar-rimal",
+    "name_ar": "الرمال",
+    "name_en": "Ar Rimal",
+    "district": "شرق الرياض",
+    "total_places": 64,
+    "categories": {
+      "كافيه": 8,
+      "شاليه": 42,
+      "ترفيه": 12,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "al-wurud",
+    "name_ar": "الورود",
+    "name_en": "Al Wurud",
+    "district": "وسط الرياض",
+    "total_places": 64,
+    "categories": {
+      "كافيه": 14,
+      "حلويات": 12,
+      "ترفيه": 8,
+      "فنادق": 2,
+      "مطعم": 18,
+      "تسوق": 4,
+      "طبيعة": 4,
+      "مولات": 2
+    }
+  },
+  {
+    "id": "al-hamra",
+    "name_ar": "الحمراء",
+    "name_en": "Al Hamra",
+    "district": "شرق الرياض",
+    "total_places": 62,
+    "categories": {
+      "كافيه": 4,
+      "حلويات": 6,
+      "ترفيه": 26,
+      "فنادق": 2,
+      "مطعم": 18,
+      "تسوق": 4,
+      "مولات": 2
+    }
+  },
+  {
+    "id": "ash-shifa-district",
+    "name_ar": "الشفا",
+    "name_en": "Ash Shifa District",
+    "district": "جنوب الرياض",
+    "total_places": 56,
+    "categories": {
+      "كافيه": 8,
+      "ترفيه": 2,
+      "مطعم": 44,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "al-qirawan",
+    "name_ar": "القيروان",
+    "name_en": "Al Qirawan",
+    "district": "شمال الرياض",
+    "total_places": 52,
+    "categories": {
+      "كافيه": 24,
+      "شاليه": 4,
+      "ترفيه": 6,
+      "مولات": 2,
+      "فنادق": 2,
+      "طبيعة": 2,
+      "مطعم": 12
+    }
+  },
+  {
+    "id": "al-murabba",
+    "name_ar": "المربع",
+    "name_en": "Al Murabba",
+    "district": "وسط الرياض",
+    "total_places": 50,
+    "categories": {
+      "ترفيه": 6,
+      "فعاليات": 2,
+      "فنادق": 2,
+      "متاحف": 30,
+      "طبيعة": 4,
+      "مطعم": 4,
+      "تسوق": 2
+    }
+  },
+  {
+    "id": "ar-rabwah",
+    "name_ar": "الربوة",
+    "name_en": "Ar Rabwah",
+    "district": "وسط الرياض",
+    "total_places": 48,
+    "categories": {
+      "كافيه": 16,
+      "ترفيه": 16,
+      "مولات": 6,
+      "طبيعة": 2,
+      "مطعم": 6,
+      "تسوق": 2
+    }
+  },
+  {
+    "id": "al-aziziyah",
+    "name_ar": "العزيزية",
+    "name_en": "Al Aziziyah",
+    "district": "جنوب الرياض",
+    "total_places": 46,
+    "categories": {
+      "كافيه": 4,
+      "حلويات": 2,
+      "ترفيه": 2,
+      "مطعم": 26,
+      "فنادق": 2,
+      "طبيعة": 2,
+      "تسوق": 6,
+      "مولات": 2
+    }
+  },
+  {
+    "id": "as-suwaidi",
+    "name_ar": "السويدي",
+    "name_en": "As Suwaidi",
+    "district": "جنوب غرب الرياض",
+    "total_places": 44,
+    "categories": {
+      "ترفيه": 2,
+      "فعاليات": 2,
+      "فنادق": 2,
+      "مولات": 4,
+      "طبيعة": 4,
+      "مطعم": 30
+    }
+  },
+  {
+    "id": "ad-dirah",
+    "name_ar": "الديرة",
+    "name_en": "Ad Dirah",
+    "district": "وسط الرياض",
+    "total_places": 44,
+    "categories": {
+      "ترفيه": 2,
+      "مولات": 2,
+      "متاحف": 12,
+      "مطعم": 2,
+      "تسوق": 26
+    }
+  },
+  {
+    "id": "thumamah",
+    "name_ar": "الثمامة",
+    "name_en": "Thumamah",
+    "district": "شمال الرياض",
+    "total_places": 42,
+    "categories": {
+      "شاليه": 20,
+      "ترفيه": 6,
+      "متاحف": 2,
+      "طبيعة": 14
+    }
+  },
+  {
+    "id": "al-khaleej",
+    "name_ar": "الخليج",
+    "name_en": "Al Khaleej",
+    "district": "شرق الرياض",
+    "total_places": 40,
+    "categories": {
+      "كافيه": 4,
+      "ترفيه": 2,
+      "مطعم": 32,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "al-maathar",
+    "name_ar": "المعذر",
+    "name_en": "Al Maathar",
+    "district": "غرب الرياض",
+    "total_places": 38,
+    "categories": {
+      "حلويات": 2,
+      "مطعم": 16,
+      "طبيعة": 8,
+      "كافيه": 6,
+      "ترفيه": 2,
+      "متاحف": 4
+    }
+  },
+  {
+    "id": "ar-raid",
+    "name_ar": "الرائد",
+    "name_en": "Ar Raid",
+    "district": "غرب الرياض",
+    "total_places": 32,
+    "categories": {
+      "ترفيه": 4,
+      "مطعم": 16,
+      "كافيه": 10,
+      "مولات": 2
+    }
+  },
+  {
+    "id": "al-uraija",
+    "name_ar": "العريجاء",
+    "name_en": "Al Uraija",
+    "district": "جنوب غرب الرياض",
+    "total_places": 32,
+    "categories": {
+      "كافيه": 2,
+      "ترفيه": 2,
+      "مطعم": 26,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "al-falah",
+    "name_ar": "الفلاح",
+    "name_en": "Al Falah",
+    "district": "شمال الرياض",
+    "total_places": 30,
+    "categories": {
+      "كافيه": 4,
+      "فنادق": 2,
+      "مطعم": 22,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "ar-rawdah",
+    "name_ar": "الروضة",
+    "name_en": "Ar Rawdah",
+    "district": "شرق الرياض",
+    "total_places": 30,
+    "categories": {
+      "كافيه": 6,
+      "حلويات": 2,
+      "ترفيه": 6,
+      "طبيعة": 2,
+      "مطعم": 14
+    }
+  },
+  {
+    "id": "al-muhammadiyah",
+    "name_ar": "المحمدية",
+    "name_en": "Al Muhammadiyah",
+    "district": "غرب الرياض",
+    "total_places": 30,
+    "categories": {
+      "حلويات": 20,
+      "ترفيه": 4,
+      "مطعم": 6
+    }
+  },
+  {
+    "id": "diplomatic-quarter",
+    "name_ar": "الحي الدبلوماسي",
+    "name_en": "Diplomatic Quarter",
+    "district": "غرب الرياض",
+    "total_places": 30,
+    "categories": {
+      "كافيه": 12,
+      "حلويات": 2,
+      "ترفيه": 3,
+      "فنادق": 3,
+      "مولات": 1,
+      "طبيعة": 3,
+      "مطعم": 6
+    }
+  },
+  {
+    "id": "al-badiah",
+    "name_ar": "البديعة",
+    "name_en": "Al Badiah",
+    "district": "وسط الرياض",
+    "total_places": 28,
+    "categories": {
+      "حلويات": 2,
+      "مطعم": 24,
+      "تسوق": 2
+    }
+  },
+  {
+    "id": "al-arid",
+    "name_ar": "العارض",
+    "name_en": "Al Arid",
+    "district": "شمال الرياض",
+    "total_places": 26,
+    "categories": {
+      "كافيه": 16,
+      "شاليه": 2,
+      "ترفيه": 2,
+      "فعاليات": 2,
+      "فنادق": 2,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "al-muruj",
+    "name_ar": "المروج",
+    "name_en": "Al Muruj",
+    "district": "وسط الرياض",
+    "total_places": 26,
+    "categories": {
+      "كافيه": 10,
+      "شاليه": 2,
+      "حلويات": 4,
+      "ترفيه": 4,
+      "مطعم": 2,
+      "طبيعة": 2,
+      "مولات": 2
+    }
+  },
+  {
+    "id": "jax-district",
+    "name_ar": "جاكس",
+    "name_en": "JAX District",
+    "district": "شمال غرب الرياض",
+    "total_places": 26,
+    "categories": {
+      "كافيه": 12,
+      "فعاليات": 6,
+      "متاحف": 8
+    }
+  },
+  {
+    "id": "ghirnatah",
+    "name_ar": "غرناطة",
+    "name_en": "Ghirnatah",
+    "district": "شرق الرياض",
+    "total_places": 24,
+    "categories": {
+      "كافيه": 6,
+      "حلويات": 8,
+      "ترفيه": 4,
+      "مولات": 2,
+      "طبيعة": 4
+    }
+  },
+  {
+    "id": "al-munsiyah",
+    "name_ar": "المونسية",
+    "name_en": "Al Munsiyah",
+    "district": "شرق الرياض",
+    "total_places": 22,
+    "categories": {
+      "كافيه": 4,
+      "شاليه": 4,
+      "حلويات": 2,
+      "ترفيه": 2,
+      "مطعم": 8,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "qurtubah",
+    "name_ar": "قرطبة",
+    "name_en": "Qurtubah",
+    "district": "شرق الرياض",
+    "total_places": 20,
+    "categories": {
+      "حلويات": 2,
+      "ترفيه": 4,
+      "فنادق": 4,
+      "طبيعة": 2,
+      "مطعم": 6,
+      "كافيه": 2
+    }
+  },
+  {
+    "id": "an-nadheem",
+    "name_ar": "النظيم",
+    "name_en": "An Nadheem",
+    "district": "شرق الرياض",
+    "total_places": 20,
+    "categories": {
+      "كافيه": 2,
+      "حلويات": 2,
+      "مطعم": 16
+    }
+  },
+  {
+    "id": "at-taawun",
+    "name_ar": "التعاون",
+    "name_en": "At Taawun",
+    "district": "وسط الرياض",
+    "total_places": 18,
+    "categories": {
+      "كافيه": 6,
+      "حلويات": 4,
+      "مطعم": 4,
+      "تسوق": 2,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "ar-rahmaniyah",
+    "name_ar": "الرحمانية",
+    "name_en": "Ar Rahmaniyah",
+    "district": "غرب الرياض",
+    "total_places": 18,
+    "categories": {
+      "كافيه": 2,
+      "حلويات": 4,
+      "ترفيه": 4,
+      "تسوق": 2,
+      "مطعم": 2,
+      "طبيعة": 2,
+      "فنادق": 2
+    }
+  },
+  {
+    "id": "as-safarat",
+    "name_ar": "السفارات",
+    "name_en": "As Safarat",
+    "district": "غرب الرياض",
+    "total_places": 18,
+    "categories": {
+      "حلويات": 2,
+      "ترفيه": 6,
+      "طبيعة": 2,
+      "مطعم": 6,
+      "متاحف": 2
+    }
+  },
+  {
+    "id": "an-nafl",
+    "name_ar": "النفل",
+    "name_en": "An Nafl",
+    "district": "شمال الرياض",
+    "total_places": 16,
+    "categories": {
+      "كافيه": 6,
+      "ترفيه": 2,
+      "فنادق": 2,
+      "مطعم": 4,
+      "متاحف": 2
+    }
+  },
+  {
+    "id": "al-wadi",
+    "name_ar": "الوادي",
+    "name_en": "Al Wadi",
+    "district": "شمال الرياض",
+    "total_places": 16,
+    "categories": {
+      "كافيه": 4,
+      "حلويات": 4,
+      "ترفيه": 4,
+      "مطعم": 2,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "al-quds",
+    "name_ar": "القدس",
+    "name_en": "Al Quds",
+    "district": "شرق الرياض",
+    "total_places": 16,
+    "categories": {
+      "كافيه": 10,
+      "حلويات": 2,
+      "مطعم": 4
+    }
+  },
+  {
+    "id": "as-salam",
+    "name_ar": "السلام",
+    "name_en": "As Salam",
+    "district": "شرق الرياض",
+    "total_places": 16,
+    "categories": {
+      "كافيه": 2,
+      "ترفيه": 2,
+      "طبيعة": 2,
+      "مطعم": 10
+    }
+  },
+  {
+    "id": "ash-shumaisi",
+    "name_ar": "الشميسي",
+    "name_en": "Ash Shumaisi",
+    "district": "وسط الرياض",
+    "total_places": 16,
+    "categories": {
+      "مطعم": 14,
+      "تسوق": 2
+    }
+  },
+  {
+    "id": "al-ghadir",
+    "name_ar": "الغدير",
+    "name_en": "Al Ghadir",
+    "district": "شمال الرياض",
+    "total_places": 14,
+    "categories": {
+      "كافيه": 4,
+      "مولات": 2,
+      "طبيعة": 4,
+      "مطعم": 4
+    }
+  },
+  {
+    "id": "al-maathar-north",
+    "name_ar": "المعذر الشمالي",
+    "name_en": "Al Maathar North",
+    "district": "غرب الرياض",
+    "total_places": 14,
+    "categories": {
+      "مطعم": 14
+    }
+  },
+  {
+    "id": "al-janadriyah",
+    "name_ar": "الجنادرية",
+    "name_en": "Al Janadriyah",
+    "district": "شرق الرياض",
+    "total_places": 10,
+    "categories": {
+      "ترفيه": 6,
+      "فعاليات": 2,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "ishbiliyah",
+    "name_ar": "إشبيلية",
+    "name_en": "Ishbiliyah",
+    "district": "شرق الرياض",
+    "total_places": 10,
+    "categories": {
+      "حلويات": 2,
+      "ترفيه": 4,
+      "مطعم": 2,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "al-mughrizat",
+    "name_ar": "المغرزات",
+    "name_en": "Al Mughrizat",
+    "district": "وسط الرياض",
+    "total_places": 10,
+    "categories": {
+      "كافيه": 4,
+      "حلويات": 2,
+      "طبيعة": 2,
+      "مطعم": 2
+    }
+  },
+  {
+    "id": "irqah",
+    "name_ar": "عرقة",
+    "name_en": "Irqah",
+    "district": "غرب الرياض",
+    "total_places": 10,
+    "categories": {
+      "ترفيه": 2,
+      "مطعم": 4,
+      "طبيعة": 4
+    }
+  },
+  {
+    "id": "ar-rawabi",
+    "name_ar": "الروابي",
+    "name_en": "Ar Rawabi",
+    "district": "شرق الرياض",
+    "total_places": 10,
+    "categories": {
+      "كافيه": 2,
+      "ترفيه": 2,
+      "طبيعة": 4,
+      "مطعم": 2
+    }
+  },
+  {
+    "id": "al-mansurah",
+    "name_ar": "المنصورة",
+    "name_en": "Al Mansurah",
+    "district": "وسط الرياض",
+    "total_places": 10,
+    "categories": {
+      "كافيه": 4,
+      "مطعم": 4,
+      "تسوق": 2
+    }
+  },
+  {
+    "id": "an-nada",
+    "name_ar": "الندى",
+    "name_en": "An Nada",
+    "district": "شمال الرياض",
+    "total_places": 8,
+    "categories": {
+      "كافيه": 6,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "al-yarmuk",
+    "name_ar": "اليرموك",
+    "name_en": "Al Yarmuk",
+    "district": "شرق الرياض",
+    "total_places": 8,
+    "categories": {
+      "كافيه": 2,
+      "مطعم": 4,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "king-faisal",
+    "name_ar": "الملك فيصل",
+    "name_en": "King Faisal",
+    "district": "شرق الرياض",
+    "total_places": 8,
+    "categories": {
+      "كافيه": 2,
+      "مطعم": 4,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "an-nahdah",
+    "name_ar": "النهضة",
+    "name_en": "An Nahdah",
+    "district": "شرق الرياض",
+    "total_places": 8,
+    "categories": {
+      "ترفيه": 2,
+      "تسوق": 2,
+      "طبيعة": 2,
+      "كافيه": 2
+    }
+  },
+  {
+    "id": "an-nuzhah",
+    "name_ar": "النزهة",
+    "name_en": "An Nuzhah",
+    "district": "وسط الرياض",
+    "total_places": 8,
+    "categories": {
+      "حلويات": 2,
+      "طبيعة": 2,
+      "مطعم": 4
+    }
+  },
+  {
+    "id": "dhahrat-laban",
+    "name_ar": "ظهرة لبن",
+    "name_en": "Dhahrat Laban",
+    "district": "غرب الرياض",
+    "total_places": 8,
+    "categories": {
+      "حلويات": 2,
+      "ترفيه": 2,
+      "مطعم": 4
+    }
+  },
+  {
+    "id": "namar",
+    "name_ar": "نمار",
+    "name_en": "Namar",
+    "district": "جنوب غرب الرياض",
+    "total_places": 8,
+    "categories": {
+      "شاليه": 4,
+      "طبيعة": 4
+    }
+  },
+  {
+    "id": "ash-shifa",
+    "name_ar": "الشفاء",
+    "name_en": "Ash Shifa",
+    "district": "جنوب الرياض",
+    "total_places": 8,
+    "categories": {
+      "حلويات": 2,
+      "طبيعة": 2,
+      "مطعم": 4
+    }
+  },
+  {
+    "id": "as-sali",
+    "name_ar": "السلي",
+    "name_en": "As Sali",
+    "district": "جنوب شرق الرياض",
+    "total_places": 8,
+    "categories": {
+      "مطعم": 2,
+      "طبيعة": 2,
+      "تسوق": 2,
+      "مولات": 2
+    }
+  },
+  {
+    "id": "al-khalidiyah",
+    "name_ar": "الخالدية",
+    "name_en": "Al Khalidiyah",
+    "district": "وسط الرياض",
+    "total_places": 8,
+    "categories": {
+      "حلويات": 2,
+      "مطعم": 4,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "banban",
+    "name_ar": "بنبان",
+    "name_en": "Banban",
+    "district": "شمال الرياض",
+    "total_places": 6,
+    "categories": {
+      "فعاليات": 6
+    }
+  },
+  {
+    "id": "king-salman",
+    "name_ar": "الملك سلمان",
+    "name_en": "King Salman",
+    "district": "شمال الرياض",
+    "total_places": 6,
+    "categories": {
+      "كافيه": 4,
+      "ترفيه": 2
+    }
+  },
+  {
+    "id": "al-andalus",
+    "name_ar": "الأندلس",
+    "name_en": "Al Andalus",
+    "district": "شرق الرياض",
+    "total_places": 6,
+    "categories": {
+      "مطعم": 4,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "king-fahd",
+    "name_ar": "الملك فهد",
+    "name_en": "King Fahd",
+    "district": "وسط الرياض",
+    "total_places": 6,
+    "categories": {
+      "حلويات": 2,
+      "مطعم": 2,
+      "تسوق": 2
+    }
+  },
+  {
+    "id": "al-urubah",
+    "name_ar": "العروبة",
+    "name_en": "Al Urubah",
+    "district": "وسط الرياض",
+    "total_places": 6,
+    "categories": {
+      "ترفيه": 2,
+      "طبيعة": 2,
+      "مولات": 2
+    }
+  },
+  {
+    "id": "an-naseem-west",
+    "name_ar": "النسيم الغربي",
+    "name_en": "An Naseem West",
+    "district": "شرق الرياض",
+    "total_places": 6,
+    "categories": {
+      "مطعم": 2,
+      "تسوق": 2,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "al-manar",
+    "name_ar": "المنار",
+    "name_en": "Al Manar",
+    "district": "شرق الرياض",
+    "total_places": 6,
+    "categories": {
+      "كافيه": 2,
+      "حلويات": 2,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "ash-shuhada",
+    "name_ar": "الشهداء",
+    "name_en": "Ash Shuhada",
+    "district": "شرق الرياض",
+    "total_places": 6,
+    "categories": {
+      "كافيه": 2,
+      "مطعم": 2,
+      "تسوق": 2
+    }
+  },
+  {
+    "id": "badr",
+    "name_ar": "بدر",
+    "name_en": "Badr",
+    "district": "جنوب الرياض",
+    "total_places": 6,
+    "categories": {
+      "مطعم": 4,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "al-fayha",
+    "name_ar": "الفيحاء",
+    "name_en": "Al Fayha",
+    "district": "جنوب شرق الرياض",
+    "total_places": 6,
+    "categories": {
+      "مطعم": 6
+    }
+  },
+  {
+    "id": "al-oud",
+    "name_ar": "العود",
+    "name_en": "Al Oud",
+    "district": "وسط الرياض",
+    "total_places": 6,
+    "categories": {
+      "حلويات": 4,
+      "مطعم": 2
+    }
+  },
+  {
+    "id": "al-masif",
+    "name_ar": "المصيف",
+    "name_en": "Al Masif",
+    "district": "وسط الرياض",
+    "total_places": 4,
+    "categories": {
+      "مطعم": 2,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "umm-al-hamam-east",
+    "name_ar": "أم الحمام الشرقي",
+    "name_en": "Umm Al Hamam East",
+    "district": "غرب الرياض",
+    "total_places": 4,
+    "categories": {
+      "مطعم": 4
+    }
+  },
+  {
+    "id": "umm-al-hamam-west",
+    "name_ar": "أم الحمام الغربي",
+    "name_en": "Umm Al Hamam West",
+    "district": "غرب الرياض",
+    "total_places": 4,
+    "categories": {
+      "مطعم": 4
+    }
+  },
+  {
+    "id": "al-khuzama",
+    "name_ar": "الخزامى",
+    "name_en": "Al Khuzama",
+    "district": "غرب الرياض",
+    "total_places": 4,
+    "categories": {
+      "طبيعة": 2,
+      "تسوق": 2
+    }
+  },
+  {
+    "id": "dirab",
+    "name_ar": "ديراب",
+    "name_en": "Dirab",
+    "district": "جنوب غرب الرياض",
+    "total_places": 4,
+    "categories": {
+      "شاليه": 2,
+      "ترفيه": 2
+    }
+  },
+  {
+    "id": "al-hazm",
+    "name_ar": "الحزم",
+    "name_en": "Al Hazm",
+    "district": "جنوب غرب الرياض",
+    "total_places": 4,
+    "categories": {
+      "مطعم": 2,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "tuwaiq",
+    "name_ar": "طويق",
+    "name_en": "Tuwaiq",
+    "district": "غرب الرياض",
+    "total_places": 4,
+    "categories": {
+      "مطعم": 2,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "al-yamamah",
+    "name_ar": "اليمامة",
+    "name_en": "Al Yamamah",
+    "district": "وسط الرياض",
+    "total_places": 4,
+    "categories": {
+      "ترفيه": 2,
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "al-haeer",
+    "name_ar": "الحائر",
+    "name_en": "Al Haeer",
+    "district": "جنوب الرياض",
+    "total_places": 4,
+    "categories": {
+      "طبيعة": 4
+    }
+  },
+  {
+    "id": "al-reem",
+    "name_ar": "الريم",
+    "name_en": "Al Reem",
+    "district": "شمال الرياض",
+    "total_places": 2,
+    "categories": {
+      "كافيه": 2
+    }
+  },
+  {
+    "id": "al-qadisiyah",
+    "name_ar": "القادسية",
+    "name_en": "Al Qadisiyah",
+    "district": "شرق الرياض",
+    "total_places": 2,
+    "categories": {
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "al-mursalat",
+    "name_ar": "المرسلات",
+    "name_en": "Al Mursalat",
+    "district": "وسط الرياض",
+    "total_places": 2,
+    "categories": {
+      "فنادق": 2
+    }
+  },
+  {
+    "id": "ar-rayyan",
+    "name_ar": "الريان",
+    "name_en": "Ar Rayyan",
+    "district": "شرق الرياض",
+    "total_places": 2,
+    "categories": {
+      "مطعم": 2
+    }
+  },
+  {
+    "id": "an-nadwa",
+    "name_ar": "الندوة",
+    "name_en": "An Nadwa",
+    "district": "شرق الرياض",
+    "total_places": 2,
+    "categories": {
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "az-zahra",
+    "name_ar": "الزهراء",
+    "name_en": "Az Zahra",
+    "district": "وسط الرياض",
+    "total_places": 2,
+    "categories": {
+      "مطعم": 2
+    }
+  },
+  {
+    "id": "al-wizarat",
+    "name_ar": "الوزارات",
+    "name_en": "Al Wizarat",
+    "district": "وسط الرياض",
+    "total_places": 2,
+    "categories": {
+      "مطعم": 2
+    }
+  },
+  {
+    "id": "al-amal",
+    "name_ar": "العمل",
+    "name_en": "Al Amal",
+    "district": "وسط الرياض",
+    "total_places": 2,
+    "categories": {
+      "مطعم": 2
+    }
+  },
+  {
+    "id": "al-futah",
+    "name_ar": "الفوطة",
+    "name_en": "Al Futah",
+    "district": "وسط الرياض",
+    "total_places": 2,
+    "categories": {
+      "متاحف": 2
+    }
+  },
+  {
+    "id": "ar-rafiah",
+    "name_ar": "الرفيعة",
+    "name_en": "Ar Rafiah",
+    "district": "وسط الرياض",
+    "total_places": 2,
+    "categories": {
+      "كافيه": 2
+    }
+  },
+  {
+    "id": "an-nasiriyah",
+    "name_ar": "الناصرية",
+    "name_en": "An Nasiriyah",
+    "district": "وسط الرياض",
+    "total_places": 2,
+    "categories": {
+      "مولات": 2
+    }
+  },
+  {
+    "id": "al-washam",
+    "name_ar": "الوشام",
+    "name_en": "Al Washam",
+    "district": "وسط الرياض",
+    "total_places": 2,
+    "categories": {
+      "حلويات": 2
+    }
+  },
+  {
+    "id": "an-namudhajiyah",
+    "name_ar": "النموذجية",
+    "name_en": "An Namudhajiyah",
+    "district": "وسط الرياض",
+    "total_places": 2,
+    "categories": {
+      "ترفيه": 2
+    }
+  },
+  {
+    "id": "al-mutamarat",
+    "name_ar": "المؤتمرات",
+    "name_en": "Al Mutamarat",
+    "district": "وسط الرياض",
+    "total_places": 2,
+    "categories": {
+      "ترفيه": 2
+    }
+  },
+  {
+    "id": "ad-duraihimiyah",
+    "name_ar": "الدريهمية",
+    "name_en": "Ad Duraihimiyah",
+    "district": "جنوب غرب الرياض",
+    "total_places": 2,
+    "categories": {
+      "مطعم": 2
+    }
+  },
+  {
+    "id": "as-suwaidi-west",
+    "name_ar": "السويدي الغربي",
+    "name_en": "As Suwaidi West",
+    "district": "جنوب غرب الرياض",
+    "total_places": 2,
+    "categories": {
+      "ترفيه": 2
+    }
+  },
+  {
+    "id": "az-zahrah",
+    "name_ar": "الزهرة",
+    "name_en": "Az Zahrah",
+    "district": "جنوب غرب الرياض",
+    "total_places": 2,
+    "categories": {
+      "ترفيه": 2
+    }
+  },
+  {
+    "id": "dhahrat-namar",
+    "name_ar": "ظهرة نمار",
+    "name_en": "Dhahrat Namar",
+    "district": "جنوب غرب الرياض",
+    "total_places": 2,
+    "categories": {
+      "ترفيه": 2
+    }
+  },
+  {
+    "id": "laban",
+    "name_ar": "لبن",
+    "name_en": "Laban",
+    "district": "جنوب غرب الرياض",
+    "total_places": 2,
+    "categories": {
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "al-marwah",
+    "name_ar": "المروة",
+    "name_en": "Al Marwah",
+    "district": "جنوب الرياض",
+    "total_places": 2,
+    "categories": {
+      "مطعم": 2
+    }
+  },
+  {
+    "id": "al-masani",
+    "name_ar": "المصانع",
+    "name_en": "Al Masani",
+    "district": "جنوب الرياض",
+    "total_places": 2,
+    "categories": {
+      "ترفيه": 2
+    }
+  },
+  {
+    "id": "an-nur",
+    "name_ar": "النور",
+    "name_en": "An Nur",
+    "district": "جنوب شرق الرياض",
+    "total_places": 2,
+    "categories": {
+      "حلويات": 2
+    }
+  },
+  {
+    "id": "as-saadah",
+    "name_ar": "السعادة",
+    "name_en": "As Saadah",
+    "district": "جنوب شرق الرياض",
+    "total_places": 2,
+    "categories": {
+      "مطعم": 2
+    }
+  },
+  {
+    "id": "al-faysaliyah",
+    "name_ar": "الفيصلية",
+    "name_en": "Al Faysaliyah",
+    "district": "وسط الرياض",
+    "total_places": 2,
+    "categories": {
+      "مولات": 2
+    }
+  },
+  {
+    "id": "ad-dar-al-bayda",
+    "name_ar": "الدار البيضاء",
+    "name_en": "Ad Dar Al Bayda",
+    "district": "جنوب الرياض",
+    "total_places": 2,
+    "categories": {
+      "طبيعة": 2
+    }
+  },
+  {
+    "id": "al-muayzilah",
+    "name_ar": "المعيزلية",
+    "name_en": "Al Muayzilah",
+    "district": "شرق الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "king-abdulaziz",
+    "name_ar": "الملك عبد العزيز",
+    "name_en": "King Abdulaziz",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "king-abdullah",
+    "name_ar": "الملك عبد الله",
+    "name_en": "King Abdullah",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "salah-ad-din",
+    "name_ar": "صلاح الدين",
+    "name_en": "Salah Ad Din",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-izdihar",
+    "name_ar": "الإزدهار",
+    "name_en": "Al Izdihar",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-mahdiyah",
+    "name_ar": "المهدية",
+    "name_en": "Al Mahdiyah",
+    "district": "غرب الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "an-naseem-east",
+    "name_ar": "النسيم الشرقي",
+    "name_en": "An Naseem East",
+    "district": "شرق الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "jarir",
+    "name_ar": "جرير",
+    "name_en": "Jarir",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "as-safa",
+    "name_ar": "الصفا",
+    "name_en": "As Safa",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "ad-dubbat",
+    "name_ar": "الضباط",
+    "name_en": "Ad Dubbat",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-faruq",
+    "name_ar": "الفاروق",
+    "name_en": "Al Faruq",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "thulaim",
+    "name_ar": "ثليم",
+    "name_en": "Thulaim",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-hada",
+    "name_ar": "الهدا",
+    "name_en": "Al Hada",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "ash-sharqiyah",
+    "name_ar": "الشرقية",
+    "name_en": "Ash Sharqiyah",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "siyah",
+    "name_ar": "صياح",
+    "name_en": "Siyah",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "umm-saleem",
+    "name_ar": "أم سليم",
+    "name_en": "Umm Saleem",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-jaradiyah",
+    "name_ar": "الجرادية",
+    "name_en": "Al Jaradiyah",
+    "district": "غرب الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-fakhriyah",
+    "name_ar": "الفاخرية",
+    "name_en": "Al Fakhriyah",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "ulaysha",
+    "name_ar": "عليشة",
+    "name_en": "Ulaysha",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-uraija-central",
+    "name_ar": "العريجاء الوسطى",
+    "name_en": "Al Uraija Central",
+    "district": "جنوب غرب الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-uraija-west",
+    "name_ar": "العريجاء الغربية",
+    "name_en": "Al Uraija West",
+    "district": "جنوب غرب الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "shubra",
+    "name_ar": "شبرا",
+    "name_en": "Shubra",
+    "district": "جنوب غرب الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "dhahrat-al-badiah",
+    "name_ar": "ظهرة البديعة",
+    "name_en": "Dhahrat Al Badiah",
+    "district": "جنوب غرب الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "sultanah",
+    "name_ar": "سلطانة",
+    "name_en": "Sultanah",
+    "district": "جنوب غرب الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "uhud",
+    "name_ar": "أحد",
+    "name_en": "Uhud",
+    "district": "جنوب الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "ukaz",
+    "name_ar": "عكاظ",
+    "name_en": "Ukaz",
+    "district": "جنوب الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-mansuriyah",
+    "name_ar": "المنصورية",
+    "name_en": "Al Mansuriyah",
+    "district": "جنوب الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "arid",
+    "name_ar": "عريض",
+    "name_en": "Arid",
+    "district": "جنوب الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-amajiyah",
+    "name_ar": "العماجية",
+    "name_en": "Al Amajiyah",
+    "district": "جنوب الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "khashm-al-an",
+    "name_ar": "خشم العان",
+    "name_en": "Khashm Al An",
+    "district": "جنوب شرق الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "ad-difa",
+    "name_ar": "الدفاع",
+    "name_en": "Ad Difa",
+    "district": "جنوب شرق الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-manakh",
+    "name_ar": "المناخ",
+    "name_en": "Al Manakh",
+    "district": "جنوب شرق الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-iskan",
+    "name_ar": "الإسكان",
+    "name_en": "Al Iskan",
+    "district": "جنوب شرق الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "new-industrial",
+    "name_ar": "الصناعية الجديدة",
+    "name_en": "New Industrial",
+    "district": "جنوب شرق الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-jazirah",
+    "name_ar": "الجزيرة",
+    "name_en": "Al Jazirah",
+    "district": "جنوب شرق الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "hit",
+    "name_ar": "هيت",
+    "name_en": "Hit",
+    "district": "جنوب شرق الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-bariyah",
+    "name_ar": "البرية",
+    "name_en": "Al Bariyah",
+    "district": "جنوب شرق الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-mashael",
+    "name_ar": "المشاعل",
+    "name_en": "Al Mashael",
+    "district": "جنوب شرق الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "ad-dubiyah",
+    "name_ar": "الدوبية",
+    "name_en": "Ad Dubiyah",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-qura",
+    "name_ar": "القرى",
+    "name_en": "Al Qura",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "as-sinaiyah",
+    "name_ar": "الصناعية",
+    "name_en": "As Sinaiyah",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-wusayta",
+    "name_ar": "الوسيطاء",
+    "name_en": "Al Wusayta",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "maakal",
+    "name_ar": "معكال",
+    "name_en": "Maakal",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "manfuhah",
+    "name_ar": "منفوحة",
+    "name_en": "Manfuhah",
+    "district": "جنوب الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "salam",
+    "name_ar": "سلام",
+    "name_en": "Salam",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "jabrah",
+    "name_ar": "جبرة",
+    "name_en": "Jabrah",
+    "district": "جنوب الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "utayqah",
+    "name_ar": "عتيقة",
+    "name_en": "Utayqah",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "ghubayra",
+    "name_ar": "غبيراء",
+    "name_en": "Ghubayra",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-batiha",
+    "name_ar": "البطيحا",
+    "name_en": "Al Batiha",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-murqab",
+    "name_ar": "المرقب",
+    "name_en": "Al Murqab",
+    "district": "وسط الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "new-manfuhah",
+    "name_ar": "منفوحة الجديدة",
+    "name_en": "New Manfuhah",
+    "district": "جنوب الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "taybah",
+    "name_ar": "طيبة",
+    "name_en": "Taybah",
+    "district": "جنوب الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-musfah",
+    "name_ar": "المصفاة",
+    "name_en": "Al Musfah",
+    "district": "جنوب الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-ghunamiyah",
+    "name_ar": "الغنامية",
+    "name_en": "Al Ghunamiyah",
+    "district": "جنوب الرياض",
+    "total_places": 0,
+    "categories": {}
+  },
+  {
+    "id": "al-bujairi",
+    "name_ar": "البجيري",
+    "name_en": "Al Bujairi",
+    "district": "شمال غرب الرياض",
+    "total_places": 0,
+    "categories": {}
+  }
+]

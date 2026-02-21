@@ -9,6 +9,7 @@
   <meta name="keywords" content="عطور الرياض, مقارنة أسعار العطور, بدائل العطور, كريد أفينتوس, العربية للعود, قولدن سنت, سيفورا">
   <link rel="canonical" href="https://treklaps.github.io/riyadh-places/perfume.html">
   <meta property="og:title" content="🧴 مقارنة العطور في الرياض — أسعار، بدائل، محلات">
+  <meta name="twitter:card" content="summary_large_image">
   <meta property="og:description" content="قارن أسعار 100 عطر عبر 10+ متاجر مع البدائل الأرخص">
   <meta property="og:url" content="https://treklaps.github.io/riyadh-places/perfume.html">
   <meta property="og:locale" content="ar_SA">
@@ -408,5 +409,10 @@ document.getElementById('shopSearch').addEventListener('input', renderShops);
 
 loadData();
 </script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/riyadh-places/sw.js').catch(() => {});
+    }
+  </script>
 </body>
 </html>

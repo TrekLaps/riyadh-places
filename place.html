@@ -801,7 +801,7 @@
         } catch(e) {}
 
       } catch (error) {
-        console.error('Error loading place:', error);
+        // error handled silently
         document.getElementById('place-loading').style.display = 'none';
         document.getElementById('place-not-found').style.display = '';
       }

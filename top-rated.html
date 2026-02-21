@@ -9,6 +9,7 @@
   <meta name="keywords" content="أعلى تقييم الرياض, أفضل تقييم, مطاعم ممتازة, كافيهات ممتازة">
   <link rel="canonical" href="https://treklaps.github.io/riyadh-places/top-rated.html">
   <meta property="og:title" content="⭐ الأعلى تقييماً في الرياض — أماكن بتقييم ٤.٥+">
+  <meta name="twitter:card" content="summary_large_image">
   <meta property="og:description" content="الأماكن الأعلى تقييماً في الرياض حسب تقييمات Google الحقيقية">
   <meta property="og:url" content="https://treklaps.github.io/riyadh-places/top-rated.html">
   <meta property="og:locale" content="ar_SA">
@@ -302,5 +303,10 @@ document.querySelectorAll('.rating-btn').forEach(btn => {
 
 loadData();
 </script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/riyadh-places/sw.js').catch(() => {});
+    }
+  </script>
 </body>
 </html>

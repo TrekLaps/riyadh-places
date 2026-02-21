@@ -9,6 +9,7 @@
   <meta name="keywords" content="مقارنة أسعار التوصيل, هنقرستيشن, جاهز, تويو, كاريدج, ذا شفز, كيتا, نينجا, مرسول, توصيل مطاعم الرياض, أرخص تطبيق توصيل">
   <link rel="canonical" href="https://treklaps.github.io/riyadh-places/delivery-compare.html">
   <meta property="og:title" content="🛵 قارن أسعار التوصيل — وين نروح بالرياض؟">
+  <meta name="twitter:card" content="summary_large_image">
   <meta property="og:description" content="قارن أسعار نفس المطعم عبر 8 تطبيقات توصيل — وفّر على كل طلب">
   <meta property="og:url" content="https://treklaps.github.io/riyadh-places/delivery-compare.html">
   <meta property="og:locale" content="ar_SA">
@@ -260,7 +261,7 @@ async function loadData() {
     buildUI();
   } catch(e) {
     document.getElementById('loading').innerHTML = '❌ خطأ في تحميل البيانات: ' + e.message;
-    console.error(e);
+    // error handled silently
   }
 }
 
@@ -435,5 +436,10 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape') closeDetail(
 
 loadData();
 </script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/riyadh-places/sw.js').catch(() => {});
+    }
+  </script>
 </body>
 </html>

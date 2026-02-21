@@ -1,0 +1,1234 @@
+[
+  {
+    "name_ar": "الرياض",
+    "name_en": "Riyadh",
+    "lat": 15.579633,
+    "lon": 32.567664,
+    "osm_id": 995288255,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "حي الرياض",
+    "name_en": "Hay Erriadh",
+    "lat": 36.8351488,
+    "lon": 9.9832848,
+    "osm_id": 8027679311,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "Bouimmin",
+    "name_en": "",
+    "lat": 33.7998813,
+    "lon": 10.8767188,
+    "osm_id": 12345176897,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "Fal Compound",
+    "name_en": "",
+    "lat": 24.8121798,
+    "lon": 46.7158005,
+    "osm_id": 337178985,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "المحمدية",
+    "name_en": "Al Muhammadiyah",
+    "lat": 24.732577,
+    "lon": 46.650252,
+    "osm_id": 747671416,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "العود",
+    "name_en": "Al `Ud",
+    "lat": 24.627476,
+    "lon": 46.726718,
+    "osm_id": 1236400125,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "عكاظ",
+    "name_en": "`Ukaz",
+    "lat": 24.511911,
+    "lon": 46.664939,
+    "osm_id": 1236690657,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الوادي",
+    "name_en": "Al Wadi",
+    "lat": 24.789444,
+    "lon": 46.691389,
+    "osm_id": 1236703343,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الفلاح",
+    "name_en": "Al Falah",
+    "lat": 24.7963454,
+    "lon": 46.708768,
+    "osm_id": 1236703352,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "غرناطة",
+    "name_en": "Ghirnatah",
+    "lat": 24.7911735,
+    "lon": 46.7436679,
+    "osm_id": 1236703363,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الربيع",
+    "name_en": "Ar Rabi`",
+    "lat": 24.7980073,
+    "lon": 46.6647994,
+    "osm_id": 1236703366,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "المعيزيلة",
+    "name_en": "Al Muayzilah",
+    "lat": 24.7851236,
+    "lon": 46.8449651,
+    "osm_id": 1236703369,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "البطين",
+    "name_en": "Al Butayn",
+    "lat": 24.852222,
+    "lon": 46.809722,
+    "osm_id": 1236703388,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الجنادرية",
+    "name_en": "Al Janadiriyah",
+    "lat": 24.819167,
+    "lon": 46.852778,
+    "osm_id": 1236703396,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الياسمين",
+    "name_en": "Al Yasamin",
+    "lat": 24.816944,
+    "lon": 46.636111,
+    "osm_id": 1236703400,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الندى",
+    "name_en": "An Nada",
+    "lat": 24.8059182,
+    "lon": 46.6825931,
+    "osm_id": 1236703405,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "النظيم",
+    "name_en": "An Nazim",
+    "lat": 24.800113,
+    "lon": 46.896043,
+    "osm_id": 1236703406,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "قرطبة",
+    "name_en": "Qurtubah",
+    "lat": 24.8131751,
+    "lon": 46.732886,
+    "osm_id": 1236703407,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الوصيل",
+    "name_en": "Al Wusayl",
+    "lat": 24.813396,
+    "lon": 46.519151,
+    "osm_id": 1236703418,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "القادسية",
+    "name_en": "Al Qadisiyah",
+    "lat": 24.818226,
+    "lon": 46.827841,
+    "osm_id": 1236703430,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "النرجس",
+    "name_en": "An Narjis",
+    "lat": 24.8341056,
+    "lon": 46.6802189,
+    "osm_id": 1236703433,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الملز",
+    "name_en": "Al Malazz",
+    "lat": 24.656111,
+    "lon": 46.7275,
+    "osm_id": 1236703619,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "المرقب",
+    "name_en": "Al Marqab",
+    "lat": 24.6359185,
+    "lon": 46.7239222,
+    "osm_id": 1236703620,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "لبن",
+    "name_en": "Hijrat Laban",
+    "lat": 24.636784,
+    "lon": 46.5966777,
+    "osm_id": 1236703621,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "شبرا",
+    "name_en": "Shubra",
+    "lat": 24.5748511,
+    "lon": 46.6670703,
+    "osm_id": 1236703622,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "المصانع",
+    "name_en": "Al Masani`",
+    "lat": 24.578889,
+    "lon": 46.73,
+    "osm_id": 1236703623,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الشرفية",
+    "name_en": "Ash Sharafiyah",
+    "lat": 24.658856,
+    "lon": 46.669016,
+    "osm_id": 1236703624,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الوشام",
+    "name_en": "Al Wisham",
+    "lat": 24.6415115,
+    "lon": 46.6980326,
+    "osm_id": 1236703628,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "ظهرة البديعة",
+    "name_en": "Zahrat al Badi`ah",
+    "lat": 24.5970117,
+    "lon": 46.6485073,
+    "osm_id": 1236703632,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "ام سليم",
+    "name_en": "Umm Salim",
+    "lat": 24.633846,
+    "lon": 46.698356,
+    "osm_id": 1236703633,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الديرة",
+    "name_en": "Ad Dirah",
+    "lat": 24.6322924,
+    "lon": 46.7108023,
+    "osm_id": 1236703634,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "سلطانة",
+    "name_en": "Sultanah",
+    "lat": 24.60321,
+    "lon": 46.6884421,
+    "osm_id": 1236703635,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الهدا",
+    "name_en": "Al Hada",
+    "lat": 24.6593287,
+    "lon": 46.6331956,
+    "osm_id": 1236703636,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "ثليم",
+    "name_en": "Thulaym",
+    "lat": 24.641002,
+    "lon": 46.727729,
+    "osm_id": 1236703638,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الشفا",
+    "name_en": "Ash Shifa",
+    "lat": 24.5631207,
+    "lon": 46.6966613,
+    "osm_id": 1236703640,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "اليمامة",
+    "name_en": "Al Yamamah",
+    "lat": 24.5939624,
+    "lon": 46.716113,
+    "osm_id": 1236703643,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "السويدي الغربي",
+    "name_en": "As Suwaydi al Gharbi",
+    "lat": 24.569722,
+    "lon": 46.629722,
+    "osm_id": 1236703644,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الظهرة",
+    "name_en": "Al Zahrah",
+    "lat": 24.5754506,
+    "lon": 46.6455345,
+    "osm_id": 1236703645,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "العمل",
+    "name_en": "Al `Amal",
+    "lat": 24.645917,
+    "lon": 46.722574,
+    "osm_id": 1236703646,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الشميسي",
+    "name_en": "Ash Shumaysi",
+    "lat": 24.6238459,
+    "lon": 46.700037,
+    "osm_id": 1236703647,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الحزم",
+    "name_en": "Al Hazm",
+    "lat": 24.547349,
+    "lon": 46.653572,
+    "osm_id": 1236703649,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "منفوحة",
+    "name_en": "Manfuhah",
+    "lat": 24.595833,
+    "lon": 46.727778,
+    "osm_id": 1236703650,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "جبرة",
+    "name_en": "Jabrah",
+    "lat": 24.6246709,
+    "lon": 46.7181025,
+    "osm_id": 1236703651,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الرفيعة",
+    "name_en": "Ar Rafi`ah",
+    "lat": 24.639853,
+    "lon": 46.661634,
+    "osm_id": 1236703652,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "عتيقة",
+    "name_en": "`Utayqah",
+    "lat": 24.5966928,
+    "lon": 46.708424,
+    "osm_id": 1236703653,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الفاخرية",
+    "name_en": "Al Fakhiriyah",
+    "lat": 24.6423544,
+    "lon": 46.6825981,
+    "osm_id": 1236703654,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الفوطة",
+    "name_en": "Al Futah",
+    "lat": 24.641692,
+    "lon": 46.710533,
+    "osm_id": 1236703655,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "العريجاء الوسطى",
+    "name_en": "Al `Urayja' al Wusta",
+    "lat": 24.6051442,
+    "lon": 46.636753,
+    "osm_id": 1236703656,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "عليشة",
+    "name_en": "`Ulayshah",
+    "lat": 24.630833,
+    "lon": 46.684167,
+    "osm_id": 1236703657,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "البديعة",
+    "name_en": "Al Badi`ah",
+    "lat": 24.6156185,
+    "lon": 46.6815077,
+    "osm_id": 1236703658,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "السويدي",
+    "name_en": "As Suwaydi",
+    "lat": 24.5911526,
+    "lon": 46.6729634,
+    "osm_id": 1236703662,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "المروة",
+    "name_en": "Al Marwah",
+    "lat": 24.5386858,
+    "lon": 46.6741132,
+    "osm_id": 1236703663,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "منفوحة الجديدة",
+    "name_en": "Manfuhah al Jadidah",
+    "lat": 24.6120445,
+    "lon": 46.720332,
+    "osm_id": 1236703664,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "بدر",
+    "name_en": "Badr",
+    "lat": 24.528654,
+    "lon": 46.727768,
+    "osm_id": 1236703665,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "طويق",
+    "name_en": "Tuwayq",
+    "lat": 24.5663876,
+    "lon": 46.5307221,
+    "osm_id": 1236703666,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "صياح",
+    "name_en": "Siyah",
+    "lat": 24.6073147,
+    "lon": 46.7021713,
+    "osm_id": 1236703667,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "العريجاء الغربية",
+    "name_en": "Al `Urayja' al Gharbiyah",
+    "lat": 24.596321,
+    "lon": 46.600241,
+    "osm_id": 1236703671,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الجرادية",
+    "name_en": "Al Jarradiyah",
+    "lat": 24.6154945,
+    "lon": 46.699079,
+    "osm_id": 1236703676,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "النموذجية",
+    "name_en": "An Namudhajiyah",
+    "lat": 24.6566107,
+    "lon": 46.6946578,
+    "osm_id": 1236703677,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "ظهرة لبن",
+    "name_en": "Dhahrat Laban",
+    "lat": 24.632895,
+    "lon": 46.5530667,
+    "osm_id": 1236703678,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الناصرية",
+    "name_en": "An Nasiriyah",
+    "lat": 24.6474348,
+    "lon": 46.6788428,
+    "osm_id": 1236703679,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "خشم العان",
+    "name_en": "Khashm al `An",
+    "lat": 24.681111,
+    "lon": 46.868333,
+    "osm_id": 1236703696,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "أم الحمام",
+    "name_en": "Umm al Hamam",
+    "lat": 24.69345,
+    "lon": 46.6461217,
+    "osm_id": 1236703702,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "حي السفارات",
+    "name_en": "Hayy as Sifarat (Embassy Quarter)",
+    "lat": 24.6806361,
+    "lon": 46.6239656,
+    "osm_id": 1236703707,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "السلامة",
+    "name_en": "As Salamah",
+    "lat": 24.681389,
+    "lon": 46.704167,
+    "osm_id": 1236703712,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الأندلس",
+    "name_en": "Al Andalus",
+    "lat": 24.7445559,
+    "lon": 46.7827182,
+    "osm_id": 1236703716,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "جرير",
+    "name_en": "Jarir",
+    "lat": 24.6784279,
+    "lon": 46.7509758,
+    "osm_id": 1236703717,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "النسيم الشرقي",
+    "name_en": "An Nasim ash Sharqi",
+    "lat": 24.737778,
+    "lon": 46.840556,
+    "osm_id": 1236703719,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الربوة",
+    "name_en": "Ar Rabwah",
+    "lat": 24.6934413,
+    "lon": 46.7589176,
+    "osm_id": 1236703720,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الفيحاء",
+    "name_en": "Al Fayha'",
+    "lat": 24.683333,
+    "lon": 46.804444,
+    "osm_id": 1236703721,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "العليا",
+    "name_en": "Al `Ulayya",
+    "lat": 24.693086,
+    "lon": 46.684508,
+    "osm_id": 1236703726,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الصناعية",
+    "name_en": "As Sina`iyah",
+    "lat": 24.6419263,
+    "lon": 46.7491819,
+    "osm_id": 1236703728,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الملك فهد",
+    "name_en": "Al Malik Fahd",
+    "lat": 24.741389,
+    "lon": 46.6725,
+    "osm_id": 1236703733,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الزهراء",
+    "name_en": "Az Zahra'",
+    "lat": 24.686325,
+    "lon": 46.730259,
+    "osm_id": 1236703753,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "عرقة",
+    "name_en": "`Irqah",
+    "lat": 24.684146,
+    "lon": 46.5826115,
+    "osm_id": 1236703756,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "حي النخيل",
+    "name_en": "An Nakhil",
+    "lat": 24.7424046,
+    "lon": 46.6147681,
+    "osm_id": 1236703764,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "حي الجزيرة",
+    "name_en": "Al Jazirah",
+    "lat": 24.6654718,
+    "lon": 46.7948753,
+    "osm_id": 1236703785,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "المربع",
+    "name_en": "Al Murabba`",
+    "lat": 24.659914,
+    "lon": 46.7097712,
+    "osm_id": 1236703800,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الصفا",
+    "name_en": "As Safa",
+    "lat": 24.6725,
+    "lon": 46.772778,
+    "osm_id": 1236703810,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "السليمانية",
+    "name_en": "As Sulaymaniyah",
+    "lat": 24.7087637,
+    "lon": 46.6944601,
+    "osm_id": 1236703821,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "المروج",
+    "name_en": "Al Muruj",
+    "lat": 24.7577618,
+    "lon": 46.6636732,
+    "osm_id": 1236703829,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "النزهة",
+    "name_en": "An Nuzhah",
+    "lat": 24.756944,
+    "lon": 46.7075,
+    "osm_id": 1236703833,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الفيصلية",
+    "name_en": "Al Faysaliyah",
+    "lat": 24.6325,
+    "lon": 46.7725,
+    "osm_id": 1236703837,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الوزارات",
+    "name_en": "Al Wizarat",
+    "lat": 24.676944,
+    "lon": 46.7134976,
+    "osm_id": 1236703839,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "حي النور",
+    "name_en": "An Nur",
+    "lat": 24.6314912,
+    "lon": 46.8150423,
+    "osm_id": 1236703840,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "العزيزية",
+    "name_en": "Al `Aziziyah",
+    "lat": 24.587662,
+    "lon": 46.770124,
+    "osm_id": 1236703842,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "حي حطين",
+    "name_en": "Hittin",
+    "lat": 24.753889,
+    "lon": 46.600833,
+    "osm_id": 1236703843,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "مغرزات",
+    "name_en": "Mugharrzat",
+    "lat": 24.763611,
+    "lon": 46.725833,
+    "osm_id": 1236703846,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الروابي",
+    "name_en": "Ar Rawabi",
+    "lat": 24.6970363,
+    "lon": 46.7900701,
+    "osm_id": 1236703847,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الرماية",
+    "name_en": "Ar Rimayah",
+    "lat": 24.769417,
+    "lon": 46.873868,
+    "osm_id": 1236703848,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الرحمانية",
+    "name_en": "Ar Rahmaniyah",
+    "lat": 24.7169568,
+    "lon": 46.6589868,
+    "osm_id": 1236703850,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "النهضة",
+    "name_en": "An Nahdah",
+    "lat": 24.760833,
+    "lon": 46.806111,
+    "osm_id": 1236703852,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "النسيم",
+    "name_en": "An Nasim",
+    "lat": 24.718889,
+    "lon": 46.825556,
+    "osm_id": 1236703855,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الخالدية",
+    "name_en": "Al Khalidiyah",
+    "lat": 24.6245668,
+    "lon": 46.7558632,
+    "osm_id": 1236703857,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الخزامى",
+    "name_en": "Al Khuzama",
+    "lat": 24.717895,
+    "lon": 46.5905667,
+    "osm_id": 1236703858,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الصالحية",
+    "name_en": "As Salihiyah",
+    "lat": 24.634054,
+    "lon": 46.7342204,
+    "osm_id": 1236703867,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الروضة",
+    "name_en": "Ar Rawdah",
+    "lat": 24.734064,
+    "lon": 46.767193,
+    "osm_id": 1236703869,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "النسيم الغربي",
+    "name_en": "An Nasim al Gharbi",
+    "lat": 24.7279145,
+    "lon": 46.8233278,
+    "osm_id": 1236703870,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الغدير",
+    "name_en": "Al Ghadir",
+    "lat": 24.774167,
+    "lon": 46.655556,
+    "osm_id": 1236703872,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "المنصورة",
+    "name_en": "Al Mansurah",
+    "lat": 24.6089463,
+    "lon": 46.7451181,
+    "osm_id": 1236703875,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الفاروق",
+    "name_en": "Al Faruq",
+    "lat": 24.649444,
+    "lon": 46.778611,
+    "osm_id": 1236703881,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الجزعة",
+    "name_en": "Al Jazah",
+    "lat": 24.566667,
+    "lon": 46.7500079,
+    "osm_id": 1236703888,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "المناخ",
+    "name_en": "Al Manakh",
+    "lat": 24.608474,
+    "lon": 46.8031,
+    "osm_id": 1236703911,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الدار البيضاء",
+    "name_en": "Ad Dar al Bayda'",
+    "lat": 24.5646957,
+    "lon": 46.7883293,
+    "osm_id": 1236703920,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "النفل",
+    "name_en": "An Nafal",
+    "lat": 24.781944,
+    "lon": 46.673056,
+    "osm_id": 1236703933,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الورود",
+    "name_en": "Al Wurud",
+    "lat": 24.7243761,
+    "lon": 46.6784721,
+    "osm_id": 1236703934,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "طريفة",
+    "name_en": "Turayfah",
+    "lat": 24.7334499,
+    "lon": 46.5666777,
+    "osm_id": 1236703951,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "صلاح الدين",
+    "name_en": "Salah ad Din",
+    "lat": 24.7321595,
+    "lon": 46.6986388,
+    "osm_id": 1236703963,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "المصيف",
+    "name_en": "Al Masif",
+    "lat": 24.7655143,
+    "lon": 46.6801977,
+    "osm_id": 2527570589,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "ظهرة نمار",
+    "name_en": "Dhrat Nemar",
+    "lat": 24.5546146,
+    "lon": 46.6149892,
+    "osm_id": 3385853262,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "ضاحية نمار",
+    "name_en": "Dahiyat Namar",
+    "lat": 24.5015565,
+    "lon": 46.5334724,
+    "osm_id": 3386009706,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الإزدهار",
+    "name_en": "Al Izdihar",
+    "lat": 24.7803317,
+    "lon": 46.7175328,
+    "osm_id": 3777621558,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "حي اليرموك",
+    "name_en": "Al Yarmouk District",
+    "lat": 24.8077213,
+    "lon": 46.7820555,
+    "osm_id": 3856672158,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الحمراء",
+    "name_en": "Al Hamra'",
+    "lat": 24.7761692,
+    "lon": 46.7526513,
+    "osm_id": 4590661166,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الملك فيصل",
+    "name_en": "Al Malik Faysal",
+    "lat": 24.7621994,
+    "lon": 46.7749887,
+    "osm_id": 4590661167,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "القدس",
+    "name_en": "Al Quds",
+    "lat": 24.7549704,
+    "lon": 46.7539817,
+    "osm_id": 4590661168,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الواحة",
+    "name_en": "Al Wahah",
+    "lat": 24.7410918,
+    "lon": 46.7166913,
+    "osm_id": 6001451186,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الدحو",
+    "name_en": "Ad Dahu",
+    "lat": 24.629668,
+    "lon": 46.714299,
+    "osm_id": 6775952792,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "المونسية",
+    "name_en": "Al Muwanisiyah",
+    "lat": 24.8312357,
+    "lon": 46.7683187,
+    "osm_id": 7394374539,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الخليج",
+    "name_en": "Al Khalij",
+    "lat": 24.776767,
+    "lon": 46.803484,
+    "osm_id": 7417333144,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "حي العوالي",
+    "name_en": "Al-Awali District",
+    "lat": 24.5604,
+    "lon": 46.5866,
+    "osm_id": 7604408782,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "المهدية",
+    "name_en": "Al Mahdiyah",
+    "lat": 24.647625,
+    "lon": 46.5028305,
+    "osm_id": 7604421357,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "حي الغروب",
+    "name_en": "Sunset district",
+    "lat": 24.55,
+    "lon": 46.5059,
+    "osm_id": 7604523256,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "مرسية 2",
+    "name_en": "Murcia 2",
+    "lat": 24.9267549,
+    "lon": 46.6432521,
+    "osm_id": 9493021846,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "العوالي",
+    "name_en": "Al `Awali",
+    "lat": 24.5595808,
+    "lon": 46.566523,
+    "osm_id": 11870002843,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "الوسام",
+    "name_en": "Al Wisam",
+    "lat": 24.90639,
+    "lon": 46.895777,
+    "osm_id": 11870048313,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "المصفاة",
+    "name_en": "Al Misfah",
+    "lat": 24.52367,
+    "lon": 46.87056,
+    "osm_id": 11870048606,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "العارض",
+    "name_en": "Al `Arid",
+    "lat": 24.89353,
+    "lon": 46.6060273,
+    "osm_id": 11870220235,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "الرمال",
+    "name_en": "Ar Rimal",
+    "lat": 24.967582,
+    "lon": 46.764047,
+    "osm_id": 11870275494,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "المشاعل",
+    "name_en": "Al Masha`il",
+    "lat": 24.615121,
+    "lon": 46.8509023,
+    "osm_id": 11870275678,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "غبيراء",
+    "name_en": "Ghubayra",
+    "lat": 24.622266,
+    "lon": 46.7389585,
+    "osm_id": 11870738324,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "المرجان",
+    "name_en": "Al Murjan",
+    "lat": 24.926577,
+    "lon": 46.8720274,
+    "osm_id": 11870939758,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "حي الفيصلية",
+    "name_en": "HayyalFaysaliyah",
+    "lat": 24.7453579,
+    "lon": 46.5812466,
+    "osm_id": 11871306993,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "الريان",
+    "name_en": "Ar Rayyan",
+    "lat": 24.7124098,
+    "lon": 46.7788444,
+    "osm_id": 11871307073,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "البرية",
+    "name_en": "Al Barriyah",
+    "lat": 24.5765066,
+    "lon": 46.9056407,
+    "osm_id": 11871307177,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "الموتمرات",
+    "name_en": "Al Mu'tamarat",
+    "lat": 24.670602,
+    "lon": 46.6869272,
+    "osm_id": 11871307235,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "السلي",
+    "name_en": "As Sulayy",
+    "lat": 24.6598572,
+    "lon": 46.8349403,
+    "osm_id": 11871539773,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "السحاب",
+    "name_en": "As Sahab",
+    "lat": 24.9291176,
+    "lon": 46.9450474,
+    "osm_id": 11871652533,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "المدينة الصناعية الثانية",
+    "name_en": "Al Madinah as Sina`iyah ath Thaniyah",
+    "lat": 24.5493179,
+    "lon": 46.8918308,
+    "osm_id": 11871768384,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "العقيق",
+    "name_en": "Al Aqiq",
+    "lat": 24.7740343,
+    "lon": 46.6309442,
+    "osm_id": 11904081698,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "المنار",
+    "name_en": "Al Manar",
+    "lat": 24.7250989,
+    "lon": 46.7975701,
+    "osm_id": 53447620,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "اسكان الرياض",
+    "name_en": "Riyadh housing",
+    "lat": 24.9692796,
+    "lon": 46.6197605,
+    "osm_id": 329203398,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "حي الإسكان",
+    "name_en": "Askan 1",
+    "lat": 24.5195501,
+    "lon": 46.7345983,
+    "osm_id": 332014310,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "البجيري",
+    "name_en": "Albujairi",
+    "lat": 24.7359848,
+    "lon": 46.5753721,
+    "osm_id": 332170438,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "حي الملك فيصل",
+    "name_en": "King Faisal District",
+    "lat": 24.7616872,
+    "lon": 46.7746681,
+    "osm_id": 636444372,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "Ad Diriyah Al Jadida",
+    "name_en": "",
+    "lat": 24.748754,
+    "lon": 46.5308796,
+    "osm_id": 1064125541,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "At Turayf Al Jadid",
+    "name_en": "",
+    "lat": 24.744713,
+    "lon": 46.575436,
+    "osm_id": 1064128638,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "Square 2",
+    "name_en": "",
+    "lat": 24.7679877,
+    "lon": 46.6061111,
+    "osm_id": 1218658187,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "Square 1",
+    "name_en": "",
+    "lat": 24.7694416,
+    "lon": 46.603148,
+    "osm_id": 1218658188,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "مركز الملك عبدالله المالي",
+    "name_en": "KAFD",
+    "lat": 24.7656298,
+    "lon": 46.6405141,
+    "osm_id": 1220645868,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "ضاحية خزام",
+    "name_en": "",
+    "lat": 24.9415952,
+    "lon": 46.6434606,
+    "osm_id": 1285193878,
+    "type": "suburb"
+  },
+  {
+    "name_ar": "الدوبية",
+    "name_en": "Al-Dubiyah",
+    "lat": 24.621916,
+    "lon": 46.7121396,
+    "osm_id": 1317010967,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "القيروان",
+    "name_en": "Al Qirawan",
+    "lat": 24.8732742,
+    "lon": 46.5553599,
+    "osm_id": 1317251041,
+    "type": "neighbourhood"
+  },
+  {
+    "name_ar": "حي الفرسان",
+    "name_en": "",
+    "lat": 24.958744,
+    "lon": 46.8223697,
+    "osm_id": 1317279489,
+    "type": "neighbourhood"
+  }
+]
