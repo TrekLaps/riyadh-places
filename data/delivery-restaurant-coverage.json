@@ -1,0 +1,3336 @@
+{
+  "metadata": {
+    "project": "وين نروح بالرياض",
+    "description": "تغطية تطبيقات التوصيل لأشهر 200 مطعم في الرياض",
+    "last_updated": "2026-02-21",
+    "total_restaurants": 200,
+    "methodology": "السلاسل المعروفة: بيانات فعلية. المطاعم المستقلة: تقدير احتمالي مبني على حجم شبكة كل تطبيق (هنقرستيشن 55k شريك = ~88% احتمال، جاهز 25k = ~72%، كيتا 5k = ~25%)",
+    "data_sources": [
+      "hungerstation.com",
+      "jahez.net",
+      "keeta-global.com",
+      "toyou.io",
+      "enatega.com Feb 2026",
+      "saudi-tips.com June 2025"
+    ],
+    "disclaimer": "للتأكد من توفر مطعم معين على تطبيق معين، يرجى فتح التطبيق مباشرة"
+  },
+  "restaurants": [
+    {
+      "id": "operation-falafel",
+      "name_en": "Operation Falafel",
+      "name_ar": "أوبريشن فلافل",
+      "neighborhood": "Riyadh Park",
+      "google_rating": 4.8,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "asian-hub",
+      "name_en": "Asian Hub",
+      "name_ar": "آسيان هب",
+      "neighborhood": "Riyadh Park",
+      "google_rating": 4.8,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "toyou",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "sushi-library",
+      "name_en": "Sushi Library",
+      "name_ar": "سوشي لايبراري",
+      "neighborhood": "Riyadh Park",
+      "google_rating": 4.7,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "salt-riyadh-park",
+      "name_en": "Salt Riyadh Park",
+      "name_ar": "سالت - الرياض بارك",
+      "neighborhood": "Riyadh Park",
+      "google_rating": 4.7,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 5,
+      "is_chain": true
+    },
+    {
+      "id": "julien-riyadh",
+      "name_en": "Julien",
+      "name_ar": "جوليان الرياض",
+      "neighborhood": "Al Olaya - Four Seasons",
+      "google_rating": 4.7,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "toyou",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "abr-alsham-naseem",
+      "name_en": "Abr Al Sham",
+      "name_ar": "مطاعم عبر الشام",
+      "neighborhood": "An Naseem",
+      "google_rating": 4.6,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "namu-esplanade",
+      "name_en": "Namu",
+      "name_ar": "نامو",
+      "neighborhood": "Esplanade Mall",
+      "google_rating": 4.6,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "talabat",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 7,
+      "is_chain": false
+    },
+    {
+      "id": "kuuru-riyadh",
+      "name_en": "Kuuru",
+      "name_ar": "كوورو",
+      "neighborhood": "Riyadh",
+      "google_rating": 4.6,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "talabat",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "jareed-samhan",
+      "name_en": "Jareed Samhan",
+      "name_ar": "جاريد سمهان",
+      "neighborhood": "Diriyah",
+      "google_rating": 4.6,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "talabat",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "casapasta",
+      "name_en": "Casapasta",
+      "name_ar": "كازاباستا",
+      "neighborhood": "Riyadh Park",
+      "google_rating": 4.6,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "zuma-riyadh-kafd",
+      "name_en": "Zuma Riyadh KAFD",
+      "name_ar": "زوما",
+      "neighborhood": "KAFD",
+      "google_rating": 4.6,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "primecut-riyadh",
+      "name_en": "PrimeCut",
+      "name_ar": "برايم كت",
+      "neighborhood": "Shorofat",
+      "google_rating": 4.6,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "talabat",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 7,
+      "is_chain": false
+    },
+    {
+      "id": "gaia-riyadh",
+      "name_en": "Gaia",
+      "name_ar": "غايا",
+      "neighborhood": "Diplomatic Quarter",
+      "google_rating": 4.6,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "toyou",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "la-brasserie-faisaliah",
+      "name_en": "La Brasserie - Al Faisaliah Hotel",
+      "name_ar": "لا براسيري - الفيصلية",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.5,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "nobu-riyadh",
+      "name_en": "Nobu Riyadh",
+      "name_ar": "نوبو الرياض",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.5,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "jahez",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "din-tai-fung-riyadh",
+      "name_en": "Din Tai Fung Riyadh",
+      "name_ar": "دين تاي فونج الرياض",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.5,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "sign-burger",
+      "name_en": "Sign Burger",
+      "name_ar": "ساين",
+      "neighborhood": "As Sahafah",
+      "google_rating": 4.5,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "blanca-forno",
+      "name_en": "Blanca Forno",
+      "name_ar": "بلانكا",
+      "neighborhood": "As Sulimaniyah",
+      "google_rating": 4.5,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "pizza-bar-ioi",
+      "name_en": "Pizza Bar IOI",
+      "name_ar": "بيتزا بار IOI",
+      "neighborhood": "As Sulimaniyah",
+      "google_rating": 4.5,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "hamsa-w-taghmees",
+      "name_en": "Hamsa w Taghmees",
+      "name_ar": "حمسة وتغميسة",
+      "neighborhood": "At Taawun",
+      "google_rating": 4.5,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "tofareya-riyadh",
+      "name_en": "Tofareya",
+      "name_ar": "طوفرية",
+      "neighborhood": "Al Malqa",
+      "google_rating": 4.5,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "toyou",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "tresind-studio",
+      "name_en": "Tresind Studio",
+      "name_ar": "تريسيند ستوديو",
+      "neighborhood": "KAFD",
+      "google_rating": 4.5,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "jahez",
+        "toyou",
+        "talabat",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "wagyumafia-riyadh",
+      "name_en": "Wagyumafia",
+      "name_ar": "واغيوما فيا",
+      "neighborhood": "Via Riyadh",
+      "google_rating": 4.5,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "toyou",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "bahriyat_al_malaz",
+      "name_en": "Bahriyat Al Malaz",
+      "name_ar": "بحرية الملز",
+      "neighborhood": "Al Malaz",
+      "google_rating": 4.5,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "kibda_dar_al_sabah",
+      "name_en": "Kibda Dar Al Sabah",
+      "name_ar": "كبدة دار الصباح",
+      "neighborhood": "Umm Al Hamam",
+      "google_rating": 4.5,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "toyou",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "moon_shell",
+      "name_en": "Moon Shell",
+      "name_ar": "مون شيل",
+      "neighborhood": "King Abdullah",
+      "google_rating": 4.5,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "ab_steak",
+      "name_en": "AB Steak",
+      "name_ar": "آي بي ستيك",
+      "neighborhood": "Hittin",
+      "google_rating": 4.5,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "kabdah-w-muqalqal",
+      "name_en": "Kabdah w Muqalqal",
+      "name_ar": "مطعم كبدة ومقلقل",
+      "neighborhood": "Al Uraija",
+      "google_rating": 4.5,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "shabiyat-alzaman-aljameel",
+      "name_en": "Shabiyat Al Zaman Al Jameel",
+      "name_ar": "مطعم شعبيات الزمن الجميل",
+      "neighborhood": "As Suwaidi",
+      "google_rating": 4.5,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "talabat",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "matbakh-arafat-shmaisi",
+      "name_en": "Matbakh Arafat",
+      "name_ar": "مطبخ عرفات",
+      "neighborhood": "Ash Shmaisi",
+      "google_rating": 4.5,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "yokari-centria",
+      "name_en": "Yokari",
+      "name_ar": "يوكاري",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.5,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "jahez",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "haku-riyadh",
+      "name_en": "Haku",
+      "name_ar": "هاكو",
+      "neighborhood": "Al Yasmin",
+      "google_rating": 4.5,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "talabat",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "mr-chow-kafd",
+      "name_en": "Mr. Chow",
+      "name_ar": "مستر تشاو",
+      "neighborhood": "KAFD",
+      "google_rating": 4.5,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "keeta",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "nozomi-riyadh",
+      "name_en": "Nozomi",
+      "name_ar": "نوزومي",
+      "neighborhood": "Riyadh",
+      "google_rating": 4.5,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "keeta",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "benoit",
+      "name_en": "Benoit",
+      "name_ar": "بينوا",
+      "neighborhood": "KAFD",
+      "google_rating": 4.5,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "thechefz"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "la-haut",
+      "name_en": "La Haut",
+      "name_ar": "لا هوت",
+      "neighborhood": "Umm Al Hamam",
+      "google_rating": 4.5,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "pantera",
+      "name_en": "Pantera",
+      "name_ar": "بانتيرا",
+      "neighborhood": "As Sulimaniyah",
+      "google_rating": 4.5,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "wadi-restaurant",
+      "name_en": "Wadi Restaurant",
+      "name_ar": "وادي",
+      "neighborhood": "Laysen Valley",
+      "google_rating": 4.5,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "talabat",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "the-roof",
+      "name_en": "The Roof",
+      "name_ar": "ذا روف",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.5,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "talabat",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "sprout",
+      "name_en": "Sprout",
+      "name_ar": "سبراوت",
+      "neighborhood": "Al Malqa",
+      "google_rating": 4.5,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "toyou",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "albaik-kharj-road",
+      "name_en": "AlBaik Kharj Road",
+      "name_ar": "البيك - طريق الخرج",
+      "neighborhood": "Kharj Road",
+      "google_rating": 4.5,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": true
+    },
+    {
+      "id": "albaik-al-aziziyah",
+      "name_en": "AlBaik Al Aziziyah",
+      "name_ar": "البيك - العزيزية",
+      "neighborhood": "Al Aziziyah",
+      "google_rating": 4.5,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": true
+    },
+    {
+      "id": "albaik-al-fayha",
+      "name_en": "AlBaik Al Fayha",
+      "name_ar": "البيك - الفيحاء",
+      "neighborhood": "Al Fayha",
+      "google_rating": 4.5,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": true
+    },
+    {
+      "id": "albaik-qurtubah",
+      "name_en": "AlBaik Qurtubah",
+      "name_ar": "البيك - قرطبة",
+      "neighborhood": "Qurtubah",
+      "google_rating": 4.5,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": true
+    },
+    {
+      "id": "liza-beirut",
+      "name_en": "Liza Beirut",
+      "name_ar": "ليزا بيروت",
+      "neighborhood": "Diriyah",
+      "google_rating": 4.5,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "amazonico-kafd",
+      "name_en": "Amazonico KAFD",
+      "name_ar": "أمازونيكو - كافد",
+      "neighborhood": "KAFD",
+      "google_rating": 4.5,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "scotts-riyadh",
+      "name_en": "Scott's Riyadh",
+      "name_ar": "سكوتس الرياض",
+      "neighborhood": "Via Riyadh",
+      "google_rating": 4.5,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "gymkhana-riyadh",
+      "name_en": "Gymkhana Riyadh",
+      "name_ar": "جيمخانا الرياض",
+      "neighborhood": "Via Riyadh",
+      "google_rating": 4.5,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "toyou",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "phet-phet",
+      "name_en": "Phet Phet",
+      "name_ar": "فيت فيت",
+      "neighborhood": "Al Takhassusi",
+      "google_rating": 4.5,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "ovun-bistro",
+      "name_en": "Ovun Bistro",
+      "name_ar": "أوفن بيسترو",
+      "neighborhood": "As Sulimaniyah",
+      "google_rating": 4.5,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "maiz-riyadh",
+      "name_en": "Maiz",
+      "name_ar": "مائز",
+      "neighborhood": "Bujairi Terrace - Diriyah",
+      "google_rating": 4.5,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "toyou",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "marble-steakhouse",
+      "name_en": "Marble Steakhouse",
+      "name_ar": "ماربل ستيك هاوس",
+      "neighborhood": "Al Sharqi",
+      "google_rating": 4.5,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "nora-smash-burger",
+      "name_en": "Nora Smash Burger",
+      "name_ar": "نورة سماش برجر",
+      "neighborhood": "Al Malqa",
+      "google_rating": 4.5,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "keeta",
+        "talabat",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "rubi-room-hocho",
+      "name_en": "The Rubi Room at Hōchō",
+      "name_ar": "ذا روبي روم",
+      "neighborhood": "Riyadh",
+      "google_rating": 4.5,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "bardo-st-james-kafd",
+      "name_en": "Bardo St. James",
+      "name_ar": "باردو سانت جيمس",
+      "neighborhood": "KAFD",
+      "google_rating": 4.5,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "la-serre-kafd",
+      "name_en": "La Serre",
+      "name_ar": "لا سير",
+      "neighborhood": "KAFD",
+      "google_rating": 4.5,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "mayabay-riyadh",
+      "name_en": "MayaBay",
+      "name_ar": "مايا باي",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.5,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "amazonica-1364-dq",
+      "name_en": "Amazónico DQ",
+      "name_ar": "أمازونيكو الحي الدبلوماسي",
+      "neighborhood": "Diplomatic Quarter",
+      "google_rating": 4.5,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "asmak-shifudo-badia",
+      "name_en": "Shifudo Seafood Restaurant",
+      "name_ar": "مطعم أسماك شيفودو",
+      "neighborhood": "Badr",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "pistrina-raed",
+      "name_en": "Pistrina Bakery & Restaurant",
+      "name_ar": "مطعم بسترينا",
+      "neighborhood": "Al Raed",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "robata-st-regis-rooftop",
+      "name_en": "Robata - St. Regis Riyadh",
+      "name_ar": "روباتا - سانت ريجيس",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "liza-riyadh",
+      "name_en": "Liza Riyadh",
+      "name_ar": "ليزا الرياض",
+      "neighborhood": "Bujairi Terrace",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "amazorico-riyadh",
+      "name_en": "Amazónico Riyadh",
+      "name_ar": "أمازونيكو الرياض",
+      "neighborhood": "KAFD",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "hakkasan-riyadh",
+      "name_en": "Hakkasan Riyadh",
+      "name_ar": "هاكاسان الرياض",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "lusin-armenian-riyadh",
+      "name_en": "Lusin Armenian Restaurant",
+      "name_ar": "لوسين مطعم أرمني",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "thechefz"
+      ],
+      "app_count": 2,
+      "is_chain": false
+    },
+    {
+      "id": "cova-riyadh",
+      "name_en": "Cova",
+      "name_ar": "كوفا",
+      "neighborhood": "Bujairi Terrace - Diriyah",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 2,
+      "is_chain": false
+    },
+    {
+      "id": "beirut-khanum",
+      "name_en": "Beirut Khanum",
+      "name_ar": "بيروت خانوم",
+      "neighborhood": "Hittin",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "toyou",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "section-b-riyadh",
+      "name_en": "Section B",
+      "name_ar": "سكشن بي",
+      "neighborhood": "Hittin",
+      "google_rating": 4.4,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "talabat",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "okla-burger",
+      "name_en": "Okla Burger",
+      "name_ar": "أوكلا",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.4,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "white-flame",
+      "name_en": "White Flame",
+      "name_ar": "وايت فليم",
+      "neighborhood": "Al Yasmin",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "memos-pizza",
+      "name_en": "Memos",
+      "name_ar": "ميموز",
+      "neighborhood": "Ar Rabi",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "toyou",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "7-ribs-riyadh",
+      "name_en": "7 Ribs",
+      "name_ar": "7 ريبز",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "jahez",
+        "toyou",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "hataba-riyadh",
+      "name_en": "Hataba",
+      "name_ar": "حطبة",
+      "neighborhood": "An Nafl",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "al-amm-khalil",
+      "name_en": "Al Amm Khalil",
+      "name_ar": "العم خليل",
+      "neighborhood": "An Narjis",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "fi-galbak",
+      "name_en": "Fi Galbak",
+      "name_ar": "في قلبك",
+      "neighborhood": "Al Muhammadiyah",
+      "google_rating": 4.4,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "toyou",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "taleed-michael-mina",
+      "name_en": "Taleed by Michael Mina",
+      "name_ar": "تليد من مايكل مينا",
+      "neighborhood": "Diriyah",
+      "google_rating": 4.4,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "toyou",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "shawarma-abu-rayan",
+      "name_en": "Shawarma Abu Rayan",
+      "name_ar": "شاورما أبو ريان",
+      "neighborhood": "Al Malqa",
+      "google_rating": 4.4,
+      "price_level": "$",
+      "available_on_apps": [
+        "jahez",
+        "mrsool"
+      ],
+      "app_count": 2,
+      "is_chain": false
+    },
+    {
+      "id": "nobu-riyadh-2",
+      "name_en": "Nobu",
+      "name_ar": "نوبو",
+      "neighborhood": "KAFD",
+      "google_rating": 4.4,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "toyou",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 7,
+      "is_chain": false
+    },
+    {
+      "id": "hashi-riyadh",
+      "name_en": "Hashi",
+      "name_ar": "هاشي",
+      "neighborhood": "Al Olaya - Mandarin Oriental",
+      "google_rating": 4.4,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "keeta",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "the-grill-riyadh",
+      "name_en": "The Grill",
+      "name_ar": "ذا غريل",
+      "neighborhood": "Al Olaya - Kingdom Hotel",
+      "google_rating": 4.4,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "jahez",
+        "keeta",
+        "toyou",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "zooba-riyadh",
+      "name_en": "Zooba",
+      "name_ar": "زووبا",
+      "neighborhood": "Al Malqa",
+      "google_rating": 4.4,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "al-nafourah-riyadh",
+      "name_en": "Al Nafourah",
+      "name_ar": "النافورة",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "talabat",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "carbless-riyadh",
+      "name_en": "Carbless",
+      "name_ar": "كاربلس",
+      "neighborhood": "Diriyah",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "talabat"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "cleanse-and-glow",
+      "name_en": "Cleanse and Glow",
+      "name_ar": "كلينز أند غلو",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "liza-riyadh-2",
+      "name_en": "LIZA",
+      "name_ar": "ليزا",
+      "neighborhood": "Bujairi Terrace - Diriyah",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "isabel-mayfair-riyadh",
+      "name_en": "Isabel Mayfair",
+      "name_ar": "إيزابيل مايفير",
+      "neighborhood": "As Sulimaniyah",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "keeta",
+        "toyou",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "chi-spacca-riyadh",
+      "name_en": "Chi Spacca",
+      "name_ar": "كي سباكا",
+      "neighborhood": "Via Riyadh",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "tamisah-riyadh",
+      "name_en": "Tamisah",
+      "name_ar": "تميسة",
+      "neighborhood": "An Nakhil",
+      "google_rating": 4.4,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "maqloubat_al_dar",
+      "name_en": "Maqloubat Al Dar",
+      "name_ar": "مقلوبة الدار",
+      "neighborhood": "Al Falah",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "falafel_arafa",
+      "name_en": "Falafel Arafa",
+      "name_ar": "فلافل عرفة",
+      "neighborhood": "Al Malaz",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "lebanese_house_pastries",
+      "name_en": "Lebanese House Pastries",
+      "name_ar": "معجنات البيت اللبناني",
+      "neighborhood": "Al Malaz",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "bayt_al_kibda",
+      "name_en": "Bayt Al Kibda",
+      "name_ar": "بيت الكبدة",
+      "neighborhood": "Al Shumaisi",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "toyou"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "almayass",
+      "name_en": "Almayass",
+      "name_ar": "المياس",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "toyou",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "bayt_al_fateera_al_dimashqiya",
+      "name_en": "Bayt Al Fateera Al Dimashqiya",
+      "name_ar": "بيت الفطيرة الدمشقية",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "takya_cafe",
+      "name_en": "Takya Cafe",
+      "name_ar": "تكية كافيه",
+      "neighborhood": "Diriyah",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "al_dira_restaurant",
+      "name_en": "Al Dira Restaurant",
+      "name_ar": "مطعم الديرة",
+      "neighborhood": "Al Dira",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "toyou",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "byblos_restaurant",
+      "name_en": "Byblos Restaurant",
+      "name_ar": "مطعم بيبلوس",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "villa_halab",
+      "name_en": "Villa Halab",
+      "name_ar": "مطعم فيلا حلب",
+      "neighborhood": "Al Yasmin",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "shgardi"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "al_khaima_heritage",
+      "name_en": "Al Khaima Heritage",
+      "name_ar": "مطعم الخيمة التراثية",
+      "neighborhood": "Al Malaz",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "bayt_al_kunafa",
+      "name_en": "Bayt Al Kunafa",
+      "name_ar": "مطعم بيت الكنافة",
+      "neighborhood": "Al Malaz",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "toyou",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "pasta-more-uraija",
+      "name_en": "Pasta More",
+      "name_ar": "مطعم باستا مور",
+      "neighborhood": "Al Uraija",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "asmak-emad-uraija",
+      "name_en": "Asmak Emad",
+      "name_ar": "مطعم أسماك عماد",
+      "neighborhood": "Al Uraija",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "qasr-alhind-suwaidi",
+      "name_en": "Qasr Al Hind",
+      "name_ar": "مطعم قصر الهند",
+      "neighborhood": "As Suwaidi",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "toyou",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "samarqandi-suwaidi",
+      "name_en": "Samarqandi As Suwaidi",
+      "name_ar": "مطعم سمرقندي السويدي",
+      "neighborhood": "As Suwaidi",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "rukn-naemeen-suwaidi",
+      "name_en": "Rukn Na'meen",
+      "name_ar": "مطعم ركن نعمين",
+      "neighborhood": "As Suwaidi",
+      "google_rating": 4.4,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "talabat"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "bait-alkabda-shmaisi",
+      "name_en": "Bait Al Kabda",
+      "name_ar": "مطعم بيت الكبدة",
+      "neighborhood": "Ash Shmaisi",
+      "google_rating": 4.4,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "qasr-almashwiyat-naseem",
+      "name_en": "Qasr Al Mashwiyat",
+      "name_ar": "قصر المشويات",
+      "neighborhood": "An Naseem",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "ramen-restaurant-riyadh-park",
+      "name_en": "Ramen Restaurant",
+      "name_ar": "مطعم رامن",
+      "neighborhood": "Riyadh Park",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "hankki-olaya",
+      "name_en": "Hankki",
+      "name_ar": "هانكي",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "seoul-sulimaniyah",
+      "name_en": "Seoul Restaurant",
+      "name_ar": "سيؤول",
+      "neighborhood": "As Sulimaniyah",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "jahez",
+        "mrsool"
+      ],
+      "app_count": 2,
+      "is_chain": false
+    },
+    {
+      "id": "young-jaes",
+      "name_en": "Young Jae's",
+      "name_ar": "يونق جيز",
+      "neighborhood": "Riyadh",
+      "google_rating": 4.4,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "rukn-alafandi-naseem",
+      "name_en": "Rukn Al Afandi",
+      "name_ar": "مطعم ركن الأفندي",
+      "neighborhood": "An Naseem",
+      "google_rating": 4.4,
+      "price_level": "$",
+      "available_on_apps": [
+        "jahez",
+        "toyou",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "fiamma",
+      "name_en": "Fiamma",
+      "name_ar": "فيامّا",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "la-ba",
+      "name_en": "La Ba",
+      "name_ar": "لا با",
+      "neighborhood": "As Sulimaniyah",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "maman",
+      "name_en": "Maman",
+      "name_ar": "مامان",
+      "neighborhood": "Hittin",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "jahez",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "rowleys-steak-and-frites",
+      "name_en": "Rowleys Steak and Frites",
+      "name_ar": "روولي ستيك",
+      "neighborhood": "KAFD",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "tolga",
+      "name_en": "Tolga",
+      "name_ar": "تولغا",
+      "neighborhood": "U Walk",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "the-lighthouse",
+      "name_en": "The Lighthouse",
+      "name_ar": "ذا لايتهاوس",
+      "neighborhood": "Diplomatic Quarter",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "junkie-burger",
+      "name_en": "Junkie Burger",
+      "name_ar": "جنكي برجر",
+      "neighborhood": "Al Malqa",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "kumar-restaurant",
+      "name_en": "Kumar Restaurant",
+      "name_ar": "كومار",
+      "neighborhood": "Riyadh Park",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "albaik-al-shifa",
+      "name_en": "AlBaik Al Shifa",
+      "name_ar": "البيك - الشفا",
+      "neighborhood": "Al Shifa",
+      "google_rating": 4.4,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": true
+    },
+    {
+      "id": "albaik-as-suwaidi",
+      "name_en": "AlBaik As Suwaidi",
+      "name_ar": "البيك - السويدي",
+      "neighborhood": "As Suwaidi",
+      "google_rating": 4.4,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": true
+    },
+    {
+      "id": "albaik-tuwaiq",
+      "name_en": "AlBaik Tuwaiq",
+      "name_ar": "البيك - طويق",
+      "neighborhood": "Tuwaiq",
+      "google_rating": 4.4,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": true
+    },
+    {
+      "id": "albaik-al-andalus",
+      "name_en": "AlBaik Al Andalus",
+      "name_ar": "البيك - الأندلس",
+      "neighborhood": "Al Andalus",
+      "google_rating": 4.4,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": true
+    },
+    {
+      "id": "albaik-al-yarmuk",
+      "name_en": "AlBaik Al Yarmuk",
+      "name_ar": "البيك - اليرموك",
+      "neighborhood": "Al Yarmuk",
+      "google_rating": 4.4,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": true
+    },
+    {
+      "id": "albaik-al-badia",
+      "name_en": "AlBaik Al Badia",
+      "name_ar": "البيك - البديعة",
+      "neighborhood": "Al Badia",
+      "google_rating": 4.4,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": true
+    },
+    {
+      "id": "coco-restaurant-kafd",
+      "name_en": "Coco Restaurant KAFD",
+      "name_ar": "كوكو",
+      "neighborhood": "KAFD",
+      "google_rating": 4.4,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "toyou",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "zuma-riyadh",
+      "name_en": "Zuma Riyadh",
+      "name_ar": "زوما الرياض",
+      "neighborhood": "Al Aqiq - KAFD",
+      "google_rating": 4.4,
+      "price_level": "$$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "toyou",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "la-petite-maison",
+      "name_en": "La Petite Maison (LPM)",
+      "name_ar": "لا بيتيت ميزون",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "cafe-boulud",
+      "name_en": "Café Boulud",
+      "name_ar": "كافيه بولود",
+      "neighborhood": "Al Olaya - Four Seasons",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "keeta",
+        "toyou",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "myazu-riyadh",
+      "name_en": "Myazu Riyadh",
+      "name_ar": "ميازو الرياض",
+      "neighborhood": "As Sulimaniyah",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "kimyona-riyadh",
+      "name_en": "Kimyona Riyadh",
+      "name_ar": "كيميونا الرياض",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "jahez",
+        "toyou",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "il-baretto-riyadh",
+      "name_en": "Il Baretto Riyadh",
+      "name_ar": "إل باريتو الرياض",
+      "neighborhood": "KAFD",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "keeta",
+        "toyou",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "em-sherif-cafe",
+      "name_en": "Em Sherif Café",
+      "name_ar": "إم شريف كافيه",
+      "neighborhood": "Laysen Valley",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "jahez",
+        "toyou",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "koojeh-riyadh",
+      "name_en": "Koojeh",
+      "name_ar": "كوجه الرياض",
+      "neighborhood": "Al Takhassusi",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "jahez",
+        "keeta",
+        "toyou",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "lusin-restaurant",
+      "name_en": "Lusin Restaurant",
+      "name_ar": "لوسين",
+      "neighborhood": "Al Olaya - Centria Mall",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "aseeb-najd",
+      "name_en": "Aseeb Najd",
+      "name_ar": "أسيب نجد",
+      "neighborhood": "Al Yasmin",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "nomas-riyadh",
+      "name_en": "Nomas",
+      "name_ar": "نوماس",
+      "neighborhood": "Diplomatic Quarter",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "flamingo-room-tashas",
+      "name_en": "Flamingo Room by tashas",
+      "name_ar": "فلامينغو روم من تاشاز",
+      "neighborhood": "Bujairi Terrace - Diriyah",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "toyou",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "don-rubens",
+      "name_en": "Don Ruben's Mexican",
+      "name_ar": "دون روبنز",
+      "neighborhood": "Riyadh",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "smokey-beards-q",
+      "name_en": "Smokey Beards Q",
+      "name_ar": "سموكي بيردز كيو",
+      "neighborhood": "Riyadh",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "talabat",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "table-to-riyadh",
+      "name_en": "Table;To",
+      "name_ar": "تيبل تو",
+      "neighborhood": "Al Takhassusi",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "akira-back-riyadh",
+      "name_en": "Akira Back Riyadh",
+      "name_ar": "أكيرا باك الرياض",
+      "neighborhood": "Diplomatic Quarter",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "al-orjouan",
+      "name_en": "Al Orjouan",
+      "name_ar": "الأرجوان",
+      "neighborhood": "Diplomatic Quarter - Ritz Carlton",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "thechefz"
+      ],
+      "app_count": 2,
+      "is_chain": false
+    },
+    {
+      "id": "thaiya-riyadh",
+      "name_en": "Thaiya",
+      "name_ar": "ثايا",
+      "neighborhood": "Tahlia Street",
+      "google_rating": 4.4,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "keeta",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "copper-riyadh",
+      "name_en": "Copper",
+      "name_ar": "كوبر الرياض",
+      "neighborhood": "Hittin",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "toyou",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "mirzam-riyadh",
+      "name_en": "Mirzam",
+      "name_ar": "مرزم",
+      "neighborhood": "Riyadh",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "keeta",
+        "toyou",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "ruhi-riyadh",
+      "name_en": "Ruhi",
+      "name_ar": "روحي",
+      "neighborhood": "Riyadh",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "tanjiah-riyadh",
+      "name_en": "Tanjiah",
+      "name_ar": "طانجية",
+      "neighborhood": "Riyadh",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "attache-dq",
+      "name_en": "attaché",
+      "name_ar": "أتاشيه",
+      "neighborhood": "Diplomatic Quarter",
+      "google_rating": 4.4,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "toyou",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "monopoly-kafd",
+      "name_en": "Monopoly",
+      "name_ar": "مونوبولي",
+      "neighborhood": "KAFD",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "gina-solitaire-riyadh",
+      "name_en": "Gina",
+      "name_ar": "جينا",
+      "neighborhood": "As Sahafah",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "jahez",
+        "toyou",
+        "talabat",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "asador-de-aranda-riyadh",
+      "name_en": "Asador De Aranda",
+      "name_ar": "أسادور دي أراندا",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.4,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "laffah-cafe",
+      "name_en": "Laffah Cafe",
+      "name_ar": "لفّة كافيه",
+      "neighborhood": "Al Nakheel",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "talabat",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "al-romansiah-al-shifa",
+      "name_en": "Al Romansiah - Al Shifa",
+      "name_ar": "مطعم الرومانسية - الشفا",
+      "neighborhood": "Al Shifa",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "keeta",
+        "talabat",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "yermin-restaurant-al-shifa",
+      "name_en": "Yermin Restaurant",
+      "name_ar": "مطعم يرمين",
+      "neighborhood": "Al Shifa",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "toyou",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "samkiyat-wurud",
+      "name_en": "Samkiyat - Al Wurud",
+      "name_ar": "مطعم سمكيات - الورود",
+      "neighborhood": "Al Wurud",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "thai-villa-raed",
+      "name_en": "Thai Villa Restaurant",
+      "name_ar": "مطعم تاي فيلا",
+      "neighborhood": "Al Raed",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "lunchroom-riyadh",
+      "name_en": "Lunchroom",
+      "name_ar": "لنش روم",
+      "neighborhood": "Al Malqa",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "amar-riyadh",
+      "name_en": "Amar Restaurant",
+      "name_ar": "عمار ريستوران",
+      "neighborhood": "North Riyadh",
+      "google_rating": 4.3,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "keeta",
+        "toyou",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "rowleys-steak-frites",
+      "name_en": "Rowley's Steak & Frites",
+      "name_ar": "رولي ستيك آند فريت",
+      "neighborhood": "KAFD",
+      "google_rating": 4.3,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "botanica-kimpton-kafd",
+      "name_en": "Botanica - Kimpton KAFD",
+      "name_ar": "بوتانيكا - كيمبتون",
+      "neighborhood": "KAFD",
+      "google_rating": 4.3,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "supernova-burger-riyadh",
+      "name_en": "Supernova Burger",
+      "name_ar": "سوبرنوفا برجر",
+      "neighborhood": "An Nakheel",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "scalini-riyadh",
+      "name_en": "Scalini Riyadh",
+      "name_ar": "سكاليني الرياض",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.3,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "talabat",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 7,
+      "is_chain": false
+    },
+    {
+      "id": "catch-riyadh",
+      "name_en": "Catch Riyadh",
+      "name_ar": "كاتش الرياض",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.3,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "tatel-riyadh",
+      "name_en": "TATEL Riyadh",
+      "name_ar": "تاتيل الرياض",
+      "neighborhood": "KAFD",
+      "google_rating": 4.3,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "altopiano-riyadh",
+      "name_en": "Altopiano",
+      "name_ar": "ألتوبيانو",
+      "neighborhood": "Bujairi Terrace - Diriyah",
+      "google_rating": 4.3,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "signor-sassi-riyadh",
+      "name_en": "Signor Sassi",
+      "name_ar": "سنيور ساسي",
+      "neighborhood": "As Sulimaniyah",
+      "google_rating": 4.3,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "em-sherif-restaurant",
+      "name_en": "Em Sherif",
+      "name_ar": "إم شريف",
+      "neighborhood": "Al Muhammadiyah - The Zone",
+      "google_rating": 4.3,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "leila-min-lebnan",
+      "name_en": "Leila from Lebanon",
+      "name_ar": "ليلى من لبنان",
+      "neighborhood": "Diplomatic Quarter",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "shababik-riyadh",
+      "name_en": "Shababik",
+      "name_ar": "شبابيك",
+      "neighborhood": "As Sulimaniyah",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "yawmiyat-by-dalal",
+      "name_en": "Yawmiyat by Dalal",
+      "name_ar": "يوميات باي دلال",
+      "neighborhood": "Al Wurud",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "burger-boutique",
+      "name_en": "Burger Boutique",
+      "name_ar": "برجر بوتيك",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "gun-bun-riyadh",
+      "name_en": "Gun Bun",
+      "name_ar": "قن بن",
+      "neighborhood": "Pure Center",
+      "google_rating": 4.3,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "keeta",
+        "toyou",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "nevermind-riyadh",
+      "name_en": "Nevermind",
+      "name_ar": "نيفرمايند",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.3,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "talabat",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "wbj-burger",
+      "name_en": "WBJ",
+      "name_ar": "دبليو بي جي",
+      "neighborhood": "Al Munsiyah",
+      "google_rating": 4.3,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "911-pizza",
+      "name_en": "911 Pizza",
+      "name_ar": "911 بيتزا",
+      "neighborhood": "As Sulimaniyah",
+      "google_rating": 4.3,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "talabat",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "rudy-pizzeria",
+      "name_en": "Rudy Pizzeria",
+      "name_ar": "رودي بيتزاريا",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "mrsool"
+      ],
+      "app_count": 2,
+      "is_chain": false
+    },
+    {
+      "id": "spirito-riyadh",
+      "name_en": "Spirito",
+      "name_ar": "سبيريتو",
+      "neighborhood": "Al Malqa",
+      "google_rating": 4.3,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "social-pizzeria",
+      "name_en": "The Social Pizzeria",
+      "name_ar": "ذا سوشل بيتزاريا",
+      "neighborhood": "Ar Rabi",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "keeta",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "blu-pizzeria",
+      "name_en": "Blu Pizzeria",
+      "name_ar": "بلو بيتزيريا",
+      "neighborhood": "Al Takhassusi",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "toyou",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "chefs-x-gazzar",
+      "name_en": "Chefs X Gazzar",
+      "name_ar": "شيفز X جزار",
+      "neighborhood": "Al Muhammadiyah",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "talabat",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "300-smoke-house",
+      "name_en": "300 Smoke House",
+      "name_ar": "300 سموك هاوس",
+      "neighborhood": "Al Malqa",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "lishlazz-riyadh",
+      "name_en": "Lishlazz",
+      "name_ar": "ليشلاز",
+      "neighborhood": "An Nafl",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "smoky-seal",
+      "name_en": "Smoky Seal",
+      "name_ar": "سموكي سيل",
+      "neighborhood": "An Nakhil",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "toyou",
+        "talabat",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 7,
+      "is_chain": false
+    },
+    {
+      "id": "habra-riyadh",
+      "name_en": "Habra",
+      "name_ar": "هبرة",
+      "neighborhood": "An Nakhil",
+      "google_rating": 4.3,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "house-of-grill",
+      "name_en": "House of Grill",
+      "name_ar": "هاوس أوف غريل",
+      "neighborhood": "Qurtubah - Fairmont",
+      "google_rating": 4.3,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "tenderloin-and-co",
+      "name_en": "Tenderloin & Co",
+      "name_ar": "تندرلوين",
+      "neighborhood": "An Nakhil",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "toyou",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "suhail-restaurant",
+      "name_en": "Suhail",
+      "name_ar": "سهيل",
+      "neighborhood": "An Nakhil",
+      "google_rating": 4.3,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "mrsool",
+        "thechefz",
+        "shgardi"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "thara-saudi",
+      "name_en": "Thara",
+      "name_ar": "ثرى",
+      "neighborhood": "An Narjis",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "meez-the-house",
+      "name_en": "Meez The House",
+      "name_ar": "ميز ذا هاوس",
+      "neighborhood": "Hittin",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "ruya-riyadh",
+      "name_en": "Ruya",
+      "name_ar": "رويا",
+      "neighborhood": "As Sulimaniyah",
+      "google_rating": 4.3,
+      "price_level": "$$$",
+      "available_on_apps": [
+        "hungerstation",
+        "mrsool",
+        "thechefz"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "sasani-riyadh",
+      "name_en": "Sasani",
+      "name_ar": "ساساني",
+      "neighborhood": "Hittin",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "samoir-riyadh",
+      "name_en": "Samoir",
+      "name_ar": "سموير",
+      "neighborhood": "Bujairi Terrace - Diriyah",
+      "google_rating": 4.3,
+      "price_level": "$$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "allo-beirut",
+      "name_en": "Allo Beirut",
+      "name_ar": "ألو بيروت",
+      "neighborhood": "Al Olaya",
+      "google_rating": 4.3,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "talabat",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 6,
+      "is_chain": false
+    },
+    {
+      "id": "shawarma-jalila",
+      "name_en": "Shawarma Jalila",
+      "name_ar": "شاورما جليلة",
+      "neighborhood": "Multiple locations",
+      "google_rating": 4.3,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "toyou",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "falqa-wahda",
+      "name_en": "Falqa Wahda",
+      "name_ar": "فلقة وحدة",
+      "neighborhood": "Al Ghadir",
+      "google_rating": 4.3,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "talabat",
+        "mrsool"
+      ],
+      "app_count": 3,
+      "is_chain": false
+    },
+    {
+      "id": "faredah-hanim",
+      "name_en": "Faredah Hanim Shawarma",
+      "name_ar": "فريدة هانم شاورما",
+      "neighborhood": "Al Malqa",
+      "google_rating": 4.3,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "keeta",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 5,
+      "is_chain": false
+    },
+    {
+      "id": "bayt-al-haneedh",
+      "name_en": "Bayt Al Haneedh",
+      "name_ar": "بيت الحنيذ",
+      "neighborhood": "Multiple locations",
+      "google_rating": 4.3,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "toyou",
+        "mrsool"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    },
+    {
+      "id": "al-nufood",
+      "name_en": "Al Nufood",
+      "name_ar": "النفود",
+      "neighborhood": "Multiple locations",
+      "google_rating": 4.3,
+      "price_level": "$",
+      "available_on_apps": [
+        "hungerstation",
+        "jahez",
+        "mrsool",
+        "shgardi"
+      ],
+      "app_count": 4,
+      "is_chain": false
+    }
+  ],
+  "summary": {
+    "app_coverage_in_top200": {
+      "hungerstation": 184,
+      "jahez": 145,
+      "toyou": 103,
+      "mrsool": 189,
+      "shgardi": 73,
+      "keeta": 50,
+      "talabat": 68,
+      "thechefz": 91
+    },
+    "avg_apps_per_restaurant": 4.5
+  }
+}

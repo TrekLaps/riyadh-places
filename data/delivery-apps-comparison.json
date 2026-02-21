@@ -1,0 +1,644 @@
+{
+  "metadata": {
+    "project": "وين نروح بالرياض",
+    "description": "مقارنة شاملة لتطبيقات التوصيل في الرياض",
+    "last_updated": "2026-02-21",
+    "data_sources": [
+      "saudi-tips.com (June 2025)",
+      "saudiscoop.com (Oct 2025)",
+      "deliverywolf.net (Dec 2025)",
+      "enatega.com (Feb 2026)",
+      "restofworld.org (March 2025)",
+      "arabnews.com (Jan 2025)",
+      "Reddit r/saudiarabia user experiences",
+      "App Store & Google Play listings"
+    ]
+  },
+  "apps": [
+    {
+      "id": "hungerstation",
+      "name_ar": "هنقرستيشن",
+      "name_en": "HungerStation",
+      "website": "hungerstation.com",
+      "founded": 2012,
+      "owner": "Delivery Hero (Germany)",
+      "app_rating_google": 4.6,
+      "app_rating_apple": 4.5,
+      "market_position": 1,
+      "market_share_pct": 40,
+      "delivery_fee": {
+        "min_sar": 8,
+        "max_sar": 25,
+        "average_sar": 12,
+        "surge_pricing": true,
+        "free_delivery_available": true,
+        "notes": "رسوم إضافية في أوقات الذروة. توصيل مجاني عبر اشتراك HPlus"
+      },
+      "subscription": {
+        "name": "HungerStation Plus (HPlus)",
+        "price_monthly_sar": 69,
+        "benefits": [
+          "توصيل مجاني للطلبات فوق الحد الأدنى",
+          "عروض حصرية",
+          "أولوية بالتوصيل"
+        ]
+      },
+      "delivery_time": {
+        "riyadh_avg_min": 22,
+        "riyadh_range": "15-45 دقيقة",
+        "notes": "الأسرع بين التطبيقات في الرياض حسب تجارب المستخدمين 2025"
+      },
+      "coverage": {
+        "cities_count": 102,
+        "riyadh_districts": [
+          "كل أحياء الرياض تقريباً",
+          "شمال الرياض",
+          "جنوب الرياض",
+          "شرق الرياض",
+          "غرب الرياض",
+          "وسط الرياض"
+        ],
+        "coverage_level": "شاملة"
+      },
+      "restaurant_partners": 55000,
+      "services": [
+        "طعام",
+        "بقالة",
+        "صيدليات",
+        "زهور",
+        "مخابز"
+      ],
+      "payment_methods": [
+        "بطاقة ائتمان",
+        "مدى",
+        "Apple Pay",
+        "STC Pay",
+        "كاش"
+      ],
+      "promos_current": [
+        "عروض موسمية مثل وجبات رمضان وخصومات اليوم الوطني",
+        "توصيل مجاني لبعض المطاعم",
+        "خصومات على أول طلب"
+      ],
+      "complaints_level": "منخفضة",
+      "complaints_notes": "طلبات ناقصة أحياناً، تأخير في الذروة. تعويض فوري بكوبونات.",
+      "strengths": [
+        "أكبر شبكة مطاعم",
+        "أسرع توصيل",
+        "دعم فوري",
+        "تقنية ذكية بالذكاء الاصطناعي"
+      ],
+      "weaknesses": [
+        "رسوم توصيل أعلى",
+        "أسعار أعلى من التطبيق الرسمي للمطعم بـ 3-5 ريال"
+      ],
+      "source": "saudi-tips.com, enatega.com, hungerstation.com, restofworld.org"
+    },
+    {
+      "id": "jahez",
+      "name_ar": "جاهز",
+      "name_en": "Jahez",
+      "website": "jahez.net",
+      "founded": 2016,
+      "owner": "Jahez International (شركة سعودية مدرجة بتداول)",
+      "app_rating_google": 4.2,
+      "app_rating_apple": 4.3,
+      "market_position": 2,
+      "market_share_pct": 30,
+      "delivery_fee": {
+        "min_sar": 4,
+        "max_sar": 20,
+        "average_sar": 9,
+        "surge_pricing": false,
+        "free_delivery_available": true,
+        "notes": "نادراً رسوم إضافية. اشتراك Prime يوفر توصيل مجاني"
+      },
+      "subscription": {
+        "name": "Jahez Prime",
+        "price_monthly_sar": 95,
+        "benefits": [
+          "توصيل مجاني لمطاعم كثيرة بما فيها ماكدونالدز",
+          "بدون حد أدنى للطلب"
+        ]
+      },
+      "delivery_time": {
+        "riyadh_avg_min": 25,
+        "riyadh_range": "20-40 دقيقة",
+        "notes": "شبكة سائقين واسعة وتوزيع ذكي"
+      },
+      "coverage": {
+        "cities_count": 54,
+        "riyadh_districts": [
+          "معظم أحياء الرياض",
+          "تغطية قوية في الأحياء المكتظة"
+        ],
+        "coverage_level": "واسعة"
+      },
+      "restaurant_partners": 25000,
+      "services": [
+        "طعام",
+        "بقالة"
+      ],
+      "payment_methods": [
+        "بطاقة ائتمان",
+        "مدى",
+        "Apple Pay",
+        "STC Pay",
+        "كاش"
+      ],
+      "promos_current": [
+        "خصومات أيام الجمعة والسبت",
+        "عروض دورية على مطاعم محددة"
+      ],
+      "complaints_level": "معتدلة",
+      "complaints_notes": "تأخيرات متكررة في بعض المناطق وأوقات الذروة. إلغاء بدون رسوم عند التأخير.",
+      "strengths": [
+        "تطبيق سعودي 100%",
+        "أسعار تنافسية",
+        "دعم المشاريع الصغيرة",
+        "رسوم توصيل منخفضة"
+      ],
+      "weaknesses": [
+        "تأخير في بعض الأحياء الطرفية",
+        "دعم عملاء أبطأ"
+      ],
+      "source": "saudi-tips.com, enatega.com, jahez.net, deliverywolf.net"
+    },
+    {
+      "id": "keeta",
+      "name_ar": "كيتا",
+      "name_en": "Keeta",
+      "website": "keeta-global.com",
+      "founded": 2023,
+      "owner": "Meituan (الصين - أكبر شركة توصيل بالعالم)",
+      "app_rating_google": 4.5,
+      "app_rating_apple": 4.4,
+      "market_position": 3,
+      "market_share_pct": 10,
+      "delivery_fee": {
+        "min_sar": 0,
+        "max_sar": 10,
+        "average_sar": 0,
+        "surge_pricing": false,
+        "free_delivery_available": true,
+        "notes": "توصيل مجاني بدون اشتراك! استراتيجية إغراق السوق"
+      },
+      "subscription": {
+        "name": null,
+        "price_monthly_sar": 0,
+        "benefits": [
+          "لا يحتاج اشتراك - التوصيل مجاني أساساً"
+        ]
+      },
+      "delivery_time": {
+        "riyadh_avg_min": 35,
+        "riyadh_range": "25-50 دقيقة",
+        "notes": "أبطأ قليلاً لكن يتحسن مع التوسع"
+      },
+      "coverage": {
+        "cities_count": 3,
+        "riyadh_districts": [
+          "الياسمين",
+          "غرناطة",
+          "العليا",
+          "الملقا",
+          "النرجس",
+          "حطين",
+          "الصحافة",
+          "معظم شمال الرياض"
+        ],
+        "coverage_level": "متوسطة - تتوسع بسرعة",
+        "notes": "دخلت السوق السعودي أكتوبر 2024، وحققت 10% من السوق خلال 4 أشهر فقط"
+      },
+      "restaurant_partners": 5000,
+      "services": [
+        "طعام",
+        "بقالة (Keemart)"
+      ],
+      "payment_methods": [
+        "بطاقة ائتمان",
+        "مدى",
+        "Apple Pay"
+      ],
+      "promos_current": [
+        "خصم 50% على أول طلب",
+        "100 ريال كوبونات ترحيبية",
+        "توصيل مجاني دائم بدون اشتراك",
+        "عروض أسبوعية ثابتة"
+      ],
+      "complaints_level": "منخفضة جداً",
+      "complaints_notes": "تأخير نادر، دعم سريع يعالج الشكاوى خلال 24 ساعة مع تعويض مباشر",
+      "strengths": [
+        "توصيل مجاني!",
+        "أسعار أقل",
+        "تقنية صينية متقدمة",
+        "عروض قوية جداً",
+        "خدمة درونز في الإمارات"
+      ],
+      "weaknesses": [
+        "تغطية محدودة حالياً",
+        "عدد مطاعم أقل",
+        "جديد بالسوق"
+      ],
+      "source": "restofworld.org, arabnews.com, keeta-global.com, saudi-tips.com, yicaiglobal.com"
+    },
+    {
+      "id": "mrsool",
+      "name_ar": "مرسول",
+      "name_en": "Mrsool",
+      "website": "mrsool.co",
+      "founded": 2015,
+      "owner": "شركة سعودية",
+      "app_rating_google": 4.3,
+      "app_rating_apple": 4.2,
+      "market_position": 4,
+      "market_share_pct": 8,
+      "delivery_fee": {
+        "min_sar": 10,
+        "max_sar": 35,
+        "average_sar": 18,
+        "surge_pricing": true,
+        "free_delivery_available": false,
+        "notes": "رسوم قابلة للتفاوض مع المندوب! نموذج فريد"
+      },
+      "subscription": null,
+      "delivery_time": {
+        "riyadh_avg_min": 40,
+        "riyadh_range": "30-60 دقيقة",
+        "notes": "يعتمد على المندوب الفردي"
+      },
+      "coverage": {
+        "cities_count": 50,
+        "riyadh_districts": [
+          "كل أحياء الرياض"
+        ],
+        "coverage_level": "شاملة - يمكن التوصيل من أي مكان لأي مكان"
+      },
+      "restaurant_partners": null,
+      "services": [
+        "طعام",
+        "بقالة",
+        "أي شي!",
+        "طرود",
+        "أغراض شخصية",
+        "شراء من أي محل"
+      ],
+      "payment_methods": [
+        "بطاقة ائتمان",
+        "مدى",
+        "STC Pay",
+        "كاش"
+      ],
+      "promos_current": [
+        "عروض وخصومات مستمرة",
+        "كوبونات تخفيض"
+      ],
+      "complaints_level": "معتدلة",
+      "complaints_notes": "أسعار مرتفعة أحياناً، جودة الخدمة تعتمد على المندوب",
+      "strengths": [
+        "مرونة كاملة - اطلب أي شي",
+        "تواصل مباشر مع المندوب",
+        "تغطية شاملة"
+      ],
+      "weaknesses": [
+        "أغلى تطبيق",
+        "جودة غير مضمونة",
+        "لا يوجد ضبط مركزي للأسعار"
+      ],
+      "source": "deliverywolf.net, crunchbase.com, wikipedia, play.google.com"
+    },
+    {
+      "id": "toyou",
+      "name_ar": "تويو",
+      "name_en": "ToYou",
+      "website": "toyou.io",
+      "founded": 2023,
+      "owner": "شركة سعودية",
+      "app_rating_google": 4.1,
+      "app_rating_apple": 4.0,
+      "market_position": 5,
+      "market_share_pct": 5,
+      "delivery_fee": {
+        "min_sar": 5,
+        "max_sar": 25,
+        "average_sar": 10,
+        "surge_pricing": false,
+        "free_delivery_available": true,
+        "notes": "توصيل بـ 5 ريال لكثير من المطاعم عند استخدام أكواد الخصم من تويتر"
+      },
+      "subscription": null,
+      "delivery_time": {
+        "riyadh_avg_min": 30,
+        "riyadh_range": "25-45 دقيقة",
+        "notes": "سريع نسبياً"
+      },
+      "coverage": {
+        "cities_count": 57,
+        "riyadh_districts": [
+          "معظم أحياء الرياض"
+        ],
+        "coverage_level": "جيدة"
+      },
+      "restaurant_partners": 15000,
+      "services": [
+        "طعام",
+        "تسوق",
+        "مشاوير"
+      ],
+      "payment_methods": [
+        "بطاقة ائتمان",
+        "مدى",
+        "Apple Pay",
+        "كاش",
+        "اشترِ الآن وادفع لاحقاً"
+      ],
+      "promos_current": [
+        "30 يوم توصيل مجاني للعملاء الجدد",
+        "50 ريال رصيد ترحيبي",
+        "أكواد خصم متاحة على تويتر بشكل مستمر"
+      ],
+      "complaints_level": "معتدلة",
+      "complaints_notes": "بعض المستخدمين لاحظوا زيادة أسعار على الحلويات تصل 17 ريال",
+      "strengths": [
+        "تطبيق شامل",
+        "ميزة اشترِ الآن ادفع لاحقاً",
+        "شراكات مع KFC وستاربكس وماكدونالدز"
+      ],
+      "weaknesses": [
+        "زيادة أسعار على بعض الأصناف",
+        "تطبيق جديد نسبياً"
+      ],
+      "source": "toyou.io, enatega.com, reddit r/saudiarabia, deliverywolf.net"
+    },
+    {
+      "id": "talabat",
+      "name_ar": "طلبات",
+      "name_en": "Talabat",
+      "website": "talabat.com",
+      "founded": 2004,
+      "owner": "Delivery Hero (Germany)",
+      "app_rating_google": 4.3,
+      "app_rating_apple": 4.4,
+      "market_position": 6,
+      "market_share_pct": 5,
+      "delivery_fee": {
+        "min_sar": 5,
+        "max_sar": 20,
+        "average_sar": 10,
+        "surge_pricing": true,
+        "free_delivery_available": true,
+        "notes": "رسوم حسب المسافة + رسوم خدمة كنسبة من الطلب"
+      },
+      "subscription": null,
+      "delivery_time": {
+        "riyadh_avg_min": 35,
+        "riyadh_range": "30-50 دقيقة",
+        "notes": "متوسط السرعة"
+      },
+      "coverage": {
+        "cities_count": 20,
+        "riyadh_districts": [
+          "المناطق الرئيسية"
+        ],
+        "coverage_level": "جيدة في المدن الكبرى"
+      },
+      "restaurant_partners": 10000,
+      "services": [
+        "طعام",
+        "بقالة (Talabat Mart)",
+        "أدوية"
+      ],
+      "payment_methods": [
+        "بطاقة ائتمان",
+        "مدى",
+        "Talabat Pay",
+        "كاش"
+      ],
+      "promos_current": [
+        "خصومات متكررة",
+        "عروض ترويجية مستمرة"
+      ],
+      "complaints_level": "معتدلة",
+      "strengths": [
+        "تطبيق عريق",
+        "انتشار خليجي",
+        "Talabat Mart للبقالة"
+      ],
+      "weaknesses": [
+        "تغطية محدودة مقارنة بهنقرستيشن وجاهز"
+      ],
+      "source": "enatega.com, talabat.com"
+    },
+    {
+      "id": "thechefz",
+      "name_ar": "ذا شفز",
+      "name_en": "The Chefz",
+      "website": "thechefz.co",
+      "founded": 2016,
+      "owner": "شركة سعودية",
+      "app_rating_google": 4.2,
+      "app_rating_apple": 4.1,
+      "market_position": 7,
+      "market_share_pct": 2,
+      "delivery_fee": {
+        "min_sar": 6,
+        "max_sar": 35,
+        "average_sar": 8,
+        "surge_pricing": false,
+        "free_delivery_available": false,
+        "notes": "رسوم منخفضة ثابتة لكن متخصص بالمطاعم الفاخرة"
+      },
+      "subscription": null,
+      "delivery_time": {
+        "riyadh_avg_min": 30,
+        "riyadh_range": "25-45 دقيقة",
+        "notes": "احترافية عالية بالتوصيل"
+      },
+      "coverage": {
+        "cities_count": 5,
+        "riyadh_districts": [
+          "العليا",
+          "الملقا",
+          "حطين",
+          "السفارات",
+          "KAFD",
+          "المناطق الراقية"
+        ],
+        "coverage_level": "محدودة - تركز على المناطق الراقية"
+      },
+      "restaurant_partners": 12429,
+      "services": [
+        "طعام فاخر",
+        "حلويات",
+        "هدايا",
+        "زهور"
+      ],
+      "payment_methods": [
+        "بطاقة ائتمان",
+        "مدى",
+        "Apple Pay"
+      ],
+      "promos_current": [
+        "الأقل خصومات لكن يعوّض برسوم توصيل منخفضة"
+      ],
+      "complaints_level": "معتدلة",
+      "complaints_notes": "محدودية التغطية الجغرافية",
+      "strengths": [
+        "متخصص بالمطاعم الفاخرة",
+        "تعامل مهذب من السائقين",
+        "رسوم منخفضة"
+      ],
+      "weaknesses": [
+        "تغطية محدودة",
+        "أقل خصومات"
+      ],
+      "source": "saudi-tips.com, thechefz.co, enatega.com"
+    },
+    {
+      "id": "nana",
+      "name_ar": "نعناع",
+      "name_en": "Nana",
+      "website": "nana.sa",
+      "founded": 2016,
+      "owner": "شركة سعودية",
+      "app_rating_google": 4.8,
+      "app_rating_apple": 4.7,
+      "market_position": null,
+      "market_share_pct": null,
+      "delivery_fee": {
+        "min_sar": 0,
+        "max_sar": 15,
+        "average_sar": 7,
+        "surge_pricing": false,
+        "free_delivery_available": true,
+        "notes": "متخصص بقالة. توصيل خلال 20 دقيقة"
+      },
+      "subscription": null,
+      "delivery_time": {
+        "riyadh_avg_min": 20,
+        "riyadh_range": "15-30 دقيقة",
+        "notes": "سريع جداً للبقالة"
+      },
+      "coverage": {
+        "cities_count": 15,
+        "riyadh_districts": [
+          "معظم أحياء الرياض"
+        ],
+        "coverage_level": "جيدة"
+      },
+      "restaurant_partners": null,
+      "services": [
+        "بقالة",
+        "مواد غذائية",
+        "مستلزمات منزلية",
+        "طعام"
+      ],
+      "payment_methods": [
+        "بطاقة ائتمان",
+        "مدى",
+        "Apple Pay",
+        "كاش"
+      ],
+      "promos_current": [
+        "أكواد خصم متاحة",
+        "توصيل مجاني على طلبات معينة"
+      ],
+      "complaints_level": "منخفضة",
+      "strengths": [
+        "أعلى تقييم بالمتجر",
+        "سرعة فائقة",
+        "متخصص بقالة",
+        "دقة عالية"
+      ],
+      "weaknesses": [
+        "محدود بالبقالة أساساً"
+      ],
+      "source": "nana.sa, deliverywolf.net, play.google.com"
+    },
+    {
+      "id": "shgardi",
+      "name_ar": "شقردي",
+      "name_en": "Shgardi",
+      "website": "shgardi.app",
+      "founded": 2020,
+      "owner": "شركة سعودية",
+      "app_rating_google": 4.3,
+      "app_rating_apple": 4.2,
+      "market_position": null,
+      "market_share_pct": null,
+      "delivery_fee": {
+        "min_sar": 5,
+        "max_sar": 20,
+        "average_sar": 10,
+        "surge_pricing": false,
+        "free_delivery_available": true,
+        "notes": "أسعار تنافسية"
+      },
+      "delivery_time": {
+        "riyadh_avg_min": 30,
+        "riyadh_range": "25-45 دقيقة"
+      },
+      "coverage": {
+        "cities_count": 80,
+        "riyadh_districts": [
+          "معظم أحياء الرياض"
+        ],
+        "coverage_level": "واسعة"
+      },
+      "restaurant_partners": 10000,
+      "services": [
+        "طعام",
+        "بقالة",
+        "أدوية",
+        "طرود"
+      ],
+      "strengths": [
+        "تغطية واسعة",
+        "300,000+ سائق",
+        "دعم 24/7"
+      ],
+      "weaknesses": [
+        "أقل شهرة"
+      ],
+      "source": "enatega.com, shgardi.app"
+    }
+  ],
+  "ranking_summary": {
+    "cheapest_delivery": [
+      "keeta",
+      "jahez",
+      "toyou"
+    ],
+    "fastest_delivery": [
+      "hungerstation",
+      "jahez",
+      "keeta"
+    ],
+    "best_coverage": [
+      "hungerstation",
+      "mrsool",
+      "jahez"
+    ],
+    "best_promos": [
+      "keeta",
+      "toyou",
+      "hungerstation"
+    ],
+    "best_rated": [
+      "hungerstation",
+      "keeta",
+      "nana"
+    ],
+    "best_for_luxury": [
+      "thechefz"
+    ],
+    "most_flexible": [
+      "mrsool"
+    ],
+    "best_for_groceries": [
+      "nana",
+      "hungerstation"
+    ],
+    "notes": "كيتا هو المُزعزع الجديد - توصيل مجاني وأسعار أقل. هنقرستيشن لا يزال الأكبر والأسرع."
+  }
+}

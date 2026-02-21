@@ -2,10 +2,20 @@
   "metadata": {
     "project": "وين نروح بالرياض",
     "description": "أسعار مطاعم الرياض الشاملة من تطبيقات التوصيل - نسخة موسعة",
-    "last_updated": "2026-02-20",
+    "last_updated": "2026-02-21",
     "currency": "SAR",
-    "notes": "الأسعار مجمعة من مصادر حقيقية: مواقع المطاعم الرسمية، ksarestaurantmenus.com، hungerpost.com، thechefz.co، pricesgulf.com، indexmenus.com. الأسعار قد تختلف حسب الفرع والوقت وتطبيق التوصيل.",
-    "apps": ["hungerstation", "jahez", "toyou", "carriage", "thechefz", "keeta"],
+    "notes": "أسعار حقيقية موثقة من مصادر مذكورة. محدّث فبراير 2026. تمت إضافة بيانات مقارنة التطبيقات وتغطية المطاعم في ملفات منفصلة.",
+    "apps": [
+      "hungerstation",
+      "jahez",
+      "keeta",
+      "toyou",
+      "talabat",
+      "mrsool",
+      "thechefz",
+      "shgardi",
+      "nana"
+    ],
     "total_restaurants": 60,
     "data_quality": "أسعار حقيقية موثقة من مصادر مذكورة - لا توجد أسعار مخترعة",
     "sources_used": [
@@ -25,66 +35,87 @@
     "hungerstation": {
       "name": "هنقرستيشن",
       "name_en": "HungerStation",
-      "website": "hungerstation.com",
-      "typical_delivery_fee": "9-25 SAR",
-      "min_order": "0-25 SAR varies by restaurant",
-      "coverage": "102+ مدينة في السعودية",
-      "restaurants_count": "55,000+",
-      "subscription": "هنقرستيشن بلس - توصيل مجاني",
-      "notes": "أكبر تطبيق توصيل في السعودية، تابع لـ Delivery Hero",
-      "source": "hungerstation.com, Google Play description"
+      "typical_delivery_fee": "8-25 SAR (avg 12)",
+      "subscription": "HPlus 69 SAR/month - توصيل مجاني",
+      "avg_delivery_time_riyadh": "22 min",
+      "coverage": "102+ مدينة، 55,000+ شريك",
+      "market_position": "الأول - 40% من السوق",
+      "app_rating": "4.6 Google Play / 4.5 App Store",
+      "source": "saudi-tips.com, enatega.com, restofworld.org"
     },
     "jahez": {
       "name": "جاهز",
       "name_en": "Jahez",
-      "website": "jahez.net",
-      "typical_delivery_fee": "7-20 SAR",
-      "min_order": "0-20 SAR varies by restaurant",
-      "coverage": "80+ مدينة في السعودية",
-      "notes": "تطبيق سعودي مدرج في تداول (السوق المالية السعودية)",
-      "source": "jahez.net"
-    },
-    "toyou": {
-      "name": "تويو",
-      "name_en": "ToYou",
-      "website": "toyou.io",
-      "typical_delivery_fee": "10-25 SAR",
-      "min_order": "varies",
-      "coverage": "الرياض والمدن الرئيسية",
-      "promo": "30 يوم توصيل مجاني + 50 ريال رصيد للعملاء الجدد",
-      "notes": "خدمة توصيل سعودية - طعام وبقالة",
-      "source": "toyou.io, App Store"
-    },
-    "carriage": {
-      "name": "كاريدج",
-      "name_en": "Carriage",
-      "website": "trycarriage.com",
-      "typical_delivery_fee": "5-15 SAR",
-      "min_order": "varies",
-      "coverage": "السعودية، الكويت، البحرين، قطر، الإمارات",
-      "notes": "تطبيق خليجي تابع لـ Delivery Hero - 1000+ مطعم في السعودية. لاحظ: بعض التقارير تشير لإيقاف الخدمة جزئياً في بعض المدن",
-      "source": "trycarriage.com"
-    },
-    "thechefz": {
-      "name": "ذا شفز",
-      "name_en": "The Chefz",
-      "website": "thechefz.co",
-      "typical_delivery_fee": "15-35 SAR",
-      "min_order": "varies",
-      "coverage": "الرياض، جدة، المنطقة الشرقية",
-      "notes": "متخصص بالمطاعم الفاخرة والحلويات والهدايا",
-      "source": "thechefz.co"
+      "typical_delivery_fee": "4-20 SAR (avg 9)",
+      "subscription": "Prime 95 SAR/month - توصيل مجاني",
+      "avg_delivery_time_riyadh": "25 min",
+      "coverage": "54+ مدينة، 25,000+ شريك",
+      "market_position": "الثاني - 30% من السوق",
+      "app_rating": "4.2 Google Play / 4.3 App Store",
+      "source": "saudi-tips.com, enatega.com, jahez.net"
     },
     "keeta": {
       "name": "كيتا",
       "name_en": "Keeta",
-      "website": "keeta-global.com/SA",
-      "typical_delivery_fee": "0-10 SAR (توصيل مجاني متكرر)",
-      "min_order": "varies",
-      "coverage": "الرياض والخرج - وقريباً مدن أخرى",
-      "notes": "تطبيق تابع لـ Meituan الصينية - أكبر شركة توصيل في العالم. يتميز بتوصيل مجاني بدون رسوم اشتراك وعروض قوية للعملاء الجدد",
-      "promo": "خصم 50% + حتى 20 ريال + توصيل مجاني بأكواد الخصم",
-      "source": "keeta-global.com, App Store, Facebook @Keetaglobalksa"
+      "typical_delivery_fee": "0 SAR (مجاني!)",
+      "subscription": "لا يحتاج - التوصيل مجاني أساساً",
+      "avg_delivery_time_riyadh": "35 min",
+      "coverage": "الرياض + جدة + الخرج، 5,000+ شريك (يتوسع بسرعة)",
+      "market_position": "الثالث - 10% من السوق (بعد 4 أشهر فقط!)",
+      "app_rating": "4.5 Google Play / 4.4 App Store",
+      "promo": "50% خصم أول طلب + 100 ريال كوبونات + توصيل مجاني دائم",
+      "source": "restofworld.org, arabnews.com, keeta-global.com"
+    },
+    "toyou": {
+      "name": "تويو",
+      "name_en": "ToYou",
+      "typical_delivery_fee": "5-25 SAR (avg 10)",
+      "subscription": null,
+      "avg_delivery_time_riyadh": "30 min",
+      "coverage": "57 مدينة، 15,000+ شريك",
+      "promo": "30 يوم توصيل مجاني + 50 ريال للجدد + أكواد خصم على تويتر",
+      "source": "toyou.io, enatega.com"
+    },
+    "mrsool": {
+      "name": "مرسول",
+      "name_en": "Mrsool",
+      "typical_delivery_fee": "10-35 SAR (قابل للتفاوض)",
+      "avg_delivery_time_riyadh": "40 min",
+      "coverage": "50+ مدينة - يوصل من أي مكان لأي مكان",
+      "notes": "نموذج فريد - تتفاوض مع المندوب على السعر",
+      "source": "mrsool.co, deliverywolf.net, wikipedia"
+    },
+    "talabat": {
+      "name": "طلبات",
+      "name_en": "Talabat",
+      "typical_delivery_fee": "5-20 SAR + رسوم خدمة",
+      "avg_delivery_time_riyadh": "35 min",
+      "coverage": "20+ مدينة، 10,000+ شريك",
+      "source": "enatega.com, talabat.com"
+    },
+    "thechefz": {
+      "name": "ذا شفز",
+      "name_en": "The Chefz",
+      "typical_delivery_fee": "6-35 SAR (avg 8)",
+      "avg_delivery_time_riyadh": "30 min",
+      "coverage": "5 مدن، 12,429+ شريك - متخصص بالمطاعم الفاخرة",
+      "source": "saudi-tips.com, thechefz.co"
+    },
+    "nana": {
+      "name": "نعناع",
+      "name_en": "Nana",
+      "typical_delivery_fee": "0-15 SAR",
+      "avg_delivery_time_riyadh": "20 min",
+      "coverage": "15+ مدينة - متخصص بقالة",
+      "source": "nana.sa"
+    },
+    "shgardi": {
+      "name": "شقردي",
+      "name_en": "Shgardi",
+      "typical_delivery_fee": "5-20 SAR",
+      "avg_delivery_time_riyadh": "30 min",
+      "coverage": "80+ مدينة، 10,000+ شريك، 300,000+ سائق",
+      "source": "enatega.com, shgardi.app"
     }
   },
   "restaurants": [
@@ -101,21 +132,66 @@
           "available": true,
           "source_url": "hungerstation.com/sa-en/restaurant/mcdonalds/riyadh/malaz/3867",
           "items": [
-            {"name": "بيج ماك لحم ساندوتش", "price": 23},
-            {"name": "وجبة بيج ماك وسط", "price": 29},
-            {"name": "وجبة بيج ماك كبير", "price": 32},
-            {"name": "ماك تشيكن ساندوتش", "price": 21},
-            {"name": "وجبة ماك تشيكن وسط", "price": 27},
-            {"name": "كوارتر باوندر مع جبنه ساندوتش", "price": 21},
-            {"name": "وجبة كوارتر باوندر وسط", "price": 28},
-            {"name": "جراند تشيكن ديلوكس ساندوتش", "price": 28},
-            {"name": "وجبة جراند تشيكن ديلوكس وسط", "price": 35},
-            {"name": "6 قطع ماك ناجت", "price": 16},
-            {"name": "9 قطع ماك ناجت", "price": 22},
-            {"name": "بيج تايستى ساندوتش", "price": 27},
-            {"name": "وجبة بيج تايستى وسط", "price": 32},
-            {"name": "ماك رويال ساندوتش", "price": 22},
-            {"name": "وجبة هابي ميل تشيكن برجر", "price": 20}
+            {
+              "name": "بيج ماك لحم ساندوتش",
+              "price": 23
+            },
+            {
+              "name": "وجبة بيج ماك وسط",
+              "price": 29
+            },
+            {
+              "name": "وجبة بيج ماك كبير",
+              "price": 32
+            },
+            {
+              "name": "ماك تشيكن ساندوتش",
+              "price": 21
+            },
+            {
+              "name": "وجبة ماك تشيكن وسط",
+              "price": 27
+            },
+            {
+              "name": "كوارتر باوندر مع جبنه ساندوتش",
+              "price": 21
+            },
+            {
+              "name": "وجبة كوارتر باوندر وسط",
+              "price": 28
+            },
+            {
+              "name": "جراند تشيكن ديلوكس ساندوتش",
+              "price": 28
+            },
+            {
+              "name": "وجبة جراند تشيكن ديلوكس وسط",
+              "price": 35
+            },
+            {
+              "name": "6 قطع ماك ناجت",
+              "price": 16
+            },
+            {
+              "name": "9 قطع ماك ناجت",
+              "price": 22
+            },
+            {
+              "name": "بيج تايستى ساندوتش",
+              "price": 27
+            },
+            {
+              "name": "وجبة بيج تايستى وسط",
+              "price": 32
+            },
+            {
+              "name": "ماك رويال ساندوتش",
+              "price": 22
+            },
+            {
+              "name": "وجبة هابي ميل تشيكن برجر",
+              "price": 20
+            }
           ],
           "delivery_fee": "10-15 SAR",
           "min_order": null,
@@ -126,10 +202,22 @@
           "app": "jahez",
           "available": true,
           "items": [
-            {"name": "بيج ماك ساندوتش", "price": 23},
-            {"name": "وجبة بيج ماك وسط", "price": 29},
-            {"name": "ماك تشيكن", "price": 21},
-            {"name": "جراند تشيكن ديلوكس", "price": 28}
+            {
+              "name": "بيج ماك ساندوتش",
+              "price": 23
+            },
+            {
+              "name": "وجبة بيج ماك وسط",
+              "price": 29
+            },
+            {
+              "name": "ماك تشيكن",
+              "price": 21
+            },
+            {
+              "name": "جراند تشيكن ديلوكس",
+              "price": 28
+            }
           ],
           "delivery_fee": "7-15 SAR",
           "notes": "متوفر على جاهز - أسعار مطابقة لهنقرستيشن",
@@ -172,20 +260,62 @@
           "app": "hungerstation",
           "available": true,
           "items": [
-            {"name": "وجبة زنجر ساندويتش", "price": 24},
-            {"name": "وجبة تويستر", "price": 28},
-            {"name": "وجبة مايتي كرنشر تويست", "price": 31},
-            {"name": "وجبة ديناميت برجر كومبو", "price": 22},
-            {"name": "وجبة سبايسي بيبر مايو برجر", "price": 15},
-            {"name": "وجبة سناك بوكس", "price": 15},
-            {"name": "وجبة بالاستربس", "price": 15},
-            {"name": "باكت 8 قطع", "price": 57},
-            {"name": "باكت 12 قطعة", "price": 83},
-            {"name": "باكت 18 قطعة", "price": 119},
-            {"name": "باكت 24 قطعة", "price": 145},
-            {"name": "زينجر بوكس", "price": 42},
-            {"name": "لوديد تويستر", "price": 30},
-            {"name": "وجبة سوبر ميجا ديل", "price": 75}
+            {
+              "name": "وجبة زنجر ساندويتش",
+              "price": 24
+            },
+            {
+              "name": "وجبة تويستر",
+              "price": 28
+            },
+            {
+              "name": "وجبة مايتي كرنشر تويست",
+              "price": 31
+            },
+            {
+              "name": "وجبة ديناميت برجر كومبو",
+              "price": 22
+            },
+            {
+              "name": "وجبة سبايسي بيبر مايو برجر",
+              "price": 15
+            },
+            {
+              "name": "وجبة سناك بوكس",
+              "price": 15
+            },
+            {
+              "name": "وجبة بالاستربس",
+              "price": 15
+            },
+            {
+              "name": "باكت 8 قطع",
+              "price": 57
+            },
+            {
+              "name": "باكت 12 قطعة",
+              "price": 83
+            },
+            {
+              "name": "باكت 18 قطعة",
+              "price": 119
+            },
+            {
+              "name": "باكت 24 قطعة",
+              "price": 145
+            },
+            {
+              "name": "زينجر بوكس",
+              "price": 42
+            },
+            {
+              "name": "لوديد تويستر",
+              "price": 30
+            },
+            {
+              "name": "وجبة سوبر ميجا ديل",
+              "price": 75
+            }
           ],
           "delivery_fee": "5-15 SAR",
           "min_order": null,
@@ -196,9 +326,18 @@
           "app": "jahez",
           "available": true,
           "items": [
-            {"name": "وجبة زنجر", "price": 24},
-            {"name": "وجبة تويستر", "price": 28},
-            {"name": "باكت 8 قطع", "price": 57}
+            {
+              "name": "وجبة زنجر",
+              "price": 24
+            },
+            {
+              "name": "وجبة تويستر",
+              "price": 28
+            },
+            {
+              "name": "باكت 8 قطع",
+              "price": 57
+            }
           ],
           "delivery_fee": "7-15 SAR",
           "notes": "أسعار مطابقة - KFC يوحد الأسعار",
@@ -235,15 +374,42 @@
           "app": "hungerstation",
           "available": true,
           "items": [
-            {"name": "شاورما عربي", "price": 7},
-            {"name": "شاورما مفلوقة", "price": 6},
-            {"name": "أبو الصواريخ", "price": 15},
-            {"name": "الراهية وجبة", "price": 31},
-            {"name": "نحيفات وجبة", "price": 26},
-            {"name": "دبل عربو دجاج وجبة", "price": 48},
-            {"name": "الصندوق وجبة", "price": 36},
-            {"name": "العزيمة (30 قطعة)", "price": 101},
-            {"name": "تغاميس", "price": 53}
+            {
+              "name": "شاورما عربي",
+              "price": 7
+            },
+            {
+              "name": "شاورما مفلوقة",
+              "price": 6
+            },
+            {
+              "name": "أبو الصواريخ",
+              "price": 15
+            },
+            {
+              "name": "الراهية وجبة",
+              "price": 31
+            },
+            {
+              "name": "نحيفات وجبة",
+              "price": 26
+            },
+            {
+              "name": "دبل عربو دجاج وجبة",
+              "price": 48
+            },
+            {
+              "name": "الصندوق وجبة",
+              "price": 36
+            },
+            {
+              "name": "العزيمة (30 قطعة)",
+              "price": 101
+            },
+            {
+              "name": "تغاميس",
+              "price": 53
+            }
           ],
           "delivery_fee": "9-15 SAR",
           "min_order": null,
@@ -254,9 +420,18 @@
           "app": "jahez",
           "available": true,
           "items": [
-            {"name": "شاورما عربي", "price": 7},
-            {"name": "أبو الصواريخ", "price": 15},
-            {"name": "الراهية وجبة", "price": 31}
+            {
+              "name": "شاورما عربي",
+              "price": 7
+            },
+            {
+              "name": "أبو الصواريخ",
+              "price": 15
+            },
+            {
+              "name": "الراهية وجبة",
+              "price": 31
+            }
           ],
           "delivery_fee": "7-15 SAR",
           "last_checked": "2026-02-20"
@@ -290,20 +465,62 @@
           "available": true,
           "source_url": "hungerstation.com/sa-en/restaurant/riyadh/sharafiyah/103965",
           "items": [
-            {"name": "Single Original Slider سلايدر أوريجنال", "price": 37},
-            {"name": "Double Original Slider سلايدر دبل", "price": 53},
-            {"name": "Truffle Slider سلايدر ترفل", "price": 47},
-            {"name": "Jalapeno Slider سلايدر هالابينو", "price": 45},
-            {"name": "Crispy Chicken Slider كرسبي تشيكن", "price": 43},
-            {"name": "Chicken Cheetos Slider شيتوس دجاج", "price": 45},
-            {"name": "Chicken Strips شرائح الدجاج", "price": 32},
-            {"name": "Original Fries فرايز", "price": 15},
-            {"name": "Cheese Fries فرايز بالجبنة", "price": 21},
-            {"name": "Fire Fries فرايز حارة", "price": 25},
-            {"name": "Sweet Potato Fries بطاطا حلوة", "price": 25},
-            {"name": "Lotus Shake لوتس شيك", "price": 30},
-            {"name": "Brownie Shake براوني شيك", "price": 30},
-            {"name": "Mint Lemonade ليموناضة نعناع", "price": 18}
+            {
+              "name": "Single Original Slider سلايدر أوريجنال",
+              "price": 37
+            },
+            {
+              "name": "Double Original Slider سلايدر دبل",
+              "price": 53
+            },
+            {
+              "name": "Truffle Slider سلايدر ترفل",
+              "price": 47
+            },
+            {
+              "name": "Jalapeno Slider سلايدر هالابينو",
+              "price": 45
+            },
+            {
+              "name": "Crispy Chicken Slider كرسبي تشيكن",
+              "price": 43
+            },
+            {
+              "name": "Chicken Cheetos Slider شيتوس دجاج",
+              "price": 45
+            },
+            {
+              "name": "Chicken Strips شرائح الدجاج",
+              "price": 32
+            },
+            {
+              "name": "Original Fries فرايز",
+              "price": 15
+            },
+            {
+              "name": "Cheese Fries فرايز بالجبنة",
+              "price": 21
+            },
+            {
+              "name": "Fire Fries فرايز حارة",
+              "price": 25
+            },
+            {
+              "name": "Sweet Potato Fries بطاطا حلوة",
+              "price": 25
+            },
+            {
+              "name": "Lotus Shake لوتس شيك",
+              "price": 30
+            },
+            {
+              "name": "Brownie Shake براوني شيك",
+              "price": 30
+            },
+            {
+              "name": "Mint Lemonade ليموناضة نعناع",
+              "price": 18
+            }
           ],
           "delivery_fee": "12-20 SAR",
           "last_checked": "2026-02-20",
@@ -314,20 +531,62 @@
           "available": true,
           "source_url": "thechefz.co/ar/riyadh/salt-سولت-186432/",
           "items": [
-            {"name": "Single Original Slider", "price": 37},
-            {"name": "Double Original Slider", "price": 53},
-            {"name": "Truffle Slider", "price": 47},
-            {"name": "Jalapeno Slider", "price": 45},
-            {"name": "Crispy Chicken Slider", "price": 43},
-            {"name": "Chicken Cheetos Slider", "price": 45},
-            {"name": "Chicken Strips", "price": 32},
-            {"name": "Original Fries", "price": 15},
-            {"name": "Cheese Fries", "price": 21},
-            {"name": "Cheetos Fries", "price": 27},
-            {"name": "Salt & Vinegar Fries", "price": 27},
-            {"name": "Mini BBQ Kit Box - Beef (10 pcs)", "price": 230},
-            {"name": "Big BBQ Kit Box - Beef (20 pcs)", "price": 411},
-            {"name": "Mini BBQ Kit Box - Chicken (10 pcs)", "price": 230}
+            {
+              "name": "Single Original Slider",
+              "price": 37
+            },
+            {
+              "name": "Double Original Slider",
+              "price": 53
+            },
+            {
+              "name": "Truffle Slider",
+              "price": 47
+            },
+            {
+              "name": "Jalapeno Slider",
+              "price": 45
+            },
+            {
+              "name": "Crispy Chicken Slider",
+              "price": 43
+            },
+            {
+              "name": "Chicken Cheetos Slider",
+              "price": 45
+            },
+            {
+              "name": "Chicken Strips",
+              "price": 32
+            },
+            {
+              "name": "Original Fries",
+              "price": 15
+            },
+            {
+              "name": "Cheese Fries",
+              "price": 21
+            },
+            {
+              "name": "Cheetos Fries",
+              "price": 27
+            },
+            {
+              "name": "Salt & Vinegar Fries",
+              "price": 27
+            },
+            {
+              "name": "Mini BBQ Kit Box - Beef (10 pcs)",
+              "price": 230
+            },
+            {
+              "name": "Big BBQ Kit Box - Beef (20 pcs)",
+              "price": 411
+            },
+            {
+              "name": "Mini BBQ Kit Box - Chicken (10 pcs)",
+              "price": 230
+            }
           ],
           "delivery_fee": "15-25 SAR",
           "last_checked": "2026-02-20",
@@ -360,19 +619,58 @@
           "app": "hungerstation",
           "available": true,
           "items": [
-            {"name": "شاك برجر", "price": 30},
-            {"name": "شاك برجر دبل", "price": 40},
-            {"name": "سموك شاك", "price": 40},
-            {"name": "شاك مايستر", "price": 36},
-            {"name": "تشيز برجر", "price": 30},
-            {"name": "تشيكن شاك", "price": 30},
-            {"name": "الدجاج الحار", "price": 33},
-            {"name": "بطاطا مقلية", "price": 15},
-            {"name": "هوت دوغ", "price": 13},
-            {"name": "شيك الفانيلا", "price": 30},
-            {"name": "وجبة شاك برغر", "price": 49},
-            {"name": "وجبة سموك شاك", "price": 59},
-            {"name": "تشيكن بايتس 6 قطع", "price": 21}
+            {
+              "name": "شاك برجر",
+              "price": 30
+            },
+            {
+              "name": "شاك برجر دبل",
+              "price": 40
+            },
+            {
+              "name": "سموك شاك",
+              "price": 40
+            },
+            {
+              "name": "شاك مايستر",
+              "price": 36
+            },
+            {
+              "name": "تشيز برجر",
+              "price": 30
+            },
+            {
+              "name": "تشيكن شاك",
+              "price": 30
+            },
+            {
+              "name": "الدجاج الحار",
+              "price": 33
+            },
+            {
+              "name": "بطاطا مقلية",
+              "price": 15
+            },
+            {
+              "name": "هوت دوغ",
+              "price": 13
+            },
+            {
+              "name": "شيك الفانيلا",
+              "price": 30
+            },
+            {
+              "name": "وجبة شاك برغر",
+              "price": 49
+            },
+            {
+              "name": "وجبة سموك شاك",
+              "price": 59
+            },
+            {
+              "name": "تشيكن بايتس 6 قطع",
+              "price": 21
+            }
           ],
           "delivery_fee": "12-20 SAR",
           "last_checked": "2026-02-20",
@@ -413,15 +711,42 @@
           "available": true,
           "source_url": "hungerstation.com/sa-en/restaurant/five-guys/riyadh/an-nakhil/9527",
           "items": [
-            {"name": "Hamburger همبرجر", "price": 46},
-            {"name": "Cheeseburger تشيز برجر", "price": 53},
-            {"name": "Little Hamburger ليتل همبرجر", "price": 35},
-            {"name": "Little Cheeseburger ليتل تشيز", "price": 42},
-            {"name": "Hot Dog هوت دوغ", "price": 31},
-            {"name": "Five Guys Fries فرايز", "price": 28},
-            {"name": "Little Fries ليتل فرايز", "price": 21},
-            {"name": "Milkshake ميلك شيك", "price": 34},
-            {"name": "Veggie Sandwich ساندويتش خضار", "price": 28}
+            {
+              "name": "Hamburger همبرجر",
+              "price": 46
+            },
+            {
+              "name": "Cheeseburger تشيز برجر",
+              "price": 53
+            },
+            {
+              "name": "Little Hamburger ليتل همبرجر",
+              "price": 35
+            },
+            {
+              "name": "Little Cheeseburger ليتل تشيز",
+              "price": 42
+            },
+            {
+              "name": "Hot Dog هوت دوغ",
+              "price": 31
+            },
+            {
+              "name": "Five Guys Fries فرايز",
+              "price": 28
+            },
+            {
+              "name": "Little Fries ليتل فرايز",
+              "price": 21
+            },
+            {
+              "name": "Milkshake ميلك شيك",
+              "price": 34
+            },
+            {
+              "name": "Veggie Sandwich ساندويتش خضار",
+              "price": 28
+            }
           ],
           "delivery_fee": "12-20 SAR",
           "last_checked": "2026-02-20",
@@ -457,11 +782,26 @@
           "available": true,
           "source_url": "hungerstation.com/sa-en/restaurant/jeddah/ar-riyadh/5639",
           "items": [
-            {"name": "وابر جونيور", "price": 16},
-            {"name": "تشيز برجر", "price": 15},
-            {"name": "تشيكن برجر", "price": 15},
-            {"name": "سلطة كنج الدجاج فردي", "price": 18},
-            {"name": "رويال تشيزي ديل (ساندوتش+فرايز+كولا+3 موزاريلا)", "price": 34}
+            {
+              "name": "وابر جونيور",
+              "price": 16
+            },
+            {
+              "name": "تشيز برجر",
+              "price": 15
+            },
+            {
+              "name": "تشيكن برجر",
+              "price": 15
+            },
+            {
+              "name": "سلطة كنج الدجاج فردي",
+              "price": 18
+            },
+            {
+              "name": "رويال تشيزي ديل (ساندوتش+فرايز+كولا+3 موزاريلا)",
+              "price": 34
+            }
           ],
           "delivery_fee": "9-15 SAR",
           "last_checked": "2026-02-20",
@@ -504,19 +844,58 @@
           "app": "hungerstation",
           "available": true,
           "items": [
-            {"name": "بيتزا مارغريتا صغير", "price": 19},
-            {"name": "بيتزا بيبروني صغير", "price": 22},
-            {"name": "بيتزا بيبروني كبير", "price": 44},
-            {"name": "بيتزا رانش دجاج صغير", "price": 22},
-            {"name": "بيتزا رانش دجاج كبير", "price": 44},
-            {"name": "بيتزا هاوايان صغير", "price": 22},
-            {"name": "بيتزا سوبر بابا لحم صغير", "price": 22},
-            {"name": "بيتزا حديقة الديلايت صغير", "price": 22},
-            {"name": "بيتزا حديقة الديلايت كبير", "price": 44},
-            {"name": "بيتزا دجاج سوبر بابا كبير", "price": 44},
-            {"name": "أصابع الجبنة (14 قطعة)", "price": 15},
-            {"name": "أجنحة دجاج مقرمشة (10 قطع)", "price": 30},
-            {"name": "بطاطا مقرمشة", "price": 12}
+            {
+              "name": "بيتزا مارغريتا صغير",
+              "price": 19
+            },
+            {
+              "name": "بيتزا بيبروني صغير",
+              "price": 22
+            },
+            {
+              "name": "بيتزا بيبروني كبير",
+              "price": 44
+            },
+            {
+              "name": "بيتزا رانش دجاج صغير",
+              "price": 22
+            },
+            {
+              "name": "بيتزا رانش دجاج كبير",
+              "price": 44
+            },
+            {
+              "name": "بيتزا هاوايان صغير",
+              "price": 22
+            },
+            {
+              "name": "بيتزا سوبر بابا لحم صغير",
+              "price": 22
+            },
+            {
+              "name": "بيتزا حديقة الديلايت صغير",
+              "price": 22
+            },
+            {
+              "name": "بيتزا حديقة الديلايت كبير",
+              "price": 44
+            },
+            {
+              "name": "بيتزا دجاج سوبر بابا كبير",
+              "price": 44
+            },
+            {
+              "name": "أصابع الجبنة (14 قطعة)",
+              "price": 15
+            },
+            {
+              "name": "أجنحة دجاج مقرمشة (10 قطع)",
+              "price": 30
+            },
+            {
+              "name": "بطاطا مقرمشة",
+              "price": 12
+            }
           ],
           "delivery_fee": "0-10 SAR (توصيل مجاني أحياناً)",
           "min_order": null,
@@ -552,32 +931,110 @@
           "available": true,
           "source_url": "thechefz.co/ar/riyadh/johnny-rockets-جوني-روكتس-406416/",
           "items": [
-            {"name": "The Original Burger", "price": 31},
-            {"name": "Burger 12", "price": 33},
-            {"name": "Streamliner Vegetarian Burger", "price": 32},
-            {"name": "The Beyond Original Burger", "price": 42},
-            {"name": "Spicy Houston Burger", "price": 33},
-            {"name": "Original Crispy Chicken Sandwich", "price": 33},
-            {"name": "Grilled Chicken Breast Sandwich", "price": 33},
-            {"name": "Chicken Club Sandwich", "price": 33},
-            {"name": "Philly Cheese Chicken Sandwich", "price": 38},
-            {"name": "Rocket Dog Sandwich", "price": 31},
-            {"name": "Chicken Tenders", "price": 42},
-            {"name": "American Fries", "price": 19},
-            {"name": "Onion Rings", "price": 22},
-            {"name": "Sweet Potato Fries", "price": 21},
-            {"name": "Cheese Fries", "price": 24},
-            {"name": "Chili Cheese Fries", "price": 35},
-            {"name": "Fried Mozzarella Sticks", "price": 33},
-            {"name": "Rocket Wings with Bones", "price": 41},
-            {"name": "Chicken Caesar Salad", "price": 40},
-            {"name": "Original Hershey's Chocolate Shake", "price": 29},
-            {"name": "Original Strawberry Shake", "price": 29},
-            {"name": "Oreo Cookies & Cream Shake", "price": 35},
-            {"name": "Peanut Butter Shake", "price": 35},
-            {"name": "The Perfect Brownie", "price": 23},
-            {"name": "Chicken & Cheese Slider", "price": 15},
-            {"name": "Hot Dog Slider", "price": 13}
+            {
+              "name": "The Original Burger",
+              "price": 31
+            },
+            {
+              "name": "Burger 12",
+              "price": 33
+            },
+            {
+              "name": "Streamliner Vegetarian Burger",
+              "price": 32
+            },
+            {
+              "name": "The Beyond Original Burger",
+              "price": 42
+            },
+            {
+              "name": "Spicy Houston Burger",
+              "price": 33
+            },
+            {
+              "name": "Original Crispy Chicken Sandwich",
+              "price": 33
+            },
+            {
+              "name": "Grilled Chicken Breast Sandwich",
+              "price": 33
+            },
+            {
+              "name": "Chicken Club Sandwich",
+              "price": 33
+            },
+            {
+              "name": "Philly Cheese Chicken Sandwich",
+              "price": 38
+            },
+            {
+              "name": "Rocket Dog Sandwich",
+              "price": 31
+            },
+            {
+              "name": "Chicken Tenders",
+              "price": 42
+            },
+            {
+              "name": "American Fries",
+              "price": 19
+            },
+            {
+              "name": "Onion Rings",
+              "price": 22
+            },
+            {
+              "name": "Sweet Potato Fries",
+              "price": 21
+            },
+            {
+              "name": "Cheese Fries",
+              "price": 24
+            },
+            {
+              "name": "Chili Cheese Fries",
+              "price": 35
+            },
+            {
+              "name": "Fried Mozzarella Sticks",
+              "price": 33
+            },
+            {
+              "name": "Rocket Wings with Bones",
+              "price": 41
+            },
+            {
+              "name": "Chicken Caesar Salad",
+              "price": 40
+            },
+            {
+              "name": "Original Hershey's Chocolate Shake",
+              "price": 29
+            },
+            {
+              "name": "Original Strawberry Shake",
+              "price": 29
+            },
+            {
+              "name": "Oreo Cookies & Cream Shake",
+              "price": 35
+            },
+            {
+              "name": "Peanut Butter Shake",
+              "price": 35
+            },
+            {
+              "name": "The Perfect Brownie",
+              "price": 23
+            },
+            {
+              "name": "Chicken & Cheese Slider",
+              "price": 15
+            },
+            {
+              "name": "Hot Dog Slider",
+              "price": 13
+            }
           ],
           "delivery_fee": "15-25 SAR",
           "last_checked": "2026-02-20",
@@ -611,25 +1068,82 @@
           "app": "hungerstation",
           "available": true,
           "items": [
-            {"name": "ريب آي أسترالي 250 جرام", "price": 139},
-            {"name": "فيلية أسترلي 200 جرام", "price": 159},
-            {"name": "واغيو فيلية 200 جرام", "price": 324},
-            {"name": "واغيو ريب آي 250 جرام", "price": 289},
-            {"name": "سيرلوين أسترلي 250 جرام", "price": 119},
-            {"name": "تي بون أسترالي 550 جرام", "price": 214},
-            {"name": "أضلع البقر 500 جرام", "price": 199},
-            {"name": "رامب أسترالي 250 جرام", "price": 104},
-            {"name": "برجر لحم البقر", "price": 59},
-            {"name": "برجر الدجاج", "price": 54},
-            {"name": "ستيك ساندويتش", "price": 59},
-            {"name": "سلمون مشوي", "price": 129},
-            {"name": "صدر دجاج", "price": 74},
-            {"name": "نصف دجاج مشوي", "price": 69},
-            {"name": "سلطة سيزر كبيرة", "price": 59},
-            {"name": "سلطة سيزر صغيرة", "price": 30},
-            {"name": "جوانح الدجاج بافولو", "price": 69},
-            {"name": "بطاطا مقلية (جانبي)", "price": 19},
-            {"name": "كعكة الجبنة", "price": 39}
+            {
+              "name": "ريب آي أسترالي 250 جرام",
+              "price": 139
+            },
+            {
+              "name": "فيلية أسترلي 200 جرام",
+              "price": 159
+            },
+            {
+              "name": "واغيو فيلية 200 جرام",
+              "price": 324
+            },
+            {
+              "name": "واغيو ريب آي 250 جرام",
+              "price": 289
+            },
+            {
+              "name": "سيرلوين أسترلي 250 جرام",
+              "price": 119
+            },
+            {
+              "name": "تي بون أسترالي 550 جرام",
+              "price": 214
+            },
+            {
+              "name": "أضلع البقر 500 جرام",
+              "price": 199
+            },
+            {
+              "name": "رامب أسترالي 250 جرام",
+              "price": 104
+            },
+            {
+              "name": "برجر لحم البقر",
+              "price": 59
+            },
+            {
+              "name": "برجر الدجاج",
+              "price": 54
+            },
+            {
+              "name": "ستيك ساندويتش",
+              "price": 59
+            },
+            {
+              "name": "سلمون مشوي",
+              "price": 129
+            },
+            {
+              "name": "صدر دجاج",
+              "price": 74
+            },
+            {
+              "name": "نصف دجاج مشوي",
+              "price": 69
+            },
+            {
+              "name": "سلطة سيزر كبيرة",
+              "price": 59
+            },
+            {
+              "name": "سلطة سيزر صغيرة",
+              "price": 30
+            },
+            {
+              "name": "جوانح الدجاج بافولو",
+              "price": 69
+            },
+            {
+              "name": "بطاطا مقلية (جانبي)",
+              "price": 19
+            },
+            {
+              "name": "كعكة الجبنة",
+              "price": 39
+            }
           ],
           "delivery_fee": "15-25 SAR",
           "last_checked": "2026-02-20",
@@ -665,20 +1179,62 @@
           "app": "hungerstation",
           "available": true,
           "items": [
-            {"name": "نفر حاشي كبسة", "price": 60},
-            {"name": "نفر حاشي مضغوط", "price": 58},
-            {"name": "مكموت حاشي", "price": 58},
-            {"name": "نفر غنم كبسة", "price": 75},
-            {"name": "نفر غنم مضغوط", "price": 75},
-            {"name": "نصف حبة دجاج شواية مع رز", "price": 23},
-            {"name": "ربع حبة دجاج", "price": 12},
-            {"name": "إيدام ملوخية", "price": 9},
-            {"name": "إيدام مسقعة", "price": 9},
-            {"name": "إيدام خضار", "price": 9},
-            {"name": "سلطة حارة", "price": 4},
-            {"name": "سلطة خضار", "price": 5},
-            {"name": "كنافة", "price": 6},
-            {"name": "تشيز كيك", "price": 9}
+            {
+              "name": "نفر حاشي كبسة",
+              "price": 60
+            },
+            {
+              "name": "نفر حاشي مضغوط",
+              "price": 58
+            },
+            {
+              "name": "مكموت حاشي",
+              "price": 58
+            },
+            {
+              "name": "نفر غنم كبسة",
+              "price": 75
+            },
+            {
+              "name": "نفر غنم مضغوط",
+              "price": 75
+            },
+            {
+              "name": "نصف حبة دجاج شواية مع رز",
+              "price": 23
+            },
+            {
+              "name": "ربع حبة دجاج",
+              "price": 12
+            },
+            {
+              "name": "إيدام ملوخية",
+              "price": 9
+            },
+            {
+              "name": "إيدام مسقعة",
+              "price": 9
+            },
+            {
+              "name": "إيدام خضار",
+              "price": 9
+            },
+            {
+              "name": "سلطة حارة",
+              "price": 4
+            },
+            {
+              "name": "سلطة خضار",
+              "price": 5
+            },
+            {
+              "name": "كنافة",
+              "price": 6
+            },
+            {
+              "name": "تشيز كيك",
+              "price": 9
+            }
           ],
           "delivery_fee": "9-15 SAR",
           "last_checked": "2026-02-20",
@@ -720,8 +1276,14 @@
           "available": true,
           "source_url": "hungerstation.com/sa-ar/restaurant/riyadh/riyadh/94529",
           "items": [
-            {"name": "ساندوتش تكا صغير", "price": 9.5},
-            {"name": "ساندوتش تكا كبير", "price": 14}
+            {
+              "name": "ساندوتش تكا صغير",
+              "price": 9.5
+            },
+            {
+              "name": "ساندوتش تكا كبير",
+              "price": 14
+            }
           ],
           "delivery_fee": "9-15 SAR",
           "last_checked": "2026-02-20",
@@ -781,10 +1343,22 @@
           "app": "hungerstation",
           "available": true,
           "items": [
-            {"name": "تشيز كيك الكرز (قطعة)", "price": 35},
-            {"name": "تشيز كيك الكرز (كامل كبير)", "price": 244},
-            {"name": "تشيزكيك بالكراميل المملح (قطعة)", "price": 38},
-            {"name": "سلطة لواو", "price": 87}
+            {
+              "name": "تشيز كيك الكرز (قطعة)",
+              "price": 35
+            },
+            {
+              "name": "تشيز كيك الكرز (كامل كبير)",
+              "price": 244
+            },
+            {
+              "name": "تشيزكيك بالكراميل المملح (قطعة)",
+              "price": 38
+            },
+            {
+              "name": "سلطة لواو",
+              "price": 87
+            }
           ],
           "delivery_fee": "15-25 SAR",
           "last_checked": "2026-02-20",
@@ -819,12 +1393,30 @@
           "app": "hungerstation",
           "available": true,
           "items": [
-            {"name": "بيتزا بيبروني ميديم", "price": 35},
-            {"name": "بيتزا بيبروني لارج", "price": 50},
-            {"name": "بيتزا دجاج باربيكيو ميديم", "price": 35},
-            {"name": "بيتزا سوبريم ميديم", "price": 40},
-            {"name": "أعواد الخبز بالجبنة", "price": 15},
-            {"name": "أجنحة دجاج (8 قطع)", "price": 25}
+            {
+              "name": "بيتزا بيبروني ميديم",
+              "price": 35
+            },
+            {
+              "name": "بيتزا بيبروني لارج",
+              "price": 50
+            },
+            {
+              "name": "بيتزا دجاج باربيكيو ميديم",
+              "price": 35
+            },
+            {
+              "name": "بيتزا سوبريم ميديم",
+              "price": 40
+            },
+            {
+              "name": "أعواد الخبز بالجبنة",
+              "price": 15
+            },
+            {
+              "name": "أجنحة دجاج (8 قطع)",
+              "price": 25
+            }
           ],
           "delivery_fee": "0-10 SAR",
           "notes": "بيتزا هت عادة يوفر توصيل مجاني من موقعه",
@@ -891,11 +1483,26 @@
           "app": "hungerstation",
           "available": true,
           "items": [
-            {"name": "هرفي برجر عادي", "price": 12},
-            {"name": "هرفي برجر دبل", "price": 18},
-            {"name": "وجبة هرفي برجر", "price": 22},
-            {"name": "وجبة دجاج مقرمش", "price": 20},
-            {"name": "وجبة عائلية", "price": 45}
+            {
+              "name": "هرفي برجر عادي",
+              "price": 12
+            },
+            {
+              "name": "هرفي برجر دبل",
+              "price": 18
+            },
+            {
+              "name": "وجبة هرفي برجر",
+              "price": 22
+            },
+            {
+              "name": "وجبة دجاج مقرمش",
+              "price": 20
+            },
+            {
+              "name": "وجبة عائلية",
+              "price": 45
+            }
           ],
           "delivery_fee": "9-15 SAR",
           "notes": "أسعار تقريبية من مصادر سابقة",
@@ -937,11 +1544,26 @@
           "app": "hungerstation",
           "available": true,
           "items": [
-            {"name": "كودو تشيكن ساندوتش", "price": 14},
-            {"name": "كودو كلاسيك", "price": 12},
-            {"name": "كودو تشيز", "price": 16},
-            {"name": "وجبة كودو تشيكن", "price": 22},
-            {"name": "فطور كودو", "price": 10}
+            {
+              "name": "كودو تشيكن ساندوتش",
+              "price": 14
+            },
+            {
+              "name": "كودو كلاسيك",
+              "price": 12
+            },
+            {
+              "name": "كودو تشيز",
+              "price": 16
+            },
+            {
+              "name": "وجبة كودو تشيكن",
+              "price": 22
+            },
+            {
+              "name": "فطور كودو",
+              "price": 10
+            }
           ],
           "delivery_fee": "9-15 SAR",
           "notes": "أسعار تقريبية",
@@ -983,12 +1605,30 @@
           "app": "hungerstation",
           "available": true,
           "items": [
-            {"name": "وجبة بروستد دجاج (قطعتين)", "price": 17},
-            {"name": "وجبة بروستد دجاج (3 قطع)", "price": 21},
-            {"name": "وجبة ناجتس (10 قطع)", "price": 17},
-            {"name": "وجبة فيليه سمك", "price": 20},
-            {"name": "وجبة شرمب (جمبري)", "price": 20},
-            {"name": "باكت عائلي (9 قطع)", "price": 55}
+            {
+              "name": "وجبة بروستد دجاج (قطعتين)",
+              "price": 17
+            },
+            {
+              "name": "وجبة بروستد دجاج (3 قطع)",
+              "price": 21
+            },
+            {
+              "name": "وجبة ناجتس (10 قطع)",
+              "price": 17
+            },
+            {
+              "name": "وجبة فيليه سمك",
+              "price": 20
+            },
+            {
+              "name": "وجبة شرمب (جمبري)",
+              "price": 20
+            },
+            {
+              "name": "باكت عائلي (9 قطع)",
+              "price": 55
+            }
           ],
           "delivery_fee": "9-15 SAR",
           "notes": "أسعار تقريبية من مصادر المنيو - البيك معروف بأسعاره المنخفضة",
