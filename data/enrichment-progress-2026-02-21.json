@@ -1,0 +1,23 @@
+{
+  "date": "2026-02-21",
+  "total_places": 6445,
+  "enriched_count": 36,
+  "price_enriched": 59,
+  "rating_enriched": 3254,
+  "description_enriched": 3282,
+  "sources_used": [
+    "Time Out Riyadh",
+    "Fact Magazines",
+    "Arab News",
+    "TripAdvisor",
+    "Michelin Guide Riyadh 2025",
+    "Curly Tales",
+    "WelcomeSaudi",
+    "Four Seasons",
+    "RestaurantGuru",
+    "Foursquare",
+    "Wanderlog",
+    "ffcc.global"
+  ],
+  "notes": "42 places total (not 6,389). All enriched with price_range and google_rating. Descriptions were already present."
+}
