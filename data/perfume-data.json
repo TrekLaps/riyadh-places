@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-02-20",
-    "version": "1.0",
+    "last_updated": "2026-02-21",
+    "version": "2.0",
     "data_sources": [
       "fragrantica.com",
       "arabianoud.com",
@@ -54,8 +54,18 @@
       "phone": "920022227",
       "website": "https://sa.arabianoud.com",
       "instagram": "@arabianoud",
-      "price_range_sar": { "min": 50, "max": 5000 },
-      "specialty": ["عود", "بخور", "عطور شرقية", "عطور غربية", "دهن عود", "مسك"],
+      "price_range_sar": {
+        "min": 50,
+        "max": 5000
+      },
+      "specialty": [
+        "عود",
+        "بخور",
+        "عطور شرقية",
+        "عطور غربية",
+        "دهن عود",
+        "مسك"
+      ],
       "google_rating": 4.3,
       "description": "أكبر شركة عطور شرقية في العالم، أكثر من 900 فرع في 35 دولة، أكثر من 400 عطر فريد"
     },
@@ -104,8 +114,19 @@
       "phone": "920007173",
       "website": "https://sa.abdulsamadalqurashi.com",
       "instagram": "@asaboriginal",
-      "price_range_sar": { "min": 100, "max": 50000 },
-      "specialty": ["عود فاخر", "دهن العود", "مسك", "عنبر", "زعفران", "عطور فاخرة", "بخور"],
+      "price_range_sar": {
+        "min": 100,
+        "max": 50000
+      },
+      "specialty": [
+        "عود فاخر",
+        "دهن العود",
+        "مسك",
+        "عنبر",
+        "زعفران",
+        "عطور فاخرة",
+        "بخور"
+      ],
       "google_rating": 4.4,
       "description": "من أعرق شركات العطور العربية، تأسست عام 1852م، متخصصة في العود والمسك والعنبر الفاخر"
     },
@@ -150,8 +171,18 @@
       "phone": "920001828",
       "website": "https://www.almajed4oud.com",
       "instagram": "@almajed4oud",
-      "price_range_sar": { "min": 30, "max": 3000 },
-      "specialty": ["عود", "بخور", "عطور شرقية", "عطور فرنسية", "معطرات منزلية", "منتجات العناية"],
+      "price_range_sar": {
+        "min": 30,
+        "max": 3000
+      },
+      "specialty": [
+        "عود",
+        "بخور",
+        "عطور شرقية",
+        "عطور فرنسية",
+        "معطرات منزلية",
+        "منتجات العناية"
+      ],
       "google_rating": 4.2,
       "description": "أكثر من 1000 علامة تجارية، عطور شرقية وفرنسية، أكثر من 150 فرع في السعودية"
     },
@@ -171,8 +202,16 @@
       "phone": "920033374",
       "website": "https://www.ahmedalmaghribi.com",
       "instagram": "@ahmedalmaghribi",
-      "price_range_sar": { "min": 200, "max": 8000 },
-      "specialty": ["عطور نيش فاخرة", "عود", "دهن العود", "عطور حصرية"],
+      "price_range_sar": {
+        "min": 200,
+        "max": 8000
+      },
+      "specialty": [
+        "عطور نيش فاخرة",
+        "عود",
+        "دهن العود",
+        "عطور حصرية"
+      ],
       "google_rating": 4.5,
       "description": "ماركة سعودية فاخرة متخصصة في العطور النيش والعود الفاخر، تشتهر بجودة عالية"
     },
@@ -195,8 +234,16 @@
       "phone": "0114622233",
       "website": "https://www.rasasi.com",
       "instagram": "@rasasi",
-      "price_range_sar": { "min": 40, "max": 600 },
-      "specialty": ["عطور شرقية", "عطور غربية", "بخور", "عود"],
+      "price_range_sar": {
+        "min": 40,
+        "max": 600
+      },
+      "specialty": [
+        "عطور شرقية",
+        "عطور غربية",
+        "بخور",
+        "عود"
+      ],
       "google_rating": 4.1,
       "description": "شركة إماراتية عريقة تأسست 1979، تقدم مجموعة واسعة من العطور بأسعار متوسطة"
     },
@@ -217,8 +264,16 @@
       "phone": "0112345678",
       "website": "https://www.swissarabian.com",
       "instagram": "@swissarabian",
-      "price_range_sar": { "min": 50, "max": 800 },
-      "specialty": ["عطور شرقية-غربية", "عود", "بخور", "مخمريات"],
+      "price_range_sar": {
+        "min": 50,
+        "max": 800
+      },
+      "specialty": [
+        "عطور شرقية-غربية",
+        "عود",
+        "بخور",
+        "مخمريات"
+      ],
       "google_rating": 4.0,
       "description": "علامة تجارية تجمع بين الخبرة السويسرية والعطور العربية الأصيلة منذ 1974"
     },
@@ -238,8 +293,15 @@
       "phone": "N/A",
       "website": "https://www.lattafa.com",
       "instagram": "@lattafa_perfumes",
-      "price_range_sar": { "min": 25, "max": 200 },
-      "specialty": ["عطور بديلة (dupes)", "عطور شرقية", "عطور بأسعار مناسبة"],
+      "price_range_sar": {
+        "min": 25,
+        "max": 200
+      },
+      "specialty": [
+        "عطور بديلة (dupes)",
+        "عطور شرقية",
+        "عطور بأسعار مناسبة"
+      ],
       "google_rating": 4.3,
       "description": "ماركة إماراتية مشهورة بتقديم بدائل عالية الجودة للعطور الفاخرة بأسعار مناسبة جداً"
     },
@@ -262,8 +324,16 @@
       "phone": "920006tried",
       "website": "https://parisgalleryksa.com",
       "instagram": "@parisgallery",
-      "price_range_sar": { "min": 100, "max": 5000 },
-      "specialty": ["عطور عالمية", "ماركات فاخرة", "مستحضرات تجميل", "ساعات"],
+      "price_range_sar": {
+        "min": 100,
+        "max": 5000
+      },
+      "specialty": [
+        "عطور عالمية",
+        "ماركات فاخرة",
+        "مستحضرات تجميل",
+        "ساعات"
+      ],
       "google_rating": 4.2,
       "description": "وجهة فاخرة لأكثر من 600 ماركة عالمية في العطور ومستحضرات التجميل والساعات"
     },
@@ -290,8 +360,16 @@
       "phone": "920006060",
       "website": "https://www.faces.sa",
       "instagram": "@facesbeauty",
-      "price_range_sar": { "min": 80, "max": 4000 },
-      "specialty": ["عطور عالمية", "مستحضرات تجميل", "عناية بالبشرة", "ماركات نيش"],
+      "price_range_sar": {
+        "min": 80,
+        "max": 4000
+      },
+      "specialty": [
+        "عطور عالمية",
+        "مستحضرات تجميل",
+        "عناية بالبشرة",
+        "ماركات نيش"
+      ],
       "google_rating": 4.3,
       "description": "أكبر سلسلة متاجر تجميل وعطور في السعودية، توفر ماركات عالمية ونيش"
     },
@@ -314,8 +392,15 @@
       "phone": "920020808",
       "website": "https://www.sephora.sa",
       "instagram": "@sephoramiddleeast",
-      "price_range_sar": { "min": 100, "max": 3500 },
-      "specialty": ["عطور عالمية", "مستحضرات تجميل", "عناية بالبشرة"],
+      "price_range_sar": {
+        "min": 100,
+        "max": 3500
+      },
+      "specialty": [
+        "عطور عالمية",
+        "مستحضرات تجميل",
+        "عناية بالبشرة"
+      ],
       "google_rating": 4.1,
       "description": "سلسلة عالمية لمستحضرات التجميل والعطور، توفر ماركات متنوعة"
     },
@@ -333,8 +418,15 @@
       "phone": "0550123456",
       "website": "https://shameem.sa",
       "instagram": "@shameem_perfumes",
-      "price_range_sar": { "min": 150, "max": 2000 },
-      "specialty": ["عطور نيش", "عطور حصرية", "تركيبات خاصة"],
+      "price_range_sar": {
+        "min": 150,
+        "max": 2000
+      },
+      "specialty": [
+        "عطور نيش",
+        "عطور حصرية",
+        "تركيبات خاصة"
+      ],
       "google_rating": 4.4,
       "description": "ماركة سعودية تقدم عطور نيش حصرية بتركيبات مميزة"
     },
@@ -359,8 +451,16 @@
       "phone": "0114567890",
       "website": "https://daralteeb.com",
       "instagram": "@daralteeb",
-      "price_range_sar": { "min": 30, "max": 500 },
-      "specialty": ["عود", "بخور", "مسك", "عطور تقليدية"],
+      "price_range_sar": {
+        "min": 30,
+        "max": 500
+      },
+      "specialty": [
+        "عود",
+        "بخور",
+        "مسك",
+        "عطور تقليدية"
+      ],
       "google_rating": 4.0,
       "description": "متخصصة في البخور والعود والمسك التقليدي بأسعار مناسبة"
     },
@@ -382,8 +482,16 @@
       "phone": "0112341234",
       "website": "https://www.alharamainperfumes.com",
       "instagram": "@alharamainperfumes",
-      "price_range_sar": { "min": 30, "max": 1500 },
-      "specialty": ["عطور شرقية", "عود", "بخور", "عطور زيتية"],
+      "price_range_sar": {
+        "min": 30,
+        "max": 1500
+      },
+      "specialty": [
+        "عطور شرقية",
+        "عود",
+        "بخور",
+        "عطور زيتية"
+      ],
       "google_rating": 4.2,
       "description": "ماركة إماراتية عريقة تقدم عطور شرقية وبخور بجودة عالية"
     },
@@ -406,8 +514,17 @@
       "phone": "0112456789",
       "website": "https://www.ajmalperfume.com",
       "instagram": "@ajmalperfume",
-      "price_range_sar": { "min": 40, "max": 2000 },
-      "specialty": ["عود", "عطور شرقية", "عطور غربية", "بخور", "دهن العود"],
+      "price_range_sar": {
+        "min": 40,
+        "max": 2000
+      },
+      "specialty": [
+        "عود",
+        "عطور شرقية",
+        "عطور غربية",
+        "بخور",
+        "دهن العود"
+      ],
       "google_rating": 4.3,
       "description": "واحدة من أعرق شركات العطور في الشرق الأوسط منذ 1951، شعارها 'العطر ذاكرة'"
     },
@@ -426,8 +543,14 @@
       "phone": "N/A",
       "website": "https://www.armaf.co",
       "instagram": "@armaborni",
-      "price_range_sar": { "min": 35, "max": 250 },
-      "specialty": ["عطور بديلة (dupes)", "عطور بأسعار مناسبة"],
+      "price_range_sar": {
+        "min": 35,
+        "max": 250
+      },
+      "specialty": [
+        "عطور بديلة (dupes)",
+        "عطور بأسعار مناسبة"
+      ],
       "google_rating": 4.2,
       "description": "ماركة إماراتية مشهورة بتقديم بدائل ممتازة للعطور الفاخرة بأسعار معقولة، أشهرها Club de Nuit Intense"
     },
@@ -446,8 +569,15 @@
       "phone": "920006060",
       "website": "https://www.jomalone.sa",
       "instagram": "@jomaborni",
-      "price_range_sar": { "min": 250, "max": 1500 },
-      "specialty": ["عطور نيش بريطانية", "شموع معطرة", "عطور layering"],
+      "price_range_sar": {
+        "min": 250,
+        "max": 1500
+      },
+      "specialty": [
+        "عطور نيش بريطانية",
+        "شموع معطرة",
+        "عطور layering"
+      ],
       "google_rating": 4.5,
       "description": "ماركة بريطانية فاخرة تشتهر بعطور أنيقة وبسيطة يمكن دمجها (layering)"
     },
@@ -465,8 +595,14 @@
       "phone": "N/A",
       "website": "https://www.penhaligons.com",
       "instagram": "@penhaligons",
-      "price_range_sar": { "min": 500, "max": 2500 },
-      "specialty": ["عطور نيش بريطانية فاخرة", "عطور كلاسيكية"],
+      "price_range_sar": {
+        "min": 500,
+        "max": 2500
+      },
+      "specialty": [
+        "عطور نيش بريطانية فاخرة",
+        "عطور كلاسيكية"
+      ],
       "google_rating": 4.6,
       "description": "دار عطور بريطانية عريقة تأسست 1870، تحمل مذكرة ملكية بريطانية"
     },
@@ -483,8 +619,13 @@
       "phone": "N/A",
       "website": "https://www.xerjoff.com",
       "instagram": "@xerjoff",
-      "price_range_sar": { "min": 700, "max": 5000 },
-      "specialty": ["عطور نيش إيطالية فاخرة جداً"],
+      "price_range_sar": {
+        "min": 700,
+        "max": 5000
+      },
+      "specialty": [
+        "عطور نيش إيطالية فاخرة جداً"
+      ],
       "google_rating": 4.7,
       "description": "دار عطور إيطالية فاخرة، تُعد من أرقى العطور النيش في العالم"
     },
@@ -504,8 +645,14 @@
       "phone": "N/A",
       "website": "https://www.amouage.com",
       "instagram": "@amaborni",
-      "price_range_sar": { "min": 400, "max": 4000 },
-      "specialty": ["عطور نيش عُمانية فاخرة", "عطور شرقية راقية"],
+      "price_range_sar": {
+        "min": 400,
+        "max": 4000
+      },
+      "specialty": [
+        "عطور نيش عُمانية فاخرة",
+        "عطور شرقية راقية"
+      ],
       "google_rating": 4.6,
       "description": "دار عطور عُمانية فاخرة تأسست بأمر سلطاني، تجمع بين الفن الشرقي والغربي"
     },
@@ -523,8 +670,15 @@
       "phone": "920001234",
       "website": "https://www.ghawali.com",
       "instagram": "@ghawali",
-      "price_range_sar": { "min": 300, "max": 3000 },
-      "specialty": ["عطور نيش عربية", "عود فاخر", "تركيبات حصرية"],
+      "price_range_sar": {
+        "min": 300,
+        "max": 3000
+      },
+      "specialty": [
+        "عطور نيش عربية",
+        "عود فاخر",
+        "تركيبات حصرية"
+      ],
       "google_rating": 4.5,
       "description": "ماركة سعودية نيش فاخرة تقدم عطور عربية أصيلة بتصاميم فنية"
     },
@@ -541,8 +695,13 @@
       "phone": "N/A",
       "website": "https://www.thameenfragrance.com",
       "instagram": "@thameenfragrance",
-      "price_range_sar": { "min": 600, "max": 2000 },
-      "specialty": ["عطور نيش بريطانية-عربية"],
+      "price_range_sar": {
+        "min": 600,
+        "max": 2000
+      },
+      "specialty": [
+        "عطور نيش بريطانية-عربية"
+      ],
       "google_rating": 4.5,
       "description": "ماركة بريطانية مستوحاة من الثقافة العربية، عطور فاخرة ومميزة"
     },
@@ -561,8 +720,15 @@
       "phone": "0112345680",
       "website": "https://www.assafperfumes.com",
       "instagram": "@assafperfumes",
-      "price_range_sar": { "min": 200, "max": 5000 },
-      "specialty": ["عطور سعودية فاخرة", "عود", "تركيبات حصرية"],
+      "price_range_sar": {
+        "min": 200,
+        "max": 5000
+      },
+      "specialty": [
+        "عطور سعودية فاخرة",
+        "عود",
+        "تركيبات حصرية"
+      ],
       "google_rating": 4.4,
       "description": "ماركة سعودية تأسست 1988، تقدم عطور فاخرة وأصيلة"
     },
@@ -580,10 +746,951 @@
       "phone": "N/A",
       "website": "https://www.maisonalhambra.com",
       "instagram": "@maisonalhambra_official",
-      "price_range_sar": { "min": 25, "max": 150 },
-      "specialty": ["عطور بديلة (dupes)", "عطور بأسعار مناسبة جداً"],
+      "price_range_sar": {
+        "min": 25,
+        "max": 150
+      },
+      "specialty": [
+        "عطور بديلة (dupes)",
+        "عطور بأسعار مناسبة جداً"
+      ],
       "google_rating": 4.1,
       "description": "ماركة إماراتية تقدم بدائل ممتازة للعطور الفاخرة بأسعار اقتصادية"
+    },
+    {
+      "id": "deraah",
+      "name_ar": "درعه",
+      "name_en": "Deraah",
+      "founded": 1984,
+      "branches_riyadh": 40,
+      "branches_locations": [
+        "أكثر من 40 فرع منتشرة في كل أحياء الرياض",
+        "غرناطة مول",
+        "النخيل مول",
+        "العثيم مول",
+        "بانوراما مول",
+        "حياة مول",
+        "سلام مول",
+        "الرياض بارك",
+        "مركز المملكة",
+        "البوليفارد",
+        "Via Riyadh"
+      ],
+      "phone": "920005858",
+      "website": "https://www.deraahstore.com",
+      "instagram": "@deraahstores",
+      "price_range_sar": {
+        "min": 30,
+        "max": 2000
+      },
+      "specialty": [
+        "عطور فرنسية",
+        "عطور شرقية",
+        "عود",
+        "مستحضرات تجميل",
+        "إكسسوارات",
+        "عناية بالشعر"
+      ],
+      "google_rating": 4.1,
+      "description": "أكبر سلسلة عطور ومستحضرات في السعودية، 850+ فرع في 162 مدينة. عطور فرنسية وشرقية وعود وتجميل"
+    },
+    {
+      "id": "aldakheel-oud",
+      "name_ar": "الدخيل للعود",
+      "name_en": "Al Dakheel Oud",
+      "founded": 1984,
+      "branches_riyadh": 15,
+      "branches_locations": [
+        "سيتي مول الرياض",
+        "الرياض بارك",
+        "العثيم مول",
+        "غرناطة مول",
+        "النخيل مول",
+        "حي الازدهار",
+        "حي النسيم",
+        "حي السويدي",
+        "حي الشفا",
+        "حي الروضة",
+        "حي البديعة",
+        "حي اليرموك",
+        "سلام مول",
+        "بانوراما مول",
+        "حياة مول"
+      ],
+      "phone": "920006530",
+      "website": "https://sa.aldakheeloud.com",
+      "instagram": "@aldakheeloud",
+      "price_range_sar": {
+        "min": 30,
+        "max": 2000
+      },
+      "specialty": [
+        "عود",
+        "بخور",
+        "مخلطات",
+        "معطرات",
+        "عطور شرقية"
+      ],
+      "google_rating": 4.3,
+      "description": "شركة وطنية رائدة في صناعة العطور وتجارة العود منذ 1404هـ، أكثر من 70 فرع في السعودية والخليج"
+    },
+    {
+      "id": "qazaz",
+      "name_ar": "قزاز للعطور",
+      "name_en": "Qazaz Perfumes",
+      "founded": 1970,
+      "branches_riyadh": 3,
+      "branches_locations": [
+        "شارع الثلاثين",
+        "شارع الستين",
+        "الراشد مول"
+      ],
+      "phone": "0126479799",
+      "website": "",
+      "instagram": "@qazaz_perfumes",
+      "price_range_sar": {
+        "min": 100,
+        "max": 3000
+      },
+      "specialty": [
+        "عطور عالمية",
+        "عطور شرقية",
+        "مستحضرات تجميل",
+        "إكسسوارات",
+        "ساعات",
+        "مجوهرات"
+      ],
+      "google_rating": 4.2,
+      "description": "الوكيل الأول في السعودية لاستيراد العطور. عطور شرقية وعالمية ومستحضرات تجميل وإكسسوارات"
+    },
+    {
+      "id": "laure",
+      "name_ar": "لور",
+      "name_en": "Laure",
+      "founded": 1990,
+      "branches_riyadh": 5,
+      "branches_locations": [
+        "سنتريا مول",
+        "بانوراما مول",
+        "الحمراء مول",
+        "النخيل مول",
+        "الرياض بارك"
+      ],
+      "phone": "0556787830",
+      "website": "",
+      "instagram": "@laure_sa",
+      "price_range_sar": {
+        "min": 150,
+        "max": 3000
+      },
+      "specialty": [
+        "عطور عالمية",
+        "ديور",
+        "لانكوم",
+        "جيفنشي",
+        "مستحضرات تجميل",
+        "عناية بالبشرة"
+      ],
+      "google_rating": 4.3,
+      "description": "محلات راقية لبيع العطور والمستحضرات العالمية، تضم ماركات مثل ديور ولانكوم وجيفنشي"
+    },
+    {
+      "id": "mahmoud-saeed",
+      "name_ar": "محمود سعيد",
+      "name_en": "Mahmoud Saeed",
+      "founded": 1960,
+      "branches_riyadh": 5,
+      "branches_locations": [
+        "حي العليا",
+        "غرناطة مول",
+        "النخيل مول",
+        "الرياض بارك",
+        "سلام مول"
+      ],
+      "phone": "",
+      "website": "",
+      "instagram": "@mahmoudsaeed",
+      "price_range_sar": {
+        "min": 80,
+        "max": 3000
+      },
+      "specialty": [
+        "عطور عربية",
+        "عود",
+        "بخور",
+        "دهن عود"
+      ],
+      "google_rating": 4.3,
+      "description": "من أعرق محلات العطور في السعودية، عطور عربية أصيلة وعود وبخور فاخر"
+    },
+    {
+      "id": "abdul-khaliq-saeed",
+      "name_ar": "عبد الخالق سعيد",
+      "name_en": "Abdul Khaliq Saeed",
+      "founded": 1965,
+      "branches_riyadh": 4,
+      "branches_locations": [
+        "حي العليا",
+        "غرناطة مول",
+        "العثيم مول",
+        "النخيل مول"
+      ],
+      "phone": "",
+      "website": "",
+      "instagram": "",
+      "price_range_sar": {
+        "min": 50,
+        "max": 2000
+      },
+      "specialty": [
+        "عطور عربية",
+        "عود",
+        "بخور"
+      ],
+      "google_rating": 4.1,
+      "description": "من المحلات العريقة في بيع العطور العربية والعود والبخور في الرياض"
+    },
+    {
+      "id": "al-salman-oud",
+      "name_ar": "السلمان للعود",
+      "name_en": "Al Salman Oud",
+      "founded": 1995,
+      "branches_riyadh": 3,
+      "branches_locations": [
+        "حي الديرة - الإمام تركي بن عبدالله",
+        "حي البطحاء",
+        "حي العليا"
+      ],
+      "phone": "",
+      "website": "https://alsalmanoud.com",
+      "instagram": "@alsalmanoud",
+      "price_range_sar": {
+        "min": 50,
+        "max": 1500
+      },
+      "specialty": [
+        "تركيب عطور",
+        "عود",
+        "مخلطات خاصة",
+        "زعفران"
+      ],
+      "google_rating": 4.2,
+      "description": "أفضل محل تركيب عطور في الرياض، يشتهر بعطور العود خاصة عطر المملكة وعطر آدم"
+    },
+    {
+      "id": "afnan",
+      "name_ar": "أفنان للعطور",
+      "name_en": "Afnan Perfumes",
+      "founded": 2005,
+      "branches_riyadh": 3,
+      "branches_locations": [
+        "متوفرة في محلات التجزئة",
+        "أونلاين - نون/أمازون",
+        "محلات عطور مختلفة"
+      ],
+      "phone": "",
+      "website": "https://www.afnanperfumes.com",
+      "instagram": "@afnanperfumes",
+      "price_range_sar": {
+        "min": 30,
+        "max": 300
+      },
+      "specialty": [
+        "عطور شرقية",
+        "بدائل عطور فاخرة"
+      ],
+      "google_rating": 4.2,
+      "description": "ماركة إماراتية مشهورة بـ Supremacy Silver (بديل Creed Aventus) بأسعار معقولة"
+    },
+    {
+      "id": "al-khurais-oud",
+      "name_ar": "الخريص للعود",
+      "name_en": "Al Khurais Oud",
+      "founded": 2000,
+      "branches_riyadh": 2,
+      "branches_locations": [
+        "الرياض - المقر الرئيسي",
+        "أونلاين"
+      ],
+      "phone": "",
+      "website": "https://alkhurais.com",
+      "instagram": "@alkhuraisoud",
+      "price_range_sar": {
+        "min": 50,
+        "max": 3000
+      },
+      "specialty": [
+        "عود طبيعي",
+        "بخور",
+        "دهن عود"
+      ],
+      "google_rating": 4.3,
+      "description": "متخصص في بيع أجود أنواع العود والبخور ودهن العود الطبيعي"
+    },
+    {
+      "id": "vague-oud",
+      "name_ar": "فاغية العود",
+      "name_en": "Vague Oud",
+      "founded": 2010,
+      "branches_riyadh": 2,
+      "branches_locations": [
+        "الرياض",
+        "أونلاين - توصيل 24 ساعة"
+      ],
+      "phone": "",
+      "website": "https://vagueoud.com",
+      "instagram": "@vagueoud",
+      "price_range_sar": {
+        "min": 50,
+        "max": 2000
+      },
+      "specialty": [
+        "عود",
+        "بخور",
+        "عطور فاخرة"
+      ],
+      "google_rating": 4.4,
+      "description": "متخصص في العود والبخور والعطور الفاخرة مع توصيل للرياض خلال 24 ساعة وضمان ذهبي"
+    },
+    {
+      "id": "saudi-center-oud",
+      "name_ar": "المركز السعودي للعود",
+      "name_en": "Saudi Center for Oud",
+      "founded": 2005,
+      "branches_riyadh": 2,
+      "branches_locations": [
+        "الرياض",
+        "أونلاين"
+      ],
+      "phone": "",
+      "website": "https://oud-saudi.com",
+      "instagram": "@oudsaudi",
+      "price_range_sar": {
+        "min": 40,
+        "max": 2500
+      },
+      "specialty": [
+        "عود",
+        "بخور",
+        "عطور",
+        "زعفران"
+      ],
+      "google_rating": 4.2,
+      "description": "أجود أنواع العود والبخور والعطور والزعفران بأسعار منافسة وضمان الجودة"
+    },
+    {
+      "id": "abdoun-oud",
+      "name_ar": "عبدون للعود",
+      "name_en": "Abdoun Oud",
+      "founded": 2008,
+      "branches_riyadh": 2,
+      "branches_locations": [
+        "الرياض",
+        "أونلاين"
+      ],
+      "phone": "",
+      "website": "https://abduonoud.com",
+      "instagram": "@abduonoud",
+      "price_range_sar": {
+        "min": 30,
+        "max": 2000
+      },
+      "specialty": [
+        "بخور طبيعي",
+        "خشب عود",
+        "دهن عود",
+        "مسك طبيعي",
+        "مباخر"
+      ],
+      "google_rating": 4.3,
+      "description": "متخصص في أجود أنواع بخور وخشب ودهن العود والمسك الطبيعي"
+    },
+    {
+      "id": "azka-oud",
+      "name_ar": "أزكى للعود",
+      "name_en": "Azka Oud",
+      "founded": 2000,
+      "branches_riyadh": 1,
+      "branches_locations": [
+        "الرياض - أونلاين"
+      ],
+      "phone": "",
+      "website": "https://azkaoud.com",
+      "instagram": "@azkaoud",
+      "price_range_sar": {
+        "min": 30,
+        "max": 1500
+      },
+      "specialty": [
+        "بخور طبيعي",
+        "بخور محسن",
+        "دهن عود",
+        "عطورات"
+      ],
+      "google_rating": 4.1,
+      "description": "متخصص في العود والبخور منذ عام 2000م، بخور طبيعي ومحسن ودهن عود"
+    },
+    {
+      "id": "diwan-al-oud",
+      "name_ar": "ديوان العود",
+      "name_en": "Diwan Al Oud",
+      "founded": 2010,
+      "branches_riyadh": 2,
+      "branches_locations": [
+        "الرياض",
+        "أونلاين"
+      ],
+      "phone": "",
+      "website": "https://diwan-aloud.com",
+      "instagram": "@diwanaloud",
+      "price_range_sar": {
+        "min": 40,
+        "max": 3000
+      },
+      "specialty": [
+        "عود مروكي",
+        "عود مالينوا",
+        "دهن عود فاخر",
+        "مسك",
+        "بخور"
+      ],
+      "google_rating": 4.2,
+      "description": "متخصص في أجود أنواع العود ودهن العود الفاخر والمسك والبخور"
+    },
+    {
+      "id": "al-mansour-oud",
+      "name_ar": "المنصور للعود",
+      "name_en": "Al Mansour Oud",
+      "founded": 2012,
+      "branches_riyadh": 1,
+      "branches_locations": [
+        "الرياض - أونلاين"
+      ],
+      "phone": "",
+      "website": "https://almnsour.com",
+      "instagram": "@almnsour",
+      "price_range_sar": {
+        "min": 20,
+        "max": 1000
+      },
+      "specialty": [
+        "بخور",
+        "عطور",
+        "دهن عود"
+      ],
+      "google_rating": 4.0,
+      "description": "بخور وعطور ودهن عود بجودة عالية وأسعار في متناول الجميع"
+    },
+    {
+      "id": "perfume-palace",
+      "name_ar": "برفيوم بالاس",
+      "name_en": "Perfume Palace",
+      "founded": 2015,
+      "branches_riyadh": 2,
+      "branches_locations": [
+        "الرياض - حي العليا",
+        "أونلاين"
+      ],
+      "phone": "",
+      "website": "https://perfumes-palace.com",
+      "instagram": "@perfumespalace",
+      "price_range_sar": {
+        "min": 80,
+        "max": 3000
+      },
+      "specialty": [
+        "عطور عالمية",
+        "عطور نيش",
+        "عروض موسمية"
+      ],
+      "google_rating": 4.3,
+      "description": "وجهة فاخرة للعطور تجمع بين الجودة والعروض المغرية"
+    },
+    {
+      "id": "hind-al-oud",
+      "name_ar": "هند العود",
+      "name_en": "Hind Al Oud",
+      "founded": 2008,
+      "branches_riyadh": 2,
+      "branches_locations": [
+        "Via Riyadh",
+        "البوليفارد - حطين"
+      ],
+      "phone": "",
+      "website": "",
+      "instagram": "@hindaloud",
+      "price_range_sar": {
+        "min": 300,
+        "max": 5000
+      },
+      "specialty": [
+        "عود طبيعي فاخر",
+        "عطور نيش سعودية",
+        "دهن عود"
+      ],
+      "google_rating": 4.5,
+      "description": "ماركة سعودية نيش فاخرة متخصصة في العود الطبيعي والعطور الراقية"
+    },
+    {
+      "id": "nabeel",
+      "name_ar": "نبيل للعطور",
+      "name_en": "Nabeel Perfumes",
+      "founded": 1985,
+      "branches_riyadh": 4,
+      "branches_locations": [
+        "غرناطة مول",
+        "العثيم مول",
+        "سلام مول",
+        "محلات التجزئة"
+      ],
+      "phone": "",
+      "website": "https://www.nabeel.com",
+      "instagram": "@nabeelperfumes",
+      "price_range_sar": {
+        "min": 30,
+        "max": 500
+      },
+      "specialty": [
+        "عطور شرقية",
+        "بخور",
+        "معطرات"
+      ],
+      "google_rating": 4.1,
+      "description": "ماركة إماراتية عريقة في صناعة العطور الشرقية والبخور بأسعار متوسطة"
+    },
+    {
+      "id": "ard-al-zaafaran",
+      "name_ar": "أرض الزعفران",
+      "name_en": "Ard Al Zaafaran",
+      "founded": 2001,
+      "branches_riyadh": 3,
+      "branches_locations": [
+        "متوفرة في محلات التجزئة",
+        "أونلاين - نون/أمازون",
+        "محلات عطور مختلفة"
+      ],
+      "phone": "",
+      "website": "",
+      "instagram": "@ardalzaafaran",
+      "price_range_sar": {
+        "min": 20,
+        "max": 300
+      },
+      "specialty": [
+        "عطور شرقية",
+        "بخور",
+        "معطرات"
+      ],
+      "google_rating": 4.0,
+      "description": "ماركة إماراتية متخصصة في العطور الشرقية والبخور بأسعار اقتصادية"
+    },
+    {
+      "id": "al-rehab",
+      "name_ar": "الرحاب للعطور",
+      "name_en": "Al Rehab Perfumes",
+      "founded": 1975,
+      "branches_riyadh": 5,
+      "branches_locations": [
+        "حي البطحاء",
+        "حي الديرة",
+        "محلات التجزئة",
+        "الأسواق الشعبية",
+        "أونلاين"
+      ],
+      "phone": "",
+      "website": "",
+      "instagram": "@alrehab",
+      "price_range_sar": {
+        "min": 10,
+        "max": 150
+      },
+      "specialty": [
+        "عطور زيتية",
+        "عطور مركزة",
+        "أسعار اقتصادية جداً"
+      ],
+      "google_rating": 4.0,
+      "description": "ماركة سعودية مشهورة بالعطور الزيتية والمركزة بأسعار اقتصادية جداً"
+    },
+    {
+      "id": "surrati",
+      "name_ar": "السرتي للعطور",
+      "name_en": "Surrati Perfumes",
+      "founded": 1975,
+      "branches_riyadh": 3,
+      "branches_locations": [
+        "حي البطحاء",
+        "محلات التجزئة",
+        "أونلاين"
+      ],
+      "phone": "",
+      "website": "",
+      "instagram": "@surrati",
+      "price_range_sar": {
+        "min": 15,
+        "max": 200
+      },
+      "specialty": [
+        "عطور زيتية",
+        "عطور مركزة",
+        "بخور"
+      ],
+      "google_rating": 4.1,
+      "description": "ماركة سعودية من أقدم العلامات للعطور الزيتية في المملكة"
+    },
+    {
+      "id": "dakhoon",
+      "name_ar": "دخون",
+      "name_en": "Dakhoon",
+      "founded": 2015,
+      "branches_riyadh": 2,
+      "branches_locations": [
+        "الرياض مول",
+        "أونلاين"
+      ],
+      "phone": "",
+      "website": "",
+      "instagram": "@dakhoon",
+      "price_range_sar": {
+        "min": 50,
+        "max": 1500
+      },
+      "specialty": [
+        "عطور شرقية",
+        "خلطات فاخرة",
+        "بخور"
+      ],
+      "google_rating": 4.3,
+      "description": "محل متخصص في العطور الشرقية والخلطات الفاخرة والبخور"
+    },
+    {
+      "id": "hekayh",
+      "name_ar": "حكاية للعطور",
+      "name_en": "Hekayh Perfumes",
+      "founded": 2020,
+      "branches_riyadh": 1,
+      "branches_locations": [
+        "الرياض - أونلاين"
+      ],
+      "phone": "",
+      "website": "https://hekayhperfumes.com",
+      "instagram": "@hekayhperfumes",
+      "price_range_sar": {
+        "min": 50,
+        "max": 2000
+      },
+      "specialty": [
+        "عطور أصلية",
+        "ماركات عالمية"
+      ],
+      "google_rating": 4.2,
+      "description": "براند عطور سعودي يقدم عطور أصلية من أشهر الماركات العالمية"
+    },
+    {
+      "id": "khayala",
+      "name_ar": "خياله للعطور",
+      "name_en": "Khayala Perfumes",
+      "founded": 2020,
+      "branches_riyadh": 1,
+      "branches_locations": [
+        "الرياض - أونلاين"
+      ],
+      "phone": "",
+      "website": "https://khayala-sa.com",
+      "instagram": "@khayala_sa",
+      "price_range_sar": {
+        "min": 50,
+        "max": 2000
+      },
+      "specialty": [
+        "عطورات أصلية",
+        "مستحضرات تجميل"
+      ],
+      "google_rating": 4.3,
+      "description": "متجر عطور سعودي متخصص في العطورات والتجميل الأصلية 100%"
+    },
+    {
+      "id": "le-labo",
+      "name_ar": "لو لابو",
+      "name_en": "Le Labo",
+      "founded": 2006,
+      "branches_riyadh": 2,
+      "branches_locations": [
+        "Bloomingdale's الرياض",
+        "Via Riyadh"
+      ],
+      "phone": "",
+      "website": "https://www.lelabofragrances.com",
+      "instagram": "@lelabornyc",
+      "price_range_sar": {
+        "min": 500,
+        "max": 3000
+      },
+      "specialty": [
+        "عطور نيش أمريكية",
+        "عطور طازجة",
+        "Santal 33"
+      ],
+      "google_rating": 4.6,
+      "description": "دار عطور نيش أمريكية فاخرة تحضر العطور طازجة أمامك"
+    },
+    {
+      "id": "byredo",
+      "name_ar": "بايريدو",
+      "name_en": "Byredo",
+      "founded": 2006,
+      "branches_riyadh": 2,
+      "branches_locations": [
+        "Bloomingdale's الرياض",
+        "Via Riyadh"
+      ],
+      "phone": "",
+      "website": "https://www.byredo.com",
+      "instagram": "@officialbyredo",
+      "price_range_sar": {
+        "min": 500,
+        "max": 2500
+      },
+      "specialty": [
+        "عطور نيش سويدية",
+        "تصاميم مينيماليست",
+        "Gypsy Water"
+      ],
+      "google_rating": 4.5,
+      "description": "دار عطور سويدية نيش فاخرة بتصاميم مينيماليست أنيقة"
+    },
+    {
+      "id": "diptyque",
+      "name_ar": "ديبتيك",
+      "name_en": "Diptyque",
+      "founded": 1961,
+      "branches_riyadh": 2,
+      "branches_locations": [
+        "Bloomingdale's الرياض",
+        "Via Riyadh"
+      ],
+      "phone": "",
+      "website": "https://www.diptyqueparis.com",
+      "instagram": "@diptyque",
+      "price_range_sar": {
+        "min": 400,
+        "max": 2500
+      },
+      "specialty": [
+        "شموع معطرة فاخرة",
+        "عطور فرنسية نيش",
+        "Do Son"
+      ],
+      "google_rating": 4.5,
+      "description": "دار عطور فرنسية نيش تأسست 1961 في باريس، مشهورة بالشموع المعطرة"
+    },
+    {
+      "id": "mfk",
+      "name_ar": "ميزون فرنسيس كوركدجيان",
+      "name_en": "Maison Francis Kurkdjian",
+      "founded": 2009,
+      "branches_riyadh": 3,
+      "branches_locations": [
+        "متوفرة في Sephora وFaces وParis Gallery",
+        "Bloomingdale's",
+        "Via Riyadh"
+      ],
+      "phone": "",
+      "website": "https://www.franciskurkdjian.com",
+      "instagram": "@maisonfranciskurkdjian",
+      "price_range_sar": {
+        "min": 600,
+        "max": 3000
+      },
+      "specialty": [
+        "Baccarat Rouge 540",
+        "Oud Satin Mood",
+        "عطور نيش فرنسية"
+      ],
+      "google_rating": 4.7,
+      "description": "دار عطور نيش فرنسية فاخرة، Baccarat Rouge 540 من أكثر العطور مبيعاً في الخليج"
+    },
+    {
+      "id": "creed",
+      "name_ar": "كريد",
+      "name_en": "Creed",
+      "founded": 1760,
+      "branches_riyadh": 3,
+      "branches_locations": [
+        "Paris Gallery",
+        "Bloomingdale's",
+        "Ounass"
+      ],
+      "phone": "",
+      "website": "https://www.creedfragrances.com",
+      "instagram": "@caborni",
+      "price_range_sar": {
+        "min": 800,
+        "max": 5000
+      },
+      "specialty": [
+        "Aventus",
+        "Silver Mountain Water",
+        "عطور ملكية"
+      ],
+      "google_rating": 4.6,
+      "description": "دار عطور فرنسية نيش عريقة تأسست 1760، مشهورة بـ Aventus الأيقوني"
+    },
+    {
+      "id": "initio",
+      "name_ar": "إنيشيو",
+      "name_en": "Initio Parfums",
+      "founded": 2015,
+      "branches_riyadh": 3,
+      "branches_locations": [
+        "Paris Gallery",
+        "Bloomingdale's",
+        "Ounass"
+      ],
+      "phone": "",
+      "website": "https://www.initioparfums.com",
+      "instagram": "@initioparfums",
+      "price_range_sar": {
+        "min": 700,
+        "max": 2500
+      },
+      "specialty": [
+        "Oud for Greatness",
+        "Side Effect",
+        "عطور نيش قوية"
+      ],
+      "google_rating": 4.5,
+      "description": "دار عطور نيش فرنسية تركز على قوة الروائح وتأثيرها"
+    },
+    {
+      "id": "pdm",
+      "name_ar": "بارفيومز دي مارلي",
+      "name_en": "Parfums de Marly",
+      "founded": 2009,
+      "branches_riyadh": 3,
+      "branches_locations": [
+        "Paris Gallery",
+        "Bloomingdale's",
+        "Ounass"
+      ],
+      "phone": "",
+      "website": "https://www.parfums-de-marly.com",
+      "instagram": "@parfumsdemarly",
+      "price_range_sar": {
+        "min": 700,
+        "max": 2500
+      },
+      "specialty": [
+        "Layton",
+        "Pegasus",
+        "Delina"
+      ],
+      "google_rating": 4.5,
+      "description": "دار عطور نيش فرنسية مستوحاة من عصر لويس الخامس عشر"
+    },
+    {
+      "id": "nishane",
+      "name_ar": "نيشاني",
+      "name_en": "Nishane",
+      "founded": 2012,
+      "branches_riyadh": 2,
+      "branches_locations": [
+        "Faces",
+        "Paris Gallery"
+      ],
+      "phone": "",
+      "website": "https://www.nishane.com",
+      "instagram": "@nishaneperfumes",
+      "price_range_sar": {
+        "min": 500,
+        "max": 2000
+      },
+      "specialty": [
+        "Hacivat",
+        "Ani",
+        "عطور نيش تركية"
+      ],
+      "google_rating": 4.5,
+      "description": "دار عطور نيش تركية فاخرة، عطور مركزة وقوية ذات ثبات طويل"
+    },
+    {
+      "id": "mancera",
+      "name_ar": "مانسيرا",
+      "name_en": "Mancera",
+      "founded": 2008,
+      "branches_riyadh": 3,
+      "branches_locations": [
+        "Faces",
+        "Paris Gallery",
+        "أونلاين"
+      ],
+      "phone": "",
+      "website": "https://www.manceraparis.com",
+      "instagram": "@manceraparis",
+      "price_range_sar": {
+        "min": 300,
+        "max": 1500
+      },
+      "specialty": [
+        "Cedrat Boise",
+        "Roses Vanille",
+        "عطور نيش بأسعار معقولة"
+      ],
+      "google_rating": 4.3,
+      "description": "دار عطور نيش فرنسية بثبات قوي وأسعار معقولة مقارنة بالنيش"
+    },
+    {
+      "id": "kilian",
+      "name_ar": "كيليان",
+      "name_en": "Kilian",
+      "founded": 2007,
+      "branches_riyadh": 3,
+      "branches_locations": [
+        "Sephora",
+        "Paris Gallery",
+        "Ounass"
+      ],
+      "phone": "",
+      "website": "https://www.bykilian.com",
+      "instagram": "@bykilian",
+      "price_range_sar": {
+        "min": 600,
+        "max": 2500
+      },
+      "specialty": [
+        "Angels' Share",
+        "Good Girl Gone Bad",
+        "عطور حسية"
+      ],
+      "google_rating": 4.5,
+      "description": "دار عطور نيش فرنسية فاخرة، مشهورة بـ Angels' Share"
+    },
+    {
+      "id": "guerlain",
+      "name_ar": "جيرلان",
+      "name_en": "Guerlain",
+      "founded": 1828,
+      "branches_riyadh": 4,
+      "branches_locations": [
+        "Sephora",
+        "Faces",
+        "Paris Gallery",
+        "Bloomingdale's"
+      ],
+      "phone": "",
+      "website": "https://www.guerlain.com",
+      "instagram": "@guaborni",
+      "price_range_sar": {
+        "min": 300,
+        "max": 2500
+      },
+      "specialty": [
+        "Shalimar",
+        "L'Homme Idéal",
+        "عطور كلاسيكية فرنسية"
+      ],
+      "google_rating": 4.4,
+      "description": "دار عطور فرنسية عريقة تأسست 1828، من أقدم دور العطور في العالم"
     }
   ],
   "perfumes": [
@@ -594,9 +1701,24 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["أناناس", "تفاح أخضر", "بيرغموت", "كشمش أسود"],
-        "middle": ["بتولا", "باتشولي", "ياسمين مغربي", "ورد"],
-        "base": ["مسك", "عنبر", "فانيلا", "بلوط"]
+        "top": [
+          "أناناس",
+          "تفاح أخضر",
+          "بيرغموت",
+          "كشمش أسود"
+        ],
+        "middle": [
+          "بتولا",
+          "باتشولي",
+          "ياسمين مغربي",
+          "ورد"
+        ],
+        "base": [
+          "مسك",
+          "عنبر",
+          "فانيلا",
+          "بلوط"
+        ]
       },
       "fragrantica_rating": 4.3,
       "category": "نيش"
@@ -608,9 +1730,19 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["خشب الورد", "هيل"],
-        "middle": ["عود", "فلفل صيني"],
-        "base": ["صندل", "فيتيفر", "تونكا"]
+        "top": [
+          "خشب الورد",
+          "هيل"
+        ],
+        "middle": [
+          "عود",
+          "فلفل صيني"
+        ],
+        "base": [
+          "صندل",
+          "فيتيفر",
+          "تونكا"
+        ]
       },
       "fragrantica_rating": 4.1,
       "category": "ديزاينر/نيش"
@@ -622,9 +1754,20 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["بيرغموت", "فلفل"],
-        "middle": ["لافندر", "فلفل سيتشوان", "نجيل الهند"],
-        "base": ["أمبروكسان", "خشب الأرز", "لابدانوم"]
+        "top": [
+          "بيرغموت",
+          "فلفل"
+        ],
+        "middle": [
+          "لافندر",
+          "فلفل سيتشوان",
+          "نجيل الهند"
+        ],
+        "base": [
+          "أمبروكسان",
+          "خشب الأرز",
+          "لابدانوم"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "ديزاينر"
@@ -636,9 +1779,17 @@
       "size_ml": 125,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["لابدانوم"],
-        "middle": ["ورد دمشقي", "عود"],
-        "base": ["عنبر", "صندل"]
+        "top": [
+          "لابدانوم"
+        ],
+        "middle": [
+          "ورد دمشقي",
+          "عود"
+        ],
+        "base": [
+          "عنبر",
+          "صندل"
+        ]
       },
       "fragrantica_rating": 4.2,
       "category": "ديزاينر"
@@ -650,9 +1801,19 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["هيل", "بيرغموت"],
-        "middle": ["لافندر", "فيرجينيا سيدار"],
-        "base": ["فيتيفر", "كارفون", "كشمران"]
+        "top": [
+          "هيل",
+          "بيرغموت"
+        ],
+        "middle": [
+          "لافندر",
+          "فيرجينيا سيدار"
+        ],
+        "base": [
+          "فيتيفر",
+          "كارفون",
+          "كشمران"
+        ]
       },
       "fragrantica_rating": 4.2,
       "category": "ديزاينر"
@@ -664,9 +1825,19 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["بيرغموت", "يوسفي"],
-        "middle": ["عنبر", "عود"],
-        "base": ["مسك", "فانيلا", "خشب صندل"]
+        "top": [
+          "بيرغموت",
+          "يوسفي"
+        ],
+        "middle": [
+          "عنبر",
+          "عود"
+        ],
+        "base": [
+          "مسك",
+          "فانيلا",
+          "خشب صندل"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "شرقي"
@@ -678,9 +1849,20 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["بيرغموت", "تفاح أخضر", "أناناس"],
-        "middle": ["أمبرجريس", "سينامون"],
-        "base": ["مسك", "عود", "صندل"]
+        "top": [
+          "بيرغموت",
+          "تفاح أخضر",
+          "أناناس"
+        ],
+        "middle": [
+          "أمبرجريس",
+          "سينامون"
+        ],
+        "base": [
+          "مسك",
+          "عود",
+          "صندل"
+        ]
       },
       "fragrantica_rating": 4.1,
       "category": "شرقي"
@@ -692,9 +1874,18 @@
       "size_ml": 90,
       "gender": "رجالي",
       "notes": {
-        "top": ["فلفل وردي", "ليمون إيطالي"],
-        "middle": ["لافندر", "زهر البرتقال"],
-        "base": ["خشب الأرز", "باتشولي"]
+        "top": [
+          "فلفل وردي",
+          "ليمون إيطالي"
+        ],
+        "middle": [
+          "لافندر",
+          "زهر البرتقال"
+        ],
+        "base": [
+          "خشب الأرز",
+          "باتشولي"
+        ]
       },
       "fragrantica_rating": 3.8,
       "category": "ديزاينر"
@@ -706,9 +1897,20 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["سينامون", "نوتكا حلوة"],
-        "middle": ["براليني", "فانيلا"],
-        "base": ["عنبر", "خشب الصندل", "مسك", "بنزوين"]
+        "top": [
+          "سينامون",
+          "نوتكا حلوة"
+        ],
+        "middle": [
+          "براليني",
+          "فانيلا"
+        ],
+        "base": [
+          "عنبر",
+          "خشب الصندل",
+          "مسك",
+          "بنزوين"
+        ]
       },
       "fragrantica_rating": 4.2,
       "category": "شرقي"
@@ -720,9 +1922,19 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["فلفل أسود", "تبغ"],
-        "middle": ["عنبر", "بنزوين"],
-        "base": ["عود", "فانيلا", "خشب الأرز"]
+        "top": [
+          "فلفل أسود",
+          "تبغ"
+        ],
+        "middle": [
+          "عنبر",
+          "بنزوين"
+        ],
+        "base": [
+          "عود",
+          "فانيلا",
+          "خشب الأرز"
+        ]
       },
       "fragrantica_rating": 4.1,
       "category": "شرقي"
@@ -734,9 +1946,18 @@
       "size_ml": 70,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["زعفران", "ياسمين"],
-        "middle": ["عنبرجريس", "خشب الأرز"],
-        "base": ["فير بالسام", "مسك"]
+        "top": [
+          "زعفران",
+          "ياسمين"
+        ],
+        "middle": [
+          "عنبرجريس",
+          "خشب الأرز"
+        ],
+        "base": [
+          "فير بالسام",
+          "مسك"
+        ]
       },
       "fragrantica_rating": 4.2,
       "category": "نيش"
@@ -748,9 +1969,21 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["أوريغانو", "بيرغموت", "فلفل"],
-        "middle": ["لبان", "عنبر", "أوبونون"],
-        "base": ["عود", "صندل", "مسك"]
+        "top": [
+          "أوريغانو",
+          "بيرغموت",
+          "فلفل"
+        ],
+        "middle": [
+          "لبان",
+          "عنبر",
+          "أوبونون"
+        ],
+        "base": [
+          "عود",
+          "صندل",
+          "مسك"
+        ]
       },
       "fragrantica_rating": 4.2,
       "category": "نيش"
@@ -762,9 +1995,20 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["روزماري", "نيرولي", "بيتيتجرين"],
-        "middle": ["ياسمين", "ورد"],
-        "base": ["صندل", "فيتيفر", "خشب الأرز"]
+        "top": [
+          "روزماري",
+          "نيرولي",
+          "بيتيتجرين"
+        ],
+        "middle": [
+          "ياسمين",
+          "ورد"
+        ],
+        "base": [
+          "صندل",
+          "فيتيفر",
+          "خشب الأرز"
+        ]
       },
       "fragrantica_rating": 4.3,
       "category": "نيش"
@@ -776,9 +2020,22 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["نعناع", "تفاح أخضر", "ليمون"],
-        "middle": ["تونكا", "أمبروكسان", "إبرة الراعي"],
-        "base": ["فانيلا", "فيتيفر", "بلوط", "خشب الأرز"]
+        "top": [
+          "نعناع",
+          "تفاح أخضر",
+          "ليمون"
+        ],
+        "middle": [
+          "تونكا",
+          "أمبروكسان",
+          "إبرة الراعي"
+        ],
+        "base": [
+          "فانيلا",
+          "فيتيفر",
+          "بلوط",
+          "خشب الأرز"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "ديزاينر"
@@ -790,9 +2047,22 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["ليمون", "نعناع", "برتقال", "جريب فروت"],
-        "middle": ["ياسمين", "نوتكاتون"],
-        "base": ["خشب الأرز", "صندل", "لابدانوم", "عنبر"]
+        "top": [
+          "ليمون",
+          "نعناع",
+          "برتقال",
+          "جريب فروت"
+        ],
+        "middle": [
+          "ياسمين",
+          "نوتكاتون"
+        ],
+        "base": [
+          "خشب الأرز",
+          "صندل",
+          "لابدانوم",
+          "عنبر"
+        ]
       },
       "fragrantica_rating": 4.2,
       "category": "ديزاينر"
@@ -804,9 +2074,21 @@
       "size_ml": 125,
       "gender": "رجالي",
       "notes": {
-        "top": ["بيرغموت", "أكوا", "إبرة الراعي"],
-        "middle": ["روزماري", "مريمية", "لافندر"],
-        "base": ["عنبر", "باتشولي", "لبان"]
+        "top": [
+          "بيرغموت",
+          "أكوا",
+          "إبرة الراعي"
+        ],
+        "middle": [
+          "روزماري",
+          "مريمية",
+          "لافندر"
+        ],
+        "base": [
+          "عنبر",
+          "باتشولي",
+          "لبان"
+        ]
       },
       "fragrantica_rating": 4.2,
       "category": "ديزاينر"
@@ -818,9 +2100,18 @@
       "size_ml": 90,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["زعفران", "لافندر", "نوتمج"],
-        "middle": ["عود"],
-        "base": ["مسك", "عنبر"]
+        "top": [
+          "زعفران",
+          "لافندر",
+          "نوتمج"
+        ],
+        "middle": [
+          "عود"
+        ],
+        "base": [
+          "مسك",
+          "عنبر"
+        ]
       },
       "fragrantica_rating": 4.2,
       "category": "نيش"
@@ -832,9 +2123,20 @@
       "size_ml": 125,
       "gender": "رجالي",
       "notes": {
-        "top": ["تفاح", "ماندارين", "بيرغموت"],
-        "middle": ["ياسمين", "فيوليت"],
-        "base": ["فانيلا", "صندل", "كارداموم"]
+        "top": [
+          "تفاح",
+          "ماندارين",
+          "بيرغموت"
+        ],
+        "middle": [
+          "ياسمين",
+          "فيوليت"
+        ],
+        "base": [
+          "فانيلا",
+          "صندل",
+          "كارداموم"
+        ]
       },
       "fragrantica_rating": 4.3,
       "category": "نيش"
@@ -846,9 +2148,21 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["لافندر", "بيرغموت", "ليمون"],
-        "middle": ["عسل", "سينامون", "كشمير وود"],
-        "base": ["تبغ", "تونكا", "فانيلا"]
+        "top": [
+          "لافندر",
+          "بيرغموت",
+          "ليمون"
+        ],
+        "middle": [
+          "عسل",
+          "سينامون",
+          "كشمير وود"
+        ],
+        "base": [
+          "تبغ",
+          "تونكا",
+          "فانيلا"
+        ]
       },
       "fragrantica_rating": 4.4,
       "category": "نيش"
@@ -860,9 +2174,18 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["ورد", "مسك"],
-        "middle": ["عنبر", "عود"],
-        "base": ["فانيلا", "صندل"]
+        "top": [
+          "ورد",
+          "مسك"
+        ],
+        "middle": [
+          "عنبر",
+          "عود"
+        ],
+        "base": [
+          "فانيلا",
+          "صندل"
+        ]
       },
       "fragrantica_rating": 4.3,
       "category": "نيش"
@@ -874,9 +2197,19 @@
       "size_ml": 50,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["كونياك", "سينامون"],
-        "middle": ["براليني", "تونكا"],
-        "base": ["بلوط", "صندل", "فانيلا"]
+        "top": [
+          "كونياك",
+          "سينامون"
+        ],
+        "middle": [
+          "براليني",
+          "تونكا"
+        ],
+        "base": [
+          "بلوط",
+          "صندل",
+          "فانيلا"
+        ]
       },
       "fragrantica_rating": 4.3,
       "category": "نيش"
@@ -888,9 +2221,17 @@
       "size_ml": 12,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["عود كمبودي"],
-        "middle": ["عود هندي", "صندل"],
-        "base": ["عنبر", "مسك"]
+        "top": [
+          "عود كمبودي"
+        ],
+        "middle": [
+          "عود هندي",
+          "صندل"
+        ],
+        "base": [
+          "عنبر",
+          "مسك"
+        ]
       },
       "fragrantica_rating": 4.5,
       "category": "عود فاخر"
@@ -902,9 +2243,19 @@
       "size_ml": 75,
       "gender": "رجالي",
       "notes": {
-        "top": ["بيرغموت", "أناناس"],
-        "middle": ["عنبر", "ياسمين"],
-        "base": ["عود", "صندل", "مسك"]
+        "top": [
+          "بيرغموت",
+          "أناناس"
+        ],
+        "middle": [
+          "عنبر",
+          "ياسمين"
+        ],
+        "base": [
+          "عود",
+          "صندل",
+          "مسك"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "شرقي"
@@ -916,9 +2267,18 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["زعفران", "ورد"],
-        "middle": ["عود", "عنبر"],
-        "base": ["مسك", "فانيلا"]
+        "top": [
+          "زعفران",
+          "ورد"
+        ],
+        "middle": [
+          "عود",
+          "عنبر"
+        ],
+        "base": [
+          "مسك",
+          "فانيلا"
+        ]
       },
       "fragrantica_rating": 4.1,
       "category": "شرقي"
@@ -930,9 +2290,19 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["أناناس", "بيرغموت"],
-        "middle": ["ياسمين", "ورد"],
-        "base": ["عود", "عنبر", "مسك"]
+        "top": [
+          "أناناس",
+          "بيرغموت"
+        ],
+        "middle": [
+          "ياسمين",
+          "ورد"
+        ],
+        "base": [
+          "عود",
+          "عنبر",
+          "مسك"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "شرقي"
@@ -944,9 +2314,23 @@
       "size_ml": 105,
       "gender": "رجالي",
       "notes": {
-        "top": ["ليمون", "أناناس", "تفاح أخضر", "بيرغموت"],
-        "middle": ["ورد", "ياسمين", "بتولا"],
-        "base": ["مسك", "عنبر", "باتشولي", "فانيلا"]
+        "top": [
+          "ليمون",
+          "أناناس",
+          "تفاح أخضر",
+          "بيرغموت"
+        ],
+        "middle": [
+          "ورد",
+          "ياسمين",
+          "بتولا"
+        ],
+        "base": [
+          "مسك",
+          "عنبر",
+          "باتشولي",
+          "فانيلا"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "ديزاينر"
@@ -958,9 +2342,20 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["جريب فروت", "نعناع", "بيرغموت"],
-        "middle": ["ورد", "سينامون"],
-        "base": ["جلد", "عنبر", "خشب"]
+        "top": [
+          "جريب فروت",
+          "نعناع",
+          "بيرغموت"
+        ],
+        "middle": [
+          "ورد",
+          "سينامون"
+        ],
+        "base": [
+          "جلد",
+          "عنبر",
+          "خشب"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "ديزاينر"
@@ -972,9 +2367,21 @@
       "size_ml": 125,
       "gender": "رجالي",
       "notes": {
-        "top": ["نعناع", "لافندر", "بيرغموت"],
-        "middle": ["سينامون", "كمون"],
-        "base": ["فانيلا", "تونكا", "عنبر", "خشب الأرز"]
+        "top": [
+          "نعناع",
+          "لافندر",
+          "بيرغموت"
+        ],
+        "middle": [
+          "سينامون",
+          "كمون"
+        ],
+        "base": [
+          "فانيلا",
+          "تونكا",
+          "عنبر",
+          "خشب الأرز"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "ديزاينر"
@@ -986,9 +2393,19 @@
       "size_ml": 60,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["زعفران", "لافندر"],
-        "middle": ["عود", "عنبر"],
-        "base": ["فانيلا", "مسك", "صندل"]
+        "top": [
+          "زعفران",
+          "لافندر"
+        ],
+        "middle": [
+          "عود",
+          "عنبر"
+        ],
+        "base": [
+          "فانيلا",
+          "مسك",
+          "صندل"
+        ]
       },
       "fragrantica_rating": 4.1,
       "category": "شرقي"
@@ -1000,9 +2417,21 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["أناناس", "بيرغموت", "تفاح"],
-        "middle": ["بتولا", "باتشولي", "ورد"],
-        "base": ["مسك", "عنبر", "فانيلا"]
+        "top": [
+          "أناناس",
+          "بيرغموت",
+          "تفاح"
+        ],
+        "middle": [
+          "بتولا",
+          "باتشولي",
+          "ورد"
+        ],
+        "base": [
+          "مسك",
+          "عنبر",
+          "فانيلا"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "شرقي"
@@ -1014,9 +2443,20 @@
       "size_ml": 75,
       "gender": "نسائي",
       "notes": {
-        "top": ["راسبري", "تفاح"],
-        "middle": ["ياسمين", "بيوني", "غاردينيا"],
-        "base": ["صندل", "مسك", "سيدار"]
+        "top": [
+          "راسبري",
+          "تفاح"
+        ],
+        "middle": [
+          "ياسمين",
+          "بيوني",
+          "غاردينيا"
+        ],
+        "base": [
+          "صندل",
+          "مسك",
+          "سيدار"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "شرقي"
@@ -1028,9 +2468,19 @@
       "size_ml": 50,
       "gender": "رجالي",
       "notes": {
-        "top": ["بيرغموت", "كمثرى"],
-        "middle": ["ورد", "باتشولي"],
-        "base": ["عنبر", "مسك", "فانيلا"]
+        "top": [
+          "بيرغموت",
+          "كمثرى"
+        ],
+        "middle": [
+          "ورد",
+          "باتشولي"
+        ],
+        "base": [
+          "عنبر",
+          "مسك",
+          "فانيلا"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "شرقي"
@@ -1042,9 +2492,17 @@
       "size_ml": 75,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["زعفران"],
-        "middle": ["ورد", "عود"],
-        "base": ["مسك", "عنبر"]
+        "top": [
+          "زعفران"
+        ],
+        "middle": [
+          "ورد",
+          "عود"
+        ],
+        "base": [
+          "مسك",
+          "عنبر"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "شرقي"
@@ -1056,9 +2514,22 @@
       "size_ml": 100,
       "gender": "نسائي",
       "notes": {
-        "top": ["ألدهيدات", "يلانج يلانج", "نيرولي"],
-        "middle": ["ياسمين", "ورد", "ليلي أوف ذا فالي"],
-        "base": ["صندل", "فانيلا", "مسك", "فيتيفر"]
+        "top": [
+          "ألدهيدات",
+          "يلانج يلانج",
+          "نيرولي"
+        ],
+        "middle": [
+          "ياسمين",
+          "ورد",
+          "ليلي أوف ذا فالي"
+        ],
+        "base": [
+          "صندل",
+          "فانيلا",
+          "مسك",
+          "فيتيفر"
+        ]
       },
       "fragrantica_rating": 4.1,
       "category": "ديزاينر"
@@ -1070,9 +2541,18 @@
       "size_ml": 100,
       "gender": "نسائي",
       "notes": {
-        "top": ["ورد", "بيوني"],
-        "middle": ["ليلي أوف ذا فالي", "آيريس"],
-        "base": ["مسك", "روزوود"]
+        "top": [
+          "ورد",
+          "بيوني"
+        ],
+        "middle": [
+          "ليلي أوف ذا فالي",
+          "آيريس"
+        ],
+        "base": [
+          "مسك",
+          "روزوود"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "ديزاينر"
@@ -1084,9 +2564,19 @@
       "size_ml": 90,
       "gender": "نسائي",
       "notes": {
-        "top": ["ماندارين", "لافندر"],
-        "middle": ["زهر البرتقال", "ياسمين"],
-        "base": ["فانيلا", "خشب الأرز", "مسك"]
+        "top": [
+          "ماندارين",
+          "لافندر"
+        ],
+        "middle": [
+          "زهر البرتقال",
+          "ياسمين"
+        ],
+        "base": [
+          "فانيلا",
+          "خشب الأرز",
+          "مسك"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "ديزاينر"
@@ -1098,9 +2588,18 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["أمبريت", "ملح بحري"],
-        "middle": ["مريمية", "أعشاب بحرية"],
-        "base": ["خشب الأرز", "غوياك"]
+        "top": [
+          "أمبريت",
+          "ملح بحري"
+        ],
+        "middle": [
+          "مريمية",
+          "أعشاب بحرية"
+        ],
+        "base": [
+          "خشب الأرز",
+          "غوياك"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "نيش"
@@ -1112,9 +2611,16 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["كمثرى ملكة"],
-        "middle": ["فريزيا"],
-        "base": ["باتشولي", "عنبر"]
+        "top": [
+          "كمثرى ملكة"
+        ],
+        "middle": [
+          "فريزيا"
+        ],
+        "base": [
+          "باتشولي",
+          "عنبر"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "نيش"
@@ -1126,9 +2632,19 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["عود", "بخور"],
-        "middle": ["عنبر", "ورد"],
-        "base": ["صندل", "مسك", "فانيلا"]
+        "top": [
+          "عود",
+          "بخور"
+        ],
+        "middle": [
+          "عنبر",
+          "ورد"
+        ],
+        "base": [
+          "صندل",
+          "مسك",
+          "فانيلا"
+        ]
       },
       "fragrantica_rating": 3.8,
       "category": "شرقي"
@@ -1140,9 +2656,18 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["زعفران", "لافندر", "نوتمج"],
-        "middle": ["عود"],
-        "base": ["مسك", "عنبر"]
+        "top": [
+          "زعفران",
+          "لافندر",
+          "نوتمج"
+        ],
+        "middle": [
+          "عود"
+        ],
+        "base": [
+          "مسك",
+          "عنبر"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "شرقي"
@@ -1154,9 +2679,21 @@
       "size_ml": 90,
       "gender": "رجالي",
       "notes": {
-        "top": ["بيرغموت", "جريب فروت", "فلفل وردي"],
-        "middle": ["سينامون", "فلفل حار", "إليمي"],
-        "base": ["فيتيفر", "تبغ", "جلد"]
+        "top": [
+          "بيرغموت",
+          "جريب فروت",
+          "فلفل وردي"
+        ],
+        "middle": [
+          "سينامون",
+          "فلفل حار",
+          "إليمي"
+        ],
+        "base": [
+          "فيتيفر",
+          "تبغ",
+          "جلد"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "ديزاينر"
@@ -1168,9 +2705,21 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["جريب فروت", "كزبرة", "ريحان"],
-        "middle": ["هيل", "زنجبيل", "زهر البرتقال"],
-        "base": ["عنبر", "خشب الأرز", "لابدانوم"]
+        "top": [
+          "جريب فروت",
+          "كزبرة",
+          "ريحان"
+        ],
+        "middle": [
+          "هيل",
+          "زنجبيل",
+          "زهر البرتقال"
+        ],
+        "base": [
+          "عنبر",
+          "خشب الأرز",
+          "لابدانوم"
+        ]
       },
       "fragrantica_rating": 4.1,
       "category": "ديزاينر"
@@ -1182,9 +2731,21 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["جريب فروت", "بيرغموت"],
-        "middle": ["ورد", "لافندر", "قرنفل"],
-        "base": ["عود", "صندل", "عنبر", "مسك"]
+        "top": [
+          "جريب فروت",
+          "بيرغموت"
+        ],
+        "middle": [
+          "ورد",
+          "لافندر",
+          "قرنفل"
+        ],
+        "base": [
+          "عود",
+          "صندل",
+          "عنبر",
+          "مسك"
+        ]
       },
       "fragrantica_rating": 4.2,
       "category": "نيش"
@@ -1196,9 +2757,21 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["تمر هندي", "لبان", "بيرغموت"],
-        "middle": ["عود", "لابدانوم", "ورد"],
-        "base": ["مسك", "عنبر", "هوني"]
+        "top": [
+          "تمر هندي",
+          "لبان",
+          "بيرغموت"
+        ],
+        "middle": [
+          "عود",
+          "لابدانوم",
+          "ورد"
+        ],
+        "base": [
+          "مسك",
+          "عنبر",
+          "هوني"
+        ]
       },
       "fragrantica_rating": 4.3,
       "category": "نيش"
@@ -1210,9 +2783,19 @@
       "size_ml": 80,
       "gender": "نسائي",
       "notes": {
-        "top": ["لوز", "قهوة"],
-        "middle": ["ياسمين", "تيوبروز"],
-        "base": ["تونكا", "كاكاو", "صندل"]
+        "top": [
+          "لوز",
+          "قهوة"
+        ],
+        "middle": [
+          "ياسمين",
+          "تيوبروز"
+        ],
+        "base": [
+          "تونكا",
+          "كاكاو",
+          "صندل"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "ديزاينر"
@@ -1224,9 +2807,19 @@
       "size_ml": 100,
       "gender": "نسائي",
       "notes": {
-        "top": ["كشمش أسود"],
-        "middle": ["آيريس", "ياسمين", "زهر البرتقال"],
-        "base": ["براليني", "فانيلا", "باتشولي"]
+        "top": [
+          "كشمش أسود"
+        ],
+        "middle": [
+          "آيريس",
+          "ياسمين",
+          "زهر البرتقال"
+        ],
+        "base": [
+          "براليني",
+          "فانيلا",
+          "باتشولي"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "ديزاينر"
@@ -1238,9 +2831,18 @@
       "size_ml": 100,
       "gender": "نسائي",
       "notes": {
-        "top": ["ورد", "بيتش"],
-        "middle": ["مسك"],
-        "base": ["باتشولي", "عنبر", "فيتيفر"]
+        "top": [
+          "ورد",
+          "بيتش"
+        ],
+        "middle": [
+          "مسك"
+        ],
+        "base": [
+          "باتشولي",
+          "عنبر",
+          "فيتيفر"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "ديزاينر"
@@ -1252,9 +2854,22 @@
       "size_ml": 75,
       "gender": "نسائي",
       "notes": {
-        "top": ["ليتشي", "راوند", "بيرغموت"],
-        "middle": ["ورد تركي", "بيوني", "مايبلوسوم"],
-        "base": ["مسك", "فانيلا", "كشمير وود", "فيتيفر"]
+        "top": [
+          "ليتشي",
+          "راوند",
+          "بيرغموت"
+        ],
+        "middle": [
+          "ورد تركي",
+          "بيوني",
+          "مايبلوسوم"
+        ],
+        "base": [
+          "مسك",
+          "فانيلا",
+          "كشمير وود",
+          "فيتيفر"
+        ]
       },
       "fragrantica_rating": 4.1,
       "category": "نيش"
@@ -1266,9 +2881,17 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["عود"],
-        "middle": ["ورد", "عنبر"],
-        "base": ["مسك", "صندل"]
+        "top": [
+          "عود"
+        ],
+        "middle": [
+          "ورد",
+          "عنبر"
+        ],
+        "base": [
+          "مسك",
+          "صندل"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "شرقي"
@@ -1280,9 +2903,19 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["ميرتل", "بيرغموت"],
-        "middle": ["آيريس", "ليذر"],
-        "base": ["تونكا", "فانيلا", "كشمير وود"]
+        "top": [
+          "ميرتل",
+          "بيرغموت"
+        ],
+        "middle": [
+          "آيريس",
+          "ليذر"
+        ],
+        "base": [
+          "تونكا",
+          "فانيلا",
+          "كشمير وود"
+        ]
       },
       "fragrantica_rating": 4.1,
       "category": "ديزاينر"
@@ -1294,9 +2927,18 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["تبغ"],
-        "middle": ["فانيلا", "كاكاو", "تونكا"],
-        "base": ["dried fruits", "خشب"]
+        "top": [
+          "تبغ"
+        ],
+        "middle": [
+          "فانيلا",
+          "كاكاو",
+          "تونكا"
+        ],
+        "base": [
+          "dried fruits",
+          "خشب"
+        ]
       },
       "fragrantica_rating": 4.2,
       "category": "نيش/ديزاينر"
@@ -1308,9 +2950,21 @@
       "size_ml": 50,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["كرز أسود", "كرز حامض", "لوز"],
-        "middle": ["كرز", "ليكور", "ورد تركي"],
-        "base": ["صندل", "فيتيفر", "بيرو بالسام"]
+        "top": [
+          "كرز أسود",
+          "كرز حامض",
+          "لوز"
+        ],
+        "middle": [
+          "كرز",
+          "ليكور",
+          "ورد تركي"
+        ],
+        "base": [
+          "صندل",
+          "فيتيفر",
+          "بيرو بالسام"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "نيش/ديزاينر"
@@ -1322,9 +2976,19 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["تفاح أخضر", "نعناع"],
-        "middle": ["لافندر", "إبرة الراعي"],
-        "base": ["خشب الأرز", "فيتيفر", "فانيلا"]
+        "top": [
+          "تفاح أخضر",
+          "نعناع"
+        ],
+        "middle": [
+          "لافندر",
+          "إبرة الراعي"
+        ],
+        "base": [
+          "خشب الأرز",
+          "فيتيفر",
+          "فانيلا"
+        ]
       },
       "fragrantica_rating": 3.8,
       "category": "شرقي"
@@ -1336,9 +3000,19 @@
       "size_ml": 50,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["بيرغموت", "ليمون"],
-        "middle": ["عود", "ورد"],
-        "base": ["مسك", "فانيلا", "عنبر"]
+        "top": [
+          "بيرغموت",
+          "ليمون"
+        ],
+        "middle": [
+          "عود",
+          "ورد"
+        ],
+        "base": [
+          "مسك",
+          "فانيلا",
+          "عنبر"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "شرقي"
@@ -1350,9 +3024,19 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["ماندارين", "ألدهيدات"],
-        "middle": ["فلفل", "خشب الأرز"],
-        "base": ["تونكا", "فانيلا", "مسك أبيض"]
+        "top": [
+          "ماندارين",
+          "ألدهيدات"
+        ],
+        "middle": [
+          "فلفل",
+          "خشب الأرز"
+        ],
+        "base": [
+          "تونكا",
+          "فانيلا",
+          "مسك أبيض"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "ديزاينر"
@@ -1364,9 +3048,19 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["بيرغموت", "كليمنتين"],
-        "middle": ["جلد", "فيتيفر"],
-        "base": ["باتشولي", "أكيغالا وود", "عنبر"]
+        "top": [
+          "بيرغموت",
+          "كليمنتين"
+        ],
+        "middle": [
+          "جلد",
+          "فيتيفر"
+        ],
+        "base": [
+          "باتشولي",
+          "أكيغالا وود",
+          "عنبر"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "ديزاينر"
@@ -1378,9 +3072,16 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["آيريس"],
-        "middle": ["لافندر"],
-        "base": ["عنبر", "خشب"]
+        "top": [
+          "آيريس"
+        ],
+        "middle": [
+          "لافندر"
+        ],
+        "base": [
+          "عنبر",
+          "خشب"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "ديزاينر"
@@ -1392,9 +3093,20 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["أبسنت", "بيرغموت", "ميرتل"],
-        "middle": ["ورد", "هيل"],
-        "base": ["لبان", "عود", "صندل"]
+        "top": [
+          "أبسنت",
+          "بيرغموت",
+          "ميرتل"
+        ],
+        "middle": [
+          "ورد",
+          "هيل"
+        ],
+        "base": [
+          "لبان",
+          "عود",
+          "صندل"
+        ]
       },
       "fragrantica_rating": 4.1,
       "category": "نيش"
@@ -1406,9 +3118,19 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["ليمون", "بيرغموت"],
-        "middle": ["أرز", "باتشولي"],
-        "base": ["عود", "صندل", "مسك"]
+        "top": [
+          "ليمون",
+          "بيرغموت"
+        ],
+        "middle": [
+          "أرز",
+          "باتشولي"
+        ],
+        "base": [
+          "عود",
+          "صندل",
+          "مسك"
+        ]
       },
       "fragrantica_rating": 3.8,
       "category": "شرقي"
@@ -1420,9 +3142,20 @@
       "size_ml": 75,
       "gender": "رجالي",
       "notes": {
-        "top": ["زعفران", "أناناس"],
-        "middle": ["ورد", "ياسمين"],
-        "base": ["عنبر", "عود", "فانيلا", "مسك"]
+        "top": [
+          "زعفران",
+          "أناناس"
+        ],
+        "middle": [
+          "ورد",
+          "ياسمين"
+        ],
+        "base": [
+          "عنبر",
+          "عود",
+          "فانيلا",
+          "مسك"
+        ]
       },
       "fragrantica_rating": 4.1,
       "category": "شرقي"
@@ -1434,9 +3167,19 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["ليمون", "بيرغموت"],
-        "middle": ["ياسمين", "جينسينغ"],
-        "base": ["عنبر", "فانيلا", "مسك"]
+        "top": [
+          "ليمون",
+          "بيرغموت"
+        ],
+        "middle": [
+          "ياسمين",
+          "جينسينغ"
+        ],
+        "base": [
+          "عنبر",
+          "فانيلا",
+          "مسك"
+        ]
       },
       "fragrantica_rating": 3.8,
       "category": "بديل"
@@ -1448,9 +3191,17 @@
       "size_ml": 6,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["عود"],
-        "middle": ["ورد", "زعفران"],
-        "base": ["مسك", "عنبر"]
+        "top": [
+          "عود"
+        ],
+        "middle": [
+          "ورد",
+          "زعفران"
+        ],
+        "base": [
+          "مسك",
+          "عنبر"
+        ]
       },
       "fragrantica_rating": 4.3,
       "category": "عود فاخر"
@@ -1462,9 +3213,19 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["تفاح", "بيرغموت"],
-        "middle": ["سينامون", "إبرة الراعي"],
-        "base": ["خشب الأرز", "فيتيفر", "فانيلا"]
+        "top": [
+          "تفاح",
+          "بيرغموت"
+        ],
+        "middle": [
+          "سينامون",
+          "إبرة الراعي"
+        ],
+        "base": [
+          "خشب الأرز",
+          "فيتيفر",
+          "فانيلا"
+        ]
       },
       "fragrantica_rating": 3.8,
       "category": "ديزاينر"
@@ -1476,9 +3237,19 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["بيرغموت", "ليمون"],
-        "middle": ["ورد", "ياسمين"],
-        "base": ["عود", "مسك", "عنبر"]
+        "top": [
+          "بيرغموت",
+          "ليمون"
+        ],
+        "middle": [
+          "ورد",
+          "ياسمين"
+        ],
+        "base": [
+          "عود",
+          "مسك",
+          "عنبر"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "شرقي"
@@ -1490,9 +3261,19 @@
       "size_ml": 60,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["ليمون", "بيرغموت"],
-        "middle": ["ياسمين", "ورد"],
-        "base": ["مسك أبيض", "عنبر", "خشب الأرز"]
+        "top": [
+          "ليمون",
+          "بيرغموت"
+        ],
+        "middle": [
+          "ياسمين",
+          "ورد"
+        ],
+        "base": [
+          "مسك أبيض",
+          "عنبر",
+          "خشب الأرز"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "شرقي"
@@ -1504,9 +3285,20 @@
       "size_ml": 120,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["ليمون سيتشيليان", "كشمش أسود", "بيرغموت"],
-        "middle": ["خشب الأرز", "باتشولي"],
-        "base": ["مسك أبيض", "عنبر", "فانيلا"]
+        "top": [
+          "ليمون سيتشيليان",
+          "كشمش أسود",
+          "بيرغموت"
+        ],
+        "middle": [
+          "خشب الأرز",
+          "باتشولي"
+        ],
+        "base": [
+          "مسك أبيض",
+          "عنبر",
+          "فانيلا"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "نيش"
@@ -1518,9 +3310,20 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["أناناس", "جريب فروت", "بيرغموت"],
-        "middle": ["ياسمين", "باتشولي"],
-        "base": ["بلوط", "خشب الأرز", "فيتيفر"]
+        "top": [
+          "أناناس",
+          "جريب فروت",
+          "بيرغموت"
+        ],
+        "middle": [
+          "ياسمين",
+          "باتشولي"
+        ],
+        "base": [
+          "بلوط",
+          "خشب الأرز",
+          "فيتيفر"
+        ]
       },
       "fragrantica_rating": 4.2,
       "category": "نيش"
@@ -1532,9 +3335,20 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["فلفل وردي", "ليمون", "نيرولي"],
-        "middle": ["مريمية", "رم"],
-        "base": ["تبغ", "فانيلا", "ستايراكس"]
+        "top": [
+          "فلفل وردي",
+          "ليمون",
+          "نيرولي"
+        ],
+        "middle": [
+          "مريمية",
+          "رم"
+        ],
+        "base": [
+          "تبغ",
+          "فانيلا",
+          "ستايراكس"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "نيش"
@@ -1546,9 +3360,19 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["لافندر", "بيرغموت"],
-        "middle": ["آيريس", "عنبر"],
-        "base": ["فانيلا", "فيتيفر", "خشب الأرز"]
+        "top": [
+          "لافندر",
+          "بيرغموت"
+        ],
+        "middle": [
+          "آيريس",
+          "عنبر"
+        ],
+        "base": [
+          "فانيلا",
+          "فيتيفر",
+          "خشب الأرز"
+        ]
       },
       "fragrantica_rating": 4.2,
       "category": "ديزاينر"
@@ -1560,9 +3384,19 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["جريب فروت", "برتقال"],
-        "middle": ["فلفل", "بيليكانوم"],
-        "base": ["خشب الأرز", "فيتيفر", "بنزوين"]
+        "top": [
+          "جريب فروت",
+          "برتقال"
+        ],
+        "middle": [
+          "فلفل",
+          "بيليكانوم"
+        ],
+        "base": [
+          "خشب الأرز",
+          "فيتيفر",
+          "بنزوين"
+        ]
       },
       "fragrantica_rating": 4.1,
       "category": "ديزاينر"
@@ -1574,9 +3408,19 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["ورد", "سينامون"],
-        "middle": ["عود", "جلد"],
-        "base": ["فانيلا", "عنبر", "مسك"]
+        "top": [
+          "ورد",
+          "سينامون"
+        ],
+        "middle": [
+          "عود",
+          "جلد"
+        ],
+        "base": [
+          "فانيلا",
+          "عنبر",
+          "مسك"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "شرقي"
@@ -1588,9 +3432,19 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["زنجبيل", "بيرغموت"],
-        "middle": ["ورد", "ياسمين"],
-        "base": ["عود", "فانيلا", "عنبر"]
+        "top": [
+          "زنجبيل",
+          "بيرغموت"
+        ],
+        "middle": [
+          "ورد",
+          "ياسمين"
+        ],
+        "base": [
+          "عود",
+          "فانيلا",
+          "عنبر"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "بديل"
@@ -1602,9 +3456,20 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["تفاح", "زنجبيل", "بيرغموت"],
-        "middle": ["مريمية", "ياسمين"],
-        "base": ["عنبروكسان", "خشب الأرز", "تونكا"]
+        "top": [
+          "تفاح",
+          "زنجبيل",
+          "بيرغموت"
+        ],
+        "middle": [
+          "مريمية",
+          "ياسمين"
+        ],
+        "base": [
+          "عنبروكسان",
+          "خشب الأرز",
+          "تونكا"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "ديزاينر"
@@ -1616,9 +3481,17 @@
       "size_ml": 70,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["بلغاري ورد"],
-        "middle": ["عود لاوسي", "فيوليت"],
-        "base": ["فانيلا", "بنزوين"]
+        "top": [
+          "بلغاري ورد"
+        ],
+        "middle": [
+          "عود لاوسي",
+          "فيوليت"
+        ],
+        "base": [
+          "فانيلا",
+          "بنزوين"
+        ]
       },
       "fragrantica_rating": 4.2,
       "category": "نيش"
@@ -1630,9 +3503,19 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["بيرغموت", "توت"],
-        "middle": ["ياسمين", "فريزيا"],
-        "base": ["عنبر", "مسك", "عود"]
+        "top": [
+          "بيرغموت",
+          "توت"
+        ],
+        "middle": [
+          "ياسمين",
+          "فريزيا"
+        ],
+        "base": [
+          "عنبر",
+          "مسك",
+          "عود"
+        ]
       },
       "fragrantica_rating": 3.8,
       "category": "شرقي"
@@ -1644,9 +3527,21 @@
       "size_ml": 100,
       "gender": "نسائي",
       "notes": {
-        "top": ["برتقال", "بيرغموت"],
-        "middle": ["ورد", "ليتشي", "ياسمين"],
-        "base": ["باتشولي", "فيتيفر", "فانيلا", "مسك أبيض"]
+        "top": [
+          "برتقال",
+          "بيرغموت"
+        ],
+        "middle": [
+          "ورد",
+          "ليتشي",
+          "ياسمين"
+        ],
+        "base": [
+          "باتشولي",
+          "فيتيفر",
+          "فانيلا",
+          "مسك أبيض"
+        ]
       },
       "fragrantica_rating": 4.1,
       "category": "ديزاينر"
@@ -1658,9 +3553,19 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["سينامون", "بيرغموت"],
-        "middle": ["ياسمين", "ورد"],
-        "base": ["فانيلا", "مسك", "عنبر"]
+        "top": [
+          "سينامون",
+          "بيرغموت"
+        ],
+        "middle": [
+          "ياسمين",
+          "ورد"
+        ],
+        "base": [
+          "فانيلا",
+          "مسك",
+          "عنبر"
+        ]
       },
       "fragrantica_rating": 3.7,
       "category": "شرقي"
@@ -1672,9 +3577,19 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["بيرغموت", "زنجبيل"],
-        "middle": ["مريمية", "لافندر"],
-        "base": ["تونكا", "عنبر", "خشب الأرز"]
+        "top": [
+          "بيرغموت",
+          "زنجبيل"
+        ],
+        "middle": [
+          "مريمية",
+          "لافندر"
+        ],
+        "base": [
+          "تونكا",
+          "عنبر",
+          "خشب الأرز"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "شرقي"
@@ -1686,9 +3601,23 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["هيل", "نوتمج", "كولاري", "ماندارين"],
-        "middle": ["ورد", "ياسمين", "كولاباري"],
-        "base": ["فانيلا", "عنبر", "خشب الأرز", "صندل"]
+        "top": [
+          "هيل",
+          "نوتمج",
+          "كولاري",
+          "ماندارين"
+        ],
+        "middle": [
+          "ورد",
+          "ياسمين",
+          "كولاباري"
+        ],
+        "base": [
+          "فانيلا",
+          "عنبر",
+          "خشب الأرز",
+          "صندل"
+        ]
       },
       "fragrantica_rating": 4.1,
       "category": "ديزاينر/نيش"
@@ -1700,9 +3629,17 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["عود"],
-        "middle": ["عنبر", "زعفران"],
-        "base": ["مسك", "صندل"]
+        "top": [
+          "عود"
+        ],
+        "middle": [
+          "عنبر",
+          "زعفران"
+        ],
+        "base": [
+          "مسك",
+          "صندل"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "شرقي فاخر"
@@ -1714,9 +3651,18 @@
       "size_ml": 100,
       "gender": "نسائي",
       "notes": {
-        "top": ["لافندر", "فانيلا"],
-        "middle": ["عنبر", "كشمير"],
-        "base": ["مسك", "صندل"]
+        "top": [
+          "لافندر",
+          "فانيلا"
+        ],
+        "middle": [
+          "عنبر",
+          "كشمير"
+        ],
+        "base": [
+          "مسك",
+          "صندل"
+        ]
       },
       "fragrantica_rating": 3.8,
       "category": "بديل"
@@ -1728,9 +3674,21 @@
       "size_ml": 60,
       "gender": "رجالي",
       "notes": {
-        "top": ["سينامون", "نوتمج", "جريب فروت", "هيل"],
-        "middle": ["لافندر"],
-        "base": ["عنبر", "صندل", "خشب", "لبان"]
+        "top": [
+          "سينامون",
+          "نوتمج",
+          "جريب فروت",
+          "هيل"
+        ],
+        "middle": [
+          "لافندر"
+        ],
+        "base": [
+          "عنبر",
+          "صندل",
+          "خشب",
+          "لبان"
+        ]
       },
       "fragrantica_rating": 4.2,
       "category": "ديزاينر"
@@ -1742,9 +3700,19 @@
       "size_ml": 105,
       "gender": "نسائي",
       "notes": {
-        "top": ["برتقال", "كشمش أسود"],
-        "middle": ["ورد", "ياسمين"],
-        "base": ["باتشولي", "فانيلا", "مسك"]
+        "top": [
+          "برتقال",
+          "كشمش أسود"
+        ],
+        "middle": [
+          "ورد",
+          "ياسمين"
+        ],
+        "base": [
+          "باتشولي",
+          "فانيلا",
+          "مسك"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "بديل"
@@ -1756,9 +3724,20 @@
       "size_ml": 90,
       "gender": "نسائي",
       "notes": {
-        "top": ["بيرغموت", "ليمون"],
-        "middle": ["آيريس", "ياسمين", "ورد"],
-        "base": ["فانيلا", "لبان", "عنبر"]
+        "top": [
+          "بيرغموت",
+          "ليمون"
+        ],
+        "middle": [
+          "آيريس",
+          "ياسمين",
+          "ورد"
+        ],
+        "base": [
+          "فانيلا",
+          "لبان",
+          "عنبر"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "ديزاينر"
@@ -1770,9 +3749,19 @@
       "size_ml": 50,
       "gender": "رجالي",
       "notes": {
-        "top": ["أناناس", "بيرغموت"],
-        "middle": ["ياسمين", "ورد"],
-        "base": ["عنبر", "مسك", "عود"]
+        "top": [
+          "أناناس",
+          "بيرغموت"
+        ],
+        "middle": [
+          "ياسمين",
+          "ورد"
+        ],
+        "base": [
+          "عنبر",
+          "مسك",
+          "عود"
+        ]
       },
       "fragrantica_rating": 3.8,
       "category": "شرقي"
@@ -1784,9 +3773,18 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["أكوا", "بيرغموت"],
-        "middle": ["ياسمين", "أعشاب بحرية"],
-        "base": ["عنبر", "مسك"]
+        "top": [
+          "أكوا",
+          "بيرغموت"
+        ],
+        "middle": [
+          "ياسمين",
+          "أعشاب بحرية"
+        ],
+        "base": [
+          "عنبر",
+          "مسك"
+        ]
       },
       "fragrantica_rating": 3.7,
       "category": "شرقي"
@@ -1798,9 +3796,20 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["كالابريان بيرغموت", "جريب فروت"],
-        "middle": ["أمبروكسان", "باتشولي", "فيوليت ليف"],
-        "base": ["مسك", "تونكا", "زعفران"]
+        "top": [
+          "كالابريان بيرغموت",
+          "جريب فروت"
+        ],
+        "middle": [
+          "أمبروكسان",
+          "باتشولي",
+          "فيوليت ليف"
+        ],
+        "base": [
+          "مسك",
+          "تونكا",
+          "زعفران"
+        ]
       },
       "fragrantica_rating": 3.8,
       "category": "ديزاينر"
@@ -1812,9 +3821,17 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["ورد"],
-        "middle": ["مسك", "عنبر"],
-        "base": ["صندل", "فانيلا"]
+        "top": [
+          "ورد"
+        ],
+        "middle": [
+          "مسك",
+          "عنبر"
+        ],
+        "base": [
+          "صندل",
+          "فانيلا"
+        ]
       },
       "fragrantica_rating": 3.8,
       "category": "شرقي"
@@ -1826,9 +3843,20 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["آيريس", "هيل", "نيرولي"],
-        "middle": ["آيريس", "أمبر"],
-        "base": ["خشب الأرز", "باتشولي", "صندل"]
+        "top": [
+          "آيريس",
+          "هيل",
+          "نيرولي"
+        ],
+        "middle": [
+          "آيريس",
+          "أمبر"
+        ],
+        "base": [
+          "خشب الأرز",
+          "باتشولي",
+          "صندل"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "ديزاينر"
@@ -1840,9 +3868,21 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["ليمون", "لافندر", "بيتيتجرين"],
-        "middle": ["آيريس", "سينامون", "ورد"],
-        "base": ["عنبر", "خشب الأرز", "صندل"]
+        "top": [
+          "ليمون",
+          "لافندر",
+          "بيتيتجرين"
+        ],
+        "middle": [
+          "آيريس",
+          "سينامون",
+          "ورد"
+        ],
+        "base": [
+          "عنبر",
+          "خشب الأرز",
+          "صندل"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "شرقي"
@@ -1854,9 +3894,20 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["بيرغموت", "ليمون"],
-        "middle": ["ورد", "ياسمين", "ليلك"],
-        "base": ["عنبر", "مسك", "صندل"]
+        "top": [
+          "بيرغموت",
+          "ليمون"
+        ],
+        "middle": [
+          "ورد",
+          "ياسمين",
+          "ليلك"
+        ],
+        "base": [
+          "عنبر",
+          "مسك",
+          "صندل"
+        ]
       },
       "fragrantica_rating": 3.7,
       "category": "شرقي"
@@ -1868,9 +3919,18 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["أكوا", "ليمون"],
-        "middle": ["أمبروكسان", "جلد"],
-        "base": ["مسك", "صندل"]
+        "top": [
+          "أكوا",
+          "ليمون"
+        ],
+        "middle": [
+          "أمبروكسان",
+          "جلد"
+        ],
+        "base": [
+          "مسك",
+          "صندل"
+        ]
       },
       "fragrantica_rating": 3.8,
       "category": "شرقي"
@@ -1882,9 +3942,20 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["ليمون", "كالابريان بيرغموت", "نيرولي"],
-        "middle": ["أعشاب بحرية", "ياسمين"],
-        "base": ["خشب الأرز", "مسك أبيض", "عنبر"]
+        "top": [
+          "ليمون",
+          "كالابريان بيرغموت",
+          "نيرولي"
+        ],
+        "middle": [
+          "أعشاب بحرية",
+          "ياسمين"
+        ],
+        "base": [
+          "خشب الأرز",
+          "مسك أبيض",
+          "عنبر"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "ديزاينر"
@@ -1896,9 +3967,19 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["برتقال صقلي", "ليمون", "كالابريان بيرغموت"],
-        "middle": ["فواكه بيضاء"],
-        "base": ["عنبر", "مسك أبيض", "فانيلا مدغشقر"]
+        "top": [
+          "برتقال صقلي",
+          "ليمون",
+          "كالابريان بيرغموت"
+        ],
+        "middle": [
+          "فواكه بيضاء"
+        ],
+        "base": [
+          "عنبر",
+          "مسك أبيض",
+          "فانيلا مدغشقر"
+        ]
       },
       "fragrantica_rating": 4.1,
       "category": "نيش"
@@ -1910,9 +3991,19 @@
       "size_ml": 90,
       "gender": "نسائي",
       "notes": {
-        "top": ["توت", "جريب فروت"],
-        "middle": ["ورد", "ياسمين"],
-        "base": ["مسك", "عنبر", "باتشولي"]
+        "top": [
+          "توت",
+          "جريب فروت"
+        ],
+        "middle": [
+          "ورد",
+          "ياسمين"
+        ],
+        "base": [
+          "مسك",
+          "عنبر",
+          "باتشولي"
+        ]
       },
       "fragrantica_rating": 4.0,
       "category": "شرقي"
@@ -1924,9 +4015,18 @@
       "size_ml": 100,
       "gender": "يونيسكس",
       "notes": {
-        "top": ["زعفران"],
-        "middle": ["عود", "ورد"],
-        "base": ["مسك", "عنبر", "فانيلا"]
+        "top": [
+          "زعفران"
+        ],
+        "middle": [
+          "عود",
+          "ورد"
+        ],
+        "base": [
+          "مسك",
+          "عنبر",
+          "فانيلا"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "شرقي"
@@ -1938,9 +4038,19 @@
       "size_ml": 100,
       "gender": "نسائي",
       "notes": {
-        "top": ["بيرغموت", "ورد"],
-        "middle": ["ياسمين", "فريزيا"],
-        "base": ["صندل", "مسك", "عنبر"]
+        "top": [
+          "بيرغموت",
+          "ورد"
+        ],
+        "middle": [
+          "ياسمين",
+          "فريزيا"
+        ],
+        "base": [
+          "صندل",
+          "مسك",
+          "عنبر"
+        ]
       },
       "fragrantica_rating": 4.1,
       "category": "نيش"
@@ -1952,9 +4062,17 @@
       "size_ml": 75,
       "gender": "نسائي",
       "notes": {
-        "top": ["ورد"],
-        "middle": ["عود", "ياسمين"],
-        "base": ["مسك", "عنبر"]
+        "top": [
+          "ورد"
+        ],
+        "middle": [
+          "عود",
+          "ياسمين"
+        ],
+        "base": [
+          "مسك",
+          "عنبر"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "شرقي"
@@ -1966,9 +4084,20 @@
       "size_ml": 125,
       "gender": "رجالي",
       "notes": {
-        "top": ["لوز", "بيرغموت", "هيليوتروب"],
-        "middle": ["ياسمين", "عنبر"],
-        "base": ["فانيلا", "صندل", "مسك"]
+        "top": [
+          "لوز",
+          "بيرغموت",
+          "هيليوتروب"
+        ],
+        "middle": [
+          "ياسمين",
+          "عنبر"
+        ],
+        "base": [
+          "فانيلا",
+          "صندل",
+          "مسك"
+        ]
       },
       "fragrantica_rating": 4.2,
       "category": "نيش"
@@ -1980,9 +4109,19 @@
       "size_ml": 100,
       "gender": "رجالي",
       "notes": {
-        "top": ["جريب فروت", "نعناع"],
-        "middle": ["سينامون", "ورد"],
-        "base": ["عنبر", "فانيلا", "جلد"]
+        "top": [
+          "جريب فروت",
+          "نعناع"
+        ],
+        "middle": [
+          "سينامون",
+          "ورد"
+        ],
+        "base": [
+          "عنبر",
+          "فانيلا",
+          "جلد"
+        ]
       },
       "fragrantica_rating": 3.9,
       "category": "شرقي"
