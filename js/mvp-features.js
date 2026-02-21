@@ -133,10 +133,14 @@
         const aud = p.audience || p.au || [];
         const tags = p.tags || [];
         const pf = p.perfect_for || p.features || [];
-        return (aud.includes('شباب') || aud.includes('أصدقاء')) &&
-          (tags.some(t => ['shisha', 'هادي', 'late_night', 'sports_bar'].includes(t)) ||
-           pf.some(f => ['سهرة', 'شيشة', 'رياضة', 'سهر'].includes(f)) ||
-           aud.includes('شباب'));
+        const cat = p.category || p.c || '';
+        // Must have شباب/أصدقاء audience
+        if (!aud.includes('شباب') && !aud.includes('أصدقاء')) return false;
+        // And must have nightlife/hangout signals
+        return tags.some(t => ['shisha', 'late_night', 'sports_bar', 'شيشة', 'بلياردو', 'ألعاب'].includes(t)) ||
+          pf.some(f => ['سهرة', 'شيشة', 'رياضة', 'سهر', 'أصدقاء', 'بلايستيشن', 'ألعاب'].includes(f)) ||
+          (cat === 'ترفيه') ||
+          (cat === 'مطعم' && (tags.includes('shisha') || pf.some(f => ['سهرة', 'سهر'].includes(f))));
       }
     },
     'عائلي': {
@@ -164,13 +168,13 @@
         const pf = p.perfect_for || p.features || [];
         const tags = p.tags || [];
         return aud.includes('رجال أعمال') ||
-          pf.some(f => ['اجتماعات', 'عمل', 'business', 'meeting'].includes(f)) ||
-          tags.some(t => ['business', 'meeting', 'work_friendly', 'co-working'].includes(t)) ||
+          pf.some(f => ['اجتماعات', 'عمل', 'business', 'meeting', 'أعمال'].includes(f)) ||
+          tags.some(t => ['business', 'meeting', 'work_friendly', 'co-working', 'أعمال', 'اجتماعات'].includes(t)) ||
           (p.category === 'كافيه' && pf.some(f => ['لابتوب', 'عمل', 'دراسة'].includes(f)));
       }
     },
     'قعدة-هادية': {
-      label: '🍃 قعدة هادية',
+      label: '☕ قعدة هادية',
       match: (p) => {
         const tags = p.tags || [];
         const pf = p.perfect_for || p.features || [];
@@ -722,7 +726,7 @@
       setTimeout(() => {
         const pageHeader = document.querySelector('.page-header h2');
         if (pageHeader) {
-          const text = pageHeader.textContent.replace(/🏘️|أفضل أماكن/g, '').trim();
+          const text = pageHeader.textContent.replace(/🏘️/g, '').replace(/أفضل أماكن/g, '').replace(/^حي\s+/g, '').trim();
           if (text) { injectTop10(text); return; }
         }
         // Fallback: try common mappings
