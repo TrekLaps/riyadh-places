@@ -1,0 +1,1101 @@
+[
+  {
+    "name_ar": "شاليهات سوار للمناسبات",
+    "name_en": "Sewar Events Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "قاعة فخمة للاحتفالات في حي الرمال شرق الرياض، طابقين مع قاعتين تستوعب 50-80 شخص وبوفيه مفتوح",
+    "lat": 24.79,
+    "lng": 46.84,
+    "neighborhood": "الرمال",
+    "tags": [
+      "مناسبات",
+      "أفراح",
+      "قاعات"
+    ],
+    "perfect_for": [
+      "حفلات زفاف",
+      "مناسبات كبيرة"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات المناسبات الفخمة",
+    "name_en": "Luxury Events Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات في حي القادسية مع قاعتين للرجال والنساء تستوعب 70 و90 شخصاً مع خدمات حفلات متكاملة",
+    "lat": 24.67,
+    "lng": 46.73,
+    "neighborhood": "القادسية",
+    "tags": [
+      "أفراح",
+      "مناسبات",
+      "فخمة"
+    ],
+    "perfect_for": [
+      "حفلات زفاف",
+      "مناسبات"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات ويسبر",
+    "name_en": "Whisper Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات أنيقة في حي نمار مع ثلاث قاعات (120، 80، 50 شخص) ومسابح وحدائق للحفلات في الهواء الطلق",
+    "lat": 24.56,
+    "lng": 46.62,
+    "neighborhood": "نمار",
+    "tags": [
+      "مناسبات",
+      "حدائق",
+      "مسابح"
+    ],
+    "perfect_for": [
+      "حفلات",
+      "مناسبات عائلية"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات المساء نمار",
+    "name_en": "Al Masaa Nimar Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات اقتصادية في حي نمار جنوب الرياض بتصميم عصري مع مسبح خارجي وحديقة وألعاب أطفال",
+    "lat": 24.55,
+    "lng": 46.63,
+    "neighborhood": "نمار",
+    "tags": [
+      "اقتصادي",
+      "مسبح",
+      "حديقة",
+      "أطفال"
+    ],
+    "perfect_for": [
+      "عائلات",
+      "ميزانية محدودة"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات الفارس",
+    "name_en": "Al Fares Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات بتصميم مستوحى من الخيام العربية في حي الرمال مع مجلسين منفصلين ومرافق شواء وحديقة واسعة",
+    "lat": 24.79,
+    "lng": 46.86,
+    "neighborhood": "الرمال",
+    "tags": [
+      "تراثي",
+      "شواء",
+      "حديقة"
+    ],
+    "perfect_for": [
+      "عائلات",
+      "تجمعات"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات هاي",
+    "name_en": "High Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات فاخرة في حي نمار بمساحة 250 متر مع غرف مكيفة ومطبخ مجهز ومسبح كبير",
+    "lat": 24.56,
+    "lng": 46.63,
+    "neighborhood": "نمار",
+    "tags": [
+      "فاخر",
+      "واسع",
+      "مسبح"
+    ],
+    "perfect_for": [
+      "عائلات كبيرة",
+      "مناسبات"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات الزهور",
+    "name_en": "Al Zuhoor Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات واسعة في حي ديراب على مساحة 2000 متر مربع مع مسبح خاص للأطفال ومساحات خضراء",
+    "lat": 24.52,
+    "lng": 46.59,
+    "neighborhood": "ديراب",
+    "tags": [
+      "واسع جداً",
+      "أطفال",
+      "مساحات خضراء"
+    ],
+    "perfect_for": [
+      "عائلات كبيرة",
+      "حفلات"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات جنوب الرياض 199",
+    "name_en": "South Riyadh 199 Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات رخيصة في حي عريض بسعر 199 ريال مع مجلس رجال ونساء ومسبح داخلي وإنترنت مجاني",
+    "lat": 24.53,
+    "lng": 46.7,
+    "neighborhood": "عريض",
+    "tags": [
+      "رخيص",
+      "اقتصادي",
+      "مسبح داخلي"
+    ],
+    "perfect_for": [
+      "ميزانية محدودة",
+      "شباب"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "منتجع وشاليهات الماسية",
+    "name_en": "Al Masiya Resort & Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "منتجع في حي الرمال شرق الرياض مع مسبح خارجي ومواقف مجانية ومنطقة شواء وغرف عائلية",
+    "lat": 24.8,
+    "lng": 46.87,
+    "neighborhood": "الرمال",
+    "tags": [
+      "منتجع",
+      "مسبح",
+      "شواء",
+      "عائلي"
+    ],
+    "perfect_for": [
+      "عائلات",
+      "إجازات"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليه ألماس قرطبة",
+    "name_en": "Almas Qurtuba Chalet",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليه فاخر في حي قرطبة مع خيارات غرفة أو غرفتين ومطبخ مجهز وإطلالات على المسبح",
+    "lat": 24.78,
+    "lng": 46.81,
+    "neighborhood": "قرطبة",
+    "tags": [
+      "فاخر",
+      "إطلالة مسبح",
+      "مجهز"
+    ],
+    "perfect_for": [
+      "أزواج",
+      "عائلات صغيرة"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليه فندقي سما",
+    "name_en": "Sama Hotel Chalet",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليه فندقي بخدمات فندقية متكاملة ومرافق فاخرة",
+    "lat": 24.74,
+    "lng": 46.76,
+    "neighborhood": "الرياض",
+    "tags": [
+      "فندقي",
+      "فاخر",
+      "خدمات متكاملة"
+    ],
+    "perfect_for": [
+      "رجال أعمال",
+      "أزواج"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات تولين",
+    "name_en": "Toulin Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات فندقية بتصميم عصري وخدمات فندقية راقية",
+    "lat": 24.73,
+    "lng": 46.77,
+    "neighborhood": "الرياض",
+    "tags": [
+      "فندقي",
+      "عصري",
+      "راقي"
+    ],
+    "perfect_for": [
+      "أزواج",
+      "إجازات"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات لمار بنبان",
+    "name_en": "Lamar Banban Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات مميزة شرق الرياض على بعد 34 كم من المدينة مع كل سبل الراحة والترفيه",
+    "lat": 24.87,
+    "lng": 46.97,
+    "neighborhood": "بنبان",
+    "tags": [
+      "بعيد عن المدينة",
+      "هادئ",
+      "مريح"
+    ],
+    "perfect_for": [
+      "هروب من المدينة",
+      "عائلات"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات لافانا",
+    "name_en": "Lavana Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات نظيفة ومنسقة في جنوب الرياض مناسبة للاسترخاء أو الاحتفال مع الأهل والأصدقاء",
+    "lat": 24.54,
+    "lng": 46.65,
+    "neighborhood": "جنوب الرياض",
+    "tags": [
+      "نظيف",
+      "منسق",
+      "مريح"
+    ],
+    "perfect_for": [
+      "عائلات",
+      "أصدقاء"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات لوسين",
+    "name_en": "Lucine Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات على الطريق الدائري في هجرة لبن جنوب الرياض مع جميع الخدمات وغرف فردية وعائلية",
+    "lat": 24.58,
+    "lng": 46.62,
+    "neighborhood": "هجرة لبن",
+    "tags": [
+      "طريق دائري",
+      "خدمات كاملة"
+    ],
+    "perfect_for": [
+      "عائلات",
+      "أفراد"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليه هدى",
+    "name_en": "Huda Chalet",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليه دورين مع ألعاب مائية حاصل على تقييمات عالية من الزوار",
+    "lat": 24.76,
+    "lng": 46.8,
+    "neighborhood": "الرياض",
+    "tags": [
+      "دورين",
+      "ألعاب مائية"
+    ],
+    "perfect_for": [
+      "عائلات",
+      "أطفال"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "شاليهات نخبة الشرق",
+    "name_en": "Nukhbat Al Sharq Chalets",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليهات مميزة شرق الرياض بتقييمات ممتازة وإطلالات رائعة",
+    "lat": 24.82,
+    "lng": 46.88,
+    "neighborhood": "شرق الرياض",
+    "tags": [
+      "تقييم عالي",
+      "إطلالات"
+    ],
+    "perfect_for": [
+      "عائلات",
+      "أزواج"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "كريستال شاليه العارض",
+    "name_en": "Crystal Chalet Al-Aredh",
+    "category": "chalets",
+    "category_ar": "شاليهات",
+    "description_ar": "شاليه كريستال العارض بإطلالات مميزة وتجهيزات فاخرة",
+    "lat": 24.88,
+    "lng": 46.72,
+    "neighborhood": "العارض",
+    "tags": [
+      "كريستال",
+      "فاخر",
+      "إطلالات"
+    ],
+    "perfect_for": [
+      "أزواج",
+      "مناسبات خاصة"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "متحف المشوح",
+    "name_en": "Al Mashwah Museum",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "description_ar": "متحف تراثي خاص يعرض أسلحة قديمة وأدوات طهي وزينة ومدفع تاريخي يعود لأكثر من 200 سنة ومطبوعات قديمة",
+    "lat": 24.7,
+    "lng": 46.78,
+    "neighborhood": "الأندلس",
+    "tags": [
+      "تراث",
+      "أسلحة قديمة",
+      "مجاني"
+    ],
+    "perfect_for": [
+      "محبي التراث",
+      "عائلات"
+    ],
+    "price_level": "free",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "متحف جار الله العضيب للتراث الشعبي",
+    "name_en": "Jarallah Al-Odaib Heritage Museum",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "description_ar": "متحف خاص يضم مقتنيات تراثية من مناطق سعودية مختلفة وصورة نادرة للحرم المكي عمرها 250 سنة وسيارات كلاسيكية من 1929",
+    "lat": 24.83,
+    "lng": 46.86,
+    "neighborhood": "الرمال",
+    "tags": [
+      "تراث شعبي",
+      "سيارات كلاسيكية",
+      "صور نادرة"
+    ],
+    "perfect_for": [
+      "محبي التراث",
+      "محبي السيارات"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مركز الملك عبد العزيز التاريخي",
+    "name_en": "King Abdulaziz Historical Center",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "description_ar": "مركز تأسس 1999 يضم قاعة تذكارية بصور نادرة وأسلحة وعملات وخرائط تاريخية ومقتنيات الملك الشخصية",
+    "lat": 24.63,
+    "lng": 46.71,
+    "neighborhood": "المربع",
+    "tags": [
+      "تاريخ",
+      "ملك عبدالعزيز",
+      "عملات"
+    ],
+    "perfect_for": [
+      "محبي التاريخ",
+      "تعليمي"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "متحف التراث ودار الفنون والحرف",
+    "name_en": "Heritage Museum & Arts House",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "description_ar": "متحف يعرض أعمال فنية ولوحات تشكيلية تعكس التراث الشعبي مع تدريبات على الحرف اليدوية كالنسيج",
+    "lat": 24.71,
+    "lng": 46.67,
+    "neighborhood": "النفل",
+    "tags": [
+      "حرف يدوية",
+      "فن تشكيلي",
+      "تدريب"
+    ],
+    "perfect_for": [
+      "محبي الفن",
+      "ورش عمل"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حي البجيري التاريخي",
+    "name_en": "Al Bujairi Heritage Quarter",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "description_ar": "منتزه تاريخي في الدرعية على مساحة 60 ألف متر مربع عمره 300 سنة مع مطاعم ومقاهي وإطلالات على وادي حنيفة",
+    "lat": 24.73,
+    "lng": 46.57,
+    "neighborhood": "الدرعية",
+    "tags": [
+      "تراث",
+      "مطاعم",
+      "إطلالات",
+      "وادي حنيفة"
+    ],
+    "perfect_for": [
+      "عائلات",
+      "سياح",
+      "تاريخ"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "قصر سلوى التاريخي",
+    "name_en": "Salwa Palace",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "description_ar": "قصر تاريخي في حي الطريف بالدرعية كان مقر حكم الدولة السعودية الأولى ويعد أكبر مبنى في الحي",
+    "lat": 24.73,
+    "lng": 46.57,
+    "neighborhood": "الدرعية - الطريف",
+    "tags": [
+      "قصر",
+      "تاريخ سعودي",
+      "يونسكو"
+    ],
+    "perfect_for": [
+      "محبي التاريخ",
+      "سياح"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مسجد الإمام محمد بن سعود",
+    "name_en": "Imam Mohammed bin Saud Mosque",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "description_ar": "مسجد تاريخي في حي الطريف بالدرعية يعود لعهد الدولة السعودية الأولى",
+    "lat": 24.73,
+    "lng": 46.57,
+    "neighborhood": "الدرعية - الطريف",
+    "tags": [
+      "مسجد تاريخي",
+      "تراث",
+      "دولة سعودية أولى"
+    ],
+    "perfect_for": [
+      "محبي التاريخ",
+      "زيارة دينية"
+    ],
+    "price_level": "free",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "متحف السعادة",
+    "name_en": "Happiness Museum",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "description_ar": "متحف تفاعلي بغرف ملونة وألعاب وتصوير مناسب لجميع الأعمار - تجربة فريدة ومختلفة",
+    "lat": 24.75,
+    "lng": 46.78,
+    "neighborhood": "بارك أفنيو",
+    "tags": [
+      "تفاعلي",
+      "تصوير",
+      "ألوان",
+      "ممتع"
+    ],
+    "perfect_for": [
+      "شباب",
+      "أطفال",
+      "تصوير"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "متحف سكة الحديد",
+    "name_en": "Railway Museum",
+    "category": "museums",
+    "category_ar": "متاحف",
+    "description_ar": "متحف يعرض تاريخ السكك الحديدية في المملكة العربية السعودية بالقرب من محطة الرياض القديمة",
+    "lat": 24.64,
+    "lng": 46.72,
+    "neighborhood": "وسط الرياض",
+    "tags": [
+      "سكك حديدية",
+      "تاريخ",
+      "نقل"
+    ],
+    "perfect_for": [
+      "محبي التاريخ",
+      "أطفال"
+    ],
+    "price_level": "free",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "وندر جاردن",
+    "name_en": "Wonder Garden",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "description_ar": "أول حديقة ترفيهية ذات طابع سحري مع طيور الفلامنجو والفراشات الملونة والأشجار الرائعة",
+    "lat": 24.74,
+    "lng": 46.66,
+    "neighborhood": "الرياض",
+    "tags": [
+      "سحري",
+      "فراشات",
+      "طيور",
+      "حديقة"
+    ],
+    "perfect_for": [
+      "أطفال",
+      "عائلات",
+      "طبيعة"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "ذا فينيو",
+    "name_en": "The Venue",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "description_ar": "وجهة مثالية للفعاليات الموسيقية والمسرحيات مجهزة بأحدث التقنيات السمعية والبصرية",
+    "lat": 24.76,
+    "lng": 46.65,
+    "neighborhood": "الرياض",
+    "tags": [
+      "حفلات",
+      "مسرح",
+      "موسيقى"
+    ],
+    "perfect_for": [
+      "محبي الموسيقى",
+      "ثقافة"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "ذا جروفز",
+    "name_en": "The Groves",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "description_ar": "منطقة مستحدثة في موسم الرياض تضم مجموعة من المطاعم والوجهات المميزة",
+    "lat": 24.75,
+    "lng": 46.67,
+    "neighborhood": "الرياض",
+    "tags": [
+      "مطاعم",
+      "وجهات مميزة",
+      "موسم الرياض"
+    ],
+    "perfect_for": [
+      "محبي الطعام",
+      "شباب"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "بوليفارد رن واي",
+    "name_en": "Boulevard Runway",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "description_ar": "تجربة فريدة بثلاث طائرات بوينج 777 ومدرج طيران حقيقي مع مطاعم داخل الطائرات وبرج مراقبة",
+    "lat": 24.78,
+    "lng": 46.62,
+    "neighborhood": "الرياض",
+    "tags": [
+      "طائرات",
+      "تجربة فريدة",
+      "مطاعم"
+    ],
+    "perfect_for": [
+      "محبي الطيران",
+      "تجارب مختلفة"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "استديوهات الحصن",
+    "name_en": "Al Hosn Studios",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "description_ar": "تجربة ما خلف الشاشة من كواليس تصوير ومونتاج وجرافيكس في موسم الرياض",
+    "lat": 24.68,
+    "lng": 46.7,
+    "neighborhood": "الرياض",
+    "tags": [
+      "سينما",
+      "كواليس",
+      "تصوير"
+    ],
+    "perfect_for": [
+      "محبي السينما",
+      "شباب"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "سوق الأولين",
+    "name_en": "Souq Al Awaleen",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "description_ar": "سوق شعبي يحاكي ثقافة السعودية من مختلف مناطقها مع حرف يدوية وأزياء تقليدية وتوابل",
+    "lat": 24.65,
+    "lng": 46.68,
+    "neighborhood": "الرياض",
+    "tags": [
+      "سوق شعبي",
+      "حرف يدوية",
+      "تراث"
+    ],
+    "perfect_for": [
+      "محبي التراث",
+      "سياح",
+      "تسوق"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "دنيس أوف أرابيا",
+    "name_en": "Dunes of Arabia",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "description_ar": "عالم يكشف عن الثقافة السعودية الأصيلة في موسم الرياض",
+    "lat": 24.7,
+    "lng": 46.65,
+    "neighborhood": "الرياض",
+    "tags": [
+      "ثقافة سعودية",
+      "تراث",
+      "تجربة"
+    ],
+    "perfect_for": [
+      "سياح",
+      "محبي الثقافة"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "المملكة أرينا",
+    "name_en": "Kingdom Arena",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "description_ar": "ساحة رياضية ضخمة لاستضافة البطولات والفعاليات الرياضية الكبرى",
+    "lat": 24.64,
+    "lng": 46.59,
+    "neighborhood": "الرياض",
+    "tags": [
+      "رياضة",
+      "بطولات",
+      "ملاكمة",
+      "تنس"
+    ],
+    "perfect_for": [
+      "محبي الرياضة",
+      "فعاليات رياضية"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "معرض الصقور والصيد السعودي الدولي",
+    "name_en": "Saudi Falcons & Hunting Exhibition",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "description_ar": "معرض دولي سنوي للصقور والصيد يقام في أكتوبر",
+    "lat": 24.66,
+    "lng": 46.63,
+    "neighborhood": "ملهم",
+    "tags": [
+      "صقور",
+      "صيد",
+      "معرض",
+      "تراث"
+    ],
+    "perfect_for": [
+      "محبي الصقور",
+      "صيادين"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "غرفة الهروب الرياض",
+    "name_en": "Escape Room Riyadh",
+    "category": "events",
+    "category_ar": "فعاليات",
+    "description_ar": "غرف مقفلة مع ألغاز وشفرات لحلها قبل انتهاء الوقت - تجربة مغامرة واقعية مثيرة",
+    "lat": 24.72,
+    "lng": 46.7,
+    "neighborhood": "الرياض",
+    "tags": [
+      "ألغاز",
+      "مغامرة",
+      "تشويق",
+      "أصدقاء"
+    ],
+    "perfect_for": [
+      "شباب",
+      "أصدقاء",
+      "مغامرة"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "منتزه وادي نمار",
+    "name_en": "Wadi Namar Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "منتزه ضخم بمناظر خلابة تجمع بين الجبال والشلالات والبحيرات الاصطناعية مع مساحات خضراء وأماكن شواء",
+    "lat": 24.56,
+    "lng": 46.64,
+    "neighborhood": "نمار",
+    "tags": [
+      "شلالات",
+      "بحيرات",
+      "مشي",
+      "شواء"
+    ],
+    "perfect_for": [
+      "عائلات",
+      "رياضة",
+      "طبيعة"
+    ],
+    "price_level": "free",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "منتزه سد العلب - وادي حنيفة",
+    "name_en": "Al Olab Dam Park - Wadi Hanifah",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "أحد 5 منتزهات داخل وادي حنيفة مع مسارات مشي وأماكن جلوس على ضفاف المياه",
+    "lat": 24.76,
+    "lng": 46.58,
+    "neighborhood": "وادي حنيفة",
+    "tags": [
+      "وادي حنيفة",
+      "سد",
+      "مشي",
+      "طبيعة"
+    ],
+    "perfect_for": [
+      "مشي",
+      "طبيعة",
+      "عائلات"
+    ],
+    "price_level": "free",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "بحيرة المصانع - وادي حنيفة",
+    "name_en": "Al Masani Lake - Wadi Hanifah",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "بحيرة طبيعية ضمن وادي حنيفة مع مسارات للمشي والجري ومطاعم ومقاهي قريبة",
+    "lat": 24.68,
+    "lng": 46.59,
+    "neighborhood": "وادي حنيفة",
+    "tags": [
+      "بحيرة",
+      "مشي",
+      "جري",
+      "مقاهي"
+    ],
+    "perfect_for": [
+      "رياضة",
+      "استرخاء",
+      "طبيعة"
+    ],
+    "price_level": "free",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "بحيرة الجزعة - وادي حنيفة",
+    "name_en": "Al Jaz'a Lake - Wadi Hanifah",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "بحيرة جميلة في الطرف الجنوبي من وادي حنيفة مع أجواء هادئة ومناظر طبيعية",
+    "lat": 24.6,
+    "lng": 46.6,
+    "neighborhood": "وادي حنيفة",
+    "tags": [
+      "بحيرة",
+      "هادئ",
+      "طبيعة"
+    ],
+    "perfect_for": [
+      "استرخاء",
+      "تصوير",
+      "طبيعة"
+    ],
+    "price_level": "free",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "السد الحجري - وادي حنيفة",
+    "name_en": "Stone Dam - Wadi Hanifah",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "سد حجري تاريخي في وادي حنيفة مع مناظر طبيعية خلابة ومسارات للمشي",
+    "lat": 24.72,
+    "lng": 46.58,
+    "neighborhood": "وادي حنيفة",
+    "tags": [
+      "سد",
+      "تاريخي",
+      "مشي"
+    ],
+    "perfect_for": [
+      "مشي",
+      "طبيعة",
+      "تاريخ"
+    ],
+    "price_level": "free",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "منتزه نوفا للحياة البرية",
+    "name_en": "Nofa Wildlife Park",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "منتزه حياة برية واسع يضم حيوانات ونباتات متنوعة مع جولات مشوقة لمشاهدة الحيوانات في بيئتها الطبيعية",
+    "lat": 24.34,
+    "lng": 46.3,
+    "neighborhood": "طريق مكة الجديد",
+    "tags": [
+      "حياة برية",
+      "حيوانات",
+      "طبيعة",
+      "جولات"
+    ],
+    "perfect_for": [
+      "عائلات",
+      "أطفال",
+      "محبي الحيوانات"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "البحيرة السرية",
+    "name_en": "The Secret Lake",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "واحة مذهلة تتوسط الصحراء على حدود الرياض بين جبال وصحراء - مكان مخفي اكتشفه المستكشفون",
+    "lat": 24.45,
+    "lng": 46.4,
+    "neighborhood": "أطراف الرياض",
+    "tags": [
+      "سرية",
+      "بحيرة",
+      "صحراء",
+      "مغامرة"
+    ],
+    "perfect_for": [
+      "مغامرة",
+      "تصوير",
+      "استكشاف"
+    ],
+    "price_level": "free",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "كوفي دهماء",
+    "name_en": "Dahmaa Coffee",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "كوفي فريد يجمع بين القهوة وورشة النجارة في الدرعية - تجربة حرفية مع رائحة البن والخشب",
+    "lat": 24.73,
+    "lng": 46.58,
+    "neighborhood": "الدرعية",
+    "tags": [
+      "كوفي",
+      "نجارة",
+      "حرفي",
+      "تجربة فريدة"
+    ],
+    "perfect_for": [
+      "محبي القهوة",
+      "تجارب جديدة"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "مخيم جلامبنغ طويق",
+    "name_en": "Tuwaiq Glamping",
+    "category": "nature",
+    "category_ar": "طبيعة",
+    "description_ar": "تخييم فاخر عند جبال طويق مع ممرات مليئة بالهواء النقي وسماء مليئة بالنجوم",
+    "lat": 24.5,
+    "lng": 46.25,
+    "neighborhood": "جبال طويق",
+    "tags": [
+      "تخييم فاخر",
+      "نجوم",
+      "جبال",
+      "هدوء"
+    ],
+    "perfect_for": [
+      "أزواج",
+      "مغامرة",
+      "استرخاء"
+    ],
+    "price_level": "$$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "بيور جيم",
+    "name_en": "PureGym",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "صالة رياضية حديثة بأسعار منخفضة تعمل 24/7 مع أجهزة عالية الجودة وحصص تدريبية",
+    "lat": 24.7,
+    "lng": 46.73,
+    "neighborhood": "الربوة",
+    "tags": [
+      "جيم",
+      "24 ساعة",
+      "رخيص"
+    ],
+    "perfect_for": [
+      "رياضيين",
+      "ميزانية محدودة"
+    ],
+    "price_level": "$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "جيمنيشن للسيدات",
+    "name_en": "GymNation Women",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "نادي رياضي نسائي حديث مع مساحات تدريب حصرية وأحدث المعدات وحصص جماعية متنوعة",
+    "lat": 24.71,
+    "lng": 46.69,
+    "neighborhood": "الرياض",
+    "tags": [
+      "نسائي",
+      "جيم",
+      "حصص جماعية"
+    ],
+    "perfect_for": [
+      "سيدات",
+      "لياقة بدنية"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "حديقة السويدي الترفيهية - ثقافات العالم",
+    "name_en": "Al Suwaidi Park - World Cultures",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "حديقة ترفيهية ضمن موسم الرياض تنقلك إلى 8 دول و8 ثقافات متنوعة شاملة طعام وعروض",
+    "lat": 24.6,
+    "lng": 46.66,
+    "neighborhood": "السويدي",
+    "tags": [
+      "ثقافات",
+      "طعام عالمي",
+      "عروض"
+    ],
+    "perfect_for": [
+      "عائلات",
+      "محبي الثقافات"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "معرض كريستيان ديور",
+    "name_en": "Christian Dior Exhibition",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "معرض ديور لأول مرة في السعودية يعرض أكثر من 500 ثوب كوتور من الأرشيف التاريخي",
+    "lat": 24.76,
+    "lng": 46.63,
+    "neighborhood": "الرياض",
+    "tags": [
+      "أزياء",
+      "ديور",
+      "معرض",
+      "فن"
+    ],
+    "perfect_for": [
+      "محبي الأزياء",
+      "فن"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  },
+  {
+    "name_ar": "الغابة السحرية - حديقة الحيوان",
+    "name_en": "Enchanted Forest - Riyadh Zoo",
+    "category": "entertainment",
+    "category_ar": "ترفيه",
+    "description_ar": "جزء محدث من حديقة الحيوانات يضم فصائل نادرة مثل الدببة واللاما والغزلان والنمور",
+    "lat": 24.64,
+    "lng": 46.72,
+    "neighborhood": "الملز",
+    "tags": [
+      "حيوانات نادرة",
+      "دببة",
+      "نمور",
+      "حديقة حيوان"
+    ],
+    "perfect_for": [
+      "أطفال",
+      "عائلات",
+      "محبي الحيوانات"
+    ],
+    "price_level": "$$",
+    "source": "web_search"
+  }
+]

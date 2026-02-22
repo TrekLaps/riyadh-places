@@ -128,17 +128,19 @@ def update_trending_status(places):
         old_trending = place.get('trending', False)
         
         # Simple trending algorithm
-        # In production, this would use search volume, social mentions, etc.
+        # Support both 'rating' and 'google_rating' fields
+        rating = place.get('rating') or place.get('google_rating', 0) or 0
         is_trending = (
-            place.get('rating', 0) >= 4.5 or
+            rating >= 4.5 or
             place.get('is_new', False)
         )
         
         if is_trending != old_trending:
             place['trending'] = is_trending
+            place_id = place.get('id', place.get('name_en', 'unknown'))
             changes.append({
-                "place_id": place['id'],
-                "name": place['name_en'],
+                "place_id": place_id,
+                "name": place.get('name_en', 'unknown'),
                 "change": "trending" if is_trending else "not_trending"
             })
     
