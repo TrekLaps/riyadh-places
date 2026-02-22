@@ -113,5 +113,60 @@
       "Nomas (4 curated Saudi set menus from SAR300)",
       "attaché (SAR125 iftar with live performances)"
     ]
+  },
+  {
+    "date": "2026-02-22",
+    "scan_time": "07:00 UTC",
+    "places_added": [],
+    "places_updated_to_trending": [
+      {
+        "name": "Beirut Khanum",
+        "name_ar": "بيروت خانم",
+        "why_trending": "Featured in TimeOut Riyadh top 24 iftars/suhoors list for Ramadan 2026. Lebanese iftar set menu for 4 persons with daily rotating mains. Also listed on Foursquare with 8.9/10 rating (344 reviews)",
+        "sources": [
+          "TimeOut Riyadh (Feb 19, 2026)",
+          "Foursquare",
+          "WelcomeSaudi"
+        ],
+        "cross_referenced": true
+      },
+      {
+        "name": "Baytoti",
+        "name_ar": "بيتوتي",
+        "why_trending": "Featured in TimeOut Riyadh top 24 iftars list — SAR89 Chinese iftar (soup, salad, appetiser, main, juice). Budget-friendly Ramadan option across multiple locations",
+        "sources": [
+          "TimeOut Riyadh (Feb 19, 2026)",
+          "Multiple Riyadh iftar roundups"
+        ],
+        "cross_referenced": true
+      }
+    ],
+    "notable_trends": [
+      "🇸🇦 Saudi Founding Day (Feb 22 — TODAY): Massive restaurant deals across Riyadh — Herfy 'بوكس التأسيس' SAR22, McDonald's double deals, pizza BOGO, local restaurants launching 'منيو التأسيس' with heritage dishes (كبسة، جريش، مرقوق)",
+      "🌙 Ramadan Week 1 (started Feb 19): Iftar/suhoor scene is THE dominant trend — every major publication running 20+ spot roundups",
+      "⛺ Ramadan Tents dominating: Bab Samhan (SAR550), Fairmont Al Thuraya (SAR495-595 with Michelin-star chef Nicolas Isnard), Four Seasons Hikayat (SAR592), Ritz-Carlton Al Thuraya (SAR425), JW Marriott JW Souk (SAR385), Kimpton KAFD Grand Table (SAR350-450), Mansard Noor Pavilion",
+      "📱 Delivery apps (Noon Food etc.) running Founding Day + Ramadan combo deals with BOGO and special discount codes",
+      "🎎 Haru (added last scan) still generating buzz as newest Japanese on Al Takhassousi",
+      "🍱 Kantami (added last scan) now offering first-ever Ramadan iftar/suhoor — 5-course set menu SAR129",
+      "🏆 Michelin Bib Gourmand winners (Fi Glbak, Tameesa — added last scan) still riding high on Michelin wave"
+    ],
+    "already_in_db_but_trending": [
+      "Bab Samhan (Ramadan tent, SAR550 — DestinationKSA + Forbes)",
+      "Fairmont Riyadh (Al Thuraya tent with Michelin chef, SAR495-595 — DestinationKSA + TimeOut)",
+      "Four Seasons (Hikayat Ramadan tent, SAR592 — TimeOut + DestinationKSA)",
+      "Ritz-Carlton (Al Thuraya tent, SAR425-500 — TimeOut)",
+      "JW Marriott (JW Souk tent, SAR385 + Fork & Pipe suhoor — TimeOut + DestinationKSA)",
+      "Kimpton KAFD (Grand Table SAR350-450, Elevated Suhoor SAR185-285 — DestinationKSA)",
+      "Beefbar (Ramadan menus from SAR110 — TimeOut)",
+      "Asian Hub (iftar SAR105 — TimeOut)",
+      "Beirut Khanum (iftar set menu — TimeOut)",
+      "Baytoti (SAR89 Chinese iftar — TimeOut)",
+      "Amar Restaurant (SAR300 iftar — TimeOut)",
+      "Café Boulud at Four Seasons (SAR350 iftar — TimeOut + DestinationKSA)",
+      "Haru (still buzzing — Platinumlist + FlickOnClick)",
+      "Kantami (Ramadan iftar SAR129 — DestinationKSA + Fact + Mid-East.info)",
+      "Solitaire Mall (Roof Garden night experience + ROKA pop-up — WhatsOnSaudiArabia)"
+    ],
+    "no_new_places_reason": "All cross-referenced trending places already exist in database. Ramadan Week 1 + Saudi Founding Day are driving buzz to existing establishments rather than new openings. No new restaurant openings identified this week beyond Haru and Kantami (added Feb 21)."
   }
 ]
