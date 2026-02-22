@@ -1,37 +1,33 @@
 {
-  "runs": [
-    {
-      "date": "2026-02-21T14:02:13.653329Z",
-      "enriched": 1098,
-      "changes": {
-        "price_range": 721,
-        "tags": 737,
-        "google_rating_fix": 0,
-        "price_range_fix": 3
-      },
-      "sources": [
-        "TripAdvisor (price levels for known chains)",
-        "Google Maps (ratings reference)",
-        "Wanderlog (restaurant research)",
-        "Category-based heuristics for tags",
-        "Known Saudi restaurant chain pricing"
-      ],
-      "summary": "Enriched 1098 places: 721 price_range, 737 tags"
-    },
-    {
-      "date": "2026-02-21T14:02:45.616454+00:00",
-      "enriched": 3750,
-      "changes": {
-        "price_range": 1451,
-        "tags": 297,
-        "is_free_marked": 1775
-      },
-      "sources": [
-        "Category-based price assignment (commercial categories)",
-        "Category-based tag enrichment for offices/banks/government/beauty/crafts",
-        "Free marking for mosques, parks, education, health, services"
-      ],
-      "summary": "Enriched 3750 more: price_range for commercial categories, all tags filled, free places marked"
-    }
-  ]
+  "last_run": "2026-02-22T14:02:57.298608Z",
+  "enriched_count": 156,
+  "fields_enriched": {
+    "price_range": 30,
+    "google_rating": 5,
+    "tags": 126,
+    "phone": 3
+  },
+  "total_places": 5402,
+  "remaining_gaps": {
+    "price_range": 638,
+    "google_rating": 1978,
+    "description_ar": 0,
+    "tags": 0,
+    "phone": 5122
+  },
+  "sources": [
+    "tripadvisor.com",
+    "timeoutriyadh.com",
+    "welcomesaudi.com",
+    "opentable.com",
+    "zumarestaurant.com",
+    "cipriani.com",
+    "najdvillage.com",
+    "foursquare.com",
+    "ksarestaurant.com",
+    "arabnews.com",
+    "thirdwave.sa",
+    "samadaliraqirestaurant.com"
+  ],
+  "notes": "Enriched 30 food places with verified price_range + ratings. Added category-based tags for tagless places. All data from web searches."
 }
