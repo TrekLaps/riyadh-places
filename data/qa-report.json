@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-02-22T05:05:17.712013Z",
+  "timestamp": "2026-02-22T13:05:01.293288+00:00",
   "total_places": 5402,
-  "previous_count": 6508,
+  "previous_count": 5402,
   "data_loss": false,
   "site_status": 200,
   "json_valid": true,
@@ -14,20 +14,14 @@
     "category_en": 335
   },
   "issues": [
-    "OUT_OF_BOUNDS: 14 places outside Riyadh area",
-    "  - Edge of the World Camp (24.85, 46.15)",
-    "  - Al Majma'ah Sports City Stadium (25.9, 45.34)",
-    "  - Rawdat Khoraim Nature Reserve (25.37, 47.27)",
-    "  - Edge of the World - Tuwaiq Escarpment (24.85, 46.15)",
-    "  - Musayqirah Trail (24.5, 45.7)"
+    "OUT_OF_BOUNDS: 14 places"
   ],
   "warnings": [
-    "Duplicate name_en: 33 names repeated. Top: [('Cafe Bateel', 2), ('Acoustic Cafe', 2), ('Beast Land', 2), ('Al Faisaliah Tower', 2), ('Hilton Riyadh Hotel & Residences', 2)]",
-    "Duplicate name_ar: 43 names repeated. Top: [('كافيه بتيل', 2), ('بيست لاند', 2), ('برج الفيصلية', 2), ('فندق فورسيزونز الرياض', 2), ('سوليتير مول', 2)]",
-    "NO_COORDINATES: 34 places missing lat/lng",
-    "EMPTY_NAME_EN: 775 places",
-    "EMPTY_CATEGORY_EN: 335 places"
+    "Duplicate name_en: 33",
+    "Duplicate name_ar: 43",
+    "NO_COORDINATES: 34",
+    "EMPTY_NAME_EN: 775",
+    "EMPTY_CATEGORY_EN: 335"
   ],
-  "status": "WARNING",
-  "data_loss_note": "Count drop from 6508→5402 is intentional: commit f737fb5 removed 1,442 irrelevant categories (mosques/education/health/offices/govt)"
+  "status": "WARNING"
 }
