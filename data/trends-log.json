@@ -168,5 +168,69 @@
       "Solitaire Mall (Roof Garden night experience + ROKA pop-up — WhatsOnSaudiArabia)"
     ],
     "no_new_places_reason": "All cross-referenced trending places already exist in database. Ramadan Week 1 + Saudi Founding Day are driving buzz to existing establishments rather than new openings. No new restaurant openings identified this week beyond Haru and Kantami (added Feb 21)."
+  },
+  {
+    "date": "2026-02-22",
+    "scan_time": "15:00 UTC",
+    "places_added": [
+      {
+        "name": "Sum+Things",
+        "name_ar": "سم ثنقز",
+        "why_trending": "Celebrity chef Izu Ani's dining + lifestyle retail concept at Bujairi Terrace, Diriyah. Now featured in DestinationKSA top Ramadan iftars list for 2026. Two curated iftar set menus. Unique concept combining food with design retail.",
+        "sources": [
+          "DestinationKSA iftars in Riyadh 2026",
+          "Diriyah.sa official dining page",
+          "TripAdvisor (4.2/5, #258 Riyadh)",
+          "The National UAE (chef profile)"
+        ],
+        "cross_referenced": true,
+        "tags": [
+          "trending",
+          "ramadan-iftar",
+          "diriyah",
+          "celebrity-chef"
+        ]
+      }
+    ],
+    "places_updated_to_trending": [
+      {
+        "name": "The Lighthouse",
+        "why": "Cross-referenced in DestinationKSA iftars list (SAR155, Solitaire Mall) — now 2+ sources confirming Ramadan trending"
+      },
+      {
+        "name": "Rowley's",
+        "why": "Cross-referenced DestinationKSA + Fact Magazines review (Feb 2026). First Ramadan in Riyadh at KAFD. Power Iftar SAR80, Tomahawk SAR350."
+      },
+      {
+        "name": "La Petite Maison (LPM)",
+        "why": "Cross-referenced TimeOut + DestinationKSA + Fact. Collab with Top Chef judge Mona Mosly (SAR275)"
+      },
+      {
+        "name": "Il Baretto",
+        "why": "Cross-referenced TimeOut + DestinationKSA. 'Luna of Ramadan' 4-course Italian iftar at KAFD (SAR184)"
+      }
+    ],
+    "notable_trends": [
+      "🇸🇦 Saudi Founding Day (Feb 22 — TODAY, happening NOW): Diriyah is THE destination — 5,481 decorative lights installed across Riyadh, 25,000 flags, laser shows on buildings. National Museum hosting special programs.",
+      "🌙 Ramadan Day 5: DestinationKSA published comprehensive iftar roundup confirming same top spots as TimeOut — strong cross-referencing validates our existing DB coverage",
+      "🍽️ Rowley's Power Iftar (SAR80) generating buzz as surprisingly affordable premium option at KAFD — cross-referenced DestinationKSA + Fact Magazines",
+      "👨‍🍳 LPM x Mona Mosly Ramadan collab trending — Top Chef Middle East judge bringing star power (SAR275) — 3 sources",
+      "🎭 Il Baretto 'Luna of Ramadan' at KAFD (SAR184) — Italian Ramadan twist getting attention across multiple outlets",
+      "☕ Founding Day cafe specials: 1/2 Million Cafe (special cups), Roasting House ('Founding Day Box'), Lilou Artisan Patisserie (heritage-inspired cakes) — all already in DB",
+      "✈️ Travel deals dominating: Flyadeal from SAR99, Flynas from SAR129 — people planning getaways",
+      "🏨 JW Marriott Founding Day staycation with suhoor + 20% off iftar"
+    ],
+    "already_in_db_but_trending": [
+      "The Lighthouse (SAR155 iftar at Solitaire — DestinationKSA)",
+      "Rowley's (Power Iftar SAR80, Tomahawk SAR350 — DestinationKSA + Fact)",
+      "LPM (Mona Mosly collab SAR275 — TimeOut + DestinationKSA + Fact)",
+      "Il Baretto (Luna of Ramadan SAR184 — TimeOut + DestinationKSA)",
+      "Ovun Bistro (Lebanese iftar SAR169 — DestinationKSA, already trending)",
+      "Outback Steakhouse (Founding Day BOGO SAR89 — TimeOut)",
+      "1/2 Million Cafe (Founding Day special cups — TimeOut)",
+      "Lilou Artisan Patisserie (heritage cakes — TimeOut)",
+      "Roasting House (Founding Day Box — TimeOut)",
+      "All previously tracked Ramadan spots (attaché, Beefbar, Beirut Khanum, Burj Al Hamam, Café Boulud, Kantami, Nomas)"
+    ]
   }
 ]
