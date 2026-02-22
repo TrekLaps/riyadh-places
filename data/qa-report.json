@@ -1,98 +1,33 @@
 {
-  "timestamp": "2026-02-21T13:04:00Z",
-  "total_places": 6508,
-  "backup_count": 4022,
+  "timestamp": "2026-02-22T05:05:17.712013Z",
+  "total_places": 5402,
+  "previous_count": 6508,
   "data_loss": false,
   "site_status": 200,
   "json_valid": true,
-  "duplicates": {
-    "name_ar_groups": 44,
-    "name_en_groups": 33,
-    "top_dupes_ar": {
-      "كافيه بتيل": 2,
-      "بيست لاند": 2,
-      "برج الفيصلية": 2,
-      "فندق فورسيزونز الرياض": 2,
-      "سوليتير مول": 2
-    },
-    "top_dupes_en": {
-      "Cafe Bateel": 2,
-      "Acoustic Cafe": 2,
-      "Beast Land": 2,
-      "Al Faisaliah Tower": 2,
-      "Hilton Riyadh Hotel & Residences": 2
-    }
+  "duplicates_en": 33,
+  "duplicates_ar": 43,
+  "out_of_bounds": 14,
+  "no_coordinates": 34,
+  "empty_fields": {
+    "name_en": 775,
+    "category_en": 335
   },
-  "coordinates": {
-    "no_coords": 34,
-    "out_of_bounds": 49,
-    "samples": [
-      {
-        "name": "Edge of the World Camp",
-        "lat": 24.85,
-        "lng": 46.15,
-        "id": "edge-of-world-camp"
-      },
-      {
-        "name": "Rawdhat Khoraim Camp",
-        "lat": 25.2,
-        "lng": 47.1,
-        "id": "rawdhat-khoraim-camp"
-      },
-      {
-        "name": "Dirab Golf & Resort Chalets",
-        "lat": 24.48,
-        "lng": 46.52,
-        "id": "dirab-golf-resort-chalets"
-      },
-      {
-        "name": "Red Sand Dunes Adventure",
-        "lat": 24.75,
-        "lng": 46.35,
-        "id": "red-sand-dunes-adventure"
-      },
-      {
-        "name": "Al Majma'ah Sports City Stadium",
-        "lat": 25.9,
-        "lng": 45.34,
-        "id": "al-majmaah-sports-city"
-      },
-      {
-        "name": "Nofa Riyadh - Radisson Collection Resort",
-        "lat": 24.45,
-        "lng": 46.45,
-        "id": "nofa-radisson-resort"
-      },
-      {
-        "name": "Al Hayer Lakes Park",
-        "lat": 24.42,
-        "lng": 46.75,
-        "id": "al-hayer-lakes"
-      },
-      {
-        "name": "Al Thumamah Sand Dunes",
-        "lat": 25.05,
-        "lng": 46.67,
-        "id": "al-thumamah-dunes"
-      },
-      {
-        "name": "Rawdat Khoraim Nature Reserve",
-        "lat": 25.37,
-        "lng": 47.27,
-        "id": "rawdat-khoraim"
-      },
-      {
-        "name": "Al Hair Lake (New)",
-        "lat": 24.35,
-        "lng": 46.77,
-        "id": "al-hair-lake-new"
-      }
-    ]
-  },
-  "empty_required": {
-    "count": 0,
-    "samples": []
-  },
+  "issues": [
+    "OUT_OF_BOUNDS: 14 places outside Riyadh area",
+    "  - Edge of the World Camp (24.85, 46.15)",
+    "  - Al Majma'ah Sports City Stadium (25.9, 45.34)",
+    "  - Rawdat Khoraim Nature Reserve (25.37, 47.27)",
+    "  - Edge of the World - Tuwaiq Escarpment (24.85, 46.15)",
+    "  - Musayqirah Trail (24.5, 45.7)"
+  ],
+  "warnings": [
+    "Duplicate name_en: 33 names repeated. Top: [('Cafe Bateel', 2), ('Acoustic Cafe', 2), ('Beast Land', 2), ('Al Faisaliah Tower', 2), ('Hilton Riyadh Hotel & Residences', 2)]",
+    "Duplicate name_ar: 43 names repeated. Top: [('كافيه بتيل', 2), ('بيست لاند', 2), ('برج الفيصلية', 2), ('فندق فورسيزونز الرياض', 2), ('سوليتير مول', 2)]",
+    "NO_COORDINATES: 34 places missing lat/lng",
+    "EMPTY_NAME_EN: 775 places",
+    "EMPTY_CATEGORY_EN: 335 places"
+  ],
   "status": "WARNING",
-  "critical": false
+  "data_loss_note": "Count drop from 6508→5402 is intentional: commit f737fb5 removed 1,442 irrelevant categories (mosques/education/health/offices/govt)"
 }
